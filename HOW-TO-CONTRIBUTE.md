@@ -42,4 +42,4 @@ Este repositório contém diversas [branchs](HOW-TO-GIT.md#terminologias), cada 
 
 ### Como Começar a traduzir
 
-Você deve primeiro criar um [fork](HOW-TO-GIT.md#terminologias) do projeto e dai começar a traduzir neste seu fork, assim que terminar, você pode enviar suas alterações atravez de [commits](HOW-TO-GIT.md#terminologias) e
+Você deve primeiro criar um [fork](HOW-TO-GIT.md#terminologias) do projeto e dai começar a traduzir neste seu fork, assim que terminar, você pode enviar suas alterações atravez de [commits](HOW-TO-GIT.md#terminologias) e assim que tudo estiver organizado, criando um Pull Request nesse repositório.
