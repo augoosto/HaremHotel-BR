@@ -1,8 +1,7 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate pt_br strings:
+translate br strings:
 
-    # game/scripts/wallpaper.rpy:243
+    # game/scripts/wallpaper.rpy:242
     old "Would you like to set this image as your wallpaper?"
-    new ""
-
+    new "Gostaria de definir esta imagem como seu wallpaper?"

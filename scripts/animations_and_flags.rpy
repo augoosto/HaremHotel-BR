@@ -1,32 +1,31 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate pt_br strings:
+translate br strings:
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sun"
-    new ""
+    new "Dom"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Mon"
-    new ""
+    new "Seg"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Tue"
-    new ""
+    new "Ter"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Wed"
-    new ""
+    new "Qua"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Thu"
-    new ""
+    new "Qui"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Fri"
-    new ""
+    new "Sex"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sat"
-    new ""
-
+    new "Sab"

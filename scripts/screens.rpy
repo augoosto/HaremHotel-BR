@@ -1,632 +1,655 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate pt_br strings:
+translate br strings:
 
     # game/scripts/screens.rpy:317
     old "History"
-    new ""
+    new "Histórico"
 
     # game/scripts/screens.rpy:318
     old "Skip"
-    new ""
+    new "Pular"
 
     # game/scripts/screens.rpy:319
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/scripts/screens.rpy:321
     old "Q.Save"
-    new ""
+    new "S.Rápido"
 
     # game/scripts/screens.rpy:322
     old "Q.Load"
-    new ""
+    new "C.Rápido"
 
     # game/scripts/screens.rpy:323
     old "Prefs"
-    new ""
+    new "Opções"
 
     # game/scripts/screens.rpy:726
     old "{size=+5}Save{/size}"
-    new ""
+    new "{size=+5}Salvar{/size}"
 
     # game/scripts/screens.rpy:730
     old "{size=+5}Load{/size}"
-    new ""
+    new "{size=+5}Carregar{/size}"
 
     # game/scripts/screens.rpy:735
     old "{size=+5}{color=#8C8C8C}Save{/color}{/size}"
-    new ""
+    new "{size=+5}{color=#8C8C8C}Salvar{/color}{/size}"
 
     # game/scripts/screens.rpy:739
     old "{size=+5}{color=#8C8C8C}Load{/color}{/size}"
-    new ""
+    new "{size=+5}{color=#8C8C8C}Carregar{/color}{/size}"
 
     # game/scripts/screens.rpy:744
     old "{size=+5}Options{/size}"
-    new ""
+    new "{size=+5}Opções{/size}"
 
     # game/scripts/screens.rpy:749
     old "{size=+5}Info{/size}"
-    new ""
+    new "{size=+5}Info{/size}"
 
     # game/scripts/screens.rpy:754
     old "{size=+5}Main Menu{/size}"
-    new ""
+    new "{size=+5}Menu Principal{/size}"
 
     # game/scripts/screens.rpy:761
     old "{size=+5}CHEAT MODE{/size}"
-    new ""
+    new "{size=+5}Habilitar Códigos{/size}"
 
     # game/scripts/screens.rpy:768
     old "{size=+5}Map{/size}"
-    new ""
+    new "{size=+5}Mapa{/size}"
 
     # game/scripts/screens.rpy:773
     old "{size=+5}End Replay{/size}"
-    new ""
+    new "{size=+5}Finalizar Replay{/size}"
 
     # game/scripts/screens.rpy:778
     old "{size=+5}Gallery{/size}"
-    new ""
+    new "{size=+5}Galeria{/size}"
 
     # game/scripts/screens.rpy:783
     old "{size=+5}PATREON{/size}"
-    new ""
+    new "{size=+5}PATREON{/size}"
 
     # game/scripts/screens.rpy:789
     old "{size=+5}Quit{/size}"
-    new ""
+    new "{size=+5}Sair{/size}"
 
     # game/scripts/screens.rpy:798
     old "{size=+5}Return{/size}"
-    new ""
+    new "{size=+5}Retornar{/size}"
 
-    # game/scripts/screens.rpy:2369
+    # game/scripts/screens.rpy:2364
     old "{color=#FF6B2B}Patreon{/color}"
-    new ""
+    new "{color=#FF6B2B}Patreon{/color}"
+
+    # game/scripts/screens.rpy:2371
+    old " "
+    new " "
+
+    # game/scripts/screens.rpy:2372
+    old "Patreon helps me produce more content, and it shows me there is demand for more from this game. I would love to make these games for as long as I can, but that can only happen if I'm able to make a living."
+    new "Patreon me ajuda a produzir mais conteúdo, e isso mostra que há demanda para mais desse jogo. Eu iria amar fazer esse jogo por muito tempo, mas isso só acontecerá caso eu consiga fazer disso meu ganha pão."
+
+    # game/scripts/screens.rpy:2374
+    old "If at any point in time you enjoy this game, please consider supporting me so I can continue to offer these games for free to everyone."
+    new "Em qualquer momento que jogar o jogo e gostar, aproveite para me ajudar, para que eu continue a oferecer esse jogo gratuitamente para todos!."
 
     # game/scripts/screens.rpy:2376
-    old " "
-    new ""
-
-    # game/scripts/screens.rpy:2377
-    old "Patreon helps me produce more content, and it shows me there is demand for more from this game. I would love to make these games for as long as I can, but that can only happen if I'm able to make a living."
-    new ""
-
-    # game/scripts/screens.rpy:2379
-    old "If at any point in time you enjoy this game, please consider supporting me so I can continue to offer these games for free to everyone."
-    new ""
-
-    # game/scripts/screens.rpy:2381
     old "Pledging to me grants you access to special stuff like Alpha and Beta builds before the next version officially launches, Patron Only polls, sneak peeks at future content, and even custom art made just for you!"
-    new ""
+    new "Me ajudando, terá acesso a conteúdos especiais, como acesso a Alpha e a Beta antes da próxima versão oficial ser lançada, Cargos únicos do Patreon, cenas exclusivas de conteúdos futuros e artes customizadas feitas apenas para vocês!"
 
-    # game/scripts/screens.rpy:2383
+    # game/scripts/screens.rpy:2378
     old "{color=#FF6B2B}Patreon: {a=https://www.patreon.com/Runey}Here{/a}{/color}"
-    new ""
+    new "{color=#FF6B2B}Patreon: {a=https://www.patreon.com/Runey}Here{/a}{/color}"
 
-    # game/scripts/screens.rpy:2393
+    # game/scripts/screens.rpy:2388
     old "Info"
-    new ""
+    new "Info"
+
+    # game/scripts/screens.rpy:2395
+    old "Version [config.version!t]\n"
+    new "Versão [config.version!t]\n"
+
+    # game/scripts/screens.rpy:2397
+    old "Made by Runey"
+    new "Feito por Runey"
+
+    # game/scripts/screens.rpy:2398
+    old "--------------------"
+    new "--------------------"
 
     # game/scripts/screens.rpy:2400
-    old "Version [config.version!t]\n"
-    new ""
+    old "If you bought this you wasted money. This game will always be free but donations are appreciated!"
+    new "Se você comprou o jogo, apenas desperdiçou seu dinheiro. Esse jogo será sempre gratuito, mas doações serão bem vindas!"
 
     # game/scripts/screens.rpy:2402
-    old "Made by Runey"
-    new ""
-
-    # game/scripts/screens.rpy:2403
-    old "--------------------"
-    new ""
-
-    # game/scripts/screens.rpy:2405
-    old "If you bought this you wasted money. This game will always be free but donations are appreciated!"
-    new ""
-
-    # game/scripts/screens.rpy:2407
     old "The only official download links will be on Runey's Patreon, itch.io and Discord. Downloading this anywhere else may be risky."
-    new ""
+    new "O único lugar para Download oficial será no Patreon do Runey, itch,io e Discord. Baixando o jogo em qualquer outro lugar pode ser perigoso."
 
-    # game/scripts/screens.rpy:2409
+    # game/scripts/screens.rpy:2404
     old "Need help? Want some advice? Find a bug? Hop in the Discord!"
-    new ""
+    new "Precisando de ajuda? Procura conselhos? Encontrou Bugs? Entre em nosso Discord!"
+
+    # game/scripts/screens.rpy:2406
+    old "Discord: {a=https://www.discord.gg/7tSHZNp}Here{/a} or at Patreon.com/Runey"
+    new "Discord: {a=https://www.discord.gg/7tSHZNp}aqui{/a} ou em Patreon.com/Runey"
+
+    # game/scripts/screens.rpy:2410
+    old "BGM 'Easy Lemon': {a=https://incompetech.com/music/royalty-free/music.html}Here{/a}"
+    new "BGM 'Easy Lemon': {a=https://incompetech.com/music/royalty-free/music.html}Here{/a}"
 
     # game/scripts/screens.rpy:2411
-    old "Discord: {a=https://www.discord.gg/7tSHZNp}Here{/a} or at Patreon.com/Runey"
-    new ""
+    old "'Surreal Forest' and 'Holographic' by {a=https://www.youtube.com/channel/UCAerMM15hr8nVRHJqQ1SlYw}Meydan{/a}"
+    new "'Surreal Forest' and 'Holographic' by {a=https://www.youtube.com/channel/UCAerMM15hr8nVRHJqQ1SlYw}Meydan{/a}"
+
+    # game/scripts/screens.rpy:2412
+    old "'November' on {a=https://www.bensound.com}Bensound{/a}"
+    new "'November' on {a=https://www.bensound.com}Bensound{/a}"
+
+    # game/scripts/screens.rpy:2413
+    old "Bar Music: {a=http://freemusicarchive.org/genre/Lounge/}Here{/a}"
+    new "Bar Music: {a=http://freemusicarchive.org/genre/Lounge/}Here{/a}"
+
+    # game/scripts/screens.rpy:2414
+    old "Chill City Radio: Track 1 'Imagining' {a=https://www.youtube.com/watch?v=MzHFhKm_R9w}Here{/a},  Track 2 'Missing You' {a=https://www.youtube.com/watch?v=uZ335-3tdKU}Here{/a}, Track 3 'Monday' {a=https://www.youtube.com/watch?v=8332wBtNAYs}Here{/a}, Track 4 'lofi' {a=https://www.youtube.com/watch?v=8RMD5SwRLYQ}Here{/a}, Track 5 'Lofi' {a=https://www.youtube.com/watch?v=F0WryljuKjI}Here{/a}"
+    new "Chill City Radio: Track 1 'Imagining' {a=https://www.youtube.com/watch?v=MzHFhKm_R9w}Here{/a},  Track 2 'Missing You' {a=https://www.youtube.com/watch?v=uZ335-3tdKU}Here{/a}, Track 3 'Monday' {a=https://www.youtube.com/watch?v=8332wBtNAYs}Here{/a}, Track 4 'lofi' {a=https://www.youtube.com/watch?v=8RMD5SwRLYQ}Here{/a}, Track 5 'Lofi' {a=https://www.youtube.com/watch?v=F0WryljuKjI}Here{/a}"
 
     # game/scripts/screens.rpy:2415
-    old "BGM 'Easy Lemon': {a=https://incompetech.com/music/royalty-free/music.html}Here{/a}"
-    new ""
-
-    # game/scripts/screens.rpy:2416
-    old "'Surreal Forest' and 'Holographic' by {a=https://www.youtube.com/channel/UCAerMM15hr8nVRHJqQ1SlYw}Meydan{/a}"
-    new ""
+    old "Jazzy Jingles Radio: Track 1 'Enjoy Every Moment' {a=https://www.youtube.com/watch?v=QlWmcseHyA8}Here{/a}, Track 2 'A Night Alone' {a=https://www.youtube.com/watch?v=bVFuV7NPuJ8}Here{/a}, Track 3 'Imagination' {a=https://www.youtube.com/watch?v=Vg0o_MbV310}Here{/a}"
+    new "Jazzy Jingles Radio: Track 1 'Enjoy Every Moment' {a=https://www.youtube.com/watch?v=QlWmcseHyA8}Here{/a}, Track 2 'A Night Alone' {a=https://www.youtube.com/watch?v=bVFuV7NPuJ8}Here{/a}, Track 3 'Imagination' {a=https://www.youtube.com/watch?v=Vg0o_MbV310}Here{/a}"
 
     # game/scripts/screens.rpy:2417
-    old "'November' on {a=https://www.bensound.com}Bensound{/a}"
-    new ""
+    old "Legal:"
+    new "Informação Legal:"
 
     # game/scripts/screens.rpy:2418
-    old "Bar Music: {a=http://freemusicarchive.org/genre/Lounge/}Here{/a}"
-    new ""
+    old "Harem Hotel is the intellectual property of Runey (https://www.patreon.com/Runey)."
+    new "Harem Hotel é uma propriedade intelectual de Runey (https://www.patreon.com/Runey)."
 
     # game/scripts/screens.rpy:2419
-    old "Chill City Radio: Track 1 'Imagining' {a=https://www.youtube.com/watch?v=MzHFhKm_R9w}Here{/a},  Track 2 'Missing You' {a=https://www.youtube.com/watch?v=uZ335-3tdKU}Here{/a}, Track 3 'Monday' {a=https://www.youtube.com/watch?v=8332wBtNAYs}Here{/a}, Track 4 'lofi' {a=https://www.youtube.com/watch?v=8RMD5SwRLYQ}Here{/a}, Track 5 'Lofi' {a=https://www.youtube.com/watch?v=F0WryljuKjI}Here{/a}"
-    new ""
+    old "If you wish to get into contact, please message Runey on Discord or Patreon."
+    new "Se quiser entrar em contato, por favor envie uma mensagem ao Runey pelo Discord ou pelo Patreon."
 
-    # game/scripts/screens.rpy:2420
-    old "Jazzy Jingles Radio: Track 1 'Enjoy Every Moment' {a=https://www.youtube.com/watch?v=QlWmcseHyA8}Here{/a}, Track 2 'A Night Alone' {a=https://www.youtube.com/watch?v=bVFuV7NPuJ8}Here{/a}, Track 3 'Imagination' {a=https://www.youtube.com/watch?v=Vg0o_MbV310}Here{/a}"
-    new ""
+    # game/scripts/screens.rpy:2421
+    old "(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials."
+    new "(a) Será permitido o compartilhamento desse material desde que seja sem fins comerciais, desde que essa declaração esteja no material.."
 
     # game/scripts/screens.rpy:2422
-    old "Legal:"
-    new ""
+    old "(b) You may NOT sell these files or modify these files to sell, either grouped together or separately. Harem Hotel has been made free for all to enjoy."
+    new "(b) Você NÃO pode vender esses arquivos ou modificá-los, tanto juntos quanto separados. Harem Hotel foi feito gratuitamente para que todos possam aproveitar."
 
     # game/scripts/screens.rpy:2423
-    old "Harem Hotel is the intellectual property of Runey (https://www.patreon.com/Runey)."
-    new ""
+    old "(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files."
+    new "(c) Você NÃO pode remover ou alter os créditos do criador como é mostrado aqui e nos arquivos do jogo."
 
     # game/scripts/screens.rpy:2424
-    old "If you wish to get into contact, please message Runey on Discord or Patreon."
-    new ""
+    old "(d) You may redistribute these files (Harem Hotel) as Harem Hotel for free on your website, or where ever you'd like. But please give credit to the developer (Runey)."
+    new "(d) Você pode distribuir esses arquivos (Harem Hotel) como Harem Hotel de graça em seu site, ou onde quiserem. Mas por favor, dê os devidos créditos ao criador (Runey)."
 
-    # game/scripts/screens.rpy:2426
-    old "(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials."
-    new ""
+    # game/scripts/screens.rpy:2425
+    old "(e) You may modify these files to your liking to create mods or overhauls so long as the original game and it's developer (Runey) are recognized either in the credits, or is blatantly obvious."
+    new "(e) Você pode modificar esses arquivos como quiser com mods desde que o jogo original e seu desenvolvedor (Runey) seja reconhecido nos créditos como é óbvio."
 
     # game/scripts/screens.rpy:2427
-    old "(b) You may NOT sell these files or modify these files to sell, either grouped together or separately. Harem Hotel has been made free for all to enjoy."
-    new ""
-
-    # game/scripts/screens.rpy:2428
-    old "(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files."
-    new ""
-
-    # game/scripts/screens.rpy:2429
-    old "(d) You may redistribute these files (Harem Hotel) as Harem Hotel for free on your website, or where ever you'd like. But please give credit to the developer (Runey)."
-    new ""
-
-    # game/scripts/screens.rpy:2430
-    old "(e) You may modify these files to your liking to create mods or overhauls so long as the original game and it's developer (Runey) are recognized either in the credits, or is blatantly obvious."
-    new ""
-
-    # game/scripts/screens.rpy:2432
     old "Models made in Honey Select by Illusion"
-    new ""
+    new "Modelos foram feitos no Honey Select por Illusion"
 
-    # game/scripts/screens.rpy:2438
+    # game/scripts/screens.rpy:2433
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Criado com {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    # game/scripts/screens.rpy:3704
+    # game/scripts/screens.rpy:3294
     old "Visit Website"
-    new ""
+    new "Visite o Website"
 
-    # game/scripts/screens.rpy:3836
+    # game/scripts/screens.rpy:3426
     old "Kitchen"
-    new ""
+    new "Cozinha"
 
-    # game/scripts/screens.rpy:3856
+    # game/scripts/screens.rpy:3446
     old "Spring"
-    new ""
+    new "Primavera"
 
-    # game/scripts/screens.rpy:3903
+    # game/scripts/screens.rpy:3493
     old "Hide"
-    new ""
+    new "Ocultar"
 
-    # game/scripts/screens.rpy:7252
+    # game/scripts/screens.rpy:6842
     old "Kali's Stats"
-    new ""
+    new "Status de Kali"
 
-    # game/scripts/screens.rpy:7253
+    # game/scripts/screens.rpy:6843
     old "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
-    new ""
+    new "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 
-    # game/scripts/screens.rpy:7255
+    # game/scripts/screens.rpy:6845
     old "Friendship: [kali_friendship]"
-    new ""
+    new "Amizade: [kali_friendship]"
 
-    # game/scripts/screens.rpy:7256
+    # game/scripts/screens.rpy:6846
     old "Sluttiness: [kali_slut]"
-    new ""
+    new "Safadeza: [kali_slut]"
 
-    # game/scripts/screens.rpy:7257
+    # game/scripts/screens.rpy:6847
     old "Affection: [kali_aff]"
-    new ""
+    new "Afeição: [kali_aff]"
 
-    # game/scripts/screens.rpy:7259
+    # game/scripts/screens.rpy:6849
     old "Blowjobs: [kali_blowjobs]"
-    new ""
+    new "Boquetes: [kali_blowjobs]"
 
-    # game/scripts/screens.rpy:7260
+    # game/scripts/screens.rpy:6850
     old "Vaginal Sex: [kali_sex]"
-    new ""
+    new "Sexo Vaginal: [kali_sex]"
 
-    # game/scripts/screens.rpy:7261
+    # game/scripts/screens.rpy:6851
     old "Boobjobs: [kali_boobjobs]"
-    new ""
+    new "Espanholas: [kali_boobjobs]"
 
-    # game/scripts/screens.rpy:7275
+    # game/scripts/screens.rpy:6865
     old "Ashley's Stats"
-    new ""
+    new "Status de Ashley"
 
-    # game/scripts/screens.rpy:7278
+    # game/scripts/screens.rpy:6868
     old "Friendship: [ash_friendship]"
-    new ""
+    new "Amizade: [ash_friendship]"
 
-    # game/scripts/screens.rpy:7279
+    # game/scripts/screens.rpy:6869
     old "Sluttiness: [ash_slut]"
-    new ""
+    new "Safadeza: [ash_slut]"
 
-    # game/scripts/screens.rpy:7280
+    # game/scripts/screens.rpy:6870
     old "Affection: [ash_aff]"
-    new ""
+    new "Afeição: [ash_aff]"
 
-    # game/scripts/screens.rpy:7282
+    # game/scripts/screens.rpy:6872
     old "Blowjobs: [ash_blowjobs]"
-    new ""
+    new "Boquetes: [ash_blowjobs]"
 
-    # game/scripts/screens.rpy:7283
+    # game/scripts/screens.rpy:6873
     old "Thighjobs: [ash_thigh]"
-    new ""
+    new "Thighjobs: [ash_thigh]"
 
-    # game/scripts/screens.rpy:7284
+    # game/scripts/screens.rpy:6874
     old "Vaginal Sex: [ash_sex]"
-    new ""
+    new "Sexo Vaginal: [ash_sex]"
 
-    # game/scripts/screens.rpy:7285
+    # game/scripts/screens.rpy:6875
     old "Anal Sex: [ash_anal1]"
-    new ""
+    new "Sexo Anal: [ash_anal1]"
 
-    # game/scripts/screens.rpy:7297
+    # game/scripts/screens.rpy:6887
     old "Lin's Stats"
-    new ""
+    new "Status de Lin"
 
-    # game/scripts/screens.rpy:7300
+    # game/scripts/screens.rpy:6890
     old "Friendship: [lin_friendship]"
-    new ""
+    new "Amizade: [lin_friendship]"
 
-    # game/scripts/screens.rpy:7301
+    # game/scripts/screens.rpy:6891
     old "Obedience: [lin_ob]"
-    new ""
+    new "Obediência: [lin_ob]"
 
-    # game/scripts/screens.rpy:7302
+    # game/scripts/screens.rpy:6892
     old "Lust: [linlust]"
-    new ""
+    new "Tesão: [linlust]"
 
-    # game/scripts/screens.rpy:7304
+    # game/scripts/screens.rpy:6894
     old "Handjobs: [lin_hj]"
-    new ""
+    new "Punhetas: [lin_hj]"
 
-    # game/scripts/screens.rpy:7305
+    # game/scripts/screens.rpy:6895
     old "Blowjobs: [lin_blowjobs]"
-    new ""
+    new "Boquetes: [lin_blowjobs]"
 
-    # game/scripts/screens.rpy:7306
+    # game/scripts/screens.rpy:6896
     old "Vaginal Sex: [lin_sex]"
-    new ""
+    new "Sexo Vaginal: [lin_sex]"
 
-    # game/scripts/screens.rpy:7307
+    # game/scripts/screens.rpy:6897
     old "Anal Sex: [lin_anal]"
-    new ""
+    new "Sexo Anal: [lin_anal]"
 
-    # game/scripts/screens.rpy:7319
+    # game/scripts/screens.rpy:6909
     old "Maria's Stats"
-    new ""
+    new "Status de Maria"
 
-    # game/scripts/screens.rpy:7322
+    # game/scripts/screens.rpy:6912
     old "Friendship: [mar_friendship]"
-    new ""
+    new "Amizade: [mar_friendship]"
 
-    # game/scripts/screens.rpy:7323
+    # game/scripts/screens.rpy:6913
     old "Sluttiness: [mar_slut]"
-    new ""
+    new "Safadeza: [mar_slut]"
 
-    # game/scripts/screens.rpy:7324
+    # game/scripts/screens.rpy:6914
     old "Affection: [mar_aff]"
-    new ""
+    new "Afeição: [mar_aff]"
 
-    # game/scripts/screens.rpy:7326
+    # game/scripts/screens.rpy:6916
     old "Blowjobs: [mar_blowjobs]"
-    new ""
+    new "Boquetes: [mar_blowjobs]"
 
-    # game/scripts/screens.rpy:7327
+    # game/scripts/screens.rpy:6917
     old "Vaginal Sex: [mar_sex]"
-    new ""
+    new "Sexo Vaginal: [mar_sex]"
 
-    # game/scripts/screens.rpy:7341
+    # game/scripts/screens.rpy:6931
     old "[botname]'s Stats"
-    new ""
+    new "Status de [botname]"
 
-    # game/scripts/screens.rpy:7344
+    # game/scripts/screens.rpy:6934
     old "Friendship: [bot_friendship]"
-    new ""
+    new "Amizade: [bot_friendship]"
 
-    # game/scripts/screens.rpy:7345
+    # game/scripts/screens.rpy:6935
     old "Obedience: [bot_ob]"
-    new ""
+    new "Obediência: [bot_ob]"
 
-    # game/scripts/screens.rpy:7346
+    # game/scripts/screens.rpy:6936
     old "Upgrades: [bot_parts]/3"
-    new ""
+    new "Atualizações: [bot_parts]/3"
 
-    # game/scripts/screens.rpy:7348
+    # game/scripts/screens.rpy:6938
     old "Blowjobs: 0"
-    new ""
+    new "Boquetes: 0"
 
-    # game/scripts/screens.rpy:7349
+    # game/scripts/screens.rpy:6939
     old "Vaginal Sex: [bot_sex]"
-    new ""
+    new "Sexo Vaginal: [bot_sex]"
 
-    # game/scripts/screens.rpy:7350
+    # game/scripts/screens.rpy:6940
     old "Anal Sex: 0"
-    new ""
+    new "Sexo Anal: 0"
 
-    # game/scripts/screens.rpy:7427
+    # game/scripts/screens.rpy:7017
     old "plus"
-    new ""
+    new "Mais"
 
-    # game/scripts/screens.rpy:7625
+    # game/scripts/screens.rpy:7215
     old "[kali_friendship]"
-    new ""
+    new "[kali_friendship]"
 
-    # game/scripts/screens.rpy:7632
+    # game/scripts/screens.rpy:7222
     old "[lin_friendship]"
-    new ""
+    new "[lin_friendship]"
 
-    # game/scripts/screens.rpy:7639
+    # game/scripts/screens.rpy:7229
     old "[ash_friendship]"
-    new ""
+    new "[ash_friendship]"
 
-    # game/scripts/screens.rpy:7656
-    old "Continue"
-    new ""
-
-    # game/scripts/screens.rpy:7678
+    # game/scripts/screens.rpy:7268
     old "<"
-    new ""
+    new "<"
 
-    # game/scripts/screens.rpy:7679
+    # game/scripts/screens.rpy:7269
     old ">"
-    new ""
+    new ">"
 
-    # game/scripts/screens.rpy:7745
+    # game/scripts/screens.rpy:7335
     old "{#file_time}%m / %d / %Y, %H:%M"
-    new ""
+    new "{#file_time}%m / %d / %Y, %H:%M"
 
-    # game/scripts/screens.rpy:7745
+    # game/scripts/screens.rpy:7335
     old "Empty Slot"
-    new ""
+    new "Espaço Vazio"
 
-    # game/scripts/screens.rpy:8165
+    # game/scripts/screens.rpy:7755
     old "Options"
-    new ""
+    new "Opções"
 
-    # game/scripts/screens.rpy:8173
+    # game/scripts/screens.rpy:7763
     old "Display"
-    new ""
+    new "Tela"
 
-    # game/scripts/screens.rpy:8174
+    # game/scripts/screens.rpy:7764
     old "Window"
-    new ""
+    new "Modo Janela"
 
-    # game/scripts/screens.rpy:8175
+    # game/scripts/screens.rpy:7765
     old "Fullscreen"
-    new ""
+    new "Tela Cheia"
 
-    # game/scripts/screens.rpy:8180
+    # game/scripts/screens.rpy:7769
     old "Rollback Side"
-    new ""
+    new "Reset"
 
-    # game/scripts/screens.rpy:8182
+    # game/scripts/screens.rpy:7771
     old "Left"
-    new ""
+    new "Esquerda"
 
-    # game/scripts/screens.rpy:8183
+    # game/scripts/screens.rpy:7772
     old "Right"
-    new ""
+    new "Direita"
 
-    # game/scripts/screens.rpy:8188
+    # game/scripts/screens.rpy:7777
     old "Unseen Text"
-    new ""
+    new "Texto não visto"
+
+    # game/scripts/screens.rpy:7778
+    old "After Choices"
+    new "Pós-Escolhas"
+
+    # game/scripts/screens.rpy:7779
+    old "Transitions"
+    new "Transições"
+
+    # game/scripts/screens.rpy:7791
+    old "Text Speed"
+    new "Veloc. do Texto"
+
+    # game/scripts/screens.rpy:7793
+    old "Auto-Forward Time"
+    new "Veloc. do Auto-Forward"
+
+    # game/scripts/screens.rpy:7800
+    old "Music Volume"
+    new "Volume da Música"
+
+    # game/scripts/screens.rpy:7805
+    old "Sound Volume"
+    new "Volume do Ambiente"
+
+    # game/scripts/screens.rpy:7810
+    old "Test"
+    new "Teste"
+
+    # game/scripts/screens.rpy:7825
+    old "Mute All"
+    new "Mutar Tudo"
+
+    # game/scripts/screens.rpy:7834
+    old "Radio"
+    new "Rádio"
+
+    # game/scripts/screens.rpy:7835
+    old "Easy Beats (Default)"
+    new "Easy Beats (Padrão)"
+
+    # game/scripts/screens.rpy:7836
+    old "Chill City"
+    new "Chill City"
+
+    # game/scripts/screens.rpy:7837
+    old "Jazzy Jingles"
+    new "Jazzy Jingles"
+
+    # game/scripts/screens.rpy:7840
+    old "Dialogue UI"
+    new "Interface de Texto"
+
+    # game/scripts/screens.rpy:7842
+    old "Black Transparent"
+    new "Preto Transparente"
+
+    # game/scripts/screens.rpy:7843
+    old "Simplistic"
+    new "Simples"
+
+    # game/scripts/screens.rpy:7846
+    old "Font"
+    new "Fontes"
+
+    # game/scripts/screens.rpy:7848
+    old "Childish"
+    new "Childish"
+
+    # game/scripts/screens.rpy:7849
+    old "Dissonant"
+    new "Dissonant"
+
+    # game/scripts/screens.rpy:7852
+    old "Language"
+    new "Idiomas"
+
+    # game/scripts/screens.rpy:7853
+    old "English"
+    new "Inglês"
+
+    # game/scripts/screens.rpy:7854
+    old "German"
+    new "Alemão"
+
+    # game/scripts/screens.rpy:7855
+    old "Spanish"
+    new "Espanhol"
+
+    # game/scripts/screens.rpy:7856
+    old "French"
+    new "Francês"
+
+    # game/scripts/screens.rpy:8097
+    old "The dialogue history is empty."
+    new "O histórico está vazio."
+
+    # game/scripts/screens.rpy:8184
+    old "Enter"
+    new "Enter"
+
+    # game/scripts/screens.rpy:8185
+    old "Advances dialogue and activates the interface."
+    new "Avança o diálogo e ativa a interface."
 
     # game/scripts/screens.rpy:8189
-    old "After Choices"
-    new ""
+    old "Advances dialogue without selecting choices."
+    new "Avança todo o diálogo pulando as escolhas."
 
-    # game/scripts/screens.rpy:8190
-    old "Transitions"
-    new ""
+    # game/scripts/screens.rpy:8192
+    old "Arrow Keys"
+    new "Setas"
 
-    # game/scripts/screens.rpy:8202
-    old "Text Speed"
-    new ""
+    # game/scripts/screens.rpy:8193
+    old "Navigate the interface."
+    new "Navegar na Interface."
+
+    # game/scripts/screens.rpy:8196
+    old "Escape"
+    new "Escapar"
+
+    # game/scripts/screens.rpy:8197
+    old "Accesses the game menu."
+    new "Acessar o Menu Principal."
+
+    # game/scripts/screens.rpy:8200
+    old "Ctrl"
+    new "Ctrl"
+
+    # game/scripts/screens.rpy:8201
+    old "Skips dialogue while held down."
+    new "Pule o diálogo segurando para baixo."
 
     # game/scripts/screens.rpy:8204
-    old "Auto-Forward Time"
-    new ""
+    old "Tab"
+    new "Tab"
 
-    # game/scripts/screens.rpy:8211
-    old "Music Volume"
-    new ""
+    # game/scripts/screens.rpy:8205
+    old "Toggles dialogue skipping."
+    new "Desliga o pulo de diálogo."
 
-    # game/scripts/screens.rpy:8216
-    old "Sound Volume"
-    new ""
+    # game/scripts/screens.rpy:8208
+    old "Page Up"
+    new "Página de cima"
+
+    # game/scripts/screens.rpy:8209
+    old "Rolls back to earlier dialogue."
+    new "Role para baixo para Diálogos anteriores."
+
+    # game/scripts/screens.rpy:8212
+    old "Page Down"
+    new "Página de baixo"
+
+    # game/scripts/screens.rpy:8213
+    old "Rolls forward to later dialogue."
+    new "Role para frente para diálogos recentes."
+
+    # game/scripts/screens.rpy:8217
+    old "Hides the user interface."
+    new "Esconde a interface."
 
     # game/scripts/screens.rpy:8221
-    old "Test"
-    new ""
+    old "Takes a screenshot."
+    new "Screenshot."
 
-    # game/scripts/screens.rpy:8236
-    old "Mute All"
-    new ""
+    # game/scripts/screens.rpy:8225
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
-    # game/scripts/screens.rpy:8245
-    old "Radio"
-    new ""
+    # game/scripts/screens.rpy:8231
+    old "Left Click"
+    new "Clique Esquerdo"
 
-    # game/scripts/screens.rpy:8246
-    old "Easy Beats (Default)"
-    new ""
+    # game/scripts/screens.rpy:8235
+    old "Middle Click"
+    new "Clique do Meio"
+
+    # game/scripts/screens.rpy:8239
+    old "Right Click"
+    new "Clique Direito"
+
+    # game/scripts/screens.rpy:8243
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Side"
 
     # game/scripts/screens.rpy:8247
-    old "Chill City"
-    new ""
-
-    # game/scripts/screens.rpy:8248
-    old "Jazzy Jingles"
-    new ""
-
-    # game/scripts/screens.rpy:8251
-    old "Dialogue UI"
-    new ""
-
-    # game/scripts/screens.rpy:8253
-    old "Black Transparent"
-    new ""
+    old "Mouse Wheel Down"
+    new "Mouse Wheel Down"
 
     # game/scripts/screens.rpy:8254
-    old "Simplistic"
-    new ""
-
-    # game/scripts/screens.rpy:8257
-    old "Language"
-    new ""
-
-    # game/scripts/screens.rpy:8523
-    old "The dialogue history is empty."
-    new ""
-
-    # game/scripts/screens.rpy:8610
-    old "Enter"
-    new ""
-
-    # game/scripts/screens.rpy:8611
-    old "Advances dialogue and activates the interface."
-    new ""
-
-    # game/scripts/screens.rpy:8615
-    old "Advances dialogue without selecting choices."
-    new ""
-
-    # game/scripts/screens.rpy:8618
-    old "Arrow Keys"
-    new ""
-
-    # game/scripts/screens.rpy:8619
-    old "Navigate the interface."
-    new ""
-
-    # game/scripts/screens.rpy:8622
-    old "Escape"
-    new ""
-
-    # game/scripts/screens.rpy:8623
-    old "Accesses the game menu."
-    new ""
-
-    # game/scripts/screens.rpy:8626
-    old "Ctrl"
-    new ""
-
-    # game/scripts/screens.rpy:8627
-    old "Skips dialogue while held down."
-    new ""
-
-    # game/scripts/screens.rpy:8630
-    old "Tab"
-    new ""
-
-    # game/scripts/screens.rpy:8631
-    old "Toggles dialogue skipping."
-    new ""
-
-    # game/scripts/screens.rpy:8634
-    old "Page Up"
-    new ""
-
-    # game/scripts/screens.rpy:8635
-    old "Rolls back to earlier dialogue."
-    new ""
-
-    # game/scripts/screens.rpy:8638
-    old "Page Down"
-    new ""
-
-    # game/scripts/screens.rpy:8639
-    old "Rolls forward to later dialogue."
-    new ""
-
-    # game/scripts/screens.rpy:8643
-    old "Hides the user interface."
-    new ""
-
-    # game/scripts/screens.rpy:8647
-    old "Takes a screenshot."
-    new ""
-
-    # game/scripts/screens.rpy:8651
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
-
-    # game/scripts/screens.rpy:8657
-    old "Left Click"
-    new ""
-
-    # game/scripts/screens.rpy:8661
-    old "Middle Click"
-    new ""
-
-    # game/scripts/screens.rpy:8665
-    old "Right Click"
-    new ""
-
-    # game/scripts/screens.rpy:8669
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
-
-    # game/scripts/screens.rpy:8673
-    old "Mouse Wheel Down"
-    new ""
-
-    # game/scripts/screens.rpy:8680
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Right Trigger\nA/Bottom Button"
 
-    # game/scripts/screens.rpy:8684
+    # game/scripts/screens.rpy:8258
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Left Trigger\nLeft Shoulder"
 
-    # game/scripts/screens.rpy:8688
+    # game/scripts/screens.rpy:8262
     old "Right Shoulder"
-    new ""
+    new "Right Shoulder"
 
-    # game/scripts/screens.rpy:8693
+    # game/scripts/screens.rpy:8267
     old "D-Pad, Sticks"
-    new ""
+    new "D-Pad, Sticks"
 
-    # game/scripts/screens.rpy:8697
+    # game/scripts/screens.rpy:8271
     old "Start, Guide"
-    new ""
+    new "Iniciar, Guia"
 
-    # game/scripts/screens.rpy:8701
+    # game/scripts/screens.rpy:8275
     old "Y/Top Button"
-    new ""
+    new "Y/Top Button"
 
-    # game/scripts/screens.rpy:8704
+    # game/scripts/screens.rpy:8278
     old "Calibrate"
-    new ""
+    new "Calibrar"
 
-    # game/scripts/screens.rpy:8816
+    # game/scripts/screens.rpy:8390
     old "Skipping"
-    new ""
+    new "Avançando"
 
-    # game/scripts/screens.rpy:9040
+    # game/scripts/screens.rpy:8614
     old "Menu"
-    new ""
-
+    new "Menu"

@@ -1,16 +1,15 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate pt_br strings:
+translate br strings:
 
     # game/scripts/gallery.rpy:205
     old "Felicity & Emma"
-    new ""
+    new "Felicity e Emma"
 
     # game/scripts/gallery.rpy:229
     old "Autumn"
-    new ""
+    new "Autumn"
 
     # game/scripts/gallery.rpy:244
     old "Others"
-    new ""
-
+    new "Outros"

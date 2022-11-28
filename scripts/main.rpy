@@ -1,28 +1,27 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate pt_br strings:
+translate br strings:
 
     # game/scripts/main.rpy:61
     old "Cheat Mode!"
-    new ""
+    new "Códigos!"
 
     # game/scripts/main.rpy:134
     old "Hotel Upgrades"
-    new ""
+    new "Melhorias do hotel"
 
     # game/scripts/main.rpy:144
     old "Bar Upgrades"
-    new ""
+    new "Melhorias do bar"
 
     # game/scripts/main.rpy:161
     old "Bar Music"
-    new ""
+    new "Músicas do bar"
 
     # game/scripts/main.rpy:252
     old "Show"
-    new ""
+    new "Mostrar"
 
     # game/scripts/main.rpy:465
     old "Time of day"
-    new ""
-
+    new "Horário do dia"
