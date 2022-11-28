@@ -1,10 +1,10 @@
-# HaremHotel-BR
+# v16
 
-Repositório para tradução pt-br do jogo Harem Hotel
+Branch para a v16 do jogo e suas devidas traduções
 
 ## Índice
 
-- [HaremHotel-BR](#haremhotel-br)
+- [v16](#v16)
   - [Índice](#índice)
   - [Como começar](#como-começar)
   - [FAQ (Perguntas frequentes)](#faq-perguntas-frequentes)
