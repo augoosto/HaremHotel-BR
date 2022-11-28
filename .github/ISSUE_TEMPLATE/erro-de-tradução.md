@@ -1,5 +1,5 @@
 ---
-name: ISSUE TEMPLATE
+name: Erro de Tradução
 about: Dê Feedback sobre um erro de tradução
 title: "[BUG] Erro de tradução no arquivo (nome).rpy - Linha (número)"
 labels: bug
