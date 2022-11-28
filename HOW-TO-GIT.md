@@ -79,3 +79,5 @@ Este comando serve para unir arquivos alterados ao arquivo original de um projet
 Este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
 
 ### Considerações Finais
+
+O git é uma ferramenta bem avançada para quem nunca fez nada no mundo de programação, então eu entendo que pode ser difícil para alguns se acostumarem, caso necessitem, podem perguntar qualquer coisa no servidor do discord ou procurar vídeo sobre como utilizar o Git.
