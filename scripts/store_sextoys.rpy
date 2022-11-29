@@ -16,7 +16,7 @@ translate br buy_sextoy_7c0a07fa:
 translate br buy_sextoy_b5cb3122:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:245
 translate br buy_sextoy_9ccbe5e3:
@@ -34,7 +34,7 @@ translate br buy_sextoy_7c0a07fa_1:
 translate br buy_sextoy_b5cb3122_1:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:258
 translate br buy_sextoy_9ccbe5e3_1:
@@ -52,7 +52,7 @@ translate br buy_sextoy_7c0a07fa_2:
 translate br buy_sextoy_b5cb3122_2:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:271
 translate br buy_sextoy_9ccbe5e3_2:
@@ -70,7 +70,7 @@ translate br buy_sextoy_7c0a07fa_3:
 translate br buy_sextoy_b5cb3122_3:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:284
 translate br buy_sextoy_9ccbe5e3_3:
@@ -88,7 +88,7 @@ translate br buy_sextoy_7c0a07fa_4:
 translate br buy_sextoy_b5cb3122_4:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:297
 translate br buy_sextoy_9ccbe5e3_4:
@@ -106,7 +106,7 @@ translate br buy_sextoy_7c0a07fa_5:
 translate br buy_sextoy_b5cb3122_5:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:310
 translate br buy_sextoy_9ccbe5e3_5:
@@ -124,7 +124,7 @@ translate br buy_sextoy_7c0a07fa_6:
 translate br buy_sextoy_b5cb3122_6:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:323
 translate br buy_sextoy_9ccbe5e3_6:
@@ -142,7 +142,7 @@ translate br buy_sextoy_7c0a07fa_7:
 translate br buy_sextoy_b5cb3122_7:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:336
 translate br buy_sextoy_9ccbe5e3_7:
@@ -160,7 +160,7 @@ translate br buy_sextoy_7c0a07fa_8:
 translate br buy_sextoy_b5cb3122_8:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"
 
 # game/scripts/store_sextoys.rpy:364
 translate br buy_sextoy_9ccbe5e3_8:
@@ -178,4 +178,4 @@ translate br buy_sextoy_7c0a07fa_9:
 translate br buy_sextoy_b5cb3122_9:
 
     # "I don't have enough money for that"
-    "Você não tem dinheiro suficiente para isso"
+    "Eu não tenho dinheiro o suficiente para isso"

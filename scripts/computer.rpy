@@ -4,7 +4,7 @@
 translate pt_br computer_7703385a:
 
     # "You tried to use the computer, but the image you have selected for the pc wallpaper is missing from the game files."
-    "A imagem que você selecionou para o wallpaper do pc não está nos arquivos do jogo, pode ser que acabou sendo corrompida ou tenha sido modificada."
+    "A imagem que você selecionou para o wallpaper do pc não está nos arquivos do jogo."
 
 # game/scripts/computer.rpy:150
 translate br patreon_6025b173:
@@ -52,7 +52,7 @@ translate br strings:
 
     # game/scripts/computer.rpy:148
     old "Support the game"
-    new "Ajude o jogo à continuar"
+    new "Apoie o jogo"
 
     # game/scripts/computer.rpy:148
     old "Join the discord"

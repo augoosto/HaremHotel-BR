@@ -10,7 +10,7 @@ translate pt_br ashwed_6e6e2c9e:
 translate PortuguesBR ashwed_be3c2102:
 
     # m "She was so excited when [name] proposed... Maybe she got cold feet?"
-    m "Ela ficou tão animada quando [name] propôs... Talvez ela tenha ficado com os pés frios?"
+    m "Ela ficou tão animada quando [name] a pediu em casamento... Talvez ela tenha ficado com os pés frios?"
 
 # game/scripts/dreamscape.rpy:44
 translate PortuguesBR ashwed_e9847da9:
@@ -40,7 +40,7 @@ translate PortuguesBR ashwed_05d3d4b3:
 translate PortuguesBR ashwed_b3ea9f73:
 
     # m "Ash! Where have you been? You're so late! [name] has been waiting forever!"
-    m "Ash! Onde você esteve? Você está tão atrasada! [name] está esperando à um tempão!"
+    m "Ash! Onde você esteve? Faz um tempão! [name] está esperando à um tempão!"
 
 # game/scripts/dreamscape.rpy:54
 translate PortuguesBR ashwed_d39544b4:
@@ -82,7 +82,7 @@ translate PortuguesBR ashwed_449bef50:
 translate PortuguesBR ashwed_d72d6b13:
 
     # e "Do you both pledge to share your lives opening with one another, and to speak the truth in love?"
-    e "Vocês dois se comprometem a compartilhar suas vidas abrindo um com o outro e falar a verdade em amor?"
+    e "Vocês dois se comprometem a compartilhar suas vidas se abrindo um com o outro e a falar a verdade em amor?"
 
 # game/scripts/dreamscape.rpy:66
 translate PortuguesBR ashwed_8bfe0ef8:
@@ -94,13 +94,13 @@ translate PortuguesBR ashwed_8bfe0ef8:
 translate PortuguesBR ashwed_3da9e869:
 
     # a "I do."
-    a "Aceito."
+    a "Prometo."
 
 # game/scripts/dreamscape.rpy:68
 translate PortuguesBR ashwed_9d9fb6df:
 
     # c "I do."
-    c "Aceito."
+    c "Prometo."
 
 # game/scripts/dreamscape.rpy:69
 translate PortuguesBR ashwed_52777aaf:
@@ -112,13 +112,13 @@ translate PortuguesBR ashwed_52777aaf:
 translate PortuguesBR ashwed_3da9e869_1:
 
     # a "I do."
-    a "Aceito."
+    a "Sim."
 
 # game/scripts/dreamscape.rpy:71
 translate PortuguesBR ashwed_9d9fb6df_1:
 
     # c "I do."
-    c "Aceito."
+    c "Sim."
 
 # game/scripts/dreamscape.rpy:73
 translate PortuguesBR ashwed_478f699c:
@@ -148,7 +148,7 @@ translate PortuguesBR ashwed_d05576e6:
 translate PortuguesBR ashwed_5deeaafb:
 
     # a "I can't believe it's actually happening!"
-    a "Eu não posso acreditar que está realmente acontecendo!"
+    a "Eu não posso acreditar que isso está realmente acontecendo!"
 
 # game/scripts/dreamscape.rpy:80
 translate PortuguesBR ashwed_31685747:
