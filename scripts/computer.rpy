@@ -10,7 +10,7 @@ translate pt_br computer_7703385a:
 translate br patreon_6025b173:
 
     # r "A big thank you to the following for supporting me!"
-    r "Um grande obrigado aos meus apioadores!"
+    r "Um grande obrigado aos meus apoiadores!"
 
 # game/scripts/computer.rpy:151
 translate br patreon_86276d44:
