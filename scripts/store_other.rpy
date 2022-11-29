@@ -46,7 +46,7 @@ translate PortuguesBR buy_other_747cf6cf:
 translate PortuguesBR buy_other_9ccbe5e3_1:
 
     # "The order has been placed, but our shipping department is closed.\nYour order will arrive the day after tomorrow."
-    "O pedido foi feito, mas nosso departamento de expedição está fechado.\nSeu pedido chegará depois de amanhã."
+    "O pedido foi feito, mas nosso departamento de expedição está fechado. Então seu pedido chegará depois de amanhã."
 
 # game/scripts/store_other.rpy:80
 translate PortuguesBR buy_other_7c0a07fa_1:
