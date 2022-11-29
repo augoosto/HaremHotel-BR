@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-04-10 02:07
 
 # game/scripts/dreamscape.rpy:42
-translate PortuguesBR ashwed_6e6e2c9e:
+translate pt_br ashwed_6e6e2c9e:
 
     # l "Where is she? [name] has been waiting for 30 minutes!"
     l "Onde ela está? [name] está esperando há 30 minutos!"

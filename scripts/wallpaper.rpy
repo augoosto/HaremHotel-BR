@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate br strings:
+translate pt_br strings:
 
     # game/scripts/wallpaper.rpy:242
     old "Would you like to set this image as your wallpaper?"

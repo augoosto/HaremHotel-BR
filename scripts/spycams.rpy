@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
 # game/scripts/spycams.rpy:51
-translate br spycam_lin_b8ae350d:
+translate pt_br spycam_lin_b8ae350d:
 
     # c "She's not in her room... I should check in the utility room."
     c "Ela não está no quarto dela... Eu deveria ir checar na despensa."

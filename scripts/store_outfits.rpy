@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
 # game/scripts/store_outfits.rpy:37
-translate br buy_outfit_9ccbe5e3:
+translate pt_br buy_outfit_9ccbe5e3:
 
     # "The order has been placed, but our shipping department is closed.\nYour order will arrive the day after tomorrow."
     "A encomenda foi feita, mas o departamento de entraga está fechado.\n Sua entrega vai chegar depois de amanhã."

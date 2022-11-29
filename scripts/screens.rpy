@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate br strings:
+translate pt_br strings:
 
     # game/scripts/screens.rpy:317
     old "History"

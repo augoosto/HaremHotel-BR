@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
 # game/scripts/store_elves.rpy:251
-translate br buy_elf_544c84dc:
+translate pt_br buy_elf_544c84dc:
 
     # "I just bought her."
     "Eu já comprei ela."

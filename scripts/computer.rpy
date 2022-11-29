@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
 # game/scripts/computer.rpy:125
-translate br computer_7703385a:
+translate pt_br computer_7703385a:
 
     # "You tried to use the computer, but the image you have selected for the pc wallpaper is missing from the game files."
     "A imagem que você selecionou para o wallpaper do pc não está nos arquivos do jogo, pode ser que acabou sendo corrompida ou tenha sido modificada."

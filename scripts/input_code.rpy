@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-04-10 02:07
 
 # game/scripts/input_code.rpy:28
-translate PortuguesBR code_65b679a4:
+translate pt_br code_65b679a4:
 
     # "Code accepted!"
     "Código aceito!"

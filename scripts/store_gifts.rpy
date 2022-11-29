@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-04-10 02:07
 
 # game/scripts/store_gifts.rpy:28
-translate PortuguesBR buy_gift_630e0397:
+translate pt_br buy_gift_630e0397:
 
     # "She's not that mad at me, there's no need."
     "Ela não está tão brava comigo, não há necessidade."

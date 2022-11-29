@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
 # game/scripts/store_sextoys.rpy:232
-translate br buy_sextoy_99f1fc01:
+translate pt_br buy_sextoy_99f1fc01:
 
     # "The order has been placed, but our shipping department is closed.\n Your order will arrive the day after tomorrow."
     "A encomenda foi feita, mas o departamento de entraga está fechado.\n Sua entrega vai chegar depois de amanhã."

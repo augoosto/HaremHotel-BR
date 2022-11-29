@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-11-02 02:04
 
-translate br strings:
+translate pt_br strings:
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sun"
