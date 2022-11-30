@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-02 02:04
+﻿# TODO: Translation updated at 2022-11-28 10:55
 
 translate pt_br strings:
 
@@ -56,7 +56,7 @@ translate pt_br strings:
 
     # game/scripts/screens.rpy:761
     old "{size=+5}CHEAT MODE{/size}"
-    new "{size=+5}Habilitar Códigos{/size}"
+    new "{size=+5}MODO TRAPAÇA{/size}"
 
     # game/scripts/screens.rpy:768
     old "{size=+5}Map{/size}"
@@ -92,19 +92,19 @@ translate pt_br strings:
 
     # game/scripts/screens.rpy:2372
     old "Patreon helps me produce more content, and it shows me there is demand for more from this game. I would love to make these games for as long as I can, but that can only happen if I'm able to make a living."
-    new "Patreon me ajuda a produzir mais conteúdo, e isso mostra que há demanda para mais desse jogo. Eu iria amar fazer esse jogo por muito tempo, mas isso só acontecerá caso eu consiga fazer disso meu ganha pão."
+    new "Patreon me ajuda a produzir mais conteúdo, e me mostra que há demanda para mais desse jogo. Eu iria amar fazer esse jogo por muito tempo, mas isso só pode acontecer se eu conseguir fazer disso meu ganha-pão."
 
     # game/scripts/screens.rpy:2374
     old "If at any point in time you enjoy this game, please consider supporting me so I can continue to offer these games for free to everyone."
-    new "Em qualquer momento que jogar o jogo e gostar, aproveite para me ajudar, para que eu continue a oferecer esse jogo gratuitamente para todos!."
+    new "Se em algum momento você gostar do jogo, por favor considere me apoiar, para que eu possa continuar oferecendo esses jogos gratuitamente para todos."
 
     # game/scripts/screens.rpy:2376
     old "Pledging to me grants you access to special stuff like Alpha and Beta builds before the next version officially launches, Patron Only polls, sneak peeks at future content, and even custom art made just for you!"
-    new "Me ajudando, terá acesso a conteúdos especiais, como acesso a Alpha e a Beta antes da próxima versão oficial ser lançada, Cargos únicos do Patreon, cenas exclusivas de conteúdos futuros e artes customizadas feitas apenas para vocês!"
+    new "Me apoiando te dá acesso a conteúdos especiais, como acesso a Alpha e a Beta antes do lançamento oficial da próxima versão, Enquetes exclusivas, prévias de conteúdos futuros e até artes personalizadas feitas especialmente para você!"
 
     # game/scripts/screens.rpy:2378
     old "{color=#FF6B2B}Patreon: {a=https://www.patreon.com/Runey}Here{/a}{/color}"
-    new "{color=#FF6B2B}Patreon: {a=https://www.patreon.com/Runey}Here{/a}{/color}"
+    new "{color=#FF6B2B}Patreon: {a=https://www.patreon.com/Runey}Aqui{/a}{/color}"
 
     # game/scripts/screens.rpy:2388
     old "Info"
@@ -124,43 +124,43 @@ translate pt_br strings:
 
     # game/scripts/screens.rpy:2400
     old "If you bought this you wasted money. This game will always be free but donations are appreciated!"
-    new "Se você comprou o jogo, apenas desperdiçou seu dinheiro. Esse jogo será sempre gratuito, mas doações serão bem vindas!"
+    new "Se você comprou este jogo, você desperdiçou dinheiro. Esse jogo será sempre gratuito, mas doações são muito bem-vindas!"
 
     # game/scripts/screens.rpy:2402
     old "The only official download links will be on Runey's Patreon, itch.io and Discord. Downloading this anywhere else may be risky."
-    new "O único lugar para Download oficial será no Patreon do Runey, itch,io e Discord. Baixando o jogo em qualquer outro lugar pode ser perigoso."
+    new "Os únicos links de download oficiais estarão no Patreon do Runey, itch.io e Discord. Baixar isso em qualquer outro lugar pode ser arriscado."
 
     # game/scripts/screens.rpy:2404
     old "Need help? Want some advice? Find a bug? Hop in the Discord!"
-    new "Precisando de ajuda? Procura conselhos? Encontrou Bugs? Entre em nosso Discord!"
+    new "Precisa de ajuda? Quer alguns conselhos? Encontrou um Bug? Entre em nosso Discord!"
 
     # game/scripts/screens.rpy:2406
     old "Discord: {a=https://www.discord.gg/7tSHZNp}Here{/a} or at Patreon.com/Runey"
-    new "Discord: {a=https://www.discord.gg/7tSHZNp}aqui{/a} ou em Patreon.com/Runey"
+    new "Discord: {a=https://www.discord.gg/7tSHZNp}Aqui{/a} ou em Patreon.com/Runey"
 
     # game/scripts/screens.rpy:2410
     old "BGM 'Easy Lemon': {a=https://incompetech.com/music/royalty-free/music.html}Here{/a}"
-    new "BGM 'Easy Lemon': {a=https://incompetech.com/music/royalty-free/music.html}Here{/a}"
+    new "Música 'Easy Lemon': {a=https://incompetech.com/music/royalty-free/music.html}Aqui{/a}"
 
     # game/scripts/screens.rpy:2411
     old "'Surreal Forest' and 'Holographic' by {a=https://www.youtube.com/channel/UCAerMM15hr8nVRHJqQ1SlYw}Meydan{/a}"
-    new "'Surreal Forest' and 'Holographic' by {a=https://www.youtube.com/channel/UCAerMM15hr8nVRHJqQ1SlYw}Meydan{/a}"
+    new "'Surreal Forest' e 'Holographic' de {a=https://www.youtube.com/channel/UCAerMM15hr8nVRHJqQ1SlYw}Meydan{/a}"
 
     # game/scripts/screens.rpy:2412
     old "'November' on {a=https://www.bensound.com}Bensound{/a}"
-    new "'November' on {a=https://www.bensound.com}Bensound{/a}"
+    new "'November' de {a=https://www.bensound.com}Bensound{/a}"
 
     # game/scripts/screens.rpy:2413
     old "Bar Music: {a=http://freemusicarchive.org/genre/Lounge/}Here{/a}"
-    new "Bar Music: {a=http://freemusicarchive.org/genre/Lounge/}Here{/a}"
+    new "Bar Music: {a=http://freemusicarchive.org/genre/Lounge/}Aqui{/a}"
 
     # game/scripts/screens.rpy:2414
     old "Chill City Radio: Track 1 'Imagining' {a=https://www.youtube.com/watch?v=MzHFhKm_R9w}Here{/a},  Track 2 'Missing You' {a=https://www.youtube.com/watch?v=uZ335-3tdKU}Here{/a}, Track 3 'Monday' {a=https://www.youtube.com/watch?v=8332wBtNAYs}Here{/a}, Track 4 'lofi' {a=https://www.youtube.com/watch?v=8RMD5SwRLYQ}Here{/a}, Track 5 'Lofi' {a=https://www.youtube.com/watch?v=F0WryljuKjI}Here{/a}"
-    new "Chill City Radio: Track 1 'Imagining' {a=https://www.youtube.com/watch?v=MzHFhKm_R9w}Here{/a},  Track 2 'Missing You' {a=https://www.youtube.com/watch?v=uZ335-3tdKU}Here{/a}, Track 3 'Monday' {a=https://www.youtube.com/watch?v=8332wBtNAYs}Here{/a}, Track 4 'lofi' {a=https://www.youtube.com/watch?v=8RMD5SwRLYQ}Here{/a}, Track 5 'Lofi' {a=https://www.youtube.com/watch?v=F0WryljuKjI}Here{/a}"
+    new "Chill City Radio: Faixa 1 'Imagining' {a=https://www.youtube.com/watch?v=MzHFhKm_R9w}Aqui{/a},  Faixa 2 'Missing You' {a=https://www.youtube.com/watch?v=uZ335-3tdKU}Aqui{/a}, Faixa 3 'Monday' {a=https://www.youtube.com/watch?v=8332wBtNAYs}Aqui{/a}, Faixa 4 'lofi' {a=https://www.youtube.com/watch?v=8RMD5SwRLYQ}Aqui{/a}, Faixa 5 'Lofi' {a=https://www.youtube.com/watch?v=F0WryljuKjI}Aqui{/a}"
 
     # game/scripts/screens.rpy:2415
     old "Jazzy Jingles Radio: Track 1 'Enjoy Every Moment' {a=https://www.youtube.com/watch?v=QlWmcseHyA8}Here{/a}, Track 2 'A Night Alone' {a=https://www.youtube.com/watch?v=bVFuV7NPuJ8}Here{/a}, Track 3 'Imagination' {a=https://www.youtube.com/watch?v=Vg0o_MbV310}Here{/a}"
-    new "Jazzy Jingles Radio: Track 1 'Enjoy Every Moment' {a=https://www.youtube.com/watch?v=QlWmcseHyA8}Here{/a}, Track 2 'A Night Alone' {a=https://www.youtube.com/watch?v=bVFuV7NPuJ8}Here{/a}, Track 3 'Imagination' {a=https://www.youtube.com/watch?v=Vg0o_MbV310}Here{/a}"
+    new "Jazzy Jingles Radio: Faixa 1 'Enjoy Every Moment' {a=https://www.youtube.com/watch?v=QlWmcseHyA8}Aqui{/a}, Faixa 2 'A Night Alone' {a=https://www.youtube.com/watch?v=bVFuV7NPuJ8}Aqui{/a}, Faixa 3 'Imagination' {a=https://www.youtube.com/watch?v=Vg0o_MbV310}Aqui{/a}"
 
     # game/scripts/screens.rpy:2417
     old "Legal:"

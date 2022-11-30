@@ -4,19 +4,19 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:61
     old "Cheat Mode!"
-    new "Códigos!"
+    new "Modo Trapaça!"
 
     # game/scripts/main.rpy:134
     old "Hotel Upgrades"
-    new "Melhorias do hotel"
+    new "Melhorias do Hotel"
 
     # game/scripts/main.rpy:144
     old "Bar Upgrades"
-    new "Melhorias do bar"
+    new "Melhorias do Bar"
 
     # game/scripts/main.rpy:161
     old "Bar Music"
-    new "Músicas do bar"
+    new "Músicas do Bar"
 
     # game/scripts/main.rpy:252
     old "Show"
@@ -24,4 +24,4 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:465
     old "Time of day"
-    new "Horário do dia"
+    new "Horário"
