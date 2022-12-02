@@ -40,7 +40,7 @@ translate pt_br ashwed_05d3d4b3:
 translate pt_br ashwed_b3ea9f73:
 
     # m "Ash! Where have you been? You're so late! [name] has been waiting forever!"
-    m "Ash! Onde você esteve? Faz um tempão! [name] está esperando à um tempão!"
+    m "Ash! Onde você estava? Você está tão atrasada! [name] ficou te esperando por um tempão!"
 
 # game/scripts/dreamscape.rpy:54
 translate pt_br ashwed_d39544b4:
