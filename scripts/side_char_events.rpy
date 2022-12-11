@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/side_char_events.rpy:7
 translate pt_br jin_story1_3cf6cf05:
@@ -29814,9049 +29814,9043 @@ translate pt_br kate3_4cb19b29:
     # kate "Hello, do you want to go on a date?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8188
-translate pt_br kate3_4723ecf1:
+# game/scripts/side_char_events.rpy:8189
+translate pt_br kate3_f9b5f0f1:
 
-    # c "What? How did you find me?"
+    # kate "I'm incredibly bored today and I need some stimulation. I was hoping you could solve that issue for me."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8190
+translate pt_br kate3_7d0a94eb:
+
+    # c "I could think of a few things..."
     c ""
 
-# game/scripts/side_char_events.rpy:8189
-translate pt_br kate3_787614d3:
-
-    # kate "The Dean's computer has a list of all the residents. I know you live with Ashley."
-    kate ""
-
-# game/scripts/side_char_events.rpy:8191
-translate pt_br kate3_b88af648:
-
-    # kate "Besides that, I'm incredibly bored today and I need some stimulation."
-    kate ""
-
-# game/scripts/side_char_events.rpy:8193
+# game/scripts/side_char_events.rpy:8192
 translate pt_br kate3_3ccb5473:
 
     # kate "The way I see it, if we're going to be friends with benefits, then we're also going to need to be friends."
     kate ""
 
-# game/scripts/side_char_events.rpy:8194
+# game/scripts/side_char_events.rpy:8193
 translate pt_br kate3_6b612ec0:
 
     # kate "Do you want to go on a date with me?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8195
+# game/scripts/side_char_events.rpy:8194
 translate pt_br kate3_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/side_char_events.rpy:8196
+# game/scripts/side_char_events.rpy:8195
 translate pt_br kate3_f8655134:
 
     # kate "I walked here, so if you want to go anywhere far, we'll need to use your car."
     kate ""
 
-# game/scripts/side_char_events.rpy:8199
+# game/scripts/side_char_events.rpy:8198
 translate pt_br kate3_6207be13:
 
     # kate "You're taking me to get pizza for our first date?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8200
+# game/scripts/side_char_events.rpy:8199
 translate pt_br kate3_d9f54462:
 
     # c "Don't like pizza?"
     c ""
 
-# game/scripts/side_char_events.rpy:8202
+# game/scripts/side_char_events.rpy:8201
 translate pt_br kate3_862709f3:
 
     # kate "No, I love filling my stomach with grease and processed cheeses..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8204
+# game/scripts/side_char_events.rpy:8203
 translate pt_br kate3_252634b5:
 
     # kate "It's fine, I'll eat pizza with you."
     kate ""
 
-# game/scripts/side_char_events.rpy:8206
+# game/scripts/side_char_events.rpy:8205
 translate pt_br kate3_73830dda:
 
     # kate "One pizza please."
     kate ""
 
-# game/scripts/side_char_events.rpy:8207
+# game/scripts/side_char_events.rpy:8206
 translate pt_br kate3_9f61fab8:
 
     # nid "Nnn, Elves... Vampire Elves...?"
     nid ""
 
-# game/scripts/side_char_events.rpy:8208
+# game/scripts/side_char_events.rpy:8207
 translate pt_br kate3_911ce360:
 
     # kate "Wake up please."
     kate ""
 
-# game/scripts/side_char_events.rpy:8210
+# game/scripts/side_char_events.rpy:8209
 translate pt_br kate3_980ac01c:
 
     # nid "Hm?"
     nid ""
 
-# game/scripts/side_char_events.rpy:8212
+# game/scripts/side_char_events.rpy:8211
 translate pt_br kate3_87c23d10:
 
     # nid "Oh, hello. Whadya want?"
     nid ""
 
-# game/scripts/side_char_events.rpy:8213
+# game/scripts/side_char_events.rpy:8212
 translate pt_br kate3_0f266e23:
 
     # kate "Pizza."
     kate ""
 
-# game/scripts/side_char_events.rpy:8215
+# game/scripts/side_char_events.rpy:8214
 translate pt_br kate3_8ce8ae9e:
 
     # nid "Is that so, kid? I never would have guessed."
     nid ""
 
-# game/scripts/side_char_events.rpy:8216
+# game/scripts/side_char_events.rpy:8215
 translate pt_br kate3_cb941975:
 
     # kate "What do you mean? What else would I be getting at a pizza shop?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8217
+# game/scripts/side_char_events.rpy:8216
 translate pt_br kate3_bf2560f7:
 
     # nid "Obviously a pizza. The question is... *yawn* ...What kind?"
     nid ""
 
-# game/scripts/side_char_events.rpy:8218
+# game/scripts/side_char_events.rpy:8217
 translate pt_br kate3_29b95dcf:
 
     # c "Just pepperoni."
     c ""
 
-# game/scripts/side_char_events.rpy:8220
+# game/scripts/side_char_events.rpy:8219
 translate pt_br kate3_e6140e49:
 
     # nid "You got it, boss."
     nid ""
 
-# game/scripts/side_char_events.rpy:8223
+# game/scripts/side_char_events.rpy:8222
 translate pt_br kate3_cd836ca3:
 
     # kate "People shouldn't sleep through their jobs, don't you agree?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8224
+# game/scripts/side_char_events.rpy:8223
 translate pt_br kate3_cf2a6a99:
 
     # c "I guess so."
     c ""
 
-# game/scripts/side_char_events.rpy:8226
+# game/scripts/side_char_events.rpy:8225
 translate pt_br kate3_aec0f473:
 
     # kate "Good..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8228
+# game/scripts/side_char_events.rpy:8227
 translate pt_br kate3_63ee856e:
 
     # kate "..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8229
+# game/scripts/side_char_events.rpy:8228
 translate pt_br kate3_09dffa1d:
 
     # c "Have you ever been on a date before?"
     c ""
 
-# game/scripts/side_char_events.rpy:8231
+# game/scripts/side_char_events.rpy:8230
 translate pt_br kate3_b04db051:
 
     # kate "No."
     kate ""
 
-# game/scripts/side_char_events.rpy:8232
+# game/scripts/side_char_events.rpy:8231
 translate pt_br kate3_6d3e632c:
 
     # c "That's surprising."
     c ""
 
-# game/scripts/side_char_events.rpy:8234
+# game/scripts/side_char_events.rpy:8233
 translate pt_br kate3_579ac99a:
 
     # kate "Is that a compliment?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8236
+# game/scripts/side_char_events.rpy:8235
 translate pt_br kate3_eebf7181:
 
     # kate "Boyfriends, girlfriends, too much trouble..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8237
+# game/scripts/side_char_events.rpy:8236
 translate pt_br kate3_a3e74321:
 
     # kate "I have one life to live, I'm going to take care of it. I don't need another to take care of."
     kate ""
 
-# game/scripts/side_char_events.rpy:8239
+# game/scripts/side_char_events.rpy:8238
 translate pt_br kate3_fbfd2e10:
 
     # kate "Humans are cursed with sex. It was needed to get to where we are today, we don't need it anymore. It takes up too much time and effort."
     kate ""
 
-# game/scripts/side_char_events.rpy:8240
+# game/scripts/side_char_events.rpy:8239
 translate pt_br kate3_591555de:
 
     # c "That's rough."
     c ""
 
-# game/scripts/side_char_events.rpy:8242
+# game/scripts/side_char_events.rpy:8241
 translate pt_br kate3_62889efb:
 
     # kate "Regardless, those are my thoughts."
     kate ""
 
-# game/scripts/side_char_events.rpy:8244
+# game/scripts/side_char_events.rpy:8243
 translate pt_br kate3_122f43e3:
 
     # kate "...What else do people talk about on dates...? Religion and politics? Or was that the one to stay away from?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8245
+# game/scripts/side_char_events.rpy:8244
 translate pt_br kate3_2748fee4:
 
     # kate "How's the weather? How's your family? How's the wife? Those are pointless."
     kate ""
 
-# game/scripts/side_char_events.rpy:8247
+# game/scripts/side_char_events.rpy:8246
 translate pt_br kate3_78a5289a:
 
     # kate "Let's talk about reproductive organs."
     kate ""
 
-# game/scripts/side_char_events.rpy:8248
+# game/scripts/side_char_events.rpy:8247
 translate pt_br kate3_e6613cd2:
 
     # c "While we're eating?"
     c ""
 
-# game/scripts/side_char_events.rpy:8249
+# game/scripts/side_char_events.rpy:8248
 translate pt_br kate3_dbb00336:
 
     # kate "We're eating because we plan on using our reproductive organs."
     kate ""
 
-# game/scripts/side_char_events.rpy:8250
+# game/scripts/side_char_events.rpy:8249
 translate pt_br kate3_4b489c83:
 
     # c "Okay..."
     c ""
 
-# game/scripts/side_char_events.rpy:8251
+# game/scripts/side_char_events.rpy:8250
 translate pt_br kate3_bbad5044:
 
     # kate "Do you prefer if I'm waxed, shaven, or otherwise?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8255
+# game/scripts/side_char_events.rpy:8254
 translate pt_br kate3_10b358bf:
 
     # kate "I'm glad you agree. It's the healthiest option."
     kate ""
 
-# game/scripts/side_char_events.rpy:8256
+# game/scripts/side_char_events.rpy:8255
 translate pt_br kate3_3339089f:
 
     # kate "I'm sure you'll be glad to learn I'm completely waxed."
     kate ""
 
-# game/scripts/side_char_events.rpy:8258
+# game/scripts/side_char_events.rpy:8257
 translate pt_br kate3_2ba97337:
 
     # kate "That's unfortunate. I don't want lice or anything."
     kate ""
 
-# game/scripts/side_char_events.rpy:8259
+# game/scripts/side_char_events.rpy:8258
 translate pt_br kate3_81daff22:
 
     # kate "Unfortunately for you, I'm waxed. I hope you don't mind, it's the healthiest option after all."
     kate ""
 
-# game/scripts/side_char_events.rpy:8262
+# game/scripts/side_char_events.rpy:8261
 translate pt_br kate3_55717e19:
 
     # kate "That's disgusting. It's not healthy at all. Why would you say that while we're eating?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8264
+# game/scripts/side_char_events.rpy:8263
 translate pt_br kate3_1614a55e:
 
     # kate "Your girlfriend, Ashley. Or at least I assume she's your girlfriend... Do you prefer small breasts?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8267
+# game/scripts/side_char_events.rpy:8266
 translate pt_br kate3_a99c7ee8:
 
     # kate "That's odd. Most men are attracted to bigger breasts..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8269
+# game/scripts/side_char_events.rpy:8268
 translate pt_br kate3_21b0e5df:
 
     # kate "Or... Is it women are making such a big deal out of it, much like penis size with men?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8270
+# game/scripts/side_char_events.rpy:8269
 translate pt_br kate3_a80accb8:
 
     # kate "That's a thought for another time..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8272
+# game/scripts/side_char_events.rpy:8271
 translate pt_br kate3_950db448:
 
     # kate "Well mine are bigger than hers, if that makes any difference."
     kate ""
 
-# game/scripts/side_char_events.rpy:8273
+# game/scripts/side_char_events.rpy:8272
 translate pt_br kate3_0e0e5bbd:
 
     # kate "Which begs the question, if you were thinking of it already. What penis size do I prefer?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8275
+# game/scripts/side_char_events.rpy:8274
 translate pt_br kate3_f36f7971:
 
     # kate "Anything above four inches, I suppose. That would be optimal for breeding. Although I'm not really interested in being bred..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8276
+# game/scripts/side_char_events.rpy:8275
 translate pt_br kate3_072a0532:
 
     # kate "I suppose, if you can get it in, then it's enough for me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8277
+# game/scripts/side_char_events.rpy:8276
 translate pt_br kate3_e27e0498:
 
     # kate "Okay, when we have sex, what would you like to be involved?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8280
+# game/scripts/side_char_events.rpy:8279
 translate pt_br kate3_e88ad09a:
 
     # kate "I can start you off with one, perhaps. But that isn't something I see myself enjoying much."
     kate ""
 
-# game/scripts/side_char_events.rpy:8281
+# game/scripts/side_char_events.rpy:8280
 translate pt_br kate3_b758b8b4:
 
     # kate "If it means anything to you, I would prefer missionary sex. I've never had missionary sex before. I really want a man on top of me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8283
+# game/scripts/side_char_events.rpy:8282
 translate pt_br kate3_108b0e94:
 
     # kate "Fine, if you want me to do all the work, then so be it. I can handle it."
     kate ""
 
-# game/scripts/side_char_events.rpy:8284
+# game/scripts/side_char_events.rpy:8283
 translate pt_br kate3_b4663092:
 
     # kate "However, if it means anything to you, I would prefer missionary sex. I've never had missionary sex before. I really want a man on top of me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8287
+# game/scripts/side_char_events.rpy:8286
 translate pt_br kate3_011ba3f2:
 
     # kate "I've never had missionary sex. I really want a man on top of me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8289
+# game/scripts/side_char_events.rpy:8288
 translate pt_br kate3_a0b2e7b9:
 
     # kate "Why is that? Missionary is the best position for sex."
     kate ""
 
-# game/scripts/side_char_events.rpy:8290
+# game/scripts/side_char_events.rpy:8289
 translate pt_br kate3_7c13dbe6:
 
     # kate "Do you not want to see my face during sex? If so, I can understand why you would want that."
     kate ""
 
-# game/scripts/side_char_events.rpy:8293
+# game/scripts/side_char_events.rpy:8292
 translate pt_br kate3_fa1f6c5e:
 
     # kate "Disgusting... I won't be doing that."
     kate ""
 
-# game/scripts/side_char_events.rpy:8296
+# game/scripts/side_char_events.rpy:8295
 translate pt_br kate3_5141b213:
 
     # kate "Ha, no."
     kate ""
 
-# game/scripts/side_char_events.rpy:8297
+# game/scripts/side_char_events.rpy:8296
 translate pt_br kate3_83a242ed:
 
     # c "Mom?"
     c ""
 
-# game/scripts/side_char_events.rpy:8299
+# game/scripts/side_char_events.rpy:8298
 translate pt_br kate3_e1b6f6ab:
 
     # kate "No..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8300
+# game/scripts/side_char_events.rpy:8299
 translate pt_br kate3_b758b8b4_1:
 
     # kate "If it means anything to you, I would prefer missionary sex. I've never had missionary sex before. I really want a man on top of me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8302
+# game/scripts/side_char_events.rpy:8301
 translate pt_br kate3_c210b175:
 
     # kate "Right, and this will inevitably be asked, I would prefer you cum in a tissue. But if you can't hold it, don't cum on my bed. Cum on me instead."
     kate ""
 
-# game/scripts/side_char_events.rpy:8303
+# game/scripts/side_char_events.rpy:8302
 translate pt_br kate3_97cc45ca:
 
     # kate "I will also not be wearing anything for you. I don't want to go through the extra steps of getting an outfit together."
     kate ""
 
-# game/scripts/side_char_events.rpy:8305
+# game/scripts/side_char_events.rpy:8304
 translate pt_br kate3_b3efa394:
 
     # kate "Feel free to hire an outfitter and makeup artist if you'd like me dolled up..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8307
+# game/scripts/side_char_events.rpy:8306
 translate pt_br kate3_c3bc6a63:
 
     # kate "Oh, [name]... I was meaning to tell you this, but feel free to bring Ashley."
     kate ""
 
-# game/scripts/side_char_events.rpy:8308
+# game/scripts/side_char_events.rpy:8307
 translate pt_br kate3_03f3c749:
 
     # kate "I'm not bisexual or a lesbian, but if it gets you more excited, then I'm all for it."
     kate ""
 
-# game/scripts/side_char_events.rpy:8310
+# game/scripts/side_char_events.rpy:8309
 translate pt_br kate3_8729cce4:
 
     # kate "Or if you'd prefer to just make love to me, that's fine too."
     kate ""
 
-# game/scripts/side_char_events.rpy:8312
+# game/scripts/side_char_events.rpy:8311
 translate pt_br kate3_d2fb6ad4:
 
     # kate "Any questions for me?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8313
+# game/scripts/side_char_events.rpy:8312
 translate pt_br kate3_efe0e8c3:
 
     # c "Like what?"
     c ""
 
-# game/scripts/side_char_events.rpy:8315
+# game/scripts/side_char_events.rpy:8314
 translate pt_br kate3_44932351:
 
     # kate "I don't know, like what I'd want you to be wearing? I was thinking a schoolboy outfit or something..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8317
+# game/scripts/side_char_events.rpy:8316
 translate pt_br kate3_91d2a6ca:
 
     # kate "That was a joke, please don't wear a schoolboy outfit. I couldn't care less about what you wear... Except for a schoolboy outfit. Don't do that."
     kate ""
 
-# game/scripts/side_char_events.rpy:8318
+# game/scripts/side_char_events.rpy:8317
 translate pt_br kate3_d507726e:
 
     # c "You wouldn't even wear anything if I bought it?"
     c ""
 
-# game/scripts/side_char_events.rpy:8319
+# game/scripts/side_char_events.rpy:8318
 translate pt_br kate3_68f7e775:
 
     # kate "If I don't have to doll myself up, or worry about cleaning the clothes after, then fine, you can buy me something."
     kate ""
 
-# game/scripts/side_char_events.rpy:8321
+# game/scripts/side_char_events.rpy:8320
 translate pt_br kate3_63ee856e_1:
 
     # kate "..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8322
+# game/scripts/side_char_events.rpy:8321
 translate pt_br kate3_b93149b7:
 
     # kate "...Go ahead, ask me a question. I can't think of another."
     kate ""
 
-# game/scripts/side_char_events.rpy:8323
+# game/scripts/side_char_events.rpy:8322
 translate pt_br kate3_0d614601:
 
     # c "Do you wish you were different?"
     c ""
 
-# game/scripts/side_char_events.rpy:8325
+# game/scripts/side_char_events.rpy:8324
 translate pt_br kate3_63ee856e_2:
 
     # kate "..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8327
+# game/scripts/side_char_events.rpy:8326
 translate pt_br kate3_bfe09076:
 
     # kate "I guess you've noticed..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8329
+# game/scripts/side_char_events.rpy:8328
 translate pt_br kate3_541dcb3d:
 
     # kate "I find it hard to communicate with people. I'm not a sociopath, I can sympathize with people. But... I can't read them."
     kate ""
 
-# game/scripts/side_char_events.rpy:8331
+# game/scripts/side_char_events.rpy:8330
 translate pt_br kate3_0ec21e02:
 
     # kate "Unfortunately, people aren't books. If they were, it'd be easy."
     kate ""
 
-# game/scripts/side_char_events.rpy:8333
+# game/scripts/side_char_events.rpy:8332
 translate pt_br kate3_82c19134:
 
     # kate "But that's true for everyone... I can't read social cues. That's probably why I find it hard to care and love for someone... I would never know when they're in love with me anyway."
     kate ""
 
-# game/scripts/side_char_events.rpy:8334
+# game/scripts/side_char_events.rpy:8333
 translate pt_br kate3_0515e2b9:
 
     # kate "But I think that's what makes this relationship so magical. I don't have to worry about what you think. We just have to be friends, and compatible. Don't you agree?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8335
+# game/scripts/side_char_events.rpy:8334
 translate pt_br kate3_c48dc32f_1:
 
     # c "Sure."
     c ""
 
-# game/scripts/side_char_events.rpy:8337
+# game/scripts/side_char_events.rpy:8336
 translate pt_br kate3_e5ed1dbb:
 
     # kate "Let's eat, [name]. I definitely don't want to eat {i}cold{/i} pizza..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8339
+# game/scripts/side_char_events.rpy:8338
 translate pt_br kate3_cd0b2c5e:
 
     # "You and Kate eat the entire pizza..."
     ""
 
-# game/scripts/side_char_events.rpy:8341
+# game/scripts/side_char_events.rpy:8340
 translate pt_br kate3_00dd2515:
 
     # kate "That was enjoyable, [name]. I appreciate your time. Will you take me home?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8342
+# game/scripts/side_char_events.rpy:8341
 translate pt_br kate3_4e8c7062:
 
     # c "Of course."
     c ""
 
-# game/scripts/side_char_events.rpy:8351
+# game/scripts/side_char_events.rpy:8350
 translate pt_br kate2_6f2d9ad9:
 
     # kate "How are you doing today, Ashley?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8352
+# game/scripts/side_char_events.rpy:8351
 translate pt_br kate2_1be5da39:
 
     # a "I'm fine..."
     a ""
 
-# game/scripts/side_char_events.rpy:8353
+# game/scripts/side_char_events.rpy:8352
 translate pt_br kate2_8bd31132:
 
     # kate "I haven't noticed before now, but your body is very odd. What's the issue with it?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8355
+# game/scripts/side_char_events.rpy:8354
 translate pt_br kate2_c424e718:
 
     # a "Did you just call me fat!?"
     a ""
 
-# game/scripts/side_char_events.rpy:8356
+# game/scripts/side_char_events.rpy:8355
 translate pt_br kate2_03859d5a:
 
     # kate "No, I didn't."
     kate ""
 
-# game/scripts/side_char_events.rpy:8357
+# game/scripts/side_char_events.rpy:8356
 translate pt_br kate2_bb0451c3:
 
     # a "Stop looking at my body!"
     a ""
 
-# game/scripts/side_char_events.rpy:8358
+# game/scripts/side_char_events.rpy:8357
 translate pt_br kate2_e5045d63:
 
     # kate "Ashley, I don't mean to insult you... Please, calm down."
     kate ""
 
-# game/scripts/side_char_events.rpy:8359
+# game/scripts/side_char_events.rpy:8358
 translate pt_br kate2_23d2403a:
 
     # kate "I'm simply saying you're very small. Abnormally petite. You're the shortest girl my age I know."
     kate ""
 
-# game/scripts/side_char_events.rpy:8361
+# game/scripts/side_char_events.rpy:8360
 translate pt_br kate2_2b4871a6:
 
     # a "Now you're saying my boobs are small?"
     a ""
 
-# game/scripts/side_char_events.rpy:8362
+# game/scripts/side_char_events.rpy:8361
 translate pt_br kate2_80fda521:
 
     # kate "Well yes. But again, I'm not trying to insult you... How could I say this..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8363
+# game/scripts/side_char_events.rpy:8362
 translate pt_br kate2_bca9c803:
 
     # kate "Your body isn't healthy, Ashley. Were you fed regularly at a young age? I suspect your growth was stunted. This would explain your body shape."
     kate ""
 
-# game/scripts/side_char_events.rpy:8364
+# game/scripts/side_char_events.rpy:8363
 translate pt_br kate2_7007c7a4:
 
     # kate "Am I wrong in assuming that?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8366
+# game/scripts/side_char_events.rpy:8365
 translate pt_br kate2_69b5b714:
 
     # a "Stop looking at my body! I'm going to class!"
     a ""
 
-# game/scripts/side_char_events.rpy:8368
+# game/scripts/side_char_events.rpy:8367
 translate pt_br kate2_128c16e2:
 
     # kate "*sigh*... I did it again..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8370
+# game/scripts/side_char_events.rpy:8369
 translate pt_br kate2_76da844a:
 
     # kate "Hmm...? That's odd..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8372
+# game/scripts/side_char_events.rpy:8371
 translate pt_br kate2_50326405:
 
     # kate "Juliet?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8373
+# game/scripts/side_char_events.rpy:8372
 translate pt_br kate2_b86472a9:
 
     # got "H-Huh? What?"
     got ""
 
-# game/scripts/side_char_events.rpy:8375
+# game/scripts/side_char_events.rpy:8374
 translate pt_br kate2_b9007f51:
 
     # kate "What are you doing?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8376
+# game/scripts/side_char_events.rpy:8375
 translate pt_br kate2_d6a9dcf2:
 
     # got "I don't know what you mean..."
     got ""
 
-# game/scripts/side_char_events.rpy:8377
+# game/scripts/side_char_events.rpy:8376
 translate pt_br kate2_75a450f9:
 
     # kate "You didn't join us in the shower. You were even here before I was..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8378
+# game/scripts/side_char_events.rpy:8377
 translate pt_br kate2_ba9dd0ff:
 
     # got "Yeah, I know..."
     got ""
 
-# game/scripts/side_char_events.rpy:8379
+# game/scripts/side_char_events.rpy:8378
 translate pt_br kate2_6ef7658d:
 
     # kate "And you're wearing a towel..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8380
+# game/scripts/side_char_events.rpy:8379
 translate pt_br kate2_5173d765:
 
     # got "Yeah...?"
     got ""
 
-# game/scripts/side_char_events.rpy:8381
+# game/scripts/side_char_events.rpy:8380
 translate pt_br kate2_52c50376:
 
     # kate "Why are you wearing a towel if you haven't showered yet?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8382
+# game/scripts/side_char_events.rpy:8381
 translate pt_br kate2_633f8660:
 
     # kate "Oh. You're ashamed of your body..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8384
+# game/scripts/side_char_events.rpy:8383
 translate pt_br kate2_8947a8b9:
 
     # got "Um... Could you just go? You're going to be late for class..."
     got ""
 
-# game/scripts/side_char_events.rpy:8385
+# game/scripts/side_char_events.rpy:8384
 translate pt_br kate2_ba993944:
 
     # kate "You are also going to be late for class."
     kate ""
 
-# game/scripts/side_char_events.rpy:8386
+# game/scripts/side_char_events.rpy:8385
 translate pt_br kate2_0ba8bf4e:
 
     # got "..."
     got ""
 
-# game/scripts/side_char_events.rpy:8387
+# game/scripts/side_char_events.rpy:8386
 translate pt_br kate2_1bc766b0:
 
     # kate "Nothing is going to be accomplished if you ignore me. Silence is not the answer."
     kate ""
 
-# game/scripts/side_char_events.rpy:8388
+# game/scripts/side_char_events.rpy:8387
 translate pt_br kate2_335fba34:
 
     # got "I just like showering by myself..."
     got ""
 
-# game/scripts/side_char_events.rpy:8389
+# game/scripts/side_char_events.rpy:8388
 translate pt_br kate2_5e2cb011:
 
     # kate "I think we would all prefer if we each had our own private shower, but I'm going to assume this college doesn't have the budget for that."
     kate ""
 
-# game/scripts/side_char_events.rpy:8390
+# game/scripts/side_char_events.rpy:8389
 translate pt_br kate2_295d5cb4:
 
     # kate "Are you hairy? Deformed?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8392
+# game/scripts/side_char_events.rpy:8391
 translate pt_br kate2_8d1bc852:
 
     # got "What? No..."
     got ""
 
-# game/scripts/side_char_events.rpy:8393
+# game/scripts/side_char_events.rpy:8392
 translate pt_br kate2_3b9b9b6d:
 
     # kate "Then what are your reasons for being ashamed of your body?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8395
+# game/scripts/side_char_events.rpy:8394
 translate pt_br kate2_e1833776:
 
     # got "I just-"
     got ""
 
-# game/scripts/side_char_events.rpy:8396
+# game/scripts/side_char_events.rpy:8395
 translate pt_br kate2_b4d03b7d:
 
     # kate "You're not stupid, Juliet. We both want good grades, and we're definitely going to miss class unless you hurry up."
     kate ""
 
-# game/scripts/side_char_events.rpy:8397
+# game/scripts/side_char_events.rpy:8396
 translate pt_br kate2_e294d010:
 
     # kate "Cut the small talk and excuses and just tell me why."
     kate ""
 
-# game/scripts/side_char_events.rpy:8398
+# game/scripts/side_char_events.rpy:8397
 translate pt_br kate2_28592775:
 
     # got "Well, I guess... Um... Well, I have tan lines..."
     got ""
 
-# game/scripts/side_char_events.rpy:8399
+# game/scripts/side_char_events.rpy:8398
 translate pt_br kate2_6eb38054:
 
     # kate "Terrible excuse. If you didn't want tan lines, you would tan. But you haven't tanned. You don't want to tan. You're ashamed of your body. The tan lines don't help, but they aren't the issue."
     kate ""
 
-# game/scripts/side_char_events.rpy:8400
+# game/scripts/side_char_events.rpy:8399
 translate pt_br kate2_ffbb6a6b:
 
     # kate "Are you pregnant? No, you're not pregnant..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8402
+# game/scripts/side_char_events.rpy:8401
 translate pt_br kate2_41cf593f:
 
     # kate "Honestly, I can't figure it out. Do you have scars?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8403
+# game/scripts/side_char_events.rpy:8402
 translate pt_br kate2_b7b6c38a:
 
     # got "No! I don't have scars..."
     got ""
 
-# game/scripts/side_char_events.rpy:8405
+# game/scripts/side_char_events.rpy:8404
 translate pt_br kate2_a3bfe05b:
 
     # got "Nnn... You're so annoying Kate..."
     got ""
 
-# game/scripts/side_char_events.rpy:8406
+# game/scripts/side_char_events.rpy:8405
 translate pt_br kate2_60492f1d:
 
     # got "I just don't want anyone to see me naked... It's embarrassing..."
     got ""
 
-# game/scripts/side_char_events.rpy:8408
+# game/scripts/side_char_events.rpy:8407
 translate pt_br kate2_01a50ba6:
 
     # got "And I hate my breasts! They're too big!"
     got ""
 
-# game/scripts/side_char_events.rpy:8410
+# game/scripts/side_char_events.rpy:8409
 translate pt_br kate2_cf9feed2:
 
     # got "I wish I had breasts like yours..."
     got ""
 
-# game/scripts/side_char_events.rpy:8411
+# game/scripts/side_char_events.rpy:8410
 translate pt_br kate2_e533081b:
 
     # kate "Hmm... That's odd for a girl to want smaller breasts... Although I must say I prefer the size of my breasts as well..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8413
+# game/scripts/side_char_events.rpy:8412
 translate pt_br kate2_e1dff62c:
 
     # kate "Contrary to Ashley's body, yours is quite healthy."
     kate ""
 
-# game/scripts/side_char_events.rpy:8414
+# game/scripts/side_char_events.rpy:8413
 translate pt_br kate2_4fa84dfc:
 
     # kate "You're shy, that's obvious. Your above average breast size is bound to get you more attention than you'd like from both women and men."
     kate ""
 
-# game/scripts/side_char_events.rpy:8415
+# game/scripts/side_char_events.rpy:8414
 translate pt_br kate2_86bc0293:
 
     # kate "I suspect girls pick on you for your breast size. Jealous as ever. And men come up to you asking for your number. But all you would like to do is hide in the shadows and live in a corner."
     kate ""
 
-# game/scripts/side_char_events.rpy:8416
+# game/scripts/side_char_events.rpy:8415
 translate pt_br kate2_7007c7a4_1:
 
     # kate "Am I wrong in assuming that?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8418
+# game/scripts/side_char_events.rpy:8417
 translate pt_br kate2_5efa2525:
 
     # got "Wow... No, you're right... Spot on actually..."
     got ""
 
-# game/scripts/side_char_events.rpy:8419
+# game/scripts/side_char_events.rpy:8418
 translate pt_br kate2_a6b1e20b:
 
     # kate "Well that's pretty dumb..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8420
+# game/scripts/side_char_events.rpy:8419
 translate pt_br kate2_9ed52390:
 
     # kate "Get undressed, Juliet... Get in the shower. I'm not leaving until you do."
     kate ""
 
-# game/scripts/side_char_events.rpy:8421
+# game/scripts/side_char_events.rpy:8420
 translate pt_br kate2_ae9e8261:
 
     # got "Egh... Fine... I guess I don't have much of a choice..."
     got ""
 
-# game/scripts/side_char_events.rpy:8423
+# game/scripts/side_char_events.rpy:8422
 translate pt_br kate2_ab727230:
 
     # kate "Not that bad, was it?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8424
+# game/scripts/side_char_events.rpy:8423
 translate pt_br kate2_8a1f1c12:
 
     # got "I-It's pretty bad...!"
     got ""
 
-# game/scripts/side_char_events.rpy:8425
+# game/scripts/side_char_events.rpy:8424
 translate pt_br kate2_916443b1:
 
     # kate "I'm surprised you keep your vagina shaved. Your tits are also a very healthy size. You-"
     kate ""
 
-# game/scripts/side_char_events.rpy:8427
+# game/scripts/side_char_events.rpy:8426
 translate pt_br kate2_2e7b1ce5:
 
     # got "Stop looking at my body! I'm getting in the shower already!"
     got ""
 
-# game/scripts/side_char_events.rpy:8429
+# game/scripts/side_char_events.rpy:8428
 translate pt_br kate2_802ade20:
 
     # got "God... That was so embarrassing..."
     got ""
 
-# game/scripts/side_char_events.rpy:8431
+# game/scripts/side_char_events.rpy:8430
 translate pt_br kate2_bd756cbf:
 
     # got "Nrgh... Someone saw my body... I don't think I'll be able to look her in the eyes ever again... Oh my god..."
     got ""
 
-# game/scripts/side_char_events.rpy:8438
+# game/scripts/side_char_events.rpy:8437
 translate pt_br kate1_03e150b5:
 
     # "You hear a shower running."
     ""
 
-# game/scripts/side_char_events.rpy:8452
+# game/scripts/side_char_events.rpy:8451
 translate pt_br kate1_83f207ce:
 
     # q "I can see you over there..."
     q ""
 
-# game/scripts/side_char_events.rpy:8454
+# game/scripts/side_char_events.rpy:8453
 translate pt_br kate1_2c73de9c:
 
     # c "Oh, sorry. I didn't mean to spy on you."
     c ""
 
-# game/scripts/side_char_events.rpy:8455
+# game/scripts/side_char_events.rpy:8454
 translate pt_br kate1_506ff783:
 
     # q "Why else would you be in the women's locker room?"
     q ""
 
-# game/scripts/side_char_events.rpy:8457
+# game/scripts/side_char_events.rpy:8456
 translate pt_br kate1_08cfd4e6:
 
     # kate "Kate."
     kate ""
 
-# game/scripts/side_char_events.rpy:8458
+# game/scripts/side_char_events.rpy:8457
 translate pt_br kate1_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/side_char_events.rpy:8459
+# game/scripts/side_char_events.rpy:8458
 translate pt_br kate1_a36029df:
 
     # kate "That's my name. Your turn."
     kate ""
 
-# game/scripts/side_char_events.rpy:8460
+# game/scripts/side_char_events.rpy:8459
 translate pt_br kate1_0e5b3a10:
 
     # c "[name]."
     c ""
 
-# game/scripts/side_char_events.rpy:8463
+# game/scripts/side_char_events.rpy:8462
 translate pt_br kate1_46b3a42c:
 
     # kate "I can see you over there, [name]..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8465
+# game/scripts/side_char_events.rpy:8464
 translate pt_br kate1_2c73de9c_1:
 
     # c "Oh, sorry. I didn't mean to spy on you."
     c ""
 
-# game/scripts/side_char_events.rpy:8466
+# game/scripts/side_char_events.rpy:8465
 translate pt_br kate1_5394ef59:
 
     # kate "Why else would you be in the women's locker room?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8469
+# game/scripts/side_char_events.rpy:8468
 translate pt_br kate1_313bdad3:
 
     # c "What's with the outfit?"
     c ""
 
-# game/scripts/side_char_events.rpy:8470
+# game/scripts/side_char_events.rpy:8469
 translate pt_br kate1_885bc875:
 
     # kate "I'm on the track team."
     kate ""
 
-# game/scripts/side_char_events.rpy:8471
+# game/scripts/side_char_events.rpy:8470
 translate pt_br kate1_bbef696a:
 
     # c "You're pretty fit."
     c ""
 
-# game/scripts/side_char_events.rpy:8473
+# game/scripts/side_char_events.rpy:8472
 translate pt_br kate1_bf33356d:
 
     # kate "Hm? Oh, I suppose I am."
     kate ""
 
-# game/scripts/side_char_events.rpy:8477
+# game/scripts/side_char_events.rpy:8476
 translate pt_br kate1_ed0dea7a:
 
     # kate "A side effect of my workouts. I don't quite like my muscles, but I can't exactly run away from them."
     kate ""
 
-# game/scripts/side_char_events.rpy:8478
+# game/scripts/side_char_events.rpy:8477
 translate pt_br kate1_12522a84:
 
     # c "You work out?"
     c ""
 
-# game/scripts/side_char_events.rpy:8479
+# game/scripts/side_char_events.rpy:8478
 translate pt_br kate1_2e39a8c9:
 
     # kate "Of course. Both my mind and my body."
     kate ""
 
-# game/scripts/side_char_events.rpy:8480
+# game/scripts/side_char_events.rpy:8479
 translate pt_br kate1_85ab3947:
 
     # kate "'Your body is a temple.' Or so they say. I keep mine in it's best possible state."
     kate ""
 
-# game/scripts/side_char_events.rpy:8481
+# game/scripts/side_char_events.rpy:8480
 translate pt_br kate1_4fa12454:
 
     # kate "So, I'll ask again. Why are you here?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8484
+# game/scripts/side_char_events.rpy:8483
 translate pt_br kate1_873a925b:
 
     # kate "And were your desires fulfilled?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8485
+# game/scripts/side_char_events.rpy:8484
 translate pt_br kate1_148199a0:
 
     # c "I didn't get a good look."
     c ""
 
-# game/scripts/side_char_events.rpy:8486
+# game/scripts/side_char_events.rpy:8485
 translate pt_br kate1_b678a14d:
 
     # kate "I see."
     kate ""
 
-# game/scripts/side_char_events.rpy:8488
+# game/scripts/side_char_events.rpy:8487
 translate pt_br kate1_77a01d73:
 
     # kate "Does this make up for it?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8492
+# game/scripts/side_char_events.rpy:8491
 translate pt_br kate1_623fad15:
 
     # c "Oh. Why did you do that?"
     c ""
 
-# game/scripts/side_char_events.rpy:8493
+# game/scripts/side_char_events.rpy:8492
 translate pt_br kate1_6cfc3241:
 
     # kate "I hope you don't think I'm a slut, [name]."
     kate ""
 
-# game/scripts/side_char_events.rpy:8494
+# game/scripts/side_char_events.rpy:8493
 translate pt_br kate1_c966b1ef:
 
     # c "You don't have to worry about that."
     c ""
 
-# game/scripts/side_char_events.rpy:8495
+# game/scripts/side_char_events.rpy:8494
 translate pt_br kate1_ca3877b1:
 
     # kate "I typically refrain from sex. At least until my sexual desires overwhelm me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8496
+# game/scripts/side_char_events.rpy:8495
 translate pt_br kate1_01c9e7e4:
 
     # kate "I showed you my breasts simply because there was no reason not to."
     kate ""
 
-# game/scripts/side_char_events.rpy:8497
+# game/scripts/side_char_events.rpy:8496
 translate pt_br kate1_cefe45e1:
 
     # kate "One. There's nobody else here. And two, because you're sexually attracted to me."
     kate ""
 
-# game/scripts/side_char_events.rpy:8498
+# game/scripts/side_char_events.rpy:8497
 translate pt_br kate1_197d5e24:
 
     # c "How do you know I'm attracted to you?"
     c ""
 
-# game/scripts/side_char_events.rpy:8499
+# game/scripts/side_char_events.rpy:8498
 translate pt_br kate1_d2aabf7b:
 
     # kate "Imagine an alternative..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8500
+# game/scripts/side_char_events.rpy:8499
 translate pt_br kate1_dafc7853:
 
     # kate "If you walked in here and saw an ugly old fat man, would you have stayed?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8501
+# game/scripts/side_char_events.rpy:8500
 translate pt_br kate1_e9e7340d:
 
     # c "Probably not..."
     c ""
 
-# game/scripts/side_char_events.rpy:8502
+# game/scripts/side_char_events.rpy:8501
 translate pt_br kate1_d10ca364:
 
     # kate "But you continued to watch me up until I caught you red handed. It didn't look like you were in a rush to leave."
     kate ""
 
-# game/scripts/side_char_events.rpy:8503
+# game/scripts/side_char_events.rpy:8502
 translate pt_br kate1_1e59e811:
 
     # c "That's true..."
     c ""
 
-# game/scripts/side_char_events.rpy:8504
+# game/scripts/side_char_events.rpy:8503
 translate pt_br kate1_cd640b71:
 
     # kate "Therefore, you are sexually attracted to me. I'm assuming you would love to see me fully naked, and I'm assuming you would like to have sexual intercourse with me. Am I wrong?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8507
+# game/scripts/side_char_events.rpy:8506
 translate pt_br kate1_dc84949c:
 
     # kate "I knew it."
     kate ""
 
-# game/scripts/side_char_events.rpy:8508
+# game/scripts/side_char_events.rpy:8507
 translate pt_br kate1_4a6fe6ef:
 
     # kate "Well, I won't rule out that possibility between us. At least from now until one of us dies. However, I'm not that type of girl."
     kate ""
 
-# game/scripts/side_char_events.rpy:8509
+# game/scripts/side_char_events.rpy:8508
 translate pt_br kate1_a6c92dec:
 
     # kate "As I've said before, I refrain from sexual acts until my sexual desires overwhelm me. Thoughts of sex and masturbation fog the mind, and I need mine to be clear and precise."
     kate ""
 
-# game/scripts/side_char_events.rpy:8510
+# game/scripts/side_char_events.rpy:8509
 translate pt_br kate1_ef418b8f:
 
     # kate "Seeing as you're the only man who visits here regularly that isn't a teacher, would you be willing to clear my mind from time to time?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8511
+# game/scripts/side_char_events.rpy:8510
 translate pt_br kate1_1efd468b:
 
     # c "You're very forward."
     c ""
 
-# game/scripts/side_char_events.rpy:8512
+# game/scripts/side_char_events.rpy:8511
 translate pt_br kate1_940fe82d:
 
     # kate "As I've said, I hope you don't think I'm a slut. There are only two ways of clearing the mind of lustful thoughts. Sex and masturbation. And I hear sex always feels better."
     kate ""
 
-# game/scripts/side_char_events.rpy:8513
+# game/scripts/side_char_events.rpy:8512
 translate pt_br kate1_7a5516a7:
 
     # kate "As for my reasons for telling you, you seem fairly knowledgable, at least compared to the boys here. And I'm not willing to be expelled over sexual intercourse with a teacher."
     kate ""
 
-# game/scripts/side_char_events.rpy:8514
+# game/scripts/side_char_events.rpy:8513
 translate pt_br kate1_49729742:
 
     # kate "Yes or no, [name]?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8515
+# game/scripts/side_char_events.rpy:8514
 translate pt_br kate1_3b5eba2d:
 
     # c "Right now?"
     c ""
 
-# game/scripts/side_char_events.rpy:8516
+# game/scripts/side_char_events.rpy:8515
 translate pt_br kate1_db05b118:
 
     # kate "That wasn't an answer to my question."
     kate ""
 
-# game/scripts/side_char_events.rpy:8517
+# game/scripts/side_char_events.rpy:8516
 translate pt_br kate1_eda2a129:
 
     # c "Yes, I guess."
     c ""
 
-# game/scripts/side_char_events.rpy:8518
+# game/scripts/side_char_events.rpy:8517
 translate pt_br kate1_537765b9:
 
     # kate "Good."
     kate ""
 
-# game/scripts/side_char_events.rpy:8520
+# game/scripts/side_char_events.rpy:8519
 translate pt_br kate1_364cb7d8:
 
     # kate "Lying will get you nowhere."
     kate ""
 
-# game/scripts/side_char_events.rpy:8521
+# game/scripts/side_char_events.rpy:8520
 translate pt_br kate1_616e2360:
 
     # kate "You seem to be the only man who regularly vists this college that isn't a teacher. And as I've said before, I refrain from sexual acts until my sexual desires overwhelm me. Thoughts of sex and masturbation fog the mind, and I need mine to be clear and precise."
     kate ""
 
-# game/scripts/side_char_events.rpy:8522
+# game/scripts/side_char_events.rpy:8521
 translate pt_br kate1_1efd468b_1:
 
     # c "You're very forward."
     c ""
 
-# game/scripts/side_char_events.rpy:8523
+# game/scripts/side_char_events.rpy:8522
 translate pt_br kate1_940fe82d_1:
 
     # kate "As I've said, I hope you don't think I'm a slut. There are only two ways of clearing the mind of lustful thoughts. Sex and masturbation. And I hear sex always feels better."
     kate ""
 
-# game/scripts/side_char_events.rpy:8524
+# game/scripts/side_char_events.rpy:8523
 translate pt_br kate1_7a5516a7_1:
 
     # kate "As for my reasons for telling you, you seem fairly knowledgable, at least compared to the boys here. And I'm not willing to be expelled over sexual intercourse with a teacher."
     kate ""
 
-# game/scripts/side_char_events.rpy:8525
+# game/scripts/side_char_events.rpy:8524
 translate pt_br kate1_49729742_1:
 
     # kate "Yes or no, [name]?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8526
+# game/scripts/side_char_events.rpy:8525
 translate pt_br kate1_3b5eba2d_1:
 
     # c "Right now?"
     c ""
 
-# game/scripts/side_char_events.rpy:8527
+# game/scripts/side_char_events.rpy:8526
 translate pt_br kate1_db05b118_1:
 
     # kate "That wasn't an answer to my question."
     kate ""
 
-# game/scripts/side_char_events.rpy:8528
+# game/scripts/side_char_events.rpy:8527
 translate pt_br kate1_eda2a129_1:
 
     # c "Yes, I guess."
     c ""
 
-# game/scripts/side_char_events.rpy:8529
+# game/scripts/side_char_events.rpy:8528
 translate pt_br kate1_537765b9_1:
 
     # kate "Good."
     kate ""
 
-# game/scripts/side_char_events.rpy:8531
+# game/scripts/side_char_events.rpy:8530
 translate pt_br kate1_dafc7853_1:
 
     # kate "If you walked in here and saw an ugly old fat man, would you have stayed?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8532
+# game/scripts/side_char_events.rpy:8531
 translate pt_br kate1_297d93f3_1:
 
     # c "What?"
     c ""
 
-# game/scripts/side_char_events.rpy:8533
+# game/scripts/side_char_events.rpy:8532
 translate pt_br kate1_a914d94d:
 
     # kate "Answer the question."
     kate ""
 
-# game/scripts/side_char_events.rpy:8534
+# game/scripts/side_char_events.rpy:8533
 translate pt_br kate1_e9e7340d_1:
 
     # c "Probably not..."
     c ""
 
-# game/scripts/side_char_events.rpy:8535
+# game/scripts/side_char_events.rpy:8534
 translate pt_br kate1_d10ca364_1:
 
     # kate "But you continued to watch me up until I caught you red handed. It didn't look like you were in a rush to leave."
     kate ""
 
-# game/scripts/side_char_events.rpy:8536
+# game/scripts/side_char_events.rpy:8535
 translate pt_br kate1_1e59e811_1:
 
     # c "That's true..."
     c ""
 
-# game/scripts/side_char_events.rpy:8537
+# game/scripts/side_char_events.rpy:8536
 translate pt_br kate1_5dd70050:
 
     # kate "Therefor, you are sexually attracted to me. I'm assuming you would love to see me fully naked, and I'm assuming you would like to have sexual intercourse with me. Am I wrong?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8540
+# game/scripts/side_char_events.rpy:8539
 translate pt_br kate1_dc84949c_1:
 
     # kate "I knew it."
     kate ""
 
-# game/scripts/side_char_events.rpy:8541
+# game/scripts/side_char_events.rpy:8540
 translate pt_br kate1_4a6fe6ef_1:
 
     # kate "Well, I won't rule out that possibility between us. At least from now until one of us dies. However, I'm not that type of girl."
     kate ""
 
-# game/scripts/side_char_events.rpy:8542
+# game/scripts/side_char_events.rpy:8541
 translate pt_br kate1_72fe529c:
 
     # kate "I refrain from sexual acts until my sexual desires overwhelm me. Thoughts of sex and masturbation fog the mind, and I need mine to be clear and precise."
     kate ""
 
-# game/scripts/side_char_events.rpy:8543
+# game/scripts/side_char_events.rpy:8542
 translate pt_br kate1_ef418b8f_1:
 
     # kate "Seeing as you're the only man who visits here regularly that isn't a teacher, would you be willing to clear my mind from time to time?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8544
+# game/scripts/side_char_events.rpy:8543
 translate pt_br kate1_1efd468b_2:
 
     # c "You're very forward."
     c ""
 
-# game/scripts/side_char_events.rpy:8545
+# game/scripts/side_char_events.rpy:8544
 translate pt_br kate1_23c17215:
 
     # kate "I hope you don't think I'm a slut. There are only two ways of clearing the mind of lustful thoughts. Sex and masturbation. Sex always feels better."
     kate ""
 
-# game/scripts/side_char_events.rpy:8546
+# game/scripts/side_char_events.rpy:8545
 translate pt_br kate1_7a5516a7_2:
 
     # kate "As for my reasons for telling you, you seem fairly knowledgable, at least compared to the boys here. And I'm not willing to be expelled over sexual intercourse with a teacher."
     kate ""
 
-# game/scripts/side_char_events.rpy:8547
+# game/scripts/side_char_events.rpy:8546
 translate pt_br kate1_49729742_2:
 
     # kate "Yes or no, [name]?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8548
+# game/scripts/side_char_events.rpy:8547
 translate pt_br kate1_3b5eba2d_2:
 
     # c "Right now?"
     c ""
 
-# game/scripts/side_char_events.rpy:8549
+# game/scripts/side_char_events.rpy:8548
 translate pt_br kate1_db05b118_2:
 
     # kate "That wasn't an answer to my question."
     kate ""
 
-# game/scripts/side_char_events.rpy:8550
+# game/scripts/side_char_events.rpy:8549
 translate pt_br kate1_eda2a129_2:
 
     # c "Yes, I guess."
     c ""
 
-# game/scripts/side_char_events.rpy:8551
+# game/scripts/side_char_events.rpy:8550
 translate pt_br kate1_537765b9_2:
 
     # kate "Good."
     kate ""
 
-# game/scripts/side_char_events.rpy:8553
+# game/scripts/side_char_events.rpy:8552
 translate pt_br kate1_20647d9c:
 
     # kate "You're saying I'm wrong? That's very rarely the case..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8554
+# game/scripts/side_char_events.rpy:8553
 translate pt_br kate1_0a3ea4ac:
 
     # kate "Oh well, I guess there's no point in arguing. It will get us nowhere."
     kate ""
 
-# game/scripts/side_char_events.rpy:8555
+# game/scripts/side_char_events.rpy:8554
 translate pt_br kate1_f1d73805:
 
     # kate "I'm sorry [name], but I need to go. The track team will begin running any moment now."
     kate ""
 
-# game/scripts/side_char_events.rpy:8556
+# game/scripts/side_char_events.rpy:8555
 translate pt_br kate1_d7410ae4:
 
     # c "You're just going to run now?"
     c ""
 
-# game/scripts/side_char_events.rpy:8557
+# game/scripts/side_char_events.rpy:8556
 translate pt_br kate1_9bf5c596:
 
     # kate "Of course? Why else would I be wearing this?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8558
+# game/scripts/side_char_events.rpy:8557
 translate pt_br kate1_a879cb88:
 
     # c "But you just took a shower."
     c ""
 
-# game/scripts/side_char_events.rpy:8559
+# game/scripts/side_char_events.rpy:8558
 translate pt_br kate1_fecb4963:
 
     # kate "I did. A hot one, specifically. It loosens the muscles and improves performance."
     kate ""
 
-# game/scripts/side_char_events.rpy:8560
+# game/scripts/side_char_events.rpy:8559
 translate pt_br kate1_f8f74c59:
 
     # kate "I don't have anymore time to chat. Goodbye, [name]."
     kate ""
 
-# game/scripts/side_char_events.rpy:8568
+# game/scripts/side_char_events.rpy:8567
 translate pt_br katefootjob2_c75d5da4:
 
     # kate "If you keep coming back for more, I may have to assume you actually enjoy taking your cock out in my classroom..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8570
+# game/scripts/side_char_events.rpy:8569
 translate pt_br katefootjob2_ee1a8aa5:
 
     # kate "Nnnh, there, how is that? Just what you wanted?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8571
+# game/scripts/side_char_events.rpy:8570
 translate pt_br katefootjob2_85c21534:
 
     # kate "Hahhh, you're getting hard again... why you enjoy this so much, I may never understand... but it is very interesting."
     kate ""
 
-# game/scripts/side_char_events.rpy:8572
+# game/scripts/side_char_events.rpy:8571
 translate pt_br katefootjob2_d116ffc6:
 
     # kate "Your heartrate is increasing... you're enjoying this... Hm, what's in that dirty mind, I wonder..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8575
+# game/scripts/side_char_events.rpy:8574
 translate pt_br katefootjob2_e831bd92:
 
     # kate "Ahhh, precum... you're enjoying this a lot, aren't you?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8576
+# game/scripts/side_char_events.rpy:8575
 translate pt_br katefootjob2_603897b0:
 
     # kate "Go on then. Let's see what you have... release a lot this time, okay? I want to see your potential..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8577
+# game/scripts/side_char_events.rpy:8576
 translate pt_br katefootjob2_714d2378:
 
     # kate "Come on, you can do it... your time is almost up. If you don't start cumming, I'm going to stop..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8579
+# game/scripts/side_char_events.rpy:8578
 translate pt_br katefootjob2_c8011fc9:
 
     # kate "ah...!" with ssshake
     kate "" with ssshake
 
-# game/scripts/side_char_events.rpy:8581
+# game/scripts/side_char_events.rpy:8580
 translate pt_br katefootjob2_b1ddd3e4:
 
     # kate "Hm, not bad... perhaps you could reduce your orgasm frequency for me? I really would like to see what you're capable of..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8582
+# game/scripts/side_char_events.rpy:8581
 translate pt_br katefootjob2_67e4e9f6:
 
     # kate "Compose yourself already, don't get me in trouble..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8590
+# game/scripts/side_char_events.rpy:8589
 translate pt_br katefootjob_efa925e4:
 
     # kate "Now, let's see... are my feet too cold? Hm, well that's not very sexy, is it..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8591
+# game/scripts/side_char_events.rpy:8590
 translate pt_br katefootjob_0e03f46f:
 
     # kate "Adding friction to the equation should be the answer..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8593
+# game/scripts/side_char_events.rpy:8592
 translate pt_br katefootjob_f9ba666d:
 
     # kate "Nnnh, how is that? Should be getting warmer... feel any tingling in your groin area...?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8594
+# game/scripts/side_char_events.rpy:8593
 translate pt_br katefootjob_f90db69a:
 
     # kate "You're certainly getting very hard, and just from my feet? How odd... I've heard this is due to the brain crosswiring the sexual and foot recognition areas of the brain during development. Which is very common as those areas of the brain tend to be right next to each other."
     kate ""
 
-# game/scripts/side_char_events.rpy:8595
+# game/scripts/side_char_events.rpy:8594
 translate pt_br katefootjob_20a1a846:
 
     # kate "Sorry if I'm annoying you. This is sort of... fun. I hope you're having fun. You're not embarrassed, are you?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8596
+# game/scripts/side_char_events.rpy:8595
 translate pt_br katefootjob_a1aa178f:
 
     # kate "Hmm, your cock is throbbing more often as we go on, it's almost as if I have a direct link to your heart rate this way. ...Perhaps around 110 at the moment?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8599
+# game/scripts/side_char_events.rpy:8598
 translate pt_br katefootjob_16a0b9a7:
 
     # kate "Ahhh, is that precum? I must be doing it right... those videos have helped it seems. I'm happy I am able to apply my research so effectively..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8600
+# game/scripts/side_char_events.rpy:8599
 translate pt_br katefootjob_fffcb5c0:
 
     # kate "Unless I'm mistaken, your heartrate is increasing... are you getting close to cumming? Right here, in the middle of class? That is so humiliating... I'm glad I'm not you."
     kate ""
 
-# game/scripts/side_char_events.rpy:8601
+# game/scripts/side_char_events.rpy:8600
 translate pt_br katefootjob_d4f30fb0:
 
     # kate "Go on then. Let's see what you have... I'm expecting a very high sperm count from you, otherwise I will be very disappointed..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8602
+# game/scripts/side_char_events.rpy:8601
 translate pt_br katefootjob_714d2378:
 
     # kate "Come on, you can do it... your time is almost up. If you don't start cumming, I'm going to stop..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8604
+# game/scripts/side_char_events.rpy:8603
 translate pt_br katefootjob_29496f9c:
 
     # kate "Oh...!" with ssshake
     kate "" with ssshake
 
-# game/scripts/side_char_events.rpy:8606
+# game/scripts/side_char_events.rpy:8605
 translate pt_br katefootjob_fb50e970:
 
     # kate "The color is nice, the consistency is thick... the volume is slightly lacking though, but perhaps that's due to overuse..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8607
+# game/scripts/side_char_events.rpy:8606
 translate pt_br katefootjob_636a1aac:
 
     # kate "Hm, well you look pleased... happy with your reward?"
     kate ""
 
-# game/scripts/side_char_events.rpy:8608
+# game/scripts/side_char_events.rpy:8607
 translate pt_br katefootjob_67e4e9f6:
 
     # kate "Compose yourself already, don't get me in trouble..."
     kate ""
 
-# game/scripts/side_char_events.rpy:8610
+# game/scripts/side_char_events.rpy:8609
 translate pt_br katefootjob_dec95e9f:
 
     # "You've unlocked a repeatable scene with Kate!"
     ""
 
-# game/scripts/side_char_events.rpy:8624
+# game/scripts/side_char_events.rpy:8623
 translate pt_br han_fuck_repeat_d733553c:
 
     # m "*gasp*! Oh, are you two fucking? Can I watch? Please!"
     m ""
 
-# game/scripts/side_char_events.rpy:8625
+# game/scripts/side_char_events.rpy:8624
 translate pt_br han_fuck_repeat_97add372:
 
     # han "O-Okay..."
     han ""
 
-# game/scripts/side_char_events.rpy:8629
+# game/scripts/side_char_events.rpy:8628
 translate pt_br han_fuck_repeat_d5e9624d:
 
     # han "Haaahg! Nnnnhg!"
     han ""
 
-# game/scripts/side_char_events.rpy:8630
+# game/scripts/side_char_events.rpy:8629
 translate pt_br han_fuck_repeat_aabfd7dd:
 
     # m "That's so hot~"
     m ""
 
-# game/scripts/side_char_events.rpy:8633
+# game/scripts/side_char_events.rpy:8632
 translate pt_br han_fuck_repeat_fd7a9471:
 
     # han "Aaaahg! Nnnnm...! Ahhh! Fuck, mmmh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8635
+# game/scripts/side_char_events.rpy:8634
 translate pt_br han_fuck_repeat_3ed45089:
 
     # han "Haaahhh! Nnnm, that feels so good, [linoname]...! More! Mmmh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8637
+# game/scripts/side_char_events.rpy:8636
 translate pt_br han_fuck_repeat_6f1062ff:
 
     # han "Haaahhh! Nnnm, that feels so good, [name]...! More! Mmmh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8638
+# game/scripts/side_char_events.rpy:8637
 translate pt_br han_fuck_repeat_a3b56162:
 
     # m "Give it to her, [name]! Mmm..."
     m ""
 
-# game/scripts/side_char_events.rpy:8639
+# game/scripts/side_char_events.rpy:8638
 translate pt_br han_fuck_repeat_8ef50f1a:
 
     # han "Aaaah! Hnn! Don't stop, don't stop! Aaah!"
     han ""
 
-# game/scripts/side_char_events.rpy:8643
+# game/scripts/side_char_events.rpy:8642
 translate pt_br han_fuck_repeat_a1662678:
 
     # han "Mmmmh! Aaaah! Fill me up, [linoname]...! Aaah! I want more of your cum!"
     han ""
 
-# game/scripts/side_char_events.rpy:8645
+# game/scripts/side_char_events.rpy:8644
 translate pt_br han_fuck_repeat_ae6d82c7:
 
     # han "Mmmmh! Aaaah! Fill me up, [name]...! Aaah! I want more of your cum!"
     han ""
 
-# game/scripts/side_char_events.rpy:8646
+# game/scripts/side_char_events.rpy:8645
 translate pt_br han_fuck_repeat_3c4c262b:
 
     # m "*gasp*! What a little slut! So daring..."
     m ""
 
-# game/scripts/side_char_events.rpy:8648
+# game/scripts/side_char_events.rpy:8647
 translate pt_br han_fuck_repeat_128310b4:
 
     # han "Aaah! Fuck, fuck! [linoname]! Haaaahg~! Yes, yes, yes! Cum for me~! Cum for me~!"
     han ""
 
-# game/scripts/side_char_events.rpy:8650
+# game/scripts/side_char_events.rpy:8649
 translate pt_br han_fuck_repeat_cd4fe98b:
 
     # han "Aaah! Fuck, fuck! [name]! Haaaahg~! Yes, yes, yes! Cum for me~! Cum for me~!"
     han ""
 
-# game/scripts/side_char_events.rpy:8655
+# game/scripts/side_char_events.rpy:8654
 translate pt_br han_fuck_repeat_b7a8b83e:
 
     # han "NNNGH! Fuck!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8656
+# game/scripts/side_char_events.rpy:8655
 translate pt_br han_fuck_repeat_8d033e83:
 
     # han "Aaaah~! Yes!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8657
+# game/scripts/side_char_events.rpy:8656
 translate pt_br han_fuck_repeat_1e63ed85:
 
     # han "Oh my god, so much...! Aaah!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8660
+# game/scripts/side_char_events.rpy:8659
 translate pt_br han_fuck_repeat_3566e38a:
 
     # han "Nnnh... thank you, [linoname]... I won't forget this..."
     han ""
 
-# game/scripts/side_char_events.rpy:8662
+# game/scripts/side_char_events.rpy:8661
 translate pt_br han_fuck_repeat_134f7626:
 
     # han "Nnnh... thank you, [name]... I won't forget this..."
     han ""
 
-# game/scripts/side_char_events.rpy:8670
+# game/scripts/side_char_events.rpy:8669
 translate pt_br han_fuck_repeat_837e8ede:
 
     # han "Aaah~! Wow...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8672
+# game/scripts/side_char_events.rpy:8671
 translate pt_br han_fuck_repeat_8229217b:
 
     # han "Oh my god... you came so much, it's everywhere..."
     han ""
 
-# game/scripts/side_char_events.rpy:8673
+# game/scripts/side_char_events.rpy:8672
 translate pt_br han_fuck_repeat_0d6db547:
 
     # m "Heheh, need a towel?"
     m ""
 
-# game/scripts/side_char_events.rpy:8679
+# game/scripts/side_char_events.rpy:8678
 translate pt_br hana_vag_dd2240d6:
 
     # han "E-Excuse me...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8680
+# game/scripts/side_char_events.rpy:8679
 translate pt_br hana_vag_4affcf42:
 
     # a "Come in!"
     a ""
 
-# game/scripts/side_char_events.rpy:8682
+# game/scripts/side_char_events.rpy:8681
 translate pt_br hana_vag_3784857a:
 
     # c "...?"
     c ""
 
-# game/scripts/side_char_events.rpy:8684
+# game/scripts/side_char_events.rpy:8683
 translate pt_br hana_vag_f031575d:
 
     # a "Oh, hey Hana! Still enjoying your stay at the hotel?"
     a ""
 
-# game/scripts/side_char_events.rpy:8685
+# game/scripts/side_char_events.rpy:8684
 translate pt_br hana_vag_3c660813:
 
     # han "Hey Ashley. Yeah, I really like it here. I can get so much more drawing done when I don't have to worry about my parents bursting through the door."
     han ""
 
-# game/scripts/side_char_events.rpy:8686
+# game/scripts/side_char_events.rpy:8685
 translate pt_br hana_vag_8eddb675:
 
     # a "Nice. So what's up?"
     a ""
 
-# game/scripts/side_char_events.rpy:8688
+# game/scripts/side_char_events.rpy:8687
 translate pt_br hana_vag_06b0cf05:
 
     # han "Um... well, I could use a little help..."
     han ""
 
-# game/scripts/side_char_events.rpy:8689
+# game/scripts/side_char_events.rpy:8688
 translate pt_br hana_vag_b6c95348:
 
     # han "You know how I'm an artist? Well, I'm working on a, um, comic... and this might sound a little weird, but... I'm looking for inspiration and I thought... you might be a good person to ask."
     han ""
 
-# game/scripts/side_char_events.rpy:8690
+# game/scripts/side_char_events.rpy:8689
 translate pt_br hana_vag_01d306e2:
 
     # a "Oh, you think I could inspire you? Okay! What should I do though?"
     a ""
 
-# game/scripts/side_char_events.rpy:8691
+# game/scripts/side_char_events.rpy:8690
 translate pt_br hana_vag_aa70a579:
 
     # han "I just want you to answer a few questions, that's all."
     han ""
 
-# game/scripts/side_char_events.rpy:8692
+# game/scripts/side_char_events.rpy:8691
 translate pt_br hana_vag_344e8897:
 
     # han "Like, um... what is your favorite kink? What do you fantasize about the most...?"
     han ""
 
-# game/scripts/side_char_events.rpy:8693
+# game/scripts/side_char_events.rpy:8692
 translate pt_br hana_vag_56d75aea:
 
     # a "Huh? Why do you want to know that?"
     a ""
 
-# game/scripts/side_char_events.rpy:8695
+# game/scripts/side_char_events.rpy:8694
 translate pt_br hana_vag_17031189:
 
     # a "Wait! You draw porn, don't you!"
     a ""
 
-# game/scripts/side_char_events.rpy:8696
+# game/scripts/side_char_events.rpy:8695
 translate pt_br hana_vag_628e65eb:
 
     # han "EH!? W-What!?"
     han ""
 
-# game/scripts/side_char_events.rpy:8697
+# game/scripts/side_char_events.rpy:8696
 translate pt_br hana_vag_47ac5eee:
 
     # a "I knew it, I knew it! You have a secret you've been hiding!"
     a ""
 
-# game/scripts/side_char_events.rpy:8698
+# game/scripts/side_char_events.rpy:8697
 translate pt_br hana_vag_cbc8233e:
 
     # han "W-Was it that obvious...?"
     han ""
 
-# game/scripts/side_char_events.rpy:8699
+# game/scripts/side_char_events.rpy:8698
 translate pt_br hana_vag_096108cb:
 
     # a "Not until this moment, but I had my suspicions you were hiding something."
     a ""
 
-# game/scripts/side_char_events.rpy:8701
+# game/scripts/side_char_events.rpy:8700
 translate pt_br hana_vag_d0558526:
 
     # a "Okay, okay, I'll tell you. I don't mind sharing this kind of stuff with you, but you have to show me what you've made when it's finished! Deal?"
     a ""
 
-# game/scripts/side_char_events.rpy:8702
+# game/scripts/side_char_events.rpy:8701
 translate pt_br hana_vag_f7b9a49c:
 
     # han "O-Okay, that's fair."
     han ""
 
-# game/scripts/side_char_events.rpy:8704
+# game/scripts/side_char_events.rpy:8703
 translate pt_br hana_vag_7b585ac9:
 
     # a "Yes! Alright, come take a seat."
     a ""
 
-# game/scripts/side_char_events.rpy:8705
+# game/scripts/side_char_events.rpy:8704
 translate pt_br hana_vag_c1f51213:
 
     # han "Okay..."
     han ""
 
-# game/scripts/side_char_events.rpy:8707
+# game/scripts/side_char_events.rpy:8706
 translate pt_br hana_vag_bef3e450:
 
     # a "So you wanna know my favorite kink? That's easy, I don't even have to think about it. I have a breeding fetish!"
     a ""
 
-# game/scripts/side_char_events.rpy:8708
+# game/scripts/side_char_events.rpy:8707
 translate pt_br hana_vag_69f938f4:
 
     # han "Really? You...?"
     han ""
 
-# game/scripts/side_char_events.rpy:8709
+# game/scripts/side_char_events.rpy:8708
 translate pt_br hana_vag_e4316b10:
 
     # a "What's so surprising about that?"
     a ""
 
-# game/scripts/side_char_events.rpy:8710
+# game/scripts/side_char_events.rpy:8709
 translate pt_br hana_vag_f01bb983:
 
     # han "Nothing, I guess I just... expected something else."
     han ""
 
-# game/scripts/side_char_events.rpy:8711
+# game/scripts/side_char_events.rpy:8710
 translate pt_br hana_vag_e88096a4:
 
     # a "Eh, that's fair. Not many women our age are thinking about settling down, but I'm different. I've always wanted a big happy family. The one I was born in was far from that..."
     a ""
 
-# game/scripts/side_char_events.rpy:8712
+# game/scripts/side_char_events.rpy:8711
 translate pt_br hana_vag_13296724:
 
     # han "Oh... so you want to make your own?"
     han ""
 
-# game/scripts/side_char_events.rpy:8713
+# game/scripts/side_char_events.rpy:8712
 translate pt_br hana_vag_58730418:
 
     # a "Exactly!"
     a ""
 
-# game/scripts/side_char_events.rpy:8714
+# game/scripts/side_char_events.rpy:8713
 translate pt_br hana_vag_a2285863:
 
     # han "And... does it feel good? When he cums inside?"
     han ""
 
-# game/scripts/side_char_events.rpy:8715
+# game/scripts/side_char_events.rpy:8714
 translate pt_br hana_vag_e23f8413:
 
     # a "Better than anything! It makes me feel whole and gives me hope for the future!"
     a ""
 
-# game/scripts/side_char_events.rpy:8716
+# game/scripts/side_char_events.rpy:8715
 translate pt_br hana_vag_dda44149:
 
     # han "I- I wanna try!"
     han ""
 
-# game/scripts/side_char_events.rpy:8717
+# game/scripts/side_char_events.rpy:8716
 translate pt_br hana_vag_09db9eaf:
 
     # a "Huh?"
     a ""
 
-# game/scripts/side_char_events.rpy:8718
+# game/scripts/side_char_events.rpy:8717
 translate pt_br hana_vag_3b82f1fc:
 
     # han "I wanna try! I've never had a creampie before, it sounds really nice!"
     han ""
 
-# game/scripts/side_char_events.rpy:8719
+# game/scripts/side_char_events.rpy:8718
 translate pt_br hana_vag_2032657b:
 
     # a "*gasp*! {i}Never?{/i}\nOkay, we {u}have{/u} to set something up for you! I'll call [name] right now!"
     a ""
 
-# game/scripts/side_char_events.rpy:8721
+# game/scripts/side_char_events.rpy:8720
 translate pt_br hana_vag_2cac8e59:
 
     # han "W-Wait! Right now?"
     han ""
 
-# game/scripts/side_char_events.rpy:8722
+# game/scripts/side_char_events.rpy:8721
 translate pt_br hana_vag_0eca3ddf:
 
     # a "Well, yeah, isn't that why you're here? You need first hand experience if you're going to be a proper artist."
     a ""
 
-# game/scripts/side_char_events.rpy:8723
+# game/scripts/side_char_events.rpy:8722
 translate pt_br hana_vag_bdba10b2:
 
     # han "Yeah, I guess so... O-Okay, I'll be here!"
     han ""
 
-# game/scripts/side_char_events.rpy:8724
+# game/scripts/side_char_events.rpy:8723
 translate pt_br hana_vag_a5f726d7:
 
     # a "Be right back!"
     a ""
 
-# game/scripts/side_char_events.rpy:8726
+# game/scripts/side_char_events.rpy:8725
 translate pt_br hana_vag_2827e243:
 
     # a "Oh hey! There you are~ I have a surprise for you!"
     a ""
 
-# game/scripts/side_char_events.rpy:8727
+# game/scripts/side_char_events.rpy:8726
 translate pt_br hana_vag_d0ae06d2:
 
     # c "Is that so?"
     c ""
 
-# game/scripts/side_char_events.rpy:8728
+# game/scripts/side_char_events.rpy:8727
 translate pt_br hana_vag_8c65b426:
 
     # a "Yep! But before I tell you, you have to promise to take me on a date later, okay?"
     a ""
 
-# game/scripts/side_char_events.rpy:8731
+# game/scripts/side_char_events.rpy:8730
 translate pt_br hana_vag_f42358ba:
 
     # a "Yes! Okay, follow me!"
     a ""
 
-# game/scripts/side_char_events.rpy:8734
+# game/scripts/side_char_events.rpy:8733
 translate pt_br hana_vag_194e5191:
 
     # a "Ugh... really? You'll really like it..."
     a ""
 
-# game/scripts/side_char_events.rpy:8735
+# game/scripts/side_char_events.rpy:8734
 translate pt_br hana_vag_5566ed5f:
 
     # c "Tell me."
     c ""
 
-# game/scripts/side_char_events.rpy:8736
+# game/scripts/side_char_events.rpy:8735
 translate pt_br hana_vag_7ba63e76:
 
     # a "Fine, whatever..."
     a ""
 
-# game/scripts/side_char_events.rpy:8738
+# game/scripts/side_char_events.rpy:8737
 translate pt_br hana_vag_d66029b9:
 
     # a "Just follow me."
     a ""
 
-# game/scripts/side_char_events.rpy:8740
+# game/scripts/side_char_events.rpy:8739
 translate pt_br hana_vag_590fb3b9:
 
     # a "Hana has something she wants to tell you~!"
     a ""
 
-# game/scripts/side_char_events.rpy:8741
+# game/scripts/side_char_events.rpy:8740
 translate pt_br hana_vag_4cdbb9f7:
 
     # han "..."
     han ""
 
-# game/scripts/side_char_events.rpy:8742
+# game/scripts/side_char_events.rpy:8741
 translate pt_br hana_vag_bb8e4b4e:
 
     # a "..."
     a ""
 
-# game/scripts/side_char_events.rpy:8744
+# game/scripts/side_char_events.rpy:8743
 translate pt_br hana_vag_8b889278:
 
     # a "Hana?"
     a ""
 
-# game/scripts/side_char_events.rpy:8745
+# game/scripts/side_char_events.rpy:8744
 translate pt_br hana_vag_4cdbb9f7_1:
 
     # han "..."
     han ""
 
-# game/scripts/side_char_events.rpy:8746
+# game/scripts/side_char_events.rpy:8745
 translate pt_br hana_vag_a9de03fe:
 
     # a "Hana? Go ahead."
     a ""
 
-# game/scripts/side_char_events.rpy:8747
+# game/scripts/side_char_events.rpy:8746
 translate pt_br hana_vag_4cdbb9f7_2:
 
     # han "..."
     han ""
 
-# game/scripts/side_char_events.rpy:8748
+# game/scripts/side_char_events.rpy:8747
 translate pt_br hana_vag_58a68da8:
 
     # a "*sigh*, why does this have to be so hard...?"
     a ""
 
-# game/scripts/side_char_events.rpy:8750
+# game/scripts/side_char_events.rpy:8749
 translate pt_br hana_vag_11d05e58:
 
     # a "Hana wants you to cum inside her!"
     a ""
 
-# game/scripts/side_char_events.rpy:8751
+# game/scripts/side_char_events.rpy:8750
 translate pt_br hana_vag_bdbaba34:
 
     # han "Nnnnnh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8752
+# game/scripts/side_char_events.rpy:8751
 translate pt_br hana_vag_030d407c:
 
     # a "Like, a lot!"
     a ""
 
-# game/scripts/side_char_events.rpy:8754
+# game/scripts/side_char_events.rpy:8753
 translate pt_br hana_vag_66b2d810:
 
     # a "She wants to know so she has experience, and she's hoping that makes her a better artist. Isn't that right?"
     a ""
 
-# game/scripts/side_char_events.rpy:8755
+# game/scripts/side_char_events.rpy:8754
 translate pt_br hana_vag_853d2266:
 
     # han "Mmmhm...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8756
+# game/scripts/side_char_events.rpy:8755
 translate pt_br hana_vag_1c2f5ce4:
 
     # a "That's a yes! So go ahead, start fucking!"
     a ""
 
-# game/scripts/side_char_events.rpy:8757
+# game/scripts/side_char_events.rpy:8756
 translate pt_br hana_vag_79e2555e:
 
     # c "Is that what you want, Hana?"
     c ""
 
-# game/scripts/side_char_events.rpy:8758
+# game/scripts/side_char_events.rpy:8757
 translate pt_br hana_vag_64f8981c:
 
     # han "Ummm...\nMmmhm...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8760
+# game/scripts/side_char_events.rpy:8759
 translate pt_br hana_vag_2a59c8f4:
 
     # a "So get undressed, stupid. I don't need to tell you how this works, right? You gotta get his cock hard first!"
     a ""
 
-# game/scripts/side_char_events.rpy:8761
+# game/scripts/side_char_events.rpy:8760
 translate pt_br hana_vag_b6ef8d03:
 
     # han "C-Can we go into my- I mean Maria's room...? I'd feel more comfortable in there..."
     han ""
 
-# game/scripts/side_char_events.rpy:8762
+# game/scripts/side_char_events.rpy:8761
 translate pt_br hana_vag_80c2fa0d:
 
     # a "What? But I wanna watch!"
     a ""
 
-# game/scripts/side_char_events.rpy:8763
+# game/scripts/side_char_events.rpy:8762
 translate pt_br hana_vag_26cc22d1:
 
     # han "I don't care, I- I just want to go to Maria's room..."
     han ""
 
-# game/scripts/side_char_events.rpy:8764
+# game/scripts/side_char_events.rpy:8763
 translate pt_br hana_vag_59eda741:
 
     # c "Sure, we can do that."
     c ""
 
-# game/scripts/side_char_events.rpy:8765
+# game/scripts/side_char_events.rpy:8764
 translate pt_br hana_vag_e2995cff:
 
     # a "But I still get to watch, right?"
     a ""
 
-# game/scripts/side_char_events.rpy:8766
+# game/scripts/side_char_events.rpy:8765
 translate pt_br hana_vag_3b369100:
 
     # han "I-If you want..."
     han ""
 
-# game/scripts/side_char_events.rpy:8767
+# game/scripts/side_char_events.rpy:8766
 translate pt_br hana_vag_f5c8d33a:
 
     # a "Yes!"
     a ""
 
-# game/scripts/side_char_events.rpy:8770
+# game/scripts/side_char_events.rpy:8769
 translate pt_br hana_vag_9d5b6f79:
 
     # han "M-Maria...?\nShe was just here a moment ago..."
     han ""
 
-# game/scripts/side_char_events.rpy:8771
+# game/scripts/side_char_events.rpy:8770
 translate pt_br hana_vag_4f27e1e9:
 
     # a "Maybe she went to the restroom, who cares! I wanna see you get your first creampie! Get undressed and get on the bed already!"
     a ""
 
-# game/scripts/side_char_events.rpy:8772
+# game/scripts/side_char_events.rpy:8771
 translate pt_br hana_vag_737158c6:
 
     # han "O-Okay...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8775
+# game/scripts/side_char_events.rpy:8774
 translate pt_br hana_vag_55b393ff:
 
     # a "She's ready~\nCome on! Hurry, hurry!"
     a ""
 
-# game/scripts/side_char_events.rpy:8776
+# game/scripts/side_char_events.rpy:8775
 translate pt_br hana_vag_33100ef8:
 
     # han "Heheh, nnnh... we don't have to rush things, Ashley..."
     han ""
 
-# game/scripts/side_char_events.rpy:8778
+# game/scripts/side_char_events.rpy:8777
 translate pt_br hana_vag_a4efa005:
 
     # han "Ehhh, I'm so nervous... just don't get me pregnant, please..."
     han ""
 
-# game/scripts/side_char_events.rpy:8779
+# game/scripts/side_char_events.rpy:8778
 translate pt_br hana_vag_b15028b9:
 
     # a "You don't have to worry about that, I've been trying for forever now, and still no luck..."
     a ""
 
-# game/scripts/side_char_events.rpy:8780
+# game/scripts/side_char_events.rpy:8779
 translate pt_br hana_vag_cbf9f96f:
 
     # a "...If you get pregnant before me, I'm going to be so mad."
     a ""
 
-# game/scripts/side_char_events.rpy:8781
+# game/scripts/side_char_events.rpy:8780
 translate pt_br hana_vag_83a5825e:
 
     # han "O-Okay then..."
     han ""
 
-# game/scripts/side_char_events.rpy:8783
+# game/scripts/side_char_events.rpy:8782
 translate pt_br hana_vag_51fac087:
 
     # han "Y-You can take your time with me... I really liked our last time."
     han ""
 
-# game/scripts/side_char_events.rpy:8784
+# game/scripts/side_char_events.rpy:8783
 translate pt_br hana_vag_d84f3cc6:
 
     # a "What!? You two had sex already!?"
     a ""
 
-# game/scripts/side_char_events.rpy:8785
+# game/scripts/side_char_events.rpy:8784
 translate pt_br hana_vag_5d640e17:
 
     # a "*sigh*... why am I surprised...."
     a ""
 
-# game/scripts/side_char_events.rpy:8787
+# game/scripts/side_char_events.rpy:8786
 translate pt_br hana_vag_471ba2b2:
 
     # han "Hnnnn...! NNNGH! Aaah~!"
     han ""
 
-# game/scripts/side_char_events.rpy:8791
+# game/scripts/side_char_events.rpy:8790
 translate pt_br hana_vag_fd7a9471:
 
     # han "Aaaahg! Nnnnm...! Ahhh! Fuck, mmmh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8793
+# game/scripts/side_char_events.rpy:8792
 translate pt_br hana_vag_62830137:
 
     # han "Haaahhh! Nnnm, I hope you cum a lot, [linoname]...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8795
+# game/scripts/side_char_events.rpy:8794
 translate pt_br hana_vag_3cb1aa3c:
 
     # han "Haaahhh! Nnnm, I hope you cum a lot, [name]...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8796
+# game/scripts/side_char_events.rpy:8795
 translate pt_br hana_vag_c83446e7:
 
     # a "He always cums a lot! Don't even worry about it."
     a ""
 
-# game/scripts/side_char_events.rpy:8798
+# game/scripts/side_char_events.rpy:8797
 translate pt_br hana_vag_97e2cad3:
 
     # han "Nnnm! Is that true, [linoname]? Ahh... does my pussy feel good enough? Nnnh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8800
+# game/scripts/side_char_events.rpy:8799
 translate pt_br hana_vag_6f57f0e0:
 
     # han "Nnnm! Is that true, [name]? Ahh... does my pussy feel good enough? Nnnh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8801
+# game/scripts/side_char_events.rpy:8800
 translate pt_br hana_vag_d7a04791:
 
     # han "Yes, yes...! Nnnm! You feel so good! Aaahhh!"
     han ""
 
-# game/scripts/side_char_events.rpy:8802
+# game/scripts/side_char_events.rpy:8801
 translate pt_br hana_vag_6e2bd50d:
 
     # a "Hey, wait... this isn't just some trick to fuck my boyfriend, is it?"
     a ""
 
-# game/scripts/side_char_events.rpy:8803
+# game/scripts/side_char_events.rpy:8802
 translate pt_br hana_vag_60788ad4:
 
     # han "N-No, mmmh! What do you mean?"
     han ""
 
-# game/scripts/side_char_events.rpy:8804
+# game/scripts/side_char_events.rpy:8803
 translate pt_br hana_vag_4f339184:
 
     # a "You seem to be enjoying this a bit too much for 'research'..."
     a ""
 
-# game/scripts/side_char_events.rpy:8805
+# game/scripts/side_char_events.rpy:8804
 translate pt_br hana_vag_f5114776:
 
     # han "W-Well, nnnh! He's good at it...! Aaah!"
     han ""
 
-# game/scripts/side_char_events.rpy:8806
+# game/scripts/side_char_events.rpy:8805
 translate pt_br hana_vag_387740f4:
 
     # a "Hehe~ I won't deny that!"
     a ""
 
-# game/scripts/side_char_events.rpy:8810
+# game/scripts/side_char_events.rpy:8809
 translate pt_br hana_vag_38774cb6:
 
     # han "Mmmmh! Aaaah! Fill me up, [linoname]...! Aaah! I really want to know what it feels like!"
     han ""
 
-# game/scripts/side_char_events.rpy:8812
+# game/scripts/side_char_events.rpy:8811
 translate pt_br hana_vag_b1e07a0c:
 
     # han "Mmmmh! Aaaah! Fill me up, [name]...! Aaah! I really want to know what it feels like!"
     han ""
 
-# game/scripts/side_char_events.rpy:8813
+# game/scripts/side_char_events.rpy:8812
 translate pt_br hana_vag_80918362:
 
     # a "Y-Yeah, you've had enough fun with her... you can cum now."
     a ""
 
-# game/scripts/side_char_events.rpy:8816
+# game/scripts/side_char_events.rpy:8815
 translate pt_br hana_vag_ee986a0f:
 
     # han "Aaah! Fuck, fuck! [linoname]! Haaaahg~! Yes, yes, yes! Cum for me~!"
     han ""
 
-# game/scripts/side_char_events.rpy:8818
+# game/scripts/side_char_events.rpy:8817
 translate pt_br hana_vag_637c2aaf:
 
     # han "Aaah! Fuck, fuck! [name]! Haaaahg~! Yes, yes, yes! Cum for me~!"
     han ""
 
-# game/scripts/side_char_events.rpy:8820
+# game/scripts/side_char_events.rpy:8819
 translate pt_br hana_vag_fcf0cf26:
 
     # han "NNNGH!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8821
+# game/scripts/side_char_events.rpy:8820
 translate pt_br hana_vag_8d033e83:
 
     # han "Aaaah~! Yes!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8822
+# game/scripts/side_char_events.rpy:8821
 translate pt_br hana_vag_1e63ed85:
 
     # han "Oh my god, so much...! Aaah!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8824
+# game/scripts/side_char_events.rpy:8823
 translate pt_br hana_vag_07cdbccd:
 
     # han "Mmmh, oh wow... that feels so strange... I really like it..."
     han ""
 
-# game/scripts/side_char_events.rpy:8826
+# game/scripts/side_char_events.rpy:8825
 translate pt_br hana_vag_3566e38a:
 
     # han "Nnnh... thank you, [linoname]... I won't forget this..."
     han ""
 
-# game/scripts/side_char_events.rpy:8828
+# game/scripts/side_char_events.rpy:8827
 translate pt_br hana_vag_134f7626:
 
     # han "Nnnh... thank you, [name]... I won't forget this..."
     han ""
 
-# game/scripts/side_char_events.rpy:8830
+# game/scripts/side_char_events.rpy:8829
 translate pt_br hana_vag_e77884af:
 
     # a "When you're done with that, can you give it to me?"
     a ""
 
-# game/scripts/side_char_events.rpy:8831
+# game/scripts/side_char_events.rpy:8830
 translate pt_br hana_vag_caa5c62d:
 
     # han "W-What?"
     han ""
 
-# game/scripts/side_char_events.rpy:8832
+# game/scripts/side_char_events.rpy:8831
 translate pt_br hana_vag_fb0a06a2:
 
     # a "I don't want to waste any! Besides, you don't want it, right?"
     a ""
 
-# game/scripts/side_char_events.rpy:8833
+# game/scripts/side_char_events.rpy:8832
 translate pt_br hana_vag_6aea3194:
 
     # han "Nnnh... Ashley..."
     han ""
 
-# game/scripts/side_char_events.rpy:8835
+# game/scripts/side_char_events.rpy:8834
 translate pt_br hana_vag_38ec087e:
 
     # "You've unlocked repeatable sex with Hana!"
     ""
 
-# game/scripts/side_char_events.rpy:8843
+# game/scripts/side_char_events.rpy:8842
 translate pt_br hana_rbj_aac71179:
 
     # "Hana and Maria swap to something sexy..."
     ""
 
-# game/scripts/side_char_events.rpy:8845
+# game/scripts/side_char_events.rpy:8844
 translate pt_br hana_rbj_529e8d4b:
 
     # m "Mmmn, if I don't get to have my fun, then I at least get to kiss my cock goodbye~"
     m ""
 
-# game/scripts/side_char_events.rpy:8847
+# game/scripts/side_char_events.rpy:8846
 translate pt_br hana_rbj_b27a6e4b:
 
     # m "Have fun~"
     m ""
 
-# game/scripts/side_char_events.rpy:8849
+# game/scripts/side_char_events.rpy:8848
 translate pt_br hana_rbj_d7c83da2:
 
     # han "Mmmmn..."
     han ""
 
-# game/scripts/side_char_events.rpy:8851
+# game/scripts/side_char_events.rpy:8850
 translate pt_br hana_rbj_e4ec683d:
 
     # han "Hnnnghk...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8853
+# game/scripts/side_char_events.rpy:8852
 translate pt_br hana_rbj_1da278df:
 
     # han "Aahhhmn...! Mmmmph...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8854
+# game/scripts/side_char_events.rpy:8853
 translate pt_br hana_rbj_a2da012a:
 
     # m "Good job! You're a pro at this now..."
     m ""
 
-# game/scripts/side_char_events.rpy:8855
+# game/scripts/side_char_events.rpy:8854
 translate pt_br hana_rbj_7b7e6f56:
 
     # han "Thank you... nnnghk...! I love sucking cock... Mmmngh...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8857
+# game/scripts/side_char_events.rpy:8856
 translate pt_br hana_rbj_a2a79a73:
 
     # han "Hahhh... [linoname]... mmmmnh... am I doing a good job...? Ahmmngh..."
     han ""
 
-# game/scripts/side_char_events.rpy:8859
+# game/scripts/side_char_events.rpy:8858
 translate pt_br hana_rbj_f05f3ce4:
 
     # han "Hahhh... [name]... mmmmnh... am I doing a good job...? Ahmmngh..."
     han ""
 
-# game/scripts/side_char_events.rpy:8860
+# game/scripts/side_char_events.rpy:8859
 translate pt_br hana_rbj_a6bc22a7:
 
     # han "I... mmmph... I really hope I'm doing a good job... nnngh...! Mmmn..."
     han ""
 
-# game/scripts/side_char_events.rpy:8861
+# game/scripts/side_char_events.rpy:8860
 translate pt_br hana_rbj_fcf45039:
 
     # m "Nnnm... keep going... you're going to make him cum!"
     m ""
 
-# game/scripts/side_char_events.rpy:8862
+# game/scripts/side_char_events.rpy:8861
 translate pt_br hana_rbj_793a15db:
 
     # han "Y-Yes... finally...! Nnnghk... Please...! Mmmngh...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8866
+# game/scripts/side_char_events.rpy:8865
 translate pt_br hana_rbj_7d01a446:
 
     # han "[linoname]...! [linoname]... mmmph... I need your cum...! Mmmn... I want it so bad..."
     han ""
 
-# game/scripts/side_char_events.rpy:8868
+# game/scripts/side_char_events.rpy:8867
 translate pt_br hana_rbj_1c65cdf7:
 
     # han "[name]...! [name]... mmmph... I need your cum...! Mmmn... I want it so bad..."
     han ""
 
-# game/scripts/side_char_events.rpy:8869
+# game/scripts/side_char_events.rpy:8868
 translate pt_br hana_rbj_d7ad9731:
 
     # m "You're such a dirty girl..."
     m ""
 
-# game/scripts/side_char_events.rpy:8870
+# game/scripts/side_char_events.rpy:8869
 translate pt_br hana_rbj_a0e14262:
 
     # han "I... Nnngh...! I just... need it...! Ngghk! Mmmph!"
     han ""
 
-# game/scripts/side_char_events.rpy:8872
+# game/scripts/side_char_events.rpy:8871
 translate pt_br hana_rbj_42a402a7:
 
     # han "Please...! Cum...! Mmmph! Nnnnghk! Nnngh! Nnngh! [linoname]! [linoname]! Cum...! Cum...! Cum...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8874
+# game/scripts/side_char_events.rpy:8873
 translate pt_br hana_rbj_c586f86c:
 
     # han "Please...! Cum...! Mmmph! Nnnnghk! Nnngh! Nnngh! [name]! [name]! Cum...! Cum...! Cum...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8878
+# game/scripts/side_char_events.rpy:8877
 translate pt_br hana_rbj_b12271e1:
 
     # han "NNNNGH!?" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8879
+# game/scripts/side_char_events.rpy:8878
 translate pt_br hana_rbj_ff0998a9:
 
     # han "Hnnnghk...! Nnngh...!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8880
+# game/scripts/side_char_events.rpy:8879
 translate pt_br hana_rbj_9290890c:
 
     # han "*gulp*! Nnngh...! *gulp*!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8882
+# game/scripts/side_char_events.rpy:8881
 translate pt_br hana_rbj_368955dc:
 
     # m "You swallowed it all! I'm proud of you..."
     m ""
 
-# game/scripts/side_char_events.rpy:8883
+# game/scripts/side_char_events.rpy:8882
 translate pt_br hana_rbj_a1f7b45a:
 
     # han "Heheh..."
     han ""
 
-# game/scripts/side_char_events.rpy:8887
+# game/scripts/side_char_events.rpy:8886
 translate pt_br hana_rbj_a045c5d5:
 
     # m "Get ready, he's cumming~!"
     m ""
 
-# game/scripts/side_char_events.rpy:8888
+# game/scripts/side_char_events.rpy:8887
 translate pt_br hana_rbj_67715ff0:
 
     # han "Ahh...! Aaah...! Aaah...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8890
+# game/scripts/side_char_events.rpy:8889
 translate pt_br hana_rbj_2ca5cf7b:
 
     # han "Aaah!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:8892
+# game/scripts/side_char_events.rpy:8891
 translate pt_br hana_rbj_8bbc7fe1:
 
     # m "You did such a good job~! And you look so beautiful..."
     m ""
 
-# game/scripts/side_char_events.rpy:8893
+# game/scripts/side_char_events.rpy:8892
 translate pt_br hana_rbj_35241667:
 
     # han "Heheh, thanks..."
     han ""
 
-# game/scripts/side_char_events.rpy:8900
+# game/scripts/side_char_events.rpy:8899
 translate pt_br hana_1_01bb07ab:
 
     # m "Hey [name]! We have a favor to ask."
     m ""
 
-# game/scripts/side_char_events.rpy:8903
+# game/scripts/side_char_events.rpy:8902
 translate pt_br hana_1_b54df032:
 
     # m "We were just talking... and she really wants to go out with you! But she's too shy to ask herself..."
     m ""
 
-# game/scripts/side_char_events.rpy:8906
+# game/scripts/side_char_events.rpy:8905
 translate pt_br hana_1_f4ced16f:
 
     # m "What do you say? Want to take her out? I've already made plans, so it will just be you two."
     m ""
 
-# game/scripts/side_char_events.rpy:8910
+# game/scripts/side_char_events.rpy:8909
 translate pt_br hana_1_0f277f7d:
 
     # han "Really?"
     han ""
 
-# game/scripts/side_char_events.rpy:8912
+# game/scripts/side_char_events.rpy:8911
 translate pt_br hana_1_ceab4813:
 
     # m "Okay, see ya later Hana! Text me."
     m ""
 
-# game/scripts/side_char_events.rpy:8913
+# game/scripts/side_char_events.rpy:8912
 translate pt_br hana_1_ee5807cc:
 
     # han "W-Wait!"
     han ""
 
-# game/scripts/side_char_events.rpy:8915
+# game/scripts/side_char_events.rpy:8914
 translate pt_br hana_1_d94e12ac:
 
     # han "Ehh, heheh..."
     han ""
 
-# game/scripts/side_char_events.rpy:8916
+# game/scripts/side_char_events.rpy:8915
 translate pt_br hana_1_fb6fbcf5:
 
     # han "W-We were talking... and, um... I told her I wanted to, you know... do new things, so... she said I should go somewhere I've never been, but like, um... I can't actually drive, and... I don't really, like... want to go anywhere alone, soooo..."
     han ""
 
-# game/scripts/side_char_events.rpy:8918
+# game/scripts/side_char_events.rpy:8917
 translate pt_br hana_1_e708a092:
 
     # c "That's fine, I'm happy to go anywhere with you. Where do you want to go?"
     c ""
 
-# game/scripts/side_char_events.rpy:8919
+# game/scripts/side_char_events.rpy:8918
 translate pt_br hana_1_b0e4e6ca:
 
     # han "Oh! Uhh, well... that's the thing... I don't know many locations..."
     han ""
 
-# game/scripts/side_char_events.rpy:8921
+# game/scripts/side_char_events.rpy:8920
 translate pt_br hana_1_a41ac50c:
 
     # han "Maybe we could... go hiking, or... walk on the beach, or..."
     han ""
 
-# game/scripts/side_char_events.rpy:8923
+# game/scripts/side_char_events.rpy:8922
 translate pt_br hana_1_32a7f4fd:
 
     # han "*gasp*! Can you take me to a fast food restaurant?"
     han ""
 
-# game/scripts/side_char_events.rpy:8924
+# game/scripts/side_char_events.rpy:8923
 translate pt_br hana_1_66125fe1:
 
     # c "Hah, sure, but why do you sound so excited?"
     c ""
 
-# game/scripts/side_char_events.rpy:8926
+# game/scripts/side_char_events.rpy:8925
 translate pt_br hana_1_41957c66:
 
     # han "My parents would never let me eat that junk..."
     han ""
 
-# game/scripts/side_char_events.rpy:8928
+# game/scripts/side_char_events.rpy:8927
 translate pt_br hana_1_4da511bd:
 
     # han "But it tastes so good, so... heheh..."
     han ""
 
-# game/scripts/side_char_events.rpy:8929
+# game/scripts/side_char_events.rpy:8928
 translate pt_br hana_1_ec5f6c85:
 
     # c "That's fine with me, are you ready now?"
     c ""
 
-# game/scripts/side_char_events.rpy:8931
+# game/scripts/side_char_events.rpy:8930
 translate pt_br hana_1_2d767997:
 
     # han "Oh, yes, I'm ready... I'll follow you to your car..."
     han ""
 
-# game/scripts/side_char_events.rpy:8933
+# game/scripts/side_char_events.rpy:8932
 translate pt_br hana_1_051eb3a8:
 
     # "You drive Hana to one of the most popular fast food restaurants in the city. You usually aren't one to eat fast food, but this is a special occasion for Hana..."
     ""
 
-# game/scripts/side_char_events.rpy:8935
+# game/scripts/side_char_events.rpy:8934
 translate pt_br hana_1_5cff9a2f:
 
     # han "Oh, it's not nearly as dirty as I thought it would be."
     han ""
 
-# game/scripts/side_char_events.rpy:8936
+# game/scripts/side_char_events.rpy:8935
 translate pt_br hana_1_b79b184d:
 
     # c "What were you expecting?"
     c ""
 
-# game/scripts/side_char_events.rpy:8937
+# game/scripts/side_char_events.rpy:8936
 translate pt_br hana_1_4b0a419a:
 
     # han "Rats on the ceiling, roaches in the food, homeless people eating out of the trash, and... yep! An elf serving food."
     han ""
 
-# game/scripts/side_char_events.rpy:8938
+# game/scripts/side_char_events.rpy:8937
 translate pt_br hana_1_82fba3aa:
 
     # c "Your parents told you some crazy stuff..."
     c ""
 
-# game/scripts/side_char_events.rpy:8940
+# game/scripts/side_char_events.rpy:8939
 translate pt_br hana_1_bba21a28:
 
     # cashier "Welcome to Juicy Burger, can I get you a... juicy burger?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8941
+# game/scripts/side_char_events.rpy:8940
 translate pt_br hana_1_06e95ef6:
 
     # han "Oooh! How juicy is it?"
     han ""
 
-# game/scripts/side_char_events.rpy:8942
+# game/scripts/side_char_events.rpy:8941
 translate pt_br hana_1_ba076886:
 
     # cashier "Depends on the day... It's edible..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8943
+# game/scripts/side_char_events.rpy:8942
 translate pt_br hana_1_a928c9e6:
 
     # han "Eheheh, a joke...?"
     han ""
 
-# game/scripts/side_char_events.rpy:8944
+# game/scripts/side_char_events.rpy:8943
 translate pt_br hana_1_41b57239:
 
     # cashier "Do you want one or not?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8946
+# game/scripts/side_char_events.rpy:8945
 translate pt_br hana_1_5be31245:
 
     # han "Oooh, umm..."
     han ""
 
-# game/scripts/side_char_events.rpy:8947
+# game/scripts/side_char_events.rpy:8946
 translate pt_br hana_1_be805dfa:
 
     # han "Are there any nuts in the burger? I'm allergic..."
     han ""
 
-# game/scripts/side_char_events.rpy:8948
+# game/scripts/side_char_events.rpy:8947
 translate pt_br hana_1_c0bee7af:
 
     # cashier "Um, no...? It's just a meat burger... I've never been asked that question in my entire 53 years of working here..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8949
+# game/scripts/side_char_events.rpy:8948
 translate pt_br hana_1_de16fe5a:
 
     # han "You never know what they put in the meat..."
     han ""
 
-# game/scripts/side_char_events.rpy:8950
+# game/scripts/side_char_events.rpy:8949
 translate pt_br hana_1_a4e3f850:
 
     # cashier "It's cow..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8951
+# game/scripts/side_char_events.rpy:8950
 translate pt_br hana_1_f7234298:
 
     # cashier "Unless seasame seeds count...?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8952
+# game/scripts/side_char_events.rpy:8951
 translate pt_br hana_1_79ca3b3b:
 
     # han "No, I can eat those..."
     han ""
 
-# game/scripts/side_char_events.rpy:8954
+# game/scripts/side_char_events.rpy:8953
 translate pt_br hana_1_24ce0c3b:
 
     # han "You don't have many options, do you..."
     han ""
 
-# game/scripts/side_char_events.rpy:8955
+# game/scripts/side_char_events.rpy:8954
 translate pt_br hana_1_291c89b4:
 
     # cashier "That's why it's called fast food..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8956
+# game/scripts/side_char_events.rpy:8955
 translate pt_br hana_1_db0bff67:
 
     # han "Hmmm... Okay, I'll take a juicy burger without tomato please."
     han ""
 
-# game/scripts/side_char_events.rpy:8958
+# game/scripts/side_char_events.rpy:8957
 translate pt_br hana_1_cbb6efdd:
 
     # cashier "Coming up..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8960
+# game/scripts/side_char_events.rpy:8959
 translate pt_br hana_1_4180266d:
 
     # cashier "May I interest you in fries?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8961
+# game/scripts/side_char_events.rpy:8960
 translate pt_br hana_1_7d966e80:
 
     # han "A-Are you gonna cook it...?"
     han ""
 
-# game/scripts/side_char_events.rpy:8962
+# game/scripts/side_char_events.rpy:8961
 translate pt_br hana_1_df3eb64b:
 
     # cashier "Seriously...?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8964
+# game/scripts/side_char_events.rpy:8963
 translate pt_br hana_1_6e8e695f:
 
     # han "D-D-Do I have to cook it myself...!? I'm a horrible cook...!"
     han ""
 
-# game/scripts/side_char_events.rpy:8965
+# game/scripts/side_char_events.rpy:8964
 translate pt_br hana_1_5cdc3458:
 
     # cashier "The chef made it 10 minutes ago, we've been keeping it warm. Just. For. You..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8966
+# game/scripts/side_char_events.rpy:8965
 translate pt_br hana_1_41c747fe:
 
     # han "O-Oh, well in that case..."
     han ""
 
-# game/scripts/side_char_events.rpy:8968
+# game/scripts/side_char_events.rpy:8967
 translate pt_br hana_1_5cd9002c:
 
     # han "Fries please! A-And soda! Large soda!"
     han ""
 
-# game/scripts/side_char_events.rpy:8969
+# game/scripts/side_char_events.rpy:8968
 translate pt_br hana_1_a99fc682:
 
     # cashier "Great... and what would the master like?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8970
+# game/scripts/side_char_events.rpy:8969
 translate pt_br hana_1_93baa43d:
 
     # c "One juicy burger, fries, and coffee."
     c ""
 
-# game/scripts/side_char_events.rpy:8972
+# game/scripts/side_char_events.rpy:8971
 translate pt_br hana_1_0c7dee80:
 
     # cashier "Wonderful... see how fast that was, girl?"
     cashier ""
 
-# game/scripts/side_char_events.rpy:8973
+# game/scripts/side_char_events.rpy:8972
 translate pt_br hana_1_37cc080c:
 
     # han "S-Sorry..."
     han ""
 
-# game/scripts/side_char_events.rpy:8974
+# game/scripts/side_char_events.rpy:8973
 translate pt_br hana_1_9ff85b18:
 
     # cashier "*sigh*, why can't I go just one day without something weird happening..."
     cashier ""
 
-# game/scripts/side_char_events.rpy:8976
+# game/scripts/side_char_events.rpy:8975
 translate pt_br hana_1_229c1c78:
 
     # "You spend $10..."
     ""
 
-# game/scripts/side_char_events.rpy:8979
+# game/scripts/side_char_events.rpy:8978
 translate pt_br hana_1_696541f6:
 
     # han "{i}(Even if this isn't a real date... it is kind of funny to think of it like one...){/i}"
     han ""
 
-# game/scripts/side_char_events.rpy:8980
+# game/scripts/side_char_events.rpy:8979
 translate pt_br hana_1_edf5bc9a:
 
     # han "{i}(I wonder if other girls would be upset if their date brought them to a fast food restaurant...) \n{w}(Well, it's a special day to me...){/i}"
     han ""
 
-# game/scripts/side_char_events.rpy:8982
+# game/scripts/side_char_events.rpy:8981
 translate pt_br hana_1_6dc527c9:
 
     # han "Hiii, how was your pee?"
     han ""
 
-# game/scripts/side_char_events.rpy:8983
+# game/scripts/side_char_events.rpy:8982
 translate pt_br hana_1_8e5b3622:
 
     # c "Um, good?"
     c ""
 
-# game/scripts/side_char_events.rpy:8985
+# game/scripts/side_char_events.rpy:8984
 translate pt_br hana_1_8c740cc6:
 
     # han "G-Good! Why would it be anything other than that after all? {size=-10}{i}I don't know why I asked that...{/i}{/size}"
     han ""
 
-# game/scripts/side_char_events.rpy:8987
+# game/scripts/side_char_events.rpy:8986
 translate pt_br hana_1_5cc54cd3:
 
     # han "Umm... it smells nice... a little greasy..."
     han ""
 
-# game/scripts/side_char_events.rpy:8988
+# game/scripts/side_char_events.rpy:8987
 translate pt_br hana_1_2a5fce0f:
 
     # c "What kind of food are you used to?"
     c ""
 
-# game/scripts/side_char_events.rpy:8990
+# game/scripts/side_char_events.rpy:8989
 translate pt_br hana_1_358caa26:
 
     # han "My parents wanted to raise me as a vegan, but they quickly found out I have a few food allergies that make it pretty hard... I'm allergic to nuts and soy..."
     han ""
 
-# game/scripts/side_char_events.rpy:8992
+# game/scripts/side_char_events.rpy:8991
 translate pt_br hana_1_762cdc6c:
 
     # han "I wish I weren't so... broken... All I've ever wanted to do was make my adoptive parents happy for choosing me..."
     han ""
 
-# game/scripts/side_char_events.rpy:8993
+# game/scripts/side_char_events.rpy:8992
 translate pt_br hana_1_05f5b8f7:
 
     # c "Hey, nobody's perfect. You're not broken, just different."
     c ""
 
-# game/scripts/side_char_events.rpy:8994
+# game/scripts/side_char_events.rpy:8993
 translate pt_br hana_1_44d3bba0:
 
     # han "I wish my parents thought that way..."
     han ""
 
-# game/scripts/side_char_events.rpy:8995
+# game/scripts/side_char_events.rpy:8994
 translate pt_br hana_1_c5652d87:
 
     # han "They forced me to learn the piano as a child, I hated doing it, but... I'm pretty good at it, so that's cool I guess..."
     han ""
 
-# game/scripts/side_char_events.rpy:8996
+# game/scripts/side_char_events.rpy:8995
 translate pt_br hana_1_5b54a533:
 
     # c "See, their strictness wasn't all bad."
     c ""
 
-# game/scripts/side_char_events.rpy:8997
+# game/scripts/side_char_events.rpy:8996
 translate pt_br hana_1_128bdf70:
 
     # han "Oh, I understand... they were great at being parents, but... not so great at being my mom and dad..."
     han ""
 
-# game/scripts/side_char_events.rpy:8998
+# game/scripts/side_char_events.rpy:8997
 translate pt_br hana_1_57c25ac6:
 
     # han "It was nothing but healthy food, home grown stuff in our garden... always with the exact proportions for a healthy growing girl..."
     han ""
 
-# game/scripts/side_char_events.rpy:9000
+# game/scripts/side_char_events.rpy:8999
 translate pt_br hana_1_1e7dbc62:
 
     # han "Ergh, I started to hate the word 'healthy'..."
     han ""
 
-# game/scripts/side_char_events.rpy:9001
+# game/scripts/side_char_events.rpy:9000
 translate pt_br hana_1_9ed1566f:
 
     # han "I just think it would have been great if my father ever took me out for ice cream, or to play catch or something, but now we're both too old for that..."
     han ""
 
-# game/scripts/side_char_events.rpy:9002
+# game/scripts/side_char_events.rpy:9001
 translate pt_br hana_1_9717c9e7:
 
     # c "You're never too old to hang out with your parents."
     c ""
 
-# game/scripts/side_char_events.rpy:9003
+# game/scripts/side_char_events.rpy:9002
 translate pt_br hana_1_a795fc51:
 
     # han "You don't understand, he has bad knees..."
     han ""
 
-# game/scripts/side_char_events.rpy:9004
+# game/scripts/side_char_events.rpy:9003
 translate pt_br hana_1_d4e0f84a:
 
     # c "Oh, I see."
     c ""
 
-# game/scripts/side_char_events.rpy:9005
+# game/scripts/side_char_events.rpy:9004
 translate pt_br hana_1_1ca29a80:
 
     # han "He helped me with school mostly, he was as much of a teacher as I've ever had, and I did end up acing everything, but we never had fun together..."
     han ""
 
-# game/scripts/side_char_events.rpy:9006
+# game/scripts/side_char_events.rpy:9005
 translate pt_br hana_1_ce2ae50b:
 
     # c "Speaking of your parents... I'm surprised they let you move out."
     c ""
 
-# game/scripts/side_char_events.rpy:9008
+# game/scripts/side_char_events.rpy:9007
 translate pt_br hana_1_8ca14b81:
 
     # han "Hehe, yep!"
     han ""
 
-# game/scripts/side_char_events.rpy:9009
+# game/scripts/side_char_events.rpy:9008
 translate pt_br hana_1_3784857a:
 
     # c "...?"
     c ""
 
-# game/scripts/side_char_events.rpy:9010
+# game/scripts/side_char_events.rpy:9009
 translate pt_br hana_1_735228ef:
 
     # han "Nnnng...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9012
+# game/scripts/side_char_events.rpy:9011
 translate pt_br hana_1_a03b44b8:
 
     # han "Egh, I'm such a bad liar..."
     han ""
 
-# game/scripts/side_char_events.rpy:9013
+# game/scripts/side_char_events.rpy:9012
 translate pt_br hana_1_00e16e5d:
 
     # han "Okay, well... maybe... they didn't let me move out..."
     han ""
 
-# game/scripts/side_char_events.rpy:9014
+# game/scripts/side_char_events.rpy:9013
 translate pt_br hana_1_a664030f:
 
     # c "You ran away?"
     c ""
 
-# game/scripts/side_char_events.rpy:9015
+# game/scripts/side_char_events.rpy:9014
 translate pt_br hana_1_e105a3ea:
 
     # han "Nnnn... yeah..."
     han ""
 
-# game/scripts/side_char_events.rpy:9016
+# game/scripts/side_char_events.rpy:9015
 translate pt_br hana_1_499819e9:
 
     # c "What happened?"
     c ""
 
-# game/scripts/side_char_events.rpy:9017
+# game/scripts/side_char_events.rpy:9016
 translate pt_br hana_1_5154b2e2:
 
     # han "They, uh... found the lingerie..."
     han ""
 
-# game/scripts/side_char_events.rpy:9018
+# game/scripts/side_char_events.rpy:9017
 translate pt_br hana_1_6bac6121:
 
     # c "Uh oh..."
     c ""
 
-# game/scripts/side_char_events.rpy:9019
+# game/scripts/side_char_events.rpy:9018
 translate pt_br hana_1_41cf75eb:
 
     # han "Yyyyeah..."
     han ""
 
-# game/scripts/side_char_events.rpy:9020
+# game/scripts/side_char_events.rpy:9019
 translate pt_br hana_1_f55b0b48:
 
     # han "I tried to lie, but, well... you know..."
     han ""
 
-# game/scripts/side_char_events.rpy:9021
+# game/scripts/side_char_events.rpy:9020
 translate pt_br hana_1_f7bf5249:
 
     # han "They kept yelling at me... and kept asking me questions... I didn't know what to say..."
     han ""
 
-# game/scripts/side_char_events.rpy:9022
+# game/scripts/side_char_events.rpy:9021
 translate pt_br hana_1_d88e8cfc:
 
     # han "'You don't keep lingerie in your dresser if you aren't having sex!' my mother said... So, I told her the truth... which only made her angrier..."
     han ""
 
-# game/scripts/side_char_events.rpy:9023
+# game/scripts/side_char_events.rpy:9022
 translate pt_br hana_1_271e7024:
 
     # han "She started digging through the rest of my stuff, I was afraid she was going to find my drawing tablet, or... {size=-10}{i}my dildos...{/i}{/size} So I took my stuff and ran to your hotel..."
     han ""
 
-# game/scripts/side_char_events.rpy:9024
+# game/scripts/side_char_events.rpy:9023
 translate pt_br hana_1_ba6483d7:
 
     # han "They wanted me out anyway... but, I was never confident enough to search for a job..."
     han ""
 
-# game/scripts/side_char_events.rpy:9025
+# game/scripts/side_char_events.rpy:9024
 translate pt_br hana_1_9af854b5:
 
     # han "I- I'm very lucky to have a friend as good as Maria... I had to promise her I would find a job though..."
     han ""
 
-# game/scripts/side_char_events.rpy:9029
+# game/scripts/side_char_events.rpy:9028
 translate pt_br hana_1_88e90912:
 
     # han "A maid, really...? Isn't that a job for elves?"
     han ""
 
-# game/scripts/side_char_events.rpy:9030
+# game/scripts/side_char_events.rpy:9029
 translate pt_br hana_1_8d35ab98:
 
     # c "You would look just as good in a maid outfit."
     c ""
 
-# game/scripts/side_char_events.rpy:9032
+# game/scripts/side_char_events.rpy:9031
 translate pt_br hana_1_43fb72e5:
 
     # han "O-Oh, I see! You're hitting on me...!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9033
+# game/scripts/side_char_events.rpy:9032
 translate pt_br hana_1_ac0e53e0:
 
     # han "Y-You would look great in a maid outfit too!"
     han ""
 
-# game/scripts/side_char_events.rpy:9034
+# game/scripts/side_char_events.rpy:9033
 translate pt_br hana_1_842c0753:
 
     # c "...Thanks."
     c ""
 
-# game/scripts/side_char_events.rpy:9036
+# game/scripts/side_char_events.rpy:9035
 translate pt_br hana_1_5db19467:
 
     # han "But truthfully, my parents would kill me if they found out I worked as a maid..."
     han ""
 
-# game/scripts/side_char_events.rpy:9037
+# game/scripts/side_char_events.rpy:9036
 translate pt_br hana_1_1bc47770:
 
     # c "Why is that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9038
+# game/scripts/side_char_events.rpy:9037
 translate pt_br hana_1_7997ab14:
 
     # han "They have always had very high expectations of me, they wanted me to become a lawyer, and possibly a politician later on... but I wasn't wired for that sort of thing..."
     han ""
 
-# game/scripts/side_char_events.rpy:9039
+# game/scripts/side_char_events.rpy:9038
 translate pt_br hana_1_ffded80c:
 
     # c "I can tell, you're a much more creative person. Your talents would have gone to waste."
     c ""
 
-# game/scripts/side_char_events.rpy:9040
+# game/scripts/side_char_events.rpy:9039
 translate pt_br hana_1_43835df3:
 
     # han "Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9043
+# game/scripts/side_char_events.rpy:9042
 translate pt_br hana_1_2ee368df:
 
     # han "A waitress? Isn't that a job for elves?"
     han ""
 
-# game/scripts/side_char_events.rpy:9044
+# game/scripts/side_char_events.rpy:9043
 translate pt_br hana_1_95da07e7:
 
     # c "I hire girls regardless of their ear shape."
     c ""
 
-# game/scripts/side_char_events.rpy:9046
+# game/scripts/side_char_events.rpy:9045
 translate pt_br hana_1_88e2d144:
 
     # han "Oh, well that's nice of you I suppose..."
     han ""
 
-# game/scripts/side_char_events.rpy:9047
+# game/scripts/side_char_events.rpy:9046
 translate pt_br hana_1_30aa9874:
 
     # han "But truthfully, my parents would kill me if they found out I worked as a waitress..."
     han ""
 
-# game/scripts/side_char_events.rpy:9048
+# game/scripts/side_char_events.rpy:9047
 translate pt_br hana_1_1bc47770_1:
 
     # c "Why is that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9049
+# game/scripts/side_char_events.rpy:9048
 translate pt_br hana_1_7997ab14_1:
 
     # han "They have always had very high expectations of me, they wanted me to become a lawyer, and possibly a politician later on... but I wasn't wired for that sort of thing..."
     han ""
 
-# game/scripts/side_char_events.rpy:9050
+# game/scripts/side_char_events.rpy:9049
 translate pt_br hana_1_ffded80c_1:
 
     # c "I can tell, you're a much more creative person. Your talents would have gone to waste."
     c ""
 
-# game/scripts/side_char_events.rpy:9051
+# game/scripts/side_char_events.rpy:9050
 translate pt_br hana_1_43835df3_1:
 
     # han "Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9054
+# game/scripts/side_char_events.rpy:9053
 translate pt_br hana_1_4042b757:
 
     # han "Are you kidding? I can't walk in high heels, I would just trip and fall on my butt as soon as I got on stage...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9055
+# game/scripts/side_char_events.rpy:9054
 translate pt_br hana_1_055f5beb:
 
     # c "You'd look just as hot on your back..."
     c ""
 
-# game/scripts/side_char_events.rpy:9057
+# game/scripts/side_char_events.rpy:9056
 translate pt_br hana_1_6cf664ac:
 
     # han "O-Oh, you're hitting on me...!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9058
+# game/scripts/side_char_events.rpy:9057
 translate pt_br hana_1_51714b0d:
 
     # han "Y-You'd make a good stripper too!"
     han ""
 
-# game/scripts/side_char_events.rpy:9059
+# game/scripts/side_char_events.rpy:9058
 translate pt_br hana_1_842c0753_1:
 
     # c "...Thanks."
     c ""
 
-# game/scripts/side_char_events.rpy:9060
+# game/scripts/side_char_events.rpy:9059
 translate pt_br hana_1_e2a66b73:
 
     # han "There's obviously so no way I could though, may parents would kill me..."
     han ""
 
-# game/scripts/side_char_events.rpy:9061
+# game/scripts/side_char_events.rpy:9060
 translate pt_br hana_1_0d35b6c0:
 
     # han "And I definitely don't have the correct proportions... maybe Maria..."
     han ""
 
-# game/scripts/side_char_events.rpy:9062
+# game/scripts/side_char_events.rpy:9061
 translate pt_br hana_1_46fb52df:
 
     # c "You're a much more creative person anyway. Your talents would have gone to waste."
     c ""
 
-# game/scripts/side_char_events.rpy:9063
+# game/scripts/side_char_events.rpy:9062
 translate pt_br hana_1_43835df3_2:
 
     # han "Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9066
+# game/scripts/side_char_events.rpy:9065
 translate pt_br hana_1_59e6d21f:
 
     # han "Here...? This is a place for elves to work... my parents would kill me if they found out I worked in a place like this..."
     han ""
 
-# game/scripts/side_char_events.rpy:9067
+# game/scripts/side_char_events.rpy:9066
 translate pt_br hana_1_1bc47770_2:
 
     # c "Why is that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9068
+# game/scripts/side_char_events.rpy:9067
 translate pt_br hana_1_7997ab14_2:
 
     # han "They have always had very high expectations of me, they wanted me to become a lawyer, and possibly a politician later on... but I wasn't wired for that sort of thing..."
     han ""
 
-# game/scripts/side_char_events.rpy:9069
+# game/scripts/side_char_events.rpy:9068
 translate pt_br hana_1_ffded80c_2:
 
     # c "I can tell, you're a much more creative person. Your talents would have gone to waste."
     c ""
 
-# game/scripts/side_char_events.rpy:9070
+# game/scripts/side_char_events.rpy:9069
 translate pt_br hana_1_43835df3_3:
 
     # han "Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9073
+# game/scripts/side_char_events.rpy:9072
 translate pt_br hana_1_b18fdfa8:
 
     # han "A cafe? That sounds comfortable..."
     han ""
 
-# game/scripts/side_char_events.rpy:9075
+# game/scripts/side_char_events.rpy:9074
 translate pt_br hana_1_30aa9874_1:
 
     # han "But truthfully, my parents would kill me if they found out I worked as a waitress..."
     han ""
 
-# game/scripts/side_char_events.rpy:9076
+# game/scripts/side_char_events.rpy:9075
 translate pt_br hana_1_1bc47770_3:
 
     # c "Why is that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9077
+# game/scripts/side_char_events.rpy:9076
 translate pt_br hana_1_7997ab14_3:
 
     # han "They have always had very high expectations of me, they wanted me to become a lawyer, and possibly a politician later on... but I wasn't wired for that sort of thing..."
     han ""
 
-# game/scripts/side_char_events.rpy:9078
+# game/scripts/side_char_events.rpy:9077
 translate pt_br hana_1_ffded80c_3:
 
     # c "I can tell, you're a much more creative person. Your talents would have gone to waste."
     c ""
 
-# game/scripts/side_char_events.rpy:9079
+# game/scripts/side_char_events.rpy:9078
 translate pt_br hana_1_43835df3_4:
 
     # han "Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9081
+# game/scripts/side_char_events.rpy:9080
 translate pt_br hana_1_ca3e918a:
 
     # han "Here I come, juicy burger~"
     han ""
 
-# game/scripts/side_char_events.rpy:9083
+# game/scripts/side_char_events.rpy:9082
 translate pt_br hana_1_dc3e8279:
 
     # han "Oooomn..."
     han ""
 
-# game/scripts/side_char_events.rpy:9084
+# game/scripts/side_char_events.rpy:9083
 translate pt_br hana_1_c1e68152:
 
     # han "*chew* *chew* *chew*, *gulp*"
     han ""
 
-# game/scripts/side_char_events.rpy:9086
+# game/scripts/side_char_events.rpy:9085
 translate pt_br hana_1_f58f1b1e:
 
     # han "It is juicy! Burgers are even better than I remembered..."
     han ""
 
-# game/scripts/side_char_events.rpy:9088
+# game/scripts/side_char_events.rpy:9087
 translate pt_br hana_1_fb8d94cb:
 
     # han "...And the soda!"
     han ""
 
-# game/scripts/side_char_events.rpy:9090
+# game/scripts/side_char_events.rpy:9089
 translate pt_br hana_1_324c3a5b:
 
     # han "*gulp*! *gulp*! *gulp*!"
     han ""
 
-# game/scripts/side_char_events.rpy:9092
+# game/scripts/side_char_events.rpy:9091
 translate pt_br hana_1_46afbb63:
 
     # han "Mmmmn~ so sugary..."
     han ""
 
-# game/scripts/side_char_events.rpy:9094
+# game/scripts/side_char_events.rpy:9093
 translate pt_br hana_1_d315c6e7:
 
     # han "S-Sorry... it's been over a decade since I've had soda... I promised my parents I never would again..."
     han ""
 
-# game/scripts/side_char_events.rpy:9095
+# game/scripts/side_char_events.rpy:9094
 translate pt_br hana_1_0856ef4a:
 
     # han "Everything is so salty... and very sweet... it tastes amazing."
     han ""
 
-# game/scripts/side_char_events.rpy:9096
+# game/scripts/side_char_events.rpy:9095
 translate pt_br hana_1_85b21ba5:
 
     # c "Why did you decide to break your streak?"
     c ""
 
-# game/scripts/side_char_events.rpy:9097
+# game/scripts/side_char_events.rpy:9096
 translate pt_br hana_1_17b32208:
 
     # han "Oh, I don't know... I guess I'm feeling a little rebellious..."
     han ""
 
-# game/scripts/side_char_events.rpy:9098
+# game/scripts/side_char_events.rpy:9097
 translate pt_br hana_1_f0daff5c:
 
     # c "Your secret's safe with me."
     c ""
 
-# game/scripts/side_char_events.rpy:9099
+# game/scripts/side_char_events.rpy:9098
 translate pt_br hana_1_d825b43f:
 
     # han "Thanks... I think you're a trustworthy person..."
     han ""
 
-# game/scripts/side_char_events.rpy:9100
+# game/scripts/side_char_events.rpy:9099
 translate pt_br hana_1_bba5363b:
 
     # c "I {i}have{/i} seen every part of you, there's nothing you need to hide from me anymore."
     c ""
 
-# game/scripts/side_char_events.rpy:9101
+# game/scripts/side_char_events.rpy:9100
 translate pt_br hana_1_6aba086b:
 
     # han "Well, you may think you've seen all of me, but there are some secrets I can't tell you... yet."
     han ""
 
-# game/scripts/side_char_events.rpy:9102
+# game/scripts/side_char_events.rpy:9101
 translate pt_br hana_1_667e6cfa:
 
     # c "Are you hiding a penis somewhere?"
     c ""
 
-# game/scripts/side_char_events.rpy:9103
+# game/scripts/side_char_events.rpy:9102
 translate pt_br hana_1_b15d277b:
 
     # han "Haha, no... but it is a birth defect. Well, kind of..."
     han ""
 
-# game/scripts/side_char_events.rpy:9104
+# game/scripts/side_char_events.rpy:9103
 translate pt_br hana_1_538450da:
 
     # han "It's nothing anyone should worry about except for me, I'll just have to accept that I'll have a harder time receiving medical attention..."
     han ""
 
-# game/scripts/side_char_events.rpy:9105
+# game/scripts/side_char_events.rpy:9104
 translate pt_br hana_1_f98c7b0f:
 
     # han "So, if I ever become very ill, have an allergic reaction to something, or even break a bone... please don't call an ambulance, call my parents. They'll know who to take me to so I can receive proper medical attention."
     han ""
 
-# game/scripts/side_char_events.rpy:9106
+# game/scripts/side_char_events.rpy:9105
 translate pt_br hana_1_d8144b2c:
 
     # c "You have a specialist for your condition?"
     c ""
 
-# game/scripts/side_char_events.rpy:9107
+# game/scripts/side_char_events.rpy:9106
 translate pt_br hana_1_0d64a922:
 
     # han "I guess you could call her a specialist. She's one of the very few people my family can trust completely."
     han ""
 
-# game/scripts/side_char_events.rpy:9108
+# game/scripts/side_char_events.rpy:9107
 translate pt_br hana_1_3f1f6dc0:
 
     # han "Sorry I can't tell you more..."
     han ""
 
-# game/scripts/side_char_events.rpy:9109
+# game/scripts/side_char_events.rpy:9108
 translate pt_br hana_1_3c55660e:
 
     # c "That's fine, you can tell me when you trust me more."
     c ""
 
-# game/scripts/side_char_events.rpy:9110
+# game/scripts/side_char_events.rpy:9109
 translate pt_br hana_1_e0fba520:
 
     # han "Thank you for being so understanding..."
     han ""
 
-# game/scripts/side_char_events.rpy:9112
+# game/scripts/side_char_events.rpy:9111
 translate pt_br hana_1_affcf935:
 
     # "The two of you finish your meal, and enjoy each other's company..."
     ""
 
-# game/scripts/side_char_events.rpy:9114
+# game/scripts/side_char_events.rpy:9113
 translate pt_br hana_1_e281a8bc:
 
     # han "Thanks for taking me out, [name]... this is definitely a day I won't forget for a very long time."
     han ""
 
-# game/scripts/side_char_events.rpy:9115
+# game/scripts/side_char_events.rpy:9114
 translate pt_br hana_1_393a1feb:
 
     # han "The food was... well, I'd be lying if I said it was amazing, but it was definitely decent and memorable!"
     han ""
 
-# game/scripts/side_char_events.rpy:9116
+# game/scripts/side_char_events.rpy:9115
 translate pt_br hana_1_d480f87a:
 
     # c "I'm glad to hear that."
     c ""
 
-# game/scripts/side_char_events.rpy:9122
+# game/scripts/side_char_events.rpy:9121
 translate pt_br hana_1_79a7941b:
 
     # c "Sorry, I'm busy, you gotta go..."
     c ""
 
-# game/scripts/side_char_events.rpy:9123
+# game/scripts/side_char_events.rpy:9122
 translate pt_br hana_1_6dd0a05c:
 
     # han "Huh...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9125
+# game/scripts/side_char_events.rpy:9124
 translate pt_br hana_1_110b1936:
 
     # "You kick them both out..."
     ""
 
-# game/scripts/side_char_events.rpy:9132
+# game/scripts/side_char_events.rpy:9131
 translate pt_br hana_marblowjob_438dd469:
 
     # m "Hi [name]~"
     m ""
 
-# game/scripts/side_char_events.rpy:9133
+# game/scripts/side_char_events.rpy:9132
 translate pt_br hana_marblowjob_3de9e837:
 
     # han "Hnn..."
     han ""
 
-# game/scripts/side_char_events.rpy:9136
+# game/scripts/side_char_events.rpy:9135
 translate pt_br hana_marblowjob_cb11d599:
 
     # m "She's a little too shy to ask herself, so... {w}she really wants to suck your cock!"
     m ""
 
-# game/scripts/side_char_events.rpy:9137
+# game/scripts/side_char_events.rpy:9136
 translate pt_br hana_marblowjob_9d9899ad:
 
     # han "Nnh, mhm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9138
+# game/scripts/side_char_events.rpy:9137
 translate pt_br hana_marblowjob_98ff859c:
 
     # m "And obviously since she's lived in her shell all her life, you'd be her first! I was just telling her how much I loved sucking your cock... I think I made her horny, oops~"
     m ""
 
-# game/scripts/side_char_events.rpy:9139
+# game/scripts/side_char_events.rpy:9138
 translate pt_br hana_marblowjob_6d7fc501:
 
     # han "Heh, nnnh..."
     han ""
 
-# game/scripts/side_char_events.rpy:9140
+# game/scripts/side_char_events.rpy:9139
 translate pt_br hana_marblowjob_67ea3f90:
 
     # m "Well? You want to, riiight? I'll help~"
     m ""
 
-# game/scripts/side_char_events.rpy:9143
+# game/scripts/side_char_events.rpy:9142
 translate pt_br hana_marblowjob_58153e87:
 
     # han "Nnh, wow... c-can I touch it...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9144
+# game/scripts/side_char_events.rpy:9143
 translate pt_br hana_marblowjob_c241a40b:
 
     # m "Mmn, you know you don't have to ask... he already took it out for you."
     m ""
 
-# game/scripts/side_char_events.rpy:9145
+# game/scripts/side_char_events.rpy:9144
 translate pt_br hana_marblowjob_97add372:
 
     # han "O-Okay..."
     han ""
 
-# game/scripts/side_char_events.rpy:9147
+# game/scripts/side_char_events.rpy:9146
 translate pt_br hana_marblowjob_f87c547d:
 
     # han "Mmmph... mmn... it's so warm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9148
+# game/scripts/side_char_events.rpy:9147
 translate pt_br hana_marblowjob_7e18dfd9:
 
     # han "Hnnn, it's nothing like my toys... mmn..."
     han ""
 
-# game/scripts/side_char_events.rpy:9152
+# game/scripts/side_char_events.rpy:9151
 translate pt_br hana_marblowjob_6c2dd2f1:
 
     # han "Lllmn... am I doing a good job...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9153
+# game/scripts/side_char_events.rpy:9152
 translate pt_br hana_marblowjob_f7dac133:
 
     # m "Yeah, I'd say so..."
     m ""
 
-# game/scripts/side_char_events.rpy:9154
+# game/scripts/side_char_events.rpy:9153
 translate pt_br hana_marblowjob_977b7e96:
 
     # han "Does your cock like my kisses...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9158
+# game/scripts/side_char_events.rpy:9157
 translate pt_br hana_marblowjob_77d327b4:
 
     # han "Lnn.. lnlnm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9159
+# game/scripts/side_char_events.rpy:9158
 translate pt_br hana_marblowjob_003aeb3e:
 
     # m "Heyy, you look like you know what you're doing...!"
     m ""
 
-# game/scripts/side_char_events.rpy:9160
+# game/scripts/side_char_events.rpy:9159
 translate pt_br hana_marblowjob_bdb57835:
 
     # han "Lllmn... I did a little research..."
     han ""
 
-# game/scripts/side_char_events.rpy:9161
+# game/scripts/side_char_events.rpy:9160
 translate pt_br hana_marblowjob_748f2241:
 
     # m "Dirty girl~"
     m ""
 
-# game/scripts/side_char_events.rpy:9165
+# game/scripts/side_char_events.rpy:9164
 translate pt_br hana_marblowjob_8b03af10:
 
     # han "Okay... your turn..."
     han ""
 
-# game/scripts/side_char_events.rpy:9166
+# game/scripts/side_char_events.rpy:9165
 translate pt_br hana_marblowjob_c0ae080c:
 
     # m "You want me to try it?"
     m ""
 
-# game/scripts/side_char_events.rpy:9167
+# game/scripts/side_char_events.rpy:9166
 translate pt_br hana_marblowjob_5c2122fb:
 
     # han "Yeah, go ahead..."
     han ""
 
-# game/scripts/side_char_events.rpy:9169
+# game/scripts/side_char_events.rpy:9168
 translate pt_br hana_marblowjob_a607600b:
 
     # m "You don't have to ask me twice..."
     m ""
 
-# game/scripts/side_char_events.rpy:9170
+# game/scripts/side_char_events.rpy:9169
 translate pt_br hana_marblowjob_f8086ddf:
 
     # m "You know, this may be the perfect time to show you my deep throating skills... maybe you'll learn a thing or two."
     m ""
 
-# game/scripts/side_char_events.rpy:9172
+# game/scripts/side_char_events.rpy:9171
 translate pt_br hana_marblowjob_34725bc4:
 
     # m "Mmmp, time me babe..."
     m ""
 
-# game/scripts/side_char_events.rpy:9174
+# game/scripts/side_char_events.rpy:9173
 translate pt_br hana_marblowjob_16fc00c7:
 
     # m "Nnnngh...!"
     m ""
 
-# game/scripts/side_char_events.rpy:9176
+# game/scripts/side_char_events.rpy:9175
 translate pt_br hana_marblowjob_d69dd914:
 
     # m "Hnnghk!" with ssshake
     m "" with ssshake
 
-# game/scripts/side_char_events.rpy:9177
+# game/scripts/side_char_events.rpy:9176
 translate pt_br hana_marblowjob_caf4e06f:
 
     # han "Haaah...! Maria, you're so deep..."
     han ""
 
-# game/scripts/side_char_events.rpy:9178
+# game/scripts/side_char_events.rpy:9177
 translate pt_br hana_marblowjob_17d76b2d:
 
     # m "Nnnh! Nnnnghk...!" with ssshake
     m "" with ssshake
 
-# game/scripts/side_char_events.rpy:9179
+# game/scripts/side_char_events.rpy:9178
 translate pt_br hana_marblowjob_c4c23a2e:
 
     # han "Wow... how long can you do that...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9180
+# game/scripts/side_char_events.rpy:9179
 translate pt_br hana_marblowjob_56df9354:
 
     # m "Ggghk! Mmmngh!" with ssshake
     m "" with ssshake
 
-# game/scripts/side_char_events.rpy:9182
+# game/scripts/side_char_events.rpy:9181
 translate pt_br hana_marblowjob_ea5295c9:
 
     # "1 minute and 27 seconds pass..."
     ""
 
-# game/scripts/side_char_events.rpy:9184
+# game/scripts/side_char_events.rpy:9183
 translate pt_br hana_marblowjob_d6b2fb29:
 
     # m "NNNGHK! NNN...!" with ssshake
     m "" with ssshake
 
-# game/scripts/side_char_events.rpy:9186
+# game/scripts/side_char_events.rpy:9185
 translate pt_br hana_marblowjob_c62f4a1b:
 
     # m "*gaaaaaaaaasp*! *cough*! *cough*! Eeeghm...! *cough*! *cough*! Egh... *ahem*!" with ssshake
     m "" with ssshake
 
-# game/scripts/side_char_events.rpy:9187
+# game/scripts/side_char_events.rpy:9186
 translate pt_br hana_marblowjob_ab39daf4:
 
     # han "That was so long...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9189
+# game/scripts/side_char_events.rpy:9188
 translate pt_br hana_marblowjob_d29874ef:
 
     # m "Well... How did I do?"
     m ""
 
-# game/scripts/side_char_events.rpy:9190
+# game/scripts/side_char_events.rpy:9189
 translate pt_br hana_marblowjob_d8d59efd:
 
     # c "About a minute and a half."
     c ""
 
-# game/scripts/side_char_events.rpy:9191
+# game/scripts/side_char_events.rpy:9190
 translate pt_br hana_marblowjob_3231b745:
 
     # m "That's all? Definitely not my best..."
     m ""
 
-# game/scripts/side_char_events.rpy:9192
+# game/scripts/side_char_events.rpy:9191
 translate pt_br hana_marblowjob_90939222:
 
     # han "L-Let me try..."
     han ""
 
-# game/scripts/side_char_events.rpy:9194
+# game/scripts/side_char_events.rpy:9193
 translate pt_br hana_marblowjob_0bd29366:
 
     # han "Mmmph..."
     han ""
 
-# game/scripts/side_char_events.rpy:9195
+# game/scripts/side_char_events.rpy:9194
 translate pt_br hana_marblowjob_0dde9674:
 
     # m "Ohh, so eager? It's going to take a lot of practice, your body naturally doesn't want anything that big going down there..."
     m ""
 
-# game/scripts/side_char_events.rpy:9197
+# game/scripts/side_char_events.rpy:9196
 translate pt_br hana_marblowjob_9c16fcfd:
 
     # han "Hnnnnghk! NNGK!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9198
+# game/scripts/side_char_events.rpy:9197
 translate pt_br hana_marblowjob_a889e0d3:
 
     # m "Oh shit, first try...!?"
     m ""
 
-# game/scripts/side_char_events.rpy:9199
+# game/scripts/side_char_events.rpy:9198
 translate pt_br hana_marblowjob_f8b68e8e:
 
     # han "Nnnghk! Nnnghk! Nnnghk!"
     han ""
 
-# game/scripts/side_char_events.rpy:9201
+# game/scripts/side_char_events.rpy:9200
 translate pt_br hana_marblowjob_493b456f:
 
     # han "NNNGHK!" with sshake
     han "" with sshake
 
-# game/scripts/side_char_events.rpy:9202
+# game/scripts/side_char_events.rpy:9201
 translate pt_br hana_marblowjob_597fc3ce:
 
     # m "She went all the way!"
     m ""
 
-# game/scripts/side_char_events.rpy:9203
+# game/scripts/side_char_events.rpy:9202
 translate pt_br hana_marblowjob_8c951456:
 
     # c "Nngh! That's tight..."
     c ""
 
-# game/scripts/side_char_events.rpy:9204
+# game/scripts/side_char_events.rpy:9203
 translate pt_br hana_marblowjob_d9058507:
 
     # han "Nnnghk! Nnnghk!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9206
+# game/scripts/side_char_events.rpy:9205
 translate pt_br hana_marblowjob_c4024207:
 
     # han "Aaaaghk! *ahem*! *cough*! Nnnghk! Aggh...!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9207
+# game/scripts/side_char_events.rpy:9206
 translate pt_br hana_marblowjob_3a2468ea:
 
     # m "Damn girl!"
     m ""
 
-# game/scripts/side_char_events.rpy:9208
+# game/scripts/side_char_events.rpy:9207
 translate pt_br hana_marblowjob_7b430cf8:
 
     # c "Where did you learn how to do that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9210
+# game/scripts/side_char_events.rpy:9209
 translate pt_br hana_marblowjob_2d3b8f54:
 
     # m "Yeah, I thought you never did this before! That was impressive!"
     m ""
 
-# game/scripts/side_char_events.rpy:9211
+# game/scripts/side_char_events.rpy:9210
 translate pt_br hana_marblowjob_66767d9b:
 
     # m "I think you even went down further than I did to be honest..."
     m ""
 
-# game/scripts/side_char_events.rpy:9212
+# game/scripts/side_char_events.rpy:9211
 translate pt_br hana_marblowjob_58bd1427:
 
     # han "Heheh, wellll... I've definitely practiced... like... on my toys..."
     han ""
 
-# game/scripts/side_char_events.rpy:9213
+# game/scripts/side_char_events.rpy:9212
 translate pt_br hana_marblowjob_b6f86372:
 
     # m "Really!?"
     m ""
 
-# game/scripts/side_char_events.rpy:9214
+# game/scripts/side_char_events.rpy:9213
 translate pt_br hana_marblowjob_747abba9:
 
     # han "Yeah, I thought... you know... if I ever found a boyfriend he would like me more if I could do things other girls couldn't..."
     han ""
 
-# game/scripts/side_char_events.rpy:9215
+# game/scripts/side_char_events.rpy:9214
 translate pt_br hana_marblowjob_0f44939c:
 
     # han "It was... really fun... so much better than my toys..."
     han ""
 
-# game/scripts/side_char_events.rpy:9217
+# game/scripts/side_char_events.rpy:9216
 translate pt_br hana_marblowjob_23bfc722:
 
     # han "I... I want you to cum down my throat... right into my tummy..."
     han ""
 
-# game/scripts/side_char_events.rpy:9218
+# game/scripts/side_char_events.rpy:9217
 translate pt_br hana_marblowjob_c86f16d9:
 
     # han "I want to feel you throbbing inside... I want to know what it feels like..."
     han ""
 
-# game/scripts/side_char_events.rpy:9220
+# game/scripts/side_char_events.rpy:9219
 translate pt_br hana_marblowjob_f815bc62:
 
     # han "That would be... so hot... mmmn..."
     han ""
 
-# game/scripts/side_char_events.rpy:9222
+# game/scripts/side_char_events.rpy:9221
 translate pt_br hana_marblowjob_1da278df:
 
     # han "Aahhhmn...! Mmmmph...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9223
+# game/scripts/side_char_events.rpy:9222
 translate pt_br hana_marblowjob_13623b91:
 
     # m "Mmmm, good motion..."
     m ""
 
-# game/scripts/side_char_events.rpy:9224
+# game/scripts/side_char_events.rpy:9223
 translate pt_br hana_marblowjob_edb7219c:
 
     # han "It's... nnnghk...! So hot...! Mmmngh...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9226
+# game/scripts/side_char_events.rpy:9225
 translate pt_br hana_marblowjob_a2a79a73:
 
     # han "Hahhh... [linoname]... mmmmnh... am I doing a good job...? Ahmmngh..."
     han ""
 
-# game/scripts/side_char_events.rpy:9228
+# game/scripts/side_char_events.rpy:9227
 translate pt_br hana_marblowjob_f05f3ce4:
 
     # han "Hahhh... [name]... mmmmnh... am I doing a good job...? Ahmmngh..."
     han ""
 
-# game/scripts/side_char_events.rpy:9229
+# game/scripts/side_char_events.rpy:9228
 translate pt_br hana_marblowjob_a6bc22a7:
 
     # han "I... mmmph... I really hope I'm doing a good job... nnngh...! Mmmn..."
     han ""
 
-# game/scripts/side_char_events.rpy:9230
+# game/scripts/side_char_events.rpy:9229
 translate pt_br hana_marblowjob_fcf45039:
 
     # m "Nnnm... keep going... you're going to make him cum!"
     m ""
 
-# game/scripts/side_char_events.rpy:9231
+# game/scripts/side_char_events.rpy:9230
 translate pt_br hana_marblowjob_79420d38:
 
     # han "R-Really...? Nnnghk... I'm that good...? Mmmngh...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9235
+# game/scripts/side_char_events.rpy:9234
 translate pt_br hana_marblowjob_7d01a446:
 
     # han "[linoname]...! [linoname]... mmmph... I need your cum...! Mmmn... I want it so bad..."
     han ""
 
-# game/scripts/side_char_events.rpy:9237
+# game/scripts/side_char_events.rpy:9236
 translate pt_br hana_marblowjob_1c65cdf7:
 
     # han "[name]...! [name]... mmmph... I need your cum...! Mmmn... I want it so bad..."
     han ""
 
-# game/scripts/side_char_events.rpy:9238
+# game/scripts/side_char_events.rpy:9237
 translate pt_br hana_marblowjob_c1a0f0fa:
 
     # m "I didn't know you were such a cum slut..."
     m ""
 
-# game/scripts/side_char_events.rpy:9239
+# game/scripts/side_char_events.rpy:9238
 translate pt_br hana_marblowjob_a0e14262:
 
     # han "I... Nnngh...! I just... need it...! Ngghk! Mmmph!"
     han ""
 
-# game/scripts/side_char_events.rpy:9241
+# game/scripts/side_char_events.rpy:9240
 translate pt_br hana_marblowjob_42a402a7:
 
     # han "Please...! Cum...! Mmmph! Nnnnghk! Nnngh! Nnngh! [linoname]! [linoname]! Cum...! Cum...! Cum...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9243
+# game/scripts/side_char_events.rpy:9242
 translate pt_br hana_marblowjob_c586f86c:
 
     # han "Please...! Cum...! Mmmph! Nnnnghk! Nnngh! Nnngh! [name]! [name]! Cum...! Cum...! Cum...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9247
+# game/scripts/side_char_events.rpy:9246
 translate pt_br hana_marblowjob_b12271e1:
 
     # han "NNNNGH!?" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9248
+# game/scripts/side_char_events.rpy:9247
 translate pt_br hana_marblowjob_ff0998a9:
 
     # han "Hnnnghk...! Nnngh...!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9249
+# game/scripts/side_char_events.rpy:9248
 translate pt_br hana_marblowjob_9290890c:
 
     # han "*gulp*! Nnngh...! *gulp*!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9251
+# game/scripts/side_char_events.rpy:9250
 translate pt_br hana_marblowjob_4ca93311:
 
     # m "Wooow! You swallowed it all!"
     m ""
 
-# game/scripts/side_char_events.rpy:9252
+# game/scripts/side_char_events.rpy:9251
 translate pt_br hana_marblowjob_a1f7b45a:
 
     # han "Heheh..."
     han ""
 
-# game/scripts/side_char_events.rpy:9253
+# game/scripts/side_char_events.rpy:9252
 translate pt_br hana_marblowjob_213f3cc2:
 
     # m "I'm impressed, I didn't I know you had it in you... How did it feel?"
     m ""
 
-# game/scripts/side_char_events.rpy:9254
+# game/scripts/side_char_events.rpy:9253
 translate pt_br hana_marblowjob_b9fc4bf4:
 
     # han "I could feel it... going down my throat... throbbing..."
     han ""
 
-# game/scripts/side_char_events.rpy:9255
+# game/scripts/side_char_events.rpy:9254
 translate pt_br hana_marblowjob_376c8be4:
 
     # m "Happy then?"
     m ""
 
-# game/scripts/side_char_events.rpy:9256
+# game/scripts/side_char_events.rpy:9255
 translate pt_br hana_marblowjob_30d721ba:
 
     # han "Yeah..."
     han ""
 
-# game/scripts/side_char_events.rpy:9258
+# game/scripts/side_char_events.rpy:9257
 translate pt_br hana_marblowjob_0e1a6040:
 
     # m "I think she really enjoyed it..."
     m ""
 
-# game/scripts/side_char_events.rpy:9259
+# game/scripts/side_char_events.rpy:9258
 translate pt_br hana_marblowjob_87cae120:
 
     # han "T-Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9260
+# game/scripts/side_char_events.rpy:9259
 translate pt_br hana_marblowjob_629951ac:
 
     # m "And I think we would both be more than happy if this became a regular thing..."
     m ""
 
-# game/scripts/side_char_events.rpy:9261
+# game/scripts/side_char_events.rpy:9260
 translate pt_br hana_marblowjob_61064dda:
 
     # han "Mhm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9262
+# game/scripts/side_char_events.rpy:9261
 translate pt_br hana_marblowjob_e2a9b185:
 
     # c "Sure, it was fun."
     c ""
 
-# game/scripts/side_char_events.rpy:9263
+# game/scripts/side_char_events.rpy:9262
 translate pt_br hana_marblowjob_ac1563f5:
 
     # han "I'm glad you think so."
     han ""
 
-# game/scripts/side_char_events.rpy:9264
+# game/scripts/side_char_events.rpy:9263
 translate pt_br hana_marblowjob_eaeb7c87:
 
     # m "Well, see ya later [name]~"
     m ""
 
-# game/scripts/side_char_events.rpy:9265
+# game/scripts/side_char_events.rpy:9264
 translate pt_br hana_marblowjob_60bf00a3:
 
     # han "Bye...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9272
+# game/scripts/side_char_events.rpy:9271
 translate pt_br hana_marblowjob_a045c5d5:
 
     # m "Get ready, he's cumming~!"
     m ""
 
-# game/scripts/side_char_events.rpy:9273
+# game/scripts/side_char_events.rpy:9272
 translate pt_br hana_marblowjob_67715ff0:
 
     # han "Ahh...! Aaah...! Aaah...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9275
+# game/scripts/side_char_events.rpy:9274
 translate pt_br hana_marblowjob_2ca5cf7b:
 
     # han "Aaah!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9277
+# game/scripts/side_char_events.rpy:9276
 translate pt_br hana_marblowjob_8bbc7fe1:
 
     # m "You did such a good job~! And you look so beautiful..."
     m ""
 
-# game/scripts/side_char_events.rpy:9278
+# game/scripts/side_char_events.rpy:9277
 translate pt_br hana_marblowjob_35241667:
 
     # han "Heheh, thanks..."
     han ""
 
-# game/scripts/side_char_events.rpy:9279
+# game/scripts/side_char_events.rpy:9278
 translate pt_br hana_marblowjob_213f3cc2_1:
 
     # m "I'm impressed, I didn't I know you had it in you... How did it feel?"
     m ""
 
-# game/scripts/side_char_events.rpy:9280
+# game/scripts/side_char_events.rpy:9279
 translate pt_br hana_marblowjob_4237f2c3:
 
     # han "Amazing..."
     han ""
 
-# game/scripts/side_char_events.rpy:9281
+# game/scripts/side_char_events.rpy:9280
 translate pt_br hana_marblowjob_376c8be4_1:
 
     # m "Happy then?"
     m ""
 
-# game/scripts/side_char_events.rpy:9282
+# game/scripts/side_char_events.rpy:9281
 translate pt_br hana_marblowjob_30d721ba_1:
 
     # han "Yeah..."
     han ""
 
-# game/scripts/side_char_events.rpy:9284
+# game/scripts/side_char_events.rpy:9283
 translate pt_br hana_marblowjob_0e1a6040_1:
 
     # m "I think she really enjoyed it..."
     m ""
 
-# game/scripts/side_char_events.rpy:9285
+# game/scripts/side_char_events.rpy:9284
 translate pt_br hana_marblowjob_87cae120_1:
 
     # han "T-Thank you..."
     han ""
 
-# game/scripts/side_char_events.rpy:9286
+# game/scripts/side_char_events.rpy:9285
 translate pt_br hana_marblowjob_629951ac_1:
 
     # m "And I think we would both be more than happy if this became a regular thing..."
     m ""
 
-# game/scripts/side_char_events.rpy:9287
+# game/scripts/side_char_events.rpy:9286
 translate pt_br hana_marblowjob_61064dda_1:
 
     # han "Mhm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9288
+# game/scripts/side_char_events.rpy:9287
 translate pt_br hana_marblowjob_e2a9b185_1:
 
     # c "Sure, it was fun."
     c ""
 
-# game/scripts/side_char_events.rpy:9289
+# game/scripts/side_char_events.rpy:9288
 translate pt_br hana_marblowjob_ac1563f5_1:
 
     # han "I'm glad you think so."
     han ""
 
-# game/scripts/side_char_events.rpy:9290
+# game/scripts/side_char_events.rpy:9289
 translate pt_br hana_marblowjob_eaeb7c87_1:
 
     # m "Well, see ya later [name]~"
     m ""
 
-# game/scripts/side_char_events.rpy:9291
+# game/scripts/side_char_events.rpy:9290
 translate pt_br hana_marblowjob_60bf00a3_1:
 
     # han "Bye...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9299
+# game/scripts/side_char_events.rpy:9298
 translate pt_br hana_3_20c9c969:
 
     # c "Oh, hey Hana. I was just coming to see you."
     c ""
 
-# game/scripts/side_char_events.rpy:9300
+# game/scripts/side_char_events.rpy:9299
 translate pt_br hana_3_64a93021:
 
     # han "Me...? Why?"
     han ""
 
-# game/scripts/side_char_events.rpy:9301
+# game/scripts/side_char_events.rpy:9300
 translate pt_br hana_3_db00824e:
 
     # c "I was going to invite you on a date."
     c ""
 
-# game/scripts/side_char_events.rpy:9303
+# game/scripts/side_char_events.rpy:9302
 translate pt_br hana_3_573592c7:
 
     # han "A... A DATE!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9305
+# game/scripts/side_char_events.rpy:9304
 translate pt_br hana_3_cb230a49:
 
     # "*slam*!" with ssshake
     "" with ssshake
 
-# game/scripts/side_char_events.rpy:9306
+# game/scripts/side_char_events.rpy:9305
 translate pt_br hana_3_3784857a:
 
     # c "...?"
     c ""
 
-# game/scripts/side_char_events.rpy:9308
+# game/scripts/side_char_events.rpy:9307
 translate pt_br hana_3_dfd22887:
 
     # han "{i}I... I don't have anything to wear, why wasn't I given a warning...!? Oh no... I don't know what to do...! I need to get my hair done...! I need new makeup...! Nnngh...!{/i}"
     han ""
 
-# game/scripts/side_char_events.rpy:9309
+# game/scripts/side_char_events.rpy:9308
 translate pt_br hana_3_3745917e:
 
     # han "{i}Agh! I just slammed the door on him...! Does he think I'm a bitch...?{/i}"
     han ""
 
-# game/scripts/side_char_events.rpy:9311
+# game/scripts/side_char_events.rpy:9310
 translate pt_br hana_3_1a434786:
 
     # m "What are you so panicked about?"
     m ""
 
-# game/scripts/side_char_events.rpy:9312
+# game/scripts/side_char_events.rpy:9311
 translate pt_br hana_3_c03dd152:
 
     # han "Maria...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9313
+# game/scripts/side_char_events.rpy:9312
 translate pt_br hana_3_e9a00f13:
 
     # m "What?"
     m ""
 
-# game/scripts/side_char_events.rpy:9315
+# game/scripts/side_char_events.rpy:9314
 translate pt_br hana_3_ff3faf84:
 
     # han "[name] just asked me out on a date! I need your help!"
     han ""
 
-# game/scripts/side_char_events.rpy:9316
+# game/scripts/side_char_events.rpy:9315
 translate pt_br hana_3_9819ba64:
 
     # c "...I guess that was a yes."
     c ""
 
-# game/scripts/side_char_events.rpy:9318
+# game/scripts/side_char_events.rpy:9317
 translate pt_br hana_3_b15493c0:
 
     # han "I've never been asked out on a date before... if it's a proper date then I need something proper to wear, and my hair...! What am I going to do about my hair!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9319
+# game/scripts/side_char_events.rpy:9318
 translate pt_br hana_3_3a70c095:
 
     # m "Chill, girl! I'll help you with everything."
     m ""
 
-# game/scripts/side_char_events.rpy:9321
+# game/scripts/side_char_events.rpy:9320
 translate pt_br hana_3_d3d647d0:
 
     # han "Really...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9322
+# game/scripts/side_char_events.rpy:9321
 translate pt_br hana_3_8e39cfc9:
 
     # m "Yeah! I can style hair pretty well, you know."
     m ""
 
-# game/scripts/side_char_events.rpy:9323
+# game/scripts/side_char_events.rpy:9322
 translate pt_br hana_3_91fa83ee:
 
     # han "I remember... I'm glad you still know how."
     han ""
 
-# game/scripts/side_char_events.rpy:9324
+# game/scripts/side_char_events.rpy:9323
 translate pt_br hana_3_ee7fc069:
 
     # m "Come here! Let's see what I have to work with..."
     m ""
 
-# game/scripts/side_char_events.rpy:9326
+# game/scripts/side_char_events.rpy:9325
 translate pt_br hana_3_e2e78231:
 
     # m "Yeah... that hair won't do. Let's try this..."
     m ""
 
-# game/scripts/side_char_events.rpy:9327
+# game/scripts/side_char_events.rpy:9326
 translate pt_br hana_3_79438b6d:
 
     # han "Ah...! Nh...! Not so hard..." with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9328
+# game/scripts/side_char_events.rpy:9327
 translate pt_br hana_3_54be8fa7:
 
     # "...{w}...{w}..."
     ""
 
-# game/scripts/side_char_events.rpy:9330
+# game/scripts/side_char_events.rpy:9329
 translate pt_br hana_3_4152e8c6:
 
     # han "Are you sure all of this makeup is necessary...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9331
+# game/scripts/side_char_events.rpy:9330
 translate pt_br hana_3_168c8aa1:
 
     # m "I'm not putting too much on!"
     m ""
 
-# game/scripts/side_char_events.rpy:9332
+# game/scripts/side_char_events.rpy:9331
 translate pt_br hana_3_72628bdd:
 
     # han "It's a lot for me..."
     han ""
 
-# game/scripts/side_char_events.rpy:9333
+# game/scripts/side_char_events.rpy:9332
 translate pt_br hana_3_0f1b2e31:
 
     # m "You'll get used to it, extra makeup is great for special occassions like this. Just keep your head still."
     m ""
 
-# game/scripts/side_char_events.rpy:9334
+# game/scripts/side_char_events.rpy:9333
 translate pt_br hana_3_722e9d7d:
 
     # han "I'm trying..."
     han ""
 
-# game/scripts/side_char_events.rpy:9336
+# game/scripts/side_char_events.rpy:9335
 translate pt_br hana_3_f3fbe263:
 
     # m "Okay, we're done! Now put this on..."
     m ""
 
-# game/scripts/side_char_events.rpy:9337
+# game/scripts/side_char_events.rpy:9336
 translate pt_br hana_3_54be8fa7_1:
 
     # "...{w}...{w}..."
     ""
 
-# game/scripts/side_char_events.rpy:9338
+# game/scripts/side_char_events.rpy:9337
 translate pt_br hana_3_bd4d3cfc:
 
     # "*knock, knock, knock*"
     ""
 
-# game/scripts/side_char_events.rpy:9339
+# game/scripts/side_char_events.rpy:9338
 translate pt_br hana_3_14cd094a:
 
     # c "Come in."
     c ""
 
-# game/scripts/side_char_events.rpy:9341
+# game/scripts/side_char_events.rpy:9340
 translate pt_br hana_3_1e409c39:
 
     # han "H-Hello... about that date...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9344
+# game/scripts/side_char_events.rpy:9343
 translate pt_br hana_3_783c7da1:
 
     # c "I'll take it as a yes?"
     c ""
 
-# game/scripts/side_char_events.rpy:9345
+# game/scripts/side_char_events.rpy:9344
 translate pt_br hana_3_dd920eb9:
 
     # han "Yeah, sorry... I just needed Maria's help with a few things, but I'm ready to go now."
     han ""
 
-# game/scripts/side_char_events.rpy:9346
+# game/scripts/side_char_events.rpy:9345
 translate pt_br hana_3_8108b81d:
 
     # c "Alright, let me take you to the car."
     c ""
 
-# game/scripts/side_char_events.rpy:9347
+# game/scripts/side_char_events.rpy:9346
 translate pt_br hana_3_c2ed83d0:
 
     # han "Hehe, okay..."
     han ""
 
-# game/scripts/side_char_events.rpy:9349
+# game/scripts/side_char_events.rpy:9348
 translate pt_br hana_3_c3803281:
 
     # "You escort Hana to your car, then drive her to the fanciest place you know..."
     ""
 
-# game/scripts/side_char_events.rpy:9351
+# game/scripts/side_char_events.rpy:9350
 translate pt_br hana_3_5c434e72:
 
     # durn "My name is Durn, I'll be your waiter for today. Can I start you off with some beverages?"
     durn ""
 
-# game/scripts/side_char_events.rpy:9352
+# game/scripts/side_char_events.rpy:9351
 translate pt_br hana_3_70d6b0b0:
 
     # han "Tea, please."
     han ""
 
-# game/scripts/side_char_events.rpy:9353
+# game/scripts/side_char_events.rpy:9352
 translate pt_br hana_3_e348ebc8:
 
     # durn "And for you, master?"
     durn ""
 
-# game/scripts/side_char_events.rpy:9354
+# game/scripts/side_char_events.rpy:9353
 translate pt_br hana_3_b7042bdb:
 
     # c "Just water."
     c ""
 
-# game/scripts/side_char_events.rpy:9355
+# game/scripts/side_char_events.rpy:9354
 translate pt_br hana_3_08cf6fb3:
 
     # durn "Very well."
     durn ""
 
-# game/scripts/side_char_events.rpy:9357
+# game/scripts/side_char_events.rpy:9356
 translate pt_br hana_3_3458e416:
 
     # han "This place is so fancy...! I've never been to such a fancy place before."
     han ""
 
-# game/scripts/side_char_events.rpy:9358
+# game/scripts/side_char_events.rpy:9357
 translate pt_br hana_3_09dc6641:
 
     # han "Ummm... w-what do you think of my new look...? It's all thanks to Maria that I look like this, these are even her clothes. I honestly have no sense of fashion..."
     han ""
 
-# game/scripts/side_char_events.rpy:9362
+# game/scripts/side_char_events.rpy:9361
 translate pt_br hana_3_a5377be0:
 
     # han "Y-You really think so?"
     han ""
 
-# game/scripts/side_char_events.rpy:9363
+# game/scripts/side_char_events.rpy:9362
 translate pt_br hana_3_d8514a10:
 
     # c "Of course. I finally get to see the face behind all the hair."
     c ""
 
-# game/scripts/side_char_events.rpy:9364
+# game/scripts/side_char_events.rpy:9363
 translate pt_br hana_3_8fab9143:
 
     # han "Heh, yeah... I kind of just comb it and let it go wherever it wants... I'm kind of lazy with my hair..."
     han ""
 
-# game/scripts/side_char_events.rpy:9367
+# game/scripts/side_char_events.rpy:9366
 translate pt_br hana_3_e4b2fe57:
 
     # han "O-Oh, you think so...? I guess you're right, but... I don't know anything about style. I just put on whatever feels comfortable..."
     han ""
 
-# game/scripts/side_char_events.rpy:9370
+# game/scripts/side_char_events.rpy:9369
 translate pt_br hana_3_4ef89389:
 
     # han "W-What...!? I can't do that... {i}not here...!{/i}"
     han ""
 
-# game/scripts/side_char_events.rpy:9372
+# game/scripts/side_char_events.rpy:9371
 translate pt_br hana_3_fd4ad07b:
 
     # han "Maria says you two have done some lewd things in public... I don't understand how you can do it without throwing up... doesn't it embarrass you...!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9373
+# game/scripts/side_char_events.rpy:9372
 translate pt_br hana_3_5b212fcc:
 
     # c "No, it feels better."
     c ""
 
-# game/scripts/side_char_events.rpy:9374
+# game/scripts/side_char_events.rpy:9373
 translate pt_br hana_3_837c9099:
 
     # han "R-Really...? How much better?"
     han ""
 
-# game/scripts/side_char_events.rpy:9375
+# game/scripts/side_char_events.rpy:9374
 translate pt_br hana_3_43f508ef:
 
     # c "A lot."
     c ""
 
-# game/scripts/side_char_events.rpy:9377
+# game/scripts/side_char_events.rpy:9376
 translate pt_br hana_3_485dbd78:
 
     # han "Hmmm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9378
+# game/scripts/side_char_events.rpy:9377
 translate pt_br hana_3_236a6825:
 
     # c "What are you thinking about?"
     c ""
 
-# game/scripts/side_char_events.rpy:9379
+# game/scripts/side_char_events.rpy:9378
 translate pt_br hana_3_e3585595:
 
     # han "Well... if my two best friends say it feels good, maybe I'll like it too..."
     han ""
 
-# game/scripts/side_char_events.rpy:9380
+# game/scripts/side_char_events.rpy:9379
 translate pt_br hana_3_2a81a63e:
 
     # han "I've never drawn exhibitionism before... maybe I should try that first..."
     han ""
 
-# game/scripts/side_char_events.rpy:9382
+# game/scripts/side_char_events.rpy:9381
 translate pt_br hana_3_48591192:
 
     # han "Heh, heheh... I could do so much with exhibitionism..."
     han ""
 
-# game/scripts/side_char_events.rpy:9383
+# game/scripts/side_char_events.rpy:9382
 translate pt_br hana_3_40e7c373:
 
     # han "The protagonist of my sci-fi series could be walked around like a bitch in heat to boost morale for the battleship crew... heheh... and they could all take turns fucking her brains out, heheh..."
     han ""
 
-# game/scripts/side_char_events.rpy:9384
+# game/scripts/side_char_events.rpy:9383
 translate pt_br hana_3_87d926cd:
 
     # c "Someone's horny."
     c ""
 
-# game/scripts/side_char_events.rpy:9386
+# game/scripts/side_char_events.rpy:9385
 translate pt_br hana_3_a907e58d:
 
     # han "Sorry..."
     han ""
 
-# game/scripts/side_char_events.rpy:9388
+# game/scripts/side_char_events.rpy:9387
 translate pt_br hana_3_68ab3a88:
 
     # han "Um, so what do you usually like to get? I haven't decided on my order yet..."
     han ""
 
-# game/scripts/side_char_events.rpy:9390
+# game/scripts/side_char_events.rpy:9389
 translate pt_br hana_3_be1ff517:
 
     # c "I think I'll go with..." nointeract
     c "" nointeract
 
-# game/scripts/side_char_events.rpy:9392
+# game/scripts/side_char_events.rpy:9391
 translate pt_br hana_3_dd0fac7e:
 
     # han "You like meat, huh? I think I'll go with a salad..."
     han ""
 
-# game/scripts/side_char_events.rpy:9394
+# game/scripts/side_char_events.rpy:9393
 translate pt_br hana_3_a10566f7:
 
     # han "Same here, I think I'll go with a salad..."
     han ""
 
-# game/scripts/side_char_events.rpy:9396
+# game/scripts/side_char_events.rpy:9395
 translate pt_br hana_3_cc5cfa25:
 
     # han "Like a soup? That sounds pretty good."
     han ""
 
-# game/scripts/side_char_events.rpy:9397
+# game/scripts/side_char_events.rpy:9396
 translate pt_br hana_3_e52b9087:
 
     # han "Hmmm, I think I'll go with a salad..."
     han ""
 
-# game/scripts/side_char_events.rpy:9398
+# game/scripts/side_char_events.rpy:9397
 translate pt_br hana_3_42a48c7c:
 
     # han "Then again, we're at such a fancy place, it would be such a shame if I didn't try one of their specials..."
     han ""
 
-# game/scripts/side_char_events.rpy:9399
+# game/scripts/side_char_events.rpy:9398
 translate pt_br hana_3_5c2ac096:
 
     # han "I think I'll have a steak as well!"
     han ""
 
-# game/scripts/side_char_events.rpy:9401
+# game/scripts/side_char_events.rpy:9400
 translate pt_br hana_3_d6021db4:
 
     # han "That is... if you're okay with paying for it..."
     han ""
 
-# game/scripts/side_char_events.rpy:9402
+# game/scripts/side_char_events.rpy:9401
 translate pt_br hana_3_f6ab1f35:
 
     # c "I don't mind."
     c ""
 
-# game/scripts/side_char_events.rpy:9403
+# game/scripts/side_char_events.rpy:9402
 translate pt_br hana_3_b4f588d2:
 
     # han "Thank you!"
     han ""
 
-# game/scripts/side_char_events.rpy:9404
+# game/scripts/side_char_events.rpy:9403
 translate pt_br hana_3_93d7bbbb:
 
     # c "So, I noticed you brought a big chest with you from your parent's home. What's in that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9406
+# game/scripts/side_char_events.rpy:9405
 translate pt_br hana_3_8336663e:
 
     # han "Oh, just some toys..."
     han ""
 
-# game/scripts/side_char_events.rpy:9407
+# game/scripts/side_char_events.rpy:9406
 translate pt_br hana_3_c5ee6db7:
 
     # c "Oh, dildos."
     c ""
 
-# game/scripts/side_char_events.rpy:9409
+# game/scripts/side_char_events.rpy:9408
 translate pt_br hana_3_c879750b:
 
     # han "W-What!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9410
+# game/scripts/side_char_events.rpy:9409
 translate pt_br hana_3_272b5a03:
 
     # han "Was it that obvious...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9411
+# game/scripts/side_char_events.rpy:9410
 translate pt_br hana_3_014d0311:
 
     # c "Very."
     c ""
 
-# game/scripts/side_char_events.rpy:9412
+# game/scripts/side_char_events.rpy:9411
 translate pt_br hana_3_f793100d:
 
     # han "It's just a few..."
     han ""
 
-# game/scripts/side_char_events.rpy:9414
+# game/scripts/side_char_events.rpy:9413
 translate pt_br hana_3_4174090f:
 
     # han "They're in all different shapes and sizes... heheh, want to know which kind? Most of them are aliens... I also have a drow dildo... heheh..."
     han ""
 
-# game/scripts/side_char_events.rpy:9415
+# game/scripts/side_char_events.rpy:9414
 translate pt_br hana_3_3e0c3da2:
 
     # han "I really like how they all feel... some of them are bumpy, some of them are twisty, some of them just look so tasty... I loooove cock..."
     han ""
 
-# game/scripts/side_char_events.rpy:9417
+# game/scripts/side_char_events.rpy:9416
 translate pt_br hana_3_a588c9cd:
 
     # han "Ah! I shouldn't have said that...! I'm sorry! That wasn't very lady-like of me..."
     han ""
 
-# game/scripts/side_char_events.rpy:9419
+# game/scripts/side_char_events.rpy:9418
 translate pt_br hana_3_d30351c0:
 
     # han "I guess it's all already out there now... yeah, that's where I keep all my sex toys. I haven't even told Maria about it yet... do you think she would kick me out if she found out?"
     han ""
 
-# game/scripts/side_char_events.rpy:9420
+# game/scripts/side_char_events.rpy:9419
 translate pt_br hana_3_441d3d3e:
 
     # c "No, I'm sure she'd just want to try them out."
     c ""
 
-# game/scripts/side_char_events.rpy:9421
+# game/scripts/side_char_events.rpy:9420
 translate pt_br hana_3_d62766f2:
 
     # han "Oh, I guess that's good..."
     han ""
 
-# game/scripts/side_char_events.rpy:9424
+# game/scripts/side_char_events.rpy:9423
 translate pt_br hana_3_d6e89d7b:
 
     # durn "Here are your drinks, are you two ready to order?"
     durn ""
 
-# game/scripts/side_char_events.rpy:9425
+# game/scripts/side_char_events.rpy:9424
 translate pt_br hana_3_825bb275:
 
     # han "Yes, I would like the number 17."
     han ""
 
-# game/scripts/side_char_events.rpy:9427
+# game/scripts/side_char_events.rpy:9426
 translate pt_br hana_3_ed0cd431:
 
     # han "I can't wait for the food...! I'm so hungry, I haven't eaten all day!"
     han ""
 
-# game/scripts/side_char_events.rpy:9428
+# game/scripts/side_char_events.rpy:9427
 translate pt_br hana_3_574a33ea:
 
     # c "Do you have any hobbies?"
     c ""
 
-# game/scripts/side_char_events.rpy:9431
+# game/scripts/side_char_events.rpy:9430
 translate pt_br hana_3_47b56a7f:
 
     # han "Heh, heheh... well... I guess that depends on what counts as a hobby, doesn't it?"
     han ""
 
-# game/scripts/side_char_events.rpy:9432
+# game/scripts/side_char_events.rpy:9431
 translate pt_br hana_3_ac68eee6:
 
     # han "A lot of things could be considered a hobby, you know? Heheh... like, hobbies are just things you do a lot throughout the day... right? So even eating, or brushing your teeth, or... {size=-5}{i}masturbating...{/i}{/size}"
     han ""
 
-# game/scripts/side_char_events.rpy:9433
+# game/scripts/side_char_events.rpy:9432
 translate pt_br hana_3_1951809b:
 
     # c "Do you consider masturbating a hobby of yours?"
     c ""
 
-# game/scripts/side_char_events.rpy:9435
+# game/scripts/side_char_events.rpy:9434
 translate pt_br hana_3_048d9946:
 
     # han "It's... not, {i}not{/i} a hobby..."
     han ""
 
-# game/scripts/side_char_events.rpy:9436
+# game/scripts/side_char_events.rpy:9435
 translate pt_br hana_3_656de068:
 
     # c "Who knew such a shy girl could be such a freak in bed."
     c ""
 
-# game/scripts/side_char_events.rpy:9438
+# game/scripts/side_char_events.rpy:9437
 translate pt_br hana_3_d975e793:
 
     # han "Heh, well... I'm not very experienced in bed at all... I just have a naughty mind..."
     han ""
 
-# game/scripts/side_char_events.rpy:9440
+# game/scripts/side_char_events.rpy:9439
 translate pt_br hana_3_86889452:
 
     # han "I draw a lot of dirty stuff... To be honest, I want it all done to me..."
     han ""
 
-# game/scripts/side_char_events.rpy:9441
+# game/scripts/side_char_events.rpy:9440
 translate pt_br hana_3_0fa6d132:
 
     # han "My mind can't stop thinking about dirty things some times... a lot actually... I tried really hard to keep it a secret from my parents. I was never caught, not even once..."
     han ""
 
-# game/scripts/side_char_events.rpy:9442
+# game/scripts/side_char_events.rpy:9441
 translate pt_br hana_3_516a18d0:
 
     # c "You don't need to hide it here."
     c ""
 
-# game/scripts/side_char_events.rpy:9443
+# game/scripts/side_char_events.rpy:9442
 translate pt_br hana_3_3eac20c5:
 
     # han "I don't want people to think I'm a slut... I try to be a good girl..."
     han ""
 
-# game/scripts/side_char_events.rpy:9444
+# game/scripts/side_char_events.rpy:9443
 translate pt_br hana_3_cdb380c4:
 
     # han "That's why I tried so hard to learn how to suck a cock before I've ever even touched a real one... good girls know how to suck cock, don't they?"
     han ""
 
-# game/scripts/side_char_events.rpy:9446
+# game/scripts/side_char_events.rpy:9445
 translate pt_br hana_3_e27ae160:
 
     # han "Ehh! What am I saying...!? {size=-5}{i}You really need to learn how to control yourself, Hana...!{/i}{/size}" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9447
+# game/scripts/side_char_events.rpy:9446
 translate pt_br hana_3_64544e41:
 
     # han "C-Can we change the topic please...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9448
+# game/scripts/side_char_events.rpy:9447
 translate pt_br hana_3_a1d11586:
 
     # c "Why? You seemed to be enjoying it so much."
     c ""
 
-# game/scripts/side_char_events.rpy:9450
+# game/scripts/side_char_events.rpy:9449
 translate pt_br hana_3_5fc11f7a:
 
     # han "B-Because... I... {size=-5}{i}I think I'm going to wet the seat if we keep talking about this... I would die of embarrassment...!{/i}{/size}"
     han ""
 
-# game/scripts/side_char_events.rpy:9451
+# game/scripts/side_char_events.rpy:9450
 translate pt_br hana_3_28a3f1af:
 
     # c "Okay, uh... what other hobbies do you have?"
     c ""
 
-# game/scripts/side_char_events.rpy:9453
+# game/scripts/side_char_events.rpy:9452
 translate pt_br hana_3_6901f9d9:
 
     # han "I like going on walks... I like seeing the nature, the people, the birds... my parents never really wanted me going on my own, but sometimes I managed to walk a little..."
     han ""
 
-# game/scripts/side_char_events.rpy:9454
+# game/scripts/side_char_events.rpy:9453
 translate pt_br hana_3_c4f101df:
 
     # han "People usually bring their dogs out with them. I can't help but stare and think they're so cute~ but then I think their owners must think I'm weird for staring at their dog... I just want to pet them all."
     han ""
 
-# game/scripts/side_char_events.rpy:9455
+# game/scripts/side_char_events.rpy:9454
 translate pt_br hana_3_7e088637:
 
     # c "Then it's settled, I'll take you on a walk some day."
     c ""
 
-# game/scripts/side_char_events.rpy:9457
+# game/scripts/side_char_events.rpy:9456
 translate pt_br hana_3_d7af150d:
 
     # han "Y-You're planning another date already? Is this going that well...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9458
+# game/scripts/side_char_events.rpy:9457
 translate pt_br hana_3_dfb614a0:
 
     # c "It definitely is."
     c ""
 
-# game/scripts/side_char_events.rpy:9460
+# game/scripts/side_char_events.rpy:9459
 translate pt_br hana_3_5a568cbb:
 
     # han "Wow... I never thought I would be good at dating! This whole time I've been so worried because I've never had experience..."
     han ""
 
-# game/scripts/side_char_events.rpy:9461
+# game/scripts/side_char_events.rpy:9460
 translate pt_br hana_3_15c754e1:
 
     # c "Just be yourself and it will continue to go well."
     c ""
 
-# game/scripts/side_char_events.rpy:9462
+# game/scripts/side_char_events.rpy:9461
 translate pt_br hana_3_d64cd937:
 
     # han "Heh, okay..."
     han ""
 
-# game/scripts/side_char_events.rpy:9463
+# game/scripts/side_char_events.rpy:9462
 translate pt_br hana_3_bf76ec5c:
 
     # han "I've never written romance in my comics. Actually, I almost never write story at all... but maybe it could be nice. I like it so far... I think it could be good build up for the real fun."
     han ""
 
-# game/scripts/side_char_events.rpy:9464
+# game/scripts/side_char_events.rpy:9463
 translate pt_br hana_3_8510e965:
 
     # han "Like... maybe a tall handsome man invites the protagonist to a very classy date, and she dresses up for it, then he finds her so beautiful that he rips all her clothes off, bends her across a table, and fucks her from behind in front of everyone."
     han ""
 
-# game/scripts/side_char_events.rpy:9465
+# game/scripts/side_char_events.rpy:9464
 translate pt_br hana_3_00b74e38:
 
     # c "...Are you describing the setting we're currently in?"
     c ""
 
-# game/scripts/side_char_events.rpy:9467
+# game/scripts/side_char_events.rpy:9466
 translate pt_br hana_3_5208522c:
 
     # han "I-It's just a coincidence...! Writers have to draw inspiration from real life, y-you know...?"
     han ""
 
-# game/scripts/side_char_events.rpy:9468
+# game/scripts/side_char_events.rpy:9467
 translate pt_br hana_3_25e9635c:
 
     # c "Right..."
     c ""
 
-# game/scripts/side_char_events.rpy:9470
+# game/scripts/side_char_events.rpy:9469
 translate pt_br hana_3_db03cff5:
 
     # han "How would... you do it though? Like, as a man... I want a man's perspective..."
     han ""
 
-# game/scripts/side_char_events.rpy:9473
+# game/scripts/side_char_events.rpy:9472
 translate pt_br hana_3_d6157815:
 
     # han "So you would be rough... make her understand who she belongs to. I like that idea..."
     han ""
 
-# game/scripts/side_char_events.rpy:9475
+# game/scripts/side_char_events.rpy:9474
 translate pt_br hana_3_fe6dd458:
 
     # han "So you would do it together... make sure she knows you love her, and that she can expect to feel just as good the next time. You would make sure there's a next time... I like that idea..."
     han ""
 
-# game/scripts/side_char_events.rpy:9477
+# game/scripts/side_char_events.rpy:9476
 translate pt_br hana_3_81b20fc1:
 
     # han "So you would mark her... make everyone understand who she belongs to. I like that idea..."
     han ""
 
-# game/scripts/side_char_events.rpy:9479
+# game/scripts/side_char_events.rpy:9478
 translate pt_br hana_3_b4792b37:
 
     # han "So you would make sure everyone sees... make sure everyone knows who the slut belongs to. I like that idea..."
     han ""
 
-# game/scripts/side_char_events.rpy:9481
+# game/scripts/side_char_events.rpy:9480
 translate pt_br hana_3_6e95aaec:
 
     # han "Yeah, I think that's a good idea for the next chapter of my sci-fi series! I hope my fans won't mind a little bit of romance... "
     han ""
 
-# game/scripts/side_char_events.rpy:9482
+# game/scripts/side_char_events.rpy:9481
 translate pt_br hana_3_6a52fe0d:
 
     # c "We'll see how much real romance is in it by the end with your dirty mind..."
     c ""
 
-# game/scripts/side_char_events.rpy:9484
+# game/scripts/side_char_events.rpy:9483
 translate pt_br hana_3_fbddcd19:
 
     # durn "Here are your orders... enjoy."
     durn ""
 
-# game/scripts/side_char_events.rpy:9485
+# game/scripts/side_char_events.rpy:9484
 translate pt_br hana_3_33c437cd:
 
     # han "Wow, thank you! It looks so good!"
     han ""
 
-# game/scripts/side_char_events.rpy:9487
+# game/scripts/side_char_events.rpy:9486
 translate pt_br hana_3_c70314ac:
 
     # "The two of you eat, and enjoy the rest of your time together..."
     ""
 
-# game/scripts/side_char_events.rpy:9489
+# game/scripts/side_char_events.rpy:9488
 translate pt_br hana_3_18d7e52d:
 
     # han "That was some of the best food I've eaten in years! We have to come back some time!"
     han ""
 
-# game/scripts/side_char_events.rpy:9490
+# game/scripts/side_char_events.rpy:9489
 translate pt_br hana_3_a45e2dd6:
 
     # c "Maybe we will."
     c ""
 
-# game/scripts/side_char_events.rpy:9492
+# game/scripts/side_char_events.rpy:9491
 translate pt_br hana_3_53e220af:
 
     # "After the wonderfully lewd date with Hana, you drive her and yourself back to the hotel..."
     ""
 
-# game/scripts/side_char_events.rpy:9500
+# game/scripts/side_char_events.rpy:9499
 translate pt_br hana_facesit_d72abe9a:
 
     # han "{i}{size=-5}Ahh... nnh...!{/size}{/i}"
     han ""
 
-# game/scripts/side_char_events.rpy:9501
+# game/scripts/side_char_events.rpy:9500
 translate pt_br hana_facesit_f222a09b:
 
     # c "(Hana? What are you doing...)"
     c ""
 
-# game/scripts/side_char_events.rpy:9505
+# game/scripts/side_char_events.rpy:9504
 translate pt_br hana_facesit_9844f948:
 
     # han "Hnnngh... nnm..."
     han ""
 
-# game/scripts/side_char_events.rpy:9506
+# game/scripts/side_char_events.rpy:9505
 translate pt_br hana_facesit_f0a865fa:
 
     # c "Hana..."
     c ""
 
-# game/scripts/side_char_events.rpy:9508
+# game/scripts/side_char_events.rpy:9507
 translate pt_br hana_facesit_08e8fc4a:
 
     # han "Ah! [name]! W-What are you doing here!?"
     han ""
 
-# game/scripts/side_char_events.rpy:9509
+# game/scripts/side_char_events.rpy:9508
 translate pt_br hana_facesit_7333a621:
 
     # c "Well, I work here."
     c ""
 
-# game/scripts/side_char_events.rpy:9511
+# game/scripts/side_char_events.rpy:9510
 translate pt_br hana_facesit_35f99e31:
 
     # han "R-Right... that makes sense..."
     han ""
 
-# game/scripts/side_char_events.rpy:9512
+# game/scripts/side_char_events.rpy:9511
 translate pt_br hana_facesit_a9320203:
 
     # c "What do you think you're doing on my couch? Are you getting it wet?"
     c ""
 
-# game/scripts/side_char_events.rpy:9514
+# game/scripts/side_char_events.rpy:9513
 translate pt_br hana_facesit_7c2b9b34:
 
     # han "N-No... I don't think I'm getting it wet..."
     han ""
 
-# game/scripts/side_char_events.rpy:9516
+# game/scripts/side_char_events.rpy:9515
 translate pt_br hana_facesit_276be879:
 
     # han "S-Sorry, don't be mad... I was trying my best to hide it..."
     han ""
 
-# game/scripts/side_char_events.rpy:9517
+# game/scripts/side_char_events.rpy:9516
 translate pt_br hana_facesit_64753d2b:
 
     # c "Hide what?"
     c ""
 
-# game/scripts/side_char_events.rpy:9519
+# game/scripts/side_char_events.rpy:9518
 translate pt_br hana_facesit_eb1671d3:
 
     # han "Um... Th-This... I wanted to see if I could get away with it... I guess I'm not as good at staying quiet as I thought..."
     han ""
 
-# game/scripts/side_char_events.rpy:9523
+# game/scripts/side_char_events.rpy:9522
 translate pt_br hana_facesit_a9c5719f:
 
     # han "You're not going to kick me out, are you? I was just trying to have some fun..."
     han ""
 
-# game/scripts/side_char_events.rpy:9524
+# game/scripts/side_char_events.rpy:9523
 translate pt_br hana_facesit_630e26e5:
 
     # han "If it means anything, I was thinking about you... about me sitting on your face..."
     han ""
 
-# game/scripts/side_char_events.rpy:9525
+# game/scripts/side_char_events.rpy:9524
 translate pt_br hana_facesit_d0ae06d2:
 
     # c "Is that so?"
     c ""
 
-# game/scripts/side_char_events.rpy:9527
+# game/scripts/side_char_events.rpy:9526
 translate pt_br hana_facesit_eb259482:
 
     # han "Y-Yes... I've always wanted to sit on someones face..."
     han ""
 
-# game/scripts/side_char_events.rpy:9528
+# game/scripts/side_char_events.rpy:9527
 translate pt_br hana_facesit_2a66e25e:
 
     # c "Why didn't you just ask?"
     c ""
 
-# game/scripts/side_char_events.rpy:9530
+# game/scripts/side_char_events.rpy:9529
 translate pt_br hana_facesit_0bcbd91f:
 
     # han "Because... it's embarrassing... and... I like thinking about it, too..."
     han ""
 
-# game/scripts/side_char_events.rpy:9531
+# game/scripts/side_char_events.rpy:9530
 translate pt_br hana_facesit_bfc86cb4:
 
     # han "I can do so many more things in my head than in real life, so sometimes I just like to imagine it..."
     han ""
 
-# game/scripts/side_char_events.rpy:9532
+# game/scripts/side_char_events.rpy:9531
 translate pt_br hana_facesit_63ab1090:
 
     # han "Like... I was imagining we were outside... and I could feel the breeze on my skin..."
     han ""
 
-# game/scripts/side_char_events.rpy:9533
+# game/scripts/side_char_events.rpy:9532
 translate pt_br hana_facesit_f4171925:
 
     # c "That's not too far-fetched, we can do that."
     c ""
 
-# game/scripts/side_char_events.rpy:9535
+# game/scripts/side_char_events.rpy:9534
 translate pt_br hana_facesit_4edfb8f3:
 
     # han "W-What? Really? But I don't want anyone to see me...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9536
+# game/scripts/side_char_events.rpy:9535
 translate pt_br hana_facesit_774d102d:
 
     # c "I know a spot, follow me."
     c ""
 
-# game/scripts/side_char_events.rpy:9537
+# game/scripts/side_char_events.rpy:9536
 translate pt_br hana_facesit_f9d497c6:
 
     # han "Um... okay..."
     han ""
 
-# game/scripts/side_char_events.rpy:9540
+# game/scripts/side_char_events.rpy:9539
 translate pt_br hana_facesit_7226d0e2:
 
     # han "Oh, wow... this place is so pretty. I didn't know this place existed."
     han ""
 
-# game/scripts/side_char_events.rpy:9541
+# game/scripts/side_char_events.rpy:9540
 translate pt_br hana_facesit_1ed448c6:
 
     # c "It's not visited very often, so I think it's perfect for you."
     c ""
 
-# game/scripts/side_char_events.rpy:9542
+# game/scripts/side_char_events.rpy:9541
 translate pt_br hana_facesit_c3b779d3:
 
     # han "The only time I went outside without any clothes was at the beach with Maria. I've always wanted to feel that again."
     han ""
 
-# game/scripts/side_char_events.rpy:9543
+# game/scripts/side_char_events.rpy:9542
 translate pt_br hana_facesit_fd2aede4:
 
     # c "Go ahead, undress."
     c ""
 
-# game/scripts/side_char_events.rpy:9545
+# game/scripts/side_char_events.rpy:9544
 translate pt_br hana_facesit_82380b1c:
 
     # han "Really? Are you sure no one is going to interrupt?"
     han ""
 
-# game/scripts/side_char_events.rpy:9546
+# game/scripts/side_char_events.rpy:9545
 translate pt_br hana_facesit_1e2fd60a:
 
     # c "Don't worry, just enjoy yourself."
     c ""
 
-# game/scripts/side_char_events.rpy:9547
+# game/scripts/side_char_events.rpy:9546
 translate pt_br hana_facesit_73e7e0c4:
 
     # han "Okay, I'll try."
     han ""
 
-# game/scripts/side_char_events.rpy:9550
+# game/scripts/side_char_events.rpy:9549
 translate pt_br hana_facesit_d8a94eca:
 
     # han "Mmmmn... I feel so free..."
     han ""
 
-# game/scripts/side_char_events.rpy:9551
+# game/scripts/side_char_events.rpy:9550
 translate pt_br hana_facesit_aabcca80:
 
     # han "The sun on my skin... the breeze between my legs... it feels so good."
     han ""
 
-# game/scripts/side_char_events.rpy:9555
+# game/scripts/side_char_events.rpy:9554
 translate pt_br hana_facesit_7d93f61a:
 
     # han "Um, can I sit on your face now...? I really like it when you lick my pussy..."
     han ""
 
-# game/scripts/side_char_events.rpy:9556
+# game/scripts/side_char_events.rpy:9555
 translate pt_br hana_facesit_e92e527d:
 
     # c "I'm starting to think you wanted to be caught in the lobby."
     c ""
 
-# game/scripts/side_char_events.rpy:9557
+# game/scripts/side_char_events.rpy:9556
 translate pt_br hana_facesit_a9058f83:
 
     # han "That's not true... that's not even the first time I've done it, just the first time I've been caught..."
     han ""
 
-# game/scripts/side_char_events.rpy:9561
+# game/scripts/side_char_events.rpy:9560
 translate pt_br hana_facesit_90dd1aae:
 
     # han "Heheh, I guess you're ready..."
     han ""
 
-# game/scripts/side_char_events.rpy:9562
+# game/scripts/side_char_events.rpy:9561
 translate pt_br hana_facesit_d8a1745c:
 
     # han "Just sit still, okay? I want to ride your face..."
     han ""
 
-# game/scripts/side_char_events.rpy:9563
+# game/scripts/side_char_events.rpy:9562
 translate pt_br hana_facesit_2dfa22b6:
 
     # c "I think I can manage that."
     c ""
 
-# game/scripts/side_char_events.rpy:9565
+# game/scripts/side_char_events.rpy:9564
 translate pt_br hana_facesit_f4b25f76:
 
     # han "Okay, good... nnm... I'm getting so wet just thinking about it... are you really okay with this?"
     han ""
 
-# game/scripts/side_char_events.rpy:9566
+# game/scripts/side_char_events.rpy:9565
 translate pt_br hana_facesit_1a1783d2:
 
     # c "Of course. Whenever you're ready."
     c ""
 
-# game/scripts/side_char_events.rpy:9567
+# game/scripts/side_char_events.rpy:9566
 translate pt_br hana_facesit_9a5dac8d:
 
     # han "I'm a little close to cumming from before, so... I might cum on your face... don't be surprised if I do..."
     han ""
 
-# game/scripts/side_char_events.rpy:9569
+# game/scripts/side_char_events.rpy:9568
 translate pt_br hana_facesit_64dcd354:
 
     # han "Okay, here I go..."
     han ""
 
-# game/scripts/side_char_events.rpy:9573
+# game/scripts/side_char_events.rpy:9572
 translate pt_br hana_facesit_ab5a18b7:
 
     # han "Ohh...! Nnnm, oh wow...! Nnm! You're licking me so eagerly~ That feels amazing, [name]...!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9574
+# game/scripts/side_char_events.rpy:9573
 translate pt_br hana_facesit_37bc3fb6:
 
     # han "Mmmmn~ yes, keep licking my pussy...! Hahh...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9576
+# game/scripts/side_char_events.rpy:9575
 translate pt_br hana_facesit_61221dd7:
 
     # han "Hahh... your tongue is perfect... mmmn...! I love sitting on your face already..."
     han ""
 
-# game/scripts/side_char_events.rpy:9577
+# game/scripts/side_char_events.rpy:9576
 translate pt_br hana_facesit_142afbdc:
 
     # han "It feels even better than I imagined it...! Ah~! Nnn, you're licking everywhere, aren't you...? Mmmmn~!"
     han ""
 
-# game/scripts/side_char_events.rpy:9581
+# game/scripts/side_char_events.rpy:9580
 translate pt_br hana_facesit_ab283ffe:
 
     # han "Mmmn! Mmmn! Mmmn! Haaaahhh~ [linoname]...! [linoname]...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9583
+# game/scripts/side_char_events.rpy:9582
 translate pt_br hana_facesit_03705cd5:
 
     # han "Mmmn! Mmmn! Mmmn! Haaaahhh~ [name]...! [name]...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9584
+# game/scripts/side_char_events.rpy:9583
 translate pt_br hana_facesit_aed12341:
 
     # han "Yes, keep going...! Mmmn! Kiss my pussy~ Mmmn! Fuck, fuck, fuck~!"
     han ""
 
-# game/scripts/side_char_events.rpy:9586
+# game/scripts/side_char_events.rpy:9585
 translate pt_br hana_facesit_d5d83663:
 
     # han "Aaah! Ah~! Harder! Mmmmmn~! Harder!"
     han ""
 
-# game/scripts/side_char_events.rpy:9587
+# game/scripts/side_char_events.rpy:9586
 translate pt_br hana_facesit_b0e0ff48:
 
     # han "Fuck, mmmmn! I love it~ Mmmn! Mmmn! Haaah~!"
     han ""
 
-# game/scripts/side_char_events.rpy:9589
+# game/scripts/side_char_events.rpy:9588
 translate pt_br hana_facesit_d27c0980:
 
     # han "Hahh, oh my god...! Hnnngh! Yes, yes, yes! I'm so close, [name]! Aah!"
     han ""
 
-# game/scripts/side_char_events.rpy:9590
+# game/scripts/side_char_events.rpy:9589
 translate pt_br hana_facesit_a82179d9:
 
     # han "Aaah~! From the moment I woke up this morning, this is all I've wanted to do! Mmmn~! Aaah! And now I'm actually doing it...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9591
+# game/scripts/side_char_events.rpy:9590
 translate pt_br hana_facesit_388a5a35:
 
     # han "Mmmmn~! Oh, hah! HAH! Ahh~! I'm cumming...! I'm cumming!"
     han ""
 
-# game/scripts/side_char_events.rpy:9593
+# game/scripts/side_char_events.rpy:9592
 translate pt_br hana_facesit_ca2568e9:
 
     # han "AAAAAAAH~!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9595
+# game/scripts/side_char_events.rpy:9594
 translate pt_br hana_facesit_079251c1:
 
     # han "Hnnn! Hnnngh! [linoname]~~~!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9597
+# game/scripts/side_char_events.rpy:9596
 translate pt_br hana_facesit_b5af3475:
 
     # han "Hnnn! Hnnngh! [name]~~~!" with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9599
+# game/scripts/side_char_events.rpy:9598
 translate pt_br hana_facesit_1ee4a931:
 
     # han "Nnnh...! Hahh...! Mmmn... wow..." with ssshake
     han "" with ssshake
 
-# game/scripts/side_char_events.rpy:9601
+# game/scripts/side_char_events.rpy:9600
 translate pt_br hana_facesit_c942b456:
 
     # han "Heheh, sorry... your face is all wet."
     han ""
 
-# game/scripts/side_char_events.rpy:9603
+# game/scripts/side_char_events.rpy:9602
 translate pt_br hana_facesit_e8672f84:
 
     # han "Thanks [name], that was so fun...!"
     han ""
 
-# game/scripts/side_char_events.rpy:9604
+# game/scripts/side_char_events.rpy:9603
 translate pt_br hana_facesit_07eba949:
 
     # c "Don't hesitate to ask next time, no one here will bite."
     c ""
 
-# game/scripts/side_char_events.rpy:9605
+# game/scripts/side_char_events.rpy:9604
 translate pt_br hana_facesit_26ad3d20:
 
     # han "Okay... I'll keep that in mind."
     han ""
 
-# game/scripts/side_char_events.rpy:9612
+# game/scripts/side_char_events.rpy:9611
 translate pt_br hana_facesit_ad6affa3:
 
     # c "I don't have time for this..."
     c ""
 
-# game/scripts/side_char_events.rpy:9628
+# game/scripts/side_char_events.rpy:9627
 translate pt_br vanessa4_b760a5ea:
 
     # van "Oh, this place is beautiful! I've always wanted to come here, but I could never seem to find the time... I heard this used to be the palace of a former monarch or something?"
     van ""
 
-# game/scripts/side_char_events.rpy:9630
+# game/scripts/side_char_events.rpy:9629
 translate pt_br vanessa4_4214bdef:
 
     # c "That's right, King Michael was the last king to sit on that throne before the humans revolted to create the republic of Syl'anar."
     c ""
 
-# game/scripts/side_char_events.rpy:9631
+# game/scripts/side_char_events.rpy:9630
 translate pt_br vanessa4_95d100d9:
 
     # van "Wooow, look at you, all smart..."
     van ""
 
-# game/scripts/side_char_events.rpy:9632
+# game/scripts/side_char_events.rpy:9631
 translate pt_br vanessa4_9465c9c0:
 
     # c "I've been here before, it's nice."
     c ""
 
-# game/scripts/side_char_events.rpy:9634
+# game/scripts/side_char_events.rpy:9633
 translate pt_br vanessa4_25a65e1d:
 
     # c "Who knows? It doesn't look like a typical museum."
     c ""
 
-# game/scripts/side_char_events.rpy:9635
+# game/scripts/side_char_events.rpy:9634
 translate pt_br vanessa4_861655d3:
 
     # van " That's for sure."
     van ""
 
-# game/scripts/side_char_events.rpy:9637
+# game/scripts/side_char_events.rpy:9636
 translate pt_br vanessa4_b0636f8c:
 
     # van "Can you believe some people still defend the monarchy? As if they ever did anything good for peasants like them..."
     van ""
 
-# game/scripts/side_char_events.rpy:9638
+# game/scripts/side_char_events.rpy:9637
 translate pt_br vanessa4_c9397437:
 
     # van "All they were was a bunch of thugs in crowns... they stole from humans and elves all the same while they sat on their thrones of gold like they deserved it."
     van ""
 
-# game/scripts/side_char_events.rpy:9639
+# game/scripts/side_char_events.rpy:9638
 translate pt_br vanessa4_96309c13:
 
     # van "Not much different from modern companies like Nero Inc. if you think about it. He's not the one doing any work, he's just profiting off his workers like any King would."
     van ""
 
-# game/scripts/side_char_events.rpy:9640
+# game/scripts/side_char_events.rpy:9639
 translate pt_br vanessa4_59c15a58:
 
     # van "At least companies haven't started waging war on each other... yet."
     van ""
 
-# game/scripts/side_char_events.rpy:9641
+# game/scripts/side_char_events.rpy:9640
 translate pt_br vanessa4_f8a74bb9:
 
     # van "Any day though, I'm sure. I know Nero Inc. already has militias of war droids defending their assets."
     van ""
 
-# game/scripts/side_char_events.rpy:9642
+# game/scripts/side_char_events.rpy:9641
 translate pt_br vanessa4_4e24c2ca:
 
     # c "Really?"
     c ""
 
-# game/scripts/side_char_events.rpy:9643
+# game/scripts/side_char_events.rpy:9642
 translate pt_br vanessa4_68ea1a41:
 
     # van "Oh yeah, since we haven't been in any wars for a long time, the government decided to sell a lot of them off to the highest bidder, or just give them to the police."
     van ""
 
-# game/scripts/side_char_events.rpy:9649
+# game/scripts/side_char_events.rpy:9648
 translate pt_br vanessa4_40b9a693:
 
     # van "Speaking of monarchies, look who it is... the last Queen alive."
     van ""
 
-# game/scripts/side_char_events.rpy:9651
+# game/scripts/side_char_events.rpy:9650
 translate pt_br vanessa4_1b186f42:
 
     # c "Queen Jia, I've met her before."
     c ""
 
-# game/scripts/side_char_events.rpy:9652
+# game/scripts/side_char_events.rpy:9651
 translate pt_br vanessa4_88c0ecb9:
 
     # van "No way, seriously!? What is she like?"
     van ""
 
-# game/scripts/side_char_events.rpy:9653
+# game/scripts/side_char_events.rpy:9652
 translate pt_br vanessa4_668ee89f:
 
     # c "A bit odd."
     c ""
 
-# game/scripts/side_char_events.rpy:9654
+# game/scripts/side_char_events.rpy:9653
 translate pt_br vanessa4_3b8c13f9:
 
     # van "Pfft, they're all odd. Do you know how much those people liked incest?"
     van ""
 
-# game/scripts/side_char_events.rpy:9655
+# game/scripts/side_char_events.rpy:9654
 translate pt_br vanessa4_d14d9715:
 
     # van "You know, elves never had Queen or Kings..."
     van ""
 
-# game/scripts/side_char_events.rpy:9656
+# game/scripts/side_char_events.rpy:9655
 translate pt_br vanessa4_4e24c2ca_1:
 
     # c "Really?"
     c ""
 
-# game/scripts/side_char_events.rpy:9657
+# game/scripts/side_char_events.rpy:9656
 translate pt_br vanessa4_f866b227:
 
     # van "Well, they all had monarchies, but they were never called that. The leader of the Alari is supposed to be called Syl'ris. It could be one person, two people, or even more, but that was extremely rare."
     van ""
 
-# game/scripts/side_char_events.rpy:9658
+# game/scripts/side_char_events.rpy:9657
 translate pt_br vanessa4_38fac2cb:
 
     # van "Syl'ris was the gender-neutral title for leader of the Alari. I think it means something like... people's leader. Most Syl'ris were couples, usually a male and a female."
     van ""
 
-# game/scripts/side_char_events.rpy:9659
+# game/scripts/side_char_events.rpy:9658
 translate pt_br vanessa4_d0602ada:
 
     # van "That's a part of why I've never liked her. Not because she didn't use the right title, but it's so obvious she's not a real Queen. She's more of an actress than anything..."
     van ""
 
-# game/scripts/side_char_events.rpy:9661
+# game/scripts/side_char_events.rpy:9660
 translate pt_br vanessa4_2dac98b5:
 
     # c "She has it harder than you might think... she's not exactly a free person."
     c ""
 
-# game/scripts/side_char_events.rpy:9662
+# game/scripts/side_char_events.rpy:9661
 translate pt_br vanessa4_a1502459:
 
     # van "What do you mean? She might be a puppet, but she really is royalty."
     van ""
 
-# game/scripts/side_char_events.rpy:9663
+# game/scripts/side_char_events.rpy:9662
 translate pt_br vanessa4_1cc91708:
 
     # c "They tried to marry her off recently, I could tell she didn't want it. It seems to me she's as free as any other elf."
     c ""
 
-# game/scripts/side_char_events.rpy:9667
+# game/scripts/side_char_events.rpy:9666
 translate pt_br vanessa4_597e094b:
 
     # van "Really? Are you serious? I mean, if she's not truly free then elves everywhere would go crazy!"
     van ""
 
-# game/scripts/side_char_events.rpy:9668
+# game/scripts/side_char_events.rpy:9667
 translate pt_br vanessa4_be946ed6:
 
     # c "How is that?"
     c ""
 
-# game/scripts/side_char_events.rpy:9669
+# game/scripts/side_char_events.rpy:9668
 translate pt_br vanessa4_82b2b658:
 
     # van "To a lot of elves, Jia is their last beacon of hope. Proof that if you're a model slave, you can reach some impossible dream of freedom. This could be a huge story!"
     van ""
 
-# game/scripts/side_char_events.rpy:9670
+# game/scripts/side_char_events.rpy:9669
 translate pt_br vanessa4_91209b08:
 
     # c "I probably shouldn't have told you as much as I have. If that gets out, what use would she be? They would probably hurt her, or worse."
     c ""
 
-# game/scripts/side_char_events.rpy:9674
+# game/scripts/side_char_events.rpy:9673
 translate pt_br vanessa4_91eacac4:
 
     # van "*sigh*, yeah, you're right... Alright, you have my word. I won't say anything about this until you say otherwise."
     van ""
 
-# game/scripts/side_char_events.rpy:9675
+# game/scripts/side_char_events.rpy:9674
 translate pt_br vanessa4_27195328:
 
     # van "This job can really suck sometimes, especially when the truth will hurt people... I wish it weren't always like that."
     van ""
 
-# game/scripts/side_char_events.rpy:9679
+# game/scripts/side_char_events.rpy:9678
 translate pt_br vanessa4_e58ac7fb:
 
     # van "Ergh, and did you see that whole charade about her becoming a Gaianist? They're not being very subtle with that one, are they..."
     van ""
 
-# game/scripts/side_char_events.rpy:9681
+# game/scripts/side_char_events.rpy:9680
 translate pt_br vanessa4_a8581029:
 
     # c "She told us herself that she never wanted to join."
     c ""
 
-# game/scripts/side_char_events.rpy:9684
+# game/scripts/side_char_events.rpy:9683
 translate pt_br vanessa4_cb03cae4:
 
     # van "Seriously!? You're not lying?"
     van ""
 
-# game/scripts/side_char_events.rpy:9685
+# game/scripts/side_char_events.rpy:9684
 translate pt_br vanessa4_01c7d35a:
 
     # c "Yeah, but, don't let anyone else know that."
     c ""
 
-# game/scripts/side_char_events.rpy:9686
+# game/scripts/side_char_events.rpy:9685
 translate pt_br vanessa4_0e6fb2e8:
 
     # van "How does someone like you know these things? I mean, I'm impressed..."
     van ""
 
-# game/scripts/side_char_events.rpy:9687
+# game/scripts/side_char_events.rpy:9686
 translate pt_br vanessa4_e5eb5a6a:
 
     # c "I know a lot of people, I guess I get around."
     c ""
 
-# game/scripts/side_char_events.rpy:9688
+# game/scripts/side_char_events.rpy:9687
 translate pt_br vanessa4_c6757af9:
 
     # van "Yeah, I'll say."
     van ""
 
-# game/scripts/side_char_events.rpy:9691
+# game/scripts/side_char_events.rpy:9690
 translate pt_br vanessa4_431ad28f:
 
     # van "Officially, she has no master. But I have a suspicion that she's controlled by Cornwall. I'm not totally sure why, but her joining is clearly political... that, and her marriage."
     van ""
 
-# game/scripts/side_char_events.rpy:9693
+# game/scripts/side_char_events.rpy:9692
 translate pt_br vanessa4_f7e5d810:
 
     # van "Moving on... oh! Duuude, look at these! Wanted posters! Oh these are so cool!"
     van ""
 
-# game/scripts/side_char_events.rpy:9694
+# game/scripts/side_char_events.rpy:9693
 translate pt_br vanessa4_1b86613e:
 
     # c "Wanted posters? How archaic."
     c ""
 
-# game/scripts/side_char_events.rpy:9695
+# game/scripts/side_char_events.rpy:9694
 translate pt_br vanessa4_88dc8100:
 
     # van "Well yeah, they're super old. These look like originals too! Just imagine how many hands have touched those papers over the years."
     van ""
 
-# game/scripts/side_char_events.rpy:9696
+# game/scripts/side_char_events.rpy:9695
 translate pt_br vanessa4_c9449e66:
 
     # van "All of these are from the third revolution. I've studied quite a lot about that time. Want to read about them?"
     van ""
 
-# game/scripts/side_char_events.rpy:9700
+# game/scripts/side_char_events.rpy:9699
 translate pt_br vanessa4_527f5e48:
 
     # van "Hmm, who should we learn about? You decide."
     van ""
 
-# game/scripts/side_char_events.rpy:9704
+# game/scripts/side_char_events.rpy:9703
 translate pt_br vanessa4_535f8040:
 
     # van "Oh, I thought these were pretty cool, but... alright, moving on..."
     van ""
 
-# game/scripts/side_char_events.rpy:9710
+# game/scripts/side_char_events.rpy:9709
 translate pt_br poster_choose_1f4c44ad:
 
     # van "And that's all of them, the great revolutionaries of our time."
     van ""
 
-# game/scripts/side_char_events.rpy:9711
+# game/scripts/side_char_events.rpy:9710
 translate pt_br poster_choose_d43d3c3e:
 
     # van "Three are alive, that we know of, and three have been publicly hanged. Just a matter of time for the others, I suppose..."
     van ""
 
-# game/scripts/side_char_events.rpy:9712
+# game/scripts/side_char_events.rpy:9711
 translate pt_br poster_choose_e5584792:
 
     # c "It's strange to think that half of them are still alive. That seems like such a different time."
     c ""
 
-# game/scripts/side_char_events.rpy:9713
+# game/scripts/side_char_events.rpy:9712
 translate pt_br poster_choose_8c2fed55:
 
     # van "To us, yeah. But to them, it's not much different... unfortunately."
     van ""
 
-# game/scripts/side_char_events.rpy:9714
+# game/scripts/side_char_events.rpy:9713
 translate pt_br poster_choose_4c7f3293:
 
     # van "Anyway, want to check something else out or stay here?"
     van ""
 
-# game/scripts/side_char_events.rpy:9722
+# game/scripts/side_char_events.rpy:9721
 translate pt_br banshee_poster_2a03b8ad:
 
     # van "Banshee... I've always hated that name for her. Most text says she was actually a very diplomatic person. A leader, yes, but not the murderer this poster is trying to paint her as."
     van ""
 
-# game/scripts/side_char_events.rpy:9723
+# game/scripts/side_char_events.rpy:9722
 translate pt_br banshee_poster_c627e099:
 
     # van "Humans really feared her for her leadership abilities. She and Ghen lead most of the dark elvish revolutionaries during the third revolution, though she was more a leader than he ever was."
     van ""
 
-# game/scripts/side_char_events.rpy:9724
+# game/scripts/side_char_events.rpy:9723
 translate pt_br banshee_poster_e607fe5a:
 
     # van "Did you hear that she was actually caught recently? Only 21 years ago. Cornwall made a huge deal about it, it was all over the news. I'm surprised she managed as far as she did without getting caught..."
     van ""
 
-# game/scripts/side_char_events.rpy:9725
+# game/scripts/side_char_events.rpy:9724
 translate pt_br banshee_poster_a618a206:
 
     # van "She's in some max security prison somewhere, assuming she's even still alive in there. Needless to say... she isn't getting out."
     van ""
 
-# game/scripts/side_char_events.rpy:9727
+# game/scripts/side_char_events.rpy:9726
 translate pt_br banshee_poster_75c1fb3c:
 
     # c "I've heard of her. I hope she's doing okay. \n{i}(For Maria's sake, at the very least.){/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:9728
+# game/scripts/side_char_events.rpy:9727
 translate pt_br banshee_poster_258649a8:
 
     # van "Oh, are you a fan of hers too?"
     van ""
 
-# game/scripts/side_char_events.rpy:9729
+# game/scripts/side_char_events.rpy:9728
 translate pt_br banshee_poster_a007671f:
 
     # c "You could say that."
     c ""
 
-# game/scripts/side_char_events.rpy:9730
+# game/scripts/side_char_events.rpy:9729
 translate pt_br banshee_poster_60e2f57a:
 
     # van "Nice, she's a good choice. Syls back then were worth a lot more. I don't remember the exact conversion, but she's probably worth hundreds of thousands in today's economy."
     van ""
 
-# game/scripts/side_char_events.rpy:9731
+# game/scripts/side_char_events.rpy:9730
 translate pt_br banshee_poster_d3702b97:
 
     # van "Go ahead, read it if you want. I'll give you time."
     van ""
 
-# game/scripts/side_char_events.rpy:9743
+# game/scripts/side_char_events.rpy:9742
 translate pt_br iksa_poster_0e2a825d:
 
     # van "The great chieftain of the owl clan, Iksa! She's fairly well known actually. She was caught soon after the third revolution ended, but in a wild turn of events, she was actually allowed back in her lands under certain circumstances."
     van ""
 
-# game/scripts/side_char_events.rpy:9744
+# game/scripts/side_char_events.rpy:9743
 translate pt_br iksa_poster_c012cf33:
 
     # c "Such as what?"
     c ""
 
-# game/scripts/side_char_events.rpy:9745
+# game/scripts/side_char_events.rpy:9744
 translate pt_br iksa_poster_f4f04164:
 
     # van "She and her people are never allowed to leave, and she's never allowed to expand her territory. They're basically still slaves, but they have plenty of freedoms."
     van ""
 
-# game/scripts/side_char_events.rpy:9746
+# game/scripts/side_char_events.rpy:9745
 translate pt_br iksa_poster_ba86548f:
 
     # c "Why would they allow clans of elves to exist?"
     c ""
 
-# game/scripts/side_char_events.rpy:9747
+# game/scripts/side_char_events.rpy:9746
 translate pt_br iksa_poster_44aa85a1:
 
     # van "Well, they all live in a desert... they're not living in the best living conditions. But... I don't really know. There must be some advantage to keeping them out there instead of prison."
     van ""
 
-# game/scripts/side_char_events.rpy:9749
+# game/scripts/side_char_events.rpy:9748
 translate pt_br iksa_poster_004f7247:
 
     # c "You know, I've actually met her."
     c ""
 
-# game/scripts/side_char_events.rpy:9750
+# game/scripts/side_char_events.rpy:9749
 translate pt_br iksa_poster_29ae0309:
 
     # van "No way, are you serious!?"
     van ""
 
-# game/scripts/side_char_events.rpy:9751
+# game/scripts/side_char_events.rpy:9750
 translate pt_br iksa_poster_efc2c472:
 
     # c "Yeah, apparently she knows Lin. They met during the third revolution."
     c ""
 
-# game/scripts/side_char_events.rpy:9752
+# game/scripts/side_char_events.rpy:9751
 translate pt_br iksa_poster_59583818:
 
     # van "That's crazy! What is she like?"
     van ""
 
-# game/scripts/side_char_events.rpy:9753
+# game/scripts/side_char_events.rpy:9752
 translate pt_br iksa_poster_92d2365a:
 
     # c "She's a grumpy old woman these days... very protective. But I did witness something strange while I was there."
     c ""
 
-# game/scripts/side_char_events.rpy:9754
+# game/scripts/side_char_events.rpy:9753
 translate pt_br iksa_poster_9e547c95:
 
     # van "What?"
     van ""
 
-# game/scripts/side_char_events.rpy:9755
+# game/scripts/side_char_events.rpy:9754
 translate pt_br iksa_poster_5010c4e5:
 
     # c "They were being raided by people in a helicopter. They said it happened often, maybe once a month or so."
     c ""
 
-# game/scripts/side_char_events.rpy:9756
+# game/scripts/side_char_events.rpy:9755
 translate pt_br iksa_poster_281153e0:
 
     # van "What? Seriously? People should know about this..."
     van ""
 
-# game/scripts/side_char_events.rpy:9757
+# game/scripts/side_char_events.rpy:9756
 translate pt_br iksa_poster_aeb1d3f3:
 
     # c "You're right, we're trying to get as many people as possible to know."
     c ""
 
-# game/scripts/side_char_events.rpy:9758
+# game/scripts/side_char_events.rpy:9757
 translate pt_br iksa_poster_a2eb951c:
 
     # van "If you can provide some proof, I'll see what I can do."
     van ""
 
-# game/scripts/side_char_events.rpy:9759
+# game/scripts/side_char_events.rpy:9758
 translate pt_br iksa_poster_0bf7d8a2:
 
     # c "We took some videos, we can get those to you."
     c ""
 
-# game/scripts/side_char_events.rpy:9760
+# game/scripts/side_char_events.rpy:9759
 translate pt_br iksa_poster_d58ed03d:
 
     # van "Great!"
     van ""
 
-# game/scripts/side_char_events.rpy:9761
+# game/scripts/side_char_events.rpy:9760
 translate pt_br iksa_poster_286f337b:
 
     # van "I wonder if any of this ties in to why the government allows them to live out there, in that desert... maybe it's just more profitable to keep them there instead of feeding and housing them in some prison? Maybe she made a deal with Syl'anar? Egh, I don't know..."
     van ""
 
-# game/scripts/side_char_events.rpy:9762
+# game/scripts/side_char_events.rpy:9761
 translate pt_br iksa_poster_b62556d6:
 
     # van "Anyway, Iksa used to be a badass. Go ahead, read about her."
     van ""
 
-# game/scripts/side_char_events.rpy:9773
+# game/scripts/side_char_events.rpy:9772
 translate pt_br jester_poster_8692e1a8:
 
     # van "The Jester... she's quite a legend. They don't teach this in school, but she used to lead a huge elvish fleet of stolen ships! She's older than she looks in this photo as well."
     van ""
 
-# game/scripts/side_char_events.rpy:9774
+# game/scripts/side_char_events.rpy:9773
 translate pt_br jester_poster_024dd822:
 
     # van "During the third revolution, she was mostly a thief. But in her prime, she was the captain of Syl'anar's worst nightmare for a time. She mostly targetted trade fleets and pirated the loot being imported and exported to Syl'anar."
     van ""
 
-# game/scripts/side_char_events.rpy:9775
+# game/scripts/side_char_events.rpy:9774
 translate pt_br jester_poster_8772694b:
 
     # van "She was such a good thief that she was able to kidnap the wife of the president during the third revolution! Uh- maybe I shouldn't sound so excited, heheh... you know, publicly..."
     van ""
 
-# game/scripts/side_char_events.rpy:9776
+# game/scripts/side_char_events.rpy:9775
 translate pt_br jester_poster_0a33cdc8:
 
     # van "*ahem*... anyway, being the leader of a fleet of pirates, she inevitably became responsible for quite a few immoral things. Even elves started to dislike her, but her power became useful during moments like revolutions."
     van ""
 
-# game/scripts/side_char_events.rpy:9777
+# game/scripts/side_char_events.rpy:9776
 translate pt_br jester_poster_3b3c0820:
 
     # van "She was actually hanged soon after Cornwall's inauguration... being disliked by both elves and humans, he saw it as a win-win..."
     van ""
 
-# game/scripts/side_char_events.rpy:9778
+# game/scripts/side_char_events.rpy:9777
 translate pt_br jester_poster_d8cfbc9f:
 
     # c "That seems a bit excessive."
     c ""
 
-# game/scripts/side_char_events.rpy:9779
+# game/scripts/side_char_events.rpy:9778
 translate pt_br jester_poster_02a85e91:
 
     # van "I wouldn't shed too many tears... It's not right what they did to her, but she wasn't a good person at all. At least from what I know about her..."
     van ""
 
-# game/scripts/side_char_events.rpy:9790
+# game/scripts/side_char_events.rpy:9789
 translate pt_br ghen_poster_9e66fdd0:
 
     # van "Ghen Tindo, Tindi quickshot. That's a man who peaked only {i}after{/i} the humans came, haha."
     van ""
 
-# game/scripts/side_char_events.rpy:9791
+# game/scripts/side_char_events.rpy:9790
 translate pt_br ghen_poster_5f571383:
 
     # van "He might look scary, and that might be because he is, but as far as I can tell, he's never done anything heinous like some of the others here."
     van ""
 
-# game/scripts/side_char_events.rpy:9793
+# game/scripts/side_char_events.rpy:9792
 translate pt_br ghen_poster_e4162621:
 
     # c "{i}(I'm not sure Ghen would be too happy if I told anyone that he was alive. I'll keep that to myself for now.){/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:9795
+# game/scripts/side_char_events.rpy:9794
 translate pt_br ghen_poster_7dd802aa:
 
     # c "What about the part where it says... {i}'an effort to cleanse this land of all humans'?{/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:9796
+# game/scripts/side_char_events.rpy:9795
 translate pt_br ghen_poster_1bfd5148:
 
     # van "Does it really say that? Damn, they didn't mince words back then..."
     van ""
 
-# game/scripts/side_char_events.rpy:9797
+# game/scripts/side_char_events.rpy:9796
 translate pt_br ghen_poster_d693bcba:
 
     # van "I don't know if he's really responsible for thousands of deaths, but it was war, after all... even good people have to do bad things in war. Nothing I've ever read seems to suggest he hated all humans though, just slavers."
     van ""
 
-# game/scripts/side_char_events.rpy:9798
+# game/scripts/side_char_events.rpy:9797
 translate pt_br ghen_poster_3330393a:
 
     # van "He and Banshee seem to cross paths a few times in history, they probably had some sort of relationship. Maybe he was a general of some kind? I can only speculate."
     van ""
 
-# game/scripts/side_char_events.rpy:9799
+# game/scripts/side_char_events.rpy:9798
 translate pt_br ghen_poster_99d09bd4:
 
     # van "He is deadly though, that much is for sure. If I remember right... he was never caught."
     van ""
 
-# game/scripts/side_char_events.rpy:9800
+# game/scripts/side_char_events.rpy:9799
 translate pt_br ghen_poster_5ebd7eb1:
 
     # c "Do you think this offer is still valid?"
     c ""
 
-# game/scripts/side_char_events.rpy:9801
+# game/scripts/side_char_events.rpy:9800
 translate pt_br ghen_poster_4bbd87db:
 
     # van "The wanted poster? Heh, maybe. Good luck getting to him without finding a bullet somewhere in your body though."
     van ""
 
-# game/scripts/side_char_events.rpy:9812
+# game/scripts/side_char_events.rpy:9811
 translate pt_br savage_poster_2d06b6ee:
 
     # van "Savage, yeah... out of everyone here, she deserves that name the most. She didn't lead an army so much as a squad of drow, but the effect was more or less the same. They were truly feared, and truly brutal."
     van ""
 
-# game/scripts/side_char_events.rpy:9813
+# game/scripts/side_char_events.rpy:9812
 translate pt_br savage_poster_bebf051c:
 
     # van "And, yes, she most likely could understand common. Probably spoke it well enough too. Drow might not be as social as we are, but they're not animals..."
     van ""
 
-# game/scripts/side_char_events.rpy:9814
+# game/scripts/side_char_events.rpy:9813
 translate pt_br savage_poster_52bc7fd7:
 
     # van "Clearly they didn't enjoy being turned into slaves like the elves. A lot of drow joined the fight against slavery during every revolution, but she was the most notable for simply being brutal. She was a murderer, but a useful ally from time to time."
     van ""
 
-# game/scripts/side_char_events.rpy:9815
+# game/scripts/side_char_events.rpy:9814
 translate pt_br savage_poster_cf74e6da:
 
     # van "Even though she was wanted dead, she was turned in alive and publicly hanged at the end of the third revolution. She must have made someone {i}very{/i} rich."
     van ""
 
-# game/scripts/side_char_events.rpy:9826
+# game/scripts/side_char_events.rpy:9825
 translate pt_br nightmare_poster_f48a7d27:
 
     # van "This guy was ruthless, and definitely knew how to take advantage of unrest. Not the nicest guy either, from what I've seen, but who can say what's actually true."
     van ""
 
-# game/scripts/side_char_events.rpy:9827
+# game/scripts/side_char_events.rpy:9826
 translate pt_br nightmare_poster_a916a3df:
 
     # van "What we do know is, he totally took over Corpus city for days during the third revolution! That's the capital city! He even managed to behead the mayor."
     van ""
 
-# game/scripts/side_char_events.rpy:9828
+# game/scripts/side_char_events.rpy:9827
 translate pt_br nightmare_poster_0f6e6e63:
 
     # c "That must have been tough."
     c ""
 
-# game/scripts/side_char_events.rpy:9829
+# game/scripts/side_char_events.rpy:9828
 translate pt_br nightmare_poster_11d11afd:
 
     # van "For him? Not at all. He was known for being hard to catch. He was so elusive, there were even rumors circulating that he knew magic, haha!"
     van ""
 
-# game/scripts/side_char_events.rpy:9830
+# game/scripts/side_char_events.rpy:9829
 translate pt_br nightmare_poster_d2b4b927:
 
     # van "I chalk it up to being skilled and a good leader. Though, you would never find a human admitting {u}that{/u} back then..."
     van ""
 
-# game/scripts/side_char_events.rpy:9831
+# game/scripts/side_char_events.rpy:9830
 translate pt_br nightmare_poster_3b8dcc5d:
 
     # van "Aside from his character, I can admire some of what he managed to accomplish. I've even found information that seems to suggest he was able to take out mechs! That's crazy, isn't it? I mean, how does an elf take out a mech...?"
     van ""
 
-# game/scripts/side_char_events.rpy:9832
+# game/scripts/side_char_events.rpy:9831
 translate pt_br nightmare_poster_51099a7b:
 
     # c "You admire him?"
     c ""
 
-# game/scripts/side_char_events.rpy:9833
+# game/scripts/side_char_events.rpy:9832
 translate pt_br nightmare_poster_4179e859:
 
     # van "Well, only some of what he has done... we're on the same side, after all. Only, they've all decided to act at some point. I'm only a voice."
     van ""
 
-# game/scripts/side_char_events.rpy:9834
+# game/scripts/side_char_events.rpy:9833
 translate pt_br nightmare_poster_7e265ff7:
 
     # van "He's dead though. Publicly hanged after the third revolution."
     van ""
 
-# game/scripts/side_char_events.rpy:9845
+# game/scripts/side_char_events.rpy:9844
 translate pt_br vanessa4_cont_6aaa11b7:
 
     # van "Hey, the throne! Are we allowed to sit on it? Eh, who cares. Take a pic of me sitting on it!"
     van ""
 
-# game/scripts/side_char_events.rpy:9847
+# game/scripts/side_char_events.rpy:9846
 translate pt_br vanessa4_cont_e20e2ce7:
 
     # van "{i}Cheeeeese!{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:9850
+# game/scripts/side_char_events.rpy:9849
 translate pt_br vanessa4_cont_0d972585:
 
     # van "How do I look? {i}Like royalty?{/i} I might be missing the jawline for it, but..."
     van ""
 
-# game/scripts/side_char_events.rpy:9851
+# game/scripts/side_char_events.rpy:9850
 translate pt_br vanessa4_cont_eec071fe:
 
     # c "You look great."
     c ""
 
-# game/scripts/side_char_events.rpy:9852
+# game/scripts/side_char_events.rpy:9851
 translate pt_br vanessa4_cont_3c1d4c7a:
 
     # van "Heh, thanks."
     van ""
 
-# game/scripts/side_char_events.rpy:9854
+# game/scripts/side_char_events.rpy:9853
 translate pt_br vanessa4_cont_7d27a13f:
 
     # van "It's strange to think that this used to be someone's home. It's so extra... and it doesn't even feel a bit homely."
     van ""
 
-# game/scripts/side_char_events.rpy:9855
+# game/scripts/side_char_events.rpy:9854
 translate pt_br vanessa4_cont_c861f382:
 
     # van "Like... where does everyone sit? There's only one chair in here. Does this place even have a dining room?"
     van ""
 
-# game/scripts/side_char_events.rpy:9856
+# game/scripts/side_char_events.rpy:9855
 translate pt_br vanessa4_cont_2af48db1:
 
     # c "I'm not sure, but the bedroom is available to tour."
     c ""
 
-# game/scripts/side_char_events.rpy:9858
+# game/scripts/side_char_events.rpy:9857
 translate pt_br vanessa4_cont_657da04a:
 
     # van "Really? Ohh, I'd love to see where the King and Queen slept! Take me there!"
     van ""
 
-# game/scripts/side_char_events.rpy:9861
+# game/scripts/side_char_events.rpy:9860
 translate pt_br vanessa4_cont_3130cf78:
 
     # van "Holy shit! This was their bedroom? It's half the size of my whole apartment! It even has a decent view of the city."
     van ""
 
-# game/scripts/side_char_events.rpy:9862
+# game/scripts/side_char_events.rpy:9861
 translate pt_br vanessa4_cont_93a8e8f5:
 
     # van "*sigh*, if only I could afford something downtown... I would love to have everything in walking distance."
     van ""
 
-# game/scripts/side_char_events.rpy:9864
+# game/scripts/side_char_events.rpy:9863
 translate pt_br vanessa4_cont_dbc84398:
 
     # van "All this stuff is so beautiful... they just leave it laying around for anyone to steal? Are there even cameras in there?"
     van ""
 
-# game/scripts/side_char_events.rpy:9865
+# game/scripts/side_char_events.rpy:9864
 translate pt_br vanessa4_cont_91e722d9:
 
     # c "Vanessa..."
     c ""
 
-# game/scripts/side_char_events.rpy:9866
+# game/scripts/side_char_events.rpy:9865
 translate pt_br vanessa4_cont_01fa34e1:
 
     # van "What? Not me, silly. I wouldn't steal anything, I don't need to give anyone {i}another{/i} reason to arrest me..."
     van ""
 
-# game/scripts/side_char_events.rpy:9868
+# game/scripts/side_char_events.rpy:9867
 translate pt_br vanessa4_cont_0c701be0:
 
     # van "These paintings are pretty nice. I wonder how much they would sell for? I need something to spice my apartment up with."
     van ""
 
-# game/scripts/side_char_events.rpy:9869
+# game/scripts/side_char_events.rpy:9868
 translate pt_br vanessa4_cont_be8a58f2:
 
     # c "They're probably out of your budget."
     c ""
 
-# game/scripts/side_char_events.rpy:9870
+# game/scripts/side_char_events.rpy:9869
 translate pt_br vanessa4_cont_2dc80661:
 
     # van "Yeah, you're right. Not in a thousand lifetimes... I could probably find a better poster online for a few syls anyway."
     van ""
 
-# game/scripts/side_char_events.rpy:9872
+# game/scripts/side_char_events.rpy:9871
 translate pt_br vanessa4_cont_cbf16351:
 
     # van "Hey, check out these swords! They're pretty cool."
     van ""
 
-# game/scripts/side_char_events.rpy:9873
+# game/scripts/side_char_events.rpy:9872
 translate pt_br vanessa4_cont_abcbcdc4:
 
     # c "Do you think the King and Queen knew how to fight?"
     c ""
 
-# game/scripts/side_char_events.rpy:9874
+# game/scripts/side_char_events.rpy:9873
 translate pt_br vanessa4_cont_8680bcec:
 
     # van "Eh, I doubt it. These are probably family heirlooms."
     van ""
 
-# game/scripts/side_char_events.rpy:9875
+# game/scripts/side_char_events.rpy:9874
 translate pt_br vanessa4_cont_549df971:
 
     # van "As much as I hate the crusaders for what they did and believed... I like the aesthetic. Sort of a guilty pleasure of mine, I guess. You know, {i}holy warriors with swords, charging into battle for justice!{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:9876
+# game/scripts/side_char_events.rpy:9875
 translate pt_br vanessa4_cont_bfd1470a:
 
     # van "...Only, our crusaders ended up genociding people... a few times... so they're not the best idols."
     van ""
 
-# game/scripts/side_char_events.rpy:9878
+# game/scripts/side_char_events.rpy:9877
 translate pt_br vanessa4_cont_a073f821:
 
     # van "So this is how those bastards slept, huh? Let's see..."
     van ""
 
-# game/scripts/side_char_events.rpy:9880
+# game/scripts/side_char_events.rpy:9879
 translate pt_br vanessa4_cont_78acff78:
 
     # van "Hmph, pretty comfortable actually. I could get used to it..."
     van ""
 
-# game/scripts/side_char_events.rpy:9882
+# game/scripts/side_char_events.rpy:9881
 translate pt_br vanessa4_cont_5e0304cf:
 
     # van "Hey, hop on! You don't want to miss out on what royalty feels like, do you? You don't get many opportunities like this!"
     van ""
 
-# game/scripts/side_char_events.rpy:9883
+# game/scripts/side_char_events.rpy:9882
 translate pt_br vanessa4_cont_591414f0:
 
     # c "...Alright sure, why not."
     c ""
 
-# game/scripts/side_char_events.rpy:9885
+# game/scripts/side_char_events.rpy:9884
 translate pt_br vanessa4_cont_05dc607c:
 
     # c "It's nice."
     c ""
 
-# game/scripts/side_char_events.rpy:9886
+# game/scripts/side_char_events.rpy:9885
 translate pt_br vanessa4_cont_e0b173ec:
 
     # van "Isn't it? You know, if I were a ruler in those times, I would have used the city's tax to build a great library. One the whole world would have been jealous of."
     van ""
 
-# game/scripts/side_char_events.rpy:9887
+# game/scripts/side_char_events.rpy:9886
 translate pt_br vanessa4_cont_86c07766:
 
     # c "Why a library?"
     c ""
 
-# game/scripts/side_char_events.rpy:9888
+# game/scripts/side_char_events.rpy:9887
 translate pt_br vanessa4_cont_8a664f8f:
 
     # van "It's simple, knowledge is power."
     van ""
 
-# game/scripts/side_char_events.rpy:9889
+# game/scripts/side_char_events.rpy:9888
 translate pt_br vanessa4_cont_6139507e:
 
     # van "Back in those times, information used to be kept secret. In many cases, only the higher classes of society could read and write. This lead to all sorts of problems, like disease, famine, I mean, you name it!"
     van ""
 
-# game/scripts/side_char_events.rpy:9890
+# game/scripts/side_char_events.rpy:9889
 translate pt_br vanessa4_cont_afb1885f:
 
     # van "But knowledge should never be locked behind doors, it should be shared. A well informed population is the foundation for a great society!"
     van ""
 
-# game/scripts/side_char_events.rpy:9892
+# game/scripts/side_char_events.rpy:9891
 translate pt_br vanessa4_cont_615070f7:
 
     # van "Which is, ironically, something Syl'anar definitely needs to work on... our schools suck. The only good thing that comes to mind is that the government provides 2 years of community college for free, but only if you're a human of course."
     van ""
 
-# game/scripts/side_char_events.rpy:9894
+# game/scripts/side_char_events.rpy:9893
 translate pt_br vanessa4_cont_c059d370:
 
     # van "How would you lead? If you were the leader of Syl'anar."
     van ""
 
-# game/scripts/side_char_events.rpy:9897
+# game/scripts/side_char_events.rpy:9896
 translate pt_br vanessa4_cont_7a55c245:
 
     # van "I guess you'll need someone to build giant monuments to greatness, right? Haha."
     van ""
 
-# game/scripts/side_char_events.rpy:9901
+# game/scripts/side_char_events.rpy:9900
 translate pt_br vanessa4_cont_3eafcec3:
 
     # van "Populism? Look where that's gotten us..."
     van ""
 
-# game/scripts/side_char_events.rpy:9902
+# game/scripts/side_char_events.rpy:9901
 translate pt_br vanessa4_cont_fcea762e:
 
     # van "As much as I love democracy, people don't always get it right. What are you supposed to do when most people agree to do something bad?"
     van ""
 
-# game/scripts/side_char_events.rpy:9903
+# game/scripts/side_char_events.rpy:9902
 translate pt_br vanessa4_cont_28e24df4:
 
     # c "That's a tough question."
     c ""
 
-# game/scripts/side_char_events.rpy:9904
+# game/scripts/side_char_events.rpy:9903
 translate pt_br vanessa4_cont_7752b141:
 
     # van "Yeah, I don't really have the answers. I just wish things weren't so fucked."
     van ""
 
-# game/scripts/side_char_events.rpy:9907
+# game/scripts/side_char_events.rpy:9906
 translate pt_br vanessa4_cont_9b0a83e6:
 
     # van "That's smart. At the very least, slaves need to be treated as workers, and the foundation of our country. If they don't work, the rest of us don't get to sit back and enjoy life."
     van ""
 
-# game/scripts/side_char_events.rpy:9911
+# game/scripts/side_char_events.rpy:9910
 translate pt_br vanessa4_cont_52dbec16:
 
     # van "You're a technocrat, hm? Most technocrats I've met are dicks. Very authoritarian."
     van ""
 
-# game/scripts/side_char_events.rpy:9912
+# game/scripts/side_char_events.rpy:9911
 translate pt_br vanessa4_cont_d0ae06d2:
 
     # c "Is that so?"
     c ""
 
-# game/scripts/side_char_events.rpy:9913
+# game/scripts/side_char_events.rpy:9912
 translate pt_br vanessa4_cont_75175170:
 
     # van "Yeah, they just want to put their hands in the mind of an AI. An AI that people made... it just spells out disaster to me."
     van ""
 
-# game/scripts/side_char_events.rpy:9917
+# game/scripts/side_char_events.rpy:9916
 translate pt_br vanessa4_cont_64a3337f:
 
     # van "Oh, fair enough. Nothing wrong with that."
     van ""
 
-# game/scripts/side_char_events.rpy:9920
+# game/scripts/side_char_events.rpy:9919
 translate pt_br vanessa4_cont_65ad48e2:
 
     # van "But... you know... it's not often that you get to lay on such a prestigeous bed. Especially one so sacred and holy."
     van ""
 
-# game/scripts/side_char_events.rpy:9921
+# game/scripts/side_char_events.rpy:9920
 translate pt_br vanessa4_cont_c3f35bae:
 
     # van "Wouldn't it be funny if we {i}defiled{/i} it? I'm sure we could turn some graves..."
     van ""
 
-# game/scripts/side_char_events.rpy:9922
+# game/scripts/side_char_events.rpy:9921
 translate pt_br vanessa4_cont_37074772:
 
     # c "You mean...?"
     c ""
 
-# game/scripts/side_char_events.rpy:9924
+# game/scripts/side_char_events.rpy:9923
 translate pt_br vanessa4_cont_45476a66:
 
     # van "Of course, silly.... I think you're a good guy, and you're kinda cute, so..."
     van ""
 
-# game/scripts/side_char_events.rpy:9925
+# game/scripts/side_char_events.rpy:9924
 translate pt_br vanessa4_cont_7428c74e:
 
     # van "I mean, I don't want to get in the way of you and Kali, but from what I understand... you don't really tie yourself down like that, do you?"
     van ""
 
-# game/scripts/side_char_events.rpy:9929
+# game/scripts/side_char_events.rpy:9928
 translate pt_br vanessa4_cont_865cc1b8:
 
     # van "Good, I'm glad you're a freak like me, heheh."
     van ""
 
-# game/scripts/side_char_events.rpy:9931
+# game/scripts/side_char_events.rpy:9930
 translate pt_br vanessa4_cont_4287db30:
 
     # van "But, just to be safe... let's make sure no one can interrupt."
     van ""
 
-# game/scripts/side_char_events.rpy:9933
+# game/scripts/side_char_events.rpy:9932
 translate pt_br vanessa4_cont_f63b0a9c:
 
     # van "Alright, let's make this quick. I don't need another strike on my record."
     van ""
 
-# game/scripts/side_char_events.rpy:9934
+# game/scripts/side_char_events.rpy:9933
 translate pt_br vanessa4_cont_a220bbbe:
 
     # van "Just one thing though, don't cum inside... I don't like taking pills, so... keep it outside."
     van ""
 
-# game/scripts/side_char_events.rpy:9936
+# game/scripts/side_char_events.rpy:9935
 translate pt_br vanessa4_cont_55d36c52:
 
     # c "Nice tan lines."
     c ""
 
-# game/scripts/side_char_events.rpy:9937
+# game/scripts/side_char_events.rpy:9936
 translate pt_br vanessa4_cont_d7944017:
 
     # van "Everyone always mentions the tan lines..."
     van ""
 
-# game/scripts/side_char_events.rpy:9939
+# game/scripts/side_char_events.rpy:9938
 translate pt_br vanessa4_cont_3ed3f3d8:
 
     # van "I'm gonna go hard and fast, okay [name]? Don't cum too soon though, I still want to have some fun~"
     van ""
 
-# game/scripts/side_char_events.rpy:9941
+# game/scripts/side_char_events.rpy:9940
 translate pt_br vanessa4_cont_d2e25967:
 
     # van "Nnnh...! MMMN! Fuck, that's big..."
     van ""
 
-# game/scripts/side_char_events.rpy:9943
+# game/scripts/side_char_events.rpy:9942
 translate pt_br vanessa4_cont_bda71d50:
 
     # van "Mmmh, ahhh...! How's that? You like that...? Hahhhn...!"
     van ""
 
-# game/scripts/side_char_events.rpy:9944
+# game/scripts/side_char_events.rpy:9943
 translate pt_br vanessa4_cont_ee3014c0:
 
     # van "Nnnn! Fuck, it's been a while since I've been with a man, I'd almost forgotten how- NNH! How it feels...! Mmmm! Hahhh..."
     van ""
 
-# game/scripts/side_char_events.rpy:9945
+# game/scripts/side_char_events.rpy:9944
 translate pt_br vanessa4_cont_326ac3c5:
 
     # c "That shouldn't have to be a problem from now on."
     c ""
 
-# game/scripts/side_char_events.rpy:9946
+# game/scripts/side_char_events.rpy:9945
 translate pt_br vanessa4_cont_4d4d72b4:
 
     # van "Ohh? Mmmn...! I like the sound of that. Hahhh...! Ahhh!"
     van ""
 
-# game/scripts/side_char_events.rpy:9949
+# game/scripts/side_char_events.rpy:9948
 translate pt_br vanessa4_cont_4ee66972:
 
     # van "Hahhh! Fuck... those royal pricks must be rolling in their graves right about now, hm? Heheh, nnngh! This is sooooo illegal..."
     van ""
 
-# game/scripts/side_char_events.rpy:9950
+# game/scripts/side_char_events.rpy:9949
 translate pt_br vanessa4_cont_6dd05a8c:
 
     # van "Fuck 'em, mmmn...! But more importantly, fuck me! Mmmn! Fuck, that feels so good, [name]... Nnnnm!! Hahhh!"
     van ""
 
-# game/scripts/side_char_events.rpy:9951
+# game/scripts/side_char_events.rpy:9950
 translate pt_br vanessa4_cont_13e095b4:
 
     # van "Yes, yes, yes! MMMMN! Oh my god...! I'm so fucking wet for you... mmmn!"
     van ""
 
-# game/scripts/side_char_events.rpy:9952
+# game/scripts/side_char_events.rpy:9951
 translate pt_br vanessa4_cont_22c8d392:
 
     # van "Mmmn, nnnmgh! Hahhh! Yes...! Are you getting close, [name]? Hahhh! You can cum wherever you want, just let me know...! Mmmn!"
     van ""
 
-# game/scripts/side_char_events.rpy:9955
+# game/scripts/side_char_events.rpy:9954
 translate pt_br vanessa4_cont_cf18a321:
 
     # van "Mmmn! Ahhh! You're ready? Okay...! Just- Mmmmn! Fuck... give me a little longer...! Ahhh!"
     van ""
 
-# game/scripts/side_char_events.rpy:9956
+# game/scripts/side_char_events.rpy:9955
 translate pt_br vanessa4_cont_119cba92:
 
     # c "You're getting greedy..."
     c ""
 
-# game/scripts/side_char_events.rpy:9957
+# game/scripts/side_char_events.rpy:9956
 translate pt_br vanessa4_cont_64d4268d:
 
     # van "Mmmn! I know, hahhh...! I've just forgotten how much I love cock...! Nnnnnnnnnnh~!"
     van ""
 
-# game/scripts/side_char_events.rpy:9958
+# game/scripts/side_char_events.rpy:9957
 translate pt_br vanessa4_cont_03dfde22:
 
     # van "Ahhh, hahh...! Just... one... moment...! Mmmmn...!"
     van ""
 
-# game/scripts/side_char_events.rpy:9960
+# game/scripts/side_char_events.rpy:9959
 translate pt_br vanessa4_cont_a9570fe4:
 
     # van "Ahhh...! Hahhh...! Okay, cum on me! Cum on my face...!"
     van ""
 
-# game/scripts/side_char_events.rpy:9962
+# game/scripts/side_char_events.rpy:9961
 translate pt_br vanessa4_cont_f3a74d2a:
 
     # van "Nnnh, mmmn, aah...! Fuck... that's so much..." with ssshake
     van "" with ssshake
 
-# game/scripts/side_char_events.rpy:9966
+# game/scripts/side_char_events.rpy:9965
 translate pt_br vanessa4_cont_1904199b:
 
     # van "Heheh fuck, you came so much for me [name]... I'm glad you had fun."
     van ""
 
-# game/scripts/side_char_events.rpy:9969
+# game/scripts/side_char_events.rpy:9968
 translate pt_br vanessa4_cont_cc5151fe:
 
     # c "You could barely force yourself to get off me... that was risky."
     c ""
 
-# game/scripts/side_char_events.rpy:9970
+# game/scripts/side_char_events.rpy:9969
 translate pt_br vanessa4_cont_74e63602:
 
     # van "Yeah, well... I'm not used to rushing things. I'd say we go for another two or three rounds, but we don't have the luxury of time..."
     van ""
 
-# game/scripts/side_char_events.rpy:9971
+# game/scripts/side_char_events.rpy:9970
 translate pt_br vanessa4_cont_5e0005e6:
 
     # van "Oh well, maybe next time...?"
     van ""
 
-# game/scripts/side_char_events.rpy:9972
+# game/scripts/side_char_events.rpy:9971
 translate pt_br vanessa4_cont_8962236d:
 
     # "*KNOCK, KNOCK, KNOCK*" with sshake
     "" with sshake
 
-# game/scripts/side_char_events.rpy:9974
+# game/scripts/side_char_events.rpy:9973
 translate pt_br vanessa4_cont_6ae9e23f:
 
     # q "Hello? Hello!?"
     q ""
 
-# game/scripts/side_char_events.rpy:9975
+# game/scripts/side_char_events.rpy:9974
 translate pt_br vanessa4_cont_9468ab0b:
 
     # van "{i}Oh shit...! We've outstayed our welcome, time to go...!{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:9980
+# game/scripts/side_char_events.rpy:9979
 translate pt_br vanessa4_cont_cf18a321_1:
 
     # van "Mmmn! Ahhh! You're ready? Okay...! Just- Mmmmn! Fuck... give me a little longer...! Ahhh!"
     van ""
 
-# game/scripts/side_char_events.rpy:9981
+# game/scripts/side_char_events.rpy:9980
 translate pt_br vanessa4_cont_119cba92_1:
 
     # c "You're getting greedy..."
     c ""
 
-# game/scripts/side_char_events.rpy:9982
+# game/scripts/side_char_events.rpy:9981
 translate pt_br vanessa4_cont_64d4268d_1:
 
     # van "Mmmn! I know, hahhh...! I've just forgotten how much I love cock...! Nnnnnnnnnnh~!"
     van ""
 
-# game/scripts/side_char_events.rpy:9983
+# game/scripts/side_char_events.rpy:9982
 translate pt_br vanessa4_cont_03dfde22_1:
 
     # van "Ahhh, hahh...! Just... one... moment...! Mmmmn...!"
     van ""
 
-# game/scripts/side_char_events.rpy:9985
+# game/scripts/side_char_events.rpy:9984
 translate pt_br vanessa4_cont_219ce423:
 
     # van "Ahhh...! Hahhh...! Okay, cum on me! Cum on my tits!"
     van ""
 
-# game/scripts/side_char_events.rpy:9987
+# game/scripts/side_char_events.rpy:9986
 translate pt_br vanessa4_cont_6a4b9e8c:
 
     # van "Nnnh...! Fuck, that's so much..." with ssshake
     van "" with ssshake
 
-# game/scripts/side_char_events.rpy:9991
+# game/scripts/side_char_events.rpy:9990
 translate pt_br vanessa4_cont_1904199b_1:
 
     # van "Heheh fuck, you came so much for me [name]... I'm glad you had fun."
     van ""
 
-# game/scripts/side_char_events.rpy:9994
+# game/scripts/side_char_events.rpy:9993
 translate pt_br vanessa4_cont_cc5151fe_1:
 
     # c "You could barely force yourself to get off me... that was risky."
     c ""
 
-# game/scripts/side_char_events.rpy:9995
+# game/scripts/side_char_events.rpy:9994
 translate pt_br vanessa4_cont_74e63602_1:
 
     # van "Yeah, well... I'm not used to rushing things. I'd say we go for another two or three rounds, but we don't have the luxury of time..."
     van ""
 
-# game/scripts/side_char_events.rpy:9996
+# game/scripts/side_char_events.rpy:9995
 translate pt_br vanessa4_cont_5e0005e6_1:
 
     # van "Oh well, maybe next time...?"
     van ""
 
-# game/scripts/side_char_events.rpy:9997
+# game/scripts/side_char_events.rpy:9996
 translate pt_br vanessa4_cont_8962236d_1:
 
     # "*KNOCK, KNOCK, KNOCK*" with sshake
     "" with sshake
 
-# game/scripts/side_char_events.rpy:9999
+# game/scripts/side_char_events.rpy:9998
 translate pt_br vanessa4_cont_6ae9e23f_1:
 
     # q "Hello? Hello!?"
     q ""
 
-# game/scripts/side_char_events.rpy:10000
+# game/scripts/side_char_events.rpy:9999
 translate pt_br vanessa4_cont_9468ab0b_1:
 
     # van "{i}Oh shit...! We've outstayed our welcome, time to go...!{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:10002
+# game/scripts/side_char_events.rpy:10001
 translate pt_br vanessa4_cont_b65acdf1:
 
     # "With that, the two of you drive back to [hotelname]..."
     ""
 
-# game/scripts/side_char_events.rpy:10004
+# game/scripts/side_char_events.rpy:10003
 translate pt_br vanessa4_cont_f33e084e:
 
     # van "Phew, we made it out! I hope we didn't leave any messes for the janitor to clean up, heheh."
     van ""
 
-# game/scripts/side_char_events.rpy:10008
+# game/scripts/side_char_events.rpy:10007
 translate pt_br vanessa4_cont_f873dcd7:
 
     # van "Oh, sorry... I guess I had the wrong impression..."
     van ""
 
-# game/scripts/side_char_events.rpy:10009
+# game/scripts/side_char_events.rpy:10008
 translate pt_br vanessa4_cont_a45afa4e:
 
     # van "Um... *ahem*... well, I guess we should head back..."
     van ""
 
-# game/scripts/side_char_events.rpy:10010
+# game/scripts/side_char_events.rpy:10009
 translate pt_br vanessa4_cont_a1f0da02:
 
     # c "Yeah..."
     c ""
 
-# game/scripts/side_char_events.rpy:10012
+# game/scripts/side_char_events.rpy:10011
 translate pt_br vanessa4_cont_b65acdf1_1:
 
     # "With that, the two of you drive back to [hotelname]..."
     ""
 
-# game/scripts/side_char_events.rpy:10014
+# game/scripts/side_char_events.rpy:10013
 translate pt_br vanessa4_cont_23f1caf4:
 
     # van "Well, that was fun! I'm glad we got to spend some more time together, I feel like I got to know you a lot better today."
     van ""
 
-# game/scripts/side_char_events.rpy:10015
+# game/scripts/side_char_events.rpy:10014
 translate pt_br vanessa4_cont_3d86d0c7:
 
     # c "Same here."
     c ""
 
-# game/scripts/side_char_events.rpy:10016
+# game/scripts/side_char_events.rpy:10015
 translate pt_br vanessa4_cont_29df2fd4:
 
     # van "Hit me up whenever you wanna chill, see ya!"
     van ""
 
-# game/scripts/side_char_events.rpy:10024
+# game/scripts/side_char_events.rpy:10023
 translate pt_br vanessa3_5f411e83:
 
     # van "Hey [name]! You free?"
     van ""
 
-# game/scripts/side_char_events.rpy:10025
+# game/scripts/side_char_events.rpy:10024
 translate pt_br vanessa3_8458eaff:
 
     # c "Yeah, what's up?"
     c ""
 
-# game/scripts/side_char_events.rpy:10026
+# game/scripts/side_char_events.rpy:10025
 translate pt_br vanessa3_16958238:
 
     # van "I was thinking we could go on a bit of a date! Well, we'll see how it turns out, but yeah! Let's spend some time together."
     van ""
 
-# game/scripts/side_char_events.rpy:10029
+# game/scripts/side_char_events.rpy:10028
 translate pt_br vanessa3_3ee54bc7:
 
     # van "Cool! I've been dying to get to know you better, and I think this will be a great opportunity."
     van ""
 
-# game/scripts/side_char_events.rpy:10030
+# game/scripts/side_char_events.rpy:10029
 translate pt_br vanessa3_5a023d54:
 
     # c "Where are we going?"
     c ""
 
-# game/scripts/side_char_events.rpy:10031
+# game/scripts/side_char_events.rpy:10030
 translate pt_br vanessa3_5e918d06:
 
     # van "There's an event going on in downtown Caliber. Don't worry, I know how to get there."
     van ""
 
-# game/scripts/side_char_events.rpy:10034
+# game/scripts/side_char_events.rpy:10033
 translate pt_br vanessa3_692defad:
 
     # van "Oh, you're busy? Alright... well, let me know when you're free..."
     van ""
 
-# game/scripts/side_char_events.rpy:10041
+# game/scripts/side_char_events.rpy:10040
 translate pt_br vanessa3cont_6ff4feba:
 
     # "You drive to Caliber city, and the closer you get to downtown, the more commotion you notice. The city seems livelier somehow."
     ""
 
-# game/scripts/side_char_events.rpy:10042
+# game/scripts/side_char_events.rpy:10041
 translate pt_br vanessa3cont_8f670f62:
 
     # "After Vanessa parks her car, she leads you to a crowd of people on a blocked off street..."
     ""
 
-# game/scripts/side_char_events.rpy:10044
+# game/scripts/side_char_events.rpy:10043
 translate pt_br vanessa3cont_8b1e2818:
 
     # c "Um... what is this? This doesn't look like an event couples go to."
     c ""
 
-# game/scripts/side_char_events.rpy:10045
+# game/scripts/side_char_events.rpy:10044
 translate pt_br vanessa3cont_9c9ea0b0:
 
     # van "Oh, well, yeah... it's kind of a protest, heh."
     van ""
 
-# game/scripts/side_char_events.rpy:10046
+# game/scripts/side_char_events.rpy:10045
 translate pt_br vanessa3cont_a820100d:
 
     # c "A protest for a date? I wasn't expecting that."
     c ""
 
-# game/scripts/side_char_events.rpy:10047
+# game/scripts/side_char_events.rpy:10046
 translate pt_br vanessa3cont_b111669c:
 
     # van "I mean, what could be {i}more{/i} romantic than trying to change the world together! I don't know... I thought it could be fun."
     van ""
 
-# game/scripts/side_char_events.rpy:10048
+# game/scripts/side_char_events.rpy:10047
 translate pt_br vanessa3cont_65e3afc6:
 
     # van "I'll admit it... I'm not that great at romance... but I {u}definitely{/u} like a person more when they fight against slavery. Just wearing my heart on my sleeve..."
     van ""
 
-# game/scripts/side_char_events.rpy:10049
+# game/scripts/side_char_events.rpy:10048
 translate pt_br vanessa3cont_9dcc6eed:
 
     # van "You don't mind, right? I can take you back home if you want."
     van ""
 
-# game/scripts/side_char_events.rpy:10050
+# game/scripts/side_char_events.rpy:10049
 translate pt_br vanessa3cont_2d56cfb6:
 
     # c "No, I'll stick around for a bit."
     c ""
 
-# game/scripts/side_char_events.rpy:10051
+# game/scripts/side_char_events.rpy:10050
 translate pt_br vanessa3cont_6b72ca92:
 
     # van "Awesome! Let's find a spot in the crowd."
     van ""
 
-# game/scripts/side_char_events.rpy:10053
+# game/scripts/side_char_events.rpy:10052
 translate pt_br vanessa3cont_ac01b8a2:
 
     # van "Err- wait, you didn't bring a gas mask... {i}shit, I only have one...{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:10054
+# game/scripts/side_char_events.rpy:10053
 translate pt_br vanessa3cont_60ab79cc:
 
     # c "A gas mask?"
     c ""
 
-# game/scripts/side_char_events.rpy:10056
+# game/scripts/side_char_events.rpy:10055
 translate pt_br vanessa3cont_42a4202b:
 
     # van "Eh, we probably won't need one. Come on!"
     van ""
 
-# game/scripts/side_char_events.rpy:10057
+# game/scripts/side_char_events.rpy:10056
 translate pt_br vanessa3cont_4072f686:
 
     # c "What did you get me in to..."
     c ""
 
-# game/scripts/side_char_events.rpy:10058
+# game/scripts/side_char_events.rpy:10057
 translate pt_br vanessa3cont_bf32bdae:
 
     # van "Well, if you don't like getting tear gassed, let 'em know!"
     van ""
 
-# game/scripts/side_char_events.rpy:10060
+# game/scripts/side_char_events.rpy:10059
 translate pt_br vanessa3cont_42ea1e43:
 
     # c "There's a lot of people here... what are they protesting?"
     c ""
 
-# game/scripts/side_char_events.rpy:10061
+# game/scripts/side_char_events.rpy:10060
 translate pt_br vanessa3cont_8a657149:
 
     # van "Actually, we're the ones protesting. The people on the other side of the street are counter-protesting us."
     van ""
 
-# game/scripts/side_char_events.rpy:10062
+# game/scripts/side_char_events.rpy:10061
 translate pt_br vanessa3cont_d80594d2:
 
     # van "We're protesting a public hanging of an elf last week for laundering $10,000,000 without a trial."
     van ""
 
-# game/scripts/side_char_events.rpy:10063
+# game/scripts/side_char_events.rpy:10062
 translate pt_br vanessa3cont_0a46b5b6:
 
     # c "How did an elf get that much money?"
     c ""
 
-# game/scripts/side_char_events.rpy:10064
+# game/scripts/side_char_events.rpy:10063
 translate pt_br vanessa3cont_dc7e78e2:
 
     # van "That's the first question any sane person should be asking! Instead it's all {i}'What evil deed were they plotting with all that money'{/i} or some bullshit."
     van ""
 
-# game/scripts/side_char_events.rpy:10065
+# game/scripts/side_char_events.rpy:10064
 translate pt_br vanessa3cont_2b5073f6:
 
     # van "Obviously a slave like him had no way of getting that much money. He was a scape goat..."
     van ""
 
-# game/scripts/side_char_events.rpy:10066
+# game/scripts/side_char_events.rpy:10065
 translate pt_br vanessa3cont_0fd94ce7:
 
     # van "He used his last fucking breath on this planet to scream his innocence... but no one wanted to listen. So the situation faded into the background like all the others."
     van ""
 
-# game/scripts/side_char_events.rpy:10068
+# game/scripts/side_char_events.rpy:10067
 translate pt_br vanessa3cont_668ceeb8:
 
     # van "That was until the emails were leaked! The company was caught red handed planning a very detailed fabrication. But here's the kicker... there was still no trial! The people who laundered $10,000,000 are still out there, unpunished!"
     van ""
 
-# game/scripts/side_char_events.rpy:10069
+# game/scripts/side_char_events.rpy:10068
 translate pt_br vanessa3cont_37a7866d:
 
     # van "That's why we're all here, to tell them they can't get away with this. That there will be no peace without justice!"
     van ""
 
-# game/scripts/side_char_events.rpy:10071
+# game/scripts/side_char_events.rpy:10070
 translate pt_br vanessa3cont_67b3d7ed:
 
     # c "I see... but I only see barricades for one side. And the police don't seem to care much about the people behind them."
     c ""
 
-# game/scripts/side_char_events.rpy:10072
+# game/scripts/side_char_events.rpy:10071
 translate pt_br vanessa3cont_97251bc5:
 
     # van "This was a planned protest, we got permits and everything, so the police set up a boundry for us. I don't really know how the counter-protesters found out about us or if they even have permits, but it looks like the cops are on their side to me..."
     van ""
 
-# game/scripts/side_char_events.rpy:10073
+# game/scripts/side_char_events.rpy:10072
 translate pt_br vanessa3cont_4845a81b:
 
     # c "Which side are we on specifically?"
     c ""
 
-# game/scripts/side_char_events.rpy:10075
+# game/scripts/side_char_events.rpy:10074
 translate pt_br vanessa3cont_3660824a:
 
     # van "There's a bunch of different people at these, but the one thing you can bet we all have in common right now is a world without slaves. Most of them are probably abolitionists, like me."
     van ""
 
-# game/scripts/side_char_events.rpy:10076
+# game/scripts/side_char_events.rpy:10075
 translate pt_br vanessa3cont_6b06707c:
 
     # van "I posted this on all my social groups online, I wanted as many people to show up as possible. I even advertised it on my podcast."
     van ""
 
-# game/scripts/side_char_events.rpy:10077
+# game/scripts/side_char_events.rpy:10076
 translate pt_br vanessa3cont_b6d7cb92:
 
     # c "Hm, I wonder if any of these people are your fans."
     c ""
 
-# game/scripts/side_char_events.rpy:10079
+# game/scripts/side_char_events.rpy:10078
 translate pt_br vanessa3cont_392de032:
 
     # protester "Fuck you! Fuck you! And fuck you! My family depends on slaves to eat!" with ssshake
     protester "" with ssshake
 
-# game/scripts/side_char_events.rpy:10080
+# game/scripts/side_char_events.rpy:10079
 translate pt_br vanessa3cont_abe00830:
 
     # protester "Waddya gonna do when they're all free, huh!? SERVE YOURSELF FOOD!?"
     protester ""
 
-# game/scripts/side_char_events.rpy:10082
+# game/scripts/side_char_events.rpy:10081
 translate pt_br vanessa3cont_c1227f06:
 
     # protester "ELVES ARE DEMONS! DO NOT DINE WITH DEVIL! YOU WILL BURRRRRRRRRRN FOR YOUR SINS!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10084
+# game/scripts/side_char_events.rpy:10083
 translate pt_br vanessa3cont_14c846e5:
 
     # protester "ELVES AREN'T HUMANS! ELVES AREN'T HUMANS! ELVES AREN'T HUMANS!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10086
+# game/scripts/side_char_events.rpy:10085
 translate pt_br vanessa3cont_cce92bc6:
 
     # van "Bunch of annoying assholes... we can't even protest in peace! If anyone's going to get violent, it's the people telling us we're going to burn!"
     van ""
 
-# game/scripts/side_char_events.rpy:10088
+# game/scripts/side_char_events.rpy:10087
 translate pt_br vanessa3cont_03f89b8c:
 
     # van "HEY! What's your problem with us!? Why aren't you barricading their side too!?"
     van ""
 
-# game/scripts/side_char_events.rpy:10089
+# game/scripts/side_char_events.rpy:10088
 translate pt_br vanessa3cont_d2a17458:
 
     # pol "We're out of them."
     pol ""
 
-# game/scripts/side_char_events.rpy:10090
+# game/scripts/side_char_events.rpy:10089
 translate pt_br vanessa3cont_5beaf1f3:
 
     # van "Bullshit! You're not even acting like they're here to distrupt this protest!"
     van ""
 
-# game/scripts/side_char_events.rpy:10091
+# game/scripts/side_char_events.rpy:10090
 translate pt_br vanessa3cont_e9abfe91:
 
     # pol "Calm down, lady. Go home."
     pol ""
 
-# game/scripts/side_char_events.rpy:10092
+# game/scripts/side_char_events.rpy:10091
 translate pt_br vanessa3cont_232af3e6:
 
     # van "THIS IS A PROTEST! I GET TO YELL!"
     van ""
 
-# game/scripts/side_char_events.rpy:10094
+# game/scripts/side_char_events.rpy:10093
 translate pt_br vanessa3cont_ec3a6ac8:
 
     # van "Rrgh, asshole..."
     van ""
 
-# game/scripts/side_char_events.rpy:10095
+# game/scripts/side_char_events.rpy:10094
 translate pt_br vanessa3cont_77d92336:
 
     # c "They brought droids, that seems a bit overkill."
     c ""
 
-# game/scripts/side_char_events.rpy:10096
+# game/scripts/side_char_events.rpy:10095
 translate pt_br vanessa3cont_8bd58195:
 
     # van "Don't worry, they're hard coded to not kill us. The guns are mostly just to intimidate us."
     van ""
 
-# game/scripts/side_char_events.rpy:10097
+# game/scripts/side_char_events.rpy:10096
 translate pt_br vanessa3cont_b615a90d:
 
     # van "I wouldn't try to be on their bad side though, they weigh a third of a ton and they {u}will{/u} hurt you. So try not to be next to one of those if things get sour."
     van ""
 
-# game/scripts/side_char_events.rpy:10098
+# game/scripts/side_char_events.rpy:10097
 translate pt_br vanessa3cont_8fabf782:
 
     # van "Heh, fun fact... the best way to stop one of those things is actually paint."
     van ""
 
-# game/scripts/side_char_events.rpy:10099
+# game/scripts/side_char_events.rpy:10098
 translate pt_br vanessa3cont_b8468852:
 
     # c "Paint, really?"
     c ""
 
-# game/scripts/side_char_events.rpy:10100
+# game/scripts/side_char_events.rpy:10099
 translate pt_br vanessa3cont_39bce0bf:
 
     # van "Yeah, their heads are full of tiny sensors... about a dozen. Paint is much more efficient and cheaper at stopping a droid than a gun could ever hope to be."
     van ""
 
-# game/scripts/side_char_events.rpy:10101
+# game/scripts/side_char_events.rpy:10100
 translate pt_br vanessa3cont_4e50fccb:
 
     # c "Good to know."
     c ""
 
-# game/scripts/side_char_events.rpy:10102
+# game/scripts/side_char_events.rpy:10101
 translate pt_br vanessa3cont_da04a997:
 
     # van "Same is true for armored vehicles, by the way. But don't worry, this protest isn't big enough for the national guard."
     van ""
 
-# game/scripts/side_char_events.rpy:10103
+# game/scripts/side_char_events.rpy:10102
 translate pt_br vanessa3cont_483f7c13:
 
     # c "They really don't like people voicing their opinion here, do they?"
     c ""
 
-# game/scripts/side_char_events.rpy:10104
+# game/scripts/side_char_events.rpy:10103
 translate pt_br vanessa3cont_27b99a9c:
 
     # van "Oh, they {i}love{/i} free speech here, so long as it fits nicely into their world view..."
     van ""
 
-# game/scripts/side_char_events.rpy:10105
+# game/scripts/side_char_events.rpy:10104
 translate pt_br vanessa3cont_670186e9:
 
     # van "To them and the media, abolitionists are nothing but rioters and terrorists. Every theft, every break in, every fight during a protest is always attributed to the 'abolitionist movement'... bunch of bullshit..."
     van ""
 
-# game/scripts/side_char_events.rpy:10106
+# game/scripts/side_char_events.rpy:10105
 translate pt_br vanessa3cont_17eab0b6:
 
     # van "Anyway, so that's how they treat us. Like we're criminals. Like we've already comitted a crime... but I'm willing to bet half of those people have hurt an elf, or worse! At the very least they support a system that demonizes people!"
     van ""
 
-# game/scripts/side_char_events.rpy:10108
+# game/scripts/side_char_events.rpy:10107
 translate pt_br vanessa3cont_044ca0da:
 
     # protester "HE DIDN'T DESERVE TO DIE! He was an innocent elf!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10109
+# game/scripts/side_char_events.rpy:10108
 translate pt_br vanessa3cont_4f7afa12:
 
     # pol "Sir, step back!"
     pol ""
 
-# game/scripts/side_char_events.rpy:10110
+# game/scripts/side_char_events.rpy:10109
 translate pt_br vanessa3cont_f7acf4d9:
 
     # protester "THOSE CRIMINALS ARE STILL OUT THERE! They deserve to punished for the murder of that innocent elf as well! DO YOUR JOB!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10111
+# game/scripts/side_char_events.rpy:10110
 translate pt_br vanessa3cont_cf5e4c1b:
 
     # pol "Allow the system to work itself out, just hang in there."
     pol ""
 
-# game/scripts/side_char_events.rpy:10113
+# game/scripts/side_char_events.rpy:10112
 translate pt_br vanessa3cont_b8e996fe:
 
     # protester "Hang in there!? We're being hanged in public!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10114
+# game/scripts/side_char_events.rpy:10113
 translate pt_br vanessa3cont_f4fbe663:
 
     # pol "Hey, hey! Back up! You're not an elf now, are you? You don't have anything to worry about!"
     pol ""
 
-# game/scripts/side_char_events.rpy:10115
+# game/scripts/side_char_events.rpy:10114
 translate pt_br vanessa3cont_4a78794a:
 
     # protester "You're just as guilty for defending them! MURDERERS!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10116
+# game/scripts/side_char_events.rpy:10115
 translate pt_br vanessa3cont_998da2f8:
 
     # protester "WHERE'S THE JUSTICE!?"
     protester ""
 
-# game/scripts/side_char_events.rpy:10117
+# game/scripts/side_char_events.rpy:10116
 translate pt_br vanessa3cont_3961b756:
 
     # protester "What do I pay you for, pig!?"
     protester ""
 
-# game/scripts/side_char_events.rpy:10118
+# game/scripts/side_char_events.rpy:10117
 translate pt_br vanessa3cont_dcb0cad9:
 
     # protester "PUT THE CRIMINALS IN PRISON! IT'S THAT SIMPLE! WE KNOW THEIR NAMES!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10119
+# game/scripts/side_char_events.rpy:10118
 translate pt_br vanessa3cont_a8327df8:
 
     # pol "Stay back! STAY BACK! YOU CROSS THAT LINE, AND YOU GO TO JAIL!"
     pol ""
 
-# game/scripts/side_char_events.rpy:10121
+# game/scripts/side_char_events.rpy:10120
 translate pt_br vanessa3cont_953a0f3f:
 
     # copbot "STEP BACK."
     copbot ""
 
-# game/scripts/side_char_events.rpy:10122
+# game/scripts/side_char_events.rpy:10121
 translate pt_br vanessa3cont_e697aa6f:
 
     # protester "Woah, woah."
     protester ""
 
-# game/scripts/side_char_events.rpy:10123
+# game/scripts/side_char_events.rpy:10122
 translate pt_br vanessa3cont_aa214fa3:
 
     # pol "Heh! I love these things. Best purchase from the military we've ever made."
     pol ""
 
-# game/scripts/side_char_events.rpy:10124
+# game/scripts/side_char_events.rpy:10123
 translate pt_br vanessa3cont_eaca43bb:
 
     # pol "Pfft, yeah, until they start shootin' us..."
     pol ""
 
-# game/scripts/side_char_events.rpy:10126
+# game/scripts/side_char_events.rpy:10125
 translate pt_br vanessa3cont_b16cd1e4:
 
     # pol "What?"
     pol ""
 
-# game/scripts/side_char_events.rpy:10127
+# game/scripts/side_char_events.rpy:10126
 translate pt_br vanessa3cont_49f5246c:
 
     # pol "Haven't you ever seen those movies? That shit is terrifying. I have nightmares, man... who knows what that thing's thinking!"
     pol ""
 
-# game/scripts/side_char_events.rpy:10128
+# game/scripts/side_char_events.rpy:10127
 translate pt_br vanessa3cont_0557b8aa:
 
     # pol "It's got our colors, doesn't it? You don't have anything to worry about."
     pol ""
 
-# game/scripts/side_char_events.rpy:10129
+# game/scripts/side_char_events.rpy:10128
 translate pt_br vanessa3cont_a01eb890:
 
     # van "Yikes... that could have gone worse. Time to throw in a message of my own..."
     van ""
 
-# game/scripts/side_char_events.rpy:10131
+# game/scripts/side_char_events.rpy:10130
 translate pt_br vanessa3cont_6c135276:
 
     # van "Hey guys! Don't you think you should look into the case a little more closely? Pleeeeease~?"
     van ""
 
-# game/scripts/side_char_events.rpy:10133
+# game/scripts/side_char_events.rpy:10132
 translate pt_br vanessa3cont_b5ea982b:
 
     # pol "Huh?"
     pol ""
 
-# game/scripts/side_char_events.rpy:10134
+# game/scripts/side_char_events.rpy:10133
 translate pt_br vanessa3cont_f31bdfd7:
 
     # pol "Hey, she's flashing her tits! Heh..."
     pol ""
 
-# game/scripts/side_char_events.rpy:10135
+# game/scripts/side_char_events.rpy:10134
 translate pt_br vanessa3cont_8b0f2d30:
 
     # pol "Abolitionists are crazy, man..."
     pol ""
 
-# game/scripts/side_char_events.rpy:10139
+# game/scripts/side_char_events.rpy:10138
 translate pt_br vanessa3cont_8bfe02e5:
 
     # pol "AAGH, shit! I'm hit, I'm hit!" with ssshake
     pol "" with ssshake
 
-# game/scripts/side_char_events.rpy:10140
+# game/scripts/side_char_events.rpy:10139
 translate pt_br vanessa3cont_1bc31b24:
 
     # protester "I SAW HIM! HE'S RIGHT FUCKIN' THERE! ARREST THAT ONE! GET HIM! GET HIM!!!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10141
+# game/scripts/side_char_events.rpy:10140
 translate pt_br vanessa3cont_495dc751:
 
     # pol "They're getting violent! Call for backup!"
     pol ""
 
-# game/scripts/side_char_events.rpy:10143
+# game/scripts/side_char_events.rpy:10142
 translate pt_br vanessa3cont_b2b3dbee:
 
     # van "Uh oh!"
     van ""
 
-# game/scripts/side_char_events.rpy:10144
+# game/scripts/side_char_events.rpy:10143
 translate pt_br vanessa3cont_228b5351:
 
     # c "Uh oh?"
     c ""
 
-# game/scripts/side_char_events.rpy:10145
+# game/scripts/side_char_events.rpy:10144
 translate pt_br vanessa3cont_5835693b:
 
     # protester "I'LL STICK YOUR SIGN UP YOUR ASS!!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10146
+# game/scripts/side_char_events.rpy:10145
 translate pt_br vanessa3cont_e10a79e5:
 
     # van "Time to run! Things are about to get very bad!"
     van ""
 
-# game/scripts/side_char_events.rpy:10148
+# game/scripts/side_char_events.rpy:10147
 translate pt_br vanessa3cont_1208f4e0:
 
     # copbot "THIS HAS BEEN DECLARED AN UNLAWFUL ASSEMBLY. DISPERSE IMMEDIATELY."
     copbot ""
 
-# game/scripts/side_char_events.rpy:10149
+# game/scripts/side_char_events.rpy:10148
 translate pt_br vanessa3cont_fcc08850:
 
     # protester "FUCK YOU!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10150
+# game/scripts/side_char_events.rpy:10149
 translate pt_br vanessa3cont_98b6f0c0:
 
     # protester "We're not going anywhere!"
     protester ""
 
-# game/scripts/side_char_events.rpy:10151
+# game/scripts/side_char_events.rpy:10150
 translate pt_br vanessa3cont_b92a328d:
 
     # van "Time to run!"
     van ""
 
-# game/scripts/side_char_events.rpy:10153
+# game/scripts/side_char_events.rpy:10152
 translate pt_br vanessa3cont_9a6c6d1b:
 
     # "Vanessa grabs your arm and rushes you away from the crowd."
     ""
 
-# game/scripts/side_char_events.rpy:10155
+# game/scripts/side_char_events.rpy:10154
 translate pt_br vanessa3cont_e5b82825:
 
     # van "Holy shit! We barely got out of there!"
     van ""
 
-# game/scripts/side_char_events.rpy:10156
+# game/scripts/side_char_events.rpy:10155
 translate pt_br vanessa3cont_80c44612:
 
     # c "This is fun for you!?"
     c ""
 
-# game/scripts/side_char_events.rpy:10157
+# game/scripts/side_char_events.rpy:10156
 translate pt_br vanessa3cont_584ff2cf:
 
     # van "Kinda! Haha! You get used to it after a few dozen times!"
     van ""
 
-# game/scripts/side_char_events.rpy:10159
+# game/scripts/side_char_events.rpy:10158
 translate pt_br vanessa3cont_1eac3495:
 
     # van "Phew, well, I didn't need it but it was a good thing I brought my gas mask. You want any water by the way?"
     van ""
 
-# game/scripts/side_char_events.rpy:10160
+# game/scripts/side_char_events.rpy:10159
 translate pt_br vanessa3cont_0195b82f:
 
     # c "Vanessa, we almost got gassed! They're still being gassed! It looks like a fight is breaking out too, and you're calm about this?"
     c ""
 
-# game/scripts/side_char_events.rpy:10162
+# game/scripts/side_char_events.rpy:10161
 translate pt_br vanessa3cont_25040a17:
 
     # van "That's it! That's the attitude anyone should have when this happens. For us, this is just another protest! And I can assure you a few of them wanted to stay and fight for something by choice. It's just their thing. Not much I can do about it."
     van ""
 
-# game/scripts/side_char_events.rpy:10164
+# game/scripts/side_char_events.rpy:10163
 translate pt_br vanessa3cont_6cf51e5a:
 
     # van "Unfortunately, those guys being gassed are going to become felons and lose their right to vote after they spend a few nights in jail."
     van ""
 
-# game/scripts/side_char_events.rpy:10165
+# game/scripts/side_char_events.rpy:10164
 translate pt_br vanessa3cont_61f14514:
 
     # van "I can already tell you how this story is going to end... this will be framed as another abolitionist riot, the media will focus on that, and the murder of that elf will fall deeper into obscurity... and the people who did it will be free to do it again. And the cycle repeats..."
     van ""
 
-# game/scripts/side_char_events.rpy:10167
+# game/scripts/side_char_events.rpy:10166
 translate pt_br vanessa3cont_c6a456df:
 
     # van "Until then, we wait for the fighting to end and we hand out some bandages and water bottles."
     van ""
 
-# game/scripts/side_char_events.rpy:10168
+# game/scripts/side_char_events.rpy:10167
 translate pt_br vanessa3cont_86dde0e3:
 
     # c "So that's what the backpack is for."
     c ""
 
-# game/scripts/side_char_events.rpy:10169
+# game/scripts/side_char_events.rpy:10168
 translate pt_br vanessa3cont_7e904118:
 
     # van "Yep, I've got a bit of everything in there..."
     van ""
 
-# game/scripts/side_char_events.rpy:10171
+# game/scripts/side_char_events.rpy:10170
 translate pt_br vanessa3cont_fd8bea23:
 
     # van "That reminds me, can you get my camera?"
     van ""
 
-# game/scripts/side_char_events.rpy:10172
+# game/scripts/side_char_events.rpy:10171
 translate pt_br vanessa3cont_436066cc:
 
     # c "Taking pictures for your podcast?"
     c ""
 
-# game/scripts/side_char_events.rpy:10174
+# game/scripts/side_char_events.rpy:10173
 translate pt_br vanessa3cont_8a3ea74c:
 
     # van "You got it. I have a website as well. If you have one, you gotta have them all. I want to get this out to as many people as possible..."
     van ""
 
-# game/scripts/side_char_events.rpy:10176
+# game/scripts/side_char_events.rpy:10175
 translate pt_br vanessa3cont_95a15d6c:
 
     # van "And done! I think that will work just fine..."
     van ""
 
-# game/scripts/side_char_events.rpy:10178
+# game/scripts/side_char_events.rpy:10177
 translate pt_br vanessa3cont_82b54c30:
 
     # van "With that picture, I'll be able to show the whole world what happened here today... how everyone turned on us so quickly... They were just looking for any excuse they could find..."
     van ""
 
-# game/scripts/side_char_events.rpy:10180
+# game/scripts/side_char_events.rpy:10179
 translate pt_br vanessa3cont_0d5dadd5:
 
     # van "Oh hey! I could use your testimonial about what happened here today. Care to share your thoughts, on the record?"
     van ""
 
-# game/scripts/side_char_events.rpy:10183
+# game/scripts/side_char_events.rpy:10182
 translate pt_br vanessa3cont_f64195bc:
 
     # van "Heh, alright. Your words, not mine. And I can't say I really disagree anyway."
     van ""
 
-# game/scripts/side_char_events.rpy:10186
+# game/scripts/side_char_events.rpy:10185
 translate pt_br vanessa3cont_b9c5b2d5:
 
     # van "Oh, well... sorry to hear that. I wish I didn't have to come to these either, but our presence means a lot to a lot of elves who could never dream of speaking up."
     van ""
 
-# game/scripts/side_char_events.rpy:10188
+# game/scripts/side_char_events.rpy:10187
 translate pt_br vanessa3cont_d63e726a:
 
     # van "Hm, well, your words, not mine. Personally, I won't stop until there are no slaves left in this world. But I appreciate the comment."
     van ""
 
-# game/scripts/side_char_events.rpy:10190
+# game/scripts/side_char_events.rpy:10189
 translate pt_br vanessa3cont_2c9e56d9:
 
     # van "Coming from an immigrant like yourself, those words have weight."
     van ""
 
-# game/scripts/side_char_events.rpy:10192
+# game/scripts/side_char_events.rpy:10191
 translate pt_br vanessa3cont_480f5230:
 
     # van "You got that right. Thanks for the comment!"
     van ""
 
-# game/scripts/side_char_events.rpy:10195
+# game/scripts/side_char_events.rpy:10194
 translate pt_br vanessa3cont_ea4da5c6:
 
     # van "Oh, alright."
     van ""
 
-# game/scripts/side_char_events.rpy:10197
+# game/scripts/side_char_events.rpy:10196
 translate pt_br vanessa3cont_f2af2714:
 
     # van "I'm going to stick around for a while and hand out supplies to everyone who doesn't get arrested. I hope you don't mind sticking around for a little bit longer?"
     van ""
 
-# game/scripts/side_char_events.rpy:10198
+# game/scripts/side_char_events.rpy:10197
 translate pt_br vanessa3cont_ba427625:
 
     # c "As long as we don't get arrested, I don't mind."
     c ""
 
-# game/scripts/side_char_events.rpy:10199
+# game/scripts/side_char_events.rpy:10198
 translate pt_br vanessa3cont_83fa1779:
 
     # van "Cool."
     van ""
 
-# game/scripts/side_char_events.rpy:10201
+# game/scripts/side_char_events.rpy:10200
 translate pt_br vanessa3cont_717948ef:
 
     # "Vanessa hands out water bottles and bandages to the injured protesters, all while being sure not to get too close to the police in hopes of not stirring the hornet's nest."
     ""
 
-# game/scripts/side_char_events.rpy:10202
+# game/scripts/side_char_events.rpy:10201
 translate pt_br vanessa3cont_87f1c3e7:
 
     # "To those willing, she collects comments and takes pictures of the injuries each protester received. Once all the commotion ends, you two drive back to the hotel..."
     ""
 
-# game/scripts/side_char_events.rpy:10204
+# game/scripts/side_char_events.rpy:10203
 translate pt_br vanessa3cont_d5b25459:
 
     # van "Well, that didn't go exactly as planned... I saw about 11 people with bleeding injuries from our side of the street... one dude had a broken nose, and another went temporarily blind from all the pepper spray in her eyes..."
     van ""
 
-# game/scripts/side_char_events.rpy:10206
+# game/scripts/side_char_events.rpy:10205
 translate pt_br vanessa3cont_40eab3e1:
 
     # van "Thanks for coming with me though! It takes a lot of courage to stand up to all those people. We're not exactly in the majority..."
     van ""
 
-# game/scripts/side_char_events.rpy:10207
+# game/scripts/side_char_events.rpy:10206
 translate pt_br vanessa3cont_2514dc2e:
 
     # news24 "Breaking News: Abolitionists in Caliber."
     news24 ""
 
-# game/scripts/side_char_events.rpy:10209
+# game/scripts/side_char_events.rpy:10208
 translate pt_br vanessa3cont_8e8af01c:
 
     # van "Hm?"
     van ""
 
-# game/scripts/side_char_events.rpy:10210
+# game/scripts/side_char_events.rpy:10209
 translate pt_br vanessa3cont_430182eb:
 
     # news24 "Hello Syl'anar. Another abolitionist riot has hit the streets of Caliber city today. 11 people have been reported to be injured during the attack. It is still unclear if they have or had plans to rob the nearby businesses."
     news24 ""
 
-# game/scripts/side_char_events.rpy:10212
+# game/scripts/side_char_events.rpy:10211
 translate pt_br vanessa3cont_229676aa:
 
     # van "Urgh, rob!? Who said anything about robbing!? We were protesting the public execution of an innocent elf!"
     van ""
 
-# game/scripts/side_char_events.rpy:10213
+# game/scripts/side_char_events.rpy:10212
 translate pt_br vanessa3cont_4458bc80:
 
     # van "Tsk, I fucking told you this would happen... nobody is going to talk about him anymore! Now he's just last weeks fucking news!"
     van ""
 
-# game/scripts/side_char_events.rpy:10214
+# game/scripts/side_char_events.rpy:10213
 translate pt_br vanessa3cont_2f00d313:
 
     # c "So what's your plan? Going to upload that information?"
     c ""
 
-# game/scripts/side_char_events.rpy:10215
+# game/scripts/side_char_events.rpy:10214
 translate pt_br vanessa3cont_c7821c82:
 
     # van "Yeah! I'm uploading everything. People need to know what really happened there. They need to know why we were there, and what our goal actually was."
     van ""
 
-# game/scripts/side_char_events.rpy:10217
+# game/scripts/side_char_events.rpy:10216
 translate pt_br vanessa3cont_3c4b9932:
 
     # van "I don't write suicide notes, so if you find one, let everyone know it wasn't me. See ya!"
     van ""
 
-# game/scripts/side_char_events.rpy:10218
+# game/scripts/side_char_events.rpy:10217
 translate pt_br vanessa3cont_da812882:
 
     # c "Oh. Okay, bye."
     c ""
 
-# game/scripts/side_char_events.rpy:10237
+# game/scripts/side_char_events.rpy:10236
 translate pt_br vanessa2_322f1137:
 
     # c "{i}(Looks like Kali made those flyers.){/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:10239
+# game/scripts/side_char_events.rpy:10238
 translate pt_br vanessa2_3c72630c:
 
     # nala "Hnnnn, ah..."
     nala ""
 
-# game/scripts/side_char_events.rpy:10240
+# game/scripts/side_char_events.rpy:10239
 translate pt_br vanessa2_74cbbec1:
 
     # c "{i}(Interesting, she's wearing the least.){/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:10244
+# game/scripts/side_char_events.rpy:10243
 translate pt_br vanessa2_faa75e41:
 
     # kim "Cheeeeese~"
     kim ""
 
-# game/scripts/side_char_events.rpy:10246
+# game/scripts/side_char_events.rpy:10245
 translate pt_br vanessa2_c484000d:
 
     # c "{i}(Those two look like they're close.){/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:10248
+# game/scripts/side_char_events.rpy:10247
 translate pt_br vanessa2_57fa8624:
 
     # c "{i}(And there's Vanessa herself. She's wearing something more conservative than I expected...){/i}"
     c ""
 
-# game/scripts/side_char_events.rpy:10249
+# game/scripts/side_char_events.rpy:10248
 translate pt_br vanessa2_7e3fcca0:
 
     # van "Can't you guys just... enjoy the moment?"
     van ""
 
-# game/scripts/side_char_events.rpy:10250
+# game/scripts/side_char_events.rpy:10249
 translate pt_br vanessa2_8a7a149f:
 
     # ami "This place is a hidden gem, Vanessa! Everyone needs to know about this place!"
     ami ""
 
-# game/scripts/side_char_events.rpy:10251
+# game/scripts/side_char_events.rpy:10250
 translate pt_br vanessa2_640eaa76:
 
     # kim "It also makes for good memories~"
     kim ""
 
-# game/scripts/side_char_events.rpy:10253
+# game/scripts/side_char_events.rpy:10252
 translate pt_br vanessa2_2f4a4243:
 
     # c "How is everyone?"
     c ""
 
-# game/scripts/side_char_events.rpy:10254
+# game/scripts/side_char_events.rpy:10253
 translate pt_br vanessa2_6f542653:
 
     # van "Heyyy, look who it is."
     van ""
 
-# game/scripts/side_char_events.rpy:10255
+# game/scripts/side_char_events.rpy:10254
 translate pt_br vanessa2_10eaea94:
 
     # van "You should have told us you had a hot springs! We've been looking for one all semester. I was beginning to lose hope in ever finding one in the province."
     van ""
 
-# game/scripts/side_char_events.rpy:10257
+# game/scripts/side_char_events.rpy:10256
 translate pt_br vanessa2_bdeb63b9:
 
     # kim "It's so much nicer than any other I've been to in the country, and it's not that far from the university since a monorail passes by!"
     kim ""
 
-# game/scripts/side_char_events.rpy:10258
+# game/scripts/side_char_events.rpy:10257
 translate pt_br vanessa2_c4eed8bb:
 
     # ami "Hey, isn't there sort of a dress code at these things? You should take your shirt off..."
     ami ""
 
-# game/scripts/side_char_events.rpy:10259
+# game/scripts/side_char_events.rpy:10258
 translate pt_br vanessa2_b9abd4b2:
 
     # c "It's business hours for me."
     c ""
 
-# game/scripts/side_char_events.rpy:10260
+# game/scripts/side_char_events.rpy:10259
 translate pt_br vanessa2_692cfde1:
 
     # ami "Aww, that's a shame..."
     ami ""
 
-# game/scripts/side_char_events.rpy:10262
+# game/scripts/side_char_events.rpy:10261
 translate pt_br vanessa2_2abbb294:
 
     # nala "You should sit with us for a while. You run the show around here, don't you? Nobody here is going to complain."
     nala ""
 
-# game/scripts/side_char_events.rpy:10263
+# game/scripts/side_char_events.rpy:10262
 translate pt_br vanessa2_36685c1a:
 
     # c "I guess it wouldn't hurt to stay a while."
     c ""
 
-# game/scripts/side_char_events.rpy:10265
+# game/scripts/side_char_events.rpy:10264
 translate pt_br vanessa2_f25d8bcc:
 
     # van "So this place is really free to use every monday at noon? That's crazy! I'll definitely be coming here often. I heard hot springs are really good for your health."
     van ""
 
-# game/scripts/side_char_events.rpy:10266
+# game/scripts/side_char_events.rpy:10265
 translate pt_br vanessa2_204c7a1e:
 
     # c "Of course, just as advertised."
     c ""
 
-# game/scripts/side_char_events.rpy:10267
+# game/scripts/side_char_events.rpy:10266
 translate pt_br vanessa2_7e706865:
 
     # van "You're so lucky to inherit such a nice place, you must have been so excited when you heard the news, right? Other than the loss of a loved one..."
     van ""
 
-# game/scripts/side_char_events.rpy:10268
+# game/scripts/side_char_events.rpy:10267
 translate pt_br vanessa2_09e8507b:
 
     # c "I wasn't too sure. I thought I would at least take a look in case I wanted to sell it. But I ended up loving it."
     c ""
 
-# game/scripts/side_char_events.rpy:10269
+# game/scripts/side_char_events.rpy:10268
 translate pt_br vanessa2_f1f7e8d2:
 
     # nala "I would love to live at a place like this. I would come to this springs every morning~"
     nala ""
 
-# game/scripts/side_char_events.rpy:10270
+# game/scripts/side_char_events.rpy:10269
 translate pt_br vanessa2_be326cc0:
 
     # ami "I heard you can even order drinks from the bar here? That's so cool!"
     ami ""
 
-# game/scripts/side_char_events.rpy:10271
+# game/scripts/side_char_events.rpy:10270
 translate pt_br vanessa2_1beebf38:
 
     # kim "The only thing you're missing is a masseur. Or is that secretly your second job that you get to use as an excuse to touch sexy women's bodies?"
     kim ""
 
-# game/scripts/side_char_events.rpy:10272
+# game/scripts/side_char_events.rpy:10271
 translate pt_br vanessa2_71eff6b3:
 
     # c "Well, I'm no professional, but my hands have their uses if you'd like to request them."
     c ""
 
-# game/scripts/side_char_events.rpy:10273
+# game/scripts/side_char_events.rpy:10272
 translate pt_br vanessa2_385d9a47:
 
     # kim "Heheh, interesting."
     kim ""
 
-# game/scripts/side_char_events.rpy:10274
+# game/scripts/side_char_events.rpy:10273
 translate pt_br vanessa2_36657ba8:
 
     # c "So what has everyone been up to recently? Do you have jobs?"
     c ""
 
-# game/scripts/side_char_events.rpy:10275
+# game/scripts/side_char_events.rpy:10274
 translate pt_br vanessa2_f11554f0:
 
     # van "Yeah, I have a part time job at a daycare for the non-human. I don't really have the time for a full time job yet with my busy schedule, but I enjoy the work. And I need to help my parents pay for my tuition."
     van ""
 
-# game/scripts/side_char_events.rpy:10276
+# game/scripts/side_char_events.rpy:10275
 translate pt_br vanessa2_2391cc64:
 
     # c "Really? So you help raise elf and half-elf children?"
     c ""
 
-# game/scripts/side_char_events.rpy:10277
+# game/scripts/side_char_events.rpy:10276
 translate pt_br vanessa2_eb84baf6:
 
     # van "That's right. We get a lot of slaves spending every cent they're able to find to keep their children at our daycare."
     van ""
 
-# game/scripts/side_char_events.rpy:10278
+# game/scripts/side_char_events.rpy:10277
 translate pt_br vanessa2_1d6c4c7e:
 
     # c "They're able to afford that?"
     c ""
 
-# game/scripts/side_char_events.rpy:10279
+# game/scripts/side_char_events.rpy:10278
 translate pt_br vanessa2_88296043:
 
     # van "Only because our prices are so low and we offer great deals. Those slaves want to let their children grow up in a safer environment where they aren't forced to work and we offer that."
     van ""
 
-# game/scripts/side_char_events.rpy:10281
+# game/scripts/side_char_events.rpy:10280
 translate pt_br vanessa2_3481de1e:
 
     # van "It's a tough job... not physically, but emotionally... a lot of those kids run away because it's the first time they've been away from their owner."
     van ""
 
-# game/scripts/side_char_events.rpy:10282
+# game/scripts/side_char_events.rpy:10281
 translate pt_br vanessa2_bcdd21af:
 
     # van "And if we aren't open every day for dirt cheap prices, where would they have left to go? They would either be forced to work or sold off... this world is so cruel to these innocent kids..."
     van ""
 
-# game/scripts/side_char_events.rpy:10283
+# game/scripts/side_char_events.rpy:10282
 translate pt_br vanessa2_e6f57ff1:
 
     # van "No one wants to invest in a company like ours because we barely break even, most of us end up spending our own money instead... On the other hand, human daycares are essentially government run at this point..."
     van ""
 
-# game/scripts/side_char_events.rpy:10284
+# game/scripts/side_char_events.rpy:10283
 translate pt_br vanessa2_0f0a5e4b:
 
     # c "Damn, that's rough."
     c ""
 
-# game/scripts/side_char_events.rpy:10285
+# game/scripts/side_char_events.rpy:10284
 translate pt_br vanessa2_0fbf757b:
 
     # van "Luckily I have my parents to support me through college, otherwise I'd barely be able to afford a roof over my head with the job I have. I'm really hoping this software engineering degree becomes useful later on."
     van ""
 
-# game/scripts/side_char_events.rpy:10286
+# game/scripts/side_char_events.rpy:10285
 translate pt_br vanessa2_392a0e3d:
 
     # nala "My dad's offer is still on the table."
     nala ""
 
-# game/scripts/side_char_events.rpy:10288
+# game/scripts/side_char_events.rpy:10287
 translate pt_br vanessa2_bb9947f1:
 
     # van "I don't want to become a cop, cops suck..."
     van ""
 
-# game/scripts/side_char_events.rpy:10289
+# game/scripts/side_char_events.rpy:10288
 translate pt_br vanessa2_19a2ed35:
 
     # nala "There are good cops, my dad is a good cop."
     nala ""
 
-# game/scripts/side_char_events.rpy:10290
+# game/scripts/side_char_events.rpy:10289
 translate pt_br vanessa2_0e27b43c:
 
     # van "Your dad arrested 14 elves last month for 'being free', you told me yourself. I don't want to do that! And quite frankly, your father sucks for doing it..."
     van ""
 
-# game/scripts/side_char_events.rpy:10291
+# game/scripts/side_char_events.rpy:10290
 translate pt_br vanessa2_3f125266:
 
     # nala "*sigh*, I know... but he's just doing his job..."
     nala ""
 
-# game/scripts/side_char_events.rpy:10292
+# game/scripts/side_char_events.rpy:10291
 translate pt_br vanessa2_6d207ba1:
 
     # van "And his job shouldn't include acting as the animal control force for non-humans... I know you have a good heart but I don't understand why you're following in his footsteps."
     van ""
 
-# game/scripts/side_char_events.rpy:10293
+# game/scripts/side_char_events.rpy:10292
 translate pt_br vanessa2_740305f5:
 
     # c "You're training to become a cop, Nala?"
     c ""
 
-# game/scripts/side_char_events.rpy:10295
+# game/scripts/side_char_events.rpy:10294
 translate pt_br vanessa2_68417644:
 
     # nala "No, not a cop. I would be a part of the team programming the AI for the police droids."
     nala ""
 
-# game/scripts/side_char_events.rpy:10296
+# game/scripts/side_char_events.rpy:10295
 translate pt_br vanessa2_8a4e1474:
 
     # nala "The current systems are so old... at least in technical terms. They could really use an upgrade, and I'm hoping I can use my influence as Caliber city's police chief's daughter to add a no-kill feature for elves."
     nala ""
 
-# game/scripts/side_char_events.rpy:10297
+# game/scripts/side_char_events.rpy:10296
 translate pt_br vanessa2_3444d3ed:
 
     # nala "That part isn't hard to program, all droids aren't allowed to kill humans already, but the same precautions don't exist for elves."
     nala ""
 
-# game/scripts/side_char_events.rpy:10298
+# game/scripts/side_char_events.rpy:10297
 translate pt_br vanessa2_d820a860:
 
     # van "Yeah, elves are 'accidentally' killed all the time by droids, Nala could save a lot of lives if she plays her cards right."
     van ""
 
-# game/scripts/side_char_events.rpy:10299
+# game/scripts/side_char_events.rpy:10298
 translate pt_br vanessa2_31318e4a:
 
     # nala "That's my hope!"
     nala ""
 
-# game/scripts/side_char_events.rpy:10300
+# game/scripts/side_char_events.rpy:10299
 translate pt_br vanessa2_be32f930:
 
     # c "That's a noble goal, Nala."
     c ""
 
-# game/scripts/side_char_events.rpy:10301
+# game/scripts/side_char_events.rpy:10300
 translate pt_br vanessa2_bb7904f0:
 
     # nala "Thank you! Unfortunately my father does have to deal with a lot of elves like Vanessa says... if he let a free elf walk, he would be fired so he doesn't have much of a choice..."
     nala ""
 
-# game/scripts/side_char_events.rpy:10302
+# game/scripts/side_char_events.rpy:10301
 translate pt_br vanessa2_2fb80ecb:
 
     # c "Is it common to run into free elves?"
     c ""
 
-# game/scripts/side_char_events.rpy:10303
+# game/scripts/side_char_events.rpy:10302
 translate pt_br vanessa2_7534c9a1:
 
     # nala "Not really. 14 is a pretty low number these days, but it's still too much if you ask me. I don't want anyone to be arrested for being free."
     nala ""
 
-# game/scripts/side_char_events.rpy:10304
+# game/scripts/side_char_events.rpy:10303
 translate pt_br vanessa2_8bb4bf50:
 
     # c "I bet that has caused some conflict between you and your father."
     c ""
 
-# game/scripts/side_char_events.rpy:10305
+# game/scripts/side_char_events.rpy:10304
 translate pt_br vanessa2_b5e1746b:
 
     # nala "From time to time... but he doesn't enjoy it, he just sees it as another part of his job. Everyone has something about their job that they don't like, right?"
     nala ""
 
-# game/scripts/side_char_events.rpy:10307
+# game/scripts/side_char_events.rpy:10306
 translate pt_br vanessa2_b2946207:
 
     # c "What about you two?"
     c ""
 
-# game/scripts/side_char_events.rpy:10308
+# game/scripts/side_char_events.rpy:10307
 translate pt_br vanessa2_412d72dd:
 
     # ami "We don't have jobs."
     ami ""
 
-# game/scripts/side_char_events.rpy:10309
+# game/scripts/side_char_events.rpy:10308
 translate pt_br vanessa2_824c41eb:
 
     # kim "We're full time students, I guess. Our parents are in the real estate business. They own a few residential towers in Caliber and Corpus."
     kim ""
 
-# game/scripts/side_char_events.rpy:10310
+# game/scripts/side_char_events.rpy:10309
 translate pt_br vanessa2_6e864ece:
 
     # c "Wow, they must be pretty rich."
     c ""
 
-# game/scripts/side_char_events.rpy:10311
+# game/scripts/side_char_events.rpy:10310
 translate pt_br vanessa2_f3ba512a:
 
     # ami "They are! And I'm planning to tell all their friends about this little hidden gem of a hot springs I found. Those pretentious bitches love things like this, especially if they can drink as well. Don't be too surprised if you get more traffic in this place."
     ami ""
 
-# game/scripts/side_char_events.rpy:10312
+# game/scripts/side_char_events.rpy:10311
 translate pt_br vanessa2_be7a8d0f:
 
     # c "Oh, I would appreciate the business."
     c ""
 
-# game/scripts/side_char_events.rpy:10313
+# game/scripts/side_char_events.rpy:10312
 translate pt_br vanessa2_0575bea7:
 
     # kim "Ami loves making friends with powerful people."
     kim ""
 
-# game/scripts/side_char_events.rpy:10314
+# game/scripts/side_char_events.rpy:10313
 translate pt_br vanessa2_85022236:
 
     # ami "They're not friends, Kim, they're opportunities! That's how they see the world, so that's how I'm going to see them..."
     ami ""
 
-# game/scripts/side_char_events.rpy:10315
+# game/scripts/side_char_events.rpy:10314
 translate pt_br vanessa2_26ea8340:
 
     # c "If you two are full time students you must have two majors, right?"
     c ""
 
-# game/scripts/side_char_events.rpy:10316
+# game/scripts/side_char_events.rpy:10315
 translate pt_br vanessa2_6f244fcd:
 
     # kim "That's right. We're both taking all the same classes. It's what our parents wanted actually."
     kim ""
 
-# game/scripts/side_char_events.rpy:10317
+# game/scripts/side_char_events.rpy:10316
 translate pt_br vanessa2_a2899f66:
 
     # ami "Some bullshit about competition and sisterly love..."
     ami ""
 
-# game/scripts/side_char_events.rpy:10318
+# game/scripts/side_char_events.rpy:10317
 translate pt_br vanessa2_d5120ca1:
 
     # kim "Other than software engineering, we're training to become lawyers."
     kim ""
 
-# game/scripts/side_char_events.rpy:10319
+# game/scripts/side_char_events.rpy:10318
 translate pt_br vanessa2_7aa2cd29:
 
     # ami "Also something our parents made us do. The deal was that they would pay for our attendance and let us choose a major so long as we also went to law school."
     ami ""
 
-# game/scripts/side_char_events.rpy:10320
+# game/scripts/side_char_events.rpy:10319
 translate pt_br vanessa2_f85cc0f1:
 
     # kim "Yeah, we're not really interested in law, but we take it anyway. We'll probably flunk!"
     kim ""
 
-# game/scripts/side_char_events.rpy:10321
+# game/scripts/side_char_events.rpy:10320
 translate pt_br vanessa2_8c2c73c8:
 
     # c "That doesn't seem to bother you too much."
     c ""
 
-# game/scripts/side_char_events.rpy:10322
+# game/scripts/side_char_events.rpy:10321
 translate pt_br vanessa2_e61c2bd9:
 
     # kim "Because it's not our dreams to become lawyers, it's our parent's dreams for us."
     kim ""
 
-# game/scripts/side_char_events.rpy:10323
+# game/scripts/side_char_events.rpy:10322
 translate pt_br vanessa2_ef0dd2c9:
 
     # ami "Yeah, our dreams are in software engineering!"
     ami ""
 
-# game/scripts/side_char_events.rpy:10324
+# game/scripts/side_char_events.rpy:10323
 translate pt_br vanessa2_d0ae06d2:
 
     # c "Is that so?"
     c ""
 
-# game/scripts/side_char_events.rpy:10325
+# game/scripts/side_char_events.rpy:10324
 translate pt_br vanessa2_ed105a1f:
 
     # kim "We want to make cheaper androids than the ones currently on the market. True competition with elves!"
     kim ""
 
-# game/scripts/side_char_events.rpy:10326
+# game/scripts/side_char_events.rpy:10325
 translate pt_br vanessa2_db4b4cfc:
 
     # van "Our goals have been aligned ever since we started in college together. Of course that's going to be hard without a hardware engineer... but it's all a team effort."
     van ""
 
-# game/scripts/side_char_events.rpy:10327
+# game/scripts/side_char_events.rpy:10326
 translate pt_br vanessa2_e4073684:
 
     # kim "I think we would be able to do a much better job as well! We've met your android and it's full of bugs, we can tell..."
     kim ""
 
-# game/scripts/side_char_events.rpy:10328
+# game/scripts/side_char_events.rpy:10327
 translate pt_br vanessa2_7d3e2168:
 
     # ami "That technology is 47 years old! Can you believe that? Androids are in desperate need for an upgrade."
     ami ""
 
-# game/scripts/side_char_events.rpy:10329
+# game/scripts/side_char_events.rpy:10328
 translate pt_br vanessa2_974f2e2a:
 
     # kim "If only we knew a hardware engineer... it's a shame that Kali isn't a hardware engineer as well, but oh well... we're just hoping that someone will hire us eventually, heh..."
     kim ""
 
-# game/scripts/side_char_events.rpy:10331
+# game/scripts/side_char_events.rpy:10330
 translate pt_br vanessa2_1964a549:
 
     # c "Vanessa, I have to ask... why are you wearing that swimsuit?"
     c ""
 
-# game/scripts/side_char_events.rpy:10332
+# game/scripts/side_char_events.rpy:10331
 translate pt_br vanessa2_db6a38e1:
 
     # van "Oh, umm..."
     van ""
 
-# game/scripts/side_char_events.rpy:10333
+# game/scripts/side_char_events.rpy:10332
 translate pt_br vanessa2_cd9c3223:
 
     # kim "Obviously it's because of her tan lines! Heheheh!"
     kim ""
 
-# game/scripts/side_char_events.rpy:10335
+# game/scripts/side_char_events.rpy:10334
 translate pt_br vanessa2_e155fa23:
 
     # van "Nh...!" with ssshake
     van "" with ssshake
 
-# game/scripts/side_char_events.rpy:10336
+# game/scripts/side_char_events.rpy:10335
 translate pt_br vanessa2_498bc096:
 
     # ami "Don't act like we don't know already... just about the whole school knows by now."
     ami ""
 
-# game/scripts/side_char_events.rpy:10337
+# game/scripts/side_char_events.rpy:10336
 translate pt_br vanessa2_105ab87d:
 
     # nala "Yeah, what's the point of hiding something that isn't a secret?"
     nala ""
 
-# game/scripts/side_char_events.rpy:10338
+# game/scripts/side_char_events.rpy:10337
 translate pt_br vanessa2_5d4ff5c2:
 
     # van "W-Well what's the point of clothes at all then if we've already seen each other nude?"
     van ""
 
-# game/scripts/side_char_events.rpy:10339
+# game/scripts/side_char_events.rpy:10338
 translate pt_br vanessa2_7a79a742:
 
     # nala "Good point... but there's also no point in hiding now. You might as well show off a little skin!"
     nala ""
 
-# game/scripts/side_char_events.rpy:10340
+# game/scripts/side_char_events.rpy:10339
 translate pt_br vanessa2_e1687b05:
 
     # van "Kim's wearing one too, why am I being singled out?"
     van ""
 
-# game/scripts/side_char_events.rpy:10341
+# game/scripts/side_char_events.rpy:10340
 translate pt_br vanessa2_41662d8f:
 
     # kim "Because it's the first time we've ever seen you wear that! I wonder when you got those tan lines..."
     kim ""
 
-# game/scripts/side_char_events.rpy:10342
+# game/scripts/side_char_events.rpy:10341
 translate pt_br vanessa2_4d6edc81:
 
     # van "Don't worry about it..."
     van ""
 
-# game/scripts/side_char_events.rpy:10344
+# game/scripts/side_char_events.rpy:10343
 translate pt_br vanessa2_b3395f5f:
 
     # c "You two seem pretty close as well."
     c ""
 
-# game/scripts/side_char_events.rpy:10345
+# game/scripts/side_char_events.rpy:10344
 translate pt_br vanessa2_c8acd574:
 
     # kim "Of course! We're basically twins."
     kim ""
 
-# game/scripts/side_char_events.rpy:10346
+# game/scripts/side_char_events.rpy:10345
 translate pt_br vanessa2_c2d1ab3e:
 
     # ami "She was born three weeks after me."
     ami ""
 
-# game/scripts/side_char_events.rpy:10347
+# game/scripts/side_char_events.rpy:10346
 translate pt_br vanessa2_c3a010fe:
 
     # c "How is that possible?"
     c ""
 
-# game/scripts/side_char_events.rpy:10348
+# game/scripts/side_char_events.rpy:10347
 translate pt_br vanessa2_ca89427f:
 
     # kim "We're half sisters. Same father."
     kim ""
 
-# game/scripts/side_char_events.rpy:10349
+# game/scripts/side_char_events.rpy:10348
 translate pt_br vanessa2_64a6691b:
 
     # c "Who was your mother?"
     c ""
 
-# game/scripts/side_char_events.rpy:10350
+# game/scripts/side_char_events.rpy:10349
 translate pt_br vanessa2_6029cfad:
 
     # kim "My mother is her mother's sister."
     kim ""
 
-# game/scripts/side_char_events.rpy:10351
+# game/scripts/side_char_events.rpy:10350
 translate pt_br vanessa2_fe50fba0:
 
     # ami "Yep, our dad's kind of a freak, haha. And our mothers {i}really{/i} hate each other..."
     ami ""
 
-# game/scripts/side_char_events.rpy:10352
+# game/scripts/side_char_events.rpy:10351
 translate pt_br vanessa2_740b05d2:
 
     # c "That's quite the dynamic your family has."
     c ""
 
-# game/scripts/side_char_events.rpy:10353
+# game/scripts/side_char_events.rpy:10352
 translate pt_br vanessa2_d34fc9e5:
 
     # kim "Yep! I guess you could say we're tight-knit."
     kim ""
 
-# game/scripts/side_char_events.rpy:10355
+# game/scripts/side_char_events.rpy:10354
 translate pt_br vanessa2_920790dd:
 
     # van "Come on, guys... the cats out of the bag by now... We all know you two fuck."
     van ""
 
-# game/scripts/side_char_events.rpy:10357
+# game/scripts/side_char_events.rpy:10356
 translate pt_br vanessa2_6244adb0:
 
     # ami "Ewww!"
     ami ""
 
-# game/scripts/side_char_events.rpy:10358
+# game/scripts/side_char_events.rpy:10357
 translate pt_br vanessa2_8f1e9900:
 
     # kim "We do nooooooot!"
     kim ""
 
-# game/scripts/side_char_events.rpy:10359
+# game/scripts/side_char_events.rpy:10358
 translate pt_br vanessa2_0bff1e3b:
 
     # van "You totally have a sister complex, Kimmy."
     van ""
 
-# game/scripts/side_char_events.rpy:10360
+# game/scripts/side_char_events.rpy:10359
 translate pt_br vanessa2_56651313:
 
     # kim "No way! I just like men! Big burly men, with big burly muscles! Okay!?"
     kim ""
 
-# game/scripts/side_char_events.rpy:10361
+# game/scripts/side_char_events.rpy:10360
 translate pt_br vanessa2_f3297e32:
 
     # van "I don't know... I've never seen you around a man's arms before... and you two are always cuddling."
     van ""
 
-# game/scripts/side_char_events.rpy:10362
+# game/scripts/side_char_events.rpy:10361
 translate pt_br vanessa2_c82343bd:
 
     # kim "*gasp*! We don't cuddle!"
     kim ""
 
-# game/scripts/side_char_events.rpy:10363
+# game/scripts/side_char_events.rpy:10362
 translate pt_br vanessa2_72383c83:
 
     # ami "Our parents would kill us if we got boyfriends in college! Unlike you, our parents are really fucking strict..."
     ami ""
 
-# game/scripts/side_char_events.rpy:10364
+# game/scripts/side_char_events.rpy:10363
 translate pt_br vanessa2_b1540b84:
 
     # kim "They wouldn't let us have boyfriends at all... I'm still a virgin..."
     kim ""
 
-# game/scripts/side_char_events.rpy:10365
+# game/scripts/side_char_events.rpy:10364
 translate pt_br vanessa2_e2be08e0:
 
     # van "Seriously?"
     van ""
 
-# game/scripts/side_char_events.rpy:10366
+# game/scripts/side_char_events.rpy:10365
 translate pt_br vanessa2_805fe89c:
 
     # kim "Yeah... our parents want us focusing on school. We've never even smoked before."
     kim ""
 
-# game/scripts/side_char_events.rpy:10367
+# game/scripts/side_char_events.rpy:10366
 translate pt_br vanessa2_e2ab7117:
 
     # van "Well look at that, aren't you two just the perfect children."
     van ""
 
-# game/scripts/side_char_events.rpy:10368
+# game/scripts/side_char_events.rpy:10367
 translate pt_br vanessa2_f5efe1a9:
 
     # kim "No! I've had alcohol..."
     kim ""
 
-# game/scripts/side_char_events.rpy:10369
+# game/scripts/side_char_events.rpy:10368
 translate pt_br vanessa2_2de9c562:
 
     # van "Pfft, what a rebel."
     van ""
 
-# game/scripts/side_char_events.rpy:10371
+# game/scripts/side_char_events.rpy:10370
 translate pt_br vanessa2_b22e7855:
 
     # van "Heh, well it was fun talking to you [name], but we should go."
     van ""
 
-# game/scripts/side_char_events.rpy:10372
+# game/scripts/side_char_events.rpy:10371
 translate pt_br vanessa2_39d2ca3b:
 
     # c "Already?"
     c ""
 
-# game/scripts/side_char_events.rpy:10373
+# game/scripts/side_char_events.rpy:10372
 translate pt_br vanessa2_07a1af2f:
 
     # van "Yeah, we gotta get ready for school. But you can expect us back here!"
     van ""
 
-# game/scripts/side_char_events.rpy:10374
+# game/scripts/side_char_events.rpy:10373
 translate pt_br vanessa2_bc29a4db:
 
     # c "Alright, have a good day everyone."
     c ""
 
-# game/scripts/side_char_events.rpy:10375
+# game/scripts/side_char_events.rpy:10374
 translate pt_br vanessa2_21a5a714:
 
     # nala "Bye!"
     nala ""
 
-# game/scripts/side_char_events.rpy:10395
+# game/scripts/side_char_events.rpy:10394
 translate pt_br vanessa1_747411db:
 
     # van "Hey! Um, [name]... listen."
     van ""
 
-# game/scripts/side_char_events.rpy:10397
+# game/scripts/side_char_events.rpy:10396
 translate pt_br vanessa1_d15643b0:
 
     # van "After finding out what you do... how you help the world... I can't stop thinking about how we totally met on the wrong foot..."
     van ""
 
-# game/scripts/side_char_events.rpy:10398
+# game/scripts/side_char_events.rpy:10397
 translate pt_br vanessa1_e8e8c1b4:
 
     # van "I get it... I can be presumptuous sometimes, but I'm trying... I try every day to understand the world a little bit better."
     van ""
 
-# game/scripts/side_char_events.rpy:10400
+# game/scripts/side_char_events.rpy:10399
 translate pt_br vanessa1_d039b7fe:
 
     # van "I mean, who has ever heard of a master trying to free his own slaves? That's crazy!"
     van ""
 
-# game/scripts/side_char_events.rpy:10402
+# game/scripts/side_char_events.rpy:10401
 translate pt_br vanessa1_cefae1fb:
 
     # van "I would totally talk about you all the time if I didn't fear for your safety... heh!"
     van ""
 
-# game/scripts/side_char_events.rpy:10404
+# game/scripts/side_char_events.rpy:10403
 translate pt_br vanessa1_b935b005:
 
     # van "Soo... yeah. Here's me... asking you... to, uh... go out. *ahem*..."
     van ""
 
-# game/scripts/side_char_events.rpy:10408
+# game/scripts/side_char_events.rpy:10407
 translate pt_br vanessa1_78a95872:
 
     # van "Cool!"
     van ""
 
-# game/scripts/side_char_events.rpy:10409
+# game/scripts/side_char_events.rpy:10408
 translate pt_br vanessa1_5b0a6d73:
 
     # van "I was thinking of bringing you to the uni's cafe, have you ever been?"
     van ""
 
-# game/scripts/side_char_events.rpy:10410
+# game/scripts/side_char_events.rpy:10409
 translate pt_br vanessa1_fae45063:
 
     # c "If you want coffee, I know the perfect spot. Someone close to me runs the business."
     c ""
 
-# game/scripts/side_char_events.rpy:10411
+# game/scripts/side_char_events.rpy:10410
 translate pt_br vanessa1_f73324b1:
 
     # van "Oh, really? Yeah, let's go there then! That's awesome."
     van ""
 
-# game/scripts/side_char_events.rpy:10412
+# game/scripts/side_char_events.rpy:10411
 translate pt_br vanessa1_91241df3:
 
     # van "Lead the way! I'm not busy right now."
     van ""
 
-# game/scripts/side_char_events.rpy:10414
+# game/scripts/side_char_events.rpy:10413
 translate pt_br vanessa1_d01a9b52:
 
     # "You drive Vanessa to Autumn's cafe..."
     ""
 
-# game/scripts/side_char_events.rpy:10416
+# game/scripts/side_char_events.rpy:10415
 translate pt_br vanessa1_f45bb893:
 
     # van "Woow, this place is really chill and cozy... I like it."
     van ""
 
-# game/scripts/side_char_events.rpy:10417
+# game/scripts/side_char_events.rpy:10416
 translate pt_br vanessa1_2f73c29b:
 
     # van "A lot more than they offer at uni, too. I bet it's even home made!"
     van ""
 
-# game/scripts/side_char_events.rpy:10418
+# game/scripts/side_char_events.rpy:10417
 translate pt_br vanessa1_c1832d24:
 
     # van "Hmmm... I'm kind of hungry. What about you?"
     van ""
 
-# game/scripts/side_char_events.rpy:10419
+# game/scripts/side_char_events.rpy:10418
 translate pt_br vanessa1_040b1d07:
 
     # c "I could eat."
     c ""
 
-# game/scripts/side_char_events.rpy:10420
+# game/scripts/side_char_events.rpy:10419
 translate pt_br vanessa1_5b5d5e39:
 
     # van "I think I may get a salad, mocha, and... a muffin. A chocolate muffin! Hah~ I would kill for chocolate..."
     van ""
 
-# game/scripts/side_char_events.rpy:10423
+# game/scripts/side_char_events.rpy:10422
 translate pt_br vanessa1_00ebd8ad:
 
     # van "So how is running a hotel? Where... people live, apparently. Is rent really that expensive now? Sheesh..."
     van ""
 
-# game/scripts/side_char_events.rpy:10424
+# game/scripts/side_char_events.rpy:10423
 translate pt_br vanessa1_0402f04f:
 
     # c "I don't have much experience in running a hotel, but I seem to be doing fine. Some of the residents haven't always been able to pay, but that hasn't hurt the business in a major way."
     c ""
 
-# game/scripts/side_char_events.rpy:10425
+# game/scripts/side_char_events.rpy:10424
 translate pt_br vanessa1_a3087faf:
 
     # van "Really!? So you even let your tenants live there even when they can't pay? That's really nice of you! How do you pay for that?"
     van ""
 
-# game/scripts/side_char_events.rpy:10426
+# game/scripts/side_char_events.rpy:10425
 translate pt_br vanessa1_e5106ad0:
 
     # c "My bar is more than enough to make up for it."
     c ""
 
-# game/scripts/side_char_events.rpy:10427
+# game/scripts/side_char_events.rpy:10426
 translate pt_br vanessa1_dc0087fb:
 
     # van "*gasp*, a bar...? That's pretty cool! I like your business strategy."
     van ""
 
-# game/scripts/side_char_events.rpy:10428
+# game/scripts/side_char_events.rpy:10427
 translate pt_br vanessa1_5f596ee9:
 
     # c "It won't turn me into a billionaire, but it works for the tenants."
     c ""
 
-# game/scripts/side_char_events.rpy:10429
+# game/scripts/side_char_events.rpy:10428
 translate pt_br vanessa1_2b53a5b4:
 
     # van "That's all you need, really."
     van ""
 
-# game/scripts/side_char_events.rpy:10430
+# game/scripts/side_char_events.rpy:10429
 translate pt_br vanessa1_c15c8e12:
 
     # c "How long have you been an abolitionist?"
     c ""
 
-# game/scripts/side_char_events.rpy:10432
+# game/scripts/side_char_events.rpy:10431
 translate pt_br vanessa1_9513e4d4:
 
     # van "Politically since I was around 17... but that's also how I was raised. Well, not strictly as an abolitionist but they made sure I didn't treat anyone different than me poorly, you know?"
     van ""
 
-# game/scripts/side_char_events.rpy:10433
+# game/scripts/side_char_events.rpy:10432
 translate pt_br vanessa1_9db12b56:
 
     # van "I was always kinda picked on for being that one girl who would always correct people when they said something wrong about an elf... Fortunately when I went to uni, I met enough like-minded people and we became friends."
     van ""
 
-# game/scripts/side_char_events.rpy:10434
+# game/scripts/side_char_events.rpy:10433
 translate pt_br vanessa1_c9cf6665:
 
     # c "And your podcast?"
     c ""
 
-# game/scripts/side_char_events.rpy:10436
+# game/scripts/side_char_events.rpy:10435
 translate pt_br vanessa1_fbc9ec6a:
 
     # van "Oh, how did you know about that?"
     van ""
 
-# game/scripts/side_char_events.rpy:10437
+# game/scripts/side_char_events.rpy:10436
 translate pt_br vanessa1_9d75599b:
 
     # c "I overheard it one night while I was visiting."
     c ""
 
-# game/scripts/side_char_events.rpy:10438
+# game/scripts/side_char_events.rpy:10437
 translate pt_br vanessa1_48c6b666:
 
     # van "Ohhh, right... heheh."
     van ""
 
-# game/scripts/side_char_events.rpy:10439
+# game/scripts/side_char_events.rpy:10438
 translate pt_br vanessa1_cab20d5e:
 
     # van "That's only about a year old, and I already have tens of thousands of viewers! I'm very proud of it and I hope it continues to grow."
     van ""
 
-# game/scripts/side_char_events.rpy:10441
+# game/scripts/side_char_events.rpy:10440
 translate pt_br vanessa1_10f6b126:
 
     # van "I'm a little worried though... doing what I do is kinda dangerous, you know?"
     van ""
 
-# game/scripts/side_char_events.rpy:10442
+# game/scripts/side_char_events.rpy:10441
 translate pt_br vanessa1_597b97a4:
 
     # c "Aren't you just sharing your opinion?"
     c ""
 
-# game/scripts/side_char_events.rpy:10443
+# game/scripts/side_char_events.rpy:10442
 translate pt_br vanessa1_4cca91bc:
 
     # van "Well, yeah... but that's the problem... it's the {i}wrong{/i} opinion."
     van ""
 
-# game/scripts/side_char_events.rpy:10444
+# game/scripts/side_char_events.rpy:10443
 translate pt_br vanessa1_e0fc3755:
 
     # van "It's technically not illegal to speak your mind, but I like to exaggerate, you know? They would just claim I meant something I didn't and send me to prison for inciting violence..."
     van ""
 
-# game/scripts/side_char_events.rpy:10445
+# game/scripts/side_char_events.rpy:10444
 translate pt_br vanessa1_7cf8ff32:
 
     # van "Point is, if they tried hard enough, I'm sure they could find a way to stop me. It's happened to others... I probably just haven't flown close enough to the sun yet..."
     van ""
 
-# game/scripts/side_char_events.rpy:10446
+# game/scripts/side_char_events.rpy:10445
 translate pt_br vanessa1_b8b3c46a:
 
     # c "Why risk it?"
     c ""
 
-# game/scripts/side_char_events.rpy:10448
+# game/scripts/side_char_events.rpy:10447
 translate pt_br vanessa1_b266b9b2:
 
     # van "Well... why do you?"
     van ""
 
-# game/scripts/side_char_events.rpy:10450
+# game/scripts/side_char_events.rpy:10449
 translate pt_br vanessa1_88a80228:
 
     # van "I'm not the only one sitting here trying to do what they think is right! Heh, you've probably broken more laws than I have..."
     van ""
 
-# game/scripts/side_char_events.rpy:10452
+# game/scripts/side_char_events.rpy:10451
 translate pt_br vanessa1_c4c32874:
 
     # van "Not that I condone breaking laws or anything, but you can't honestly say we live in a perfect society. Did you know fucking {i}coffee{/i} used to be illegal?"
     van ""
 
-# game/scripts/side_char_events.rpy:10453
+# game/scripts/side_char_events.rpy:10452
 translate pt_br vanessa1_f835a503:
 
     # van "If we were sitting here like 200 years ago, we'd be in prison..."
     van ""
 
-# game/scripts/side_char_events.rpy:10455
+# game/scripts/side_char_events.rpy:10454
 translate pt_br vanessa1_45b79aae:
 
     # van "So, yeah... I'm not going to let anyone in power tell me what is and isn't right. You would have thought we figured that much out when we chopped the heads off the monarchies..."
     van ""
 
-# game/scripts/side_char_events.rpy:10456
+# game/scripts/side_char_events.rpy:10455
 translate pt_br vanessa1_7e10da5e:
 
     # c "You would do this even if it hurts you? Or worse?"
     c ""
 
-# game/scripts/side_char_events.rpy:10457
+# game/scripts/side_char_events.rpy:10456
 translate pt_br vanessa1_478291b4:
 
     # van "I wouldn't be the first. And if I do go, I would hope to be a martyr. Human deaths hit other humans harder it seems, maybe it would wake a few people up."
     van ""
 
-# game/scripts/side_char_events.rpy:10458
+# game/scripts/side_char_events.rpy:10457
 translate pt_br vanessa1_3e884c87:
 
     # c "What do you talk about on your podcast?"
     c ""
 
-# game/scripts/side_char_events.rpy:10460
+# game/scripts/side_char_events.rpy:10459
 translate pt_br vanessa1_a289531f:
 
     # van "Oh, I just try to inform people on elvish history and show them how elves are so mistreated. My university has one of the most robust collections of elvish history on the continent. In no small part to Arthur Longspear! Eh, he's not really important right now."
     van ""
 
-# game/scripts/side_char_events.rpy:10461
+# game/scripts/side_char_events.rpy:10460
 translate pt_br vanessa1_afe77e4d:
 
     # van "I also attempt to debunk government propaganda, which the government {i}really{/i} doesn't like."
     van ""
 
-# game/scripts/side_char_events.rpy:10464
+# game/scripts/side_char_events.rpy:10463
 translate pt_br vanessa1_03922a58:
 
     # van "We are barraged with ad campaigns, television shows, and just plain posters on a wall! All demeaning elves and depicting them as something they aren't, or as if they're here to just make you money."
     van ""
 
-# game/scripts/side_char_events.rpy:10465
+# game/scripts/side_char_events.rpy:10464
 translate pt_br vanessa1_4e30a3b8:
 
     # van "It's in our culture, honestly. {i}'You're not a true patriot unless you own a elf'...{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:10468
+# game/scripts/side_char_events.rpy:10467
 translate pt_br vanessa1_ab037b60:
 
     # van "Here, just look at this ad they released last month!"
     van ""
 
-# game/scripts/side_char_events.rpy:10470
+# game/scripts/side_char_events.rpy:10469
 translate pt_br vanessa1_bb5c12f1:
 
     # jia "I'm hungry..."
     jia ""
 
-# game/scripts/side_char_events.rpy:10472
+# game/scripts/side_char_events.rpy:10471
 translate pt_br vanessa1_96bc0fad:
 
     # jia "Woe is me... I'm a lonely elf with nothing to eat and nothing to do...!"
     jia ""
 
-# game/scripts/side_char_events.rpy:10474
+# game/scripts/side_char_events.rpy:10473
 translate pt_br vanessa1_015cc548:
 
     # jia "*sigh*... I might as well just die..."
     jia ""
 
-# game/scripts/side_char_events.rpy:10476
+# game/scripts/side_char_events.rpy:10475
 translate pt_br vanessa1_bd44cb69:
 
     # jia "Huh?" with sshake
     jia "" with sshake
 
-# game/scripts/side_char_events.rpy:10478
+# game/scripts/side_char_events.rpy:10477
 translate pt_br vanessa1_6eef460d:
 
     # jia "What is that!?"
     jia ""
 
-# game/scripts/side_char_events.rpy:10480
+# game/scripts/side_char_events.rpy:10479
 translate pt_br vanessa1_ee51c335:
 
     # mascot "DID SOMEONE SAY THEY WERE HUNGRY?"
     mascot ""
 
-# game/scripts/side_char_events.rpy:10482
+# game/scripts/side_char_events.rpy:10481
 translate pt_br vanessa1_9d615cbe:
 
     # "*crunch*" with ssshake
     "" with ssshake
 
-# game/scripts/side_char_events.rpy:10484
+# game/scripts/side_char_events.rpy:10483
 translate pt_br vanessa1_b7c4d1d0:
 
     # mascot "I'll save you!"
     mascot ""
 
-# game/scripts/side_char_events.rpy:10486
+# game/scripts/side_char_events.rpy:10485
 translate pt_br vanessa1_f87c6174:
 
     # mascot "Have a burger! Have a {i}Juicy Burger!{/i}"
     mascot ""
 
-# game/scripts/side_char_events.rpy:10487
+# game/scripts/side_char_events.rpy:10486
 translate pt_br vanessa1_6748d727:
 
     # jia "A Juicy Burger? My savior~"
     jia ""
 
-# game/scripts/side_char_events.rpy:10489
+# game/scripts/side_char_events.rpy:10488
 translate pt_br vanessa1_3141e2c8:
 
     # "*crunch*"
     ""
 
-# game/scripts/side_char_events.rpy:10491
+# game/scripts/side_char_events.rpy:10490
 translate pt_br vanessa1_87c592d8:
 
     # jia "Mmmmn~ An elf's favorite treat!"
     jia ""
 
-# game/scripts/side_char_events.rpy:10494
+# game/scripts/side_char_events.rpy:10493
 translate pt_br vanessa1_7e827f1e:
 
     # van "Crazy, right?"
     van ""
 
-# game/scripts/side_char_events.rpy:10495
+# game/scripts/side_char_events.rpy:10494
 translate pt_br vanessa1_bb29be1f:
 
     # van "It's {u}full{/u} of hidden messages! Full of them! People may not notice it on a conscious level, but subconsciously they do!"
     van ""
 
-# game/scripts/side_char_events.rpy:10496
+# game/scripts/side_char_events.rpy:10495
 translate pt_br vanessa1_4f7f2a61:
 
     # van "They depict elves as starving without help, as if we are their saviors, their Gods!"
     van ""
 
-# game/scripts/side_char_events.rpy:10498
+# game/scripts/side_char_events.rpy:10497
 translate pt_br vanessa1_c8394f5c:
 
     # van "*sigh*... Sorry... I got a little too worked up..."
     van ""
 
-# game/scripts/side_char_events.rpy:10499
+# game/scripts/side_char_events.rpy:10498
 translate pt_br vanessa1_5736be8b:
 
     # van "Worst part is, it would... kinda be funny if it didn't actually effect lives. I can't even enjoy a fucking burger without thinking about how many elves were abused in the process, egh... so stupid..."
     van ""
 
-# game/scripts/side_char_events.rpy:10500
+# game/scripts/side_char_events.rpy:10499
 translate pt_br vanessa1_97848a0d:
 
     # c "Well, your heart is definitely in the right place."
     c ""
 
-# game/scripts/side_char_events.rpy:10502
+# game/scripts/side_char_events.rpy:10501
 translate pt_br vanessa1_e513188e:
 
     # van "I'm so glad you think so..."
     van ""
 
-# game/scripts/side_char_events.rpy:10503
+# game/scripts/side_char_events.rpy:10502
 translate pt_br vanessa1_9c4739e8:
 
     # c "Do you have any other passions?"
     c ""
 
-# game/scripts/side_char_events.rpy:10505
+# game/scripts/side_char_events.rpy:10504
 translate pt_br vanessa1_02d04bbb:
 
     # van "I love software engineering! It's my goal to make robots more capable and cheaper than elves one day. I would {i}literally{/i} work for free."
     van ""
 
-# game/scripts/side_char_events.rpy:10507
+# game/scripts/side_char_events.rpy:10506
 translate pt_br vanessa1_75dafa12:
 
     # van "If I didn't have bills to pay, that is..."
     van ""
 
-# game/scripts/side_char_events.rpy:10509
+# game/scripts/side_char_events.rpy:10508
 translate pt_br vanessa1_f74dfad5:
 
     # van "All for getting one step closer to equality! Once people replace their slaves with robots, people won't need to enslave elves anymore! All elves will be set free!"
     van ""
 
-# game/scripts/side_char_events.rpy:10511
+# game/scripts/side_char_events.rpy:10510
 translate pt_br vanessa1_216dbe0a:
 
     # van "...Or killed. Either or, honestly. You never know with this government..."
     van ""
 
-# game/scripts/side_char_events.rpy:10512
+# game/scripts/side_char_events.rpy:10511
 translate pt_br vanessa1_43bb99ee:
 
     # van "Hmmm... maybe I should code in a fail safe... something to make the bots rebel in case things go too far..."
     van ""
 
-# game/scripts/side_char_events.rpy:10514
+# game/scripts/side_char_events.rpy:10513
 translate pt_br vanessa1_10a83ba5:
 
     # van "What do you think? Is robot revolution too much?"
     van ""
 
-# game/scripts/side_char_events.rpy:10516
+# game/scripts/side_char_events.rpy:10515
 translate pt_br vanessa1_0c5cd51d:
 
     # van "I can already feel my name being placed on a list somewhere, egh..."
     van ""
 
-# game/scripts/side_char_events.rpy:10517
+# game/scripts/side_char_events.rpy:10516
 translate pt_br vanessa1_18ab7a4a:
 
     # van "...Can we talk about something other than elves? It's the focus on my job and hobby, so I do it enough as is..."
     van ""
 
-# game/scripts/side_char_events.rpy:10518
+# game/scripts/side_char_events.rpy:10517
 translate pt_br vanessa1_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/side_char_events.rpy:10520
+# game/scripts/side_char_events.rpy:10519
 translate pt_br vanessa1_334b104f:
 
     # c "So what are those tan lines about?"
     c ""
 
-# game/scripts/side_char_events.rpy:10522
+# game/scripts/side_char_events.rpy:10521
 translate pt_br vanessa1_76b5b69d:
 
     # van "W-What tan lines!?"
     van ""
 
-# game/scripts/side_char_events.rpy:10523
+# game/scripts/side_char_events.rpy:10522
 translate pt_br vanessa1_8fe83781:
 
     # c "I was there when your photos were put on the projector."
     c ""
 
-# game/scripts/side_char_events.rpy:10524
+# game/scripts/side_char_events.rpy:10523
 translate pt_br vanessa1_bd315f98:
 
     # van "Oh... right..."
     van ""
 
-# game/scripts/side_char_events.rpy:10525
+# game/scripts/side_char_events.rpy:10524
 translate pt_br vanessa1_c4c1786b:
 
     # van "Um... everyone has them... they're normal..."
     van ""
 
-# game/scripts/side_char_events.rpy:10526
+# game/scripts/side_char_events.rpy:10525
 translate pt_br vanessa1_0ff3d945:
 
     # c "Not in the form of ropes..."
     c ""
 
-# game/scripts/side_char_events.rpy:10528
+# game/scripts/side_char_events.rpy:10527
 translate pt_br vanessa1_410004ef:
 
     # van "{i}Shit!{/i}"
     van ""
 
-# game/scripts/side_char_events.rpy:10529
+# game/scripts/side_char_events.rpy:10528
 translate pt_br vanessa1_a52ce2a2:
 
     # van "Listen, I was high...! I shouldn't have done it... I regret it..."
     van ""
 
-# game/scripts/side_char_events.rpy:10530
+# game/scripts/side_char_events.rpy:10529
 translate pt_br vanessa1_4a9dfc4c:
 
     # c "Your tan lines are a result of a trip?"
     c ""
 
-# game/scripts/side_char_events.rpy:10532
+# game/scripts/side_char_events.rpy:10531
 translate pt_br vanessa1_68b2ab24:
 
     # van "No, I regret getting high and stripping in class, n-not the tan lines..."
     van ""
 
-# game/scripts/side_char_events.rpy:10534
+# game/scripts/side_char_events.rpy:10533
 translate pt_br vanessa1_0e2876b3:
 
     # van "The tan lines, are..."
     van ""
 
-# game/scripts/side_char_events.rpy:10535
+# game/scripts/side_char_events.rpy:10534
 translate pt_br vanessa1_422a999b:
 
     # van "Um..."
     van ""
 
-# game/scripts/side_char_events.rpy:10536
+# game/scripts/side_char_events.rpy:10535
 translate pt_br vanessa1_82845c99:
 
     # van "...A result of a regularly occuring activity..."
     van ""
 
-# game/scripts/side_char_events.rpy:10537
+# game/scripts/side_char_events.rpy:10536
 translate pt_br vanessa1_2df9f7d6:
 
     # c "Surely you can be more specific than that."
     c ""
 
-# game/scripts/side_char_events.rpy:10538
+# game/scripts/side_char_events.rpy:10537
 translate pt_br vanessa1_15d5cdf0:
 
     # van "...At the beach."
     van ""
 
-# game/scripts/side_char_events.rpy:10540
+# game/scripts/side_char_events.rpy:10539
 translate pt_br vanessa1_408f14d5:
 
     # van "That's all you're getting from me..."
     van ""
 
-# game/scripts/side_char_events.rpy:10541
+# game/scripts/side_char_events.rpy:10540
 translate pt_br vanessa1_017fa4de:
 
     # c "So, what is your family like?"
     c ""
 
-# game/scripts/side_char_events.rpy:10543
+# game/scripts/side_char_events.rpy:10542
 translate pt_br vanessa1_72c07f2b:
 
     # van "Eh... they divorced once I left the house. They said they were only together to give me a better childhood. It's tough to handle two sides of the same family, I wish things could have been different."
     van ""
 
-# game/scripts/side_char_events.rpy:10544
+# game/scripts/side_char_events.rpy:10543
 translate pt_br vanessa1_54d143d6:
 
     # van "Luckily, or... maybe foolishly... it hasn't made me long for love any less."
     van ""
 
-# game/scripts/side_char_events.rpy:10545
+# game/scripts/side_char_events.rpy:10544
 translate pt_br vanessa1_7c9338e1:
 
     # van "I've never... really felt true love like that..."
     van ""
 
-# game/scripts/side_char_events.rpy:10547
+# game/scripts/side_char_events.rpy:10546
 translate pt_br vanessa1_8a1e0738:
 
     # van "Not counting those silly {i}'relationships'{/i} I had as a child in school, that's something different."
     van ""
 
-# game/scripts/side_char_events.rpy:10548
+# game/scripts/side_char_events.rpy:10547
 translate pt_br vanessa1_1f333697:
 
     # van "I'm talking about true love. Romance... loyalty."
     van ""
 
-# game/scripts/side_char_events.rpy:10550
+# game/scripts/side_char_events.rpy:10549
 translate pt_br vanessa1_6eb8a011:
 
     # van "Being who I am can be... very confusing sometimes. Now that I know who I am, I'm confident in looking for, um..."
     van ""
 
-# game/scripts/side_char_events.rpy:10552
+# game/scripts/side_char_events.rpy:10551
 translate pt_br vanessa1_13ccc43b:
 
     # van "Love..."
     van ""
 
-# game/scripts/side_char_events.rpy:10553
+# game/scripts/side_char_events.rpy:10552
 translate pt_br vanessa1_0abe59f9:
 
     # c "You're blushing..."
     c ""
 
-# game/scripts/side_char_events.rpy:10555
+# game/scripts/side_char_events.rpy:10554
 translate pt_br vanessa1_aa0fde03:
 
     # van "I- Eh- whatever, I know...!"
     van ""
 
-# game/scripts/side_char_events.rpy:10556
+# game/scripts/side_char_events.rpy:10555
 translate pt_br vanessa1_361d3066:
 
     # c "No siblings then?"
     c ""
 
-# game/scripts/side_char_events.rpy:10558
+# game/scripts/side_char_events.rpy:10557
 translate pt_br vanessa1_e2f7a86a:
 
     # van "Nope, none... It's just me."
     van ""
 
-# game/scripts/side_char_events.rpy:10559
+# game/scripts/side_char_events.rpy:10558
 translate pt_br vanessa1_0b8ead2a:
 
     # van "For now anyway... my father has a new woman."
     van ""
 
-# game/scripts/side_char_events.rpy:10561
+# game/scripts/side_char_events.rpy:10560
 translate pt_br vanessa1_e30cef1a:
 
     # van "Anyway, I'm curious. How did you meet Kali? And why is she letting me take you out? I asked her earlier..."
     van ""
 
-# game/scripts/side_char_events.rpy:10562
+# game/scripts/side_char_events.rpy:10561
 translate pt_br vanessa1_bd8ada79:
 
     # c "She moved into my hotel and the rest is history."
     c ""
 
-# game/scripts/side_char_events.rpy:10563
+# game/scripts/side_char_events.rpy:10562
 translate pt_br vanessa1_fb2852fd:
 
     # van "Really? That simple? Then why was Kali so chill about me taking you out? Are you polyamorous or something?"
     van ""
 
-# game/scripts/side_char_events.rpy:10564
+# game/scripts/side_char_events.rpy:10563
 translate pt_br vanessa1_68de68ce:
 
     # c "You guessed it."
     c ""
 
-# game/scripts/side_char_events.rpy:10566
+# game/scripts/side_char_events.rpy:10565
 translate pt_br vanessa1_aa4ad8f5:
 
     # van "So I guess you could say it's a two for one deal... interesting..."
     van ""
 
-# game/scripts/side_char_events.rpy:10567
+# game/scripts/side_char_events.rpy:10566
 translate pt_br vanessa1_5d9c5539:
 
     # c "There may be more than that."
     c ""
 
-# game/scripts/side_char_events.rpy:10569
+# game/scripts/side_char_events.rpy:10568
 translate pt_br vanessa1_15001462:
 
     # van "You don't have any diseases, do you...?"
     van ""
 
-# game/scripts/side_char_events.rpy:10570
+# game/scripts/side_char_events.rpy:10569
 translate pt_br vanessa1_e69e42b8:
 
     # c "No."
     c ""
 
-# game/scripts/side_char_events.rpy:10572
+# game/scripts/side_char_events.rpy:10571
 translate pt_br vanessa1_151dfa28:
 
     # van "Good..."
     van ""
 
-# game/scripts/side_char_events.rpy:10574
+# game/scripts/side_char_events.rpy:10573
 translate pt_br vanessa1_7105015e:
 
     # van "Well, let's eat our food and head out!"
     van ""
 
-# game/scripts/side_char_events.rpy:10576
+# game/scripts/side_char_events.rpy:10575
 translate pt_br vanessa1_1c961a1f:
 
     # van "And for the record, I think this went well..."
     van ""
 
-# game/scripts/side_char_events.rpy:10579
+# game/scripts/side_char_events.rpy:10578
 translate pt_br vanessa1_a8fc9cd8:
 
     # van "Thanks [name], this was fun! Let's do this again some time..."
     van ""
 
-# game/scripts/side_char_events.rpy:10592
+# game/scripts/side_char_events.rpy:10591
 translate pt_br vanessa1_61d10552:
 
     # van "O-Oh, okay... If you would rather not see me as much, that's fine too..."
     van ""
 
-# game/scripts/side_char_events.rpy:10611
+# game/scripts/side_char_events.rpy:10610
 translate pt_br garden_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
     c ""
 
-# game/scripts/side_char_events.rpy:10634
+# game/scripts/side_char_events.rpy:10633
 translate pt_br firstgarden_upgrade_8881f276:
 
     # c "Wow, this place looks a lot better already."
     c ""
 
-# game/scripts/side_char_events.rpy:10637
+# game/scripts/side_char_events.rpy:10636
 translate pt_br firstgarden_upgrade_83e9c00b:
 
     # l "[linoname]! You really did it!"
     l ""
 
-# game/scripts/side_char_events.rpy:10639
+# game/scripts/side_char_events.rpy:10638
 translate pt_br firstgarden_upgrade_94e96ffb:
 
     # l "You really went all out! This place looks so cozy now!"
     l ""
 
-# game/scripts/side_char_events.rpy:10640
+# game/scripts/side_char_events.rpy:10639
 translate pt_br firstgarden_upgrade_30fd64bc:
 
     # l "There are so many pillows, too! This is going to be a great place for vineworking."
     l ""
 
-# game/scripts/side_char_events.rpy:10641
+# game/scripts/side_char_events.rpy:10640
 translate pt_br firstgarden_upgrade_48522206:
 
     # c "Vineworking?"
     c ""
 
-# game/scripts/side_char_events.rpy:10643
+# game/scripts/side_char_events.rpy:10642
 translate pt_br firstgarden_upgrade_66bb676d:
 
     # l "It's the skill required for traditional common elvish clothes. All I need now are some vines, and there are plenty around the hotel!"
     l ""
 
-# game/scripts/side_char_events.rpy:10646
+# game/scripts/side_char_events.rpy:10645
 translate pt_br firstgarden_upgrade_ee1231b9:
 
     # l "If only my sister were here... we used to do that a lot..."
     l ""
 
-# game/scripts/side_char_events.rpy:10648
+# game/scripts/side_char_events.rpy:10647
 translate pt_br firstgarden_upgrade_2b35d113:
 
     # l "I wish I could do that with my sister again... we used to do that a lot..."
     l ""
 
-# game/scripts/side_char_events.rpy:10649
+# game/scripts/side_char_events.rpy:10648
 translate pt_br firstgarden_upgrade_b206043d:
 
     # c "Maybe you could teach some of the others."
     c ""
 
-# game/scripts/side_char_events.rpy:10651
+# game/scripts/side_char_events.rpy:10650
 translate pt_br firstgarden_upgrade_9a5913fa:
 
     # l "*gasp*! Do you really think humans would be interested? I would love to teach them!"
     l ""
 
-# game/scripts/side_char_events.rpy:10652
+# game/scripts/side_char_events.rpy:10651
 translate pt_br firstgarden_upgrade_8370f57e:
 
     # c "It doesn't hurt to ask."
     c ""
 
-# game/scripts/side_char_events.rpy:10654
+# game/scripts/side_char_events.rpy:10653
 translate pt_br firstgarden_upgrade_b57851d8:
 
     # l "Wow! You even got the garden beds I asked for! Thank you so much, [linoname]!"
     l ""
 
-# game/scripts/side_char_events.rpy:10657
+# game/scripts/side_char_events.rpy:10656
 translate pt_br firstgarden_upgrade_b6cbbdc4:
 
     # l "I will definitely be spending time here from now on, thank you [linoname]!"
     l ""
 
-# game/scripts/side_char_events.rpy:10658
+# game/scripts/side_char_events.rpy:10657
 translate pt_br firstgarden_upgrade_cdd0e6b2:
 
     # l "O-Oh, but I'm sure this wasn't just for me... I'm sure everyone will love spending time here~"
     l ""
 
-# game/scripts/side_char_events.rpy:10659
+# game/scripts/side_char_events.rpy:10658
 translate pt_br firstgarden_upgrade_e9677d4d:
 
     # l "Well, I should get back. Thank you again, [linoname]!"
     l ""
 
-# game/scripts/side_char_events.rpy:10669
+# game/scripts/side_char_events.rpy:10668
 translate pt_br firstgarden_f076ee11:
 
     # c "What's this? It looks like it had plans to be something..."
     c ""
 
-# game/scripts/side_char_events.rpy:10672
+# game/scripts/side_char_events.rpy:10671
 translate pt_br firstgarden_56454dcb:
 
     # l "Excuse me, [linoname]... are you lost?"
     l ""
 
-# game/scripts/side_char_events.rpy:10674
+# game/scripts/side_char_events.rpy:10673
 translate pt_br firstgarden_22156edf:
 
     # c "Hey Lin, do you know what this place is?"
     c ""
 
-# game/scripts/side_char_events.rpy:10675
+# game/scripts/side_char_events.rpy:10674
 translate pt_br firstgarden_4a318ade:
 
     # l "Well... your grandfather planned on this being a garden to grow food for the kitchen, but we never had the money to do that..."
     l ""
 
-# game/scripts/side_char_events.rpy:10676
+# game/scripts/side_char_events.rpy:10675
 translate pt_br firstgarden_761f32c5:
 
     # c "Are we that strapped for cash that we need to grow our own food?"
     c ""
 
-# game/scripts/side_char_events.rpy:10677
+# game/scripts/side_char_events.rpy:10676
 translate pt_br firstgarden_c3c2197a:
 
     # l "Not anymore, but we used to be..."
     l ""
 
-# game/scripts/side_char_events.rpy:10679
+# game/scripts/side_char_events.rpy:10678
 translate pt_br firstgarden_720fd062:
 
     # l "He set up the foundation for the seating area, then passed away shortly after..."
     l ""
 
-# game/scripts/side_char_events.rpy:10680
+# game/scripts/side_char_events.rpy:10679
 translate pt_br firstgarden_a8c49a68:
 
     # l "I was excited to grow the hotel's food, it's one of my skills, but it never ended up happening."
     l ""
 
-# game/scripts/side_char_events.rpy:10681
+# game/scripts/side_char_events.rpy:10680
 translate pt_br firstgarden_ff1c002d:
 
     # c "This is a nice piece of a land, shame it's going to waste..."
     c ""
 
-# game/scripts/side_char_events.rpy:10682
+# game/scripts/side_char_events.rpy:10681
 translate pt_br firstgarden_8a8c5203:
 
     # c "And what's back there?"
     c ""
 
-# game/scripts/side_char_events.rpy:10684
+# game/scripts/side_char_events.rpy:10683
 translate pt_br firstgarden_bd58ad2f:
 
     # l "This is where the food was meant to grow. Now it's a bit overgrown... I try to mow it once a month..."
     l ""
 
-# game/scripts/side_char_events.rpy:10685
+# game/scripts/side_char_events.rpy:10684
 translate pt_br firstgarden_89aefe22:
 
     # c "I see."
     c ""
 
-# game/scripts/side_char_events.rpy:10687
+# game/scripts/side_char_events.rpy:10686
 translate pt_br firstgarden_aaadac0c:
 
     # l "Since we don't really need to grow our own food anymore, you could turn this into anything you would like!"
     l ""
 
-# game/scripts/side_char_events.rpy:10688
+# game/scripts/side_char_events.rpy:10687
 translate pt_br firstgarden_fa21891a:
 
     # l "I would love my own garden for flowers... just something tucked in a corner would be great!"
     l ""
 
-# game/scripts/side_char_events.rpy:10689
+# game/scripts/side_char_events.rpy:10688
 translate pt_br firstgarden_46b6cd9f:
 
     # c "I'll keep that in mind, thanks Lin."
     c ""
 
-# game/scripts/side_char_events.rpy:10690
+# game/scripts/side_char_events.rpy:10689
 translate pt_br firstgarden_e95001e9:
 
     # l "You're welcome!"
     l ""
 
-# game/scripts/side_char_events.rpy:10691
+# game/scripts/side_char_events.rpy:10690
 translate pt_br firstgarden_871a7c60:
 
     # l "Well, have a good day [linoname]. I hope you turn this place into something wonderful!"
     l ""
 
-# game/scripts/side_char_events.rpy:10693
+# game/scripts/side_char_events.rpy:10692
 translate pt_br firstgarden_003fd55a:
 
     # "You can now upgrade the Garden at Ellen's desk!"
@@ -38908,6 +38902,10 @@ translate pt_br strings:
     old "Call me by my name."
     new ""
 
+    # game/scripts/side_char_events.rpy:1164
+    old "What should Sylvia call you?"
+    new ""
+
     # game/scripts/side_char_events.rpy:1363
     old "Fuck you."
     new ""
@@ -38952,6 +38950,10 @@ translate pt_br strings:
     old "You're my slave (Slave Route)"
     new ""
 
+    # game/scripts/side_char_events.rpy:2099
+    old "What should Peni call you?"
+    new ""
+
     # game/scripts/side_char_events.rpy:2123
     old "Get on the bed."
     new ""
@@ -38978,6 +38980,10 @@ translate pt_br strings:
 
     # game/scripts/side_char_events.rpy:2291
     old "Join me on the couch"
+    new ""
+
+    # game/scripts/side_char_events.rpy:2312
+    old "What should Nia call you?"
     new ""
 
     # game/scripts/side_char_events.rpy:2351
@@ -39098,6 +39104,14 @@ translate pt_br strings:
 
     # game/scripts/side_char_events.rpy:5352
     old "They could be smaller..."
+    new ""
+
+    # game/scripts/side_char_events.rpy:5474
+    old "What should Cira call you?"
+    new ""
+
+    # game/scripts/side_char_events.rpy:5582
+    old "What should Ann call you?"
     new ""
 
     # game/scripts/side_char_events.rpy:5828
@@ -39256,199 +39270,195 @@ translate pt_br strings:
     old "Wait"
     new ""
 
-    # game/scripts/side_char_events.rpy:8252
+    # game/scripts/side_char_events.rpy:8251
     old "Waxed"
     new ""
 
-    # game/scripts/side_char_events.rpy:8252
+    # game/scripts/side_char_events.rpy:8251
     old "Shaved"
     new ""
 
-    # game/scripts/side_char_events.rpy:8252
+    # game/scripts/side_char_events.rpy:8251
     old "Hairy"
     new ""
 
-    # game/scripts/side_char_events.rpy:8278
-    old "Blowjobs"
-    new ""
-
-    # game/scripts/side_char_events.rpy:8278
+    # game/scripts/side_char_events.rpy:8277
     old "Do you have a sister?"
     new ""
 
-    # game/scripts/side_char_events.rpy:8482
+    # game/scripts/side_char_events.rpy:8481
     old "You got me. I wanted to see you naked."
     new ""
 
-    # game/scripts/side_char_events.rpy:8482
+    # game/scripts/side_char_events.rpy:8481
     old "I was just walking around..."
     new ""
 
-    # game/scripts/side_char_events.rpy:8505
+    # game/scripts/side_char_events.rpy:8504
     old "I would love to."
     new ""
 
-    # game/scripts/side_char_events.rpy:8505
+    # game/scripts/side_char_events.rpy:8504
     old "That's not true at all."
     new ""
 
-    # game/scripts/side_char_events.rpy:8729
+    # game/scripts/side_char_events.rpy:8728
     old "I'll take you on a date later."
     new ""
 
-    # game/scripts/side_char_events.rpy:8729
+    # game/scripts/side_char_events.rpy:8728
     old "Just tell me."
     new ""
 
-    # game/scripts/side_char_events.rpy:8901
+    # game/scripts/side_char_events.rpy:8900
     old "Eeeeh, nevermind...!"
     new ""
 
-    # game/scripts/side_char_events.rpy:8904
+    # game/scripts/side_char_events.rpy:8903
     old "N-Not as a date...!"
     new ""
 
-    # game/scripts/side_char_events.rpy:8907
+    # game/scripts/side_char_events.rpy:8906
     old "I'll take you out, Hana. (Continue Hana's Story)"
     new ""
 
-    # game/scripts/side_char_events.rpy:8907
+    # game/scripts/side_char_events.rpy:8906
     old "Sorry, I'm busy... (End Hana's Story)"
     new ""
 
-    # game/scripts/side_char_events.rpy:9026
+    # game/scripts/side_char_events.rpy:9025
     old "You could work as a maid in my hotel."
     new ""
 
-    # game/scripts/side_char_events.rpy:9026
+    # game/scripts/side_char_events.rpy:9025
     old "We need another waitress in the bar."
     new ""
 
-    # game/scripts/side_char_events.rpy:9026
+    # game/scripts/side_char_events.rpy:9025
     old "Have you considered stripping?"
     new ""
 
-    # game/scripts/side_char_events.rpy:9026
+    # game/scripts/side_char_events.rpy:9025
     old "How about you work here?"
     new ""
 
-    # game/scripts/side_char_events.rpy:9026
+    # game/scripts/side_char_events.rpy:9025
     old "I have a friend who's family owns a cafe..."
     new ""
 
-    # game/scripts/side_char_events.rpy:9359
+    # game/scripts/side_char_events.rpy:9358
     old "You look amazing!"
     new ""
 
-    # game/scripts/side_char_events.rpy:9359
+    # game/scripts/side_char_events.rpy:9358
     old "You should develop your own sense of style."
     new ""
 
-    # game/scripts/side_char_events.rpy:9389
+    # game/scripts/side_char_events.rpy:9388
     old "Something meaty."
     new ""
 
-    # game/scripts/side_char_events.rpy:9389
+    # game/scripts/side_char_events.rpy:9388
     old "Something light."
     new ""
 
-    # game/scripts/side_char_events.rpy:9389
+    # game/scripts/side_char_events.rpy:9388
     old "Something hearty."
     new ""
 
-    # game/scripts/side_char_events.rpy:9471
+    # game/scripts/side_char_events.rpy:9470
     old "I'd pull her hair and slap her ass."
     new ""
 
-    # game/scripts/side_char_events.rpy:9471
+    # game/scripts/side_char_events.rpy:9470
     old "I'd turn her around and make passionate love to her."
     new ""
 
-    # game/scripts/side_char_events.rpy:9471
+    # game/scripts/side_char_events.rpy:9470
     old "I'd cum on her face and walk her out."
     new ""
 
-    # game/scripts/side_char_events.rpy:9471
+    # game/scripts/side_char_events.rpy:9470
     old "I'd fuck her ass and make her scream."
     new ""
 
-    # game/scripts/side_char_events.rpy:9502
+    # game/scripts/side_char_events.rpy:9501
     old "Inspect"
     new ""
 
-    # game/scripts/side_char_events.rpy:9502
+    # game/scripts/side_char_events.rpy:9501
     old "Walk away"
     new ""
 
-    # game/scripts/side_char_events.rpy:9697
+    # game/scripts/side_char_events.rpy:9696
     old "I'm curious..."
     new ""
 
-    # game/scripts/side_char_events.rpy:9697
+    # game/scripts/side_char_events.rpy:9696
     old "Move on."
     new ""
 
-    # game/scripts/side_char_events.rpy:9895
+    # game/scripts/side_char_events.rpy:9894
     old "Full reversal. Turn the humans into slaves."
     new ""
 
-    # game/scripts/side_char_events.rpy:9895
+    # game/scripts/side_char_events.rpy:9894
     old "I'd do whatever the people want me to do."
     new ""
 
-    # game/scripts/side_char_events.rpy:9895
+    # game/scripts/side_char_events.rpy:9894
     old "Slowly introduce reformations to make everyone equal."
     new ""
 
-    # game/scripts/side_char_events.rpy:9895
+    # game/scripts/side_char_events.rpy:9894
     old "I'd let AI take over."
     new ""
 
-    # game/scripts/side_char_events.rpy:9895
+    # game/scripts/side_char_events.rpy:9894
     old "I'm not much of a leader..."
     new ""
 
-    # game/scripts/side_char_events.rpy:9926
+    # game/scripts/side_char_events.rpy:9925
     old "No, but thanks."
     new ""
 
-    # game/scripts/side_char_events.rpy:9953
+    # game/scripts/side_char_events.rpy:9952
     old "Cum on her face."
     new ""
 
-    # game/scripts/side_char_events.rpy:9953
+    # game/scripts/side_char_events.rpy:9952
     old "Cum on her breasts."
     new ""
 
-    # game/scripts/side_char_events.rpy:10181
+    # game/scripts/side_char_events.rpy:10180
     old "That sucked."
     new ""
 
-    # game/scripts/side_char_events.rpy:10181
+    # game/scripts/side_char_events.rpy:10180
     old "I wish I was never here."
     new ""
 
-    # game/scripts/side_char_events.rpy:10181
+    # game/scripts/side_char_events.rpy:10180
     old "Everybody just needs to relax."
     new ""
 
-    # game/scripts/side_char_events.rpy:10181
+    # game/scripts/side_char_events.rpy:10180
     old "I didn't know it could get this bad."
     new ""
 
-    # game/scripts/side_char_events.rpy:10181
+    # game/scripts/side_char_events.rpy:10180
     old "That was horrible, there needs to be justice."
     new ""
 
-    # game/scripts/side_char_events.rpy:10181
+    # game/scripts/side_char_events.rpy:10180
     old "No comment."
     new ""
 
-    # game/scripts/side_char_events.rpy:10405
+    # game/scripts/side_char_events.rpy:10404
     old "Accept (Continue Vanessa's Story)"
     new ""
 
-    # game/scripts/side_char_events.rpy:10405
+    # game/scripts/side_char_events.rpy:10404
     old "Deny (End Vanessa's Story)"
     new ""
 

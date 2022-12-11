@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-02 02:04
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/computer.rpy:125
 translate pt_br computer_7703385a:

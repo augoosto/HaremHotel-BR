@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-10 02:07
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/input_code.rpy:28
 translate pt_br code_65b679a4:
@@ -114,98 +114,84 @@ translate pt_br code_6a86d783:
     # warning "This code is meant to be used at the very beginning of the game to jump straight to the beginning of the latest update. This code must only be used when all of the girls' stats are 0. You may miss content otherwise."
     warning "Este código deve ser usado no início do jogo para pular direto para o início da atualização mais recente. Este código só deve ser usado quando todas as estatísticas das garotas forem 0. Caso contrário, você pode perder conteúdo."
 
-# game/scripts/input_code.rpy:148
-translate pt_br code_e2d3d576:
+translate pt_br code_0080070a:
 
     # warning "Are you sure?"
     warning "Você tem certeza?"
 
-# game/scripts/input_code.rpy:263
 translate pt_br code_65b679a4_4:
 
     # "Code accepted!"
     "Código aceito!"
-
-# game/scripts/input_code.rpy:269
-translate pt_br code_0493528d:
+    
+translate pt_br code_6a86d783:
 
     # "This code will max out all of Autumn's stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de Autumn a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:282
-translate pt_br code_eddd7714:
+translate pt_br code_e2d3d576:
 
     # "This code will max out all of Felicity & Emma's stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de Felicity e Emma a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:301
 translate pt_br code_65b679a4_5:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:306
-translate pt_br code_e90c2d4e:
+translate pt_br code_0080070a_1:
 
     # "This code will max out all of [botname]'s stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de [botname] a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:320
 translate pt_br code_65b679a4_6:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:325
-translate pt_br code_e854b4c8:
+translate pt_br code_0493528d:
 
     # "This code will max out all of Maria's stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de Maria a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:340
 translate pt_br code_65b679a4_7:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:345
-translate pt_br code_567e6a97:
+translate pt_br code_0080070a_2:
+
 
     # "This code will max out all of Ashley's stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de Ashley a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:361
 translate pt_br code_65b679a4_8:
 
     # "Code accepted!"
     "Código aceito!"
-
-# game/scripts/input_code.rpy:366
-translate pt_br code_327b8564:
+    
+translate pt_br code_eddd7714:
 
     # "This code will max out all of Kali's stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de Kali a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:391
 translate pt_br code_65b679a4_9:
 
     # "Code accepted!"
     "Código aceito!"
-
-# game/scripts/input_code.rpy:396
-translate pt_br code_b6ac7b63:
+    
+translate pt_br code_0080070a_3:
 
     # "This code will max out all of Lin's stats as of the current update. This will skip all story. Are you sure?"
     "Este código maximizará todas as estatísticas de Lin a partir da atualização atual. Isso pulará toda a história. Tem certeza?"
 
-# game/scripts/input_code.rpy:410
 translate pt_br code_65b679a4_10:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:484
-translate pt_br code_baead254_2:
+# game/scripts/input_code.rpy:497
+translate pt_br code_e90c2d4e:
 
     # "Code Accepted!"
     "Código aceito!"
@@ -318,79 +304,79 @@ translate pt_br code_0080070a_3:
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning "Este código tem um pequeno potencial para quebrar as coisas, é recomendável que você salve em um slot de salvamento não utilizado antes de usar este código. Você gostaria de continuar?"
 
-# game/scripts/input_code.rpy:507
+# game/scripts/input_code.rpy:511
 translate pt_br code_65b679a4_11:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:512
+# game/scripts/input_code.rpy:516
 translate pt_br code_0080070a_4:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning "Este código tem um pequeno potencial para quebrar as coisas, é recomendável que você salve em um slot de salvamento não utilizado antes de usar este código. Você gostaria de continuar?"
 
-# game/scripts/input_code.rpy:527
+# game/scripts/input_code.rpy:531
 translate pt_br code_65b679a4_12:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:547
+# game/scripts/input_code.rpy:551
 translate pt_br code_65b679a4_13:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:552
+# game/scripts/input_code.rpy:556
 translate pt_br code_0080070a_5:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning "Este código tem um pequeno potencial para quebrar as coisas, é recomendável que você salve em um slot de salvamento não utilizado antes de usar este código. Você gostaria de continuar?"
 
-# game/scripts/input_code.rpy:568
+# game/scripts/input_code.rpy:572
 translate pt_br code_65b679a4_14:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:589
+# game/scripts/input_code.rpy:593
 translate pt_br code_65b679a4_15:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:595
+# game/scripts/input_code.rpy:599
 translate pt_br code_0080070a_6:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning "Este código tem um pequeno potencial para quebrar as coisas, é recomendável que você salve em um slot de salvamento não utilizado antes de usar este código. Você gostaria de continuar?"
 
-# game/scripts/input_code.rpy:618
+# game/scripts/input_code.rpy:622
 translate pt_br code_65b679a4_16:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:649
+# game/scripts/input_code.rpy:653
 translate pt_br code_65b679a4_17:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:655
+# game/scripts/input_code.rpy:659
 translate pt_br code_0080070a_7:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning "Este código tem um pequeno potencial para quebrar as coisas, é recomendável que você salve em um slot de salvamento não utilizado antes de usar este código. Você gostaria de continuar?"
 
-# game/scripts/input_code.rpy:669
+# game/scripts/input_code.rpy:673
 translate pt_br code_65b679a4_18:
 
     # "Code accepted!"
     "Código aceito!"
 
-# game/scripts/input_code.rpy:689
+# game/scripts/input_code.rpy:693
 translate pt_br code_65b679a4_19:
 
     # "Code accepted!"

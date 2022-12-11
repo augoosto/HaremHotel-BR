@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-10 02:07
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/store_other.rpy:60
 translate pt_br buy_other_9ccbe5e3:

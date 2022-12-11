@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/clone_events.rpy:4
 translate pt_br twin_flex_8853e7b5:
@@ -48100,6 +48100,10 @@ translate pt_br strings:
 
     # game/scripts/clone_events.rpy:4907
     old "Sexy Gothic"
+    new ""
+
+    # game/scripts/clone_events.rpy:5653
+    old "Call me..."
     new ""
 
     # game/scripts/clone_events.rpy:5698

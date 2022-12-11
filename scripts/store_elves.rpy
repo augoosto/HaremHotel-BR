@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-02 02:04
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/store_elves.rpy:251
 translate pt_br buy_elf_544c84dc:

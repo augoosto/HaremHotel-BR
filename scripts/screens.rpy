@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 translate pt_br strings:
 
@@ -205,7 +205,7 @@ translate pt_br strings:
     # game/scripts/screens.rpy:3294
     old "Visit Website"
     new "Visite o Website"
-
+    
     # game/scripts/screens.rpy:3426
     old "Kitchen"
     new "Cozinha"

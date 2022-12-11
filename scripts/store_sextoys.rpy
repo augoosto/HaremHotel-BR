@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-02 02:04
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/store_sextoys.rpy:232
 translate pt_br buy_sextoy_99f1fc01:

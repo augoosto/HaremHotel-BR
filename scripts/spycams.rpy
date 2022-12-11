@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-02 02:04
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/spycams.rpy:51
 translate pt_br spycam_lin_b8ae350d:
