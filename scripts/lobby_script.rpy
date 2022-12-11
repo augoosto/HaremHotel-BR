@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/lobby_script.rpy:10
 translate pt_br lobby3_6a71bfc8:

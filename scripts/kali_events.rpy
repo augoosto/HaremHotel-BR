@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/kali_events.rpy:10
 translate pt_br kali_suburb_80f777d9:
@@ -14719,9 +14719,9 @@ translate pt_br kali_botwork_dddba51f:
     van ""
 
 # game/scripts/kali_events.rpy:3980
-translate pt_br kali_botwork_c6d3f58d:
+translate pt_br kali_botwork_073eebed:
 
-    # l "Well, thank you for being on our side, Vannessa. I can probably count how many times I've met people like you on one hand..."
+    # l "Well, thank you for being on our side, Vanessa. I can probably count how many times I've met people like you on one hand..."
     l ""
 
 # game/scripts/kali_events.rpy:3981
@@ -17623,9 +17623,9 @@ translate pt_br kali_unihistory_8b59800e:
     k ""
 
 # game/scripts/kali_events.rpy:4713
-translate pt_br kali_unihistory_419930a1:
+translate pt_br kali_unihistory_4a831469:
 
-    # nala "They've never built a civilization, they in live small familial groups."
+    # nala "They've never built a civilization, they live in small familial groups."
     nala ""
 
 # game/scripts/kali_events.rpy:4714
@@ -23413,21912 +23413,21900 @@ translate pt_br k_fancyq_fbe045d8:
     lily ""
 
 # game/scripts/kali_events.rpy:6332
-translate pt_br k_fancyq_ad482ab7:
+translate pt_br k_fancyq_50301078:
 
-    # lily "Hello, who might you be?"
+    # lily "Oh, hello. I didn't see you there."
     lily ""
-
-# game/scripts/kali_events.rpy:6333
-translate pt_br k_fancyq_9bb28e77:
-
-    # c "I'm [name]. Nice to meet you."
-    c ""
 
 # game/scripts/kali_events.rpy:6334
-translate pt_br k_fancyq_32b8889d:
-
-    # lily "The pleasure is mine, Mr. [name]."
-    lily ""
-
-# game/scripts/kali_events.rpy:6336
 translate pt_br k_fancyq_d19b7462:
 
     # lily "I don't believe we've had the pleasure of meeting, Ms. Kali."
     lily ""
 
-# game/scripts/kali_events.rpy:6337
+# game/scripts/kali_events.rpy:6335
 translate pt_br k_fancyq_654bf252:
 
     # k "...You're a saint? What did you do?"
     k ""
 
-# game/scripts/kali_events.rpy:6338
+# game/scripts/kali_events.rpy:6336
 translate pt_br k_fancyq_a66c5cb6:
 
     # lily "These days, saint is used as more of an honorary title, but that's not to say I'm void of faith. I received my sainthood for the research I've developed for the church."
     lily ""
 
-# game/scripts/kali_events.rpy:6339
+# game/scripts/kali_events.rpy:6337
 translate pt_br k_fancyq_b4abf3c3:
 
     # k "What research is that? Carving up elves and selling their organs?"
     k ""
 
-# game/scripts/kali_events.rpy:6341
+# game/scripts/kali_events.rpy:6339
 translate pt_br k_fancyq_4dcf2e5c:
 
     # lily "Lord, no! What gave you that idea?"
     lily ""
 
-# game/scripts/kali_events.rpy:6342
+# game/scripts/kali_events.rpy:6340
 translate pt_br k_fancyq_2083a44d:
 
     # k "The monstrosity you created... Oh, and you're religious so I'm sure you love using elves in any way you can."
     k ""
 
-# game/scripts/kali_events.rpy:6343
+# game/scripts/kali_events.rpy:6341
 translate pt_br k_fancyq_9e825895:
 
     # lily "Kali, our interests are to protect life, I have no interest in hurting elves."
     lily ""
 
-# game/scripts/kali_events.rpy:6344
+# game/scripts/kali_events.rpy:6342
 translate pt_br k_fancyq_9c7dfa88:
 
     # lily "This whole project - which is being spear-headed by your father and Mrs. Mariella - is being funded to {i}save{/i} elves, not hurt them."
     lily ""
 
-# game/scripts/kali_events.rpy:6345
+# game/scripts/kali_events.rpy:6343
 translate pt_br k_fancyq_813668cc:
 
     # k "You're going to need to explain it a bit more because it looks to me like you're harvesting elves for cheap androids."
     k ""
 
-# game/scripts/kali_events.rpy:6347
+# game/scripts/kali_events.rpy:6345
 translate pt_br k_fancyq_b0027f97:
 
     # lily "That isn't the case at all! We only harvest blood and we do it as humanely as possible - during the night as they sleep."
     lily ""
 
-# game/scripts/kali_events.rpy:6348
+# game/scripts/kali_events.rpy:6346
 translate pt_br k_fancyq_4cbaef80:
 
     # k "Only blood? Wait, then what was that guy talking about with brains?"
     k ""
 
-# game/scripts/kali_events.rpy:6349
+# game/scripts/kali_events.rpy:6347
 translate pt_br k_fancyq_8ac05391:
 
     # lily "Oh haha! Not elf brains, he was talking about sentience. Our neuroscience research has shown that organic brains are not compatible with contemporary machinery."
     lily ""
 
-# game/scripts/kali_events.rpy:6350
+# game/scripts/kali_events.rpy:6348
 translate pt_br k_fancyq_a03ad550:
 
     # k "So it's only blood?"
     k ""
 
-# game/scripts/kali_events.rpy:6351
+# game/scripts/kali_events.rpy:6349
 translate pt_br k_fancyq_e2f6fe78:
 
     # lily "Blood and various other minor proteins and such required for an organism to function. They don't feel any pain at all."
     lily ""
 
-# game/scripts/kali_events.rpy:6352
+# game/scripts/kali_events.rpy:6350
 translate pt_br k_fancyq_faa8544e:
 
     # c "Why do you need elf blood?"
     c ""
 
-# game/scripts/kali_events.rpy:6354
+# game/scripts/kali_events.rpy:6352
 translate pt_br k_fancyq_1f69cef2:
 
     # lily "Blood is... very good at what we need it to do. It's more cost efficient than electricity for what we need, of course that means designing hardware that runs with blood over electricity, but for something that is meant more for the poorer side of society, the positives outweigh the negatives."
     lily ""
 
-# game/scripts/kali_events.rpy:6355
+# game/scripts/kali_events.rpy:6353
 translate pt_br k_fancyq_b1e17631:
 
     # c "But why {i}elf{/i} blood?"
     c ""
 
-# game/scripts/kali_events.rpy:6356
+# game/scripts/kali_events.rpy:6354
 translate pt_br k_fancyq_0a168d7c:
 
     # lily "All blood is different, humans and elves especially stand out, but if you're asking why we would use elf blood over human blood, it's because elves have no soul."
     lily ""
 
-# game/scripts/kali_events.rpy:6357
+# game/scripts/kali_events.rpy:6355
 translate pt_br k_fancyq_4f914cc7:
 
     # "Kali audibly rolls her eyes."
     ""
 
-# game/scripts/kali_events.rpy:6358
+# game/scripts/kali_events.rpy:6356
 translate pt_br k_fancyq_41161ee1:
 
     # k "Sounds like some demonic shit to me..."
     k ""
 
-# game/scripts/kali_events.rpy:6360
+# game/scripts/kali_events.rpy:6358
 translate pt_br k_fancyq_9ea0fdad:
 
     # lily "Blood is the essence of life, there is nothing demonic about that, Ms. Kali."
     lily ""
 
-# game/scripts/kali_events.rpy:6361
+# game/scripts/kali_events.rpy:6359
 translate pt_br k_fancyq_d2116f88:
 
     # c "What are the positives and negatives to this?"
     c ""
 
-# game/scripts/kali_events.rpy:6363
+# game/scripts/kali_events.rpy:6361
 translate pt_br k_fancyq_131c3962:
 
     # lily "For believers in Gaius, this means we can finally own an android. Current androids have always resembled humans, so it's been looked down upon to use them for personal gain."
     lily ""
 
-# game/scripts/kali_events.rpy:6365
+# game/scripts/kali_events.rpy:6363
 translate pt_br k_fancyq_e6ccd3c3:
 
     # lily "For Ms. Kali, this means an exciting new frontier for her family to explore. I'm sure you're very excited to be in the android, or, should I say cyborg industry?"
     lily ""
 
-# game/scripts/kali_events.rpy:6366
+# game/scripts/kali_events.rpy:6364
 translate pt_br k_fancyq_7337f688:
 
     # k "I have no clue."
     k ""
 
-# game/scripts/kali_events.rpy:6367
+# game/scripts/kali_events.rpy:6365
 translate pt_br k_fancyq_5dbe8f7d:
 
     # lily "Well, I'm certainly excited! If nothing but for the elves and the poor."
     lily ""
 
-# game/scripts/kali_events.rpy:6369
+# game/scripts/kali_events.rpy:6367
 translate pt_br k_fancyq_fac67b3f:
 
     # lily "For Cornwall and Syl'anar, this means less elves living in the Happy Home Initiative relief centers, which in turn means your tax dollar can go somewhere it is needed more. If this project is a success, Mr. Trenero will order even more elves from Cornwall."
     lily ""
 
-# game/scripts/kali_events.rpy:6370
+# game/scripts/kali_events.rpy:6368
 translate pt_br k_fancyq_37faf4f6:
 
     # lily "As for the Elfbot herself, she's water resistant from head to toe due to the nature of how she's powered. She's not very durable, but she is very light. Lighter than a real elf!"
     lily ""
 
-# game/scripts/kali_events.rpy:6371
+# game/scripts/kali_events.rpy:6369
 translate pt_br k_fancyq_8ef75945:
 
     # lily "If we're able to get the price of the Elfbot near to the price of common elves, this should also mean less abuse reports. If it catches on, anyway..."
     lily ""
 
-# game/scripts/kali_events.rpy:6372
+# game/scripts/kali_events.rpy:6370
 translate pt_br k_fancyq_cfad3d19:
 
     # c "How about the negatives?"
     c ""
 
-# game/scripts/kali_events.rpy:6373
+# game/scripts/kali_events.rpy:6371
 translate pt_br k_fancyq_0db1b1c2:
 
     # lily "Mr. Trenero is required to survey and control the population of the elves. If any escape, there will be major consequences..."
     lily ""
 
-# game/scripts/kali_events.rpy:6375
+# game/scripts/kali_events.rpy:6373
 translate pt_br k_fancyq_b0cd06ce:
 
     # k "What the fuck... is he keeping them in a prison or something?"
     k ""
 
-# game/scripts/kali_events.rpy:6376
+# game/scripts/kali_events.rpy:6374
 translate pt_br k_fancyq_6c1c19ea:
 
     # lily "I'm not quite sure where he's keeping the elves. Should these elves escape and start their own civilization, they could breed and damage the worth of the elf, and in turn, Syl'anar's economy."
     lily ""
 
-# game/scripts/kali_events.rpy:6378
+# game/scripts/kali_events.rpy:6376
 translate pt_br k_fancyq_6f6a3b6a:
 
     # k "I don't think I'm going to find anything that interests me from her."
     k ""
 
-# game/scripts/kali_events.rpy:6379
+# game/scripts/kali_events.rpy:6377
 translate pt_br k_fancyq_f1099594:
 
     # k "It is kind of nice to know they're only using their blood and taking it as humanely as possible, but it still kind of feels wrong to me..."
     k ""
 
-# game/scripts/kali_events.rpy:6383
+# game/scripts/kali_events.rpy:6381
 translate pt_br k_fancyq_545f3b63:
 
     # corn "Ah, hello Ms. Trenero, [name]."
     corn ""
 
-# game/scripts/kali_events.rpy:6385
+# game/scripts/kali_events.rpy:6383
 translate pt_br k_fancyq_65188063:
 
     # k "You two have met before?"
     k ""
 
-# game/scripts/kali_events.rpy:6386
+# game/scripts/kali_events.rpy:6384
 translate pt_br k_fancyq_19a4c84d:
 
     # corn "We have. I met him and his elf some time ago."
     corn ""
 
-# game/scripts/kali_events.rpy:6387
+# game/scripts/kali_events.rpy:6385
 translate pt_br k_fancyq_39949f08:
 
     # k "Oh, you met Lin? Cool."
     k ""
 
-# game/scripts/kali_events.rpy:6388
+# game/scripts/kali_events.rpy:6386
 translate pt_br k_fancyq_e93f82d6:
 
     # k "So, like... what do you do?"
     k ""
 
-# game/scripts/kali_events.rpy:6389
+# game/scripts/kali_events.rpy:6387
 translate pt_br k_fancyq_cdd71d1a:
 
     # corn "To put it simply, I'm in charge of the whole elf situation in Syl'anar."
     corn ""
 
-# game/scripts/kali_events.rpy:6390
+# game/scripts/kali_events.rpy:6388
 translate pt_br k_fancyq_5c28f1ee:
 
     # k "So, you're kinda like the master of masters?"
     k ""
 
-# game/scripts/kali_events.rpy:6391
+# game/scripts/kali_events.rpy:6389
 translate pt_br k_fancyq_5e4e75d1:
 
     # corn "I have no control over another person's elf, but in other senses, I suppose so."
     corn ""
 
-# game/scripts/kali_events.rpy:6392
+# game/scripts/kali_events.rpy:6390
 translate pt_br k_fancyq_fc3b8b46:
 
     # k "Why didn't you bring your slave then?"
     k ""
 
-# game/scripts/kali_events.rpy:6393
+# game/scripts/kali_events.rpy:6391
 translate pt_br k_fancyq_47e5705e:
 
     # corn "Out of respect of the lady of the house, I have decided not to bring any slaves."
     corn ""
 
-# game/scripts/kali_events.rpy:6394
+# game/scripts/kali_events.rpy:6392
 translate pt_br k_fancyq_f06ed6bf:
 
     # k "So you sent 700 elves to my Dad?"
     k ""
 
-# game/scripts/kali_events.rpy:6395
+# game/scripts/kali_events.rpy:6393
 translate pt_br k_fancyq_5d11e38b:
 
     # corn "That's correct."
     corn ""
 
-# game/scripts/kali_events.rpy:6396
+# game/scripts/kali_events.rpy:6394
 translate pt_br k_fancyq_fa582c12:
 
     # k "To The Capitol?"
     k ""
 
-# game/scripts/kali_events.rpy:6397
+# game/scripts/kali_events.rpy:6395
 translate pt_br k_fancyq_20c1a5fa:
 
     # corn "Yes, I know it's quite unconventional, but it benefits everyone involved."
     corn ""
 
-# game/scripts/kali_events.rpy:6398
+# game/scripts/kali_events.rpy:6396
 translate pt_br k_fancyq_4a201b5e:
 
     # k "It's hard to believe someone would just give away 700 people..."
     k ""
 
-# game/scripts/kali_events.rpy:6399
+# game/scripts/kali_events.rpy:6397
 translate pt_br k_fancyq_08870c04:
 
     # corn "700 elves, but yes. They were all without a home, and now they have one."
     corn ""
 
-# game/scripts/kali_events.rpy:6400
+# game/scripts/kali_events.rpy:6398
 translate pt_br k_fancyq_397fcca1:
 
     # k "You just gave them to my father out of the kindness of your heart?"
     k ""
 
-# game/scripts/kali_events.rpy:6401
+# game/scripts/kali_events.rpy:6399
 translate pt_br k_fancyq_247e26b5:
 
     # corn "It was actually Saint Lily and her friends who contacted me about this. She had neither the technology nor the elves for her research."
     corn ""
 
-# game/scripts/kali_events.rpy:6402
+# game/scripts/kali_events.rpy:6400
 translate pt_br k_fancyq_e3bd738d:
 
     # corn "It's a good cause, so I decided to help. I'm entitled to a royalty for each liter of blood siphoned, so this benefits us as well."
     corn ""
 
-# game/scripts/kali_events.rpy:6403
+# game/scripts/kali_events.rpy:6401
 translate pt_br k_fancyq_2141149e:
 
     # k "I'm a bit surprised you're letting elves live outside of Syl'anar."
     k ""
 
-# game/scripts/kali_events.rpy:6404
+# game/scripts/kali_events.rpy:6402
 translate pt_br k_fancyq_5d314682:
 
     # corn "No need to worry, Ms. Kali, they've all been neutered."
     corn ""
 
-# game/scripts/kali_events.rpy:6405
+# game/scripts/kali_events.rpy:6403
 translate pt_br k_fancyq_5f44666c:
 
     # k "Neutered!? What do mean neutered!?"
     k ""
 
-# game/scripts/kali_events.rpy:6406
+# game/scripts/kali_events.rpy:6404
 translate pt_br k_fancyq_e37b7d4a:
 
     # corn "They can't reproduce anymore, Kali."
     corn ""
 
-# game/scripts/kali_events.rpy:6407
+# game/scripts/kali_events.rpy:6405
 translate pt_br k_fancyq_365eeb5b:
 
     # k "I know what it means!"
     k ""
 
-# game/scripts/kali_events.rpy:6409
+# game/scripts/kali_events.rpy:6407
 translate pt_br k_fancyq_da8f8a13:
 
     # k "{i}{size=-10}Urgh seriously...? The way he used that word...{/i}{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:6411
+# game/scripts/kali_events.rpy:6409
 translate pt_br k_fancyq_a70ecdbf:
 
     # corn "Is there a problem?"
     corn ""
 
-# game/scripts/kali_events.rpy:6412
+# game/scripts/kali_events.rpy:6410
 translate pt_br k_fancyq_d3103801:
 
     # k "What kind of power do you have in whatever the hell you do?"
     k ""
 
-# game/scripts/kali_events.rpy:6413
+# game/scripts/kali_events.rpy:6411
 translate pt_br k_fancyq_34452506:
 
     # corn "Uh... I'm not sure I understand the question."
     corn ""
 
-# game/scripts/kali_events.rpy:6414
+# game/scripts/kali_events.rpy:6412
 translate pt_br k_fancyq_09c530fa:
 
     # k "You know elves don't have it that great, right? Why don't you improve that?"
     k ""
 
-# game/scripts/kali_events.rpy:6415
+# game/scripts/kali_events.rpy:6413
 translate pt_br k_fancyq_6f8782a7:
 
     # corn "You must be unfamiliar with my work, Ms. Kali. I'm the most progressive person that has ever been in my position of power. It was me who gave elves the rights they now have over 30 years ago."
     corn ""
 
-# game/scripts/kali_events.rpy:6416
+# game/scripts/kali_events.rpy:6414
 translate pt_br k_fancyq_7ef9b00e:
 
     # k "Oh, really? You must have been very young."
     k ""
 
-# game/scripts/kali_events.rpy:6417
+# game/scripts/kali_events.rpy:6415
 translate pt_br k_fancyq_067c81b3:
 
     # corn "I'm a bit older than I look."
     corn ""
 
-# game/scripts/kali_events.rpy:6418
+# game/scripts/kali_events.rpy:6416
 translate pt_br k_fancyq_5170d800:
 
     # k "...And things are still this shitty for them?"
     k ""
 
-# game/scripts/kali_events.rpy:6419
+# game/scripts/kali_events.rpy:6417
 translate pt_br k_fancyq_45eda2b7:
 
     # corn "Hah, Kali... elves have never had it better. When I was young, it was very common for elves to be raped. It wasn't even considered rape."
     corn ""
 
-# game/scripts/kali_events.rpy:6420
+# game/scripts/kali_events.rpy:6418
 translate pt_br k_fancyq_74361e7f:
 
     # k "You know it's still legal to whip an elf every day and night just because they messed up an order, right? And you're fine with that?"
     k ""
 
-# game/scripts/kali_events.rpy:6421
+# game/scripts/kali_events.rpy:6419
 translate pt_br k_fancyq_8c5890a8:
 
     # corn "How else are you supposed to train them? Treats and head pats?"
     corn ""
 
-# game/scripts/kali_events.rpy:6422
+# game/scripts/kali_events.rpy:6420
 translate pt_br k_fancyq_7bf17688:
 
     # corn "And where exactly do you see this heading? Total freedom for the elves?"
     corn ""
 
-# game/scripts/kali_events.rpy:6423
+# game/scripts/kali_events.rpy:6421
 translate pt_br k_fancyq_707a6c6e:
 
     # corn "Ignoring their place in society, they're far too important to this country. Our nation would completely crumble if we treated elves as equals. Without elves, we wouldn't farm enough food to feed ourselves, or have enough construction workers to build a tower. We literally do not have the manpower to replace elves."
     corn ""
 
-# game/scripts/kali_events.rpy:6424
+# game/scripts/kali_events.rpy:6422
 translate pt_br k_fancyq_9ce7c99e:
 
     # k "You wouldn't need to replace them if you just treated them like any normal person!"
     k ""
 
-# game/scripts/kali_events.rpy:6425
+# game/scripts/kali_events.rpy:6423
 translate pt_br k_fancyq_d2576ff1:
 
     # corn "As I said, our nation would crumble if we treated them as equals. The vast majority of elves have been doing the same thing for over half their lives. We can't simply reeducate over 800 million elves. As you know, elves learn at a much slower rate than humans."
     corn ""
 
-# game/scripts/kali_events.rpy:6426
+# game/scripts/kali_events.rpy:6424
 translate pt_br k_fancyq_719d8ddc:
 
     # k "Urgh, whatever."
     k ""
 
-# game/scripts/kali_events.rpy:6428
+# game/scripts/kali_events.rpy:6426
 translate pt_br k_fancyq_bb74a51d:
 
     # k "{i}{size=-10}...I'm not interested in becoming a mistress. What is my Dad thinking...? Come on, [name]...{/i}{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:6431
+# game/scripts/kali_events.rpy:6429
 translate pt_br k_fancyq_a1ec0208:
 
     # kd "Kali!!"
     kd ""
 
-# game/scripts/kali_events.rpy:6432
+# game/scripts/kali_events.rpy:6430
 translate pt_br k_fancyq_51a8d39a:
 
     # k "Hey Dad..."
     k ""
 
-# game/scripts/kali_events.rpy:6433
+# game/scripts/kali_events.rpy:6431
 translate pt_br k_fancyq_ac9a0a19:
 
     # mari "I'm glad you could make it, Kali."
     mari ""
 
-# game/scripts/kali_events.rpy:6435
+# game/scripts/kali_events.rpy:6433
 translate pt_br k_fancyq_12b9614a:
 
     # c "How has your leg been?"
     c ""
 
-# game/scripts/kali_events.rpy:6436
+# game/scripts/kali_events.rpy:6434
 translate pt_br k_fancyq_f28a6b57:
 
     # kd "A little bit of pain still, but I'll work through it."
     kd ""
 
-# game/scripts/kali_events.rpy:6438
+# game/scripts/kali_events.rpy:6436
 translate pt_br k_fancyq_95936e4f:
 
     # k "Dad, you're going to need to explain some stuff to us..."
     k ""
 
-# game/scripts/kali_events.rpy:6439
+# game/scripts/kali_events.rpy:6437
 translate pt_br k_fancyq_70c1d087:
 
     # kd "Sure! Whatever you'd like."
     kd ""
 
-# game/scripts/kali_events.rpy:6440
+# game/scripts/kali_events.rpy:6438
 translate pt_br k_fancyq_3526ec1b:
 
     # k "What the hell is going on? Are you a slaver now? I thought you were against that?"
     k ""
 
-# game/scripts/kali_events.rpy:6441
+# game/scripts/kali_events.rpy:6439
 translate pt_br k_fancyq_286014aa:
 
     # kd "Oh, well technically yes, I am a slaver now."
     kd ""
 
-# game/scripts/kali_events.rpy:6442
+# game/scripts/kali_events.rpy:6440
 translate pt_br k_fancyq_b306329f:
 
     # k "Why!? I thought you were against that whole thing!"
     k ""
 
-# game/scripts/kali_events.rpy:6444
+# game/scripts/kali_events.rpy:6442
 translate pt_br k_fancyq_36b7cc12:
 
     # kd "Neither of us like the idea of owning elves as slaves, but when we visited them, we knew we could give them a better life than Cornwall ever could."
     kd ""
 
-# game/scripts/kali_events.rpy:6446
+# game/scripts/kali_events.rpy:6444
 translate pt_br k_fancyq_8e5b34d1:
 
     # k "So, they're living in good conditions? I heard you guys were taking blood from them every night."
     k ""
 
-# game/scripts/kali_events.rpy:6447
+# game/scripts/kali_events.rpy:6445
 translate pt_br k_fancyq_170f6181:
 
     # kd "They each have their own bed, it's not big, but it's comfortable."
     kd ""
 
-# game/scripts/kali_events.rpy:6448
+# game/scripts/kali_events.rpy:6446
 translate pt_br k_fancyq_b8e45e69:
 
     # k "And they're fine with you taking their blood?"
     k ""
 
-# game/scripts/kali_events.rpy:6449
+# game/scripts/kali_events.rpy:6447
 translate pt_br k_fancyq_8e8e3197:
 
     # kd "Of course! They've been loving their new lives."
     kd ""
 
-# game/scripts/kali_events.rpy:6450
+# game/scripts/kali_events.rpy:6448
 translate pt_br k_fancyq_2c6e61b6:
 
     # k "Do they work?"
     k ""
 
-# game/scripts/kali_events.rpy:6451
+# game/scripts/kali_events.rpy:6449
 translate pt_br k_fancyq_ba3425de:
 
     # kd "They do! They work on my hardware now."
     kd ""
 
-# game/scripts/kali_events.rpy:6452
+# game/scripts/kali_events.rpy:6450
 translate pt_br k_fancyq_002a0a07:
 
     # k "You mean you fired 700 people and replaced them with elves?"
     k ""
 
-# game/scripts/kali_events.rpy:6454
+# game/scripts/kali_events.rpy:6452
 translate pt_br k_fancyq_ed81a32e:
 
     # kd "Only 697!"
     kd ""
 
-# game/scripts/kali_events.rpy:6455
+# game/scripts/kali_events.rpy:6453
 translate pt_br k_fancyq_1f87348e:
 
     # k "Dad, you know that really doesn't make it better, right? Those people had families..."
     k ""
 
-# game/scripts/kali_events.rpy:6457
+# game/scripts/kali_events.rpy:6455
 translate pt_br k_fancyq_30b8e409:
 
     # mari "Kali, I understand how you feel... It's hard to only do good though. We need to make sacrifices to make the world a better place."
     mari ""
 
-# game/scripts/kali_events.rpy:6458
+# game/scripts/kali_events.rpy:6456
 translate pt_br k_fancyq_6d271bdb:
 
     # mari "The profits we gain from putting the elves to work over paying humans a full salary will be put directly back into developing the Elfbot, which in turn will make it cheaper and more available to those who need it."
     mari ""
 
-# game/scripts/kali_events.rpy:6459
+# game/scripts/kali_events.rpy:6457
 translate pt_br k_fancyq_831d4eda:
 
     # k "Oh... hm. It sounds like you guys really thought this through. But seriously... 697 people..."
     k ""
 
-# game/scripts/kali_events.rpy:6460
+# game/scripts/kali_events.rpy:6458
 translate pt_br k_fancyq_3a83940d:
 
     # mari "Of course we have, Kali. We wouldn't play around with lives like that."
     mari ""
 
-# game/scripts/kali_events.rpy:6461
+# game/scripts/kali_events.rpy:6459
 translate pt_br k_fancyq_eb70a1e2:
 
     # kd "Many of them are still working for us, I kept the best."
     kd ""
 
-# game/scripts/kali_events.rpy:6463
+# game/scripts/kali_events.rpy:6461
 translate pt_br k_fancyq_78c85c95:
 
     # kd "Not only have we thought of the elves, but we also thought of Nero Inc.! We won't be selling hardware to our competitor after we officially announce the Elfbot."
     kd ""
 
-# game/scripts/kali_events.rpy:6465
+# game/scripts/kali_events.rpy:6463
 translate pt_br k_fancyq_79e2aca9:
 
     # k "What? Why would you do that?"
     k ""
 
-# game/scripts/kali_events.rpy:6466
+# game/scripts/kali_events.rpy:6464
 translate pt_br k_fancyq_aeab8010:
 
     # kd "Without any competition our product should be much more profitable, and since they rely on our hardware so much, they'll go out of business very quick."
     kd ""
 
-# game/scripts/kali_events.rpy:6467
+# game/scripts/kali_events.rpy:6465
 translate pt_br k_fancyq_0fe539d8:
 
     # k "You can just destroy massive companies like that?"
     k ""
 
-# game/scripts/kali_events.rpy:6468
+# game/scripts/kali_events.rpy:6466
 translate pt_br k_fancyq_519488cf:
 
     # kd "Eh, I've never liked them anyway. They purchase the same hardware time and time again and sell it as a new upgrade, their only business is making money. Once they're out, we'll swoop in and buy their assets."
     kd ""
 
-# game/scripts/kali_events.rpy:6469
+# game/scripts/kali_events.rpy:6467
 translate pt_br k_fancyq_515ebb1e:
 
     # k "Jesus dad... you have too much power."
     k ""
 
-# game/scripts/kali_events.rpy:6473
+# game/scripts/kali_events.rpy:6471
 translate pt_br k_fancyq_549c51a3:
 
     # "*shatter*" with ssshake
     "" with ssshake
 
-# game/scripts/kali_events.rpy:6475
+# game/scripts/kali_events.rpy:6473
 translate pt_br k_fancyq_3ce9e9a1:
 
     # bot "Ooooh!"
     bot ""
 
-# game/scripts/kali_events.rpy:6477
+# game/scripts/kali_events.rpy:6475
 translate pt_br k_fancyq_76140a36:
 
     # bot "Hmmm~?"
     bot ""
 
-# game/scripts/kali_events.rpy:6479
+# game/scripts/kali_events.rpy:6477
 translate pt_br k_fancyq_9f85039f:
 
     # bot "Heheh..."
     bot ""
 
-# game/scripts/kali_events.rpy:6482
+# game/scripts/kali_events.rpy:6480
 translate pt_br k_fancyq_5e537c61:
 
     # kd "...and if this is a success, we can move on to other elf models, like Dark Elf, or Drow!"
     kd ""
 
-# game/scripts/kali_events.rpy:6483
+# game/scripts/kali_events.rpy:6481
 translate pt_br k_fancyq_8e02bf09:
 
     # k "I'm... sure it will be a hit."
     k ""
 
-# game/scripts/kali_events.rpy:6484
+# game/scripts/kali_events.rpy:6482
 translate pt_br k_fancyq_f1eb6770:
 
     # kd "I saw you talking with a few of the others here, did you find anything that interested you?"
     kd ""
 
-# game/scripts/kali_events.rpy:6485
+# game/scripts/kali_events.rpy:6483
 translate pt_br k_fancyq_e80f14bb:
 
     # k "Ergh, no..."
     k ""
 
-# game/scripts/kali_events.rpy:6486
+# game/scripts/kali_events.rpy:6484
 translate pt_br k_fancyq_b891b825:
 
     # kd "How about working for Nero Inc. then?"
     kd ""
 
-# game/scripts/kali_events.rpy:6487
+# game/scripts/kali_events.rpy:6485
 translate pt_br k_fancyq_0b8b943a:
 
     # k "There's never been anything that's interested me... Nero Inc. is only a hardware company."
     k ""
 
-# game/scripts/kali_events.rpy:6488
+# game/scripts/kali_events.rpy:6486
 translate pt_br k_fancyq_5ba5b98d:
 
     # kd "Not anymore! As of today, we're also in the android business!"
     kd ""
 
-# game/scripts/kali_events.rpy:6489
+# game/scripts/kali_events.rpy:6487
 translate pt_br k_fancyq_e1c261eb:
 
     # k "So?"
     k ""
 
-# game/scripts/kali_events.rpy:6491
+# game/scripts/kali_events.rpy:6489
 translate pt_br k_fancyq_83006a86:
 
     # kd "We need software developers!"
     kd ""
 
-# game/scripts/kali_events.rpy:6493
+# game/scripts/kali_events.rpy:6491
 translate pt_br k_fancyq_0d279615:
 
     # k "Y... You do?"
     k ""
 
-# game/scripts/kali_events.rpy:6494
+# game/scripts/kali_events.rpy:6492
 translate pt_br k_fancyq_7c7621de:
 
     # k "I can't program an android though, it's way too complicated."
     k ""
 
-# game/scripts/kali_events.rpy:6495
+# game/scripts/kali_events.rpy:6493
 translate pt_br k_fancyq_cb6f33ec:
 
     # kd "Kali, I decided to use the exact same programming language you always worked with as a child for our Elfbots. It's a lot more complicated than what you're used to for sure... but at least you can understand it, right?"
     kd ""
 
-# game/scripts/kali_events.rpy:6496
+# game/scripts/kali_events.rpy:6494
 translate pt_br k_fancyq_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:6497
+# game/scripts/kali_events.rpy:6495
 translate pt_br k_fancyq_11223cd6:
 
     # k "I haven't really... ergh... Thank you, Dad, but I'm really not the person you want for this job, I don't know anything about making an android."
     k ""
 
-# game/scripts/kali_events.rpy:6498
+# game/scripts/kali_events.rpy:6496
 translate pt_br k_fancyq_fea26cf9:
 
     # kd "But you're interested, aren't you? That's the first step."
     kd ""
 
-# game/scripts/kali_events.rpy:6499
+# game/scripts/kali_events.rpy:6497
 translate pt_br k_fancyq_08805912:
 
     # k "Heh, well... it's always kind of been a dream of mine to work on androids... I loved playing with them when I was young..."
     k ""
 
-# game/scripts/kali_events.rpy:6501
+# game/scripts/kali_events.rpy:6499
 translate pt_br k_fancyq_50569dbb:
 
     # kd "That's great! I'll keep a position open for you!"
     kd ""
 
-# game/scripts/kali_events.rpy:6502
+# game/scripts/kali_events.rpy:6500
 translate pt_br k_fancyq_674a73ae:
 
     # k "Wait, Dad no! There's no way I could actually do this, I would need to go to college!"
     k ""
 
-# game/scripts/kali_events.rpy:6504
+# game/scripts/kali_events.rpy:6502
 translate pt_br k_fancyq_ea44dff1:
 
     # kd "Whatever you need, sweetie."
     kd ""
 
-# game/scripts/kali_events.rpy:6505
+# game/scripts/kali_events.rpy:6503
 translate pt_br k_fancyq_0a849132:
 
     # k "I don't want to go to college, Dad! And at my age, are you kidding me!? It'd be so weird to start now!"
     k ""
 
-# game/scripts/kali_events.rpy:6506
+# game/scripts/kali_events.rpy:6504
 translate pt_br k_fancyq_834f672e:
 
     # kd "You'd be the popular kid in class! Everyone wants to talk to the rich kid."
     kd ""
 
-# game/scripts/kali_events.rpy:6507
+# game/scripts/kali_events.rpy:6505
 translate pt_br k_fancyq_174d0520:
 
     # k "God dammit, Dad! You don't get me at all!"
     k ""
 
-# game/scripts/kali_events.rpy:6509
+# game/scripts/kali_events.rpy:6507
 translate pt_br k_fancyq_4cc554fc:
 
     # kd "What did I do?"
     kd ""
 
-# game/scripts/kali_events.rpy:6510
+# game/scripts/kali_events.rpy:6508
 translate pt_br k_fancyq_0c524fd2:
 
     # k "Come on, [name]!"
     k ""
 
-# game/scripts/kali_events.rpy:6512
+# game/scripts/kali_events.rpy:6510
 translate pt_br k_fancyq_45a09cb1:
 
     # kd "Ergh... I'm afraid I don't understand my own daughter anymore..."
     kd ""
 
-# game/scripts/kali_events.rpy:6513
+# game/scripts/kali_events.rpy:6511
 translate pt_br k_fancyq_0379426c:
 
     # kd "Hey, [name]? I really think this job will be great for her, it seems like she would enjoy it a lot if she knew how. Would you talk to her for me?"
     kd ""
 
-# game/scripts/kali_events.rpy:6514
+# game/scripts/kali_events.rpy:6512
 translate pt_br k_fancyq_13ad4642:
 
     # c "I'll see what I can do."
     c ""
 
-# game/scripts/kali_events.rpy:6515
+# game/scripts/kali_events.rpy:6513
 translate pt_br k_fancyq_27072e10:
 
     # kd "Thank you."
     kd ""
 
-# game/scripts/kali_events.rpy:6516
+# game/scripts/kali_events.rpy:6514
 translate pt_br k_fancyq_8d8e9480:
 
     # k "COME ON!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6518
+# game/scripts/kali_events.rpy:6516
 translate pt_br k_fancyq_9181db66:
 
     # k "{size=-10}I knew this was going to be a bad idea...{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:6519
+# game/scripts/kali_events.rpy:6517
 translate pt_br k_fancyq_1d05beb7:
 
     # c "Come with me."
     c ""
 
-# game/scripts/kali_events.rpy:6521
+# game/scripts/kali_events.rpy:6519
 translate pt_br k_fancyq_0f4f8ef4:
 
     # k "{size=-10}Where are we going...?{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:6524
+# game/scripts/kali_events.rpy:6522
 translate pt_br k_fancyq_c57f3d6e:
 
     # k "The... restroom...?"
     k ""
 
-# game/scripts/kali_events.rpy:6528
+# game/scripts/kali_events.rpy:6526
 translate pt_br k_fancyq_31dcab63:
 
     # k "Hahhh..."
     k ""
 
-# game/scripts/kali_events.rpy:6530
+# game/scripts/kali_events.rpy:6528
 translate pt_br k_fancyq_a110451b:
 
     # k "Why are we in the restroom?"
     k ""
 
-# game/scripts/kali_events.rpy:6531
+# game/scripts/kali_events.rpy:6529
 translate pt_br k_fancyq_ec09c9a9:
 
     # c "You did great out there, you know."
     c ""
 
-# game/scripts/kali_events.rpy:6532
+# game/scripts/kali_events.rpy:6530
 translate pt_br k_fancyq_26296101_1:
 
     # k "What do you mean?"
     k ""
 
-# game/scripts/kali_events.rpy:6533
+# game/scripts/kali_events.rpy:6531
 translate pt_br k_fancyq_6c6609d5:
 
     # c "You didn't need me with you at all. I mean, I'm happy to be with you, but you would have done just as good if I weren't here."
     c ""
 
-# game/scripts/kali_events.rpy:6535
+# game/scripts/kali_events.rpy:6533
 translate pt_br k_fancyq_c251396b:
 
     # k "Yeah... but... it's your presence that helps."
     k ""
 
-# game/scripts/kali_events.rpy:6537
+# game/scripts/kali_events.rpy:6535
 translate pt_br k_fancyq_615889fa:
 
     # c "Kali, you were wonderful out there. You were confident, assertive, and you knew what you didn't like. And somehow you managed to look sexy throughout all of it."
     c ""
 
-# game/scripts/kali_events.rpy:6539
+# game/scripts/kali_events.rpy:6537
 translate pt_br k_fancyq_f993cc37:
 
     # k "Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:6540
+# game/scripts/kali_events.rpy:6538
 translate pt_br k_fancyq_1c3ee6c4:
 
     # c "What do you think about your Dad's offer?"
     c ""
 
-# game/scripts/kali_events.rpy:6542
+# game/scripts/kali_events.rpy:6540
 translate pt_br k_fancyq_53d01466:
 
     # k "I kind of liked it... but it's not reasonable at all."
     k ""
 
-# game/scripts/kali_events.rpy:6543
+# game/scripts/kali_events.rpy:6541
 translate pt_br k_fancyq_82999201:
 
     # k "I would have to take years of college classes just to be hired, and by that time, the job is probably going to be taken by someone far more motivated and better at this than I am."
     k ""
 
-# game/scripts/kali_events.rpy:6544
+# game/scripts/kali_events.rpy:6542
 translate pt_br k_fancyq_807e0637:
 
     # c "That's college for you."
     c ""
 
-# game/scripts/kali_events.rpy:6546
+# game/scripts/kali_events.rpy:6544
 translate pt_br k_fancyq_f9da4348:
 
     # k "...I guess it is."
     k ""
 
-# game/scripts/kali_events.rpy:6548
+# game/scripts/kali_events.rpy:6546
 translate pt_br k_fancyq_c55cbb61:
 
     # k "But going to college? At my age? Most people have already graduated by the time they're my age..."
     k ""
 
-# game/scripts/kali_events.rpy:6549
+# game/scripts/kali_events.rpy:6547
 translate pt_br k_fancyq_59226a15:
 
     # c "There's nothing weird about someone wanting a job."
     c ""
 
-# game/scripts/kali_events.rpy:6550
+# game/scripts/kali_events.rpy:6548
 translate pt_br k_fancyq_8e0c30df:
 
     # k "Well... I'm rusty at it anyway, I haven't been practicing much programming..."
     k ""
 
-# game/scripts/kali_events.rpy:6551
+# game/scripts/kali_events.rpy:6549
 translate pt_br k_fancyq_4c39b2cc:
 
     # c "If you can develop an app, you're probably more advanced than most people who would be in your class anyway."
     c ""
 
-# game/scripts/kali_events.rpy:6552
+# game/scripts/kali_events.rpy:6550
 translate pt_br k_fancyq_7999e93e:
 
     # k "You... really think I should go?"
     k ""
 
-# game/scripts/kali_events.rpy:6553
+# game/scripts/kali_events.rpy:6551
 translate pt_br k_fancyq_af8d17ab:
 
     # c "I think this is something that interests you, and I think you should do what you enjoy."
     c ""
 
-# game/scripts/kali_events.rpy:6554
+# game/scripts/kali_events.rpy:6552
 translate pt_br k_fancyq_6a40a931:
 
     # c "You've already got an android near by, I'm sure she could help you a lot."
     c ""
 
-# game/scripts/kali_events.rpy:6556
+# game/scripts/kali_events.rpy:6554
 translate pt_br k_fancyq_038c351c:
 
     # k "...{w}..."
     k ""
 
-# game/scripts/kali_events.rpy:6557
+# game/scripts/kali_events.rpy:6555
 translate pt_br k_fancyq_1da54fea:
 
     # k "It's hard to imagine it."
     k ""
 
-# game/scripts/kali_events.rpy:6558
+# game/scripts/kali_events.rpy:6556
 translate pt_br k_fancyq_6a8c570f:
 
     # c "You have plenty of time to think about it."
     c ""
 
-# game/scripts/kali_events.rpy:6559
+# game/scripts/kali_events.rpy:6557
 translate pt_br k_fancyq_ee9c9e25:
 
     # k "Hmm... yeah, I will think about it."
     k ""
 
-# game/scripts/kali_events.rpy:6561
+# game/scripts/kali_events.rpy:6559
 translate pt_br k_fancyq_72325cd2:
 
     # k "Thank you, [name]. I feel like you really know me."
     k ""
 
-# game/scripts/kali_events.rpy:6562
+# game/scripts/kali_events.rpy:6560
 translate pt_br k_fancyq_ecf18235:
 
     # "*knock knock knock*"
     ""
 
-# game/scripts/kali_events.rpy:6564
+# game/scripts/kali_events.rpy:6562
 translate pt_br k_fancyq_300b5940:
 
     # lu "Um... Hello? [name]? Did I see you go in there?"
     lu ""
 
-# game/scripts/kali_events.rpy:6565
+# game/scripts/kali_events.rpy:6563
 translate pt_br k_fancyq_48fc288b:
 
     # c "What's up?"
     c ""
 
-# game/scripts/kali_events.rpy:6566
+# game/scripts/kali_events.rpy:6564
 translate pt_br k_fancyq_f82be70d:
 
     # lu "Can you hurry up in there? Your android is, uh... causing issues..."
     lu ""
 
-# game/scripts/kali_events.rpy:6567
+# game/scripts/kali_events.rpy:6565
 translate pt_br k_fancyq_b447b502:
 
     # k "Oh shit..."
     k ""
 
-# game/scripts/kali_events.rpy:6569
+# game/scripts/kali_events.rpy:6567
 translate pt_br k_fancyq_349a94c6:
 
     # bot "Heheheheheh~"
     bot ""
 
-# game/scripts/kali_events.rpy:6571
+# game/scripts/kali_events.rpy:6569
 translate pt_br k_fancyq_7e192899:
 
     # bot "Give me your money please. I need some."
     bot ""
 
-# game/scripts/kali_events.rpy:6572
+# game/scripts/kali_events.rpy:6570
 translate pt_br k_fancyq_3c7a0341:
 
     # corn "STAND DOWN! STOP!"
     corn ""
 
-# game/scripts/kali_events.rpy:6573
+# game/scripts/kali_events.rpy:6571
 translate pt_br k_fancyq_4ffec664:
 
     # lily "What's going on!?"
     lily ""
 
-# game/scripts/kali_events.rpy:6574
+# game/scripts/kali_events.rpy:6572
 translate pt_br k_fancyq_e60bbfb2:
 
     # kd "She's malfunctioning!"
     kd ""
 
-# game/scripts/kali_events.rpy:6575
+# game/scripts/kali_events.rpy:6573
 translate pt_br k_fancyq_31c73c3c:
 
     # cart "Stop her, Serni!"
     cart ""
 
-# game/scripts/kali_events.rpy:6577
+# game/scripts/kali_events.rpy:6575
 translate pt_br k_fancyq_aa187e0a:
 
     # serni "RRRGH!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6579
+# game/scripts/kali_events.rpy:6577
 translate pt_br k_fancyq_52057740:
 
     # bot "Huh!?" with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6581
+# game/scripts/kali_events.rpy:6579
 translate pt_br k_fancyq_d3f18b40:
 
     # serni "Rrrrghhh!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6583
+# game/scripts/kali_events.rpy:6581
 translate pt_br k_fancyq_aa187e0a_1:
 
     # serni "RRRGH!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6584
+# game/scripts/kali_events.rpy:6582
 translate pt_br k_fancyq_6ae7ac4d:
 
     # serni "RGH!!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6585
+# game/scripts/kali_events.rpy:6583
 translate pt_br k_fancyq_07e06e5e:
 
     # serni "NNNRRGH!!!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6587
+# game/scripts/kali_events.rpy:6585
 translate pt_br k_fancyq_2518b5ae:
 
     # serni "RRRRRRGHHHH!!!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6588
+# game/scripts/kali_events.rpy:6586
 translate pt_br k_fancyq_bd1d3a2d:
 
     # bot "W-What!?"
     bot ""
 
-# game/scripts/kali_events.rpy:6590
+# game/scripts/kali_events.rpy:6588
 translate pt_br k_fancyq_862cc753:
 
     # serni "RARGH!" with sshake
     serni "" with sshake
 
-# game/scripts/kali_events.rpy:6592
+# game/scripts/kali_events.rpy:6590
 translate pt_br k_fancyq_58f27fd3:
 
     # bot "Hng!" with sshake
     bot "" with sshake
 
-# game/scripts/kali_events.rpy:6594
+# game/scripts/kali_events.rpy:6592
 translate pt_br k_fancyq_1d3c0dee:
 
     # bot "*gasp*!"
     bot ""
 
-# game/scripts/kali_events.rpy:6596
+# game/scripts/kali_events.rpy:6594
 translate pt_br k_fancyq_4310771c:
 
     # serni "ARRGH!" with sshake
     serni "" with sshake
 
-# game/scripts/kali_events.rpy:6598
+# game/scripts/kali_events.rpy:6596
 translate pt_br k_fancyq_b099ff86:
 
     # bot "Aaah! Oh my god!"
     bot ""
 
-# game/scripts/kali_events.rpy:6600
+# game/scripts/kali_events.rpy:6598
 translate pt_br k_fancyq_80ee389d:
 
     # serni "Nyagh!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6602
+# game/scripts/kali_events.rpy:6600
 translate pt_br k_fancyq_aa4eebb4:
 
     # serni "Arrrghh! Naneth naur, mui nem!"
     serni ""
 
-# game/scripts/kali_events.rpy:6604
+# game/scripts/kali_events.rpy:6602
 translate pt_br k_fancyq_11b6c0b4:
 
     # serni "ERGH! Bel- tin tur-!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6606
+# game/scripts/kali_events.rpy:6604
 translate pt_br k_fancyq_86cd3d39:
 
     # bot "Uhhh...!"
     bot ""
 
-# game/scripts/kali_events.rpy:6608
+# game/scripts/kali_events.rpy:6606
 translate pt_br k_fancyq_38bc6ae8:
 
     # serni "HNGGG!!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6613
+# game/scripts/kali_events.rpy:6611
 translate pt_br k_fancyq_c84e32f8:
 
     # serni "Gahk!" with sshake
     serni "" with sshake
 
-# game/scripts/kali_events.rpy:6615
+# game/scripts/kali_events.rpy:6613
 translate pt_br k_fancyq_0ba21026:
 
     # serni "Aghhhh! Manui naeg! FIRK!"
     serni ""
 
-# game/scripts/kali_events.rpy:6617
+# game/scripts/kali_events.rpy:6615
 translate pt_br k_fancyq_5d5ce76d:
 
     # serni "RARRRRGHHH!!!" with sshake
     serni "" with sshake
 
-# game/scripts/kali_events.rpy:6619
+# game/scripts/kali_events.rpy:6617
 translate pt_br k_fancyq_ab59cee0:
 
     # bot "AAH! NNGH!" with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6621
+# game/scripts/kali_events.rpy:6619
 translate pt_br k_fancyq_813c82f1:
 
     # bot "NNGH! M-Maybe we can talk this out!? NGH!" with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6623
+# game/scripts/kali_events.rpy:6621
 translate pt_br k_fancyq_9a1a4173:
 
     # serni "HOLLEN OR- A BEL-!!! ARGH!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6625
+# game/scripts/kali_events.rpy:6623
 translate pt_br k_fancyq_c77806b6:
 
     # serni "HUMAN TECHLOGUI ECH- NIN ANGRUI!" with sshake
     serni "" with sshake
 
-# game/scripts/kali_events.rpy:6627
+# game/scripts/kali_events.rpy:6625
 translate pt_br k_fancyq_ae1b08b5:
 
     # serni "HUMAN TECHLOGUI ONLUI NAEG!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6629
+# game/scripts/kali_events.rpy:6627
 translate pt_br k_fancyq_7e629d0e:
 
     # serni "UIN COE CIN TUL-!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6630
+# game/scripts/kali_events.rpy:6628
 translate pt_br k_fancyq_3afc796a:
 
     # serni "HIN CIN RINN-!!!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6631
+# game/scripts/kali_events.rpy:6629
 translate pt_br k_fancyq_953797f4:
 
     # bot "AAGGGH!" with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6632
+# game/scripts/kali_events.rpy:6630
 translate pt_br k_fancyq_86de650a:
 
     # serni "{b}DIE!!!!!{/b}" with sshake
     serni "" with sshake
 
-# game/scripts/kali_events.rpy:6636
+# game/scripts/kali_events.rpy:6634
 translate pt_br k_fancyq_3107fa72:
 
     # bot "AGHK!!"
     bot ""
 
-# game/scripts/kali_events.rpy:6638
+# game/scripts/kali_events.rpy:6636
 translate pt_br k_fancyq_1c366a61:
 
     # bot "Nrgh...!" with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6639
+# game/scripts/kali_events.rpy:6637
 translate pt_br k_fancyq_b303395f:
 
     # bot "I can't move my legs...!"
     bot ""
 
-# game/scripts/kali_events.rpy:6641
+# game/scripts/kali_events.rpy:6639
 translate pt_br k_fancyq_1780655c:
 
     # bot "Aaah!"
     bot ""
 
-# game/scripts/kali_events.rpy:6643
+# game/scripts/kali_events.rpy:6641
 translate pt_br k_fancyq_3d54719c:
 
     # bot "..." with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6644
+# game/scripts/kali_events.rpy:6642
 translate pt_br k_fancyq_61c1cc44:
 
     # lily "Such a beast..."
     lily ""
 
-# game/scripts/kali_events.rpy:6646
+# game/scripts/kali_events.rpy:6644
 translate pt_br k_fancyq_25dbb06f:
 
     # c "What are you doing? Was that you?"
     c ""
 
-# game/scripts/kali_events.rpy:6647
+# game/scripts/kali_events.rpy:6645
 translate pt_br k_fancyq_1c3458bf:
 
     # bot "O-Oh, [botown], Kali!"
     bot ""
 
-# game/scripts/kali_events.rpy:6649
+# game/scripts/kali_events.rpy:6647
 translate pt_br k_fancyq_ddb3b09f:
 
     # k "Did you... bring my laptop down here?"
     k ""
 
-# game/scripts/kali_events.rpy:6650
+# game/scripts/kali_events.rpy:6648
 translate pt_br k_fancyq_75fb91b5:
 
     # bot "Yes..."
     bot ""
 
-# game/scripts/kali_events.rpy:6652
+# game/scripts/kali_events.rpy:6650
 translate pt_br k_fancyq_5f4b00aa:
 
     # c "You can't attack people like that."
     c ""
 
-# game/scripts/kali_events.rpy:6653
+# game/scripts/kali_events.rpy:6651
 translate pt_br k_fancyq_ae8de8ef:
 
     # bot "She attacked me first!"
     bot ""
 
-# game/scripts/kali_events.rpy:6655
+# game/scripts/kali_events.rpy:6653
 translate pt_br k_fancyq_4506ba09:
 
     # k "Dude! Shut up about that, are you kidding?"
     k ""
 
-# game/scripts/kali_events.rpy:6656
+# game/scripts/kali_events.rpy:6654
 translate pt_br k_fancyq_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:6657
+# game/scripts/kali_events.rpy:6655
 translate pt_br k_fancyq_f6cb0048:
 
     # k "SHE CAN BE IN TWO PLACES AT ONCE!"
     k ""
 
-# game/scripts/kali_events.rpy:6658
+# game/scripts/kali_events.rpy:6656
 translate pt_br k_fancyq_c321af51:
 
     # k "If she can fully control two bodies at the same time, she can control as many b-"
     k ""
 
-# game/scripts/kali_events.rpy:6660
+# game/scripts/kali_events.rpy:6658
 translate pt_br k_fancyq_82091822_3:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:6662
+# game/scripts/kali_events.rpy:6660
 translate pt_br k_fancyq_7731f44b:
 
     # k "Can I speak to you... in private?"
     k ""
 
-# game/scripts/kali_events.rpy:6664
+# game/scripts/kali_events.rpy:6662
 translate pt_br k_fancyq_bda175ed:
 
     # k "I don't know if I should be freaking out, or very excited right now..."
     k ""
 
-# game/scripts/kali_events.rpy:6665
+# game/scripts/kali_events.rpy:6663
 translate pt_br k_fancyq_bb00a52c:
 
     # c "What do you mean?"
     c ""
 
-# game/scripts/kali_events.rpy:6667
+# game/scripts/kali_events.rpy:6665
 translate pt_br k_fancyq_8e140175:
 
     # k "Lucy was right! This may have been a {u}very{/u} bad idea! She could turn into a fucking hive mind!"
     k ""
 
-# game/scripts/kali_events.rpy:6668
+# game/scripts/kali_events.rpy:6666
 translate pt_br k_fancyq_eb13c08a:
 
     # k "She doesn't need that visor in front of her eyes like we do, she just needs to connect to my laptop and she can do it wirelessly!"
     k ""
 
-# game/scripts/kali_events.rpy:6670
+# game/scripts/kali_events.rpy:6668
 translate pt_br k_fancyq_10055d17:
 
     # k "Oh my god, if she has hardware that does the same, she wouldn't need to connect to ANYTHING physical! She could do it all herself!"
     k ""
 
-# game/scripts/kali_events.rpy:6672
+# game/scripts/kali_events.rpy:6670
 translate pt_br k_fancyq_f51073d1:
 
     # k "She said she could see in my room, right? And she said she could see Maria's too! She can see as many things as she can connect to! And her range is already insane!"
     k ""
 
-# game/scripts/kali_events.rpy:6673
+# game/scripts/kali_events.rpy:6671
 translate pt_br k_fancyq_2fa18b45:
 
     # k "She doesn't even need to put herself in danger to fight! You saw that too!"
     k ""
 
-# game/scripts/kali_events.rpy:6675
+# game/scripts/kali_events.rpy:6673
 translate pt_br k_fancyq_83cd5775:
 
     # c "...She may have full administrative controls over herself as well."
     c ""
 
-# game/scripts/kali_events.rpy:6676
+# game/scripts/kali_events.rpy:6674
 translate pt_br k_fancyq_b60f50a1:
 
     # k "WHAT!? Why did you do that!?"
     k ""
 
-# game/scripts/kali_events.rpy:6677
+# game/scripts/kali_events.rpy:6675
 translate pt_br k_fancyq_0fe6f4f9:
 
     # c "I didn't."
     c ""
 
-# game/scripts/kali_events.rpy:6679
+# game/scripts/kali_events.rpy:6677
 translate pt_br k_fancyq_b04ab763:
 
     # k "Ohh... this is bad, right? Are sci-fi stories true? We're fucked, right? We're fucked."
     k ""
 
-# game/scripts/kali_events.rpy:6681
+# game/scripts/kali_events.rpy:6679
 translate pt_br k_fancyq_bb02f425:
 
     # k "We should never let her do that again, right?"
     k ""
 
-# game/scripts/kali_events.rpy:6684
+# game/scripts/kali_events.rpy:6682
 translate pt_br k_fancyq_608543fc:
 
     # k "Right!"
     k ""
 
-# game/scripts/kali_events.rpy:6686
+# game/scripts/kali_events.rpy:6684
 translate pt_br k_fancyq_9333294d:
 
     # k "But I created it! I made a hive mind! That was me!"
     k ""
 
-# game/scripts/kali_events.rpy:6687
+# game/scripts/kali_events.rpy:6685
 translate pt_br k_fancyq_e9d1c1f4:
 
     # k "Well it was mostly me! Maybe half, at least...!"
     k ""
 
-# game/scripts/kali_events.rpy:6689
+# game/scripts/kali_events.rpy:6687
 translate pt_br k_fancyq_54475cce:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
     k ""
 
-# game/scripts/kali_events.rpy:6691
+# game/scripts/kali_events.rpy:6689
 translate pt_br k_fancyq_35860c3e:
 
     # k "I don't know either! It's your android!"
     k ""
 
-# game/scripts/kali_events.rpy:6692
+# game/scripts/kali_events.rpy:6690
 translate pt_br k_fancyq_0a60bce6:
 
     # c "You made the hive mind."
     c ""
 
-# game/scripts/kali_events.rpy:6694
+# game/scripts/kali_events.rpy:6692
 translate pt_br k_fancyq_4488af80:
 
     # k "I did, didn't I? I created a hive mind!"
     k ""
 
-# game/scripts/kali_events.rpy:6695
+# game/scripts/kali_events.rpy:6693
 translate pt_br k_fancyq_e9d1c1f4_1:
 
     # k "Well it was mostly me! Maybe half, at least...!"
     k ""
 
-# game/scripts/kali_events.rpy:6697
+# game/scripts/kali_events.rpy:6695
 translate pt_br k_fancyq_54475cce_1:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
     k ""
 
-# game/scripts/kali_events.rpy:6699
+# game/scripts/kali_events.rpy:6697
 translate pt_br k_fancyq_26296101_2:
 
     # k "What do you mean?"
     k ""
 
-# game/scripts/kali_events.rpy:6700
+# game/scripts/kali_events.rpy:6698
 translate pt_br k_fancyq_30d037c5:
 
     # c "World power, that sort of thing."
     c ""
 
-# game/scripts/kali_events.rpy:6701
+# game/scripts/kali_events.rpy:6699
 translate pt_br k_fancyq_93334484:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:6702
+# game/scripts/kali_events.rpy:6700
 translate pt_br k_fancyq_898775b5:
 
     # c "How many androids can she connect to?"
     c ""
 
-# game/scripts/kali_events.rpy:6703
+# game/scripts/kali_events.rpy:6701
 translate pt_br k_fancyq_03f3df22:
 
     # k "As many as she wants, hypothetically!"
     k ""
 
-# game/scripts/kali_events.rpy:6704
+# game/scripts/kali_events.rpy:6702
 translate pt_br k_fancyq_249ccd00:
 
     # c "Great, we can take over the world easily."
     c ""
 
-# game/scripts/kali_events.rpy:6705
+# game/scripts/kali_events.rpy:6703
 translate pt_br k_fancyq_f9b96cb1:
 
     # k "Don't joke about that! This is actually kind of scary!"
     k ""
 
-# game/scripts/kali_events.rpy:6707
+# game/scripts/kali_events.rpy:6705
 translate pt_br k_fancyq_9333294d_1:
 
     # k "But I created it! I made a hive mind! That was me!"
     k ""
 
-# game/scripts/kali_events.rpy:6708
+# game/scripts/kali_events.rpy:6706
 translate pt_br k_fancyq_e9d1c1f4_2:
 
     # k "Well it was mostly me! Maybe half, at least...!"
     k ""
 
-# game/scripts/kali_events.rpy:6710
+# game/scripts/kali_events.rpy:6708
 translate pt_br k_fancyq_54475cce_2:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
     k ""
 
-# game/scripts/kali_events.rpy:6711
+# game/scripts/kali_events.rpy:6709
 translate pt_br k_fancyq_84382d75:
 
     # c "I guess we're going to find out..."
     c ""
 
-# game/scripts/kali_events.rpy:6713
+# game/scripts/kali_events.rpy:6711
 translate pt_br k_fancyq_6e526b36:
 
     # aar "Stop! {b}STOP!{/b}"
     aar ""
 
-# game/scripts/kali_events.rpy:6714
+# game/scripts/kali_events.rpy:6712
 translate pt_br k_fancyq_0efea4e4:
 
     # cart "Serni, put his android down! You'll kill someone if you throw her off!"
     cart ""
 
-# game/scripts/kali_events.rpy:6715
+# game/scripts/kali_events.rpy:6713
 translate pt_br k_fancyq_02cc449e:
 
     # serni "Nin victorui glenn- mír. Nin. Nin!"
     serni ""
 
-# game/scripts/kali_events.rpy:6716
+# game/scripts/kali_events.rpy:6714
 translate pt_br k_fancyq_bdb2cbae:
 
     # aar "Control your slave!"
     aar ""
 
-# game/scripts/kali_events.rpy:6717
+# game/scripts/kali_events.rpy:6715
 translate pt_br k_fancyq_73d74431:
 
     # cart "Serni! SERNI! Put her down, you big angry grape!"
     cart ""
 
-# game/scripts/kali_events.rpy:6719
+# game/scripts/kali_events.rpy:6717
 translate pt_br k_fancyq_915ee0ff:
 
     # serni "SERNI VICTORUI! NIN! Im tur- ceri- im anír- su victorui!" with ssshake
     serni "" with ssshake
 
-# game/scripts/kali_events.rpy:6720
+# game/scripts/kali_events.rpy:6718
 translate pt_br k_fancyq_951bffc3:
 
     # kd "What the hell is going on over there!?"
     kd ""
 
-# game/scripts/kali_events.rpy:6721
+# game/scripts/kali_events.rpy:6719
 translate pt_br k_fancyq_70cef6ad:
 
     # mari "Does anyone speak elvish!?"
     mari ""
 
-# game/scripts/kali_events.rpy:6723
+# game/scripts/kali_events.rpy:6721
 translate pt_br k_fancyq_7d6d32ff:
 
     # lu "Um... I think now is a good time to go... things are getting pretty hectic here..."
     lu ""
 
-# game/scripts/kali_events.rpy:6725
+# game/scripts/kali_events.rpy:6723
 translate pt_br k_fancyq_b25f214c:
 
     # k "I'll take any excuse to leave. Take [botname] and go to the helicopter, we'll be right there. But {u}don't{/u} take my laptop, leave that here. I'll grab it on my way out."
     k ""
 
-# game/scripts/kali_events.rpy:6726
+# game/scripts/kali_events.rpy:6724
 translate pt_br k_fancyq_52c8742d:
 
     # lu "Oh, okay."
     lu ""
 
-# game/scripts/kali_events.rpy:6728
+# game/scripts/kali_events.rpy:6726
 translate pt_br k_fancyq_d88b1cf2:
 
     # k "Okay, well at least we're leaving now. We should probably keep [botname] and my laptop away from each other for now..."
     k ""
 
-# game/scripts/kali_events.rpy:6729
+# game/scripts/kali_events.rpy:6727
 translate pt_br k_fancyq_848b0b66:
 
     # c "Good idea."
     c ""
 
-# game/scripts/kali_events.rpy:6731
+# game/scripts/kali_events.rpy:6729
 translate pt_br k_fancyq_89466a90:
 
     # k "Bye, Dad! We're leaving!"
     k ""
 
-# game/scripts/kali_events.rpy:6732
+# game/scripts/kali_events.rpy:6730
 translate pt_br k_fancyq_4c509ea3:
 
     # kd "Oh, okay! I'll call you, sweetie!"
     kd ""
 
-# game/scripts/kali_events.rpy:6734
+# game/scripts/kali_events.rpy:6732
 translate pt_br k_fancyq_aa321592:
 
     # "Kali firmly grasps her laptop during the entire ride back..."
     ""
 
-# game/scripts/kali_events.rpy:6739
+# game/scripts/kali_events.rpy:6737
 translate pt_br k_fancyq_2085091e:
 
     # k "Phew, we're finally home... Thank you for coming with me, [name]."
     k ""
 
-# game/scripts/kali_events.rpy:6740
+# game/scripts/kali_events.rpy:6738
 translate pt_br k_fancyq_50c08646:
 
     # c "You seem worried."
     c ""
 
-# game/scripts/kali_events.rpy:6741
+# game/scripts/kali_events.rpy:6739
 translate pt_br k_fancyq_7be2fbea:
 
     # k "I am! I don't know what to think about [botname]... I'm actually kind of scared of her now. She could be listening to us right now!"
     k ""
 
-# game/scripts/kali_events.rpy:6742
+# game/scripts/kali_events.rpy:6740
 translate pt_br k_fancyq_4d791159:
 
     # c "Why don't you talk to her about it?"
     c ""
 
-# game/scripts/kali_events.rpy:6743
+# game/scripts/kali_events.rpy:6741
 translate pt_br k_fancyq_c4223b7e:
 
     # k "Should I?"
     k ""
 
-# game/scripts/kali_events.rpy:6744
+# game/scripts/kali_events.rpy:6742
 translate pt_br k_fancyq_0c775062:
 
     # c "She's still your friend."
     c ""
 
-# game/scripts/kali_events.rpy:6745
+# game/scripts/kali_events.rpy:6743
 translate pt_br k_fancyq_698b6815:
 
     # k "...Alright... I'll think about it..."
     k ""
 
-# game/scripts/kali_events.rpy:6768
+# game/scripts/kali_events.rpy:6766
 translate pt_br kaliapp_be399ab0:
 
     # k "It's done!"
     k ""
 
-# game/scripts/kali_events.rpy:6769
+# game/scripts/kali_events.rpy:6767
 translate pt_br kaliapp_6e6e7e86:
 
     # lu "Hmmmm...? It still looks like scribbles to me..."
     lu ""
 
-# game/scripts/kali_events.rpy:6770
+# game/scripts/kali_events.rpy:6768
 translate pt_br kaliapp_4e229ba8:
 
     # k "That's just the code, the average person isn't going to see it. Go get [name]!"
     k ""
 
-# game/scripts/kali_events.rpy:6772
+# game/scripts/kali_events.rpy:6770
 translate pt_br kaliapp_1aaaed22:
 
     # lu "Uh? Oh, he's at the door already. Hey bro~"
     lu ""
 
-# game/scripts/kali_events.rpy:6773
+# game/scripts/kali_events.rpy:6771
 translate pt_br kaliapp_99979dba:
 
     # k "Come here, look!"
     k ""
 
-# game/scripts/kali_events.rpy:6775
+# game/scripts/kali_events.rpy:6773
 translate pt_br kaliapp_ce9e0d58:
 
     # k "The app I've been developing for 7 years is finally done!"
     k ""
 
-# game/scripts/kali_events.rpy:6776
+# game/scripts/kali_events.rpy:6774
 translate pt_br kaliapp_40dafaa2:
 
     # lu "You've been making an app?"
     lu ""
 
-# game/scripts/kali_events.rpy:6777
+# game/scripts/kali_events.rpy:6775
 translate pt_br kaliapp_58a977d6:
 
     # k "I've told you about it like 10 times this week!"
     k ""
 
-# game/scripts/kali_events.rpy:6778
+# game/scripts/kali_events.rpy:6776
 translate pt_br kaliapp_b0fa6ee7:
 
     # c "I didn't know about this."
     c ""
 
-# game/scripts/kali_events.rpy:6779
+# game/scripts/kali_events.rpy:6777
 translate pt_br kaliapp_f2bd6847:
 
     # k "I keep my computer on all the time, can't you read the code?"
     k ""
 
-# game/scripts/kali_events.rpy:6780
+# game/scripts/kali_events.rpy:6778
 translate pt_br kaliapp_ef65653b:
 
     # c "Not that well..."
     c ""
 
-# game/scripts/kali_events.rpy:6781
+# game/scripts/kali_events.rpy:6779
 translate pt_br kaliapp_cd2379c0:
 
     # lu "What does it do, sis?"
     lu ""
 
-# game/scripts/kali_events.rpy:6783
+# game/scripts/kali_events.rpy:6781
 translate pt_br kaliapp_98c5cc4b:
 
     # k "It's basically a hack for androids. It lets you control them remotely, and even use a VR headset and body suit to fully control their limbs! Or just a controller."
     k ""
 
-# game/scripts/kali_events.rpy:6785
+# game/scripts/kali_events.rpy:6783
 translate pt_br kaliapp_5d3b065c:
 
     # k "Oh, and it allows you to track your android, which is something only the company wants to be able to do..."
     k ""
 
-# game/scripts/kali_events.rpy:6786
+# game/scripts/kali_events.rpy:6784
 translate pt_br kaliapp_ac98f649:
 
     # lu "Isn't some of that kind of... illegal?"
     lu ""
 
-# game/scripts/kali_events.rpy:6788
+# game/scripts/kali_events.rpy:6786
 translate pt_br kaliapp_ad8f6c20:
 
     # k "Yeah, probably..."
     k ""
 
-# game/scripts/kali_events.rpy:6790
+# game/scripts/kali_events.rpy:6788
 translate pt_br kaliapp_83503be6:
 
     # k "But you can see all of the android's stats as well, like body temperature. You can even force it to change modes without a command!"
     k ""
 
-# game/scripts/kali_events.rpy:6791
+# game/scripts/kali_events.rpy:6789
 translate pt_br kaliapp_3d996283:
 
     # lu "So, are you gonna sell it then and make some money?"
     lu ""
 
-# game/scripts/kali_events.rpy:6793
+# game/scripts/kali_events.rpy:6791
 translate pt_br kaliapp_8bfe2a71:
 
     # k "Yeah! I was thinking I'd put it on an app store for like $999 or something."
     k ""
 
-# game/scripts/kali_events.rpy:6794
+# game/scripts/kali_events.rpy:6792
 translate pt_br kaliapp_5ef38185:
 
     # lu "Won't you get caught that way?"
     lu ""
 
-# game/scripts/kali_events.rpy:6795
+# game/scripts/kali_events.rpy:6793
 translate pt_br kaliapp_d5a40223:
 
     # k "That's partly why it's so expensive. There's no way everyone is going to want to do this sort of thing anyway."
     k ""
 
-# game/scripts/kali_events.rpy:6796
+# game/scripts/kali_events.rpy:6794
 translate pt_br kaliapp_f190dc03:
 
     # lu "Then why are you making it?"
     lu ""
 
-# game/scripts/kali_events.rpy:6798
+# game/scripts/kali_events.rpy:6796
 translate pt_br kaliapp_51a82ebb:
 
     # k "Oh my god, what is in that empty head of yours? I talk about it all the time!"
     k ""
 
-# game/scripts/kali_events.rpy:6800
+# game/scripts/kali_events.rpy:6798
 translate pt_br kaliapp_19c8371b:
 
     # k "Remember when I was 17, and we basically lived in the Nero Inc. tower? Seeing all those annoying androids made me want to control them and do some stupid shit with them like tip the copier."
     k ""
 
-# game/scripts/kali_events.rpy:6801
+# game/scripts/kali_events.rpy:6799
 translate pt_br kaliapp_9d90ba90:
 
     # k "Anyway, I realized soon after that, that what I was doing is something I could get sued for. They really want to keep all of their systems private."
     k ""
 
-# game/scripts/kali_events.rpy:6803
+# game/scripts/kali_events.rpy:6801
 translate pt_br kaliapp_f32994f0:
 
     # lu "Probably because it could cause a war."
     lu ""
 
-# game/scripts/kali_events.rpy:6804
+# game/scripts/kali_events.rpy:6802
 translate pt_br kaliapp_13480cfa:
 
     # k "What? What do you mean?"
     k ""
 
-# game/scripts/kali_events.rpy:6806
+# game/scripts/kali_events.rpy:6804
 translate pt_br kaliapp_a6c1bfbc:
 
     # lu "Dude, if humans can get inside an android's body, they'll be able to do all sorts of superhuman stuff! An android could punch through a human easily!"
     lu ""
 
-# game/scripts/kali_events.rpy:6808
+# game/scripts/kali_events.rpy:6806
 translate pt_br kaliapp_6f23dc21:
 
     # k "I've considered this! The android's systems are still completely active, it just doesn't have control over them. There is a way to hack the harm precaution system out, but I don't give anyone access to that. An android will still never hurt a human."
     k ""
 
-# game/scripts/kali_events.rpy:6809
+# game/scripts/kali_events.rpy:6807
 translate pt_br kaliapp_100c262d:
 
     # lu "Sure, but what if they don't need to? You can rob a bank without hurting anyone!"
     lu ""
 
-# game/scripts/kali_events.rpy:6811
+# game/scripts/kali_events.rpy:6809
 translate pt_br kaliapp_bc5960e1:
 
     # k "Egh, look, I'm sure someone somewhere will use my app for malicious purposes, that's another reason why it's so expensive! I don't want any children to get ahold of this."
     k ""
 
-# game/scripts/kali_events.rpy:6813
+# game/scripts/kali_events.rpy:6811
 translate pt_br kaliapp_af48e8aa:
 
     # k "It'll do far more good than bad!"
     k ""
 
-# game/scripts/kali_events.rpy:6814
+# game/scripts/kali_events.rpy:6812
 translate pt_br kaliapp_e664112b:
 
     # lu "I'm just saying, sis... it's pretty dangerous."
     lu ""
 
-# game/scripts/kali_events.rpy:6816
+# game/scripts/kali_events.rpy:6814
 translate pt_br kaliapp_89c1e599:
 
     # k "What do you think, [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:6820
+# game/scripts/kali_events.rpy:6818
 translate pt_br kaliapp_8e8aa5ed:
 
     # k "Really? Come on... It's been my project for 7 years!"
     k ""
 
-# game/scripts/kali_events.rpy:6821
+# game/scripts/kali_events.rpy:6819
 translate pt_br kaliapp_0684ea9a:
 
     # c "It could get you, and your father in a lot of trouble."
     c ""
 
-# game/scripts/kali_events.rpy:6822
+# game/scripts/kali_events.rpy:6820
 translate pt_br kaliapp_a4e65cd9:
 
     # k "I'm completely anonymous, I always use a VPN."
     k ""
 
-# game/scripts/kali_events.rpy:6823
+# game/scripts/kali_events.rpy:6821
 translate pt_br kaliapp_db7aeee8:
 
     # c "And if you're ever going to be the CEO of Nero Inc., this is going to look very bad."
     c ""
 
-# game/scripts/kali_events.rpy:6825
+# game/scripts/kali_events.rpy:6823
 translate pt_br kaliapp_d73c12c2:
 
     # k "Yeah, that would be a problem..."
     k ""
 
-# game/scripts/kali_events.rpy:6826
+# game/scripts/kali_events.rpy:6824
 translate pt_br kaliapp_f925d20b:
 
     # k "Whatever. I haven't decided if I'm going to take up his offer anyway."
     k ""
 
-# game/scripts/kali_events.rpy:6828
+# game/scripts/kali_events.rpy:6826
 translate pt_br kaliapp_b6ec8b5f:
 
     # lu "Oh my god! Yes you are! You are not going to pass up a multi billion dollar company for some stupid app!"
     lu ""
 
-# game/scripts/kali_events.rpy:6830
+# game/scripts/kali_events.rpy:6828
 translate pt_br kaliapp_9619d001:
 
     # k "I'll do what I want, sis."
     k ""
 
-# game/scripts/kali_events.rpy:6831
+# game/scripts/kali_events.rpy:6829
 translate pt_br kaliapp_39702f52:
 
     # lu "Loser."
     lu ""
 
-# game/scripts/kali_events.rpy:6833
+# game/scripts/kali_events.rpy:6831
 translate pt_br kaliapp_a5786e1d:
 
     # k "I don't really care about the money. Like I said, the price is mostly so high because I don't want people getting it."
     k ""
 
-# game/scripts/kali_events.rpy:6835
+# game/scripts/kali_events.rpy:6833
 translate pt_br kaliapp_249adf10:
 
     # lu "Yeah, but you kinda want the money."
     lu ""
 
-# game/scripts/kali_events.rpy:6837
+# game/scripts/kali_events.rpy:6835
 translate pt_br kaliapp_45bf41c1:
 
     # k "Meh, I don't need it. I'm making more than enough at papa rons."
     k ""
 
-# game/scripts/kali_events.rpy:6838
+# game/scripts/kali_events.rpy:6836
 translate pt_br kaliapp_cebf6184:
 
     # lu "Dude, papa rons is barely above minimum wage."
     lu ""
 
-# game/scripts/kali_events.rpy:6839
+# game/scripts/kali_events.rpy:6837
 translate pt_br kaliapp_8a41540a:
 
     # k "Yeah, but I make more than enough every year."
     k ""
 
-# game/scripts/kali_events.rpy:6842
+# game/scripts/kali_events.rpy:6840
 translate pt_br kaliapp_f58706a8:
 
     # k "Thanks!"
     k ""
 
-# game/scripts/kali_events.rpy:6843
+# game/scripts/kali_events.rpy:6841
 translate pt_br kaliapp_694bf406:
 
     # lu "You are such a kiss ass, dude."
     lu ""
 
-# game/scripts/kali_events.rpy:6844
+# game/scripts/kali_events.rpy:6842
 translate pt_br kaliapp_caac9bbe:
 
     # c "I really do think it's a good idea."
     c ""
 
-# game/scripts/kali_events.rpy:6846
+# game/scripts/kali_events.rpy:6844
 translate pt_br kaliapp_8e7d6d04:
 
     # lu "Whatever, we all know Kali whips you all night in that dungeon of yours..."
     lu ""
 
-# game/scripts/kali_events.rpy:6847
+# game/scripts/kali_events.rpy:6845
 translate pt_br kaliapp_9667866f:
 
     # k "Hahaha, oh my god..."
     k ""
 
-# game/scripts/kali_events.rpy:6849
+# game/scripts/kali_events.rpy:6847
 translate pt_br kaliapp_80cfa3cd:
 
     # k "Oh! We should test it out on [botname], right?"
     k ""
 
-# game/scripts/kali_events.rpy:6850
+# game/scripts/kali_events.rpy:6848
 translate pt_br kaliapp_5dd74473:
 
     # c "Sure, I can ask her if she's up for it."
     c ""
 
-# game/scripts/kali_events.rpy:6851
+# game/scripts/kali_events.rpy:6849
 translate pt_br kaliapp_fb1a244d:
 
     # k "Please do! I can't release this without knowing for certain it works!"
     k ""
 
-# game/scripts/kali_events.rpy:6856
+# game/scripts/kali_events.rpy:6854
 translate pt_br kaliapp_fa963c99:
 
     # c "Are you interested in testing Kali's new app?"
     c ""
 
-# game/scripts/kali_events.rpy:6857
+# game/scripts/kali_events.rpy:6855
 translate pt_br kaliapp_27d6924a:
 
     # bot "Oh! She made another app for me? Sure, I would love to help Kali!"
     bot ""
 
-# game/scripts/kali_events.rpy:6860
+# game/scripts/kali_events.rpy:6858
 translate pt_br kaliapp_45e703b0:
 
     # k "Okay, so I'm essentially going to hack you right now, are you alright with that?"
     k ""
 
-# game/scripts/kali_events.rpy:6861
+# game/scripts/kali_events.rpy:6859
 translate pt_br kaliapp_9da5b3ef:
 
     # bot "You're not going to do anything bad, are you...?"
     bot ""
 
-# game/scripts/kali_events.rpy:6862
+# game/scripts/kali_events.rpy:6860
 translate pt_br kaliapp_10b1adf9:
 
     # k "No, of course not! I just want to see if this works. I'll move you around, see what you see, talk through you, that sort of thing."
     k ""
 
-# game/scripts/kali_events.rpy:6863
+# game/scripts/kali_events.rpy:6861
 translate pt_br kaliapp_20f6ec6c:
 
     # bot "What will happen to me then?"
     bot ""
 
-# game/scripts/kali_events.rpy:6864
+# game/scripts/kali_events.rpy:6862
 translate pt_br kaliapp_819089d8:
 
     # k "You'll still be there, you just won't have control. Uh... I guess since you're conscious you would just feel like you're looking out of a window?"
     k ""
 
-# game/scripts/kali_events.rpy:6865
+# game/scripts/kali_events.rpy:6863
 translate pt_br kaliapp_1a791e49:
 
     # bot "Oh... Well, I trust you Kali."
     bot ""
 
-# game/scripts/kali_events.rpy:6866
+# game/scripts/kali_events.rpy:6864
 translate pt_br kaliapp_91899813:
 
     # k "Awesome! Thanks."
     k ""
 
-# game/scripts/kali_events.rpy:6868
+# game/scripts/kali_events.rpy:6866
 translate pt_br kaliapp_b1b9b095:
 
     # "Kali messes around with her computer. She finalizes some things and looks over her code one last time. Once she's sure everything will be safe for [botname], she begins..."
     ""
 
-# game/scripts/kali_events.rpy:6870
+# game/scripts/kali_events.rpy:6868
 translate pt_br kaliapp_c50009e0:
 
     # k "Alright, here I go."
     k ""
 
-# game/scripts/kali_events.rpy:6872
+# game/scripts/kali_events.rpy:6870
 translate pt_br kaliapp_51164b46:
 
     # bot "NN!" with sshake
     bot "" with sshake
 
-# game/scripts/kali_events.rpy:6874
+# game/scripts/kali_events.rpy:6872
 translate pt_br kaliapp_7fdf868c:
 
     # bot "Oh shit, it's working! Oh my god! The controls are great..."
     bot ""
 
-# game/scripts/kali_events.rpy:6875
+# game/scripts/kali_events.rpy:6873
 translate pt_br kaliapp_5198ba24:
 
     # lu "I'm hearing both of you at the same time..."
     lu ""
 
-# game/scripts/kali_events.rpy:6876
+# game/scripts/kali_events.rpy:6874
 translate pt_br kaliapp_cdcdc77b:
 
     # bot "Yeah, the android will always mimic what the user is saying. You can also type it out, but that's much slower."
     bot ""
 
-# game/scripts/kali_events.rpy:6878
+# game/scripts/kali_events.rpy:6876
 translate pt_br kaliapp_f4f4e864:
 
     # bot "Damn, she has HUGE tits!"
     bot ""
 
-# game/scripts/kali_events.rpy:6881
+# game/scripts/kali_events.rpy:6879
 translate pt_br kaliapp_73f87ebc:
 
     # lu "You just noticed that?"
     lu ""
 
-# game/scripts/kali_events.rpy:6882
+# game/scripts/kali_events.rpy:6880
 translate pt_br kaliapp_518b89f7:
 
     # bot "Well no, I just never considered what they'd look like from my perspective..."
     bot ""
 
-# game/scripts/kali_events.rpy:6884
+# game/scripts/kali_events.rpy:6882
 translate pt_br kaliapp_7973c294:
 
     # bot "Hm, oh... It'd definitely be fun to use her on you, [name]... Maybe I could suck your cock with her?"
     bot ""
 
-# game/scripts/kali_events.rpy:6886
+# game/scripts/kali_events.rpy:6884
 translate pt_br kaliapp_f14687a2:
 
     # bot "-HN! No! That's too embarrassing! And put my mask back on!" with ssshake
     bot "" with ssshake
 
-# game/scripts/kali_events.rpy:6888
+# game/scripts/kali_events.rpy:6886
 translate pt_br kaliapp_1ed09ffc:
 
     # bot "Eggh~! Woah... I think she just took back control..."
     bot ""
 
-# game/scripts/kali_events.rpy:6890
+# game/scripts/kali_events.rpy:6888
 translate pt_br kaliapp_5673e5e8:
 
     # bot "Whatever, I'm sure that was because of her consciousness. Normal android's don't have a consciousness so they won't be able to take control."
     bot ""
 
-# game/scripts/kali_events.rpy:6892
+# game/scripts/kali_events.rpy:6890
 translate pt_br kaliapp_1376ad89:
 
     # "Zzzt!" with ssshake
     "" with ssshake
 
-# game/scripts/kali_events.rpy:6893
+# game/scripts/kali_events.rpy:6891
 translate pt_br kaliapp_8ad4de14:
 
     # k "Alright, that's enough. Thanks [botname]!"
     k ""
 
-# game/scripts/kali_events.rpy:6895
+# game/scripts/kali_events.rpy:6893
 translate pt_br kaliapp_cb3af4bf:
 
     # bot "Ergh... I have a headache..."
     bot ""
 
-# game/scripts/kali_events.rpy:6897
+# game/scripts/kali_events.rpy:6895
 translate pt_br kaliapp_68db5ae9:
 
     # bot "Wait... Can I use that thing on other androids?"
     bot ""
 
-# game/scripts/kali_events.rpy:6898
+# game/scripts/kali_events.rpy:6896
 translate pt_br kaliapp_fdaa8185:
 
     # k "Yeah, I don't see why you wouldn't be able to."
     k ""
 
-# game/scripts/kali_events.rpy:6900
+# game/scripts/kali_events.rpy:6898
 translate pt_br kaliapp_7a68d180:
 
     # bot "It seems to work by overriding all of my functions to your program. Well, all of the ones you want to override..."
     bot ""
 
-# game/scripts/kali_events.rpy:6901
+# game/scripts/kali_events.rpy:6899
 translate pt_br kaliapp_56b91c07:
 
     # bot "I could take back control, but that's not something other androids can do. Your program tried blocking one of my dormant programs, so it didn't bother me much. I think that's why I was able to do that."
     bot ""
 
-# game/scripts/kali_events.rpy:6902
+# game/scripts/kali_events.rpy:6900
 translate pt_br kaliapp_a74530c2:
 
     # bot "Since your app is wireless, it must be sort of be like a virus, am I right?"
     bot ""
 
-# game/scripts/kali_events.rpy:6903
+# game/scripts/kali_events.rpy:6901
 translate pt_br kaliapp_999dee79:
 
     # k "Yeah... I guess so. It does change an android's program a bit to allow for someone to take control of them. It can only work if their program is modified a bit."
     k ""
 
-# game/scripts/kali_events.rpy:6904
+# game/scripts/kali_events.rpy:6902
 translate pt_br kaliapp_b3b256c0:
 
     # bot "If that's true, and I'm able to connect to your app, then I must be able to directly interact with another android's program..."
     bot ""
 
-# game/scripts/kali_events.rpy:6905
+# game/scripts/kali_events.rpy:6903
 translate pt_br kaliapp_e1e15118:
 
     # bot "Are you able to modify whatever you want in an android?"
     bot ""
 
-# game/scripts/kali_events.rpy:6907
+# game/scripts/kali_events.rpy:6905
 translate pt_br kaliapp_cc2e758d:
 
     # k "Yeah, I have full control over whatever I want, for the most part. There's still a lot of systems inside androids I don't understand. I used your code to help."
     k ""
 
-# game/scripts/kali_events.rpy:6908
+# game/scripts/kali_events.rpy:6906
 translate pt_br kaliapp_8c53ebbb:
 
     # bot "You have my code?"
     bot ""
 
-# game/scripts/kali_events.rpy:6909
+# game/scripts/kali_events.rpy:6907
 translate pt_br kaliapp_8a873ede:
 
     # k "Yeah, it's very different from a normal android's actually. You have a shit ton of loops, I don't know why you have that."
     k ""
 
-# game/scripts/kali_events.rpy:6910
+# game/scripts/kali_events.rpy:6908
 translate pt_br kaliapp_1af2a765:
 
     # k "But other than that, everything else is pretty normal."
     k ""
 
-# game/scripts/kali_events.rpy:6911
+# game/scripts/kali_events.rpy:6909
 translate pt_br kaliapp_d57ab233:
 
     # bot "Controlling other androids would be pretty neat! I could make myself a lot of friends, heheh!"
     bot ""
 
-# game/scripts/kali_events.rpy:6912
+# game/scripts/kali_events.rpy:6910
 translate pt_br kaliapp_b0f023a3:
 
     # k "Well, you wouldn't really be able to move for yourself when you're hooking up to another android. You'd be blind."
     k ""
 
-# game/scripts/kali_events.rpy:6913
+# game/scripts/kali_events.rpy:6911
 translate pt_br kaliapp_2f0a0fb8:
 
     # bot "So long as I'm not wearing that thing, I would be able to see out of my eyes! I'm not limited to only two eyes, you know. I can see hundreds of different things at the same time!"
     bot ""
 
-# game/scripts/kali_events.rpy:6914
+# game/scripts/kali_events.rpy:6912
 translate pt_br kaliapp_2822878e:
 
     # bot "I'm looking at Ashley pee right now!"
     bot ""
 
-# game/scripts/kali_events.rpy:6915
+# game/scripts/kali_events.rpy:6913
 translate pt_br kaliapp_898cd03f:
 
     # c "We have cameras there?"
     c ""
 
-# game/scripts/kali_events.rpy:6917
+# game/scripts/kali_events.rpy:6915
 translate pt_br kaliapp_6ce6ef84:
 
     # bot "Oh, I forgot to tell you I-"
     bot ""
 
-# game/scripts/kali_events.rpy:6919
+# game/scripts/kali_events.rpy:6917
 translate pt_br kaliapp_e1fc19e3:
 
     # k "-Wait, you're right...! If I were able to upload this program into you, you would totally be able to take over other androids!"
     k ""
 
-# game/scripts/kali_events.rpy:6921
+# game/scripts/kali_events.rpy:6919
 translate pt_br kaliapp_75124582:
 
     # bot "That would be really cool, right [botown]? You could have an army of me!"
     bot ""
 
-# game/scripts/kali_events.rpy:6922
+# game/scripts/kali_events.rpy:6920
 translate pt_br kaliapp_a97d4f3c:
 
     # c "Sounds fun."
     c ""
 
-# game/scripts/kali_events.rpy:6924
+# game/scripts/kali_events.rpy:6922
 translate pt_br kaliapp_cdb7121d:
 
     # bot "He likes the idea, Kali! Can you do it?"
     bot ""
 
-# game/scripts/kali_events.rpy:6926
+# game/scripts/kali_events.rpy:6924
 translate pt_br kaliapp_1e44a96e:
 
     # lu "Oh my god, you're going to start the robot uprising, and it's going to start with her..."
     lu ""
 
-# game/scripts/kali_events.rpy:6928
+# game/scripts/kali_events.rpy:6926
 translate pt_br kaliapp_aaaa756c:
 
     # k "This isn't a sci-fi story, Lucia. It'll be fine."
     k ""
 
-# game/scripts/kali_events.rpy:6929
+# game/scripts/kali_events.rpy:6927
 translate pt_br kaliapp_0fe2c5e9:
 
     # lu "Whatever... Don't say I didn't warn you..."
     lu ""
 
-# game/scripts/kali_events.rpy:6931
+# game/scripts/kali_events.rpy:6929
 translate pt_br kaliapp_52f43fc5:
 
     # k "Alright, you're going to have to give me a couple of days to make something. I can use the template of you I have backed up on my computer to test it so it doesn't mess up anything inside you."
     k ""
 
-# game/scripts/kali_events.rpy:6932
+# game/scripts/kali_events.rpy:6930
 translate pt_br kaliapp_fc6171e5:
 
     # bot "Thank you!"
     bot ""
 
-# game/scripts/kali_events.rpy:6940
+# game/scripts/kali_events.rpy:6938
 translate pt_br kalirplay_7417fc2c:
 
     # "You and Maria wait for Kali to leave. Once her shift begins, Maria orders pizza..."
     ""
 
-# game/scripts/kali_events.rpy:6942
+# game/scripts/kali_events.rpy:6940
 translate pt_br kalirplay_c697f105:
 
     # m "The app says she's right outside the hotel, are you excited!? I know I am!"
     m ""
 
-# game/scripts/kali_events.rpy:6943
+# game/scripts/kali_events.rpy:6941
 translate pt_br kalirplay_b950e5d9:
 
     # k "*knock knock knock* Pizza!"
     k ""
 
-# game/scripts/kali_events.rpy:6945
+# game/scripts/kali_events.rpy:6943
 translate pt_br kalirplay_8d7585ee:
 
     # m "Oh! She's here! Ahem..."
     m ""
 
-# game/scripts/kali_events.rpy:6946
+# game/scripts/kali_events.rpy:6944
 translate pt_br kalirplay_0f943ea2:
 
     # m "Come in!"
     m ""
 
-# game/scripts/kali_events.rpy:6948
+# game/scripts/kali_events.rpy:6946
 translate pt_br kalirplay_cb865e23:
 
     # k "Hey, order some pizza?"
     k ""
 
-# game/scripts/kali_events.rpy:6949
+# game/scripts/kali_events.rpy:6947
 translate pt_br kalirplay_508021fa:
 
     # m "I did! You're right on time, just put the pizza on the bed."
     m ""
 
-# game/scripts/kali_events.rpy:6951
+# game/scripts/kali_events.rpy:6949
 translate pt_br kalirplay_b14d5696:
 
     # k "The bed...?"
     k ""
 
-# game/scripts/kali_events.rpy:6952
+# game/scripts/kali_events.rpy:6950
 translate pt_br kalirplay_5f0ba691:
 
     # k "Why don't I just give it to y-"
     k ""
 
-# game/scripts/kali_events.rpy:6954
+# game/scripts/kali_events.rpy:6952
 translate pt_br kalirplay_1099f008:
 
     # k "-Maria?"
     k ""
 
-# game/scripts/kali_events.rpy:6956
+# game/scripts/kali_events.rpy:6954
 translate pt_br kalirplay_2b0a7085:
 
     # k "Hmmm!? Nn...?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6958
+# game/scripts/kali_events.rpy:6956
 translate pt_br kalirplay_f306dbe3:
 
     # k "NNNNN!!! MMM!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6960
+# game/scripts/kali_events.rpy:6958
 translate pt_br kalirplay_e4d9120f:
 
     # k "HM, MARRIMM! HELMME! MRM!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6962
+# game/scripts/kali_events.rpy:6960
 translate pt_br kalirplay_7cc9e56f:
 
     # k "AAAHMMM!!! NN!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6964
+# game/scripts/kali_events.rpy:6962
 translate pt_br kalirplay_4a5fbc83:
 
     # k "NNGH! SSSTOMM! MMM!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6966
+# game/scripts/kali_events.rpy:6964
 translate pt_br kalirplay_a9e00b5e:
 
     # c "Calm down."
     c ""
 
-# game/scripts/kali_events.rpy:6967
+# game/scripts/kali_events.rpy:6965
 translate pt_br kalirplay_dc5da507:
 
     # k "HMM!? MM!"
     k ""
 
-# game/scripts/kali_events.rpy:6969
+# game/scripts/kali_events.rpy:6967
 translate pt_br kalirplay_f34d8fef:
 
     # k "MMMM! MARRIMM!!! NNNNM! NN!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6970
+# game/scripts/kali_events.rpy:6968
 translate pt_br kalirplay_6cfa2fb0:
 
     # c "Kali!"
     c ""
 
-# game/scripts/kali_events.rpy:6972
+# game/scripts/kali_events.rpy:6970
 translate pt_br kalirplay_a61951a4:
 
     # k "HNN! MM- Nnn? Hmmm!?"
     k ""
 
-# game/scripts/kali_events.rpy:6974
+# game/scripts/kali_events.rpy:6972
 translate pt_br kalirplay_c7357f7a:
 
     # k "[name]!?"
     k ""
 
-# game/scripts/kali_events.rpy:6976
+# game/scripts/kali_events.rpy:6974
 translate pt_br kalirplay_dab59614:
 
     # k "Ahhh... Hahh... Oh my god... You scared me so much..."
     k ""
 
-# game/scripts/kali_events.rpy:6977
+# game/scripts/kali_events.rpy:6975
 translate pt_br kalirplay_4f8cbcf0:
 
     # k "I thought you were... Nnn... Nevermind..."
     k ""
 
-# game/scripts/kali_events.rpy:6979
+# game/scripts/kali_events.rpy:6977
 translate pt_br kalirplay_af7d0666:
 
     # k "Nnn... Actually, now that I know it was you... That was really ho-"
     k ""
 
-# game/scripts/kali_events.rpy:6981
+# game/scripts/kali_events.rpy:6979
 translate pt_br kalirplay_5cb0b23c:
 
     # k "MMM!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6985
+# game/scripts/kali_events.rpy:6983
 translate pt_br kalirplay_dd8f8c5f:
 
     # k "Wait, you're tying me up? Why?"
     k ""
 
-# game/scripts/kali_events.rpy:6986
+# game/scripts/kali_events.rpy:6984
 translate pt_br kalirplay_140d437f:
 
     # c "You'll like it more."
     c ""
 
-# game/scripts/kali_events.rpy:6988
+# game/scripts/kali_events.rpy:6986
 translate pt_br kalirplay_fc855f44:
 
     # k "Like it more...?"
     k ""
 
-# game/scripts/kali_events.rpy:6990
+# game/scripts/kali_events.rpy:6988
 translate pt_br kalirplay_132553f3:
 
     # k "Nn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:6992
+# game/scripts/kali_events.rpy:6990
 translate pt_br kalirplay_1f2b91fb:
 
     # k "W-Wait, you're already getting started? I'm not ready y-"
     k ""
 
-# game/scripts/kali_events.rpy:6994
+# game/scripts/kali_events.rpy:6992
 translate pt_br kalirplay_69242bbe:
 
     # k "Nnnhhg!"
     k ""
 
-# game/scripts/kali_events.rpy:6995
+# game/scripts/kali_events.rpy:6993
 translate pt_br kalirplay_e28d658e:
 
     # c "Then why are you so wet?"
     c ""
 
-# game/scripts/kali_events.rpy:6996
+# game/scripts/kali_events.rpy:6994
 translate pt_br kalirplay_0ec0abe7:
 
     # k "Mmmmm~ Hnn..."
     k ""
 
-# game/scripts/kali_events.rpy:6999
+# game/scripts/kali_events.rpy:6997
 translate pt_br kalirplay_07c7fef6:
 
     # k "Ffffmmm! Nggghhh...!"
     k ""
 
-# game/scripts/kali_events.rpy:7000
+# game/scripts/kali_events.rpy:6998
 translate pt_br kalirplay_87fea7f7:
 
     # k "Mnn, nn! Fffkkg, mmm gnna cum! Mmm!"
     k ""
 
-# game/scripts/kali_events.rpy:7001
+# game/scripts/kali_events.rpy:6999
 translate pt_br kalirplay_55f2a2c4:
 
     # k "Fggk! Fggk! FFFFGKK!"
     k ""
 
-# game/scripts/kali_events.rpy:7003
+# game/scripts/kali_events.rpy:7001
 translate pt_br kalirplay_5e303604:
 
     # k "MMMMMMMMMMNNNN!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:7005
+# game/scripts/kali_events.rpy:7003
 translate pt_br kalirplay_245ae429:
 
     # k "HNN! HNNN! NNNNN!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:7007
+# game/scripts/kali_events.rpy:7005
 translate pt_br kalirplay_39018eaa:
 
     # k "Ahhh! Hahhh! Hnnn...! Ahhh..."
     k ""
 
-# game/scripts/kali_events.rpy:7008
+# game/scripts/kali_events.rpy:7006
 translate pt_br kalirplay_2fe398a8:
 
     # k "Ahh... Fuck... Fuck... Did... Did I squirt...?"
     k ""
 
-# game/scripts/kali_events.rpy:7013
+# game/scripts/kali_events.rpy:7011
 translate pt_br kalirplay_5e633893:
 
     # k "Wow... Where did that come from...?"
     k ""
 
-# game/scripts/kali_events.rpy:7014
+# game/scripts/kali_events.rpy:7012
 translate pt_br kalirplay_db738985:
 
     # c "We're not done yet..."
     c ""
 
-# game/scripts/kali_events.rpy:7016
+# game/scripts/kali_events.rpy:7014
 translate pt_br kalirplay_93334484:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:7019
+# game/scripts/kali_events.rpy:7017
 translate pt_br kalirplay_84d35ee5:
 
     # k "FUCK!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7021
+# game/scripts/kali_events.rpy:7019
 translate pt_br kalirplay_689920c3:
 
     # k "Wait! Wait!"
     k ""
 
-# game/scripts/kali_events.rpy:7023
+# game/scripts/kali_events.rpy:7021
 translate pt_br kalirplay_5052f102:
 
     # k "NNNNNN!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7025
+# game/scripts/kali_events.rpy:7023
 translate pt_br kalirplay_551bfdf3:
 
     # k "Fuck, fuck! AHH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7026
+# game/scripts/kali_events.rpy:7024
 translate pt_br kalirplay_0c480a4f:
 
     # k "NNNGHHAAAAH!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:7027
+# game/scripts/kali_events.rpy:7025
 translate pt_br kalirplay_65ba5a5d:
 
     # k "[name]! Damn it! I'm too sensitive! I just came! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7028
+# game/scripts/kali_events.rpy:7026
 translate pt_br kalirplay_d8848f71:
 
     # k "Please, wait! NN! FUCK! I can't stop CUMMING!"
     k ""
 
-# game/scripts/kali_events.rpy:7029
+# game/scripts/kali_events.rpy:7027
 translate pt_br kalirplay_5eed34a7:
 
     # k "AAAAAAAH! AGHH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7034
+# game/scripts/kali_events.rpy:7032
 translate pt_br kalirplay_2183d872:
 
     # a "Looks like it hurts..."
     a ""
 
-# game/scripts/kali_events.rpy:7035
+# game/scripts/kali_events.rpy:7033
 translate pt_br kalirplay_c773a679:
 
     # m "Apparently she likes it that way."
     m ""
 
-# game/scripts/kali_events.rpy:7036
+# game/scripts/kali_events.rpy:7034
 translate pt_br kalirplay_4cd5a064:
 
     # a "She looks so cute when she's in pain!"
     a ""
 
-# game/scripts/kali_events.rpy:7037
+# game/scripts/kali_events.rpy:7035
 translate pt_br kalirplay_3d70c1af:
 
     # m "Ashley..."
     m ""
 
-# game/scripts/kali_events.rpy:7040
+# game/scripts/kali_events.rpy:7038
 translate pt_br kalirplay_7d032aab:
 
     # k "HNN! OH MY GOD! OH MY GOD! YOU'RE STILL GOING!"
     k ""
 
-# game/scripts/kali_events.rpy:7041
+# game/scripts/kali_events.rpy:7039
 translate pt_br kalirplay_2f1627ed:
 
     # k "GOD, FUCK! DAMN IT! FUCK!!! SHIT!"
     k ""
 
-# game/scripts/kali_events.rpy:7042
+# game/scripts/kali_events.rpy:7040
 translate pt_br kalirplay_d876ec4d:
 
     # k "FUCKKK! [name]! AAAAAAAH!!! FUCK! FUCKING, FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7044
+# game/scripts/kali_events.rpy:7042
 translate pt_br kalirplay_6b16eab1:
 
     # k "AGHN!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7046
+# game/scripts/kali_events.rpy:7044
 translate pt_br kalirplay_92b7d2d2:
 
     # k "*gasp*! FUCK! You're cumming!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7048
+# game/scripts/kali_events.rpy:7046
 translate pt_br kalirplay_d9693be3:
 
     # k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7051
+# game/scripts/kali_events.rpy:7049
 translate pt_br kalirplay_912493f7:
 
     # k "Nnnnghh..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7053
+# game/scripts/kali_events.rpy:7051
 translate pt_br kalirplay_5288f463:
 
     # k "Aaa-aahh... [name]... S-Still... C-Cumming... Nnngggh..."
     k ""
 
-# game/scripts/kali_events.rpy:7054
+# game/scripts/kali_events.rpy:7052
 translate pt_br kalirplay_6041387d:
 
     # k "N... No more... Please..."
     k ""
 
-# game/scripts/kali_events.rpy:7056
+# game/scripts/kali_events.rpy:7054
 translate pt_br kalirplay_88bceff5:
 
     # k "Wuh... Wait...! You're just going to leave...? Aren't you going to say anything?"
     k ""
 
-# game/scripts/kali_events.rpy:7057
+# game/scripts/kali_events.rpy:7055
 translate pt_br kalirplay_d5116ea6:
 
     # c "It'd just ruin the fantasy."
     c ""
 
-# game/scripts/kali_events.rpy:7059
+# game/scripts/kali_events.rpy:7057
 translate pt_br kalirplay_e2137c5b:
 
     # k "...What...?"
     k ""
 
-# game/scripts/kali_events.rpy:7061
+# game/scripts/kali_events.rpy:7059
 translate pt_br kalirplay_cad8959a:
 
     # k "Hnnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:7063
+# game/scripts/kali_events.rpy:7061
 translate pt_br kalirplay_1332adf9:
 
     # k "Wait...!"
     k ""
 
-# game/scripts/kali_events.rpy:7069
+# game/scripts/kali_events.rpy:7067
 translate pt_br kalirplay_ecf63373:
 
     # k "AAAH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7071
+# game/scripts/kali_events.rpy:7069
 translate pt_br kalirplay_744e7623:
 
     # k "Fuck... You're being really rough [name]..."
     k ""
 
-# game/scripts/kali_events.rpy:7073
+# game/scripts/kali_events.rpy:7071
 translate pt_br kalirplay_b15f9d5d:
 
     # k "NNNNNN!!! AAAAAAAAAAH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7075
+# game/scripts/kali_events.rpy:7073
 translate pt_br kalirplay_708fa6a1:
 
     # k "FUCK! MY ASS!? OH MY GOD!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7076
+# game/scripts/kali_events.rpy:7074
 translate pt_br kalirplay_8f252aae:
 
     # k "SHIT! AH! SLOW DOWN! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7077
+# game/scripts/kali_events.rpy:7075
 translate pt_br kalirplay_b8e45485:
 
     # k "NNNGHHAAAAH!!!"
     k ""
 
-# game/scripts/kali_events.rpy:7080
+# game/scripts/kali_events.rpy:7078
 translate pt_br kalirplay_2f1627ed_1:
 
     # k "GOD, FUCK! DAMN IT! FUCK!!! SHIT!"
     k ""
 
-# game/scripts/kali_events.rpy:7081
+# game/scripts/kali_events.rpy:7079
 translate pt_br kalirplay_5d28f2b3:
 
     # k "Nnn! Wait! [name] you're too rough! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7082
+# game/scripts/kali_events.rpy:7080
 translate pt_br kalirplay_a334f7df:
 
     # k "Please, wait! NN! FUCK! I can't- NGH, FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7083
+# game/scripts/kali_events.rpy:7081
 translate pt_br kalirplay_a3703209:
 
     # k "NNN, C-CUMMING! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7084
+# game/scripts/kali_events.rpy:7082
 translate pt_br kalirplay_f296d191:
 
     # k "NNNNNNNNNNAAAAAHHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7089
+# game/scripts/kali_events.rpy:7087
 translate pt_br kalirplay_2183d872_1:
 
     # a "Looks like it hurts..."
     a ""
 
-# game/scripts/kali_events.rpy:7090
+# game/scripts/kali_events.rpy:7088
 translate pt_br kalirplay_c773a679_1:
 
     # m "Apparently she likes it that way."
     m ""
 
-# game/scripts/kali_events.rpy:7091
+# game/scripts/kali_events.rpy:7089
 translate pt_br kalirplay_4cd5a064_1:
 
     # a "She looks so cute when she's in pain!"
     a ""
 
-# game/scripts/kali_events.rpy:7092
+# game/scripts/kali_events.rpy:7090
 translate pt_br kalirplay_3d70c1af_1:
 
     # m "Ashley..."
     m ""
 
-# game/scripts/kali_events.rpy:7095
+# game/scripts/kali_events.rpy:7093
 translate pt_br kalirplay_7d032aab_1:
 
     # k "HNN! OH MY GOD! OH MY GOD! YOU'RE STILL GOING!"
     k ""
 
-# game/scripts/kali_events.rpy:7096
+# game/scripts/kali_events.rpy:7094
 translate pt_br kalirplay_d876ec4d_1:
 
     # k "FUCKKK! [name]! AAAAAAAH!!! FUCK! FUCKING, FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:7098
+# game/scripts/kali_events.rpy:7096
 translate pt_br kalirplay_6b16eab1_1:
 
     # k "AGHN!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7100
+# game/scripts/kali_events.rpy:7098
 translate pt_br kalirplay_92b7d2d2_1:
 
     # k "*gasp*! FUCK! You're cumming!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7102
+# game/scripts/kali_events.rpy:7100
 translate pt_br kalirplay_d9693be3_1:
 
     # k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7105
+# game/scripts/kali_events.rpy:7103
 translate pt_br kalirplay_912493f7_1:
 
     # k "Nnnnghh..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7107
+# game/scripts/kali_events.rpy:7105
 translate pt_br kalirplay_5288f463_1:
 
     # k "Aaa-aahh... [name]... S-Still... C-Cumming... Nnngggh..."
     k ""
 
-# game/scripts/kali_events.rpy:7108
+# game/scripts/kali_events.rpy:7106
 translate pt_br kalirplay_6041387d_1:
 
     # k "N... No more... Please..."
     k ""
 
-# game/scripts/kali_events.rpy:7110
+# game/scripts/kali_events.rpy:7108
 translate pt_br kalirplay_d588ca45:
 
     # k "Wuh... Wait...! You're just... Going to leave...? Ahhh... Aren't you going to say anything?"
     k ""
 
-# game/scripts/kali_events.rpy:7111
+# game/scripts/kali_events.rpy:7109
 translate pt_br kalirplay_d5116ea6_1:
 
     # c "It'd just ruin the fantasy."
     c ""
 
-# game/scripts/kali_events.rpy:7113
+# game/scripts/kali_events.rpy:7111
 translate pt_br kalirplay_e2137c5b_1:
 
     # k "...What...?"
     k ""
 
-# game/scripts/kali_events.rpy:7115
+# game/scripts/kali_events.rpy:7113
 translate pt_br kalirplay_cad8959a_1:
 
     # k "Hnnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:7117
+# game/scripts/kali_events.rpy:7115
 translate pt_br kalirplay_1332adf9_1:
 
     # k "Wait...!"
     k ""
 
-# game/scripts/kali_events.rpy:7135
+# game/scripts/kali_events.rpy:7133
 translate pt_br kaliprefetish_1acbe60d:
 
     # k "Fuck, fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:7136
+# game/scripts/kali_events.rpy:7134
 translate pt_br kaliprefetish_64afd396:
 
     # c "{i}(She's masturbating? To what?){/i}"
     c ""
 
-# game/scripts/kali_events.rpy:7138
+# game/scripts/kali_events.rpy:7136
 translate pt_br kaliprefetish_b9150c47:
 
     # porn "Ah! Stay away!"
     porn ""
 
-# game/scripts/kali_events.rpy:7139
+# game/scripts/kali_events.rpy:7137
 translate pt_br kaliprefetish_56d70479:
 
     # k "MMMMMMM!"
     k ""
 
-# game/scripts/kali_events.rpy:7140
+# game/scripts/kali_events.rpy:7138
 translate pt_br kaliprefetish_adf3f2a9:
 
     # k "Ahh... Hnn, I almost came... Ngh... Again..."
     k ""
 
-# game/scripts/kali_events.rpy:7142
+# game/scripts/kali_events.rpy:7140
 translate pt_br kaliprefetish_92efba2d:
 
     # porn "No, no! I can't take that! No!"
     porn ""
 
-# game/scripts/kali_events.rpy:7143
+# game/scripts/kali_events.rpy:7141
 translate pt_br kaliprefetish_10f947be:
 
     # k "Ohh, fuck, fuck, fuck, fuck! Nnn!"
     k ""
 
-# game/scripts/kali_events.rpy:7145
+# game/scripts/kali_events.rpy:7143
 translate pt_br kaliprefetish_5ebaaae7:
 
     # porn "If you didn't want it, why are you so wet...?"
     porn ""
 
-# game/scripts/kali_events.rpy:7146
+# game/scripts/kali_events.rpy:7144
 translate pt_br kaliprefetish_51cf4340:
 
     # porn "T-That's not true!"
     porn ""
 
-# game/scripts/kali_events.rpy:7147
+# game/scripts/kali_events.rpy:7145
 translate pt_br kaliprefetish_38c2f608:
 
     # k "She's such a fucking slut... Nnn!"
     k ""
 
-# game/scripts/kali_events.rpy:7148
+# game/scripts/kali_events.rpy:7146
 translate pt_br kaliprefetish_de85f717:
 
     # porn "W-Wait! I'm a virgin, I'm a- AHH!!!"
     porn ""
 
-# game/scripts/kali_events.rpy:7150
+# game/scripts/kali_events.rpy:7148
 translate pt_br kaliprefetish_bc4d5b49:
 
     # k "Ahhh!!! That's so hot! I want to do that so bad...! Nn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7151
+# game/scripts/kali_events.rpy:7149
 translate pt_br kaliprefetish_0d19b691:
 
     # c "{i}(What is she watching? She looks very into this...){/i}"
     c ""
 
-# game/scripts/kali_events.rpy:7153
+# game/scripts/kali_events.rpy:7151
 translate pt_br kaliprefetish_007f49cc:
 
     # porn "No! Not my ass too!"
     porn ""
 
-# game/scripts/kali_events.rpy:7154
+# game/scripts/kali_events.rpy:7152
 translate pt_br kaliprefetish_ff41b473:
 
     # k "She's taking it in the ass now? Oh fuck... That's so hot!"
     k ""
 
-# game/scripts/kali_events.rpy:7156
+# game/scripts/kali_events.rpy:7154
 translate pt_br kaliprefetish_e4ff6e6b:
 
     # porn "AAAAAAAAAH!" with ssshake
     porn "" with ssshake
 
-# game/scripts/kali_events.rpy:7157
+# game/scripts/kali_events.rpy:7155
 translate pt_br kaliprefetish_30f2aed5:
 
     # k "Fuck, fuck! She looks like she's feeling so good! Nnn, I wish someone would do that to me... Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:7158
+# game/scripts/kali_events.rpy:7156
 translate pt_br kaliprefetish_bdc9a2ee:
 
     # k "Ahhhn! Nnn! {size=-10}Fuck my ass, [name]... Nnnuh, I don't care, just... Ah, just take it...{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:7160
+# game/scripts/kali_events.rpy:7158
 translate pt_br kaliprefetish_bfbe9414:
 
     # porn "Let me go! Let me go!"
     porn ""
 
-# game/scripts/kali_events.rpy:7161
+# game/scripts/kali_events.rpy:7159
 translate pt_br kaliprefetish_2f8db84c:
 
     # k "Hnn, fuck... She can take it so rough... Ahhh..."
     k ""
 
-# game/scripts/kali_events.rpy:7162
+# game/scripts/kali_events.rpy:7160
 translate pt_br kaliprefetish_040e65d3:
 
     # porn "AAAAHHHNN~!"
     porn ""
 
-# game/scripts/kali_events.rpy:7164
+# game/scripts/kali_events.rpy:7162
 translate pt_br kaliprefetish_7f0e4a35:
 
     # k "NNNG!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7165
+# game/scripts/kali_events.rpy:7163
 translate pt_br kaliprefetish_0ec09e5d:
 
     # k "Fuck, I'm so close! Oh my god! Fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:7166
+# game/scripts/kali_events.rpy:7164
 translate pt_br kaliprefetish_d3b46ed1:
 
     # porn "Stop, please! I'm going to cum! Ahh!"
     porn ""
 
-# game/scripts/kali_events.rpy:7167
+# game/scripts/kali_events.rpy:7165
 translate pt_br kaliprefetish_1aaa53c9:
 
     # k "Treat her like a whore, treat her like a slut! Rape that bitch! NNNN!"
     k ""
 
-# game/scripts/kali_events.rpy:7169
+# game/scripts/kali_events.rpy:7167
 translate pt_br kaliprefetish_7819680d:
 
     # k "FFUUUUUCK!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7170
+# game/scripts/kali_events.rpy:7168
 translate pt_br kaliprefetish_e5bbcb6c:
 
     # k "NNNGUH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7172
+# game/scripts/kali_events.rpy:7170
 translate pt_br kaliprefetish_aa936fe4:
 
     # k "Ahh... Hnnn... Fuck... I came so hard... Did I squirt...?"
     k ""
 
-# game/scripts/kali_events.rpy:7174
+# game/scripts/kali_events.rpy:7172
 translate pt_br kaliprefetish_5a0d3b88:
 
     # porn "Good day everyone! You just saw me get 'raped' today! Heheh."
     porn ""
 
-# game/scripts/kali_events.rpy:7175
+# game/scripts/kali_events.rpy:7173
 translate pt_br kaliprefetish_95b2a597:
 
     # porn "How did you enjoy our role play today?"
     porn ""
 
-# game/scripts/kali_events.rpy:7176
+# game/scripts/kali_events.rpy:7174
 translate pt_br kaliprefetish_cca1ca65:
 
     # porn "It was great! I can't wait for next time!"
     porn ""
 
-# game/scripts/kali_events.rpy:7177
+# game/scripts/kali_events.rpy:7175
 translate pt_br kaliprefetish_12ed77ce:
 
     # k "Urgh, why do they need to put those things at the end? It just ruins the fantasy..."
     k ""
 
-# game/scripts/kali_events.rpy:7179
+# game/scripts/kali_events.rpy:7177
 translate pt_br kaliprefetish_32619026:
 
     # k "Fuck, I need to clean myself..."
     k ""
 
-# game/scripts/kali_events.rpy:7181
+# game/scripts/kali_events.rpy:7179
 translate pt_br kaliprefetish_d08d3c12:
 
     # c "Rape play... Hm, well I can't say I'm surprised. She does like it rough..."
     c ""
 
-# game/scripts/kali_events.rpy:7182
+# game/scripts/kali_events.rpy:7180
 translate pt_br kaliprefetish_3ea33ddd:
 
     # c "Maybe I could help her..."
     c ""
 
-# game/scripts/kali_events.rpy:7185
+# game/scripts/kali_events.rpy:7183
 translate pt_br kaliprefetish_194651ed:
 
     # c "I've got an idea..."
     c ""
 
-# game/scripts/kali_events.rpy:7189
+# game/scripts/kali_events.rpy:7187
 translate pt_br kaliprefetish_6d27d723:
 
     # m "Hey, what's up?"
     m ""
 
-# game/scripts/kali_events.rpy:7191
+# game/scripts/kali_events.rpy:7189
 translate pt_br kaliprefetish_34b64d5f:
 
     # "You explain everything you saw..."
     ""
 
-# game/scripts/kali_events.rpy:7195
+# game/scripts/kali_events.rpy:7193
 translate pt_br kaliprefetish_6681aedc:
 
     # m "No way! She really said that?"
     m ""
 
-# game/scripts/kali_events.rpy:7196
+# game/scripts/kali_events.rpy:7194
 translate pt_br kaliprefetish_2808ce73:
 
     # c "Her words exactly."
     c ""
 
-# game/scripts/kali_events.rpy:7197
+# game/scripts/kali_events.rpy:7195
 translate pt_br kaliprefetish_6b2ae1b7:
 
     # m "I never knew she was so dirty!"
     m ""
 
-# game/scripts/kali_events.rpy:7200
+# game/scripts/kali_events.rpy:7198
 translate pt_br kaliprefetish_d5664444:
 
     # m "So what's your plan? Why come to me?"
     m ""
 
-# game/scripts/kali_events.rpy:7201
+# game/scripts/kali_events.rpy:7199
 translate pt_br kaliprefetish_dc7847bc:
 
     # c "I still want her to feel safe, I don't want to terrify her. I was thinking you could order pizza from her while she's at work, and I'll take the rest."
     c ""
 
-# game/scripts/kali_events.rpy:7202
+# game/scripts/kali_events.rpy:7200
 translate pt_br kaliprefetish_fab35b04:
 
     # m "Sounds like a good plan... But if you want to use my room, then I get to record it!"
     m ""
 
-# game/scripts/kali_events.rpy:7203
+# game/scripts/kali_events.rpy:7201
 translate pt_br kaliprefetish_a78138bd:
 
     # c "As long as you don't share it online..."
     c ""
 
-# game/scripts/kali_events.rpy:7206
+# game/scripts/kali_events.rpy:7204
 translate pt_br kaliprefetish_d8296d4d:
 
     # m "Of course not! Just let me know when you're ready to set this up! Sometime around Noon would be best."
     m ""
 
-# game/scripts/kali_events.rpy:7210
+# game/scripts/kali_events.rpy:7208
 translate pt_br kaliprefetish_b0cf988e:
 
     # c "On second thought, it's not really my thing..."
     c ""
 
-# game/scripts/kali_events.rpy:7222
+# game/scripts/kali_events.rpy:7220
 translate pt_br kalimaidmaid_9b536d5d:
 
     # l "Umm... *cough* [linoname]... I think I'm sick..."
     l ""
 
-# game/scripts/kali_events.rpy:7225
+# game/scripts/kali_events.rpy:7223
 translate pt_br kalimaidmaid_298a66ea:
 
     # l "*cough* *cough* *cough*" with ssshake
     l "" with ssshake
 
-# game/scripts/kali_events.rpy:7228
+# game/scripts/kali_events.rpy:7226
 translate pt_br kalimaidmaid_ca123c28:
 
     # l "I don't think I can work today..."
     l ""
 
-# game/scripts/kali_events.rpy:7229
+# game/scripts/kali_events.rpy:7227
 translate pt_br kalimaidmaid_65dfc57f:
 
     # c "Alright, you can have the day off. But who's going to take care of everything while you're sick?"
     c ""
 
-# game/scripts/kali_events.rpy:7232
+# game/scripts/kali_events.rpy:7230
 translate pt_br kalimaidmaid_d4a0d547:
 
     # l "*cough* Um, how about Ashley? *cough*" with ssshake
     l "" with ssshake
 
-# game/scripts/kali_events.rpy:7233
+# game/scripts/kali_events.rpy:7231
 translate pt_br kalimaidmaid_9be1fb8c:
 
     # c "She would probably mess everything up..."
     c ""
 
-# game/scripts/kali_events.rpy:7236
+# game/scripts/kali_events.rpy:7234
 translate pt_br kalimaidmaid_65129e06:
 
     # l "Kali then?"
     l ""
 
-# game/scripts/kali_events.rpy:7237
+# game/scripts/kali_events.rpy:7235
 translate pt_br kalimaidmaid_8a096f5c:
 
     # c "Hmm... that might be a good idea..."
     c ""
 
-# game/scripts/kali_events.rpy:7240
+# game/scripts/kali_events.rpy:7238
 translate pt_br kalimaidmaid_e8566742:
 
     # l "*cough* cough* Okay [linoname]... *cough* I'm going to take a nap... *cough*" with ssshake
     l "" with ssshake
 
-# game/scripts/kali_events.rpy:7242
+# game/scripts/kali_events.rpy:7240
 translate pt_br kalimaidmaid_8ab1298d:
 
     # c "I should talk to Kali..."
     c ""
 
-# game/scripts/kali_events.rpy:7246
+# game/scripts/kali_events.rpy:7244
 translate pt_br kalimaidmaid_81096b93:
 
     # k "Oh hey [name], what's up?"
     k ""
 
-# game/scripts/kali_events.rpy:7247
+# game/scripts/kali_events.rpy:7245
 translate pt_br kalimaidmaid_33d8e888:
 
     # c "Lin is sick. I need you to be the maid for the day."
     c ""
 
-# game/scripts/kali_events.rpy:7250
+# game/scripts/kali_events.rpy:7248
 translate pt_br kalimaidmaid_a94dc7e0:
 
     # k "What? No way! I'm not wearing that maid outfit!"
     k ""
 
-# game/scripts/kali_events.rpy:7251
+# game/scripts/kali_events.rpy:7249
 translate pt_br kalimaidmaid_63f64c97:
 
     # c "It would look cute on you."
     c ""
 
-# game/scripts/kali_events.rpy:7254
+# game/scripts/kali_events.rpy:7252
 translate pt_br kalimaidmaid_e496bb9e:
 
     # k "W-What!? Why would you say that?"
     k ""
 
-# game/scripts/kali_events.rpy:7255
+# game/scripts/kali_events.rpy:7253
 translate pt_br kalimaidmaid_4d772880:
 
     # c "Because it {i}would{/i} look cute on you."
     c ""
 
-# game/scripts/kali_events.rpy:7258
+# game/scripts/kali_events.rpy:7256
 translate pt_br kalimaidmaid_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:7259
+# game/scripts/kali_events.rpy:7257
 translate pt_br kalimaidmaid_ccecec12:
 
     # k "Well... If nobody else will do it... I guess I have to..."
     k ""
 
-# game/scripts/kali_events.rpy:7260
+# game/scripts/kali_events.rpy:7258
 translate pt_br kalimaidmaid_f719c66a:
 
     # c "Good, here's the outfit."
     c ""
 
-# game/scripts/kali_events.rpy:7261
+# game/scripts/kali_events.rpy:7259
 translate pt_br kalimaidmaid_bc49fa82:
 
     # k "...Okay... be right back..."
     k ""
 
-# game/scripts/kali_events.rpy:7263
+# game/scripts/kali_events.rpy:7261
 translate pt_br kalimaidmaid_e75e47c2:
 
     # "Kali enters her room, and after a moment, comes out with her outfit on."
     ""
 
-# game/scripts/kali_events.rpy:7265
+# game/scripts/kali_events.rpy:7263
 translate pt_br kalimaidmaid_5f79bfb3:
 
     # k "This is ridiculous... Is this skirt shorter than the one Lin wears...?"
     k ""
 
-# game/scripts/kali_events.rpy:7266
+# game/scripts/kali_events.rpy:7264
 translate pt_br kalimaidmaid_ae36c5f7:
 
     # c "It is..."
     c ""
 
-# game/scripts/kali_events.rpy:7267
+# game/scripts/kali_events.rpy:7265
 translate pt_br kalimaidmaid_8759a30a:
 
     # k "Ergh... I just hope nobody sees me like this..."
     k ""
 
-# game/scripts/kali_events.rpy:7268
+# game/scripts/kali_events.rpy:7266
 translate pt_br kalimaidmaid_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:7271
+# game/scripts/kali_events.rpy:7269
 translate pt_br kalimaidmaid_ad5b4cdc:
 
     # k "Does... it look cute on me...?"
     k ""
 
-# game/scripts/kali_events.rpy:7272
+# game/scripts/kali_events.rpy:7270
 translate pt_br kalimaidmaid_f01499cd:
 
     # c "It looks very cute!"
     c ""
 
-# game/scripts/kali_events.rpy:7275
+# game/scripts/kali_events.rpy:7273
 translate pt_br kalimaidmaid_53b4ebb9:
 
     # k "S-shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:7278
+# game/scripts/kali_events.rpy:7276
 translate pt_br kalimaidmaid_841b5310:
 
     # k "Okay... what do you want me to do?"
     k ""
 
-# game/scripts/kali_events.rpy:7279
+# game/scripts/kali_events.rpy:7277
 translate pt_br kalimaidmaid_ea4256cc:
 
     # c "I need you to clean my room. Oh, and call me Master while you're wearing that."
     c ""
 
-# game/scripts/kali_events.rpy:7282
+# game/scripts/kali_events.rpy:7280
 translate pt_br kalimaidmaid_7a72c059:
 
     # k "You want me to call you Master... Egh..."
     k ""
 
-# game/scripts/kali_events.rpy:7283
+# game/scripts/kali_events.rpy:7281
 translate pt_br kalimaidmaid_075c2b4d:
 
     # k "Okay... 'Master'... I'll clean your room..."
     k ""
 
-# game/scripts/kali_events.rpy:7285
+# game/scripts/kali_events.rpy:7283
 translate pt_br kalimaidmaid_5347b344:
 
     # k "Alright, I guess I'll get started... Master..."
     k ""
 
-# game/scripts/kali_events.rpy:7287
+# game/scripts/kali_events.rpy:7285
 translate pt_br kalimaidmaid_f772a4b4:
 
     # k "So this is what Lin does every day?"
     k ""
 
-# game/scripts/kali_events.rpy:7289
+# game/scripts/kali_events.rpy:7287
 translate pt_br kalimaidmaid_f7396ba5:
 
     # k "Ergh, this is so embarrassing..."
     k ""
 
-# game/scripts/kali_events.rpy:7291
+# game/scripts/kali_events.rpy:7289
 translate pt_br kalimaidmaid_ebf5d8c2:
 
     # k "Do you not know how to straighten your own bed...?"
     k ""
 
-# game/scripts/kali_events.rpy:7296
+# game/scripts/kali_events.rpy:7294
 translate pt_br kalimaidmaid_8a64b2fe:
 
     # k "Dust everywhere..."
     k ""
 
-# game/scripts/kali_events.rpy:7298
+# game/scripts/kali_events.rpy:7296
 translate pt_br kalimaidmaid_27289a82:
 
     # k "Phew, I think I'm almost done..."
     k ""
 
-# game/scripts/kali_events.rpy:7302
+# game/scripts/kali_events.rpy:7300
 translate pt_br kalimaidmaid_6f73440c:
 
     # k "Okay... Master... I'm done..."
     k ""
 
-# game/scripts/kali_events.rpy:7303
+# game/scripts/kali_events.rpy:7301
 translate pt_br kalimaidmaid_42be018f:
 
     # c "You did great, Kali."
     c ""
 
-# game/scripts/kali_events.rpy:7306
+# game/scripts/kali_events.rpy:7304
 translate pt_br kalimaidmaid_b435fc73:
 
     # k "Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:7309
+# game/scripts/kali_events.rpy:7307
 translate pt_br kalimaidmaid_306c61f7:
 
     # k "Umm... [name]...?"
     k ""
 
-# game/scripts/kali_events.rpy:7310
+# game/scripts/kali_events.rpy:7308
 translate pt_br kalimaidmaid_24c7ada5:
 
     # c "Yes?"
     c ""
 
-# game/scripts/kali_events.rpy:7311
+# game/scripts/kali_events.rpy:7309
 translate pt_br kalimaidmaid_0dcc7560:
 
     # k "Do you want to see my boobs...?"
     k ""
 
-# game/scripts/kali_events.rpy:7312
+# game/scripts/kali_events.rpy:7310
 translate pt_br kalimaidmaid_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:7315
+# game/scripts/kali_events.rpy:7313
 translate pt_br kalimaidmaid_7f3ed4b5:
 
     # k "You don't have to say it... I know you want to..."
     k ""
 
-# game/scripts/kali_events.rpy:7318
+# game/scripts/kali_events.rpy:7316
 translate pt_br kalimaidmaid_5138cd74:
 
     # k "You like them, right?"
     k ""
 
-# game/scripts/kali_events.rpy:7321
+# game/scripts/kali_events.rpy:7319
 translate pt_br kalimaidmaid_013e73c1:
 
     # k "...Um... Have you ever had a boobjob [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:7322
+# game/scripts/kali_events.rpy:7320
 translate pt_br kalimaidmaid_7c32ab80:
 
     # k "I was thinking... maybe some time we could try that out..."
     k ""
 
-# game/scripts/kali_events.rpy:7325
+# game/scripts/kali_events.rpy:7323
 translate pt_br kalimaidmaid_8b099d47:
 
     # k "I mean... you want to, right?"
     k ""
 
-# game/scripts/kali_events.rpy:7326
+# game/scripts/kali_events.rpy:7324
 translate pt_br kalimaidmaid_a83ab574:
 
     # c "Of course!"
     c ""
 
-# game/scripts/kali_events.rpy:7329
+# game/scripts/kali_events.rpy:7327
 translate pt_br kalimaidmaid_a634cbf8:
 
     # k "Okay... well... let's do it..."
     k ""
 
-# game/scripts/kali_events.rpy:7330
+# game/scripts/kali_events.rpy:7328
 translate pt_br kalimaidmaid_3b5eba2d:
 
     # c "Right now?"
     c ""
 
-# game/scripts/kali_events.rpy:7331
+# game/scripts/kali_events.rpy:7329
 translate pt_br kalimaidmaid_52ea6403:
 
     # k "Yeah, why not. Come with me."
     k ""
 
-# game/scripts/kali_events.rpy:7339
+# game/scripts/kali_events.rpy:7337
 translate pt_br kalimaidmaid_d3526d10:
 
     # a "Hey Kali~ Cute outfit! Hehehe~" with ssshake
     a "" with ssshake
 
-# game/scripts/kali_events.rpy:7340
+# game/scripts/kali_events.rpy:7338
 translate pt_br kalimaidmaid_a0e253a9:
 
     # k "Urghh... shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:7341
+# game/scripts/kali_events.rpy:7339
 translate pt_br kalimaidmaid_c13ebd20:
 
     # a "No really! I think you should always wear it! A slutty house cleaner suits you so much!"
     a ""
 
-# game/scripts/kali_events.rpy:7342
+# game/scripts/kali_events.rpy:7340
 translate pt_br kalimaidmaid_c78c5fcd:
 
     # k "Grr..."
     k ""
 
-# game/scripts/kali_events.rpy:7345
+# game/scripts/kali_events.rpy:7343
 translate pt_br kalimaidmaid_35eff713:
 
     # a "Well, I gotta go! Have fun cleaning my room!"
     a ""
 
-# game/scripts/kali_events.rpy:7350
+# game/scripts/kali_events.rpy:7348
 translate pt_br kalimaidmaid_8fc1964a:
 
     # k "That was so embarrassing... Let's go inside before anyone else sees me..."
     k ""
 
-# game/scripts/kali_events.rpy:7353
+# game/scripts/kali_events.rpy:7351
 translate pt_br kalimaidmaid_021edced:
 
     # k "Okay... get on the bed... [linoname]..."
     k ""
 
-# game/scripts/kali_events.rpy:7355
+# game/scripts/kali_events.rpy:7353
 translate pt_br kalimaidmaid_8207337a:
 
     # k "I've been waiting for this..."
     k ""
 
-# game/scripts/kali_events.rpy:7357
+# game/scripts/kali_events.rpy:7355
 translate pt_br kalimaidmaid_898ff408:
 
     # k "Does it feel good... [linoname]...?"
     k ""
 
-# game/scripts/kali_events.rpy:7358
+# game/scripts/kali_events.rpy:7356
 translate pt_br kalimaidmaid_b38785c7:
 
     # k "Mmm... I want your cum on my tits [linoname]..."
     k ""
 
-# game/scripts/kali_events.rpy:7359
+# game/scripts/kali_events.rpy:7357
 translate pt_br kalimaidmaid_66d8c0b1:
 
     # k "Does your dick like being squished between my tits [linoname]...?"
     k ""
 
-# game/scripts/kali_events.rpy:7360
+# game/scripts/kali_events.rpy:7358
 translate pt_br kalimaidmaid_4bb74c86:
 
     # k "I hope you're enjoying this..."
     k ""
 
-# game/scripts/kali_events.rpy:7363
+# game/scripts/kali_events.rpy:7361
 translate pt_br kalimaidmaid_72a6374f:
 
     # k "[linoname]! Cum on my tits! Ah..."
     k ""
 
-# game/scripts/kali_events.rpy:7365
+# game/scripts/kali_events.rpy:7363
 translate pt_br kalimaidmaid_90caaa71:
 
     # k "Ahhh! Mmm..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7366
+# game/scripts/kali_events.rpy:7364
 translate pt_br kalimaidmaid_81c0c832:
 
     # k "Hahh... My tits are covered with [linoname]'s cum..."
     k ""
 
-# game/scripts/kali_events.rpy:7367
+# game/scripts/kali_events.rpy:7365
 translate pt_br kalimaidmaid_2a0ecc6a:
 
     # k "...Can you hand me a towel [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:7368
+# game/scripts/kali_events.rpy:7366
 translate pt_br kalimaidmaid_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/kali_events.rpy:7369
+# game/scripts/kali_events.rpy:7367
 translate pt_br kalimaidmaid_2b922a7d:
 
     # k "Thanks."
     k ""
 
-# game/scripts/kali_events.rpy:7371
+# game/scripts/kali_events.rpy:7369
 translate pt_br kalimaidmaid_0f877f82:
 
     # k "So how was that? Pretty good right? You came all over my tits after all..."
     k ""
 
-# game/scripts/kali_events.rpy:7372
+# game/scripts/kali_events.rpy:7370
 translate pt_br kalimaidmaid_7443a5ab:
 
     # c "That was pretty good."
     c ""
 
-# game/scripts/kali_events.rpy:7373
+# game/scripts/kali_events.rpy:7371
 translate pt_br kalimaidmaid_a14d774d:
 
     # k "Haha, thanks [name]. Let's do it again, okay?"
     k ""
 
-# game/scripts/kali_events.rpy:7378
+# game/scripts/kali_events.rpy:7376
 translate pt_br kalimaidmaid_c9286de2:
 
     # "You can now request a boobjob from Kali!"
     ""
 
-# game/scripts/kali_events.rpy:7382
+# game/scripts/kali_events.rpy:7380
 translate pt_br kalimaidmaid_29838e80:
 
     # c "Nah, I'm tired."
     c ""
 
-# game/scripts/kali_events.rpy:7385
+# game/scripts/kali_events.rpy:7383
 translate pt_br kalimaidmaid_9ccf1582:
 
     # k "Oh... okay."
     k ""
 
-# game/scripts/kali_events.rpy:7408
+# game/scripts/kali_events.rpy:7406
 translate pt_br kalipapa_2619b356:
 
     # k "Hey [name], what's up?"
     k ""
 
-# game/scripts/kali_events.rpy:7409
+# game/scripts/kali_events.rpy:7407
 translate pt_br kalipapa_333f4419:
 
     # c "Just checking up on you."
     c ""
 
-# game/scripts/kali_events.rpy:7410
+# game/scripts/kali_events.rpy:7408
 translate pt_br kalipapa_cc0d0e7b:
 
     # k "Cool, thanks."
     k ""
 
-# game/scripts/kali_events.rpy:7418
+# game/scripts/kali_events.rpy:7416
 translate pt_br kalipapa_b4316d2b:
 
     # nid "Welcome to... Papa Rons... My name is Nidra... What can I get for you...?"
     nid ""
 
-# game/scripts/kali_events.rpy:7422
+# game/scripts/kali_events.rpy:7420
 translate pt_br kalipapa_d31b036e:
 
     # nid "...Right away... Sir..."
     nid ""
 
-# game/scripts/kali_events.rpy:7425
+# game/scripts/kali_events.rpy:7423
 translate pt_br kalipapa_d31b036e_1:
 
     # nid "...Right away... Sir..."
     nid ""
 
-# game/scripts/kali_events.rpy:7428
+# game/scripts/kali_events.rpy:7426
 translate pt_br kalipapa_d31b036e_2:
 
     # nid "...Right away... Sir..."
     nid ""
 
-# game/scripts/kali_events.rpy:7432
+# game/scripts/kali_events.rpy:7430
 translate pt_br kalipapa_b7228bdc:
 
     # "You wait a while, and soon your order is at your table. You eat it, and enjoy yourself."
     ""
 
-# game/scripts/kali_events.rpy:7439
+# game/scripts/kali_events.rpy:7437
 translate pt_br kdadsick_69b3084d:
 
     # c "What was that?"
     c ""
 
-# game/scripts/kali_events.rpy:7440
+# game/scripts/kali_events.rpy:7438
 translate pt_br kdadsick_491ffb68:
 
     # c "Sounded like it came from outside..."
     c ""
 
-# game/scripts/kali_events.rpy:7443
+# game/scripts/kali_events.rpy:7441
 translate pt_br kdadsick_be54f049:
 
     # pol "Kali Trenero, you need to come with me."
     pol ""
 
-# game/scripts/kali_events.rpy:7444
+# game/scripts/kali_events.rpy:7442
 translate pt_br kdadsick_93334484:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:7446
+# game/scripts/kali_events.rpy:7444
 translate pt_br kdadsick_f4ff6d8f:
 
     # c "Wha-"
     c ""
 
-# game/scripts/kali_events.rpy:7447
+# game/scripts/kali_events.rpy:7445
 translate pt_br kdadsick_2bfdb602:
 
     # pol "-Step away, sir!"
     pol ""
 
-# game/scripts/kali_events.rpy:7448
+# game/scripts/kali_events.rpy:7446
 translate pt_br kdadsick_8b78771c:
 
     # k "No, it's fine, he's not going to hurt me."
     k ""
 
-# game/scripts/kali_events.rpy:7450
+# game/scripts/kali_events.rpy:7448
 translate pt_br kdadsick_27a6040c:
 
     # pol "Whatever the case may be, your life could be in danger, ma'am."
     pol ""
 
-# game/scripts/kali_events.rpy:7451
+# game/scripts/kali_events.rpy:7449
 translate pt_br kdadsick_bb90c21f:
 
     # k "Why? What happened?"
     k ""
 
-# game/scripts/kali_events.rpy:7452
+# game/scripts/kali_events.rpy:7450
 translate pt_br kdadsick_c09b9c70:
 
     # pol "Your father's been attacked. He has requested me to pick you up. The helicopter is waiting outside for you and your sister."
     pol ""
 
-# game/scripts/kali_events.rpy:7454
+# game/scripts/kali_events.rpy:7452
 translate pt_br kdadsick_40711f28:
 
     # k "Attacked!? What do you mean?"
     k ""
 
-# game/scripts/kali_events.rpy:7455
+# game/scripts/kali_events.rpy:7453
 translate pt_br kdadsick_329b2687:
 
     # pol "I'm not at liberty to discuss that. My orders were to bring you and your sister home."
     pol ""
 
-# game/scripts/kali_events.rpy:7456
+# game/scripts/kali_events.rpy:7454
 translate pt_br kdadsick_c01b1fd5:
 
     # c "Can you trust this woman?"
     c ""
 
-# game/scripts/kali_events.rpy:7458
+# game/scripts/kali_events.rpy:7456
 translate pt_br kdadsick_c9cb6cdd:
 
     # k "She's one of my father's bodyguards, I've known her before I moved out here."
     k ""
 
-# game/scripts/kali_events.rpy:7459
+# game/scripts/kali_events.rpy:7457
 translate pt_br kdadsick_7a5bf61d:
 
     # pol "You can take him along if you'd like, but we need to go now."
     pol ""
 
-# game/scripts/kali_events.rpy:7460
+# game/scripts/kali_events.rpy:7458
 translate pt_br kdadsick_baf734f0:
 
     # k "Are you okay with coming [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:7461
+# game/scripts/kali_events.rpy:7459
 translate pt_br kdadsick_4e8c7062:
 
     # c "Of course."
     c ""
 
-# game/scripts/kali_events.rpy:7463
+# game/scripts/kali_events.rpy:7461
 translate pt_br kdadsick_4f348fb8:
 
     # k "Okay, we'll come. I'll get my sister."
     k ""
 
-# game/scripts/kali_events.rpy:7464
+# game/scripts/kali_events.rpy:7462
 translate pt_br kdadsick_c8207958:
 
     # pol "Please be quick, ma'am."
     pol ""
 
-# game/scripts/kali_events.rpy:7466
+# game/scripts/kali_events.rpy:7464
 translate pt_br kdadsick_da56e0cc:
 
     # "You've never been in a helicopter before. You weren't sure if it was going to be fun, or scary... In the end, it was neither."
     ""
 
-# game/scripts/kali_events.rpy:7467
+# game/scripts/kali_events.rpy:7465
 translate pt_br kdadsick_d33eb781:
 
     # "There's a gloomy and serious mood in the air around you as Kali and Lucia worry for their father. You decide to keep quiet and leave them to their thoughts."
     ""
 
-# game/scripts/kali_events.rpy:7468
+# game/scripts/kali_events.rpy:7466
 translate pt_br kdadsick_dc2ae21d:
 
     # "Not so long after you board a private jet. What it lacks in size it more than makes up in speed. On the tail of the plane you spot 'Nero Inc.'"
     ""
 
-# game/scripts/kali_events.rpy:7469
+# game/scripts/kali_events.rpy:7467
 translate pt_br kdadsick_72031acf:
 
     # "Soon after, you're surrounded by nothing but clouds and sea. You're headed toward The Capitol, Kali's home town on a continent across the ocean."
     ""
 
-# game/scripts/kali_events.rpy:7470
+# game/scripts/kali_events.rpy:7468
 translate pt_br kdadsick_d55d921b:
 
     # "Of course, you've been there before. It's where you were born."
     ""
 
-# game/scripts/kali_events.rpy:7471
+# game/scripts/kali_events.rpy:7469
 translate pt_br kdadsick_3da0423e:
 
     # "Hours later, you can tell you're close. You've heard the stories. If you were to stand on the edge of the city and look away from it, you would see nothing but cultivated farm land, only coming to an end at the horizon."
     ""
 
-# game/scripts/kali_events.rpy:7472
+# game/scripts/kali_events.rpy:7470
 translate pt_br kdadsick_6ef8a700:
 
     # "The farm lands that surround the city in every direction are much larger than the city itself. The population that the city holds within must be supported somehow, after all."
     ""
 
-# game/scripts/kali_events.rpy:7473
+# game/scripts/kali_events.rpy:7471
 translate pt_br kdadsick_159a9850:
 
     # "The next feature you notice is the web-like network of rivers running through the city meeting at its center, and extending past the city itself onto the farm lands. Man-made or not, it's hard to tell. But it only serves to add to the city's legendary status."
     ""
 
-# game/scripts/kali_events.rpy:7474
+# game/scripts/kali_events.rpy:7472
 translate pt_br kdadsick_a15748be:
 
     # "But you're not at the edge of the city, you're now directly above the city center. Put simply, it's more of a metropolis than a city."
     ""
 
-# game/scripts/kali_events.rpy:7475
+# game/scripts/kali_events.rpy:7473
 translate pt_br kdadsick_f655ff1c:
 
     # "You consider The Capitol's motto. 'The City of Horizons'. Were you flying just above the city skyline, you would see nothing but city up until the horizon cuts it off. But as you see it now, you see a massive city thinly lined with farm land."
     ""
 
-# game/scripts/kali_events.rpy:7476
+# game/scripts/kali_events.rpy:7474
 translate pt_br kdadsick_68294286:
 
     # "But possibly one of the city's most notable features is its ancient medieval wall. It's a fairly normal wall from the time it was built. Simply meant to keep out invaders wishing to kill some King. But the city has long outgrown it's ancient borders. Now it's nothing more than a part of its history."
     ""
 
-# game/scripts/kali_events.rpy:7477
+# game/scripts/kali_events.rpy:7475
 translate pt_br kdadsick_076fbd58:
 
     # "Soon after, the private jet lands. Without much warning, you three are rushed onto yet another helicopter. Now headed directly to one of Kali's father's houses..."
     ""
 
-# game/scripts/kali_events.rpy:7479
+# game/scripts/kali_events.rpy:7477
 translate pt_br kdadsick_cafcaff0:
 
     # lu "I hate The Capitol's heat..."
     lu ""
 
-# game/scripts/kali_events.rpy:7481
+# game/scripts/kali_events.rpy:7479
 translate pt_br kdadsick_50d7e48b:
 
     # k "Is that seriously what you're thinking about right now? Dad could be dying!"
     k ""
 
-# game/scripts/kali_events.rpy:7482
+# game/scripts/kali_events.rpy:7480
 translate pt_br kdadsick_9d6c68d5:
 
     # lu "I'm just trying to keep my mind off of it..."
     lu ""
 
-# game/scripts/kali_events.rpy:7484
+# game/scripts/kali_events.rpy:7482
 translate pt_br kdadsick_5575d037:
 
     # pol "With Kali and Lucia's permission, you can come in, sir. But if you cause any trouble, don't be surprised when you find a bullet in your arm."
     pol ""
 
-# game/scripts/kali_events.rpy:7485
+# game/scripts/kali_events.rpy:7483
 translate pt_br kdadsick_a4e325e5:
 
     # c "Got it..."
     c ""
 
-# game/scripts/kali_events.rpy:7486
+# game/scripts/kali_events.rpy:7484
 translate pt_br kdadsick_b8adcb41:
 
     # pol "You'll meet Mrs. Trenero inside, she'll take you to Mr. Trenero."
     pol ""
 
-# game/scripts/kali_events.rpy:7487
+# game/scripts/kali_events.rpy:7485
 translate pt_br kdadsick_8b7dd88c:
 
     # lu "Urgh, she's here...?"
     lu ""
 
-# game/scripts/kali_events.rpy:7488
+# game/scripts/kali_events.rpy:7486
 translate pt_br kdadsick_9f776518:
 
     # k "I'd be surprised if she wasn't... She's Dad's new wife..."
     k ""
 
-# game/scripts/kali_events.rpy:7490
+# game/scripts/kali_events.rpy:7488
 translate pt_br kdadsick_e306af85:
 
     # k "It's been so long since I've been to this house..."
     k ""
 
-# game/scripts/kali_events.rpy:7491
+# game/scripts/kali_events.rpy:7489
 translate pt_br kdadsick_98cd6880:
 
     # lu "I like the city-center one more."
     lu ""
 
-# game/scripts/kali_events.rpy:7493
+# game/scripts/kali_events.rpy:7491
 translate pt_br kdadsick_de6cfcc6:
 
     # k "Who's that?"
     k ""
 
-# game/scripts/kali_events.rpy:7494
+# game/scripts/kali_events.rpy:7492
 translate pt_br kdadsick_b086ec4c:
 
     # lu "Dad's whore..."
     lu ""
 
-# game/scripts/kali_events.rpy:7495
+# game/scripts/kali_events.rpy:7493
 translate pt_br kdadsick_10976353:
 
     # k "Dad's new wife?"
     k ""
 
-# game/scripts/kali_events.rpy:7496
+# game/scripts/kali_events.rpy:7494
 translate pt_br kdadsick_784204fe:
 
     # lu "Yep. Saw her ass naked on top of Dad..."
     lu ""
 
-# game/scripts/kali_events.rpy:7497
+# game/scripts/kali_events.rpy:7495
 translate pt_br kdadsick_c207a11e:
 
     # k "I didn't need to know that... Let's go meet her, I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:7499
+# game/scripts/kali_events.rpy:7497
 translate pt_br kdadsick_fbf0f283:
 
     # q "Good evening everyone... I wasn't expecting a man?"
     q ""
 
-# game/scripts/kali_events.rpy:7500
+# game/scripts/kali_events.rpy:7498
 translate pt_br kdadsick_1b2bdf3c:
 
     # k "He's my boyfriend."
     k ""
 
-# game/scripts/kali_events.rpy:7501
+# game/scripts/kali_events.rpy:7499
 translate pt_br kdadsick_6c15e757:
 
     # q "I see..."
     q ""
 
-# game/scripts/kali_events.rpy:7502
+# game/scripts/kali_events.rpy:7500
 translate pt_br kdadsick_83b4061a:
 
     # mari "My name is Mariella, it's good to meet you, Mr...?"
     mari ""
 
-# game/scripts/kali_events.rpy:7503
+# game/scripts/kali_events.rpy:7501
 translate pt_br kdadsick_41a96064:
 
     # c "[name]... Are you an elf?"
     c ""
 
-# game/scripts/kali_events.rpy:7504
+# game/scripts/kali_events.rpy:7502
 translate pt_br kdadsick_6cebc649:
 
     # k "Wait, she does have pointy ears... But she doesn't look like an Elf..."
     k ""
 
-# game/scripts/kali_events.rpy:7505
+# game/scripts/kali_events.rpy:7503
 translate pt_br kdadsick_0cc04bee:
 
     # lu "I've never been this close to her..."
     lu ""
 
-# game/scripts/kali_events.rpy:7506
+# game/scripts/kali_events.rpy:7504
 translate pt_br kdadsick_eec692d3:
 
     # mari "I'm a half elf, yes... half common."
     mari ""
 
-# game/scripts/kali_events.rpy:7507
+# game/scripts/kali_events.rpy:7505
 translate pt_br kdadsick_b3170aa7:
 
     # k "Isn't it illegal for you to be here?"
     k ""
 
-# game/scripts/kali_events.rpy:7509
+# game/scripts/kali_events.rpy:7507
 translate pt_br kdadsick_472afdb0:
 
     # mari "That's not a nice way to greet your step mother for the first time..."
     mari ""
 
-# game/scripts/kali_events.rpy:7510
+# game/scripts/kali_events.rpy:7508
 translate pt_br kdadsick_f613e5df:
 
     # k "I just thought elves couldn't leave Syl'anar."
     k ""
 
-# game/scripts/kali_events.rpy:7511
+# game/scripts/kali_events.rpy:7509
 translate pt_br kdadsick_b8f20640:
 
     # mari "I suppose you could say I'm a gift from Mr. Cornwall..."
     mari ""
 
-# game/scripts/kali_events.rpy:7512
+# game/scripts/kali_events.rpy:7510
 translate pt_br kdadsick_6d46380e:
 
     # k "So you're my Dad's slave...?"
     k ""
 
-# game/scripts/kali_events.rpy:7513
+# game/scripts/kali_events.rpy:7511
 translate pt_br kdadsick_dcbb621a:
 
     # mari "No, I'm a free woman now, I chose to marry your father."
     mari ""
 
-# game/scripts/kali_events.rpy:7514
+# game/scripts/kali_events.rpy:7512
 translate pt_br kdadsick_4d5cbcf8:
 
     # c "A free Elf..."
     c ""
 
-# game/scripts/kali_events.rpy:7516
+# game/scripts/kali_events.rpy:7514
 translate pt_br kdadsick_e90cc972:
 
     # mari "A half elf no less, even more rare. Hahaha..."
     mari ""
 
-# game/scripts/kali_events.rpy:7517
+# game/scripts/kali_events.rpy:7515
 translate pt_br kdadsick_9f676865:
 
     # mari "Seeing as you're a man from Syl'anar, I do hope you aren't keeping any slaves? There's quite the disdain for slavers here..."
     mari ""
 
-# game/scripts/kali_events.rpy:7518
+# game/scripts/kali_events.rpy:7516
 translate pt_br kdadsick_38eea8d6:
 
     # k "No, he's not."
     k ""
 
-# game/scripts/kali_events.rpy:7519
+# game/scripts/kali_events.rpy:7517
 translate pt_br kdadsick_e3cd0cd7:
 
     # mari "Good to hear..."
     mari ""
 
-# game/scripts/kali_events.rpy:7520
+# game/scripts/kali_events.rpy:7518
 translate pt_br kdadsick_97cdc62a:
 
     # mari "But I know you're thinking it. I'm 315. We live half as a long as elves, and 7 times longer than humans."
     mari ""
 
-# game/scripts/kali_events.rpy:7521
+# game/scripts/kali_events.rpy:7519
 translate pt_br kdadsick_75e05d79:
 
     # lu "Makes a good whore to look young forever..."
     lu ""
 
-# game/scripts/kali_events.rpy:7523
+# game/scripts/kali_events.rpy:7521
 translate pt_br kdadsick_fa43f6be:
 
     # mari "Is this really a good time to bicker when your father was just shot?"
     mari ""
 
-# game/scripts/kali_events.rpy:7525
+# game/scripts/kali_events.rpy:7523
 translate pt_br kdadsick_5e248c07:
 
     # k "SHOT!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7526
+# game/scripts/kali_events.rpy:7524
 translate pt_br kdadsick_18419038:
 
     # mari "Just a leg injury, dear. He will be perfectly fine."
     mari ""
 
-# game/scripts/kali_events.rpy:7527
+# game/scripts/kali_events.rpy:7525
 translate pt_br kdadsick_6f35a1f2:
 
     # k "If people are trying to kill him, he will not be perfectly fine! He's in danger!"
     k ""
 
-# game/scripts/kali_events.rpy:7528
+# game/scripts/kali_events.rpy:7526
 translate pt_br kdadsick_7974f197:
 
     # c "Who would try to kill him?"
     c ""
 
-# game/scripts/kali_events.rpy:7530
+# game/scripts/kali_events.rpy:7528
 translate pt_br kdadsick_577fbb54:
 
     # mari "Political opponents, financial opponents, who knows? He's one of the richest men in the world. He holds a power many would love to steal."
     mari ""
 
-# game/scripts/kali_events.rpy:7532
+# game/scripts/kali_events.rpy:7530
 translate pt_br kdadsick_61c22c51:
 
     # k "So he hasn't been caught?"
     k ""
 
-# game/scripts/kali_events.rpy:7533
+# game/scripts/kali_events.rpy:7531
 translate pt_br kdadsick_be149b5f:
 
     # mari "He has not. That's why you were rushed over here, your lives could be in danger too. It only happened this morning. Or, last night for you."
     mari ""
 
-# game/scripts/kali_events.rpy:7534
+# game/scripts/kali_events.rpy:7532
 translate pt_br kdadsick_04dd0803:
 
     # mari "Seeing as they shot his leg, the shooter was either a bad shot, or not aiming to kill. If the case is that they're not trying to murder your father, you two could easily be kidnapped and ransomed."
     mari ""
 
-# game/scripts/kali_events.rpy:7535
+# game/scripts/kali_events.rpy:7533
 translate pt_br kdadsick_1d6522af:
 
     # k "You really think anyone knows where I live? Or even go as far as Syl'anar to capture me?"
     k ""
 
-# game/scripts/kali_events.rpy:7536
+# game/scripts/kali_events.rpy:7534
 translate pt_br kdadsick_dbf26833:
 
     # mari "Do you know how much someone could ransom you for, dear? Billions. The wrong person would chase you to the ends of the earth."
     mari ""
 
-# game/scripts/kali_events.rpy:7537
+# game/scripts/kali_events.rpy:7535
 translate pt_br kdadsick_bb786147:
 
     # k "Good point..."
     k ""
 
-# game/scripts/kali_events.rpy:7539
+# game/scripts/kali_events.rpy:7537
 translate pt_br kdadsick_5c12d4ca:
 
     # mari "Come now, let's see your Father, shall we?"
     mari ""
 
-# game/scripts/kali_events.rpy:7541
+# game/scripts/kali_events.rpy:7539
 translate pt_br kdadsick_a20cefa7:
 
     # "..."
     ""
 
-# game/scripts/kali_events.rpy:7543
+# game/scripts/kali_events.rpy:7541
 translate pt_br kdadsick_b5540d4c:
 
     # lu "{i}SHE'S TOTALLY IN ON IT!{/i}"
     lu ""
 
-# game/scripts/kali_events.rpy:7544
+# game/scripts/kali_events.rpy:7542
 translate pt_br kdadsick_93334484_1:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:7546
+# game/scripts/kali_events.rpy:7544
 translate pt_br kdadsick_6c2f867d:
 
     # lu "I can't be the only one that notices!?"
     lu ""
 
-# game/scripts/kali_events.rpy:7547
+# game/scripts/kali_events.rpy:7545
 translate pt_br kdadsick_0ca52f6b:
 
     # k "What are you talking about?"
     k ""
 
-# game/scripts/kali_events.rpy:7548
+# game/scripts/kali_events.rpy:7546
 translate pt_br kdadsick_0f1f8581:
 
     # lu "She said it herself! 'There's quite the disdain for slavers here'!"
     lu ""
 
-# game/scripts/kali_events.rpy:7549
+# game/scripts/kali_events.rpy:7547
 translate pt_br kdadsick_235bd1fa:
 
     # k "Dad doesn't own any Elves..."
     k ""
 
-# game/scripts/kali_events.rpy:7550
+# game/scripts/kali_events.rpy:7548
 translate pt_br kdadsick_b21c69fc:
 
     # lu "No, but he's heavily invested in Cornwall's company! Think about it!"
     lu ""
 
-# game/scripts/kali_events.rpy:7551
+# game/scripts/kali_events.rpy:7549
 translate pt_br kdadsick_fe531f31:
 
     # lu "Cornwall controls the whole Elvish slavery thing! Without our father's financial support, he wouldn't be able to control the whole population!"
     lu ""
 
-# game/scripts/kali_events.rpy:7553
+# game/scripts/kali_events.rpy:7551
 translate pt_br kdadsick_8e9e53ea:
 
     # k "Oh... Oh shit, you might be right..."
     k ""
 
-# game/scripts/kali_events.rpy:7554
+# game/scripts/kali_events.rpy:7552
 translate pt_br kdadsick_054bc37e:
 
     # c "Seems pretty obvious, doesn't it?"
     c ""
 
-# game/scripts/kali_events.rpy:7556
+# game/scripts/kali_events.rpy:7554
 translate pt_br kdadsick_eafb5b7d:
 
     # lu "You mean it makes sense!?"
     lu ""
 
-# game/scripts/kali_events.rpy:7557
+# game/scripts/kali_events.rpy:7555
 translate pt_br kdadsick_5e4ff86f:
 
     # k "That's true, too many people would expect her to be a part of it anyway. Even if she did want to hurt him, there's cameras everywhere here... Even the phone lines are monitored."
     k ""
 
-# game/scripts/kali_events.rpy:7559
+# game/scripts/kali_events.rpy:7557
 translate pt_br kdadsick_e9706f2f:
 
     # lu "Then she's using mail!"
     lu ""
 
-# game/scripts/kali_events.rpy:7560
+# game/scripts/kali_events.rpy:7558
 translate pt_br kdadsick_22f152cc:
 
     # k "Also monitored..."
     k ""
 
-# game/scripts/kali_events.rpy:7561
+# game/scripts/kali_events.rpy:7559
 translate pt_br kdadsick_f06527f3:
 
     # k "Lucy, I know you dislike her, but do you really think she'd want to hurt Dad? He's the reason she's free, like REALLY free. She may be the only free Elf in the world..."
     k ""
 
-# game/scripts/kali_events.rpy:7562
+# game/scripts/kali_events.rpy:7560
 translate pt_br kdadsick_cfeeed67:
 
     # lu "That's exactly why she'd be the one to start it! She's in a position of power, she has the money to hire anyone she wants!"
     lu ""
 
-# game/scripts/kali_events.rpy:7563
+# game/scripts/kali_events.rpy:7561
 translate pt_br kdadsick_53eb47cb:
 
     # k "Assuming he even gives her any money. He didn't give much to Mom..."
     k ""
 
-# game/scripts/kali_events.rpy:7564
+# game/scripts/kali_events.rpy:7562
 translate pt_br kdadsick_03394051:
 
     # lu "That's because she was a bad spender! You saw all the jewelery on her! She had four massive diamonds on her ears alone!"
     lu ""
 
-# game/scripts/kali_events.rpy:7565
+# game/scripts/kali_events.rpy:7563
 translate pt_br kdadsick_0787d306:
 
     # k "It's not unlike Dad to shower people he loves with gifts..."
     k ""
 
-# game/scripts/kali_events.rpy:7566
+# game/scripts/kali_events.rpy:7564
 translate pt_br kdadsick_d4b31fbc:
 
     # lu "And when was the last time YOU got a gift!?"
     lu ""
 
-# game/scripts/kali_events.rpy:7568
+# game/scripts/kali_events.rpy:7566
 translate pt_br kdadsick_52315c2d:
 
     # k "Whatever, Dad's waiting on us, we should talk to him."
     k ""
 
-# game/scripts/kali_events.rpy:7569
+# game/scripts/kali_events.rpy:7567
 translate pt_br kdadsick_a7154b0c:
 
     # lu "Damn it Kali, don't dismiss me like that! He could be in danger!"
     lu ""
 
-# game/scripts/kali_events.rpy:7570
+# game/scripts/kali_events.rpy:7568
 translate pt_br kdadsick_9799511b:
 
     # k "Either way he's in danger. She's definitely not going to hurt him in his own home with all these guards and cameras..."
     k ""
 
-# game/scripts/kali_events.rpy:7571
+# game/scripts/kali_events.rpy:7569
 translate pt_br kdadsick_28e85176:
 
     # lu "Rrrr... Fine, let's just go see how Dad is."
     lu ""
 
-# game/scripts/kali_events.rpy:7574
+# game/scripts/kali_events.rpy:7572
 translate pt_br kdadsick_22e78afd:
 
     # kd "There are my daughters!"
     kd ""
 
-# game/scripts/kali_events.rpy:7575
+# game/scripts/kali_events.rpy:7573
 translate pt_br kdadsick_2fe84c33:
 
     # k "Dad..."
     k ""
 
-# game/scripts/kali_events.rpy:7576
+# game/scripts/kali_events.rpy:7574
 translate pt_br kdadsick_a4f90b98:
 
     # lu "Are you okay?"
     lu ""
 
-# game/scripts/kali_events.rpy:7578
+# game/scripts/kali_events.rpy:7576
 translate pt_br kdadsick_7a79035a:
 
     # kd "Oh, I'm fine. The bullet went right through, just need to let it heal for a while."
     kd ""
 
-# game/scripts/kali_events.rpy:7580
+# game/scripts/kali_events.rpy:7578
 translate pt_br kdadsick_1cbd3813:
 
     # kd "How are you, Mr. [name]? I didn't expect to see you here today. Is the business going good?"
     kd ""
 
-# game/scripts/kali_events.rpy:7581
+# game/scripts/kali_events.rpy:7579
 translate pt_br kdadsick_02704531:
 
     # c "It's going great, thanks."
     c ""
 
-# game/scripts/kali_events.rpy:7582
+# game/scripts/kali_events.rpy:7580
 translate pt_br kdadsick_55d36967:
 
     # kd "That's good to hear!"
     kd ""
 
-# game/scripts/kali_events.rpy:7584
+# game/scripts/kali_events.rpy:7582
 translate pt_br kdadsick_c8c64947:
 
     # k "Who would try to hurt you, Dad? It doesn't make much sense..."
     k ""
 
-# game/scripts/kali_events.rpy:7585
+# game/scripts/kali_events.rpy:7583
 translate pt_br kdadsick_5e3ff7b9:
 
     # kd "The police can't find any apparent motives. I was heading into Nero Tower, I was shot right as I got out of the car. Police say the shooter was nested in a nearby balcony."
     kd ""
 
-# game/scripts/kali_events.rpy:7586
+# game/scripts/kali_events.rpy:7584
 translate pt_br kdadsick_474de778:
 
     # k "Then they clearly were after you specifically if they knew which car you were in."
     k ""
 
-# game/scripts/kali_events.rpy:7587
+# game/scripts/kali_events.rpy:7585
 translate pt_br kdadsick_3ba47f12:
 
     # kd "Well, yes... They were clearly after me. However, the balcony was very close. A kill shot would have been easy enough, so it's likely they didn't want to take my life at all."
     kd ""
 
-# game/scripts/kali_events.rpy:7589
+# game/scripts/kali_events.rpy:7587
 translate pt_br kdadsick_a58214ab:
 
     # lu "Dad, don't talk like that..."
     lu ""
 
-# game/scripts/kali_events.rpy:7590
+# game/scripts/kali_events.rpy:7588
 translate pt_br kdadsick_7e86422a:
 
     # kd "Whatever the case may be, I'll be safe."
     kd ""
 
-# game/scripts/kali_events.rpy:7592
+# game/scripts/kali_events.rpy:7590
 translate pt_br kdadsick_0cfdf23e:
 
     # kd "Mariella suggested fitting my car with bullet proof glass. Honestly, I'm not sure why I haven't done it until now. I'll also be wearing a bullet proof vest from now on."
     kd ""
 
-# game/scripts/kali_events.rpy:7593
+# game/scripts/kali_events.rpy:7591
 translate pt_br kdadsick_6bb3127f:
 
     # kd "On top of that, this house already has a bullet proof internal structure, including the glass."
     kd ""
 
-# game/scripts/kali_events.rpy:7594
+# game/scripts/kali_events.rpy:7592
 translate pt_br kdadsick_aad22795:
 
     # lu "{size=-10}{i}Doesn't protect from threats on the inside...{/i}{/size}"
     lu ""
 
-# game/scripts/kali_events.rpy:7596
+# game/scripts/kali_events.rpy:7594
 translate pt_br kdadsick_51efff04:
 
     # k "Well, what are we going to do? We can't stay here, Dad."
     k ""
 
-# game/scripts/kali_events.rpy:7597
+# game/scripts/kali_events.rpy:7595
 translate pt_br kdadsick_e08ae0b4:
 
     # kd "It wasn't too long ago that you were fighting to stay here."
     kd ""
 
-# game/scripts/kali_events.rpy:7598
+# game/scripts/kali_events.rpy:7596
 translate pt_br kdadsick_af349008:
 
     # k "I have a life over there now."
     k ""
 
-# game/scripts/kali_events.rpy:7600
+# game/scripts/kali_events.rpy:7598
 translate pt_br kdadsick_9d463dbb:
 
     # mari "It won't be safe for you there, Kali."
     mari ""
 
-# game/scripts/kali_events.rpy:7601
+# game/scripts/kali_events.rpy:7599
 translate pt_br kdadsick_1b20a23a:
 
     # k "It'll be fine, the hotel has protection."
     k ""
 
-# game/scripts/kali_events.rpy:7602
+# game/scripts/kali_events.rpy:7600
 translate pt_br kdadsick_badc9a1b:
 
     # mari "If you say so..."
     mari ""
 
-# game/scripts/kali_events.rpy:7604
+# game/scripts/kali_events.rpy:7602
 translate pt_br kdadsick_0a1eb880:
 
     # kd "I told you that you'd be making your own decisions when I moved you out to Syl'anar... So if you really don't want to stay, and you say you have protection, then I won't make you stay."
     kd ""
 
-# game/scripts/kali_events.rpy:7605
+# game/scripts/kali_events.rpy:7603
 translate pt_br kdadsick_c4a45e17:
 
     # mari "Are you sure that's the best thing to do, dear?"
     mari ""
 
-# game/scripts/kali_events.rpy:7606
+# game/scripts/kali_events.rpy:7604
 translate pt_br kdadsick_53f2a7e7:
 
     # kd "If I have [name]'s word that my daughters will be safe, then I'll let them do as they please."
     kd ""
 
-# game/scripts/kali_events.rpy:7607
+# game/scripts/kali_events.rpy:7605
 translate pt_br kdadsick_7fdd8747:
 
     # c "They'll be safe, no one will hurt them."
     c ""
 
-# game/scripts/kali_events.rpy:7608
+# game/scripts/kali_events.rpy:7606
 translate pt_br kdadsick_164f1e69:
 
     # kd "Very well. [name], could I speak with you alone?"
     kd ""
 
-# game/scripts/kali_events.rpy:7609
+# game/scripts/kali_events.rpy:7607
 translate pt_br kdadsick_5fba08df:
 
     # k "What are you going to talk about with him?"
     k ""
 
-# game/scripts/kali_events.rpy:7610
+# game/scripts/kali_events.rpy:7608
 translate pt_br kdadsick_7395fa54:
 
     # kd "It's business related, honey."
     kd ""
 
-# game/scripts/kali_events.rpy:7611
+# game/scripts/kali_events.rpy:7609
 translate pt_br kdadsick_22c719b5:
 
     # k "Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:7613
+# game/scripts/kali_events.rpy:7611
 translate pt_br kdadsick_a5a7ec3f:
 
     # kd "I'd normally get up and walk with you, but that's a little hard in my current condition..."
     kd ""
 
-# game/scripts/kali_events.rpy:7614
+# game/scripts/kali_events.rpy:7612
 translate pt_br kdadsick_2ff1d0df:
 
     # kd "Listen, today was an eye opener. I won't be alive forever, so I need to start planning for the inevitable. Has Kali quit coding?"
     kd ""
 
-# game/scripts/kali_events.rpy:7615
+# game/scripts/kali_events.rpy:7613
 translate pt_br kdadsick_2c7de829:
 
     # c "It looks like she's coding something almost every day."
     c ""
 
-# game/scripts/kali_events.rpy:7616
+# game/scripts/kali_events.rpy:7614
 translate pt_br kdadsick_6f676a26:
 
     # kd "That's good news. Have you heard of Nero Incorporated?"
     kd ""
 
-# game/scripts/kali_events.rpy:7617
+# game/scripts/kali_events.rpy:7615
 translate pt_br kdadsick_663181e9:
 
     # c "I don't think I have."
     c ""
 
-# game/scripts/kali_events.rpy:7618
+# game/scripts/kali_events.rpy:7616
 translate pt_br kdadsick_67c8c333:
 
     # kd "It's my company. Well, my primary company."
     kd ""
 
-# game/scripts/kali_events.rpy:7619
+# game/scripts/kali_events.rpy:7617
 translate pt_br kdadsick_0044f0eb:
 
     # kd "Before I had Kali and Lucia, I was in the real estate business. I only got into electronics when they were born."
     kd ""
 
-# game/scripts/kali_events.rpy:7620
+# game/scripts/kali_events.rpy:7618
 translate pt_br kdadsick_60ca4555:
 
     # kd "If you have a smart phone, laptop, fridge, or any other common house hold electronic, it probably uses Nero Inc. technology. I'm invested in many other businesses as well, but Nero Incorporated is my blood, sweat, and tears."
     kd ""
 
-# game/scripts/kali_events.rpy:7621
+# game/scripts/kali_events.rpy:7619
 translate pt_br kdadsick_d5bd7ba3:
 
     # kd "It's very clear to me now that I won't be running it forever. That's where Kali comes in."
     kd ""
 
-# game/scripts/kali_events.rpy:7622
+# game/scripts/kali_events.rpy:7620
 translate pt_br kdadsick_3a00fbdf:
 
     # c "You're going to give her your company?"
     c ""
 
-# game/scripts/kali_events.rpy:7623
+# game/scripts/kali_events.rpy:7621
 translate pt_br kdadsick_2198f8a1:
 
     # kd "I am. At some point in the near future anyway."
     kd ""
 
-# game/scripts/kali_events.rpy:7624
+# game/scripts/kali_events.rpy:7622
 translate pt_br kdadsick_f3bea5cf:
 
     # kd "Kali is no business woman, but she's been using computers since she was born. She knows more about them than I do at this point."
     kd ""
 
-# game/scripts/kali_events.rpy:7625
+# game/scripts/kali_events.rpy:7623
 translate pt_br kdadsick_42a284b5:
 
     # c "She doesn't strike me as a business woman."
     c ""
 
-# game/scripts/kali_events.rpy:7626
+# game/scripts/kali_events.rpy:7624
 translate pt_br kdadsick_7a24621a:
 
     # kd "Nor is she one... This is why I'm talking to you right now, and not her."
     kd ""
 
-# game/scripts/kali_events.rpy:7627
+# game/scripts/kali_events.rpy:7625
 translate pt_br kdadsick_5172a9b9:
 
     # c "You want me to convince her to run your company?"
     c ""
 
-# game/scripts/kali_events.rpy:7628
+# game/scripts/kali_events.rpy:7626
 translate pt_br kdadsick_35b3822e:
 
     # kd "She already wants it, she just doesn't want to admit it. You know how she is."
     kd ""
 
-# game/scripts/kali_events.rpy:7629
+# game/scripts/kali_events.rpy:7627
 translate pt_br kdadsick_19cad243:
 
     # kd "Of course the board won't be too happy about my decision, but it's mine to make. Kali will be a much better CEO than I was."
     kd ""
 
-# game/scripts/kali_events.rpy:7630
+# game/scripts/kali_events.rpy:7628
 translate pt_br kdadsick_4b325eca:
 
     # c "What about Lucia?"
     c ""
 
-# game/scripts/kali_events.rpy:7631
+# game/scripts/kali_events.rpy:7629
 translate pt_br kdadsick_7851930a:
 
     # kd "Lucia is not a computer person. Besides that, she needs to do a bit of growing up."
     kd ""
 
-# game/scripts/kali_events.rpy:7632
+# game/scripts/kali_events.rpy:7630
 translate pt_br kdadsick_e54b1ec9:
 
     # kd "Anyway, Mr. [name]... I'm sure you weren't expecting to be flown half way across the world when you woke up this morning. I'm sorry for doing that to you."
     kd ""
 
-# game/scripts/kali_events.rpy:7633
+# game/scripts/kali_events.rpy:7631
 translate pt_br kdadsick_add0b8ec:
 
     # c "I've never been to The Capitol before, It was worth seeing."
     c ""
 
-# game/scripts/kali_events.rpy:7634
+# game/scripts/kali_events.rpy:7632
 translate pt_br kdadsick_b4ab40c7:
 
     # kd "Well, I'm glad you like my little city. It's been such a joy to see this city grow over the years."
     kd ""
 
-# game/scripts/kali_events.rpy:7635
+# game/scripts/kali_events.rpy:7633
 translate pt_br kdadsick_fef82528:
 
     # c "Your city?"
     c ""
 
-# game/scripts/kali_events.rpy:7636
+# game/scripts/kali_events.rpy:7634
 translate pt_br kdadsick_1a45fc2a:
 
     # kd "I'm also the mayor of The Capitol."
     kd ""
 
-# game/scripts/kali_events.rpy:7637
+# game/scripts/kali_events.rpy:7635
 translate pt_br kdadsick_9601c61a:
 
     # c "You sure have a lot on your plate..."
     c ""
 
-# game/scripts/kali_events.rpy:7639
+# game/scripts/kali_events.rpy:7637
 translate pt_br kdadsick_069d2654:
 
     # kd "Yes. Today, it felt like one of my children shot me. I've invested so much money into this city, I've basically fed it with my own cash."
     kd ""
 
-# game/scripts/kali_events.rpy:7640
+# game/scripts/kali_events.rpy:7638
 translate pt_br kdadsick_a6f2a325:
 
     # kd "Oh, and one more thing."
     kd ""
 
-# game/scripts/kali_events.rpy:7642
+# game/scripts/kali_events.rpy:7640
 translate pt_br kdadsick_08aac2a3:
 
     # kd "I'd also like to give you $10,000."
     kd ""
 
-# game/scripts/kali_events.rpy:7643
+# game/scripts/kali_events.rpy:7641
 translate pt_br kdadsick_115c34c4:
 
     # c "What? Why?"
     c ""
 
-# game/scripts/kali_events.rpy:7644
+# game/scripts/kali_events.rpy:7642
 translate pt_br kdadsick_de5c077a:
 
     # kd "My daughter loves you, Mr. [name]. Both you and Kali are living in a hotel of all things, not even a house. Heck, maybe I will buy you two a house some day. If I live long enough to see it."
     kd ""
 
-# game/scripts/kali_events.rpy:7645
+# game/scripts/kali_events.rpy:7643
 translate pt_br kdadsick_67ffa64b:
 
     # kd "But for now, I'll give you $10,000."
     kd ""
 
-# game/scripts/kali_events.rpy:7646
+# game/scripts/kali_events.rpy:7644
 translate pt_br kdadsick_211900c1:
 
     # c "To do what with?"
     c ""
 
-# game/scripts/kali_events.rpy:7647
+# game/scripts/kali_events.rpy:7645
 translate pt_br kdadsick_952348ea:
 
     # kd "Maybe buy some guards? I know it'd make me feel more at ease."
     kd ""
 
-# game/scripts/kali_events.rpy:7648
+# game/scripts/kali_events.rpy:7646
 translate pt_br kdadsick_61c4787f:
 
     # c "I think I've got that covered."
     c ""
 
-# game/scripts/kali_events.rpy:7649
+# game/scripts/kali_events.rpy:7647
 translate pt_br kdadsick_b2f963b0:
 
     # kd "Bullet proof windows then! Imagine hearing about a hotel with bullet proof windows, it'd be the safest hotel in all of Syl'anar!"
     kd ""
 
-# game/scripts/kali_events.rpy:7650
+# game/scripts/kali_events.rpy:7648
 translate pt_br kdadsick_795a95a5:
 
     # kd "What ever you'd like, as long as it makes Kali happy."
     kd ""
 
-# game/scripts/kali_events.rpy:7651
+# game/scripts/kali_events.rpy:7649
 translate pt_br kdadsick_d6f6e42e:
 
     # c "I appreciate it."
     c ""
 
-# game/scripts/kali_events.rpy:7652
+# game/scripts/kali_events.rpy:7650
 translate pt_br kdadsick_1c88abdb:
 
     # kd "And I appreciate you making my daughter happy."
     kd ""
 
-# game/scripts/kali_events.rpy:7654
+# game/scripts/kali_events.rpy:7652
 translate pt_br kdadsick_ca0b13a1:
 
     # kd "Alright, go get out of here. It's about time I take a nap for the first time in years."
     kd ""
 
-# game/scripts/kali_events.rpy:7657
+# game/scripts/kali_events.rpy:7655
 translate pt_br kdadsick_e0c9b276:
 
     # lu "What'd you guys talk about?"
     lu ""
 
-# game/scripts/kali_events.rpy:7658
+# game/scripts/kali_events.rpy:7656
 translate pt_br kdadsick_a5bb86f2:
 
     # c "Your Dad wants to give you his company, Kali."
     c ""
 
-# game/scripts/kali_events.rpy:7660
+# game/scripts/kali_events.rpy:7658
 translate pt_br kdadsick_93334484_2:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:7661
+# game/scripts/kali_events.rpy:7659
 translate pt_br kdadsick_180c4526:
 
     # lu "Oh! What do I get?"
     lu ""
 
-# game/scripts/kali_events.rpy:7662
+# game/scripts/kali_events.rpy:7660
 translate pt_br kdadsick_f08067fe:
 
     # c "Nothing."
     c ""
 
-# game/scripts/kali_events.rpy:7664
+# game/scripts/kali_events.rpy:7662
 translate pt_br kdadsick_3fdeb8b9:
 
     # lu "She gets a multi-billion dollar company and I get nothing!?"
     lu ""
 
-# game/scripts/kali_events.rpy:7666
+# game/scripts/kali_events.rpy:7664
 translate pt_br kdadsick_3cbab85d:
 
     # k "I don't want the company."
     k ""
 
-# game/scripts/kali_events.rpy:7667
+# game/scripts/kali_events.rpy:7665
 translate pt_br kdadsick_c3f4cd72:
 
     # c "He said you'd say that."
     c ""
 
-# game/scripts/kali_events.rpy:7668
+# game/scripts/kali_events.rpy:7666
 translate pt_br kdadsick_1a010ce7:
 
     # k "It's because I don't want it. Do I look like a business woman to you? I've never worn a dress in my life."
     k ""
 
-# game/scripts/kali_events.rpy:7669
+# game/scripts/kali_events.rpy:7667
 translate pt_br kdadsick_b3328386:
 
     # c "That's not true."
     c ""
 
-# game/scripts/kali_events.rpy:7670
+# game/scripts/kali_events.rpy:7668
 translate pt_br kdadsick_8e85bfd7:
 
     # k "You know what I mean. I don't even want to be in charge of anyone."
     k ""
 
-# game/scripts/kali_events.rpy:7671
+# game/scripts/kali_events.rpy:7669
 translate pt_br kdadsick_177f4d20:
 
     # k "I don't even want to get promoted at Papa Rons..."
     k ""
 
-# game/scripts/kali_events.rpy:7672
+# game/scripts/kali_events.rpy:7670
 translate pt_br kdadsick_d7ec0a2b:
 
     # c "So you want to do the same thing forever? Live in a hotel and deliver pizzas until you're 80?"
     c ""
 
-# game/scripts/kali_events.rpy:7674
+# game/scripts/kali_events.rpy:7672
 translate pt_br kdadsick_e0395878:
 
     # k "*sigh*, No I don't want to deliver pizzas forever."
     k ""
 
-# game/scripts/kali_events.rpy:7675
+# game/scripts/kali_events.rpy:7673
 translate pt_br kdadsick_2f5798e8:
 
     # lu "I don't see why you shouldn't do it... You're good with computers."
     lu ""
 
-# game/scripts/kali_events.rpy:7677
+# game/scripts/kali_events.rpy:7675
 translate pt_br kdadsick_e7821b2b:
 
     # k "But I'm not good at leading."
     k ""
 
-# game/scripts/kali_events.rpy:7678
+# game/scripts/kali_events.rpy:7676
 translate pt_br kdadsick_af6cb97c:
 
     # lu "Then let the board do all the work. Maybe you'll even invent some program thingy or something."
     lu ""
 
-# game/scripts/kali_events.rpy:7680
+# game/scripts/kali_events.rpy:7678
 translate pt_br kdadsick_c51c735c:
 
     # k "Program thingy...?"
     k ""
 
-# game/scripts/kali_events.rpy:7681
+# game/scripts/kali_events.rpy:7679
 translate pt_br kdadsick_9fa9f7e9:
 
     # lu "What? Do you not do your program thingy all day?"
     lu ""
 
-# game/scripts/kali_events.rpy:7682
+# game/scripts/kali_events.rpy:7680
 translate pt_br kdadsick_357af3a4:
 
     # k "Urgh..."
     k ""
 
-# game/scripts/kali_events.rpy:7684
+# game/scripts/kali_events.rpy:7682
 translate pt_br kdadsick_5e0eca1d:
 
     # k "Come on, let's go back home."
     k ""
 
-# game/scripts/kali_events.rpy:7685
+# game/scripts/kali_events.rpy:7683
 translate pt_br kdadsick_9f39e053:
 
     # lu "You don't want to stay for a couple days...? When was the last time you visited The Capitol?"
     lu ""
 
-# game/scripts/kali_events.rpy:7687
+# game/scripts/kali_events.rpy:7685
 translate pt_br kdadsick_812841e6:
 
     # k "No, I don't want to stay here any longer than I need to. I still need to go to work."
     k ""
 
-# game/scripts/kali_events.rpy:7688
+# game/scripts/kali_events.rpy:7686
 translate pt_br kdadsick_ae9072e7:
 
     # lu "What...?"
     lu ""
 
-# game/scripts/kali_events.rpy:7690
+# game/scripts/kali_events.rpy:7688
 translate pt_br kdadsick_54aed23b:
 
     # k "Can we go now?"
     k ""
 
-# game/scripts/kali_events.rpy:7691
+# game/scripts/kali_events.rpy:7689
 translate pt_br kdadsick_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/kali_events.rpy:7693
+# game/scripts/kali_events.rpy:7691
 translate pt_br kdadsick_e6a07189:
 
     # mari "Mr. [name], may I speak with you?"
     mari ""
 
-# game/scripts/kali_events.rpy:7697
+# game/scripts/kali_events.rpy:7695
 translate pt_br kdadsick_5d5b37b2:
 
     # mari "I want you to use that money for good."
     mari ""
 
-# game/scripts/kali_events.rpy:7698
+# game/scripts/kali_events.rpy:7696
 translate pt_br kdadsick_63f41264:
 
     # c "You know about the money?"
     c ""
 
-# game/scripts/kali_events.rpy:7699
+# game/scripts/kali_events.rpy:7697
 translate pt_br kdadsick_83bb21e0:
 
     # mari "I brought it up to my husband and he agreed."
     mari ""
 
-# game/scripts/kali_events.rpy:7700
+# game/scripts/kali_events.rpy:7698
 translate pt_br kdadsick_f5d33c4c:
 
     # mari "I know you said you weren't a slaver, but I want you to become one."
     mari ""
 
-# game/scripts/kali_events.rpy:7701
+# game/scripts/kali_events.rpy:7699
 translate pt_br kdadsick_bb00a52c:
 
     # c "What do you mean?"
     c ""
 
-# game/scripts/kali_events.rpy:7702
+# game/scripts/kali_events.rpy:7700
 translate pt_br kdadsick_c6a7d6d1:
 
     # mari "$10,000 is a lot of money, [name]. It could buy you a small house."
     mari ""
 
-# game/scripts/kali_events.rpy:7703
+# game/scripts/kali_events.rpy:7701
 translate pt_br kdadsick_dad054c8:
 
     # mari "What I'm saying is, consider saving some elves. There's much I want to do to help the slavery problem in your country, but little I can from here."
     mari ""
 
-# game/scripts/kali_events.rpy:7704
+# game/scripts/kali_events.rpy:7702
 translate pt_br kdadsick_2cc0f1a4:
 
     # mari "If you just buy some elves, and give them a good life, a good free one, that would make me very happy. Or at least as free as the system allows."
     mari ""
 
-# game/scripts/kali_events.rpy:7705
+# game/scripts/kali_events.rpy:7703
 translate pt_br kdadsick_85ed5660:
 
     # c "You want me to build an adoption center?"
     c ""
 
-# game/scripts/kali_events.rpy:7707
+# game/scripts/kali_events.rpy:7705
 translate pt_br kdadsick_3520e32c:
 
     # mari "An adoption center... That's funny."
     mari ""
 
-# game/scripts/kali_events.rpy:7709
+# game/scripts/kali_events.rpy:7707
 translate pt_br kdadsick_54f4cb3b:
 
     # mari "It would be better than the government owning them, and better than some pig."
     mari ""
 
-# game/scripts/kali_events.rpy:7710
+# game/scripts/kali_events.rpy:7708
 translate pt_br kdadsick_e1ebcc56:
 
     # mari "Plus, it's completely legal to own as many elves as you'd like. You could even build a whole city where elves can roam free of their masters and trade by themselves."
     mari ""
 
-# game/scripts/kali_events.rpy:7711
+# game/scripts/kali_events.rpy:7709
 translate pt_br kdadsick_62637b4b:
 
     # c "That's pretty ambitious."
     c ""
 
-# game/scripts/kali_events.rpy:7713
+# game/scripts/kali_events.rpy:7711
 translate pt_br kdadsick_35ca990d:
 
     # mari "It's always good to dream of a better world, Mr. [name]."
     mari ""
 
-# game/scripts/kali_events.rpy:7715
+# game/scripts/kali_events.rpy:7713
 translate pt_br kdadsick_49e5ed7a:
 
     # mari "Sorry for keeping you waiting, Mr. [name]. Would you like anything before you leave? Some water maybe?"
     mari ""
 
-# game/scripts/kali_events.rpy:7718
+# game/scripts/kali_events.rpy:7716
 translate pt_br mariellaquestion_b2187a22:
 
     # mari "Want to know more, then?"
     mari ""
 
-# game/scripts/kali_events.rpy:7719
+# game/scripts/kali_events.rpy:7717
 translate pt_br mariellaquestion_9d9fb6df:
 
     # c "I do."
     c ""
 
-# game/scripts/kali_events.rpy:7721
+# game/scripts/kali_events.rpy:7719
 translate pt_br mariellaquestion_2798ef27:
 
     # mari "In Syl'anar, half elves have no rights. They're seen as an abomination."
     mari ""
 
-# game/scripts/kali_events.rpy:7722
+# game/scripts/kali_events.rpy:7720
 translate pt_br mariellaquestion_906775b3:
 
     # mari "We sell for a lot because of that. Some would even breed elves for the purpose of selling half elves."
     mari ""
 
-# game/scripts/kali_events.rpy:7724
+# game/scripts/kali_events.rpy:7722
 translate pt_br mariellaquestion_4c4aa770:
 
     # mari "Every day I wake up happy knowing I am where I am."
     mari ""
 
-# game/scripts/kali_events.rpy:7726
+# game/scripts/kali_events.rpy:7724
 translate pt_br mariellaquestion_f5c62ed1:
 
     # mari "Half elves can live a human's life though, if the doctor is willing to break the law, he could.... 'circumcise'... A half elf's ears."
     mari ""
 
-# game/scripts/kali_events.rpy:7727
+# game/scripts/kali_events.rpy:7725
 translate pt_br mariellaquestion_0c23bc4b:
 
     # c "You mean cut the tips off?"
     c ""
 
-# game/scripts/kali_events.rpy:7729
+# game/scripts/kali_events.rpy:7727
 translate pt_br mariellaquestion_8a3e81f7:
 
     # mari "Exactly. Nobody would be able to tell without performing DNA tests. Anyone below 25 percent Elvish DNA is considered a Human, and at least half of the population in Syl'anar has some elvish DNA in them."
     mari ""
 
-# game/scripts/kali_events.rpy:7730
+# game/scripts/kali_events.rpy:7728
 translate pt_br mariellaquestion_b44de101:
 
     # mari "It's ridiculous... I'm considered worthless trash over there, but my children would have full rights..."
     mari ""
 
-# game/scripts/kali_events.rpy:7731
+# game/scripts/kali_events.rpy:7729
 translate pt_br mariellaquestion_df0fbf40:
 
     # mari "But there is an easy way to tell which Human has elvish ancestry..."
     mari ""
 
-# game/scripts/kali_events.rpy:7732
+# game/scripts/kali_events.rpy:7730
 translate pt_br mariellaquestion_67287a2b:
 
     # c "How?"
     c ""
 
-# game/scripts/kali_events.rpy:7733
+# game/scripts/kali_events.rpy:7731
 translate pt_br mariellaquestion_eedbb022:
 
     # mari "The eyes!"
     mari ""
 
-# game/scripts/kali_events.rpy:7734
+# game/scripts/kali_events.rpy:7732
 translate pt_br mariellaquestion_f44fc0f0:
 
     # mari "As you can tell, mine are a golden color. Luckily for me, the same color as my hair. Although my hair is from my human Mother's side."
     mari ""
 
-# game/scripts/kali_events.rpy:7735
+# game/scripts/kali_events.rpy:7733
 translate pt_br mariellaquestion_77ae9d7b:
 
     # mari "My Father was a common elf, and of course all common elves share these same three traits. Dark hair, freckles, and yellow eyes."
     mari ""
 
-# game/scripts/kali_events.rpy:7736
+# game/scripts/kali_events.rpy:7734
 translate pt_br mariellaquestion_e1c0152b:
 
     # mari "In every case of a human breeding with an elf, that bloodline will keep their ancestor's unique elvish eyes. Even if they are 1/16th elvish."
     mari ""
 
-# game/scripts/kali_events.rpy:7737
+# game/scripts/kali_events.rpy:7735
 translate pt_br mariellaquestion_e731a288:
 
     # c "What eye colors belong to humans with elvish ancestry?"
     c ""
 
-# game/scripts/kali_events.rpy:7738
+# game/scripts/kali_events.rpy:7736
 translate pt_br mariellaquestion_830d558c:
 
     # mari "Ah, that's an easy one."
     mari ""
 
-# game/scripts/kali_events.rpy:7739
+# game/scripts/kali_events.rpy:7737
 translate pt_br mariellaquestion_83d5b141:
 
     # mari "Common elf and desert elf ancestry would leave you with light yellow, amber or golden eyes."
     mari ""
 
-# game/scripts/kali_events.rpy:7740
+# game/scripts/kali_events.rpy:7738
 translate pt_br mariellaquestion_9888fee0:
 
     # mari "Dark elf ancestry would leave you with pink eyes. Although rarely the human can even keep the dark elf's dark purple eyes completely, without losing any of the color."
     mari ""
 
-# game/scripts/kali_events.rpy:7741
+# game/scripts/kali_events.rpy:7739
 translate pt_br mariellaquestion_d2b9a3e0:
 
     # mari "While a half elf would lose a drow's unique pupil shape for seeing in the dark, the ancestry would leave you with a dirty orange or red color."
     mari ""
 
-# game/scripts/kali_events.rpy:7742
+# game/scripts/kali_events.rpy:7740
 translate pt_br mariellaquestion_db3e2aba:
 
     # mari "However, a half drow would be horribly crippled. Half drow cannot see, and they cannot use their body. Impregnating a Drow is a serious crime because of this."
     mari ""
 
-# game/scripts/kali_events.rpy:7743
+# game/scripts/kali_events.rpy:7741
 translate pt_br mariellaquestion_a1975c67:
 
     # c "What about a high elf?"
     c ""
 
-# game/scripts/kali_events.rpy:7745
+# game/scripts/kali_events.rpy:7743
 translate pt_br mariellaquestion_27ff0637:
 
     # mari "I'm sorry? A what?"
     mari ""
 
-# game/scripts/kali_events.rpy:7746
+# game/scripts/kali_events.rpy:7744
 translate pt_br mariellaquestion_8716a76f:
 
     # c "Sorry, nevermind."
     c ""
 
-# game/scripts/kali_events.rpy:7750
+# game/scripts/kali_events.rpy:7748
 translate pt_br mariellaquestion_68a52465:
 
     # mari "Ah, you mean with my husband?"
     mari ""
 
-# game/scripts/kali_events.rpy:7752
+# game/scripts/kali_events.rpy:7750
 translate pt_br mariellaquestion_92a3e500:
 
     # mari "I'm actually a cousin of Cornwall's."
     mari ""
 
-# game/scripts/kali_events.rpy:7753
+# game/scripts/kali_events.rpy:7751
 translate pt_br mariellaquestion_278193fe:
 
     # c "He profits off of elves being slaves, why would he save you?"
     c ""
 
-# game/scripts/kali_events.rpy:7754
+# game/scripts/kali_events.rpy:7752
 translate pt_br mariellaquestion_a7f083b7:
 
     # mari "It's the system, dear. There are laws in place, it's a foundation of Syl'anar to enslave elves. If it wasn't Cornwall, it'd be someone else."
     mari ""
 
-# game/scripts/kali_events.rpy:7756
+# game/scripts/kali_events.rpy:7754
 translate pt_br mariellaquestion_37256672:
 
     # mari "Luckily for us, he has an open mind about these things. He gave the elves rights, you know? The first time in history."
     mari ""
 
-# game/scripts/kali_events.rpy:7757
+# game/scripts/kali_events.rpy:7755
 translate pt_br mariellaquestion_fa2d4fea:
 
     # mari "Anyway, Cornwall and I have been friends since we were young. I took care of him as a child."
     mari ""
 
-# game/scripts/kali_events.rpy:7759
+# game/scripts/kali_events.rpy:7757
 translate pt_br mariellaquestion_46ace2ae:
 
     # mari "He wanted to give me a better life. But an elf leaving Syl'anar is a serious crime. It's even a cause for war."
     mari ""
 
-# game/scripts/kali_events.rpy:7760
+# game/scripts/kali_events.rpy:7758
 translate pt_br mariellaquestion_ee7fd917:
 
     # c "It's that serious?"
     c ""
 
-# game/scripts/kali_events.rpy:7761
+# game/scripts/kali_events.rpy:7759
 translate pt_br mariellaquestion_07e8974f:
 
     # mari "It's very serious. The monopoly Syl'anar has over the elves is strictly enforced. If a single male and female elf leave the continent, they could start a whole family of elves."
     mari ""
 
-# game/scripts/kali_events.rpy:7763
+# game/scripts/kali_events.rpy:7761
 translate pt_br mariellaquestion_98e65c10:
 
     # mari "The world is ignorant to what happens in Syl'anar. There are no news articles of elves, no actors, nothing. They have no voice."
     mari ""
 
-# game/scripts/kali_events.rpy:7765
+# game/scripts/kali_events.rpy:7763
 translate pt_br mariellaquestion_3d9b7b97:
 
     # mari "My coming here was in the news. 'The first Half elf outside of Syl'anar'."
     mari ""
 
-# game/scripts/kali_events.rpy:7766
+# game/scripts/kali_events.rpy:7764
 translate pt_br mariellaquestion_54607835:
 
     # mari "Of course there were tensions between our nations, but Cornwall stood up for me. He claimed my elvish ancestry would be gone within the next two generations, and Syl'anar backed down."
     mari ""
 
-# game/scripts/kali_events.rpy:7767
+# game/scripts/kali_events.rpy:7765
 translate pt_br mariellaquestion_32b2e6e6:
 
     # mari "It's mostly true, my elvish genes won't be getting stronger, even if I do have children. But the eyes would always stay, of course."
     mari ""
 
-# game/scripts/kali_events.rpy:7770
+# game/scripts/kali_events.rpy:7768
 translate pt_br mariellaquestion_891314a3:
 
     # mari "It was nice meeting you, Mr. [name]."
     mari ""
 
-# game/scripts/kali_events.rpy:7773
+# game/scripts/kali_events.rpy:7771
 translate pt_br mariellaquestion_d19f855d:
 
     # c "..."
     c ""
 
-# game/scripts/kali_events.rpy:7776
+# game/scripts/kali_events.rpy:7774
 translate pt_br mariellaquestion_2ecf1e62:
 
     # "You, Kali, and Lucia make your way to the helicopter parked just outside the house."
     ""
 
-# game/scripts/kali_events.rpy:7777
+# game/scripts/kali_events.rpy:7775
 translate pt_br mariellaquestion_aa99b7be:
 
     # "On the ride to the family's private jet, you notice Kali is contemplating something. Assuming it's about her Father's offer, you consider his words. Does Kali really want to run his company?"
     ""
 
-# game/scripts/kali_events.rpy:7778
+# game/scripts/kali_events.rpy:7776
 translate pt_br mariellaquestion_9732e9e4:
 
     # "The rest of the trip is fairly uneventful other than your view of clouds and ocean stretching farther than the eye can see. It's a beautiful sight you wish you could see more of. Life on land seems so restrictive and punishing. Life up here... It's free, it's fresh, it's calm. You feel you could live a thousand years in the sky."
     ""
 
-# game/scripts/kali_events.rpy:7779
+# game/scripts/kali_events.rpy:7777
 translate pt_br mariellaquestion_f913a3cd:
 
     # "You arrive back to the hotel at sundown. Lucia worries for her father, and is a little disappointed she didn't receive any gifts like Kali did."
     ""
 
-# game/scripts/kali_events.rpy:7780
+# game/scripts/kali_events.rpy:7778
 translate pt_br mariellaquestion_d743121d:
 
     # "Kali has a lot to think on. She's been groomed to take over the company when she was young, but she never saw herself as worthy of such a position. The offer is no longer ignorable now, she has to decide what her life will become..."
     ""
 
-# game/scripts/kali_events.rpy:7781
+# game/scripts/kali_events.rpy:7779
 translate pt_br mariellaquestion_2b73f2e0:
 
     # "Your phone beeps. You look at the notifications and you can see a deposit of $10,000 directly in to your bank account."
     ""
 
-# game/scripts/kali_events.rpy:7816
+# game/scripts/kali_events.rpy:7814
 translate pt_br lucyroomchoices_60a0ada7:
 
     # lu "Oh, hey big bro~"
     lu ""
 
-# game/scripts/kali_events.rpy:7819
+# game/scripts/kali_events.rpy:7817
 translate pt_br lutalk_02096a47:
 
     # lu "Just fine."
     lu ""
 
-# game/scripts/kali_events.rpy:7824
+# game/scripts/kali_events.rpy:7822
 translate pt_br lutalk_fab5c3ac:
 
     # lu "Oooh! Really? Yes!"
     lu ""
 
-# game/scripts/kali_events.rpy:7825
+# game/scripts/kali_events.rpy:7823
 translate pt_br lutalk_0005d1eb:
 
     # lu "I mean... Shh... Let's find somewhere we can fuck without Kali noticing... Heheh..."
     lu ""
 
-# game/scripts/kali_events.rpy:7828
+# game/scripts/kali_events.rpy:7826
 translate pt_br lutalk_c5652e7b:
 
     # lu "Yes! Come on Kali!"
     lu ""
 
-# game/scripts/kali_events.rpy:7829
+# game/scripts/kali_events.rpy:7827
 translate pt_br lutalk_f521281c:
 
     # k "Okay."
     k ""
 
-# game/scripts/kali_events.rpy:7833
+# game/scripts/kali_events.rpy:7831
 translate pt_br lutalk_91418ca9:
 
     # lu "Oh, uh... okay. I guess we can..."
     lu ""
 
-# game/scripts/kali_events.rpy:7834
+# game/scripts/kali_events.rpy:7832
 translate pt_br lutalk_83c34879:
 
     # lu "I'll have to get Kali out of here though... she doesn't like it when I have sex with you..."
     lu ""
 
-# game/scripts/kali_events.rpy:7835
+# game/scripts/kali_events.rpy:7833
 translate pt_br lutalk_9ad2a44c:
 
     # lu "Hmmm... Oh! I got it."
     lu ""
 
-# game/scripts/kali_events.rpy:7837
+# game/scripts/kali_events.rpy:7835
 translate pt_br lutalk_dc9a4d06:
 
     # lu "Kaliiiiiiii! I bought frozen pizza yesterday, could you make it for us?"
     lu ""
 
-# game/scripts/kali_events.rpy:7838
+# game/scripts/kali_events.rpy:7836
 translate pt_br lutalk_66b72664:
 
     # k "Ooo really? Okay, be right back!"
     k ""
 
-# game/scripts/kali_events.rpy:7839
+# game/scripts/kali_events.rpy:7837
 translate pt_br lutalk_54be8fa7:
 
     # "...{w}...{w}..."
     ""
 
-# game/scripts/kali_events.rpy:7840
+# game/scripts/kali_events.rpy:7838
 translate pt_br lutalk_02528821:
 
     # "{i}Lucy locks the door...{/i}"
     ""
 
-# game/scripts/kali_events.rpy:7844
+# game/scripts/kali_events.rpy:7842
 translate pt_br lutalk_854b9fd0:
 
     # c "Put your bunny outfit on, I want you to suck my cock."
     c ""
 
-# game/scripts/kali_events.rpy:7845
+# game/scripts/kali_events.rpy:7843
 translate pt_br lutalk_36cbac9a:
 
     # lu "Ohh~ okay."
     lu ""
 
-# game/scripts/kali_events.rpy:7860
+# game/scripts/kali_events.rpy:7858
 translate pt_br kalithreesome_bb1b2b09:
 
     # lu "Ahh, fuck! Your tongue feels so good, big bro!"
     lu ""
 
-# game/scripts/kali_events.rpy:7861
+# game/scripts/kali_events.rpy:7859
 translate pt_br kalithreesome_aed107dc:
 
     # k "Don't call him that."
     k ""
 
-# game/scripts/kali_events.rpy:7862
+# game/scripts/kali_events.rpy:7860
 translate pt_br kalithreesome_0a656c02:
 
     # lu "Relax sis... It feels better when I say it."
     lu ""
 
-# game/scripts/kali_events.rpy:7863
+# game/scripts/kali_events.rpy:7861
 translate pt_br kalithreesome_cb3b1986:
 
     # k "Ahh... Nnn!"
     k ""
 
-# game/scripts/kali_events.rpy:7864
+# game/scripts/kali_events.rpy:7862
 translate pt_br kalithreesome_8fd28aba:
 
     # lu "See, you're enjoying it too!"
     lu ""
 
-# game/scripts/kali_events.rpy:7865
+# game/scripts/kali_events.rpy:7863
 translate pt_br kalithreesome_b435fc73:
 
     # k "Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:7869
+# game/scripts/kali_events.rpy:7867
 translate pt_br kalithreesome_a7a779cd:
 
     # k "Ahhhh... Mmmm! Fuck! Threesomes are amazing..."
     k ""
 
-# game/scripts/kali_events.rpy:7870
+# game/scripts/kali_events.rpy:7868
 translate pt_br kalithreesome_60ce88af:
 
     # lu "Especially with your sister! Right?"
     lu ""
 
-# game/scripts/kali_events.rpy:7871
+# game/scripts/kali_events.rpy:7869
 translate pt_br kalithreesome_09003185:
 
     # k "I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:7872
+# game/scripts/kali_events.rpy:7870
 translate pt_br kalithreesome_ef7bbc06:
 
     # lu "Haha, I knew it! Nnnn..."
     lu ""
 
-# game/scripts/kali_events.rpy:7873
+# game/scripts/kali_events.rpy:7871
 translate pt_br kalithreesome_a9d4db82:
 
     # k "Ahhhnn! Mmmm...! Just dont- Ah! Don't forget he's my boyfriend..."
     k ""
 
-# game/scripts/kali_events.rpy:7874
+# game/scripts/kali_events.rpy:7872
 translate pt_br kalithreesome_322960ac:
 
     # lu "Mmm, fuck, right there..."
     lu ""
 
-# game/scripts/kali_events.rpy:7878
+# game/scripts/kali_events.rpy:7876
 translate pt_br kalithreesome_ae0c0222:
 
     # lu "How do I taste? Heheh..."
     lu ""
 
-# game/scripts/kali_events.rpy:7879
+# game/scripts/kali_events.rpy:7877
 translate pt_br kalithreesome_b179937f:
 
     # lu "Nnnn, Ahhh! Mmmm!"
     lu ""
 
-# game/scripts/kali_events.rpy:7880
+# game/scripts/kali_events.rpy:7878
 translate pt_br kalithreesome_6a3d3539:
 
     # lu "That's it, big bro, just like that! Nnn!"
     lu ""
 
-# game/scripts/kali_events.rpy:7883
+# game/scripts/kali_events.rpy:7881
 translate pt_br kalithreesome_93e110f3:
 
     # k "Ahhh, fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:7884
+# game/scripts/kali_events.rpy:7882
 translate pt_br kalithreesome_ed5cc340:
 
     # lu "Mm! Ahnn! Ohhh! That's so good!"
     lu ""
 
-# game/scripts/kali_events.rpy:7885
+# game/scripts/kali_events.rpy:7883
 translate pt_br kalithreesome_a2246867:
 
     # lu "Ahhh! Hnnn! Hahh!"
     lu ""
 
-# game/scripts/kali_events.rpy:7886
+# game/scripts/kali_events.rpy:7884
 translate pt_br kalithreesome_edb1d496:
 
     # k "Will you relax back there?"
     k ""
 
-# game/scripts/kali_events.rpy:7887
+# game/scripts/kali_events.rpy:7885
 translate pt_br kalithreesome_993a7150:
 
     # lu "N-No! I think... I-"
     lu ""
 
-# game/scripts/kali_events.rpy:7889
+# game/scripts/kali_events.rpy:7887
 translate pt_br kalithreesome_0d163447:
 
     # lu "AH-AHHHHH!!!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:7890
+# game/scripts/kali_events.rpy:7888
 translate pt_br kalithreesome_3f438997:
 
     # lu "F-FUCK! FUUUCK!!!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:7891
+# game/scripts/kali_events.rpy:7889
 translate pt_br kalithreesome_ae7f490e:
 
     # lu "You're making me cum all over your face! NN!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:7893
+# game/scripts/kali_events.rpy:7891
 translate pt_br kalithreesome_bf34034b:
 
     # lu "Oh! Ohhh... Wow... Hahhh, that was amazing!"
     lu ""
 
-# game/scripts/kali_events.rpy:7894
+# game/scripts/kali_events.rpy:7892
 translate pt_br kalithreesome_fc0bd774:
 
     # k "You came from that?"
     k ""
 
-# game/scripts/kali_events.rpy:7895
+# game/scripts/kali_events.rpy:7893
 translate pt_br kalithreesome_fa302a82:
 
     # lu "I did! Haha!"
     lu ""
 
-# game/scripts/kali_events.rpy:7896
+# game/scripts/kali_events.rpy:7894
 translate pt_br kalithreesome_bcd61374:
 
     # lu "Ohhh, it's really sensitive now..."
     lu ""
 
-# game/scripts/kali_events.rpy:7897
+# game/scripts/kali_events.rpy:7895
 translate pt_br kalithreesome_866e756d:
 
     # k "Mmm! Ahhh!"
     k ""
 
-# game/scripts/kali_events.rpy:7901
+# game/scripts/kali_events.rpy:7899
 translate pt_br kalithreesome_4e38a532:
 
     # k "NNNGGGHHH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7902
+# game/scripts/kali_events.rpy:7900
 translate pt_br kalithreesome_5ae3b84f:
 
     # lu "Yes! Knock her up!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:7903
+# game/scripts/kali_events.rpy:7901
 translate pt_br kalithreesome_c1f26493:
 
     # k "AHH! Fuck! Mmmmm!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:7905
+# game/scripts/kali_events.rpy:7903
 translate pt_br kalithreesome_460fcf15:
 
     # lu "Well, I guess we're done then..."
     lu ""
 
-# game/scripts/kali_events.rpy:7907
+# game/scripts/kali_events.rpy:7905
 translate pt_br kalithreesome_f1d3d491:
 
     # lu "That was amazing! I can't wait to do this again!"
     lu ""
 
-# game/scripts/kali_events.rpy:7908
+# game/scripts/kali_events.rpy:7906
 translate pt_br kalithreesome_a939bf99:
 
     # k "Yeah, that was really hot!"
     k ""
 
-# game/scripts/kali_events.rpy:7918
+# game/scripts/kali_events.rpy:7916
 translate pt_br luth_a9da130c:
 
     # lu "Good timing [name]!"
     lu ""
 
-# game/scripts/kali_events.rpy:7919
+# game/scripts/kali_events.rpy:7917
 translate pt_br luth_2e20461b:
 
     # k "Oh no..."
     k ""
 
-# game/scripts/kali_events.rpy:7920
+# game/scripts/kali_events.rpy:7918
 translate pt_br luth_f80627b2:
 
     # c "What's going on?"
     c ""
 
-# game/scripts/kali_events.rpy:7922
+# game/scripts/kali_events.rpy:7920
 translate pt_br luth_9ee3bf75:
 
     # lu "I invited Kali to our threesome."
     lu ""
 
-# game/scripts/kali_events.rpy:7923
+# game/scripts/kali_events.rpy:7921
 translate pt_br luth_d9d90f1b:
 
     # k "I said no."
     k ""
 
-# game/scripts/kali_events.rpy:7924
+# game/scripts/kali_events.rpy:7922
 translate pt_br luth_fa46b1a2:
 
     # c "Our threesome?"
     c ""
 
-# game/scripts/kali_events.rpy:7925
+# game/scripts/kali_events.rpy:7923
 translate pt_br luth_086cc7e0:
 
     # k "I'm not having a threesome with my sister..."
     k ""
 
-# game/scripts/kali_events.rpy:7926
+# game/scripts/kali_events.rpy:7924
 translate pt_br luth_7ecb72c4:
 
     # lu "Yeah, remember? We said we would do one a couple days ago!"
     lu ""
 
-# game/scripts/kali_events.rpy:7927
+# game/scripts/kali_events.rpy:7925
 translate pt_br luth_89e7c67a:
 
     # c "I don't remember agreeing to that."
     c ""
 
-# game/scripts/kali_events.rpy:7928
+# game/scripts/kali_events.rpy:7926
 translate pt_br luth_ce720d1c:
 
     # k "It's not happening..."
     k ""
 
-# game/scripts/kali_events.rpy:7929
+# game/scripts/kali_events.rpy:7927
 translate pt_br luth_7b3f82e2:
 
     # lu "Well you certainly didn't disagree. Which means you agreed. Now stop acting like you don't want this threesome to happen!"
     lu ""
 
-# game/scripts/kali_events.rpy:7930
+# game/scripts/kali_events.rpy:7928
 translate pt_br luth_08c35d3b:
 
     # k "Are you even listening?"
     k ""
 
-# game/scripts/kali_events.rpy:7931
+# game/scripts/kali_events.rpy:7929
 translate pt_br luth_50cfd30f:
 
     # k "Lucy, he doesn't want a threesome with us... We're sisters, that's gross."
     k ""
 
-# game/scripts/kali_events.rpy:7935
+# game/scripts/kali_events.rpy:7933
 translate pt_br luth_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/kali_events.rpy:7936
+# game/scripts/kali_events.rpy:7934
 translate pt_br luth_6d19eb85:
 
     # lu "Great! But how are we going to do this?"
     lu ""
 
-# game/scripts/kali_events.rpy:7937
+# game/scripts/kali_events.rpy:7935
 translate pt_br luth_38ac7240:
 
     # k "Wait!"
     k ""
 
-# game/scripts/kali_events.rpy:7938
+# game/scripts/kali_events.rpy:7936
 translate pt_br luth_a88ab9fc:
 
     # lu "I've never been a part of a threesome, so I don't know exactly how it's supposed to work..."
     lu ""
 
-# game/scripts/kali_events.rpy:7939
+# game/scripts/kali_events.rpy:7937
 translate pt_br luth_af0b6e11:
 
     # k "Hold on!"
     k ""
 
-# game/scripts/kali_events.rpy:7940
+# game/scripts/kali_events.rpy:7938
 translate pt_br luth_71b4fba6:
 
     # lu "But if it's anything like porn, I guess you just switch between us?"
     lu ""
 
-# game/scripts/kali_events.rpy:7942
+# game/scripts/kali_events.rpy:7940
 translate pt_br luth_16b33a97:
 
     # k "I'm not having a threesome with you!"
     k ""
 
-# game/scripts/kali_events.rpy:7943
+# game/scripts/kali_events.rpy:7941
 translate pt_br luth_e498e79d:
 
     # lu "Urgh, will you shut up? We already agreed."
     lu ""
 
-# game/scripts/kali_events.rpy:7944
+# game/scripts/kali_events.rpy:7942
 translate pt_br luth_a4dbf89e:
 
     # k "No we didn't!"
     k ""
 
-# game/scripts/kali_events.rpy:7945
+# game/scripts/kali_events.rpy:7943
 translate pt_br luth_5789024a:
 
     # lu "Yes we did, you just don't want to admit you'd love to have a threesome..."
     lu ""
 
-# game/scripts/kali_events.rpy:7946
+# game/scripts/kali_events.rpy:7944
 translate pt_br luth_2cee8acc:
 
     # k "That's not true!"
     k ""
 
-# game/scripts/kali_events.rpy:7947
+# game/scripts/kali_events.rpy:7945
 translate pt_br luth_a4d0bf6d:
 
     # lu "{i}That's not true...{/i}"
     lu ""
 
-# game/scripts/kali_events.rpy:7948
+# game/scripts/kali_events.rpy:7946
 translate pt_br luth_6f99d6f2:
 
     # k "Are you seriously mocking me!?"
     k ""
 
-# game/scripts/kali_events.rpy:7950
+# game/scripts/kali_events.rpy:7948
 translate pt_br luth_3fbba532:
 
     # lu "Kali, your boyfriend said he wanted a threesome, so you're obligated, right?"
     lu ""
 
-# game/scripts/kali_events.rpy:7951
+# game/scripts/kali_events.rpy:7949
 translate pt_br luth_26046370:
 
     # k "Not at all!"
     k ""
 
-# game/scripts/kali_events.rpy:7952
+# game/scripts/kali_events.rpy:7950
 translate pt_br luth_8867e393:
 
     # lu "Not according to the porn I watch..."
     lu ""
 
-# game/scripts/kali_events.rpy:7953
+# game/scripts/kali_events.rpy:7951
 translate pt_br luth_beb1f21c:
 
     # k "Wha... What!? What does that even mean!?"
     k ""
 
-# game/scripts/kali_events.rpy:7954
+# game/scripts/kali_events.rpy:7952
 translate pt_br luth_785b4a13:
 
     # k "Lucy, you watch way too much porn!"
     k ""
 
-# game/scripts/kali_events.rpy:7955
+# game/scripts/kali_events.rpy:7953
 translate pt_br luth_6ee8b32b:
 
     # lu "Well I think you don't watch enough."
     lu ""
 
-# game/scripts/kali_events.rpy:7957
+# game/scripts/kali_events.rpy:7955
 translate pt_br luth_6957cf21:
 
     # k "Fine, you want a threesome? Works for me..."
     k ""
 
-# game/scripts/kali_events.rpy:7958
+# game/scripts/kali_events.rpy:7956
 translate pt_br luth_4b06701f:
 
     # k "But I get his cock, and you're going to be the bitch..."
     k ""
 
-# game/scripts/kali_events.rpy:7960
+# game/scripts/kali_events.rpy:7958
 translate pt_br luth_4d764693:
 
     # lu "Great! Now that we've got that sorted out..."
     lu ""
 
-# game/scripts/kali_events.rpy:7961
+# game/scripts/kali_events.rpy:7959
 translate pt_br luth_6daa0f7f:
 
     # k "Huh?"
     k ""
 
-# game/scripts/kali_events.rpy:7962
+# game/scripts/kali_events.rpy:7960
 translate pt_br luth_717e671e:
 
     # lu "I guess I get your face then, [name]?"
     lu ""
 
-# game/scripts/kali_events.rpy:7963
+# game/scripts/kali_events.rpy:7961
 translate pt_br luth_5aa88b28:
 
     # k "Huh!?"
     k ""
 
-# game/scripts/kali_events.rpy:7965
+# game/scripts/kali_events.rpy:7963
 translate pt_br luth_8089eba9:
 
     # lu "Woulda been great if we could swap though..."
     lu ""
 
-# game/scripts/kali_events.rpy:7967
+# game/scripts/kali_events.rpy:7965
 translate pt_br luth_d4b13d1d:
 
     # lu "But a threesome's a threesome!"
     lu ""
 
-# game/scripts/kali_events.rpy:7968
+# game/scripts/kali_events.rpy:7966
 translate pt_br luth_c72aaae5:
 
     # k "HUH!?"
     k ""
 
-# game/scripts/kali_events.rpy:7970
+# game/scripts/kali_events.rpy:7968
 translate pt_br luth_cd43738a:
 
     # k "Wait! I was joking! I wasn't serious!"
     k ""
 
-# game/scripts/kali_events.rpy:7971
+# game/scripts/kali_events.rpy:7969
 translate pt_br luth_c84f5524:
 
     # lu "Too late! Get undressed!"
     lu ""
 
-# game/scripts/kali_events.rpy:7972
+# game/scripts/kali_events.rpy:7970
 translate pt_br luth_13943a75:
 
     # c "Come on Kali, you'd enjoy it."
     c ""
 
-# game/scripts/kali_events.rpy:7974
+# game/scripts/kali_events.rpy:7972
 translate pt_br luth_0fef0b11:
 
     # k "Urghhh... Fine! If you really want to [name]..."
     k ""
 
-# game/scripts/kali_events.rpy:7975
+# game/scripts/kali_events.rpy:7973
 translate pt_br luth_df9d99f7:
 
     # lu "Yay! Let's go!"
     lu ""
 
-# game/scripts/kali_events.rpy:7978
+# game/scripts/kali_events.rpy:7976
 translate pt_br luth_6d562632:
 
     # lu "Mmmm! That's pretty good actually! First time I had my pussy licked!"
     lu ""
 
-# game/scripts/kali_events.rpy:7979
+# game/scripts/kali_events.rpy:7977
 translate pt_br luth_d82fef36:
 
     # k "This is so wrong..."
     k ""
 
-# game/scripts/kali_events.rpy:7980
+# game/scripts/kali_events.rpy:7978
 translate pt_br luth_3264c8d5:
 
     # lu "Relax sis, it's perfectly natural!"
     lu ""
 
-# game/scripts/kali_events.rpy:7981
+# game/scripts/kali_events.rpy:7979
 translate pt_br luth_23b971ca:
 
     # k "It definitely is not... Nnn..."
     k ""
 
-# game/scripts/kali_events.rpy:7982
+# game/scripts/kali_events.rpy:7980
 translate pt_br luth_e5fb956c:
 
     # lu "Well, if it's so wrong, why does it feel so good?"
     lu ""
 
-# game/scripts/kali_events.rpy:7983
+# game/scripts/kali_events.rpy:7981
 translate pt_br luth_b435fc73:
 
     # k "Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:7987
+# game/scripts/kali_events.rpy:7985
 translate pt_br luth_2bdd3727:
 
     # k "Ahhhh... Mmmm! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:7988
+# game/scripts/kali_events.rpy:7986
 translate pt_br luth_fce9b309:
 
     # lu "Admit it, girl! You love this!"
     lu ""
 
-# game/scripts/kali_events.rpy:7989
+# game/scripts/kali_events.rpy:7987
 translate pt_br luth_7fc385d9:
 
     # k "It's sex... What's not to love about sex?"
     k ""
 
-# game/scripts/kali_events.rpy:7990
+# game/scripts/kali_events.rpy:7988
 translate pt_br luth_3bb7aa5a:
 
     # lu "It's a threesome! More people, more fun!"
     lu ""
 
-# game/scripts/kali_events.rpy:7991
+# game/scripts/kali_events.rpy:7989
 translate pt_br luth_606c0d7c:
 
     # k "Ahhhnn! Mmm! Shut up, brat! Stop enjoying this, you're supposed to be the bitch..."
     k ""
 
-# game/scripts/kali_events.rpy:7992
+# game/scripts/kali_events.rpy:7990
 translate pt_br luth_1b60f5f4:
 
     # k "Fuck! That feels good!"
     k ""
 
-# game/scripts/kali_events.rpy:7996
+# game/scripts/kali_events.rpy:7994
 translate pt_br luth_d3a09815:
 
     # lu "Still breathing down there...?"
     lu ""
 
-# game/scripts/kali_events.rpy:7997
+# game/scripts/kali_events.rpy:7995
 translate pt_br luth_e118beb2:
 
     # k "You better not kill him!"
     k ""
 
-# game/scripts/kali_events.rpy:7998
+# game/scripts/kali_events.rpy:7996
 translate pt_br luth_8b7ace42:
 
     # lu "Relax, it's a joke! He's enjoying eating my pussy out."
     lu ""
 
-# game/scripts/kali_events.rpy:8001
+# game/scripts/kali_events.rpy:7999
 translate pt_br luth_113d11b0:
 
     # lu "Mmmm! That's it babe, you're really good at this..."
     lu ""
 
-# game/scripts/kali_events.rpy:8002
+# game/scripts/kali_events.rpy:8000
 translate pt_br luth_93e110f3:
 
     # k "Ahhh, fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:8003
+# game/scripts/kali_events.rpy:8001
 translate pt_br luth_ed5cc340:
 
     # lu "Mm! Ahnn! Ohhh! That's so good!"
     lu ""
 
-# game/scripts/kali_events.rpy:8004
+# game/scripts/kali_events.rpy:8002
 translate pt_br luth_a2246867:
 
     # lu "Ahhh! Hnnn! Hahh!"
     lu ""
 
-# game/scripts/kali_events.rpy:8005
+# game/scripts/kali_events.rpy:8003
 translate pt_br luth_edb1d496:
 
     # k "Will you relax back there?"
     k ""
 
-# game/scripts/kali_events.rpy:8007
+# game/scripts/kali_events.rpy:8005
 translate pt_br luth_993a7150:
 
     # lu "N-No! I think... I-"
     lu ""
 
-# game/scripts/kali_events.rpy:8009
+# game/scripts/kali_events.rpy:8007
 translate pt_br luth_0d163447:
 
     # lu "AH-AHHHHH!!!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8010
+# game/scripts/kali_events.rpy:8008
 translate pt_br luth_3f438997:
 
     # lu "F-FUCK! FUUUCK!!!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8011
+# game/scripts/kali_events.rpy:8009
 translate pt_br luth_ae7f490e:
 
     # lu "You're making me cum all over your face! NN!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8013
+# game/scripts/kali_events.rpy:8011
 translate pt_br luth_bf34034b:
 
     # lu "Oh! Ohhh... Wow... Hahhh, that was amazing!"
     lu ""
 
-# game/scripts/kali_events.rpy:8014
+# game/scripts/kali_events.rpy:8012
 translate pt_br luth_fc0bd774:
 
     # k "You came from that?"
     k ""
 
-# game/scripts/kali_events.rpy:8015
+# game/scripts/kali_events.rpy:8013
 translate pt_br luth_fa302a82:
 
     # lu "I did! Haha!"
     lu ""
 
-# game/scripts/kali_events.rpy:8016
+# game/scripts/kali_events.rpy:8014
 translate pt_br luth_bcd61374:
 
     # lu "Ohhh, it's really sensitive now..."
     lu ""
 
-# game/scripts/kali_events.rpy:8017
+# game/scripts/kali_events.rpy:8015
 translate pt_br luth_866e756d:
 
     # k "Mmm! Ahhh!"
     k ""
 
-# game/scripts/kali_events.rpy:8021
+# game/scripts/kali_events.rpy:8019
 translate pt_br luth_4e38a532:
 
     # k "NNNGGGHHH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8022
+# game/scripts/kali_events.rpy:8020
 translate pt_br luth_af06b439:
 
     # lu "You're cumming too? Yay!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8023
+# game/scripts/kali_events.rpy:8021
 translate pt_br luth_026906f9:
 
     # k "AHH! N-No! [name] is cumming inside!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8025
+# game/scripts/kali_events.rpy:8023
 translate pt_br luth_22f97c24:
 
     # lu "Haha! What a quick shot!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8026
+# game/scripts/kali_events.rpy:8024
 translate pt_br luth_936fc0dc:
 
     # k "Hahhhh... Shut up, I don't blame him..."
     k ""
 
-# game/scripts/kali_events.rpy:8027
+# game/scripts/kali_events.rpy:8025
 translate pt_br luth_4432aa1d:
 
     # lu "Damn, he came a lot! What are you gonna name your child Kali?"
     lu ""
 
-# game/scripts/kali_events.rpy:8028
+# game/scripts/kali_events.rpy:8026
 translate pt_br luth_357af3a4:
 
     # k "Urgh..."
     k ""
 
-# game/scripts/kali_events.rpy:8030
+# game/scripts/kali_events.rpy:8028
 translate pt_br luth_460fcf15:
 
     # lu "Well, I guess we're done then..."
     lu ""
 
-# game/scripts/kali_events.rpy:8032
+# game/scripts/kali_events.rpy:8030
 translate pt_br luth_c28ab43a:
 
     # lu "That was pretty fun, right?"
     lu ""
 
-# game/scripts/kali_events.rpy:8033
+# game/scripts/kali_events.rpy:8031
 translate pt_br luth_29b1156a:
 
     # c "I enjoyed it."
     c ""
 
-# game/scripts/kali_events.rpy:8034
+# game/scripts/kali_events.rpy:8032
 translate pt_br luth_a8d6e171:
 
     # k "Yeah, I could do that again."
     k ""
 
-# game/scripts/kali_events.rpy:8036
+# game/scripts/kali_events.rpy:8034
 translate pt_br luth_bf77bf01:
 
     # lu "Are you really covering your breasts? After what we just went through?"
     lu ""
 
-# game/scripts/kali_events.rpy:8037
+# game/scripts/kali_events.rpy:8035
 translate pt_br luth_92626d02:
 
     # k "Shut up, brat. You're not supposed to see my breasts..."
     k ""
 
-# game/scripts/kali_events.rpy:8038
+# game/scripts/kali_events.rpy:8036
 translate pt_br luth_15208b18:
 
     # "You can now request a threesome from Lucia!"
     ""
 
-# game/scripts/kali_events.rpy:8050
+# game/scripts/kali_events.rpy:8048
 translate pt_br luth_a7b64d36:
 
     # lu "Huh...?"
     lu ""
 
-# game/scripts/kali_events.rpy:8051
+# game/scripts/kali_events.rpy:8049
 translate pt_br luth_795bb5ab:
 
     # k "I told you..."
     k ""
 
-# game/scripts/kali_events.rpy:8052
+# game/scripts/kali_events.rpy:8050
 translate pt_br luth_576701e8:
 
     # lu "Um... Well I didn't expect that..."
     lu ""
 
-# game/scripts/kali_events.rpy:8053
+# game/scripts/kali_events.rpy:8051
 translate pt_br luth_13f58938:
 
     # k "Can you stop bothering [name] now?"
     k ""
 
-# game/scripts/kali_events.rpy:8054
+# game/scripts/kali_events.rpy:8052
 translate pt_br luth_5bc8e3c2:
 
     # lu "You're sure?"
     lu ""
 
-# game/scripts/kali_events.rpy:8055
+# game/scripts/kali_events.rpy:8053
 translate pt_br luth_c0334108:
 
     # c "Yep."
     c ""
 
-# game/scripts/kali_events.rpy:8056
+# game/scripts/kali_events.rpy:8054
 translate pt_br luth_ff268989:
 
     # lu "Are you high?"
     lu ""
 
-# game/scripts/kali_events.rpy:8057
+# game/scripts/kali_events.rpy:8055
 translate pt_br luth_9a60c2bb:
 
     # c "Nope."
     c ""
 
-# game/scripts/kali_events.rpy:8058
+# game/scripts/kali_events.rpy:8056
 translate pt_br luth_be815b51:
 
     # lu "Are you sure?"
     lu ""
 
-# game/scripts/kali_events.rpy:8059
+# game/scripts/kali_events.rpy:8057
 translate pt_br luth_5e62f4e0:
 
     # k "Lucy..."
     k ""
 
-# game/scripts/kali_events.rpy:8060
+# game/scripts/kali_events.rpy:8058
 translate pt_br luth_41f162a0:
 
     # lu "Okay... Sorry then..."
     lu ""
 
-# game/scripts/kali_events.rpy:8069
+# game/scripts/kali_events.rpy:8067
 translate pt_br lucall_b057e3d7:
 
     # lu "So... You're having sex with people other than my sister?"
     lu ""
 
-# game/scripts/kali_events.rpy:8070
+# game/scripts/kali_events.rpy:8068
 translate pt_br lucall_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:8073
+# game/scripts/kali_events.rpy:8071
 translate pt_br lucall_82f50ed6:
 
     # lu "Don't try to lie to me, I found out, and it was pretty easy... In fact, it was so easy I didn't even have to try. Everyone basically bragged about it."
     lu ""
 
-# game/scripts/kali_events.rpy:8074
+# game/scripts/kali_events.rpy:8072
 translate pt_br lucall_4dd14489:
 
     # lu "Not only that, but Kali is aware! Who knew you were such a slut..."
     lu ""
 
-# game/scripts/kali_events.rpy:8077
+# game/scripts/kali_events.rpy:8075
 translate pt_br lucall_241dd80f:
 
     # lu "And yet... Kali still doesn't want me to fuck you... Why is that...?"
     lu ""
 
-# game/scripts/kali_events.rpy:8080
+# game/scripts/kali_events.rpy:8078
 translate pt_br lucall_6e806046:
 
     # lu "It just crushes my heart..."
     lu ""
 
-# game/scripts/kali_events.rpy:8081
+# game/scripts/kali_events.rpy:8079
 translate pt_br lucall_beefbcbc:
 
     # lu "Anyway, I don't think I've ever seen Kali come around here. Wanna fuck?"
     lu ""
 
-# game/scripts/kali_events.rpy:8084
+# game/scripts/kali_events.rpy:8082
 translate pt_br lucall_bebb96e9:
 
     # lu "I thought so..."
     lu ""
 
-# game/scripts/kali_events.rpy:8088
+# game/scripts/kali_events.rpy:8086
 translate pt_br lucall_330abc5d:
 
     # lu "Sss... Mmm, that feels really good! Ahh!"
     lu ""
 
-# game/scripts/kali_events.rpy:8089
+# game/scripts/kali_events.rpy:8087
 translate pt_br lucall_27b304c8:
 
     # lu "I can't believe my sister would try to keep this cock away from me... Nn!"
     lu ""
 
-# game/scripts/kali_events.rpy:8090
+# game/scripts/kali_events.rpy:8088
 translate pt_br lucall_2cc813a3:
 
     # lu "She's such a selfish bitch! Ahh!"
     lu ""
 
-# game/scripts/kali_events.rpy:8093
+# game/scripts/kali_events.rpy:8091
 translate pt_br lucall_515d4b6d:
 
     # lu "I wish we could get along... A threesome would be so fun, wouldn't it?"
     lu ""
 
-# game/scripts/kali_events.rpy:8094
+# game/scripts/kali_events.rpy:8092
 translate pt_br lucall_576b0026:
 
     # c "A threesome?"
     c ""
 
-# game/scripts/kali_events.rpy:8095
+# game/scripts/kali_events.rpy:8093
 translate pt_br lucall_82d4889a:
 
     # lu "Mm! Yeah! Don't act like you don't want to fuck two sisters at once... Mmm!"
     lu ""
 
-# game/scripts/kali_events.rpy:8096
+# game/scripts/kali_events.rpy:8094
 translate pt_br lucall_cad9f2bb:
 
     # c "I don't know what Kali would think about that..."
     c ""
 
-# game/scripts/kali_events.rpy:8097
+# game/scripts/kali_events.rpy:8095
 translate pt_br lucall_268eca67:
 
     # lu "Ahn! Nn! Well, we can dream can't we? Just makes me so much wetter! Ahhn!"
     lu ""
 
-# game/scripts/kali_events.rpy:8100
+# game/scripts/kali_events.rpy:8098
 translate pt_br lucall_237aa40b:
 
     # lu "Kali! Could you join me in the hot springs for a sec?"
     lu ""
 
-# game/scripts/kali_events.rpy:8101
+# game/scripts/kali_events.rpy:8099
 translate pt_br lucall_506c11b1:
 
     # c "What are you doing?"
     c ""
 
-# game/scripts/kali_events.rpy:8102
+# game/scripts/kali_events.rpy:8100
 translate pt_br lucall_fd9274b7:
 
     # lu "Nn! Don't worry about it... Just don't stop!"
     lu ""
 
-# game/scripts/kali_events.rpy:8104
+# game/scripts/kali_events.rpy:8102
 translate pt_br lucall_f42799a9:
 
     # k "What do you- Oh my god!"
     k ""
 
-# game/scripts/kali_events.rpy:8105
+# game/scripts/kali_events.rpy:8103
 translate pt_br lucall_cd548336:
 
     # lu "Ahn! Hey Kali..."
     lu ""
 
-# game/scripts/kali_events.rpy:8107
+# game/scripts/kali_events.rpy:8105
 translate pt_br lucall_9beb55d3:
 
     # k "What are you doing Lucy!?"
     k ""
 
-# game/scripts/kali_events.rpy:8108
+# game/scripts/kali_events.rpy:8106
 translate pt_br lucall_c602b379:
 
     # lu "Ahh, what does it look like? Your boyfriend is fucking me!"
     lu ""
 
-# game/scripts/kali_events.rpy:8109
+# game/scripts/kali_events.rpy:8107
 translate pt_br lucall_d26e673e:
 
     # lu "Why are you mad at me, anyway? He's doing the fucking..."
     lu ""
 
-# game/scripts/kali_events.rpy:8110
+# game/scripts/kali_events.rpy:8108
 translate pt_br lucall_350b576c:
 
     # k "Because it's your fault!"
     k ""
 
-# game/scripts/kali_events.rpy:8111
+# game/scripts/kali_events.rpy:8109
 translate pt_br lucall_66e92180:
 
     # lu "Aww, you're just mad [name] likes my pussy better because it's tighter..."
     lu ""
 
-# game/scripts/kali_events.rpy:8112
+# game/scripts/kali_events.rpy:8110
 translate pt_br lucall_91f9c865:
 
     # k "Shut up brat!"
     k ""
 
-# game/scripts/kali_events.rpy:8113
+# game/scripts/kali_events.rpy:8111
 translate pt_br lucall_79eb3b02:
 
     # lu "Aw, are you mad?"
     lu ""
 
-# game/scripts/kali_events.rpy:8114
+# game/scripts/kali_events.rpy:8112
 translate pt_br lucall_3dcb365a:
 
     # k "You know what? No. I'm not. [name] already told me he likes me more than you anyway, so you're nothing but a doll to him."
     k ""
 
-# game/scripts/kali_events.rpy:8115
+# game/scripts/kali_events.rpy:8113
 translate pt_br lucall_cbe7e143:
 
     # k "If you think you're using him, you're wrong. He's the one using you."
     k ""
 
-# game/scripts/kali_events.rpy:8116
+# game/scripts/kali_events.rpy:8114
 translate pt_br lucall_9cec51b8:
 
     # k "And I mean look at you! You're a dead fish! I bet [name] wishes that was me! You don't even know the first thing about sex."
     k ""
 
-# game/scripts/kali_events.rpy:8117
+# game/scripts/kali_events.rpy:8115
 translate pt_br lucall_af64622a:
 
     # lu "Sounds like you're mad..."
     lu ""
 
-# game/scripts/kali_events.rpy:8120
+# game/scripts/kali_events.rpy:8118
 translate pt_br lucall_eadaef91:
 
     # k "Hah, if anything, I'm pretty happy right now..."
     k ""
 
-# game/scripts/kali_events.rpy:8121
+# game/scripts/kali_events.rpy:8119
 translate pt_br lucall_1f40b31f:
 
     # lu "Is that so? Why is that?"
     lu ""
 
-# game/scripts/kali_events.rpy:8122
+# game/scripts/kali_events.rpy:8120
 translate pt_br lucall_6443bd12:
 
     # k "Because now, I get to do this..."
     k ""
 
-# game/scripts/kali_events.rpy:8123
+# game/scripts/kali_events.rpy:8121
 translate pt_br lucall_5b94b4bb:
 
     # k "[name], fuck her hard. Treat her like the annoying slut she is."
     k ""
 
-# game/scripts/kali_events.rpy:8124
+# game/scripts/kali_events.rpy:8122
 translate pt_br lucall_c6eba807:
 
     # lu "Um... I don't think that little trick is going to work... You see, I get to fuck him whenever I-"
     lu ""
 
-# game/scripts/kali_events.rpy:8126
+# game/scripts/kali_events.rpy:8124
 translate pt_br lucall_cdb34175:
 
     # lu "AHH!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8127
+# game/scripts/kali_events.rpy:8125
 translate pt_br lucall_a788121f:
 
     # lu "Fuck! Wait! What are you doing!?"
     lu ""
 
-# game/scripts/kali_events.rpy:8128
+# game/scripts/kali_events.rpy:8126
 translate pt_br lucall_fd715385:
 
     # k "I told you, you're only a sex doll to him. He can be however rough he wants..."
     k ""
 
-# game/scripts/kali_events.rpy:8129
+# game/scripts/kali_events.rpy:8127
 translate pt_br lucall_a4fddc7a:
 
     # lu "But- Wait! It's too rough! Ahhh! Fuck!"
     lu ""
 
-# game/scripts/kali_events.rpy:8130
+# game/scripts/kali_events.rpy:8128
 translate pt_br lucall_ae82c44e:
 
     # lu "Ahh! Nnnuh! Nnnnrghh!!! Shit!"
     lu ""
 
-# game/scripts/kali_events.rpy:8131
+# game/scripts/kali_events.rpy:8129
 translate pt_br lucall_56437318:
 
     # k "Keep going [name]! Treat her like a used whore!"
     k ""
 
-# game/scripts/kali_events.rpy:8132
+# game/scripts/kali_events.rpy:8130
 translate pt_br lucall_12095307:
 
     # lu "F-Fuck!!!"
     lu ""
 
-# game/scripts/kali_events.rpy:8135
+# game/scripts/kali_events.rpy:8133
 translate pt_br lucall_9209647a:
 
     # k "What's the matter? Is he being too rough with you...?"
     k ""
 
-# game/scripts/kali_events.rpy:8136
+# game/scripts/kali_events.rpy:8134
 translate pt_br lucall_3c913bb2:
 
     # lu "Ahh! Yes! Slow down [name]! Your cock is pounding my womb!"
     lu ""
 
-# game/scripts/kali_events.rpy:8137
+# game/scripts/kali_events.rpy:8135
 translate pt_br lucall_a6b7e308:
 
     # k "Don't you dare, [name]!"
     k ""
 
-# game/scripts/kali_events.rpy:8138
+# game/scripts/kali_events.rpy:8136
 translate pt_br lucall_369ebf9d:
 
     # lu "I'm sorry! I'm sorry! AHH!"
     lu ""
 
-# game/scripts/kali_events.rpy:8139
+# game/scripts/kali_events.rpy:8137
 translate pt_br lucall_c7d03b2e:
 
     # k "It's a little too late for sorrys now..."
     k ""
 
-# game/scripts/kali_events.rpy:8140
+# game/scripts/kali_events.rpy:8138
 translate pt_br lucall_e2f7524c:
 
     # lu "NNNGH! He's going too deep! Oh my god! FUCK! AHH!"
     lu ""
 
-# game/scripts/kali_events.rpy:8141
+# game/scripts/kali_events.rpy:8139
 translate pt_br lucall_17783030:
 
     # k "Now he's going to breed you like the whore you are!"
     k ""
 
-# game/scripts/kali_events.rpy:8142
+# game/scripts/kali_events.rpy:8140
 translate pt_br lucall_ead56821:
 
     # lu "Wait, what!? No! Don't cum in-"
     lu ""
 
-# game/scripts/kali_events.rpy:8144
+# game/scripts/kali_events.rpy:8142
 translate pt_br lucall_c0ab7346:
 
     # lu "NNNGHK!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8145
+# game/scripts/kali_events.rpy:8143
 translate pt_br lucall_1cc40479:
 
     # lu "NnnnAAHHH!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8146
+# game/scripts/kali_events.rpy:8144
 translate pt_br lucall_c3f8d2d1:
 
     # lu "FUCK! He's filling me up!!!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:8148
+# game/scripts/kali_events.rpy:8146
 translate pt_br lucall_ba09ef70:
 
     # k "Come on [name], let's go..."
     k ""
 
-# game/scripts/kali_events.rpy:8149
+# game/scripts/kali_events.rpy:8147
 translate pt_br lucall_ae3002e3:
 
     # lu "Ahhhhh... Hahhh... Nnn..."
     lu ""
 
-# game/scripts/kali_events.rpy:8151
+# game/scripts/kali_events.rpy:8149
 translate pt_br lucall_6ec8d623:
 
     # lu "But I didn't even get to cum..."
     lu ""
 
-# game/scripts/kali_events.rpy:8160
+# game/scripts/kali_events.rpy:8158
 translate pt_br lucall_71f8d1df:
 
     # lu "Well that's boring..."
     lu ""
 
-# game/scripts/kali_events.rpy:8170
+# game/scripts/kali_events.rpy:8168
 translate pt_br kalifight_d8e4c606:
 
     # k "URGH!"
     k ""
 
-# game/scripts/kali_events.rpy:8172
+# game/scripts/kali_events.rpy:8170
 translate pt_br kalifight_5d858562:
 
     # k "What the FUCK is this shit!?"
     k ""
 
-# game/scripts/kali_events.rpy:8173
+# game/scripts/kali_events.rpy:8171
 translate pt_br kalifight_ee22314a:
 
     # k "God DAMN IT!"
     k ""
 
-# game/scripts/kali_events.rpy:8175
+# game/scripts/kali_events.rpy:8173
 translate pt_br kalifight_d208e488:
 
     # k "[name]!"
     k ""
 
-# game/scripts/kali_events.rpy:8176
+# game/scripts/kali_events.rpy:8174
 translate pt_br kalifight_79226b6e:
 
     # c "What's the issue?"
     c ""
 
-# game/scripts/kali_events.rpy:8177
+# game/scripts/kali_events.rpy:8175
 translate pt_br kalifight_874bd2ee:
 
     # k "Are you having sex with my sister behind my back!?"
     k ""
 
-# game/scripts/kali_events.rpy:8178
+# game/scripts/kali_events.rpy:8176
 translate pt_br kalifight_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:8179
+# game/scripts/kali_events.rpy:8177
 translate pt_br kalifight_a7f90a02:
 
     # k "Don't lie to me!"
     k ""
 
-# game/scripts/kali_events.rpy:8180
+# game/scripts/kali_events.rpy:8178
 translate pt_br kalifight_3070bc42:
 
     # c "What are you talking about?"
     c ""
 
-# game/scripts/kali_events.rpy:8181
+# game/scripts/kali_events.rpy:8179
 translate pt_br kalifight_a6a3d96a:
 
     # k "There's some really slutty outfits in my closet that aren't mine! They're new, too!"
     k ""
 
-# game/scripts/kali_events.rpy:8182
+# game/scripts/kali_events.rpy:8180
 translate pt_br kalifight_ebe96166:
 
     # c "Okay?"
     c ""
 
-# game/scripts/kali_events.rpy:8183
+# game/scripts/kali_events.rpy:8181
 translate pt_br kalifight_94ec4b69:
 
     # k "SO YOU KNEW!?"
     k ""
 
-# game/scripts/kali_events.rpy:8184
+# game/scripts/kali_events.rpy:8182
 translate pt_br kalifight_1e3b2765:
 
     # c "What."
     c ""
 
-# game/scripts/kali_events.rpy:8186
+# game/scripts/kali_events.rpy:8184
 translate pt_br kalifight_8eaa775e:
 
     # k "Well you're not surprised!"
     k ""
 
-# game/scripts/kali_events.rpy:8187
+# game/scripts/kali_events.rpy:8185
 translate pt_br kalifight_c75b86d8:
 
     # k "I see Lucy flirting with you all the time! Ever since she met you she's been trying to suck your cock!"
     k ""
 
-# game/scripts/kali_events.rpy:8188
+# game/scripts/kali_events.rpy:8186
 translate pt_br kalifight_a9c19baa:
 
     # k "At the beach, too! She made you massage her breasts!"
     k ""
 
-# game/scripts/kali_events.rpy:8189
+# game/scripts/kali_events.rpy:8187
 translate pt_br kalifight_94ac479c:
 
     # k "I bet the only reason you two didn't fuck is because I was there!"
     k ""
 
-# game/scripts/kali_events.rpy:8190
+# game/scripts/kali_events.rpy:8188
 translate pt_br kalifight_debe4059:
 
     # k "She's just trying to steal you away from me! And you're okay with that!?"
     k ""
 
-# game/scripts/kali_events.rpy:8191
+# game/scripts/kali_events.rpy:8189
 translate pt_br kalifight_75a66500:
 
     # k "Do you not even care about me!? What's wrong with-"
     k ""
 
-# game/scripts/kali_events.rpy:8193
+# game/scripts/kali_events.rpy:8191
 translate pt_br kalifight_b8ed863f:
 
     # k "AHH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8195
+# game/scripts/kali_events.rpy:8193
 translate pt_br kalifight_68f3e165:
 
     # lu "Have fun!" with sshake
     lu "" with sshake
 
-# game/scripts/kali_events.rpy:8196
+# game/scripts/kali_events.rpy:8194
 translate pt_br kalifight_233f0c1d:
 
     # k "LUCY!?"
     k ""
 
-# game/scripts/kali_events.rpy:8197
+# game/scripts/kali_events.rpy:8195
 translate pt_br kalifight_d6cf8b19:
 
     # lu "You guys aren't coming out of there until you make up, okay? Okay! Bye! Be back in an hour!"
     lu ""
 
-# game/scripts/kali_events.rpy:8198
+# game/scripts/kali_events.rpy:8196
 translate pt_br kalifight_b8ad33c1:
 
     # k "AN HOUR!?"
     k ""
 
-# game/scripts/kali_events.rpy:8200
+# game/scripts/kali_events.rpy:8198
 translate pt_br kalifight_592b9ec5:
 
     # k "What the fuck is going on!?"
     k ""
 
-# game/scripts/kali_events.rpy:8201
+# game/scripts/kali_events.rpy:8199
 translate pt_br kalifight_a9f34c76:
 
     # c "I don't know."
     c ""
 
-# game/scripts/kali_events.rpy:8203
+# game/scripts/kali_events.rpy:8201
 translate pt_br kalifight_f7e10484:
 
     # k "LUCY! LET ME OUT!"
     k ""
 
-# game/scripts/kali_events.rpy:8204
+# game/scripts/kali_events.rpy:8202
 translate pt_br kalifight_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8205
+# game/scripts/kali_events.rpy:8203
 translate pt_br kalifight_d464b281:
 
     # k "LUCY!"
     k ""
 
-# game/scripts/kali_events.rpy:8206
+# game/scripts/kali_events.rpy:8204
 translate pt_br kalifight_7c57e622:
 
     # c "She's not here anymore."
     c ""
 
-# game/scripts/kali_events.rpy:8208
+# game/scripts/kali_events.rpy:8206
 translate pt_br kalifight_bf6f0617:
 
     # k "Rgghh..."
     k ""
 
-# game/scripts/kali_events.rpy:8209
+# game/scripts/kali_events.rpy:8207
 translate pt_br kalifight_297d93f3_1:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:8211
+# game/scripts/kali_events.rpy:8209
 translate pt_br kalifight_cb1041d0:
 
     # k "I'm still mad at you..."
     k ""
 
-# game/scripts/kali_events.rpy:8213
+# game/scripts/kali_events.rpy:8211
 translate pt_br kalifight_4e5a4202:
 
     # c "Why?"
     c ""
 
-# game/scripts/kali_events.rpy:8214
+# game/scripts/kali_events.rpy:8212
 translate pt_br kalifight_2c0d8ebd:
 
     # k "...Whatever."
     k ""
 
-# game/scripts/kali_events.rpy:8215
+# game/scripts/kali_events.rpy:8213
 translate pt_br kalifight_6153247d:
 
     # c "I thought we were passed 'whatevers'."
     c ""
 
-# game/scripts/kali_events.rpy:8216
+# game/scripts/kali_events.rpy:8214
 translate pt_br kalifight_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8217
+# game/scripts/kali_events.rpy:8215
 translate pt_br kalifight_a734854e:
 
     # k "I just don't like that Lucy is always flirting with you..."
     k ""
 
-# game/scripts/kali_events.rpy:8218
+# game/scripts/kali_events.rpy:8216
 translate pt_br kalifight_8667d3a1:
 
     # c "Why? You already know about the other girls here."
     c ""
 
-# game/scripts/kali_events.rpy:8220
+# game/scripts/kali_events.rpy:8218
 translate pt_br kalifight_a7a5b11e:
 
     # k "That's completely different!"
     k ""
 
-# game/scripts/kali_events.rpy:8221
+# game/scripts/kali_events.rpy:8219
 translate pt_br kalifight_67287a2b:
 
     # c "How?"
     c ""
 
-# game/scripts/kali_events.rpy:8223
+# game/scripts/kali_events.rpy:8221
 translate pt_br kalifight_8cbde748:
 
     # k "Because... I don't know..."
     k ""
 
-# game/scripts/kali_events.rpy:8224
+# game/scripts/kali_events.rpy:8222
 translate pt_br kalifight_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8225
+# game/scripts/kali_events.rpy:8223
 translate pt_br kalifight_790a0617:
 
     # k "Well, are you fucking her?"
     k ""
 
-# game/scripts/kali_events.rpy:8226
+# game/scripts/kali_events.rpy:8224
 translate pt_br kalifight_a5a81561:
 
     # c "I don't think that's the problem here."
     c ""
 
-# game/scripts/kali_events.rpy:8227
+# game/scripts/kali_events.rpy:8225
 translate pt_br kalifight_82091822_3:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8228
+# game/scripts/kali_events.rpy:8226
 translate pt_br kalifight_925e3dbd:
 
     # c "Are you jealous of her?"
     c ""
 
-# game/scripts/kali_events.rpy:8230
+# game/scripts/kali_events.rpy:8228
 translate pt_br kalifight_9865135f:
 
     # k "What!? No! Of course not!"
     k ""
 
-# game/scripts/kali_events.rpy:8231
+# game/scripts/kali_events.rpy:8229
 translate pt_br kalifight_82eb0108:
 
     # c "Kali..."
     c ""
 
-# game/scripts/kali_events.rpy:8233
+# game/scripts/kali_events.rpy:8231
 translate pt_br kalifight_a858aade:
 
     # k "Shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:8234
+# game/scripts/kali_events.rpy:8232
 translate pt_br kalifight_d405871b:
 
     # c "Kali, what do you have to be jealous of?"
     c ""
 
-# game/scripts/kali_events.rpy:8235
+# game/scripts/kali_events.rpy:8233
 translate pt_br kalifight_fd4ceffa:
 
     # k "Nothing!"
     k ""
 
-# game/scripts/kali_events.rpy:8236
+# game/scripts/kali_events.rpy:8234
 translate pt_br kalifight_82091822_4:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8238
+# game/scripts/kali_events.rpy:8236
 translate pt_br kalifight_9407cdeb:
 
     # k "Urgh! I mean, you've seen her! She's pretty! She's young! She's confident! She's stylish!"
     k ""
 
-# game/scripts/kali_events.rpy:8240
+# game/scripts/kali_events.rpy:8238
 translate pt_br kalifight_c6d95b05:
 
     # k "She hasn't even been here that long, but look! Most of those clothes aren't mine!"
     k ""
 
-# game/scripts/kali_events.rpy:8242
+# game/scripts/kali_events.rpy:8240
 translate pt_br kalifight_86a3ccf5:
 
     # k "I give her a bed, and she flirts with my boyfriend! I give her a closet and she uses most of it! She's taking everything from me!"
     k ""
 
-# game/scripts/kali_events.rpy:8243
+# game/scripts/kali_events.rpy:8241
 translate pt_br kalifight_7ed355ea:
 
     # c "Alright, then I'll kick her out."
     c ""
 
-# game/scripts/kali_events.rpy:8245
+# game/scripts/kali_events.rpy:8243
 translate pt_br kalifight_1d10cef5:
 
     # k "What!? Really?"
     k ""
 
-# game/scripts/kali_events.rpy:8246
+# game/scripts/kali_events.rpy:8244
 translate pt_br kalifight_69e4dab3:
 
     # k "I mean, wait! No! You can't kick her out!"
     k ""
 
-# game/scripts/kali_events.rpy:8247
+# game/scripts/kali_events.rpy:8245
 translate pt_br kalifight_c86e5d51:
 
     # c "Isn't that what you want?"
     c ""
 
-# game/scripts/kali_events.rpy:8249
+# game/scripts/kali_events.rpy:8247
 translate pt_br kalifight_d137c236:
 
     # k "...No... I don't want her gone..."
     k ""
 
-# game/scripts/kali_events.rpy:8250
+# game/scripts/kali_events.rpy:8248
 translate pt_br kalifight_82091822_5:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8251
+# game/scripts/kali_events.rpy:8249
 translate pt_br kalifight_0da040a1:
 
     # k "She's so annoying..."
     k ""
 
-# game/scripts/kali_events.rpy:8252
+# game/scripts/kali_events.rpy:8250
 translate pt_br kalifight_143c96f2:
 
     # c "She loves you though."
     c ""
 
-# game/scripts/kali_events.rpy:8254
+# game/scripts/kali_events.rpy:8252
 translate pt_br kalifight_33eb9a23:
 
     # k "You call this love!? She locked me in a closet!"
     k ""
 
-# game/scripts/kali_events.rpy:8255
+# game/scripts/kali_events.rpy:8253
 translate pt_br kalifight_e6172d52:
 
     # c "She locked {i}us{/i} in a closet."
     c ""
 
-# game/scripts/kali_events.rpy:8256
+# game/scripts/kali_events.rpy:8254
 translate pt_br kalifight_cc20e27f:
 
     # k "So!?"
     k ""
 
-# game/scripts/kali_events.rpy:8257
+# game/scripts/kali_events.rpy:8255
 translate pt_br kalifight_bbed2ba8:
 
     # c "If she didn't like you, she would have only locked you in here, not me."
     c ""
 
-# game/scripts/kali_events.rpy:8258
+# game/scripts/kali_events.rpy:8256
 translate pt_br kalifight_5310ce33:
 
     # k "So! So... So what!? What does she want then?"
     k ""
 
-# game/scripts/kali_events.rpy:8259
+# game/scripts/kali_events.rpy:8257
 translate pt_br kalifight_d9fb3005:
 
     # c "Your guess is as good as mine, but she clearly doesn't hate you."
     c ""
 
-# game/scripts/kali_events.rpy:8261
+# game/scripts/kali_events.rpy:8259
 translate pt_br kalifight_82091822_6:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8262
+# game/scripts/kali_events.rpy:8260
 translate pt_br kalifight_42481b06:
 
     # k "She's just being a brat again..."
     k ""
 
-# game/scripts/kali_events.rpy:8263
+# game/scripts/kali_events.rpy:8261
 translate pt_br kalifight_6d830174:
 
     # c "What are you worried about?"
     c ""
 
-# game/scripts/kali_events.rpy:8264
+# game/scripts/kali_events.rpy:8262
 translate pt_br kalifight_530a6f78:
 
     # k "Whatev- Urgh... I don't- ... *sigh*..."
     k ""
 
-# game/scripts/kali_events.rpy:8265
+# game/scripts/kali_events.rpy:8263
 translate pt_br kalifight_dc652405:
 
     # k "Do you like her?"
     k ""
 
-# game/scripts/kali_events.rpy:8266
+# game/scripts/kali_events.rpy:8264
 translate pt_br kalifight_9e93b3f9:
 
     # k "...More than me?"
     k ""
 
-# game/scripts/kali_events.rpy:8267
+# game/scripts/kali_events.rpy:8265
 translate pt_br kalifight_a59f8f81:
 
     # c "Of course not."
     c ""
 
-# game/scripts/kali_events.rpy:8269
+# game/scripts/kali_events.rpy:8267
 translate pt_br kalifight_af12b6aa:
 
     # k "Good..."
     k ""
 
-# game/scripts/kali_events.rpy:8270
+# game/scripts/kali_events.rpy:8268
 translate pt_br kalifight_b3f8ab8c:
 
     # c "That's what you were worried about?"
     c ""
 
-# game/scripts/kali_events.rpy:8271
+# game/scripts/kali_events.rpy:8269
 translate pt_br kalifight_be082246:
 
     # k "Well... Kind of..."
     k ""
 
-# game/scripts/kali_events.rpy:8272
+# game/scripts/kali_events.rpy:8270
 translate pt_br kalifight_8b9fdc30:
 
     # k "I've never been anyone's first choice, not even my Dad's... I don't want to lose that again..."
     k ""
 
-# game/scripts/kali_events.rpy:8273
+# game/scripts/kali_events.rpy:8271
 translate pt_br kalifight_c604f98e:
 
     # c "You don't need to worry about your sister."
     c ""
 
-# game/scripts/kali_events.rpy:8274
+# game/scripts/kali_events.rpy:8272
 translate pt_br kalifight_e52f7681:
 
     # k "...Fine..."
     k ""
 
-# game/scripts/kali_events.rpy:8276
+# game/scripts/kali_events.rpy:8274
 translate pt_br kalifight_8a1803d7:
 
     # k "Stupid clothes..."
     k ""
 
-# game/scripts/kali_events.rpy:8277
+# game/scripts/kali_events.rpy:8275
 translate pt_br kalifight_eb4dd974:
 
     # c "Why don't you try them on?"
     c ""
 
-# game/scripts/kali_events.rpy:8279
+# game/scripts/kali_events.rpy:8277
 translate pt_br kalifight_f9d8bdbe:
 
     # k "What? Why?"
     k ""
 
-# game/scripts/kali_events.rpy:8280
+# game/scripts/kali_events.rpy:8278
 translate pt_br kalifight_bff4ef20:
 
     # c "It's your closet, isn't it?"
     c ""
 
-# game/scripts/kali_events.rpy:8281
+# game/scripts/kali_events.rpy:8279
 translate pt_br kalifight_f8fdf0d2:
 
     # c "And you did say she had some slutty clothes..."
     c ""
 
-# game/scripts/kali_events.rpy:8283
+# game/scripts/kali_events.rpy:8281
 translate pt_br kalifight_a413cb01:
 
     # k "...Alright... Fine."
     k ""
 
-# game/scripts/kali_events.rpy:8286
+# game/scripts/kali_events.rpy:8284
 translate pt_br kalifight_8a1efce0:
 
     # k "Urgh, remember these? So gross..."
     k ""
 
-# game/scripts/kali_events.rpy:8287
+# game/scripts/kali_events.rpy:8285
 translate pt_br kalifight_1285e1f3:
 
     # k "I'm starting to feel like a brat already..."
     k ""
 
-# game/scripts/kali_events.rpy:8290
+# game/scripts/kali_events.rpy:8288
 translate pt_br kalifight_1d276b0d:
 
     # c "It looks nice on you."
     c ""
 
-# game/scripts/kali_events.rpy:8292
+# game/scripts/kali_events.rpy:8290
 translate pt_br kalifight_6d2431dc:
 
     # k "Hey, shut up! You're not supposed to like my sister's clothes!"
     k ""
 
-# game/scripts/kali_events.rpy:8295
+# game/scripts/kali_events.rpy:8293
 translate pt_br kalifight_a4536509:
 
     # k "What do you think about these?"
     k ""
 
-# game/scripts/kali_events.rpy:8298
+# game/scripts/kali_events.rpy:8296
 translate pt_br kalifight_da7365f9:
 
     # c "Wow, that's nice."
     c ""
 
-# game/scripts/kali_events.rpy:8299
+# game/scripts/kali_events.rpy:8297
 translate pt_br kalifight_8dfd5522:
 
     # k "I think so too. Might have to steal these from her..."
     k ""
 
-# game/scripts/kali_events.rpy:8301
+# game/scripts/kali_events.rpy:8299
 translate pt_br kalifight_6fb165f8:
 
     # k "Hmm..."
     k ""
 
-# game/scripts/kali_events.rpy:8302
+# game/scripts/kali_events.rpy:8300
 translate pt_br kalifight_297d93f3_2:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:8304
+# game/scripts/kali_events.rpy:8302
 translate pt_br kalifight_670e2dec:
 
     # k "How about now?"
     k ""
 
-# game/scripts/kali_events.rpy:8305
+# game/scripts/kali_events.rpy:8303
 translate pt_br kalifight_8b488380:
 
     # c "Definitely improving..."
     c ""
 
-# game/scripts/kali_events.rpy:8307
+# game/scripts/kali_events.rpy:8305
 translate pt_br kalifight_ecd11a06:
 
     # k "Hahaha!"
     k ""
 
-# game/scripts/kali_events.rpy:8310
+# game/scripts/kali_events.rpy:8308
 translate pt_br kalifight_01f099cc:
 
     # k "Urgh, what was she planning to do with this?"
     k ""
 
-# game/scripts/kali_events.rpy:8311
+# game/scripts/kali_events.rpy:8309
 translate pt_br kalifight_24e77b02:
 
     # k "God, I feel so gross wearing this..."
     k ""
 
-# game/scripts/kali_events.rpy:8315
+# game/scripts/kali_events.rpy:8313
 translate pt_br kalifight_8b003f14:
 
     # k "Well? Would you fuck me in this?"
     k ""
 
-# game/scripts/kali_events.rpy:8318
+# game/scripts/kali_events.rpy:8316
 translate pt_br kalifight_1c9e3ffa:
 
     # k "Noted..."
     k ""
 
-# game/scripts/kali_events.rpy:8322
+# game/scripts/kali_events.rpy:8320
 translate pt_br kalifight_2f339c56:
 
     # k "Yeah... Wearing this feels pretty stupid anyway..."
     k ""
 
-# game/scripts/kali_events.rpy:8325
+# game/scripts/kali_events.rpy:8323
 translate pt_br kalifight_4ca83404:
 
     # k "Sorry [name]... I shouldn't have gotten mad at you... It wasn't fair."
     k ""
 
-# game/scripts/kali_events.rpy:8326
+# game/scripts/kali_events.rpy:8324
 translate pt_br kalifight_4957702e:
 
     # k "You can... Have sex with Lucy, if you want..."
     k ""
 
-# game/scripts/kali_events.rpy:8327
+# game/scripts/kali_events.rpy:8325
 translate pt_br kalifight_115c34c4:
 
     # c "What? Why?"
     c ""
 
-# game/scripts/kali_events.rpy:8328
+# game/scripts/kali_events.rpy:8326
 translate pt_br kalifight_6fcf1c60:
 
     # k "Well I'm totally fine with you and the other girls... As long as we're together, it doesn't really bother me. So... As long as you like me more than her... I guess it's fine..."
     k ""
 
-# game/scripts/kali_events.rpy:8329
+# game/scripts/kali_events.rpy:8327
 translate pt_br kalifight_e862cf1c:
 
     # k "I mean... If you want to, anyway..."
     k ""
 
-# game/scripts/kali_events.rpy:8330
+# game/scripts/kali_events.rpy:8328
 translate pt_br kalifight_256ec68c:
 
     # c "I didn't know you were this open about it."
     c ""
 
-# game/scripts/kali_events.rpy:8331
+# game/scripts/kali_events.rpy:8329
 translate pt_br kalifight_17fa771e:
 
     # k "Like I said, as long as we're together, I don't really mind. I guess I would prefer if it was only us, but, I don't think you're that type of guy... and besides, it's kind of hot..."
     k ""
 
-# game/scripts/kali_events.rpy:8333
+# game/scripts/kali_events.rpy:8331
 translate pt_br kalifight_dce9e23a:
 
     # k "Urgh, god damn it, Lucy. Hello!?"
     k ""
 
-# game/scripts/kali_events.rpy:8335
+# game/scripts/kali_events.rpy:8333
 translate pt_br kalifight_bff5d7f5:
 
     # k "LU- Oh... It's open...?"
     k ""
 
-# game/scripts/kali_events.rpy:8337
+# game/scripts/kali_events.rpy:8335
 translate pt_br kalifight_c4550cd5:
 
     # k "URGH! DAMN IT LUCY, WHERE ARE YOU!?"
     k ""
 
-# game/scripts/kali_events.rpy:8338
+# game/scripts/kali_events.rpy:8336
 translate pt_br kalifight_6218868d:
 
     # "*SLAM*" with ssshake
     "" with ssshake
 
-# game/scripts/kali_events.rpy:8341
+# game/scripts/kali_events.rpy:8339
 translate pt_br kalifight_e25ccc73:
 
     # lu "Enjoy your talk?"
     lu ""
 
-# game/scripts/kali_events.rpy:8342
+# game/scripts/kali_events.rpy:8340
 translate pt_br kalifight_5d7d803b:
 
     # c "Lucy?"
     c ""
 
-# game/scripts/kali_events.rpy:8344
+# game/scripts/kali_events.rpy:8342
 translate pt_br kalifight_1af947d3:
 
     # lu "You didn't think I was just going to leave without listening, did you?"
     lu ""
 
-# game/scripts/kali_events.rpy:8345
+# game/scripts/kali_events.rpy:8343
 translate pt_br kalifight_8e3f6e0f:
 
     # c "You were listening the whole time?"
     c ""
 
-# game/scripts/kali_events.rpy:8346
+# game/scripts/kali_events.rpy:8344
 translate pt_br kalifight_e9ee4710:
 
     # lu "Of course!"
     lu ""
 
-# game/scripts/kali_events.rpy:8347
+# game/scripts/kali_events.rpy:8345
 translate pt_br kalifight_049e29ca:
 
     # c "Why did you push us in there?"
     c ""
 
-# game/scripts/kali_events.rpy:8348
+# game/scripts/kali_events.rpy:8346
 translate pt_br kalifight_db6da4d6:
 
     # lu "She was really angry, and she was going to try to push you away from her. Which would have made her even angrier with you..."
     lu ""
 
-# game/scripts/kali_events.rpy:8349
+# game/scripts/kali_events.rpy:8347
 translate pt_br kalifight_22f07c15:
 
     # lu "I know Kali, remember? The only way you two were going to avoid an arguement was to talk it out, and she wasn't going to do that..."
     lu ""
 
-# game/scripts/kali_events.rpy:8350
+# game/scripts/kali_events.rpy:8348
 translate pt_br kalifight_b4906937:
 
     # lu "She doesn't even know herself as well as I do."
     lu ""
 
-# game/scripts/kali_events.rpy:8352
+# game/scripts/kali_events.rpy:8350
 translate pt_br kalifight_73355fc4:
 
     # lu "You're welcome!"
     lu ""
 
-# game/scripts/kali_events.rpy:8476
+# game/scripts/kali_events.rpy:8474
 translate pt_br kali_anal_repeat_0467e2bc:
 
     # k "Come onnn~ put it in!"
     k ""
 
-# game/scripts/kali_events.rpy:8479
+# game/scripts/kali_events.rpy:8477
 translate pt_br kali_anal_repeat_908233c2:
 
     # k "Nnngh~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8482
+# game/scripts/kali_events.rpy:8480
 translate pt_br kali_anal_repeat_d112e047:
 
     # k "Oh! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:8483
+# game/scripts/kali_events.rpy:8481
 translate pt_br kali_anal_repeat_600c5445:
 
     # k "Ohggh, god... Hnn..."
     k ""
 
-# game/scripts/kali_events.rpy:8484
+# game/scripts/kali_events.rpy:8482
 translate pt_br kali_anal_repeat_7d9d5174:
 
     # k "Yes, fuck! My ass feels so good!"
     k ""
 
-# game/scripts/kali_events.rpy:8485
+# game/scripts/kali_events.rpy:8483
 translate pt_br kali_anal_repeat_e129708d:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
     k ""
 
-# game/scripts/kali_events.rpy:8488
+# game/scripts/kali_events.rpy:8486
 translate pt_br kali_anal_repeat_b33cbc04:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
     k ""
 
-# game/scripts/kali_events.rpy:8489
+# game/scripts/kali_events.rpy:8487
 translate pt_br kali_anal_repeat_0304eda8:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:8490
+# game/scripts/kali_events.rpy:8488
 translate pt_br kali_anal_repeat_87f41667:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
     k ""
 
-# game/scripts/kali_events.rpy:8491
+# game/scripts/kali_events.rpy:8489
 translate pt_br kali_anal_repeat_9621136c:
 
     # k "AH! HNN! NN! HAH!"
     k ""
 
-# game/scripts/kali_events.rpy:8492
+# game/scripts/kali_events.rpy:8490
 translate pt_br kali_anal_repeat_644a3b6a:
 
     # k "[name]! [name]! Cum inside my ass! Please!"
     k ""
 
-# game/scripts/kali_events.rpy:8496
+# game/scripts/kali_events.rpy:8494
 translate pt_br kali_anal_repeat_dad2a4ef:
 
     # k "Hnnn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8497
+# game/scripts/kali_events.rpy:8495
 translate pt_br kali_anal_repeat_2c1711d6:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8498
+# game/scripts/kali_events.rpy:8496
 translate pt_br kali_anal_repeat_0cfc804c:
 
     # k "Holy shit!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8505
+# game/scripts/kali_events.rpy:8503
 translate pt_br kali_anal_repeat_e7b6ced2:
 
     # k "Ahhh... Hahhh, Holy shit..."
     k ""
 
-# game/scripts/kali_events.rpy:8526
+# game/scripts/kali_events.rpy:8524
 translate pt_br kananal_aef814fa:
 
     # k "Hey [name]..."
     k ""
 
-# game/scripts/kali_events.rpy:8527
+# game/scripts/kali_events.rpy:8525
 translate pt_br kananal_92708bdb:
 
     # c "Kali? What are you-"
     c ""
 
-# game/scripts/kali_events.rpy:8529
+# game/scripts/kali_events.rpy:8527
 translate pt_br kananal_afb8e2e7:
 
     # k "Mmmp... Mmmnn..."
     k ""
 
-# game/scripts/kali_events.rpy:8534
+# game/scripts/kali_events.rpy:8532
 translate pt_br kananal_b1635e1e:
 
     # k "I hope the glasses didn't get in the way..."
     k ""
 
-# game/scripts/kali_events.rpy:8536
+# game/scripts/kali_events.rpy:8534
 translate pt_br kananal_18225d4e:
 
     # k "What do you think? I ordered this thing weeks ago, and it finally arrived today! It had to ship overseas..."
     k ""
 
-# game/scripts/kali_events.rpy:8537
+# game/scripts/kali_events.rpy:8535
 translate pt_br kananal_0f173ebb:
 
     # c "What is it?"
     c ""
 
-# game/scripts/kali_events.rpy:8538
+# game/scripts/kali_events.rpy:8536
 translate pt_br kananal_9da36179:
 
     # k "I'm cosplaying as a girl from this hentai game I've been playing."
     k ""
 
-# game/scripts/kali_events.rpy:8539
+# game/scripts/kali_events.rpy:8537
 translate pt_br kananal_88cbcf66:
 
     # k "I never get to wear skirts, they're so fun!"
     k ""
 
-# game/scripts/kali_events.rpy:8547
+# game/scripts/kali_events.rpy:8545
 translate pt_br kananal_e33ca7b1:
 
     # k "Enjoy the sneak peek? Hahaha!"
     k ""
 
-# game/scripts/kali_events.rpy:8549
+# game/scripts/kali_events.rpy:8547
 translate pt_br kananal_48514d21:
 
     # k "[name]... The girl who wears this gets fucked in the ass so much she turns into an anal whore..."
     k ""
 
-# game/scripts/kali_events.rpy:8550
+# game/scripts/kali_events.rpy:8548
 translate pt_br kananal_dd6bd3c5:
 
     # k "Do you want to turn me into an anal whore?"
     k ""
 
-# game/scripts/kali_events.rpy:8554
+# game/scripts/kali_events.rpy:8552
 translate pt_br kananal_85ceb222:
 
     # k "Good."
     k ""
 
-# game/scripts/kali_events.rpy:8557
+# game/scripts/kali_events.rpy:8555
 translate pt_br kananal_e144a02d:
 
     # k "Go ahead, do your thing... don't keep me waiting~"
     k ""
 
-# game/scripts/kali_events.rpy:8559
+# game/scripts/kali_events.rpy:8557
 translate pt_br kananal_3711148f:
 
     # k "Hnn! NNGH! Fuck...! Holy shit, you're in my ass!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8560
+# game/scripts/kali_events.rpy:8558
 translate pt_br kananal_035b3ac2:
 
     # k "It feels... Really weird... From the way she was getting off, I thought this would make me feel like a whore, but it's just... Weird."
     k ""
 
-# game/scripts/kali_events.rpy:8562
+# game/scripts/kali_events.rpy:8560
 translate pt_br kananal_1c126d83:
 
     # k "'Oh no, you've beaten me and torn up my clothes exposing my tits and ass! What are you going to do to me now...?' Heheh!"
     k ""
 
-# game/scripts/kali_events.rpy:8564
+# game/scripts/kali_events.rpy:8562
 translate pt_br kananal_d112e047:
 
     # k "Oh! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:8565
+# game/scripts/kali_events.rpy:8563
 translate pt_br kananal_600c5445:
 
     # k "Ohggh, god... Hnn..."
     k ""
 
-# game/scripts/kali_events.rpy:8566
+# game/scripts/kali_events.rpy:8564
 translate pt_br kananal_66bfab2d:
 
     # k "It feels so different from my pussy!"
     k ""
 
-# game/scripts/kali_events.rpy:8567
+# game/scripts/kali_events.rpy:8565
 translate pt_br kananal_5cb37493:
 
     # k "Aghh, but I definitely feel like a slut with this on! Hnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:8568
+# game/scripts/kali_events.rpy:8566
 translate pt_br kananal_f8522f31:
 
     # k "They would- Hn! Fill her up so much she looked pregnant! Ahn!"
     k ""
 
-# game/scripts/kali_events.rpy:8569
+# game/scripts/kali_events.rpy:8567
 translate pt_br kananal_e129708d:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
     k ""
 
-# game/scripts/kali_events.rpy:8572
+# game/scripts/kali_events.rpy:8570
 translate pt_br kananal_b33cbc04:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
     k ""
 
-# game/scripts/kali_events.rpy:8573
+# game/scripts/kali_events.rpy:8571
 translate pt_br kananal_0304eda8:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:8574
+# game/scripts/kali_events.rpy:8572
 translate pt_br kananal_87f41667:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
     k ""
 
-# game/scripts/kali_events.rpy:8575
+# game/scripts/kali_events.rpy:8573
 translate pt_br kananal_d4c64977:
 
     # k "AH! HNN!"
     k ""
 
-# game/scripts/kali_events.rpy:8576
+# game/scripts/kali_events.rpy:8574
 translate pt_br kananal_cbf1bab9:
 
     # k "[name]! You need to cum inside me! Please! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:8580
+# game/scripts/kali_events.rpy:8578
 translate pt_br kananal_dad2a4ef:
 
     # k "Hnnn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8581
+# game/scripts/kali_events.rpy:8579
 translate pt_br kananal_2c1711d6:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8582
+# game/scripts/kali_events.rpy:8580
 translate pt_br kananal_0cfc804c:
 
     # k "Holy shit!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8587
+# game/scripts/kali_events.rpy:8585
 translate pt_br kananal_a9e5f1c0:
 
     # k "Ahhh! Nnh, nnnm..."
     k ""
 
-# game/scripts/kali_events.rpy:8590
+# game/scripts/kali_events.rpy:8588
 translate pt_br kananal_88e7ec33:
 
     # k "Hahhh... ahhh... holy shit..."
     k ""
 
-# game/scripts/kali_events.rpy:8591
+# game/scripts/kali_events.rpy:8589
 translate pt_br kananal_a393eba3:
 
     # c "What did you think?"
     c ""
 
-# game/scripts/kali_events.rpy:8593
+# game/scripts/kali_events.rpy:8591
 translate pt_br kananal_cbe587a6:
 
     # k "That was... an interesting experience..."
     k ""
 
-# game/scripts/kali_events.rpy:8594
+# game/scripts/kali_events.rpy:8592
 translate pt_br kananal_05372295:
 
     # k "So, yeah... I guess that was fun."
     k ""
 
-# game/scripts/kali_events.rpy:8595
+# game/scripts/kali_events.rpy:8593
 translate pt_br kananal_cc4220ba:
 
     # k "Well, uh... let me know if you want to do that again, I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:8596
+# game/scripts/kali_events.rpy:8594
 translate pt_br kananal_920f2fa3:
 
     # c "You'd like to do that again, hm?"
     c ""
 
-# game/scripts/kali_events.rpy:8597
+# game/scripts/kali_events.rpy:8595
 translate pt_br kananal_b2ee035d:
 
     # k "Sure, why not...? We can do whatever we want."
     k ""
 
-# game/scripts/kali_events.rpy:8599
+# game/scripts/kali_events.rpy:8597
 translate pt_br kananal_f23ce54b:
 
     # "You've unlocked anal sex with Kali!"
     ""
 
-# game/scripts/kali_events.rpy:8607
+# game/scripts/kali_events.rpy:8605
 translate pt_br kananal_039ad430:
 
     # "(Are you sure? This will lock you out of the repeatable anal option forever.)"
     ""
 
-# game/scripts/kali_events.rpy:8611
+# game/scripts/kali_events.rpy:8609
 translate pt_br kananal_85ceb222_1:
 
     # k "Good."
     k ""
 
-# game/scripts/kali_events.rpy:8614
+# game/scripts/kali_events.rpy:8612
 translate pt_br kananal_e144a02d_1:
 
     # k "Go ahead, do your thing... don't keep me waiting~"
     k ""
 
-# game/scripts/kali_events.rpy:8616
+# game/scripts/kali_events.rpy:8614
 translate pt_br kananal_3711148f_1:
 
     # k "Hnn! NNGH! Fuck...! Holy shit, you're in my ass!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8617
+# game/scripts/kali_events.rpy:8615
 translate pt_br kananal_035b3ac2_1:
 
     # k "It feels... Really weird... From the way she was getting off, I thought this would make me feel like a whore, but it's just... Weird."
     k ""
 
-# game/scripts/kali_events.rpy:8619
+# game/scripts/kali_events.rpy:8617
 translate pt_br kananal_1c126d83_1:
 
     # k "'Oh no, you've beaten me and torn up my clothes exposing my tits and ass! What are you going to do to me now...?' Heheh!"
     k ""
 
-# game/scripts/kali_events.rpy:8621
+# game/scripts/kali_events.rpy:8619
 translate pt_br kananal_d112e047_1:
 
     # k "Oh! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:8622
+# game/scripts/kali_events.rpy:8620
 translate pt_br kananal_600c5445_1:
 
     # k "Ohggh, god... Hnn..."
     k ""
 
-# game/scripts/kali_events.rpy:8623
+# game/scripts/kali_events.rpy:8621
 translate pt_br kananal_66bfab2d_1:
 
     # k "It feels so different from my pussy!"
     k ""
 
-# game/scripts/kali_events.rpy:8624
+# game/scripts/kali_events.rpy:8622
 translate pt_br kananal_5cb37493_1:
 
     # k "Aghh, but I definitely feel like a slut with this on! Hnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:8625
+# game/scripts/kali_events.rpy:8623
 translate pt_br kananal_f8522f31_1:
 
     # k "They would- Hn! Fill her up so much she looked pregnant! Ahn!"
     k ""
 
-# game/scripts/kali_events.rpy:8626
+# game/scripts/kali_events.rpy:8624
 translate pt_br kananal_e129708d_1:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
     k ""
 
-# game/scripts/kali_events.rpy:8629
+# game/scripts/kali_events.rpy:8627
 translate pt_br kananal_b33cbc04_1:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
     k ""
 
-# game/scripts/kali_events.rpy:8630
+# game/scripts/kali_events.rpy:8628
 translate pt_br kananal_0304eda8_1:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:8631
+# game/scripts/kali_events.rpy:8629
 translate pt_br kananal_87f41667_1:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
     k ""
 
-# game/scripts/kali_events.rpy:8632
+# game/scripts/kali_events.rpy:8630
 translate pt_br kananal_d4c64977_1:
 
     # k "AH! HNN!"
     k ""
 
-# game/scripts/kali_events.rpy:8633
+# game/scripts/kali_events.rpy:8631
 translate pt_br kananal_cbf1bab9_1:
 
     # k "[name]! You need to cum inside me! Please! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:8637
+# game/scripts/kali_events.rpy:8635
 translate pt_br kananal_dad2a4ef_1:
 
     # k "Hnnn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8638
+# game/scripts/kali_events.rpy:8636
 translate pt_br kananal_2c1711d6_1:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8639
+# game/scripts/kali_events.rpy:8637
 translate pt_br kananal_0cfc804c_1:
 
     # k "Holy shit!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:8644
+# game/scripts/kali_events.rpy:8642
 translate pt_br kananal_a9e5f1c0_1:
 
     # k "Ahhh! Nnh, nnnm..."
     k ""
 
-# game/scripts/kali_events.rpy:8647
+# game/scripts/kali_events.rpy:8645
 translate pt_br kananal_88e7ec33_1:
 
     # k "Hahhh... ahhh... holy shit..."
     k ""
 
-# game/scripts/kali_events.rpy:8648
+# game/scripts/kali_events.rpy:8646
 translate pt_br kananal_a393eba3_1:
 
     # c "What did you think?"
     c ""
 
-# game/scripts/kali_events.rpy:8650
+# game/scripts/kali_events.rpy:8648
 translate pt_br kananal_cbe587a6_1:
 
     # k "That was... an interesting experience..."
     k ""
 
-# game/scripts/kali_events.rpy:8651
+# game/scripts/kali_events.rpy:8649
 translate pt_br kananal_05372295_1:
 
     # k "So, yeah... I guess that was fun."
     k ""
 
-# game/scripts/kali_events.rpy:8652
+# game/scripts/kali_events.rpy:8650
 translate pt_br kananal_cc4220ba_1:
 
     # k "Well, uh... let me know if you want to do that again, I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:8653
+# game/scripts/kali_events.rpy:8651
 translate pt_br kananal_920f2fa3_1:
 
     # c "You'd like to do that again, hm?"
     c ""
 
-# game/scripts/kali_events.rpy:8654
+# game/scripts/kali_events.rpy:8652
 translate pt_br kananal_b2ee035d_1:
 
     # k "Sure, why not...? We can do whatever we want."
     k ""
 
-# game/scripts/kali_events.rpy:8656
+# game/scripts/kali_events.rpy:8654
 translate pt_br kananal_f23ce54b_1:
 
     # "You've unlocked anal sex with Kali!"
     ""
 
-# game/scripts/kali_events.rpy:8665
+# game/scripts/kali_events.rpy:8663
 translate pt_br kananal_93334484:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:8667
+# game/scripts/kali_events.rpy:8665
 translate pt_br kananal_c87416d1:
 
     # k "But... I bought this for anal sex! It's what she does! We can't have normal sex in this!"
     k ""
 
-# game/scripts/kali_events.rpy:8669
+# game/scripts/kali_events.rpy:8667
 translate pt_br kananal_d61f80df:
 
     # k "Whatever, it was a stupid idea anyway."
     k ""
 
-# game/scripts/kali_events.rpy:8670
+# game/scripts/kali_events.rpy:8668
 translate pt_br kananal_df65017d:
 
     # k "Just get out before Lucy gets back..."
     k ""
 
-# game/scripts/kali_events.rpy:8681
+# game/scripts/kali_events.rpy:8679
 translate pt_br lukalbeach_3d98bd7b:
 
     # lu "Kaliiii~ ...Come on...!"
     lu ""
 
-# game/scripts/kali_events.rpy:8682
+# game/scripts/kali_events.rpy:8680
 translate pt_br lukalbeach_bf832a13:
 
     # k "No."
     k ""
 
-# game/scripts/kali_events.rpy:8683
+# game/scripts/kali_events.rpy:8681
 translate pt_br lukalbeach_491ccc2a:
 
     # lu "Kaliiiiiiiii~"
     lu ""
 
-# game/scripts/kali_events.rpy:8684
+# game/scripts/kali_events.rpy:8682
 translate pt_br lukalbeach_26f11ca3:
 
     # k "I'm not interested."
     k ""
 
-# game/scripts/kali_events.rpy:8685
+# game/scripts/kali_events.rpy:8683
 translate pt_br lukalbeach_310b43d8:
 
     # lu "But Kali, you're so pale!"
     lu ""
 
-# game/scripts/kali_events.rpy:8686
+# game/scripts/kali_events.rpy:8684
 translate pt_br lukalbeach_32ca204c:
 
     # k "Why do you care how white I am?"
     k ""
 
-# game/scripts/kali_events.rpy:8687
+# game/scripts/kali_events.rpy:8685
 translate pt_br lukalbeach_203b2d1f:
 
     # lu "Because it's not healthy! Come ooooon~ come with me to the beach! Dad didn't have any near his place... pleeeeease~?"
     lu ""
 
-# game/scripts/kali_events.rpy:8688
+# game/scripts/kali_events.rpy:8686
 translate pt_br lukalbeach_cf32e7f0:
 
     # k "I'm good."
     k ""
 
-# game/scripts/kali_events.rpy:8689
+# game/scripts/kali_events.rpy:8687
 translate pt_br lukalbeach_effd937a:
 
     # lu "Why noooot...?"
     lu ""
 
-# game/scripts/kali_events.rpy:8690
+# game/scripts/kali_events.rpy:8688
 translate pt_br lukalbeach_12e34ed2:
 
     # k "You know I hate people, and the sun... and fresh air. And don't even get me started on sand. It's so coarse, and rough, and it gets everywhere."
     k ""
 
-# game/scripts/kali_events.rpy:8691
+# game/scripts/kali_events.rpy:8689
 translate pt_br lukalbeach_5ca88e32:
 
     # lu "Oh shut up, Kali. You can bring your husband..."
     lu ""
 
-# game/scripts/kali_events.rpy:8693
+# game/scripts/kali_events.rpy:8691
 translate pt_br lukalbeach_93334484:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:8695
+# game/scripts/kali_events.rpy:8693
 translate pt_br lukalbeach_327d5fd6:
 
     # k "Shut up! {u}Husband?{/u} What do you mean husband? We're not even close to being married!"
     k ""
 
-# game/scripts/kali_events.rpy:8696
+# game/scripts/kali_events.rpy:8694
 translate pt_br lukalbeach_3034639c:
 
     # lu "Well yeah... you need to show off your body more, then he'll marry you. How is he supposed to decide something like that when all you wear are hoodies..."
     lu ""
 
-# game/scripts/kali_events.rpy:8697
+# game/scripts/kali_events.rpy:8695
 translate pt_br lukalbeach_7cee0768:
 
     # k "W-What? Shut up, brat!"
     k ""
 
-# game/scripts/kali_events.rpy:8699
+# game/scripts/kali_events.rpy:8697
 translate pt_br lukalbeach_60cabfdd:
 
     # k "We're not having this conversation."
     k ""
 
-# game/scripts/kali_events.rpy:8700
+# game/scripts/kali_events.rpy:8698
 translate pt_br lukalbeach_08b44e04:
 
     # lu "Fine..."
     lu ""
 
-# game/scripts/kali_events.rpy:8702
+# game/scripts/kali_events.rpy:8700
 translate pt_br lukalbeach_ab1c0c84:
 
     # k "...{w}...{w}\n{i}Finally, some peace and quiet...{/i}"
     k ""
 
-# game/scripts/kali_events.rpy:8704
+# game/scripts/kali_events.rpy:8702
 translate pt_br lukalbeach_39da34bd:
 
     # lu "I'll just go with [name] by myself then! How do I look?"
     lu ""
 
-# game/scripts/kali_events.rpy:8705
+# game/scripts/kali_events.rpy:8703
 translate pt_br lukalbeach_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/kali_events.rpy:8706
+# game/scripts/kali_events.rpy:8704
 translate pt_br lukalbeach_b08b2cd3:
 
     # lu "Come on, be honest!"
     lu ""
 
-# game/scripts/kali_events.rpy:8707
+# game/scripts/kali_events.rpy:8705
 translate pt_br lukalbeach_5b023b8a:
 
     # k "You're not going with him! Not alone!"
     k ""
 
-# game/scripts/kali_events.rpy:8708
+# game/scripts/kali_events.rpy:8706
 translate pt_br lukalbeach_192b7cbb:
 
     # lu "I guess we'll just see what he says about that. Are you coming or not?"
     lu ""
 
-# game/scripts/kali_events.rpy:8709
+# game/scripts/kali_events.rpy:8707
 translate pt_br lukalbeach_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8711
+# game/scripts/kali_events.rpy:8709
 translate pt_br lukalbeach_c9d5bd17:
 
     # k "Fine, I'll go... but only to make sure you stay out of trouble."
     k ""
 
-# game/scripts/kali_events.rpy:8712
+# game/scripts/kali_events.rpy:8710
 translate pt_br lukalbeach_d10ce16b:
 
     # lu "Mhm... it's totally {i}not{/i} to spend time with [name] while half naked in front of me..."
     lu ""
 
-# game/scripts/kali_events.rpy:8713
+# game/scripts/kali_events.rpy:8711
 translate pt_br lukalbeach_c80afbc0:
 
     # k "You're a perv, why do you even have these thoughts?"
     k ""
 
-# game/scripts/kali_events.rpy:8714
+# game/scripts/kali_events.rpy:8712
 translate pt_br lukalbeach_ca3acc72:
 
     # lu "I think you just answered that, Kali. Heheh!\nCome on, get dressed! Hurry, hury!"
     lu ""
 
-# game/scripts/kali_events.rpy:8717
+# game/scripts/kali_events.rpy:8715
 translate pt_br lukalbeach_6c4b7aa5:
 
     # lu "Hi [name]~ We're going to the beach, and you're coming with okay? Let's have some fun today!"
     lu ""
 
-# game/scripts/kali_events.rpy:8718
+# game/scripts/kali_events.rpy:8716
 translate pt_br lukalbeach_b7ee10ac:
 
     # c "Sure, sounds good."
     c ""
 
-# game/scripts/kali_events.rpy:8719
+# game/scripts/kali_events.rpy:8717
 translate pt_br lukalbeach_ea3ae180:
 
     # lu "See Kali, I knew he'd want to!"
     lu ""
 
-# game/scripts/kali_events.rpy:8720
+# game/scripts/kali_events.rpy:8718
 translate pt_br lukalbeach_df2980a9:
 
     # c "By the way, looking great Kali."
     c ""
 
-# game/scripts/kali_events.rpy:8722
+# game/scripts/kali_events.rpy:8720
 translate pt_br lukalbeach_b435fc73:
 
     # k "Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:8723
+# game/scripts/kali_events.rpy:8721
 translate pt_br lukalbeach_9c309ad0:
 
     # lu "Come on, you're driving!"
     lu ""
 
-# game/scripts/kali_events.rpy:8724
+# game/scripts/kali_events.rpy:8722
 translate pt_br lukalbeach_3b5eba2d:
 
     # c "Right now?"
     c ""
 
-# game/scripts/kali_events.rpy:8725
+# game/scripts/kali_events.rpy:8723
 translate pt_br lukalbeach_75e6a675:
 
     # lu "Yes now! What do you think we're dressed for?"
     lu ""
 
-# game/scripts/kali_events.rpy:8727
+# game/scripts/kali_events.rpy:8725
 translate pt_br lukalbeach_ac1821da:
 
     # "After you get dressed, the three of you jump in your car and drive to the beach..."
     ""
 
-# game/scripts/kali_events.rpy:8729
+# game/scripts/kali_events.rpy:8727
 translate pt_br lukalbeach_8d280544:
 
     # lu "Wow! It's so beautiful here! Way better than the beaches near The Capitol! The water is so blue!"
     lu ""
 
-# game/scripts/kali_events.rpy:8730
+# game/scripts/kali_events.rpy:8728
 translate pt_br lukalbeach_501bebe7:
 
     # k "It's just a beach... and it's pretty hot too, are we done?"
     k ""
 
-# game/scripts/kali_events.rpy:8731
+# game/scripts/kali_events.rpy:8729
 translate pt_br lukalbeach_444a5d0a:
 
     # lu "Are you kidding? We haven't even started yet!"
     lu ""
 
-# game/scripts/kali_events.rpy:8732
+# game/scripts/kali_events.rpy:8730
 translate pt_br lukalbeach_5b1abd2c:
 
     # k "Ugh..."
     k ""
 
-# game/scripts/kali_events.rpy:8734
+# game/scripts/kali_events.rpy:8732
 translate pt_br lukalbeach_2ed2d771:
 
     # lu "What do you think is out there...?"
     lu ""
 
-# game/scripts/kali_events.rpy:8735
+# game/scripts/kali_events.rpy:8733
 translate pt_br lukalbeach_195c973d:
 
     # k "Water."
     k ""
 
-# game/scripts/kali_events.rpy:8736
+# game/scripts/kali_events.rpy:8734
 translate pt_br lukalbeach_4e1e10dd:
 
     # lu "What do you think is under the water though?"
     lu ""
 
-# game/scripts/kali_events.rpy:8737
+# game/scripts/kali_events.rpy:8735
 translate pt_br lukalbeach_264903fa:
 
     # k "More water..."
     k ""
 
-# game/scripts/kali_events.rpy:8738
+# game/scripts/kali_events.rpy:8736
 translate pt_br lukalbeach_a6203fac:
 
     # lu "Lighten up, Kali. We're at the beach! You're supposed to have fun!"
     lu ""
 
-# game/scripts/kali_events.rpy:8739
+# game/scripts/kali_events.rpy:8737
 translate pt_br lukalbeach_d2b79255:
 
     # k "You're the one that dragged us out here..."
     k ""
 
-# game/scripts/kali_events.rpy:8740
+# game/scripts/kali_events.rpy:8738
 translate pt_br lukalbeach_df7d7dfd:
 
     # lu "So we could all have fun! It'll be a good day, Kali, just relax!"
     lu ""
 
-# game/scripts/kali_events.rpy:8741
+# game/scripts/kali_events.rpy:8739
 translate pt_br lukalbeach_d95ea160:
 
     # k "Not really how it works, but..."
     k ""
 
-# game/scripts/kali_events.rpy:8743
+# game/scripts/kali_events.rpy:8741
 translate pt_br lukalbeach_c3f6fe00:
 
     # c "How are you feeling, Kali?"
     c ""
 
-# game/scripts/kali_events.rpy:8744
+# game/scripts/kali_events.rpy:8742
 translate pt_br lukalbeach_a4d00ce6:
 
     # k "*sigh*... I'll be fine."
     k ""
 
-# game/scripts/kali_events.rpy:8745
+# game/scripts/kali_events.rpy:8743
 translate pt_br lukalbeach_88bf65c4:
 
     # c "You look tense."
     c ""
 
-# game/scripts/kali_events.rpy:8747
+# game/scripts/kali_events.rpy:8745
 translate pt_br lukalbeach_f6e3b229:
 
     # k "It's just a busy day, but the water is nice I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:8748
+# game/scripts/kali_events.rpy:8746
 translate pt_br lukalbeach_ec407a64:
 
     # lu "Come on, you can't be sad at the beach. Not with your boyfriend! Isn't this what you've always wanted?"
     lu ""
 
-# game/scripts/kali_events.rpy:8749
+# game/scripts/kali_events.rpy:8747
 translate pt_br lukalbeach_aaa94fb7:
 
     # k "No, it's what {i}you've{/i} always wanted..."
     k ""
 
-# game/scripts/kali_events.rpy:8751
+# game/scripts/kali_events.rpy:8749
 translate pt_br lukalbeach_599a8a4d:
 
     # lu "I'll never understand you Kali... I mean what do you even have to be nervous of? You're not a fat kid anymore."
     lu ""
 
-# game/scripts/kali_events.rpy:8752
+# game/scripts/kali_events.rpy:8750
 translate pt_br lukalbeach_db8a7d0f:
 
     # k "You might like the attention, but I hate the press. If they see us they're going to start taking creepy photos and sell them to the highest bidder. I don't want my ass all over social media."
     k ""
 
-# game/scripts/kali_events.rpy:8753
+# game/scripts/kali_events.rpy:8751
 translate pt_br lukalbeach_7d764f7d:
 
     # lu "People barely know you exist, you've made sure of that..."
     lu ""
 
-# game/scripts/kali_events.rpy:8754
+# game/scripts/kali_events.rpy:8752
 translate pt_br lukalbeach_382cc9a6:
 
     # k "Well it's going to be obvious who I am when I'm next to you. You can't shut up about being a Trenero online. I don't even know why people care about us anyway... Dad is the special one. It's not like we've ever done anything with our lives..."
     k ""
 
-# game/scripts/kali_events.rpy:8756
+# game/scripts/kali_events.rpy:8754
 translate pt_br lukalbeach_093102ef:
 
     # lu "Hey, that's not nice! People love my inspirational quotes!"
     lu ""
 
-# game/scripts/kali_events.rpy:8757
+# game/scripts/kali_events.rpy:8755
 translate pt_br lukalbeach_13840ccd:
 
     # k "Well it's true, Dad makes sure of it. And people only love them because you're rich and think some of it will rub off. I bet you didn't even write them yourself."
     k ""
 
-# game/scripts/kali_events.rpy:8758
+# game/scripts/kali_events.rpy:8756
 translate pt_br lukalbeach_40b8e2b9:
 
     # lu "Art is derivative!"
     lu ""
 
-# game/scripts/kali_events.rpy:8759
+# game/scripts/kali_events.rpy:8757
 translate pt_br lukalbeach_3f06deb6:
 
     # k "Pff. Art."
     k ""
 
-# game/scripts/kali_events.rpy:8760
+# game/scripts/kali_events.rpy:8758
 translate pt_br lukalbeach_8e18c75e:
 
     # lu "Well I'm sorry I make people's day a little bit better! What do you do all day? Yell at people online?"
     lu ""
 
-# game/scripts/kali_events.rpy:8761
+# game/scripts/kali_events.rpy:8759
 translate pt_br lukalbeach_6a7fdf24:
 
     # k "Yep."
     k ""
 
-# game/scripts/kali_events.rpy:8762
+# game/scripts/kali_events.rpy:8760
 translate pt_br lukalbeach_f99c88d7:
 
     # lu "And she doesn't even have shame about it!"
     lu ""
 
-# game/scripts/kali_events.rpy:8763
+# game/scripts/kali_events.rpy:8761
 translate pt_br lukalbeach_c7427552:
 
     # k "*sigh*... can we go now? I'm getting burnt out here..."
     k ""
 
-# game/scripts/kali_events.rpy:8764
+# game/scripts/kali_events.rpy:8762
 translate pt_br lukalbeach_5c353cc7:
 
     # c "I can put some sunscreen on you."
     c ""
 
-# game/scripts/kali_events.rpy:8765
+# game/scripts/kali_events.rpy:8763
 translate pt_br lukalbeach_bc3ab85d:
 
     # k "Uhhhm..."
     k ""
 
-# game/scripts/kali_events.rpy:8766
+# game/scripts/kali_events.rpy:8764
 translate pt_br lukalbeach_eaae88a8:
 
     # lu "Yeah! You're not getting out of this that easy, Kali! I bet it'll even make you hornyyy~"
     lu ""
 
-# game/scripts/kali_events.rpy:8767
+# game/scripts/kali_events.rpy:8765
 translate pt_br lukalbeach_0d7e868e:
 
     # k "Ugh... you're so gross. \nFine, I don't want to get sunburnt."
     k ""
 
-# game/scripts/kali_events.rpy:8769
+# game/scripts/kali_events.rpy:8767
 translate pt_br lukalbeach_c9d39aed:
 
     # lu "Want my advice? Take your bikini off, you don't want tanlines."
     lu ""
 
-# game/scripts/kali_events.rpy:8770
+# game/scripts/kali_events.rpy:8768
 translate pt_br lukalbeach_81dc28e3:
 
     # k "Shut up, you know I'm not doing that."
     k ""
 
-# game/scripts/kali_events.rpy:8771
+# game/scripts/kali_events.rpy:8769
 translate pt_br lukalbeach_b445b1f3:
 
     # lu "Awww, come on..."
     lu ""
 
-# game/scripts/kali_events.rpy:8772
+# game/scripts/kali_events.rpy:8770
 translate pt_br lukalbeach_17a33c16:
 
     # c "Ready?"
     c ""
 
-# game/scripts/kali_events.rpy:8774
+# game/scripts/kali_events.rpy:8772
 translate pt_br lukalbeach_ee1f0c2a:
 
     # k "Yeah, get it over with... and don't get any ideas like last time... my top stays on this time."
     k ""
 
-# game/scripts/kali_events.rpy:8775
+# game/scripts/kali_events.rpy:8773
 translate pt_br lukalbeach_6467ac6d:
 
     # lu "And what am I supposed to do? Just get sunburnt?"
     lu ""
 
-# game/scripts/kali_events.rpy:8776
+# game/scripts/kali_events.rpy:8774
 translate pt_br lukalbeach_ffeeee2f:
 
     # k "Put it on yourself."
     k ""
 
-# game/scripts/kali_events.rpy:8777
+# game/scripts/kali_events.rpy:8775
 translate pt_br lukalbeach_b8e59c10:
 
     # lu "Or maybe [name] can do it for me? Heheh..."
     lu ""
 
-# game/scripts/kali_events.rpy:8778
+# game/scripts/kali_events.rpy:8776
 translate pt_br lukalbeach_e8d022b6:
 
     # k "No chance."
     k ""
 
-# game/scripts/kali_events.rpy:8783
+# game/scripts/kali_events.rpy:8781
 translate pt_br lukali_menu_40651bc8:
 
     # k "Careful..."
     k ""
 
-# game/scripts/kali_events.rpy:8784
+# game/scripts/kali_events.rpy:8782
 translate pt_br lukali_menu_4eae29e3:
 
     # c "I know what I'm doing, just relax."
     c ""
 
-# game/scripts/kali_events.rpy:8785
+# game/scripts/kali_events.rpy:8783
 translate pt_br lukali_menu_4e41f052:
 
     # k "Well, okay... just don't miss anywhere, I burn very easily."
     k ""
 
-# game/scripts/kali_events.rpy:8793
+# game/scripts/kali_events.rpy:8791
 translate pt_br lukali_menu_00a24c2b:
 
     # k "Mmmh... that feels kind of nice actually..."
     k ""
 
-# game/scripts/kali_events.rpy:8794
+# game/scripts/kali_events.rpy:8792
 translate pt_br lukali_menu_c35e7e62:
 
     # lu "I told you that you would like it."
     lu ""
 
-# game/scripts/kali_events.rpy:8795
+# game/scripts/kali_events.rpy:8793
 translate pt_br lukali_menu_2d7bcdc7:
 
     # k "No, you said it would make me horny. Which is not what I want in public..."
     k ""
 
-# game/scripts/kali_events.rpy:8796
+# game/scripts/kali_events.rpy:8794
 translate pt_br lukali_menu_7909e463:
 
     # k "Do you get off on the idea of the press catching you or something?"
     k ""
 
-# game/scripts/kali_events.rpy:8797
+# game/scripts/kali_events.rpy:8795
 translate pt_br lukali_menu_46606c73:
 
     # lu "Maybe I like the rush, so what?"
     lu ""
 
-# game/scripts/kali_events.rpy:8798
+# game/scripts/kali_events.rpy:8796
 translate pt_br lukali_menu_74eb8c34:
 
     # k "You're such a weirdo..."
     k ""
 
-# game/scripts/kali_events.rpy:8806
+# game/scripts/kali_events.rpy:8804
 translate pt_br lukali_menu_c960d223:
 
     # k "Ahh... hey, now you're just playing with my tits..."
     k ""
 
-# game/scripts/kali_events.rpy:8807
+# game/scripts/kali_events.rpy:8805
 translate pt_br lukali_menu_72ea1ca4:
 
     # c "Do you want me to stop?"
     c ""
 
-# game/scripts/kali_events.rpy:8808
+# game/scripts/kali_events.rpy:8806
 translate pt_br lukali_menu_9b3b19f6:
 
     # k "Um... no. Just don't do it for too long or people will get suspicious."
     k ""
 
-# game/scripts/kali_events.rpy:8809
+# game/scripts/kali_events.rpy:8807
 translate pt_br lukali_menu_439f3969:
 
     # lu "Now who's the perv..."
     lu ""
 
-# game/scripts/kali_events.rpy:8810
+# game/scripts/kali_events.rpy:8808
 translate pt_br lukali_menu_14e5f849:
 
     # k "Uh, you're the one watching. Get your own boyfriend."
     k ""
 
-# game/scripts/kali_events.rpy:8816
+# game/scripts/kali_events.rpy:8814
 translate pt_br lukali_menu_1ab436ce:
 
     # k "Hey, don't forget my back."
     k ""
 
-# game/scripts/kali_events.rpy:8817
+# game/scripts/kali_events.rpy:8815
 translate pt_br lukali_menu_ffd89b36:
 
     # lu "She means her ass..."
     lu ""
 
-# game/scripts/kali_events.rpy:8818
+# game/scripts/kali_events.rpy:8816
 translate pt_br lukali_menu_36d430c4:
 
     # k "Well, yeah, that too..."
     k ""
 
-# game/scripts/kali_events.rpy:8820
+# game/scripts/kali_events.rpy:8818
 translate pt_br lukali_menu_3c1b08f5:
 
     # k "Mmmh..."
     k ""
 
-# game/scripts/kali_events.rpy:8821
+# game/scripts/kali_events.rpy:8819
 translate pt_br lukali_menu_d1155d17:
 
     # lu "You have a pretty nice ass for someone who sits on it all day."
     lu ""
 
-# game/scripts/kali_events.rpy:8822
+# game/scripts/kali_events.rpy:8820
 translate pt_br lukali_menu_f5409509:
 
     # k "Why are you even looking at it? Mind your own business."
     k ""
 
-# game/scripts/kali_events.rpy:8830
+# game/scripts/kali_events.rpy:8828
 translate pt_br lukali_menu_8190327a:
 
     # lu "Hey [name]! Have you ever fucked her on the beach before? And if not, would you want to?"
     lu ""
 
-# game/scripts/kali_events.rpy:8832
+# game/scripts/kali_events.rpy:8830
 translate pt_br lukali_menu_2fef87b4:
 
     # c "We've done some things..."
     c ""
 
-# game/scripts/kali_events.rpy:8833
+# game/scripts/kali_events.rpy:8831
 translate pt_br lukali_menu_d2406a4c:
 
     # lu "Ohh, is that so?"
     lu ""
 
-# game/scripts/kali_events.rpy:8834
+# game/scripts/kali_events.rpy:8832
 translate pt_br lukali_menu_6d6700f5:
 
     # k "{i}What are you doing? Don't tell her...{/i}"
     k ""
 
-# game/scripts/kali_events.rpy:8835
+# game/scripts/kali_events.rpy:8833
 translate pt_br lukali_menu_15cbc2b0:
 
     # lu "No, tell me! What are you two hiding? Tell me, tell me!"
     lu ""
 
-# game/scripts/kali_events.rpy:8836
+# game/scripts/kali_events.rpy:8834
 translate pt_br lukali_menu_adfcf331:
 
     # c "I'll leave it to your imagination."
     c ""
 
-# game/scripts/kali_events.rpy:8837
+# game/scripts/kali_events.rpy:8835
 translate pt_br lukali_menu_88d258c7:
 
     # lu "*gasp*! So mean~\n...But kinda hotter?"
     lu ""
 
-# game/scripts/kali_events.rpy:8841
+# game/scripts/kali_events.rpy:8839
 translate pt_br lukali_menu_76df9c9b:
 
     # lu "I bet you could tell her to do anything and she would... Maybe even spread her pussy for you, right here."
     lu ""
 
-# game/scripts/kali_events.rpy:8842
+# game/scripts/kali_events.rpy:8840
 translate pt_br lukali_menu_b435fc73:
 
     # k "Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:8843
+# game/scripts/kali_events.rpy:8841
 translate pt_br lukali_menu_aa4dd0a8:
 
     # lu "That wasn't a no!"
     lu ""
 
-# game/scripts/kali_events.rpy:8844
+# game/scripts/kali_events.rpy:8842
 translate pt_br lukali_menu_a858aade:
 
     # k "Shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:8845
+# game/scripts/kali_events.rpy:8843
 translate pt_br lukali_menu_7f6f25e0:
 
     # lu "I knew you were a slut in the sheets, heheh!"
     lu ""
 
-# game/scripts/kali_events.rpy:8849
+# game/scripts/kali_events.rpy:8847
 translate pt_br lukali_menu_cd6c938b:
 
     # k "Ugh, don't answer that..."
     k ""
 
-# game/scripts/kali_events.rpy:8850
+# game/scripts/kali_events.rpy:8848
 translate pt_br lukali_menu_d37b003e:
 
     # lu "So you have!"
     lu ""
 
-# game/scripts/kali_events.rpy:8851
+# game/scripts/kali_events.rpy:8849
 translate pt_br lukali_menu_5268bd33:
 
     # k "No! Shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:8852
+# game/scripts/kali_events.rpy:8850
 translate pt_br lukali_menu_e3fd6a6f:
 
     # lu "Well maybe you should..."
     lu ""
 
-# game/scripts/kali_events.rpy:8853
+# game/scripts/kali_events.rpy:8851
 translate pt_br lukali_menu_33f183a7:
 
     # k "No, we shouldn't."
     k ""
 
-# game/scripts/kali_events.rpy:8854
+# game/scripts/kali_events.rpy:8852
 translate pt_br lukali_menu_1b216bb8:
 
     # lu "Hmph, fine..."
     lu ""
 
-# game/scripts/kali_events.rpy:8858
+# game/scripts/kali_events.rpy:8856
 translate pt_br lukali_menu_de340323:
 
     # q "*gasp*! Lucy? Is that you!?"
     q ""
 
-# game/scripts/kali_events.rpy:8860
+# game/scripts/kali_events.rpy:8858
 translate pt_br lukali_menu_c3292137:
 
     # lu "Hm? Oh hey!"
     lu ""
 
-# game/scripts/kali_events.rpy:8861
+# game/scripts/kali_events.rpy:8859
 translate pt_br lukali_menu_c35a641d:
 
     # q "Oh my god, it is! I didn't know you were in Syl'anar again!"
     q ""
 
-# game/scripts/kali_events.rpy:8862
+# game/scripts/kali_events.rpy:8860
 translate pt_br lukali_menu_c9d2dea3:
 
     # lu "Yeah, I kinda moved here..."
     lu ""
 
-# game/scripts/kali_events.rpy:8863
+# game/scripts/kali_events.rpy:8861
 translate pt_br lukali_menu_3bc64578:
 
     # q "No way, good for you! I would have invited you but I didn't know!"
     q ""
 
-# game/scripts/kali_events.rpy:8865
+# game/scripts/kali_events.rpy:8863
 translate pt_br lukali_menu_b5328f1e:
 
     # q "Oh... who's that? Do you have a sister?"
     q ""
 
-# game/scripts/kali_events.rpy:8866
+# game/scripts/kali_events.rpy:8864
 translate pt_br lukali_menu_2fd0a19a:
 
     # lu "Yep, that's Kali my older sister, and her boyfriend [name]."
     lu ""
 
-# game/scripts/kali_events.rpy:8868
+# game/scripts/kali_events.rpy:8866
 translate pt_br lukali_menu_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:8869
+# game/scripts/kali_events.rpy:8867
 translate pt_br lukali_menu_0f073f3c:
 
     # k "Um, hi..."
     k ""
 
-# game/scripts/kali_events.rpy:8870
+# game/scripts/kali_events.rpy:8868
 translate pt_br lukali_menu_2bcc950e:
 
     # q "Hey! What are you doing?"
     q ""
 
-# game/scripts/kali_events.rpy:8871
+# game/scripts/kali_events.rpy:8869
 translate pt_br lukali_menu_48957d79:
 
     # k "Uh, just- uh... I sunburn easily..."
     k ""
 
-# game/scripts/kali_events.rpy:8872
+# game/scripts/kali_events.rpy:8870
 translate pt_br lukali_menu_f70b92d2:
 
     # q "Oh... okay."
     q ""
 
-# game/scripts/kali_events.rpy:8874
+# game/scripts/kali_events.rpy:8872
 translate pt_br lukali_menu_c340a27a:
 
     # belle "I can't believe Lucy never mentioned you! I'm Belle by the way, it's short for Isabelle."
     belle ""
 
-# game/scripts/kali_events.rpy:8875
+# game/scripts/kali_events.rpy:8873
 translate pt_br lukali_menu_03b20eda:
 
     # zara "Zara."
     zara ""
 
-# game/scripts/kali_events.rpy:8876
+# game/scripts/kali_events.rpy:8874
 translate pt_br lukali_menu_ac462f83:
 
     # k "Well, I can..."
     k ""
 
-# game/scripts/kali_events.rpy:8877
+# game/scripts/kali_events.rpy:8875
 translate pt_br lukali_menu_a85cd0ce:
 
     # lu "Ugh, she's just not very social... \nYou know you wouldn't have wanted to meet them, Kali."
     lu ""
 
-# game/scripts/kali_events.rpy:8878
-translate pt_br lukali_menu_be49f075:
+# game/scripts/kali_events.rpy:8876
+translate pt_br lukali_menu_6dd1ddad:
 
-    # k "You could have at least mentioned you had a sister..."
-    k ""
+    # belle "You could have at least mentioned you had a sister..."
+    belle ""
 
-# game/scripts/kali_events.rpy:8881
+# game/scripts/kali_events.rpy:8879
 translate pt_br lukali_menu_393f0377:
 
     # zara "Hey, I know you."
     zara ""
 
-# game/scripts/kali_events.rpy:8882
+# game/scripts/kali_events.rpy:8880
 translate pt_br lukali_menu_451df294:
 
     # c "Hey Zara."
     c ""
 
-# game/scripts/kali_events.rpy:8883
+# game/scripts/kali_events.rpy:8881
 translate pt_br lukali_menu_71a6a096:
 
     # zara "You remembered my name, I'm surprised."
     zara ""
 
-# game/scripts/kali_events.rpy:8884
+# game/scripts/kali_events.rpy:8882
 translate pt_br lukali_menu_652ac261:
 
     # belle "Oh, how do you know each other?"
     belle ""
 
-# game/scripts/kali_events.rpy:8885
+# game/scripts/kali_events.rpy:8883
 translate pt_br lukali_menu_00af8a4d:
 
     # zara "We met at some local bowling alley a while ago. He stopped me from drinking myself stupid."
     zara ""
 
-# game/scripts/kali_events.rpy:8886
+# game/scripts/kali_events.rpy:8884
 translate pt_br lukali_menu_549b06ce:
 
     # belle "Small world!"
     belle ""
 
-# game/scripts/kali_events.rpy:8890
+# game/scripts/kali_events.rpy:8888
 translate pt_br lukali_menu_820bd25c:
 
     # lu "So what are you all doing here?"
     lu ""
 
-# game/scripts/kali_events.rpy:8891
+# game/scripts/kali_events.rpy:8889
 translate pt_br lukali_menu_29e78f5c:
 
     # belle "Caliber has some of the best beaches in the world! How could we {i}not{/i} be here?"
     belle ""
 
-# game/scripts/kali_events.rpy:8892
+# game/scripts/kali_events.rpy:8890
 translate pt_br lukali_menu_0a16ff15:
 
     # zara "We were invited to a party nearby. Nothing crazy, but it is invite only. You could all probably come though, I don't think he would mind."
     zara ""
 
-# game/scripts/kali_events.rpy:8893
+# game/scripts/kali_events.rpy:8891
 translate pt_br lukali_menu_fc25bb0b:
 
     # k "Oh, uh..."
     k ""
 
-# game/scripts/kali_events.rpy:8894
+# game/scripts/kali_events.rpy:8892
 translate pt_br lukali_menu_3febadab:
 
     # lu "Yeah, sorry... I would love to but I don't think my boring sister would have any fun. I'm going to have to pass for now, but thanks!"
     lu ""
 
-# game/scripts/kali_events.rpy:8895
+# game/scripts/kali_events.rpy:8893
 translate pt_br lukali_menu_840cde85:
 
     # belle "Awww, okay! Maybe we could grab a drink though? It's been a while! We should catch up!"
     belle ""
 
-# game/scripts/kali_events.rpy:8897
+# game/scripts/kali_events.rpy:8895
 translate pt_br lukali_menu_c8f842ea:
 
     # q "Hey? We're sort of on a strict schedule here. We can't miss this. If we're late we won't get any pictures with him."
     q ""
 
-# game/scripts/kali_events.rpy:8898
+# game/scripts/kali_events.rpy:8896
 translate pt_br lukali_menu_07520c04:
 
     # belle "Oh you're right! He won't be there all day will he! Ugh!"
     belle ""
 
-# game/scripts/kali_events.rpy:8900
+# game/scripts/kali_events.rpy:8898
 translate pt_br lukali_menu_84f29f04:
 
     # belle "Sorry girl, we gotta go! Are you sure you don't want to come?"
     belle ""
 
-# game/scripts/kali_events.rpy:8901
+# game/scripts/kali_events.rpy:8899
 translate pt_br lukali_menu_b37c5b1d:
 
     # lu "Wait, who are you going to see?"
     lu ""
 
-# game/scripts/kali_events.rpy:8902
+# game/scripts/kali_events.rpy:8900
 translate pt_br lukali_menu_4e727673:
 
     # belle "THE Jack Rider!"
     belle ""
 
-# game/scripts/kali_events.rpy:8903
+# game/scripts/kali_events.rpy:8901
 translate pt_br lukali_menu_5c1c043f:
 
     # lu "*gasp*! No way! How did you get an invite?"
     lu ""
 
-# game/scripts/kali_events.rpy:8904
+# game/scripts/kali_events.rpy:8902
 translate pt_br lukali_menu_8ff8b424:
 
     # belle "Oh, we used to have a little thing a while back... let's just say it didn't end on good terms. I guess this is his way of saying sorry, or an attempt to get back with me..."
     belle ""
 
-# game/scripts/kali_events.rpy:8905
+# game/scripts/kali_events.rpy:8903
 translate pt_br lukali_menu_6636f5b7:
 
     # k "Uh, who?"
     k ""
 
-# game/scripts/kali_events.rpy:8906
+# game/scripts/kali_events.rpy:8904
 translate pt_br lukali_menu_7ca15f51:
 
     # lu "He's a famous actor Kali, how have you not heard of him? *sigh*... I wish I could go."
     lu ""
 
-# game/scripts/kali_events.rpy:8907
+# game/scripts/kali_events.rpy:8905
 translate pt_br lukali_menu_e8a81c88:
 
     # k "You don't have to miss it just for me, [name] and I can go back home if you really want to meet Jack Rider."
     k ""
 
-# game/scripts/kali_events.rpy:8908
+# game/scripts/kali_events.rpy:8906
 translate pt_br lukali_menu_3230a15e:
 
     # lu "Well... okay then! Let's do it!"
     lu ""
 
-# game/scripts/kali_events.rpy:8909
+# game/scripts/kali_events.rpy:8907
 translate pt_br lukali_menu_93644867:
 
     # belle "Yay! Come on, we don't want to be late!"
     belle ""
 
-# game/scripts/kali_events.rpy:8911
+# game/scripts/kali_events.rpy:8909
 translate pt_br lukali_menu_74ac2dc3:
 
     # lu "Okay, bye Kali, bye [name]! I'll be home by midnight!"
     lu ""
 
-# game/scripts/kali_events.rpy:8912
+# game/scripts/kali_events.rpy:8910
 translate pt_br lukali_menu_9a106081:
 
     # k "*sigh*, typical..."
     k ""
 
-# game/scripts/kali_events.rpy:8915
+# game/scripts/kali_events.rpy:8913
 translate pt_br lukali_menu_7719a38d:
 
     # k "Well, now at least we can go home...\nI actually didn't have the {i}worst{/i} time possible... not as bad as I thought it would be anyway. Much better with you around."
     k ""
 
-# game/scripts/kali_events.rpy:8916
+# game/scripts/kali_events.rpy:8914
 translate pt_br lukali_menu_66d1d184:
 
     # c "I'm glad I could help. Are you sure you want to go back home already?"
     c ""
 
-# game/scripts/kali_events.rpy:8917
+# game/scripts/kali_events.rpy:8915
 translate pt_br lukali_menu_fcda2b95:
 
     # k "I guess... I don't know, what do you want to do?"
     k ""
 
-# game/scripts/kali_events.rpy:8918
+# game/scripts/kali_events.rpy:8916
 translate pt_br lukali_menu_349a5129:
 
     # c "We could go to Bernie's and play a round of bowling."
     c ""
 
-# game/scripts/kali_events.rpy:8919
+# game/scripts/kali_events.rpy:8917
 translate pt_br lukali_menu_95837c4b:
 
     # k "Hmmm... that actually doesn't sound too bad. But only one game."
     k ""
 
-# game/scripts/kali_events.rpy:8922
+# game/scripts/kali_events.rpy:8920
 translate pt_br lukali_menu_0aeb9ce0:
 
     # k "Hmph, now this is something I can actually enjoy."
     k ""
 
-# game/scripts/kali_events.rpy:8923
+# game/scripts/kali_events.rpy:8921
 translate pt_br lukali_menu_5ec7c73d:
 
     # k "Get serious, [name], because I'm not going easy!"
     k ""
 
-# game/scripts/kali_events.rpy:8924
+# game/scripts/kali_events.rpy:8922
 translate pt_br lukali_menu_98ede918:
 
     # c "You're on."
     c ""
 
-# game/scripts/kali_events.rpy:8926
+# game/scripts/kali_events.rpy:8924
 translate pt_br lukali_menu_b616f349:
 
     # "As you watch Kali play, you notice how much calmer she is here than at the crowded beach. Now you can tell she's in the zone, her only focus is the game, and she's pretty good at it."
     ""
 
-# game/scripts/kali_events.rpy:8928
+# game/scripts/kali_events.rpy:8926
 translate pt_br lukali_menu_456c26dc:
 
     # k "Haha, that was fun [name]... thank you."
     k ""
 
-# game/scripts/kali_events.rpy:8929
+# game/scripts/kali_events.rpy:8927
 translate pt_br lukali_menu_01c5f266:
 
     # c "Of course, are you ready to head back home now?"
     c ""
 
-# game/scripts/kali_events.rpy:8930
+# game/scripts/kali_events.rpy:8928
 translate pt_br lukali_menu_5240d62c:
 
     # k "Yeah... I could use a nap."
     k ""
 
-# game/scripts/kali_events.rpy:8939
+# game/scripts/kali_events.rpy:8937
 translate pt_br kalipinups_c2dd59d7:
 
     # k "So... What should I wear?"
     k ""
 
-# game/scripts/kali_events.rpy:8944
+# game/scripts/kali_events.rpy:8942
 translate pt_br kpinups_22c719b5:
 
     # k "Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:8946
+# game/scripts/kali_events.rpy:8944
 translate pt_br kpinups_d261ac68:
 
     # k "Is this a good smile?"
     k ""
 
-# game/scripts/kali_events.rpy:8951
+# game/scripts/kali_events.rpy:8949
 translate pt_br kpinups_6dde567e:
 
     # k "This is sexy, right?"
     k ""
 
-# game/scripts/kali_events.rpy:8956
+# game/scripts/kali_events.rpy:8954
 translate pt_br kpinups_7c16faa0:
 
     # k "Hey, I'm doing good, right?"
     k ""
 
-# game/scripts/kali_events.rpy:8957
+# game/scripts/kali_events.rpy:8955
 translate pt_br kpinups_6b872495:
 
     # c "You're doing great."
     c ""
 
-# game/scripts/kali_events.rpy:8962
+# game/scripts/kali_events.rpy:8960
 translate pt_br kpinups_978ece2e:
 
     # k "Now for the panty shot..."
     k ""
 
-# game/scripts/kali_events.rpy:8967
+# game/scripts/kali_events.rpy:8965
 translate pt_br kpinups_60b0ef2d:
 
     # k "This is kind of embarrassing..."
     k ""
 
-# game/scripts/kali_events.rpy:8971
+# game/scripts/kali_events.rpy:8969
 translate pt_br kpinups_8a1a9855:
 
     # c "Okay, we're done."
     c ""
 
-# game/scripts/kali_events.rpy:8973
+# game/scripts/kali_events.rpy:8971
 translate pt_br kpinups_5057f957:
 
     # k "That was exhausting... I hope you like them."
     k ""
 
-# game/scripts/kali_events.rpy:8976
+# game/scripts/kali_events.rpy:8974
 translate pt_br kpinups_9888278b:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:8981
+# game/scripts/kali_events.rpy:8979
 translate pt_br kpinups_142c1d49:
 
     # k "Oh, Okay."
     k ""
 
-# game/scripts/kali_events.rpy:8983
+# game/scripts/kali_events.rpy:8981
 translate pt_br kpinups_a71458b7:
 
     # k "Gotta look sexy..."
     k ""
 
-# game/scripts/kali_events.rpy:8988
+# game/scripts/kali_events.rpy:8986
 translate pt_br kpinups_57f53a3c:
 
     # k "Inviting, right?"
     k ""
 
-# game/scripts/kali_events.rpy:8993
+# game/scripts/kali_events.rpy:8991
 translate pt_br kpinups_eeb33c15:
 
     # k "How about this?"
     k ""
 
-# game/scripts/kali_events.rpy:8998
+# game/scripts/kali_events.rpy:8996
 translate pt_br kpinups_5e6a4071:
 
     # k "Oh, I should tease you, right?"
     k ""
 
-# game/scripts/kali_events.rpy:9003
+# game/scripts/kali_events.rpy:9001
 translate pt_br kpinups_c5f2fb44:
 
     # k "Mmmh, how is this"
     k ""
 
-# game/scripts/kali_events.rpy:9007
+# game/scripts/kali_events.rpy:9005
 translate pt_br kpinups_8a1a9855_1:
 
     # c "Okay, we're done."
     c ""
 
-# game/scripts/kali_events.rpy:9009
+# game/scripts/kali_events.rpy:9007
 translate pt_br kpinups_5057f957_1:
 
     # k "That was exhausting... I hope you like them."
     k ""
 
-# game/scripts/kali_events.rpy:9013
+# game/scripts/kali_events.rpy:9011
 translate pt_br kpinups_aca03fae:
 
     # k "What? You're not taking pictures of me nude!"
     k ""
 
-# game/scripts/kali_events.rpy:9020
+# game/scripts/kali_events.rpy:9018
 translate pt_br kpinups_142c1d49_1:
 
     # k "Oh, Okay."
     k ""
 
-# game/scripts/kali_events.rpy:9022
+# game/scripts/kali_events.rpy:9020
 translate pt_br kpinups_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:9027
+# game/scripts/kali_events.rpy:9025
 translate pt_br kpinups_1c347e53:
 
     # k "I don't want anyone seeing these..."
     k ""
 
-# game/scripts/kali_events.rpy:9032
+# game/scripts/kali_events.rpy:9030
 translate pt_br kpinups_298b3afa:
 
     # k "How's this?"
     k ""
 
-# game/scripts/kali_events.rpy:9037
+# game/scripts/kali_events.rpy:9035
 translate pt_br kpinups_2bafd767:
 
     # k "I'm sexy... right?"
     k ""
 
-# game/scripts/kali_events.rpy:9042
+# game/scripts/kali_events.rpy:9040
 translate pt_br kpinups_36473f3e:
 
     # k "How's my ass? Haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9046
+# game/scripts/kali_events.rpy:9044
 translate pt_br kpinups_8a1a9855_2:
 
     # c "Okay, we're done."
     c ""
 
-# game/scripts/kali_events.rpy:9048
+# game/scripts/kali_events.rpy:9046
 translate pt_br kpinups_5057f957_2:
 
     # k "That was exhausting... I hope you like them."
     k ""
 
-# game/scripts/kali_events.rpy:9051
+# game/scripts/kali_events.rpy:9049
 translate pt_br kpinups_9888278b_1:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:9055
+# game/scripts/kali_events.rpy:9053
 translate pt_br kpinups_4a73253b:
 
     # k "Oh, well, okay. I'll put it on."
     k ""
 
-# game/scripts/kali_events.rpy:9057
+# game/scripts/kali_events.rpy:9055
 translate pt_br kpinups_da941927:
 
     # k "What do you think? I can stretch pretty well now..."
     k ""
 
-# game/scripts/kali_events.rpy:9062
+# game/scripts/kali_events.rpy:9060
 translate pt_br kpinups_9be5ef09:
 
     # k "I guess I should let my tits out, right? Haha."
     k ""
 
-# game/scripts/kali_events.rpy:9067
+# game/scripts/kali_events.rpy:9065
 translate pt_br kpinups_0383785c:
 
     # k "God, I'm such a fucking slut..."
     k ""
 
-# game/scripts/kali_events.rpy:9072
+# game/scripts/kali_events.rpy:9070
 translate pt_br kpinups_82cc1331:
 
     # k "I'm doing good, right?"
     k ""
 
-# game/scripts/kali_events.rpy:9077
+# game/scripts/kali_events.rpy:9075
 translate pt_br kpinups_729cdf89:
 
     # k "How's this for an ass shot?"
     k ""
 
-# game/scripts/kali_events.rpy:9082
+# game/scripts/kali_events.rpy:9080
 translate pt_br kpinups_9b95ee30:
 
     # k "Ready for the taking..."
     k ""
 
-# game/scripts/kali_events.rpy:9086
+# game/scripts/kali_events.rpy:9084
 translate pt_br kpinups_8a1a9855_3:
 
     # c "Okay, we're done."
     c ""
 
-# game/scripts/kali_events.rpy:9088
+# game/scripts/kali_events.rpy:9086
 translate pt_br kpinups_5057f957_3:
 
     # k "That was exhausting... I hope you like them."
     k ""
 
-# game/scripts/kali_events.rpy:9096
+# game/scripts/kali_events.rpy:9094
 translate pt_br kpindoneslut_762cde20:
 
     # "You spend some time posting pictures of Kali, eventually you find a buyer. He paid..."
     ""
 
-# game/scripts/kali_events.rpy:9100
+# game/scripts/kali_events.rpy:9098
 translate pt_br kpindoneslut_3f7d52d3:
 
     # "$50!"
     ""
 
-# game/scripts/kali_events.rpy:9101
+# game/scripts/kali_events.rpy:9099
 translate pt_br kpindoneslut_68fc26db:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9102
+# game/scripts/kali_events.rpy:9100
 translate pt_br kpindoneslut_207a1f0e:
 
     # buyer "What a whore! What a slut! How much would it cost for a night with her?"
     buyer ""
 
-# game/scripts/kali_events.rpy:9105
+# game/scripts/kali_events.rpy:9103
 translate pt_br kpindoneslut_b3693902:
 
     # "$40!"
     ""
 
-# game/scripts/kali_events.rpy:9106
+# game/scripts/kali_events.rpy:9104
 translate pt_br kpindoneslut_68fc26db_1:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9107
+# game/scripts/kali_events.rpy:9105
 translate pt_br kpindoneslut_d21637bf:
 
     # buyer "I prefer the more... modest type. But hey! I'm a returning fan!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9110
+# game/scripts/kali_events.rpy:9108
 translate pt_br kpindoneslut_3d581ba5:
 
     # "$45!"
     ""
 
-# game/scripts/kali_events.rpy:9111
+# game/scripts/kali_events.rpy:9109
 translate pt_br kpindoneslut_68fc26db_2:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9112
+# game/scripts/kali_events.rpy:9110
 translate pt_br kpindoneslut_664a15bc:
 
     # buyer "Ummm... I think I'm on the wrong website? How do I close the window?"
     buyer ""
 
-# game/scripts/kali_events.rpy:9115
+# game/scripts/kali_events.rpy:9113
 translate pt_br kpindoneslut_3d581ba5_1:
 
     # "$45!"
     ""
 
-# game/scripts/kali_events.rpy:9116
+# game/scripts/kali_events.rpy:9114
 translate pt_br kpindoneslut_68fc26db_3:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9117
+# game/scripts/kali_events.rpy:9115
 translate pt_br kpindoneslut_dd2f65b8:
 
     # buyer "She's gorgeous! Her makeup is amazing! I want more!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9120
+# game/scripts/kali_events.rpy:9118
 translate pt_br kpindoneslut_3f7d52d3_1:
 
     # "$50!"
     ""
 
-# game/scripts/kali_events.rpy:9121
+# game/scripts/kali_events.rpy:9119
 translate pt_br kpindoneslut_68fc26db_4:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9122
+# game/scripts/kali_events.rpy:9120
 translate pt_br kpindoneslut_8179903a:
 
     # buyer "Hahahahaha! What a slut! I need more!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9131
+# game/scripts/kali_events.rpy:9129
 translate pt_br kpindonenude_762cde20:
 
     # "You spend some time posting pictures of Kali, eventually you find a buyer. He paid..."
     ""
 
-# game/scripts/kali_events.rpy:9135
+# game/scripts/kali_events.rpy:9133
 translate pt_br kpindonenude_079c6308:
 
     # "$35!"
     ""
 
-# game/scripts/kali_events.rpy:9136
+# game/scripts/kali_events.rpy:9134
 translate pt_br kpindonenude_68fc26db:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9137
+# game/scripts/kali_events.rpy:9135
 translate pt_br kpindonenude_fb4cc549:
 
     # buyer "SHE'S FUCKING PERFECTTTTTTTTT!!!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9140
+# game/scripts/kali_events.rpy:9138
 translate pt_br kpindonenude_f67b2834:
 
     # "$20!"
     ""
 
-# game/scripts/kali_events.rpy:9141
+# game/scripts/kali_events.rpy:9139
 translate pt_br kpindonenude_68fc26db_1:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9142
+# game/scripts/kali_events.rpy:9140
 translate pt_br kpindonenude_978be533:
 
     # buyer "Damn, finally some nudes!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9145
+# game/scripts/kali_events.rpy:9143
 translate pt_br kpindonenude_fed19b7d:
 
     # "$25!"
     ""
 
-# game/scripts/kali_events.rpy:9146
+# game/scripts/kali_events.rpy:9144
 translate pt_br kpindonenude_68fc26db_2:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9147
+# game/scripts/kali_events.rpy:9145
 translate pt_br kpindonenude_30c56226:
 
     # buyer "Ah... The female form. Perfect in every way. I'd hold a door open for her any day. Call me xxx-xxx-xxxx"
     buyer ""
 
-# game/scripts/kali_events.rpy:9150
+# game/scripts/kali_events.rpy:9148
 translate pt_br kpindonenude_fed19b7d_1:
 
     # "$25!"
     ""
 
-# game/scripts/kali_events.rpy:9151
+# game/scripts/kali_events.rpy:9149
 translate pt_br kpindonenude_68fc26db_3:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9152
+# game/scripts/kali_events.rpy:9150
 translate pt_br kpindonenude_c9c0083a:
 
     # buyer "Now that's a girl I would marry!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9155
+# game/scripts/kali_events.rpy:9153
 translate pt_br kpindonenude_9792f749:
 
     # "$30!"
     ""
 
-# game/scripts/kali_events.rpy:9156
+# game/scripts/kali_events.rpy:9154
 translate pt_br kpindonenude_68fc26db_4:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9157
+# game/scripts/kali_events.rpy:9155
 translate pt_br kpindonenude_040a9ea1:
 
     # buyer "There's a lot of girls here, but she's definitely one of the best! I'll be back to buy some more."
     buyer ""
 
-# game/scripts/kali_events.rpy:9167
+# game/scripts/kali_events.rpy:9165
 translate pt_br kpindonebun_762cde20:
 
     # "You spend some time posting pictures of Kali, eventually you find a buyer. He paid..."
     ""
 
-# game/scripts/kali_events.rpy:9171
+# game/scripts/kali_events.rpy:9169
 translate pt_br kpindonebun_8a3f688b:
 
     # "$10!"
     ""
 
-# game/scripts/kali_events.rpy:9172
+# game/scripts/kali_events.rpy:9170
 translate pt_br kpindonebun_68fc26db:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9173
+# game/scripts/kali_events.rpy:9171
 translate pt_br kpindonebun_18313a79:
 
     # buyer "Hey, that's the girl who delivered a pizza to me the other day! Her name is xxxx and she works at xxxx xxxx! (User was banned for this post)"
     buyer ""
 
-# game/scripts/kali_events.rpy:9176
+# game/scripts/kali_events.rpy:9174
 translate pt_br kpindonebun_8a3f688b_1:
 
     # "$10!"
     ""
 
-# game/scripts/kali_events.rpy:9177
+# game/scripts/kali_events.rpy:9175
 translate pt_br kpindonebun_68fc26db_1:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9178
+# game/scripts/kali_events.rpy:9176
 translate pt_br kpindonebun_d3fc705b:
 
     # buyer "I don't really like bunny suits, but she rocked it!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9181
+# game/scripts/kali_events.rpy:9179
 translate pt_br kpindonebun_c9c0bc88:
 
     # "$15!"
     ""
 
-# game/scripts/kali_events.rpy:9182
+# game/scripts/kali_events.rpy:9180
 translate pt_br kpindonebun_68fc26db_2:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9183
+# game/scripts/kali_events.rpy:9181
 translate pt_br kpindonebun_d692a654:
 
     # buyer "Have I seen her before? I feel like I knew her once! More!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9186
+# game/scripts/kali_events.rpy:9184
 translate pt_br kpindonebun_c9c0bc88_1:
 
     # "$15!"
     ""
 
-# game/scripts/kali_events.rpy:9187
+# game/scripts/kali_events.rpy:9185
 translate pt_br kpindonebun_68fc26db_3:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9188
+# game/scripts/kali_events.rpy:9186
 translate pt_br kpindonebun_c194468d:
 
     # buyer "All I can say is WOW! She's perfect! Hey, is she single?"
     buyer ""
 
-# game/scripts/kali_events.rpy:9197
+# game/scripts/kali_events.rpy:9195
 translate pt_br kpindonebra_762cde20:
 
     # "You spend some time posting pictures of Kali, eventually you find a buyer. He paid..."
     ""
 
-# game/scripts/kali_events.rpy:9201
+# game/scripts/kali_events.rpy:9199
 translate pt_br kpindonebra_8a3f688b:
 
     # "$10!"
     ""
 
-# game/scripts/kali_events.rpy:9202
+# game/scripts/kali_events.rpy:9200
 translate pt_br kpindonebra_68fc26db:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9203
+# game/scripts/kali_events.rpy:9201
 translate pt_br kpindonebra_528e9bb0:
 
     # buyer "These were okay. The girl is pretty hot! What's her name? Ah, I probably shouldn't ask that... I would have paid more if she were wearing something more sexy..."
     buyer ""
 
-# game/scripts/kali_events.rpy:9206
+# game/scripts/kali_events.rpy:9204
 translate pt_br kpindonebra_c9c0bc88:
 
     # "$15!"
     ""
 
-# game/scripts/kali_events.rpy:9207
+# game/scripts/kali_events.rpy:9205
 translate pt_br kpindonebra_68fc26db_1:
 
     # "There's a note from the buyer."
     ""
 
-# game/scripts/kali_events.rpy:9208
+# game/scripts/kali_events.rpy:9206
 translate pt_br kpindonebra_da3f7ce0:
 
     # buyer "Wow, she's so sexy! I'll be back! Oh, could you get her to wear something next time? Or maybe... nothing? Haha!"
     buyer ""
 
-# game/scripts/kali_events.rpy:9216
+# game/scripts/kali_events.rpy:9214
 translate pt_br lufuck_723cb436:
 
     # lu "Nnn..."
     lu ""
 
-# game/scripts/kali_events.rpy:9218
+# game/scripts/kali_events.rpy:9216
 translate pt_br lufuck_42009f3d:
 
     # lu "Ahh! Ahh! Ahh!"
     lu ""
 
-# game/scripts/kali_events.rpy:9219
+# game/scripts/kali_events.rpy:9217
 translate pt_br lufuck_108d5b49:
 
     # lu "Ah, fuck! Yes!"
     lu ""
 
-# game/scripts/kali_events.rpy:9220
+# game/scripts/kali_events.rpy:9218
 translate pt_br lufuck_5dd8de57:
 
     # lu "Nnnnn! Haha, do you treat Kali this roughly? Or are you just punishing me for teasing you so much~? Ah!"
     lu ""
 
-# game/scripts/kali_events.rpy:9221
+# game/scripts/kali_events.rpy:9219
 translate pt_br lufuck_05702ef1:
 
     # lu "Haha, hnn! Hahh... Come on, is that all you got? Hahaha..."
     lu ""
 
-# game/scripts/kali_events.rpy:9224
+# game/scripts/kali_events.rpy:9222
 translate pt_br lufuck_4cbbafb0:
 
     # lu "Nnnnn! Ahh... Fuck..."
     lu ""
 
-# game/scripts/kali_events.rpy:9225
+# game/scripts/kali_events.rpy:9223
 translate pt_br lufuck_1d6e617f:
 
     # lu "God... You're just as good as when you took my virginity! Haha! Ahh..."
     lu ""
 
-# game/scripts/kali_events.rpy:9226
+# game/scripts/kali_events.rpy:9224
 translate pt_br lufuck_259891d4:
 
     # lu "Hahh, fuck! Fuck! Fuck! Yes!"
     lu ""
 
-# game/scripts/kali_events.rpy:9228
+# game/scripts/kali_events.rpy:9226
 translate pt_br lufuck_506bbc61:
 
     # lu "Hahhh!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:9229
+# game/scripts/kali_events.rpy:9227
 translate pt_br lufuck_7f6a2ca8:
 
     # lu "Haha! You came all over my back! Awesome!"
     lu ""
 
-# game/scripts/kali_events.rpy:9231
+# game/scripts/kali_events.rpy:9229
 translate pt_br lufuck_07592e2b:
 
     # lu "Tsk... It's all sticky... Damn it [name], I'm going to need to take another shower..."
     lu ""
 
-# game/scripts/kali_events.rpy:9233
+# game/scripts/kali_events.rpy:9231
 translate pt_br lufuck_69ab3f09:
 
     # lu "Haha, I'm just joking! That was fucking hot! I love doing naughty things with my sister's boyfriend, heheh!"
     lu ""
 
-# game/scripts/kali_events.rpy:9239
+# game/scripts/kali_events.rpy:9237
 translate pt_br kalilobbyslutsex_48cd5574:
 
     # k "Mmmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:9241
+# game/scripts/kali_events.rpy:9239
 translate pt_br kalilobbyslutsex_4d3b8575:
 
     # k "This is pretty hot [name]... But let's try not to get Ellen's attention, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9243
+# game/scripts/kali_events.rpy:9241
 translate pt_br kalilobbyslutsex_245d4bb7:
 
     # k "Ahhhnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9244
+# game/scripts/kali_events.rpy:9242
 translate pt_br kalilobbyslutsex_90960d7b:
 
     # k "Hahhh, nnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9245
+# game/scripts/kali_events.rpy:9243
 translate pt_br kalilobbyslutsex_0d7d1ce6:
 
     # k "Fuck yes! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9248
+# game/scripts/kali_events.rpy:9246
 translate pt_br kalilobbyslutsex_f7f343f9:
 
     # k "Mmm! Mmm! Mmmmm!"
     k ""
 
-# game/scripts/kali_events.rpy:9249
+# game/scripts/kali_events.rpy:9247
 translate pt_br kalilobbyslutsex_0a466074:
 
     # k "Are you gonna cum [name]? Hahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9250
+# game/scripts/kali_events.rpy:9248
 translate pt_br kalilobbyslutsex_b724e379:
 
     # k "Come on~ Do it fast! Ellen is going to start getting suspicious. Nnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:9252
+# game/scripts/kali_events.rpy:9250
 translate pt_br kalilobbyslutsex_18d0ad18:
 
     # k "Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9253
+# game/scripts/kali_events.rpy:9251
 translate pt_br kalilobbyslutsex_38689323:
 
     # k "Ahh... Mmm, that was hot..."
     k ""
 
-# game/scripts/kali_events.rpy:9262
+# game/scripts/kali_events.rpy:9260
 translate pt_br kalilobbybunsex_48cd5574:
 
     # k "Mmmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:9264
+# game/scripts/kali_events.rpy:9262
 translate pt_br kalilobbybunsex_4d3b8575:
 
     # k "This is pretty hot [name]... But let's try not to get Ellen's attention, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9266
+# game/scripts/kali_events.rpy:9264
 translate pt_br kalilobbybunsex_245d4bb7:
 
     # k "Ahhhnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9267
+# game/scripts/kali_events.rpy:9265
 translate pt_br kalilobbybunsex_90960d7b:
 
     # k "Hahhh, nnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9268
+# game/scripts/kali_events.rpy:9266
 translate pt_br kalilobbybunsex_0d7d1ce6:
 
     # k "Fuck yes! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9271
+# game/scripts/kali_events.rpy:9269
 translate pt_br kalilobbybunsex_f7f343f9:
 
     # k "Mmm! Mmm! Mmmmm!"
     k ""
 
-# game/scripts/kali_events.rpy:9272
+# game/scripts/kali_events.rpy:9270
 translate pt_br kalilobbybunsex_0a466074:
 
     # k "Are you gonna cum [name]? Hahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9273
+# game/scripts/kali_events.rpy:9271
 translate pt_br kalilobbybunsex_b724e379:
 
     # k "Come on~ Do it fast! Ellen is going to start getting suspicious. Nnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:9275
+# game/scripts/kali_events.rpy:9273
 translate pt_br kalilobbybunsex_18d0ad18:
 
     # k "Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9276
+# game/scripts/kali_events.rpy:9274
 translate pt_br kalilobbybunsex_38689323:
 
     # k "Ahh... Mmm, that was hot..."
     k ""
 
-# game/scripts/kali_events.rpy:9285
+# game/scripts/kali_events.rpy:9283
 translate pt_br kalilobbysex_48cd5574:
 
     # k "Mmmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:9287
+# game/scripts/kali_events.rpy:9285
 translate pt_br kalilobbysex_4d3b8575:
 
     # k "This is pretty hot [name]... But let's try not to get Ellen's attention, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9289
+# game/scripts/kali_events.rpy:9287
 translate pt_br kalilobbysex_245d4bb7:
 
     # k "Ahhhnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9290
+# game/scripts/kali_events.rpy:9288
 translate pt_br kalilobbysex_90960d7b:
 
     # k "Hahhh, nnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9291
+# game/scripts/kali_events.rpy:9289
 translate pt_br kalilobbysex_0d7d1ce6:
 
     # k "Fuck yes! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9294
+# game/scripts/kali_events.rpy:9292
 translate pt_br kalilobbysex_f7f343f9:
 
     # k "Mmm! Mmm! Mmmmm!"
     k ""
 
-# game/scripts/kali_events.rpy:9295
+# game/scripts/kali_events.rpy:9293
 translate pt_br kalilobbysex_0a466074:
 
     # k "Are you gonna cum [name]? Hahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9296
+# game/scripts/kali_events.rpy:9294
 translate pt_br kalilobbysex_b724e379:
 
     # k "Come on~ Do it fast! Ellen is going to start getting suspicious. Nnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:9298
+# game/scripts/kali_events.rpy:9296
 translate pt_br kalilobbysex_18d0ad18:
 
     # k "Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9299
+# game/scripts/kali_events.rpy:9297
 translate pt_br kalilobbysex_38689323:
 
     # k "Ahh... Mmm, that was hot..."
     k ""
 
-# game/scripts/kali_events.rpy:9308
+# game/scripts/kali_events.rpy:9306
 translate pt_br kalislutlobbysex_48cd5574:
 
     # k "Mmmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:9310
+# game/scripts/kali_events.rpy:9308
 translate pt_br kalislutlobbysex_4d3b8575:
 
     # k "This is pretty hot [name]... But let's try not to get Ellen's attention, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9312
+# game/scripts/kali_events.rpy:9310
 translate pt_br kalislutlobbysex_245d4bb7:
 
     # k "Ahhhnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9313
+# game/scripts/kali_events.rpy:9311
 translate pt_br kalislutlobbysex_90960d7b:
 
     # k "Hahhh, nnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:9314
+# game/scripts/kali_events.rpy:9312
 translate pt_br kalislutlobbysex_0d7d1ce6:
 
     # k "Fuck yes! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9317
+# game/scripts/kali_events.rpy:9315
 translate pt_br kalislutlobbysex_f7f343f9:
 
     # k "Mmm! Mmm! Mmmmm!"
     k ""
 
-# game/scripts/kali_events.rpy:9318
+# game/scripts/kali_events.rpy:9316
 translate pt_br kalislutlobbysex_0a466074:
 
     # k "Are you gonna cum [name]? Hahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9319
+# game/scripts/kali_events.rpy:9317
 translate pt_br kalislutlobbysex_b724e379:
 
     # k "Come on~ Do it fast! Ellen is going to start getting suspicious. Nnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:9321
+# game/scripts/kali_events.rpy:9319
 translate pt_br kalislutlobbysex_18d0ad18:
 
     # k "Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9322
+# game/scripts/kali_events.rpy:9320
 translate pt_br kalislutlobbysex_38689323:
 
     # k "Ahh... Mmm, that was hot..."
     k ""
 
-# game/scripts/kali_events.rpy:9331
+# game/scripts/kali_events.rpy:9329
 translate pt_br kalilobbysexsub_868a2c11:
 
     # k "Ahhh! Shit! Mmnnn...! I guess we're not going to even try to be sneaky this time...?"
     k ""
 
-# game/scripts/kali_events.rpy:9332
+# game/scripts/kali_events.rpy:9330
 translate pt_br kalilobbysexsub_dd234fa8:
 
     # k "Hahhh, nnnn... Fuck...!"
     k ""
 
-# game/scripts/kali_events.rpy:9333
+# game/scripts/kali_events.rpy:9331
 translate pt_br kalilobbysexsub_0d7d1ce6:
 
     # k "Fuck yes! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9336
+# game/scripts/kali_events.rpy:9334
 translate pt_br kalilobbysexsub_7d0de17a:
 
     # k "Mmm! Mmm! Ahh... I think Ellen likes watching... Hahh... Mmmmm!"
     k ""
 
-# game/scripts/kali_events.rpy:9337
+# game/scripts/kali_events.rpy:9335
 translate pt_br kalilobbysexsub_9f7dc8b4:
 
     # k "Are you gonna cum, [name]? Hahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9338
+# game/scripts/kali_events.rpy:9336
 translate pt_br kalilobbysexsub_ecaef9d7:
 
     # k "Come on~ Do it fast! Mmmn!"
     k ""
 
-# game/scripts/kali_events.rpy:9340
+# game/scripts/kali_events.rpy:9338
 translate pt_br kalilobbysexsub_18d0ad18:
 
     # k "Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:9341
+# game/scripts/kali_events.rpy:9339
 translate pt_br kalilobbysexsub_38689323:
 
     # k "Ahh... Mmm, that was hot..."
     k ""
 
-# game/scripts/kali_events.rpy:9362
+# game/scripts/kali_events.rpy:9360
 translate pt_br kalilobtv_770bf78f:
 
     # k "Hahaha..."
     k ""
 
-# game/scripts/kali_events.rpy:9364
+# game/scripts/kali_events.rpy:9362
 translate pt_br kalilobtv_c149e35f:
 
     # k "Urgh, seriously!? Use your ult dammit!"
     k ""
 
-# game/scripts/kali_events.rpy:9366
+# game/scripts/kali_events.rpy:9364
 translate pt_br kalilobtv_54137e8d:
 
     # k "Is there anything else on?"
     k ""
 
-# game/scripts/kali_events.rpy:9368
+# game/scripts/kali_events.rpy:9366
 translate pt_br kalilobtv_6c32a810:
 
     # "You and Kali watch a couple of shows. After some time, you both decide to stop, and you take her back to her room."
     ""
 
-# game/scripts/kali_events.rpy:9412
+# game/scripts/kali_events.rpy:9410
 translate pt_br kalihangdone_0242e4e9:
 
     # k "Thanks [name], it was fun."
     k ""
 
-# game/scripts/kali_events.rpy:9440
+# game/scripts/kali_events.rpy:9438
 translate pt_br kalihangdone_86dd2091:
 
     # k "So uh... wanna fuck?"
     k ""
 
-# game/scripts/kali_events.rpy:9443
+# game/scripts/kali_events.rpy:9441
 translate pt_br kalihangdone_506beb95:
 
     # k "...Cool."
     k ""
 
-# game/scripts/kali_events.rpy:9482
+# game/scripts/kali_events.rpy:9480
 translate pt_br kalihangdone_c2d5f093:
 
     # k "*sigh*... Okay."
     k ""
 
-# game/scripts/kali_events.rpy:9512
+# game/scripts/kali_events.rpy:9510
 translate pt_br kalihangdone_2501f29c:
 
     # k "So, um, I was thinking... do you want a boobjob?"
     k ""
 
-# game/scripts/kali_events.rpy:9515
+# game/scripts/kali_events.rpy:9513
 translate pt_br kalihangdone_85e03cd6:
 
     # k "Yeah, alright! Cool..."
     k ""
 
-# game/scripts/kali_events.rpy:9517
+# game/scripts/kali_events.rpy:9515
 translate pt_br kalihangdone_53235d36:
 
     # k "Are you ready [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:9519
+# game/scripts/kali_events.rpy:9517
 translate pt_br kalihangdone_cd1a85e3:
 
     # k "Ahh... my boobs feel funny when your dick is between them..."
     k ""
 
-# game/scripts/kali_events.rpy:9520
+# game/scripts/kali_events.rpy:9518
 translate pt_br kalihangdone_28e18ed7:
 
     # k "Does it feel good [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:9521
+# game/scripts/kali_events.rpy:9519
 translate pt_br kalihangdone_f998e46e:
 
     # k "Heh, I know it does..."
     k ""
 
-# game/scripts/kali_events.rpy:9522
+# game/scripts/kali_events.rpy:9520
 translate pt_br kalihangdone_eefb709b:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
     k ""
 
-# game/scripts/kali_events.rpy:9526
+# game/scripts/kali_events.rpy:9524
 translate pt_br kalihangdone_2464a20c:
 
     # k "Ahh!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:9527
+# game/scripts/kali_events.rpy:9525
 translate pt_br kalihangdone_7f424086:
 
     # k "Mmmm..." with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:9528
+# game/scripts/kali_events.rpy:9526
 translate pt_br kalihangdone_65d9bb66:
 
     # k "You came all over my tits [name]..."
     k ""
 
-# game/scripts/kali_events.rpy:9537
+# game/scripts/kali_events.rpy:9535
 translate pt_br kalihangdone_91cff2a2:
 
     # k "That was fun! Let's do it again some time..."
     k ""
 
-# game/scripts/kali_events.rpy:9570
+# game/scripts/kali_events.rpy:9568
 translate pt_br kalihangdone_8c842a08:
 
     # k "*sigh*... whatever."
     k ""
 
-# game/scripts/kali_events.rpy:9600
+# game/scripts/kali_events.rpy:9598
 translate pt_br kalihangdone_1be886a0:
 
     # k "So, yeah... I had a good time... and... I would feel bad if I didn't give you a good time too. Want a blowjob?"
     k ""
 
-# game/scripts/kali_events.rpy:9603
+# game/scripts/kali_events.rpy:9601
 translate pt_br kalihangdone_2db675d3:
 
     # k "Cool."
     k ""
 
-# game/scripts/kali_events.rpy:9646
+# game/scripts/kali_events.rpy:9644
 translate pt_br kalihangdone_8c842a08_1:
 
     # k "*sigh*... whatever."
     k ""
 
-# game/scripts/kali_events.rpy:9677
+# game/scripts/kali_events.rpy:9675
 translate pt_br kalihangdone_d23b353e:
 
     # k "Hey... I was thinking... do you want to fuck my ass?"
     k ""
 
-# game/scripts/kali_events.rpy:9680
+# game/scripts/kali_events.rpy:9678
 translate pt_br kalihangdone_8358c46c:
 
     # c "Okay~"
     c ""
 
-# game/scripts/kali_events.rpy:9720
+# game/scripts/kali_events.rpy:9718
 translate pt_br kalihangdone_0f0ac6ee:
 
     # k "*sigh*... loser..."
     k ""
 
-# game/scripts/kali_events.rpy:9727
+# game/scripts/kali_events.rpy:9725
 translate pt_br kalihangdone_d07a591f:
 
     # k "See ya next time."
     k ""
 
-# game/scripts/kali_events.rpy:9732
+# game/scripts/kali_events.rpy:9730
 translate pt_br luciafriend_a003834f:
 
     # lu "Boring... Boring... Hmmm..."
     lu ""
 
-# game/scripts/kali_events.rpy:9734
+# game/scripts/kali_events.rpy:9732
 translate pt_br luciafriend_9ebcdcd8:
 
     # lu "Oh, that's a fancy red dress..."
     lu ""
 
-# game/scripts/kali_events.rpy:9735
+# game/scripts/kali_events.rpy:9733
 translate pt_br luciafriend_0e5adc71:
 
     # lu "Oooooh!"
     lu ""
 
-# game/scripts/kali_events.rpy:9737
+# game/scripts/kali_events.rpy:9735
 translate pt_br luciafriend_1b249f6b:
 
     # lu "Who knew you were such a pervert Kali? Hahaha!"
     lu ""
 
-# game/scripts/kali_events.rpy:9738
+# game/scripts/kali_events.rpy:9736
 translate pt_br luciafriend_f0ced7ff:
 
     # lu "Hmmm, guess it runs in the family..."
     lu ""
 
-# game/scripts/kali_events.rpy:9740
+# game/scripts/kali_events.rpy:9738
 translate pt_br luciafriend_e6506abc:
 
     # lu "Oh! Hey [name]."
     lu ""
 
-# game/scripts/kali_events.rpy:9741
+# game/scripts/kali_events.rpy:9739
 translate pt_br luciafriend_506c11b1:
 
     # c "What are you doing?"
     c ""
 
-# game/scripts/kali_events.rpy:9743
+# game/scripts/kali_events.rpy:9741
 translate pt_br luciafriend_e65f807b:
 
     # lu "Ohhhh, nothing... Just finding a place to keep my clothes."
     lu ""
 
-# game/scripts/kali_events.rpy:9745
+# game/scripts/kali_events.rpy:9743
 translate pt_br luciafriend_10a67da6:
 
     # lu "Why? Do you miss your girlfriend already? She'll be back soon..."
     lu ""
 
-# game/scripts/kali_events.rpy:9746
+# game/scripts/kali_events.rpy:9744
 translate pt_br luciafriend_5288ee19:
 
     # c "Should you be going through her stuff?"
     c ""
 
-# game/scripts/kali_events.rpy:9748
+# game/scripts/kali_events.rpy:9746
 translate pt_br luciafriend_2598749a:
 
     # lu "Hmmm... Probably not..."
     lu ""
 
-# game/scripts/kali_events.rpy:9750
+# game/scripts/kali_events.rpy:9748
 translate pt_br luciafriend_c475c0ac:
 
     # lu "But what she doesn't know won't hurt her, right?"
     lu ""
 
-# game/scripts/kali_events.rpy:9752
+# game/scripts/kali_events.rpy:9750
 translate pt_br luciafriend_b6f13cc7:
 
     # lu "She doesn't have much to hide anyway. Unlike our Dad..."
     lu ""
 
-# game/scripts/kali_events.rpy:9753
+# game/scripts/kali_events.rpy:9751
 translate pt_br luciafriend_8af16799:
 
     # lu "I bet she keeps all of her secrets in her computer. If only I knew the password..."
     lu ""
 
-# game/scripts/kali_events.rpy:9754
+# game/scripts/kali_events.rpy:9752
 translate pt_br luciafriend_0f27e0b8:
 
     # lu "She probably watches a ton of porn on that thing. Why else would she have such a big vibrator?"
     lu ""
 
-# game/scripts/kali_events.rpy:9755
+# game/scripts/kali_events.rpy:9753
 translate pt_br luciafriend_04abae41:
 
     # c "I don't think she's used that thing in a long time."
     c ""
 
-# game/scripts/kali_events.rpy:9757
+# game/scripts/kali_events.rpy:9755
 translate pt_br luciafriend_bff0a771:
 
     # lu "Oh? What's that supposed to mean? Keeping her satisfied?"
     lu ""
 
-# game/scripts/kali_events.rpy:9760
+# game/scripts/kali_events.rpy:9758
 translate pt_br luciafriend_c3e8defb:
 
     # lu "Heheheh, I guess there's a side to Kali I never knew."
     lu ""
 
-# game/scripts/kali_events.rpy:9762
+# game/scripts/kali_events.rpy:9760
 translate pt_br luciafriend_e77cab2d:
 
     # lu "You know, I hear two is always better than one."
     lu ""
 
-# game/scripts/kali_events.rpy:9765
+# game/scripts/kali_events.rpy:9763
 translate pt_br luciafriend_9dbd7693:
 
     # lu "Aww, it was just a joke... Don't be so serious."
     lu ""
 
-# game/scripts/kali_events.rpy:9767
+# game/scripts/kali_events.rpy:9765
 translate pt_br luciafriend_ece96b41:
 
     # lu "Hey! Why don't you show me around? Does Kali have any friends here?"
     lu ""
 
-# game/scripts/kali_events.rpy:9768
+# game/scripts/kali_events.rpy:9766
 translate pt_br luciafriend_44b90a01:
 
     # c "I guess she's friendly with Lin."
     c ""
 
-# game/scripts/kali_events.rpy:9769
+# game/scripts/kali_events.rpy:9767
 translate pt_br luciafriend_0bbecf94:
 
     # lu "*gasp*! So she does have friends! You've got to take her to me, I would love to meet her!"
     lu ""
 
-# game/scripts/kali_events.rpy:9770
+# game/scripts/kali_events.rpy:9768
 translate pt_br luciafriend_b2372adf:
 
     # c "She may be a bit busy right now."
     c ""
 
-# game/scripts/kali_events.rpy:9771
+# game/scripts/kali_events.rpy:9769
 translate pt_br luciafriend_40f4f179:
 
     # lu "Aw, come on! Please?"
     lu ""
 
-# game/scripts/kali_events.rpy:9772
+# game/scripts/kali_events.rpy:9770
 translate pt_br luciafriend_a32501a6:
 
     # c "...Alright, I'll see what I can do."
     c ""
 
-# game/scripts/kali_events.rpy:9774
+# game/scripts/kali_events.rpy:9772
 translate pt_br luciafriend_95fd3a8a:
 
     # lu "Thanks cutie..."
     lu ""
 
-# game/scripts/kali_events.rpy:9776
+# game/scripts/kali_events.rpy:9774
 translate pt_br luciafriend_2616a898:
 
     # "You wander the hotel in search for Lin, after finding her you ask her to come visit Kali's room..."
     ""
 
-# game/scripts/kali_events.rpy:9778
+# game/scripts/kali_events.rpy:9776
 translate pt_br luciafriend_d5707e4e:
 
     # l "Um... Who is this [linoname]?"
     l ""
 
-# game/scripts/kali_events.rpy:9779
+# game/scripts/kali_events.rpy:9777
 translate pt_br luciafriend_c843d2d4:
 
     # lu "My name's Lucia, but you can call me Lucy."
     lu ""
 
-# game/scripts/kali_events.rpy:9780
+# game/scripts/kali_events.rpy:9778
 translate pt_br luciafriend_62b7c6e3:
 
     # l "Oh, Hi Lucy. My name is Lin."
     l ""
 
-# game/scripts/kali_events.rpy:9781
+# game/scripts/kali_events.rpy:9779
 translate pt_br luciafriend_963dd53f:
 
     # lu "Hahaha! She would be friends with an Elf..."
     lu ""
 
-# game/scripts/kali_events.rpy:9782
+# game/scripts/kali_events.rpy:9780
 translate pt_br luciafriend_df988f31:
 
     # l "What is that supposed to mean...?"
     l ""
 
-# game/scripts/kali_events.rpy:9783
+# game/scripts/kali_events.rpy:9781
 translate pt_br luciafriend_fba954d0:
 
     # lu "Oh nothing... You're pretty cute though! Like a little toy doll!"
     lu ""
 
-# game/scripts/kali_events.rpy:9785
+# game/scripts/kali_events.rpy:9783
 translate pt_br luciafriend_3f9655b6:
 
     # l "O-Oh! Umm... Thanks?"
     l ""
 
-# game/scripts/kali_events.rpy:9786
+# game/scripts/kali_events.rpy:9784
 translate pt_br luciafriend_a409be60:
 
     # lu "So tell me Lin, what do you and Kali do together?"
     lu ""
 
-# game/scripts/kali_events.rpy:9787
+# game/scripts/kali_events.rpy:9785
 translate pt_br luciafriend_4ebebaa2:
 
     # l "Hmmm... Sometimes we hang out I guess, I watched her play games a couple times and she loves it when I cook her tacos!"
     l ""
 
-# game/scripts/kali_events.rpy:9788
+# game/scripts/kali_events.rpy:9786
 translate pt_br luciafriend_a89ca33d:
 
     # lu "Oh that's boring... Come on, you guys are best friends right? Haven't you done anything more... intimate?"
     lu ""
 
-# game/scripts/kali_events.rpy:9790
+# game/scripts/kali_events.rpy:9788
 translate pt_br luciafriend_6591f4de:
 
     # l "W-What!? N-No!"
     l ""
 
-# game/scripts/kali_events.rpy:9791
+# game/scripts/kali_events.rpy:9789
 translate pt_br luciafriend_b6cfb8a0:
 
     # lu "Ooooh, you're hiding something..."
     lu ""
 
-# game/scripts/kali_events.rpy:9792
+# game/scripts/kali_events.rpy:9790
 translate pt_br luciafriend_01fc63bf:
 
     # l "No I'm not!"
     l ""
 
-# game/scripts/kali_events.rpy:9794
+# game/scripts/kali_events.rpy:9792
 translate pt_br luciafriend_1b2bf967:
 
     # a "What's with all the noise in here!? Who are you!?"
     a ""
 
-# game/scripts/kali_events.rpy:9795
+# game/scripts/kali_events.rpy:9793
 translate pt_br luciafriend_267ec1cf:
 
     # lu "Oh~ There are so many cute girls here."
     lu ""
 
-# game/scripts/kali_events.rpy:9796
+# game/scripts/kali_events.rpy:9794
 translate pt_br luciafriend_631fcd83:
 
     # lu "Who are you? Another one of Kali's friends?"
     lu ""
 
-# game/scripts/kali_events.rpy:9797
+# game/scripts/kali_events.rpy:9795
 translate pt_br luciafriend_7f13bb31:
 
     # a "The better question is who are YOU? And what are you doing in Kali's room?"
     a ""
 
-# game/scripts/kali_events.rpy:9798
+# game/scripts/kali_events.rpy:9796
 translate pt_br luciafriend_57b73f4d:
 
     # lu "I'm Lucy, Kali's sister."
     lu ""
 
-# game/scripts/kali_events.rpy:9799
+# game/scripts/kali_events.rpy:9797
 translate pt_br luciafriend_ab779b40:
 
     # a "Kali has a sister!? We don't need another one of your kind in this place!"
     a ""
 
-# game/scripts/kali_events.rpy:9800
+# game/scripts/kali_events.rpy:9798
 translate pt_br luciafriend_1ff501d6:
 
     # lu "What do you mean my kind?"
     lu ""
 
-# game/scripts/kali_events.rpy:9801
+# game/scripts/kali_events.rpy:9799
 translate pt_br luciafriend_81f25c98:
 
     # a "Big titted sluts like you!"
     a ""
 
-# game/scripts/kali_events.rpy:9802
+# game/scripts/kali_events.rpy:9800
 translate pt_br luciafriend_053780d0:
 
     # lu "Don't worry, I'm sure your breasts will grow, haha!"
     lu ""
 
-# game/scripts/kali_events.rpy:9803
+# game/scripts/kali_events.rpy:9801
 translate pt_br luciafriend_6d8a391e:
 
     # a "Don't laugh at me!"
     a ""
 
-# game/scripts/kali_events.rpy:9805
+# game/scripts/kali_events.rpy:9803
 translate pt_br luciafriend_51a3f971:
 
     # lu "Hey, do you guys want to see some of Kali's pictures when she was fat?"
     lu ""
 
-# game/scripts/kali_events.rpy:9806
+# game/scripts/kali_events.rpy:9804
 translate pt_br luciafriend_828b688c:
 
     # l "She was fat?"
     l ""
 
-# game/scripts/kali_events.rpy:9807
+# game/scripts/kali_events.rpy:9805
 translate pt_br luciafriend_7634ce82:
 
     # a "Wait, you have those kinds of pictures?"
     a ""
 
-# game/scripts/kali_events.rpy:9809
+# game/scripts/kali_events.rpy:9807
 translate pt_br luciafriend_1dc94208:
 
     # lu "Yeah! Wanna see?"
     lu ""
 
-# game/scripts/kali_events.rpy:9810
+# game/scripts/kali_events.rpy:9808
 translate pt_br luciafriend_19dbb902:
 
     # a "Really? I mean... Yes!"
     a ""
 
-# game/scripts/kali_events.rpy:9811
+# game/scripts/kali_events.rpy:9809
 translate pt_br luciafriend_421403b1:
 
     # lu "Cool, come on!"
     lu ""
 
-# game/scripts/kali_events.rpy:9813
+# game/scripts/kali_events.rpy:9811
 translate pt_br luciafriend_a60697b6:
 
     # a "Hehehe! She was so fat!"
     a ""
 
-# game/scripts/kali_events.rpy:9814
+# game/scripts/kali_events.rpy:9812
 translate pt_br luciafriend_9c0cb6f0:
 
     # l "Awww! She's so cute! I just want to hug little fat Kali!"
     l ""
 
-# game/scripts/kali_events.rpy:9815
+# game/scripts/kali_events.rpy:9813
 translate pt_br luciafriend_8ba02bd2:
 
     # a "You should send all of those pictures to me!"
     a ""
 
-# game/scripts/kali_events.rpy:9816
+# game/scripts/kali_events.rpy:9814
 translate pt_br luciafriend_1b1c7f6e:
 
     # lu "She wouldn't like that..."
     lu ""
 
-# game/scripts/kali_events.rpy:9817
+# game/scripts/kali_events.rpy:9815
 translate pt_br luciafriend_c98bf17d:
 
     # a "So? Just send them!"
     a ""
 
-# game/scripts/kali_events.rpy:9818
+# game/scripts/kali_events.rpy:9816
 translate pt_br luciafriend_ecd4b6c3:
 
     # lu "You're not going to do anything bad with these pictures, are you?"
     lu ""
 
-# game/scripts/kali_events.rpy:9819
+# game/scripts/kali_events.rpy:9817
 translate pt_br luciafriend_04ade114:
 
     # a "What? No!"
     a ""
 
-# game/scripts/kali_events.rpy:9820
+# game/scripts/kali_events.rpy:9818
 translate pt_br luciafriend_03ca2737:
 
     # lu "Well okay..."
     lu ""
 
-# game/scripts/kali_events.rpy:9821
+# game/scripts/kali_events.rpy:9819
 translate pt_br luciafriend_0e6f7495:
 
     # a "Hehehe~"
     a ""
 
-# game/scripts/kali_events.rpy:9823
+# game/scripts/kali_events.rpy:9821
 translate pt_br luciafriend_7f6129e2:
 
     # k "What the fuck is going on here?"
     k ""
 
-# game/scripts/kali_events.rpy:9824
+# game/scripts/kali_events.rpy:9822
 translate pt_br luciafriend_f1662ece:
 
     # lu "Kali! What are you doing back? I thought you were at work."
     lu ""
 
-# game/scripts/kali_events.rpy:9825
+# game/scripts/kali_events.rpy:9823
 translate pt_br luciafriend_3f7d45a9:
 
     # k "I forgot my headband..."
     k ""
 
-# game/scripts/kali_events.rpy:9826
+# game/scripts/kali_events.rpy:9824
 translate pt_br luciafriend_cb87743c:
 
     # l "Kali you used to be so fat!"
     l ""
 
-# game/scripts/kali_events.rpy:9827
+# game/scripts/kali_events.rpy:9825
 translate pt_br luciafriend_63849d6f:
 
     # k "W-What?"
     k ""
 
-# game/scripts/kali_events.rpy:9828
+# game/scripts/kali_events.rpy:9826
 translate pt_br luciafriend_a544233a:
 
     # a "Hehehe~ Like a big marshmallow!"
     a ""
 
-# game/scripts/kali_events.rpy:9829
+# game/scripts/kali_events.rpy:9827
 translate pt_br luciafriend_50035e17:
 
     # k "What the fuck did you show them Lucy?"
     k ""
 
-# game/scripts/kali_events.rpy:9830
+# game/scripts/kali_events.rpy:9828
 translate pt_br luciafriend_9f4821ea:
 
     # lu "Whaaat? I thought it was an interesting part of your life..."
     lu ""
 
-# game/scripts/kali_events.rpy:9832
+# game/scripts/kali_events.rpy:9830
 translate pt_br luciafriend_c31fbafd:
 
     # k "S-Shit! You didn't show [name] did you!?"
     k ""
 
-# game/scripts/kali_events.rpy:9833
+# game/scripts/kali_events.rpy:9831
 translate pt_br luciafriend_06a8ea1a:
 
     # lu "Oh don't worry... I knew you wouldn't want me to show him that..."
     lu ""
 
-# game/scripts/kali_events.rpy:9834
+# game/scripts/kali_events.rpy:9832
 translate pt_br luciafriend_a1798267:
 
     # a "Kali you should get fat again! Like REALLY fat!"
     a ""
 
-# game/scripts/kali_events.rpy:9836
+# game/scripts/kali_events.rpy:9834
 translate pt_br luciafriend_798a857a:
 
     # k "Shut up Ashley!"
     k ""
 
-# game/scripts/kali_events.rpy:9837
+# game/scripts/kali_events.rpy:9835
 translate pt_br luciafriend_bf771867:
 
     # k "All of you get out!"
     k ""
 
-# game/scripts/kali_events.rpy:9838
+# game/scripts/kali_events.rpy:9836
 translate pt_br luciafriend_bed134a1:
 
     # a "Hmph! Fine."
     a ""
 
-# game/scripts/kali_events.rpy:9840
+# game/scripts/kali_events.rpy:9838
 translate pt_br luciafriend_23baee2f:
 
     # k "Can I really not leave you alone for 5 minutes without you messing something up?"
     k ""
 
-# game/scripts/kali_events.rpy:9841
+# game/scripts/kali_events.rpy:9839
 translate pt_br luciafriend_0e7f6909:
 
     # lu "Okay, okay... I get it. I'm sorry sis!"
     lu ""
 
-# game/scripts/kali_events.rpy:9842
+# game/scripts/kali_events.rpy:9840
 translate pt_br luciafriend_d36c51b0:
 
     # k "Just stay away from my shit please? And stay away from [name] too."
     k ""
 
-# game/scripts/kali_events.rpy:9843
+# game/scripts/kali_events.rpy:9841
 translate pt_br luciafriend_4904f59c:
 
     # lu "Don't worry, I'm not trying to steal him away from you."
     lu ""
 
-# game/scripts/kali_events.rpy:9845
+# game/scripts/kali_events.rpy:9843
 translate pt_br luciafriend_9c4b0d83:
 
     # lu "But if he wanted to have some fun..."
     lu ""
 
-# game/scripts/kali_events.rpy:9846
+# game/scripts/kali_events.rpy:9844
 translate pt_br luciafriend_c78c5fcd:
 
     # k "Grr..."
     k ""
 
-# game/scripts/kali_events.rpy:9848
+# game/scripts/kali_events.rpy:9846
 translate pt_br luciafriend_de71af90:
 
     # lu "Okay... Fine. No seducing either... You're the boss sis."
     lu ""
 
-# game/scripts/kali_events.rpy:9849
+# game/scripts/kali_events.rpy:9847
 translate pt_br luciafriend_f993cc37:
 
     # k "Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:9850
+# game/scripts/kali_events.rpy:9848
 translate pt_br luciafriend_36de54c1:
 
     # k "Now that that's settled..."
     k ""
 
-# game/scripts/kali_events.rpy:9852
+# game/scripts/kali_events.rpy:9850
 translate pt_br luciafriend_87c1d82d:
 
     # k "I'm going to head back to work now, see you later [name]."
     k ""
 
-# game/scripts/kali_events.rpy:9858
+# game/scripts/kali_events.rpy:9856
 translate pt_br luciajoin_62e123cc:
 
     # k "Hey [name]! I'm just getting ready for work. What's up?"
     k ""
 
-# game/scripts/kali_events.rpy:9859
+# game/scripts/kali_events.rpy:9857
 translate pt_br luciajoin_86655326:
 
     # c "You still wear that?"
     c ""
 
-# game/scripts/kali_events.rpy:9860
+# game/scripts/kali_events.rpy:9858
 translate pt_br luciajoin_ded2d9ba:
 
     # k "Well, yeah of course. I get a lot of tips this way."
     k ""
 
-# game/scripts/kali_events.rpy:9861
+# game/scripts/kali_events.rpy:9859
 translate pt_br luciajoin_4b38db3a:
 
     # c "Does your boss know?"
     c ""
 
-# game/scripts/kali_events.rpy:9862
+# game/scripts/kali_events.rpy:9860
 translate pt_br luciajoin_9278e185:
 
     # k "I tried hiding it from him, but he found out... But after I showed him how much I was making, he was okay with it. In fact, he was thinking about hiring more bunny girls, haha."
     k ""
 
-# game/scripts/kali_events.rpy:9863
+# game/scripts/kali_events.rpy:9861
 translate pt_br luciajoin_752a94ac:
 
     # q "Knock knock! Hello? Are you in there Kali?"
     q ""
 
-# game/scripts/kali_events.rpy:9865
+# game/scripts/kali_events.rpy:9863
 translate pt_br luciajoin_d69c1c74:
 
     # k "Hm? Who's that?"
     k ""
 
-# game/scripts/kali_events.rpy:9866
+# game/scripts/kali_events.rpy:9864
 translate pt_br luciajoin_13afc5c9:
 
     # c "No clue."
     c ""
 
-# game/scripts/kali_events.rpy:9867
+# game/scripts/kali_events.rpy:9865
 translate pt_br luciajoin_8807069f:
 
     # k "It sounds like a woman... And she knows my name..."
     k ""
 
-# game/scripts/kali_events.rpy:9869
+# game/scripts/kali_events.rpy:9867
 translate pt_br luciajoin_cf96fb2a:
 
     # lu "Oh my god, what are you wearing? Haha!"
     lu ""
 
-# game/scripts/kali_events.rpy:9870
+# game/scripts/kali_events.rpy:9868
 translate pt_br luciajoin_38c75a0a:
 
     # k "Lucy!? What the fuck!?"
     k ""
 
-# game/scripts/kali_events.rpy:9871
+# game/scripts/kali_events.rpy:9869
 translate pt_br luciajoin_cabb354d:
 
     # lu "Damn girl! That's a sexy outfit!"
     lu ""
 
-# game/scripts/kali_events.rpy:9873
+# game/scripts/kali_events.rpy:9871
 translate pt_br luciajoin_a8a9147d:
 
     # lu "Oh no! Did I interrupt your alone time with my sister?"
     lu ""
 
-# game/scripts/kali_events.rpy:9874
+# game/scripts/kali_events.rpy:9872
 translate pt_br luciajoin_8a42cd56:
 
     # k "No! Shut up! I was just about to go to work!"
     k ""
 
-# game/scripts/kali_events.rpy:9876
+# game/scripts/kali_events.rpy:9874
 translate pt_br luciajoin_e4ca9f04:
 
     # lu "Oh come on Kali, that's such a bad lie! I know damn well you wouldn't ever go out in public like that..."
     lu ""
 
-# game/scripts/kali_events.rpy:9878
+# game/scripts/kali_events.rpy:9876
 translate pt_br luciajoin_a7c99c40:
 
     # lu "It's fine... I know what lovers do when they're alone. I'm not a child anymore..."
     lu ""
 
-# game/scripts/kali_events.rpy:9879
+# game/scripts/kali_events.rpy:9877
 translate pt_br luciajoin_606a1175:
 
     # k "Whatever!"
     k ""
 
-# game/scripts/kali_events.rpy:9880
+# game/scripts/kali_events.rpy:9878
 translate pt_br luciajoin_a4de5de9:
 
     # k "What are you even doing here?"
     k ""
 
-# game/scripts/kali_events.rpy:9882
+# game/scripts/kali_events.rpy:9880
 translate pt_br luciajoin_925ff507:
 
     # lu "Weeeeeell... It turns out Dad has a mistress. I caught him red handed."
     lu ""
 
-# game/scripts/kali_events.rpy:9883
+# game/scripts/kali_events.rpy:9881
 translate pt_br luciajoin_5c78f8ba:
 
     # k "What? Seriously?"
     k ""
 
-# game/scripts/kali_events.rpy:9884
+# game/scripts/kali_events.rpy:9882
 translate pt_br luciajoin_0fa66b9c:
 
     # lu "I guess we can't really expect Dad to not fool around. Mom's been dead for so long, he's probably really lonely..."
     lu ""
 
-# game/scripts/kali_events.rpy:9885
+# game/scripts/kali_events.rpy:9883
 translate pt_br luciajoin_feea82bc:
 
     # lu "He also probably has a ton of girls trying to get on his good side for a promotion. I'm sure that doesn't help him either."
     lu ""
 
-# game/scripts/kali_events.rpy:9886
+# game/scripts/kali_events.rpy:9884
 translate pt_br luciajoin_db33181c:
 
     # lu "But it's kind of hard to look at him now that I saw... everything."
     lu ""
 
-# game/scripts/kali_events.rpy:9887
+# game/scripts/kali_events.rpy:9885
 translate pt_br luciajoin_c75fc130:
 
     # k "That's rough, sorry you had to see that."
     k ""
 
-# game/scripts/kali_events.rpy:9889
+# game/scripts/kali_events.rpy:9887
 translate pt_br luciajoin_2225e47f:
 
     # lu "It's whatever, now I get to stay with my big sister!"
     lu ""
 
-# game/scripts/kali_events.rpy:9890
+# game/scripts/kali_events.rpy:9888
 translate pt_br luciajoin_aa971bac:
 
     # k "Wait what? Who said you could stay here? How did you even find me?"
     k ""
 
-# game/scripts/kali_events.rpy:9891
+# game/scripts/kali_events.rpy:9889
 translate pt_br luciajoin_fdbb5c12:
 
     # lu "It's pretty easy to find you when I have the internet. And of course you'll let me stay with you! You wouldn't dump your little sister on the street, would you?"
     lu ""
 
-# game/scripts/kali_events.rpy:9892
+# game/scripts/kali_events.rpy:9890
 translate pt_br luciajoin_8710082d:
 
     # k "Do you seriously not have a job yet?"
     k ""
 
-# game/scripts/kali_events.rpy:9893
+# game/scripts/kali_events.rpy:9891
 translate pt_br luciajoin_577ccacd:
 
     # lu "Why would I? I never needed one... Dad let me have anything I needed."
     lu ""
 
-# game/scripts/kali_events.rpy:9894
+# game/scripts/kali_events.rpy:9892
 translate pt_br luciajoin_02422212:
 
     # k "Where would you even sleep?"
     k ""
 
-# game/scripts/kali_events.rpy:9895
+# game/scripts/kali_events.rpy:9893
 translate pt_br luciajoin_29866705:
 
     # lu "Aww, you're not going to let me have the bed? Fine... I brought something anyway, just a little floor mattress."
     lu ""
 
-# game/scripts/kali_events.rpy:9896
+# game/scripts/kali_events.rpy:9894
 translate pt_br luciajoin_8a923ab2:
 
     # k "...Fine, just don't go through my stuff."
     k ""
 
-# game/scripts/kali_events.rpy:9897
+# game/scripts/kali_events.rpy:9895
 translate pt_br luciajoin_85330840:
 
     # lu "Yay! I knew you weren't all ''whatever's''!"
     lu ""
 
-# game/scripts/kali_events.rpy:9899
+# game/scripts/kali_events.rpy:9897
 translate pt_br luciajoin_a2788b5a:
 
     # k "Whatever..."
     k ""
 
-# game/scripts/kali_events.rpy:9900
+# game/scripts/kali_events.rpy:9898
 translate pt_br luciajoin_0cbba879:
 
     # k "-I mean!... Urgh, whatever..."
     k ""
 
-# game/scripts/kali_events.rpy:9901
+# game/scripts/kali_events.rpy:9899
 translate pt_br luciajoin_57d92abb:
 
     # lu "Hahaha! And don't worry, you won't even know I'm here! Honestly!"
     lu ""
 
-# game/scripts/kali_events.rpy:9902
+# game/scripts/kali_events.rpy:9900
 translate pt_br luciajoin_d75d7c25:
 
     # k "We'll see about that..."
     k ""
 
-# game/scripts/kali_events.rpy:9904
+# game/scripts/kali_events.rpy:9902
 translate pt_br luciajoin_f9e6224f:
 
     # lu "You know [name], my bed has room for 2..."
     lu ""
 
-# game/scripts/kali_events.rpy:9905
+# game/scripts/kali_events.rpy:9903
 translate pt_br luciajoin_f8f8e4ad:
 
     # k "No you don't you little slut."
     k ""
 
-# game/scripts/kali_events.rpy:9907
+# game/scripts/kali_events.rpy:9905
 translate pt_br luciajoin_54700357:
 
     # lu "Hahaha, it was only a joke!"
     lu ""
 
-# game/scripts/kali_events.rpy:9909
+# game/scripts/kali_events.rpy:9907
 translate pt_br luciajoin_6a3ab0a6:
 
     # lu "Oh hey! This totally means you're my brother in law, doesn't it [name]?"
     lu ""
 
-# game/scripts/kali_events.rpy:9910
+# game/scripts/kali_events.rpy:9908
 translate pt_br luciajoin_3a2775d5:
 
     # k "We're not married."
     k ""
 
-# game/scripts/kali_events.rpy:9911
+# game/scripts/kali_events.rpy:9909
 translate pt_br luciajoin_efe8b05c:
 
     # lu "Not yet! But that doesn't stop me from calling him big brother, heheh!"
     lu ""
 
-# game/scripts/kali_events.rpy:9912
+# game/scripts/kali_events.rpy:9910
 translate pt_br luciajoin_357af3a4:
 
     # k "Urgh..."
     k ""
 
-# game/scripts/kali_events.rpy:9919
+# game/scripts/kali_events.rpy:9917
 translate pt_br kalispringtext_dbc0669e:
 
     # c "There she is."
     c ""
 
-# game/scripts/kali_events.rpy:9921
+# game/scripts/kali_events.rpy:9919
 translate pt_br kalispringtext_dd8d6713:
 
     # k "Oh, hey [name], get my text?"
     k ""
 
-# game/scripts/kali_events.rpy:9922
+# game/scripts/kali_events.rpy:9920
 translate pt_br kalispringtext_a2841f6f:
 
     # c "I did, what's up?"
     c ""
 
-# game/scripts/kali_events.rpy:9923
+# game/scripts/kali_events.rpy:9921
 translate pt_br kalispringtext_35e652f4:
 
     # k "Come on, take a seat."
     k ""
 
-# game/scripts/kali_events.rpy:9925
+# game/scripts/kali_events.rpy:9923
 translate pt_br kalispringtext_48fc288b:
 
     # c "What's up?"
     c ""
 
-# game/scripts/kali_events.rpy:9926
+# game/scripts/kali_events.rpy:9924
 translate pt_br kalispringtext_50be8954:
 
     # k "I don't know..."
     k ""
 
-# game/scripts/kali_events.rpy:9928
+# game/scripts/kali_events.rpy:9926
 translate pt_br kalispringtext_7bb9e4ae:
 
     # k "Just wanted to chill I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:9929
+# game/scripts/kali_events.rpy:9927
 translate pt_br kalispringtext_721fff29:
 
     # k "......"
     k ""
 
-# game/scripts/kali_events.rpy:9930
+# game/scripts/kali_events.rpy:9928
 translate pt_br kalispringtext_073d21fc:
 
     # k "Everything good with you?"
     k ""
 
-# game/scripts/kali_events.rpy:9933
+# game/scripts/kali_events.rpy:9931
 translate pt_br kalispringtext_eda51bce:
 
     # k "That's good..."
     k ""
 
-# game/scripts/kali_events.rpy:9934
+# game/scripts/kali_events.rpy:9932
 translate pt_br kalispringtext_d19f855d:
 
     # c "..."
     c ""
 
-# game/scripts/kali_events.rpy:9935
+# game/scripts/kali_events.rpy:9933
 translate pt_br kalispringtext_57b63c82:
 
     # k "Well, I've been doing pretty good... Great actually."
     k ""
 
-# game/scripts/kali_events.rpy:9937
+# game/scripts/kali_events.rpy:9935
 translate pt_br kalispringtext_7a519b02:
 
     # k "I've been doing pretty good... Great actually."
     k ""
 
-# game/scripts/kali_events.rpy:9939
+# game/scripts/kali_events.rpy:9937
 translate pt_br kalispringtext_236f7ba1:
 
     # k "I don't know, I guess the future is looking good for me for the first time in a very long time."
     k ""
 
-# game/scripts/kali_events.rpy:9940
+# game/scripts/kali_events.rpy:9938
 translate pt_br kalispringtext_2be33449:
 
     # k "For so long I've been resentful of my father... I mean, I barely know him even now..."
     k ""
 
-# game/scripts/kali_events.rpy:9941
+# game/scripts/kali_events.rpy:9939
 translate pt_br kalispringtext_970f6874:
 
     # k "But suddenly... That doesn't really matter anymore..."
     k ""
 
-# game/scripts/kali_events.rpy:9942
+# game/scripts/kali_events.rpy:9940
 translate pt_br kalispringtext_ad1682a5:
 
     # k "Like... who cares where I work or what I look like in the morning..."
     k ""
 
-# game/scripts/kali_events.rpy:9943
+# game/scripts/kali_events.rpy:9941
 translate pt_br kalispringtext_b4921171:
 
     # k "Maybe it sounds weird, but... I don't know, I feel like... I just want to live."
     k ""
 
-# game/scripts/kali_events.rpy:9944
+# game/scripts/kali_events.rpy:9942
 translate pt_br kalispringtext_dcb96328:
 
     # k "Not that I've ever not wanted to... but... I don't know. Do you know what I mean?"
     k ""
 
-# game/scripts/kali_events.rpy:9947
+# game/scripts/kali_events.rpy:9945
 translate pt_br kalispringtext_3d6ac8a1:
 
     # k "It's kind of hard to explain I guess."
     k ""
 
-# game/scripts/kali_events.rpy:9949
+# game/scripts/kali_events.rpy:9947
 translate pt_br kalispringtext_3843245b:
 
     # k "...You do?"
     k ""
 
-# game/scripts/kali_events.rpy:9950
+# game/scripts/kali_events.rpy:9948
 translate pt_br kalispringtext_6d5d198f:
 
     # k "...I just want to see tomorrow. It doesn't really matter what happens, I just... want to see it."
     k ""
 
-# game/scripts/kali_events.rpy:9952
+# game/scripts/kali_events.rpy:9950
 translate pt_br kalispringtext_b6af6410:
 
     # k "I guess everything feels like it's happening the way it's meant to... You know?"
     k ""
 
-# game/scripts/kali_events.rpy:9953
+# game/scripts/kali_events.rpy:9951
 translate pt_br kalispringtext_9e197646:
 
     # k "I feel free..."
     k ""
 
-# game/scripts/kali_events.rpy:9954
+# game/scripts/kali_events.rpy:9952
 translate pt_br kalispringtext_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:9955
+# game/scripts/kali_events.rpy:9953
 translate pt_br kalispringtext_721fff29_1:
 
     # k "......"
     k ""
 
-# game/scripts/kali_events.rpy:9956
+# game/scripts/kali_events.rpy:9954
 translate pt_br kalispringtext_98debc3f:
 
     # k "........."
     k ""
 
-# game/scripts/kali_events.rpy:9958
+# game/scripts/kali_events.rpy:9956
 translate pt_br kalispringtext_b5c7fe77:
 
     # k "Do you ever want to get married?"
     k ""
 
-# game/scripts/kali_events.rpy:9959
+# game/scripts/kali_events.rpy:9957
 translate pt_br kalispringtext_61f9e4c8:
 
     # c "To you?"
     c ""
 
-# game/scripts/kali_events.rpy:9960
+# game/scripts/kali_events.rpy:9958
 translate pt_br kalispringtext_e5683396:
 
     # k "To anyone."
     k ""
 
-# game/scripts/kali_events.rpy:9964
+# game/scripts/kali_events.rpy:9962
 translate pt_br kalispringtext_2b6f5f20:
 
     # k "Me too."
     k ""
 
-# game/scripts/kali_events.rpy:9967
+# game/scripts/kali_events.rpy:9965
 translate pt_br kalispringtext_2e9bd230:
 
     # k "Oh..."
     k ""
 
-# game/scripts/kali_events.rpy:9969
+# game/scripts/kali_events.rpy:9967
 translate pt_br kalispringtext_84fcc5c7:
 
     # k "You... Want to get married to me?"
     k ""
 
-# game/scripts/kali_events.rpy:9972
+# game/scripts/kali_events.rpy:9970
 translate pt_br kalispringtext_3d0a5305:
 
     # k "That's forever you know... There's no backing out of that."
     k ""
 
-# game/scripts/kali_events.rpy:9973
+# game/scripts/kali_events.rpy:9971
 translate pt_br kalispringtext_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:9974
+# game/scripts/kali_events.rpy:9972
 translate pt_br kalispringtext_b0c26eec:
 
     # k "Let's say... in some hypothetical universe... we got married and had a child..."
     k ""
 
-# game/scripts/kali_events.rpy:9975
+# game/scripts/kali_events.rpy:9973
 translate pt_br kalispringtext_27e33627:
 
     # k "Would you want a girl or a boy?"
     k ""
 
-# game/scripts/kali_events.rpy:9978
+# game/scripts/kali_events.rpy:9976
 translate pt_br kalispringtext_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:9979
+# game/scripts/kali_events.rpy:9977
 translate pt_br kalispringtext_2b3cd055:
 
     # k "Nah, too much work. Too much to worry about."
     k ""
 
-# game/scripts/kali_events.rpy:9980
+# game/scripts/kali_events.rpy:9978
 translate pt_br kalispringtext_d12728be:
 
     # k "But a boy... That would be fun."
     k ""
 
-# game/scripts/kali_events.rpy:9981
+# game/scripts/kali_events.rpy:9979
 translate pt_br kalispringtext_6e594eec:
 
     # k "I would get him a computer on his seventh birthday. Maybe we could all play something some day..."
     k ""
 
-# game/scripts/kali_events.rpy:9982
+# game/scripts/kali_events.rpy:9980
 translate pt_br kalispringtext_e214697e:
 
     # k "He'd go to school, make some friends... Maybe even get a girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:9983
+# game/scripts/kali_events.rpy:9981
 translate pt_br kalispringtext_1fd83da3:
 
     # k "I would make sure he knows how to treat a girl. He'd be a stud for sure, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9984
+# game/scripts/kali_events.rpy:9982
 translate pt_br kalispringtext_82091822_3:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:9985
+# game/scripts/kali_events.rpy:9983
 translate pt_br kalispringtext_f7677214:
 
     # k "He would have troubles in school... Maybe he would be bullied. And you would teach him how to defend himself."
     k ""
 
-# game/scripts/kali_events.rpy:9986
+# game/scripts/kali_events.rpy:9984
 translate pt_br kalispringtext_b57a78bb:
 
     # k "But he'd be a good kid. He would be smart... Maybe not book smart, or street smart. But... He'd be smart."
     k ""
 
-# game/scripts/kali_events.rpy:9987
+# game/scripts/kali_events.rpy:9985
 translate pt_br kalispringtext_93d41043:
 
     # k "He would do all of his school work, every day. I'd make sure of that."
     k ""
 
-# game/scripts/kali_events.rpy:9988
+# game/scripts/kali_events.rpy:9986
 translate pt_br kalispringtext_aad1e435:
 
     # k "Then one day he would graduate. Hopefully top of his class... He would be so happy, and we'd buy him a car. He could go wherever he wants."
     k ""
 
-# game/scripts/kali_events.rpy:9989
+# game/scripts/kali_events.rpy:9987
 translate pt_br kalispringtext_9159bf6a:
 
     # k "But at that point, we would have made sure he's a good kid. Not getting in to trouble, not doing drugs."
     k ""
 
-# game/scripts/kali_events.rpy:9990
+# game/scripts/kali_events.rpy:9988
 translate pt_br kalispringtext_c47cbe0e:
 
     # k "Then he would go to college, maybe he would even be a doctor..."
     k ""
 
-# game/scripts/kali_events.rpy:9991
+# game/scripts/kali_events.rpy:9989
 translate pt_br kalispringtext_a08fb434:
 
     # k "By that point he would have found the love of his life, maybe at some stupid hotel he didn't even want to be at."
     k ""
 
-# game/scripts/kali_events.rpy:9992
+# game/scripts/kali_events.rpy:9990
 translate pt_br kalispringtext_ff3623d0:
 
     # k "We'd be old and grey... But we'd still be in love. Because love is forever..."
     k ""
 
-# game/scripts/kali_events.rpy:9993
+# game/scripts/kali_events.rpy:9991
 translate pt_br kalispringtext_0631b9af:
 
     # k "...You know... Hypothetically."
     k ""
 
-# game/scripts/kali_events.rpy:9995
+# game/scripts/kali_events.rpy:9993
 translate pt_br kalispringtext_03cc3780:
 
     # k "Yeah... A boy would be fun."
     k ""
 
-# game/scripts/kali_events.rpy:9996
+# game/scripts/kali_events.rpy:9994
 translate pt_br kalispringtext_6e594eec_1:
 
     # k "I would get him a computer on his seventh birthday. Maybe we could all play something some day..."
     k ""
 
-# game/scripts/kali_events.rpy:9997
+# game/scripts/kali_events.rpy:9995
 translate pt_br kalispringtext_e214697e_1:
 
     # k "He'd go to school, make some friends... Maybe even get a girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:9998
+# game/scripts/kali_events.rpy:9996
 translate pt_br kalispringtext_1fd83da3_1:
 
     # k "I would make sure he knows how to treat a girl. He'd be a stud for sure, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:9999
+# game/scripts/kali_events.rpy:9997
 translate pt_br kalispringtext_82091822_4:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10000
+# game/scripts/kali_events.rpy:9998
 translate pt_br kalispringtext_f7677214_1:
 
     # k "He would have troubles in school... Maybe he would be bullied. And you would teach him how to defend himself."
     k ""
 
-# game/scripts/kali_events.rpy:10001
+# game/scripts/kali_events.rpy:9999
 translate pt_br kalispringtext_b57a78bb_1:
 
     # k "But he'd be a good kid. He would be smart... Maybe not book smart, or street smart. But... He'd be smart."
     k ""
 
-# game/scripts/kali_events.rpy:10002
+# game/scripts/kali_events.rpy:10000
 translate pt_br kalispringtext_93d41043_1:
 
     # k "He would do all of his school work, every day. I'd make sure of that."
     k ""
 
-# game/scripts/kali_events.rpy:10003
+# game/scripts/kali_events.rpy:10001
 translate pt_br kalispringtext_aad1e435_1:
 
     # k "Then one day he would graduate. Hopefully top of his class... He would be so happy, and we'd buy him a car. He could go wherever he wants."
     k ""
 
-# game/scripts/kali_events.rpy:10004
+# game/scripts/kali_events.rpy:10002
 translate pt_br kalispringtext_9159bf6a_1:
 
     # k "But at that point, we would have made sure he's a good kid. Not getting in to trouble, not doing drugs."
     k ""
 
-# game/scripts/kali_events.rpy:10005
+# game/scripts/kali_events.rpy:10003
 translate pt_br kalispringtext_c47cbe0e_1:
 
     # k "Then he would go to college, maybe he would even be a doctor..."
     k ""
 
-# game/scripts/kali_events.rpy:10006
+# game/scripts/kali_events.rpy:10004
 translate pt_br kalispringtext_a08fb434_1:
 
     # k "By that point he would have found the love of his life, maybe at some stupid hotel he didn't even want to be at."
     k ""
 
-# game/scripts/kali_events.rpy:10007
+# game/scripts/kali_events.rpy:10005
 translate pt_br kalispringtext_ff3623d0_1:
 
     # k "We'd be old and grey... But we'd still be in love. Because love is forever..."
     k ""
 
-# game/scripts/kali_events.rpy:10008
+# game/scripts/kali_events.rpy:10006
 translate pt_br kalispringtext_0631b9af_1:
 
     # k "...You know... Hypothetically."
     k ""
 
-# game/scripts/kali_events.rpy:10011
+# game/scripts/kali_events.rpy:10009
 translate pt_br kalispringtext_7cffe20f:
 
     # k "Hey, are you even thinking about me? ...I mean, hypothetically... that's a lot of work."
     k ""
 
-# game/scripts/kali_events.rpy:10013
+# game/scripts/kali_events.rpy:10011
 translate pt_br kalispringtext_02763818:
 
     # k "A girl would be too much work. Too much to worry about..."
     k ""
 
-# game/scripts/kali_events.rpy:10014
+# game/scripts/kali_events.rpy:10012
 translate pt_br kalispringtext_d12728be_1:
 
     # k "But a boy... That would be fun."
     k ""
 
-# game/scripts/kali_events.rpy:10015
+# game/scripts/kali_events.rpy:10013
 translate pt_br kalispringtext_6e594eec_2:
 
     # k "I would get him a computer on his seventh birthday. Maybe we could all play something some day..."
     k ""
 
-# game/scripts/kali_events.rpy:10016
+# game/scripts/kali_events.rpy:10014
 translate pt_br kalispringtext_e214697e_2:
 
     # k "He'd go to school, make some friends... Maybe even get a girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:10017
+# game/scripts/kali_events.rpy:10015
 translate pt_br kalispringtext_1fd83da3_2:
 
     # k "I would make sure he knows how to treat a girl. He'd be a stud for sure, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:10018
+# game/scripts/kali_events.rpy:10016
 translate pt_br kalispringtext_82091822_5:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10019
+# game/scripts/kali_events.rpy:10017
 translate pt_br kalispringtext_f7677214_2:
 
     # k "He would have troubles in school... Maybe he would be bullied. And you would teach him how to defend himself."
     k ""
 
-# game/scripts/kali_events.rpy:10020
+# game/scripts/kali_events.rpy:10018
 translate pt_br kalispringtext_b57a78bb_2:
 
     # k "But he'd be a good kid. He would be smart... Maybe not book smart, or street smart. But... He'd be smart."
     k ""
 
-# game/scripts/kali_events.rpy:10021
+# game/scripts/kali_events.rpy:10019
 translate pt_br kalispringtext_93d41043_2:
 
     # k "He would do all of his school work, every day. I'd make sure of that."
     k ""
 
-# game/scripts/kali_events.rpy:10022
+# game/scripts/kali_events.rpy:10020
 translate pt_br kalispringtext_aad1e435_2:
 
     # k "Then one day he would graduate. Hopefully top of his class... He would be so happy, and we'd buy him a car. He could go wherever he wants."
     k ""
 
-# game/scripts/kali_events.rpy:10023
+# game/scripts/kali_events.rpy:10021
 translate pt_br kalispringtext_9159bf6a_2:
 
     # k "But at that point, we would have made sure he's a good kid. Not getting in to trouble, not doing drugs."
     k ""
 
-# game/scripts/kali_events.rpy:10024
+# game/scripts/kali_events.rpy:10022
 translate pt_br kalispringtext_c47cbe0e_2:
 
     # k "Then he would go to college, maybe he would even be a doctor..."
     k ""
 
-# game/scripts/kali_events.rpy:10025
+# game/scripts/kali_events.rpy:10023
 translate pt_br kalispringtext_a08fb434_2:
 
     # k "By that point he would have found the love of his life, maybe at some stupid hotel he didn't even want to be at."
     k ""
 
-# game/scripts/kali_events.rpy:10026
+# game/scripts/kali_events.rpy:10024
 translate pt_br kalispringtext_ff3623d0_2:
 
     # k "We'd be old and grey... But we'd still be in love. Because love is forever..."
     k ""
 
-# game/scripts/kali_events.rpy:10027
+# game/scripts/kali_events.rpy:10025
 translate pt_br kalispringtext_0631b9af_2:
 
     # k "...You know... Hypothetically."
     k ""
 
-# game/scripts/kali_events.rpy:10030
+# game/scripts/kali_events.rpy:10028
 translate pt_br kalispringtext_518324c8:
 
     # k "Come on [name], it's a hypothetical question. Just answer it."
     k ""
 
-# game/scripts/kali_events.rpy:10033
+# game/scripts/kali_events.rpy:10031
 translate pt_br kalispringtext_82091822_6:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10034
+# game/scripts/kali_events.rpy:10032
 translate pt_br kalispringtext_2b3cd055_1:
 
     # k "Nah, too much work. Too much to worry about."
     k ""
 
-# game/scripts/kali_events.rpy:10035
+# game/scripts/kali_events.rpy:10033
 translate pt_br kalispringtext_d12728be_2:
 
     # k "But a boy... That would be fun."
     k ""
 
-# game/scripts/kali_events.rpy:10036
+# game/scripts/kali_events.rpy:10034
 translate pt_br kalispringtext_6e594eec_3:
 
     # k "I would get him a computer on his seventh birthday. Maybe we could all play something some day..."
     k ""
 
-# game/scripts/kali_events.rpy:10037
+# game/scripts/kali_events.rpy:10035
 translate pt_br kalispringtext_e214697e_3:
 
     # k "He'd go to school, make some friends... Maybe even get a girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:10038
+# game/scripts/kali_events.rpy:10036
 translate pt_br kalispringtext_1fd83da3_3:
 
     # k "I would make sure he knows how to treat a girl. He'd be a stud for sure, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:10039
+# game/scripts/kali_events.rpy:10037
 translate pt_br kalispringtext_82091822_7:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10040
+# game/scripts/kali_events.rpy:10038
 translate pt_br kalispringtext_f7677214_3:
 
     # k "He would have troubles in school... Maybe he would be bullied. And you would teach him how to defend himself."
     k ""
 
-# game/scripts/kali_events.rpy:10041
+# game/scripts/kali_events.rpy:10039
 translate pt_br kalispringtext_b57a78bb_3:
 
     # k "But he'd be a good kid. He would be smart... Maybe not book smart, or street smart. But... He'd be smart."
     k ""
 
-# game/scripts/kali_events.rpy:10042
+# game/scripts/kali_events.rpy:10040
 translate pt_br kalispringtext_93d41043_3:
 
     # k "He would do all of his school work, every day. I'd make sure of that."
     k ""
 
-# game/scripts/kali_events.rpy:10043
+# game/scripts/kali_events.rpy:10041
 translate pt_br kalispringtext_aad1e435_3:
 
     # k "Then one day he would graduate. Hopefully top of his class... He would be so happy, and we'd buy him a car. He could go wherever he wants."
     k ""
 
-# game/scripts/kali_events.rpy:10044
+# game/scripts/kali_events.rpy:10042
 translate pt_br kalispringtext_9159bf6a_3:
 
     # k "But at that point, we would have made sure he's a good kid. Not getting in to trouble, not doing drugs."
     k ""
 
-# game/scripts/kali_events.rpy:10045
+# game/scripts/kali_events.rpy:10043
 translate pt_br kalispringtext_c47cbe0e_3:
 
     # k "Then he would go to college, maybe he would even be a doctor..."
     k ""
 
-# game/scripts/kali_events.rpy:10046
+# game/scripts/kali_events.rpy:10044
 translate pt_br kalispringtext_a08fb434_3:
 
     # k "By that point he would have found the love of his life, maybe at some stupid hotel he didn't even want to be at."
     k ""
 
-# game/scripts/kali_events.rpy:10047
+# game/scripts/kali_events.rpy:10045
 translate pt_br kalispringtext_ff3623d0_3:
 
     # k "We'd be old and grey... But we'd still be in love. Because love is forever..."
     k ""
 
-# game/scripts/kali_events.rpy:10048
+# game/scripts/kali_events.rpy:10046
 translate pt_br kalispringtext_0631b9af_3:
 
     # k "...You know... Hypothetically."
     k ""
 
-# game/scripts/kali_events.rpy:10050
+# game/scripts/kali_events.rpy:10048
 translate pt_br kalispringtext_03cc3780_1:
 
     # k "Yeah... A boy would be fun."
     k ""
 
-# game/scripts/kali_events.rpy:10051
+# game/scripts/kali_events.rpy:10049
 translate pt_br kalispringtext_6e594eec_4:
 
     # k "I would get him a computer on his seventh birthday. Maybe we could all play something some day..."
     k ""
 
-# game/scripts/kali_events.rpy:10052
+# game/scripts/kali_events.rpy:10050
 translate pt_br kalispringtext_e214697e_4:
 
     # k "He'd go to school, make some friends... Maybe even get a girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:10053
+# game/scripts/kali_events.rpy:10051
 translate pt_br kalispringtext_1fd83da3_4:
 
     # k "I would make sure he knows how to treat a girl. He'd be a stud for sure, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:10054
+# game/scripts/kali_events.rpy:10052
 translate pt_br kalispringtext_82091822_8:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10055
+# game/scripts/kali_events.rpy:10053
 translate pt_br kalispringtext_f7677214_4:
 
     # k "He would have troubles in school... Maybe he would be bullied. And you would teach him how to defend himself."
     k ""
 
-# game/scripts/kali_events.rpy:10056
+# game/scripts/kali_events.rpy:10054
 translate pt_br kalispringtext_b57a78bb_4:
 
     # k "But he'd be a good kid. He would be smart... Maybe not book smart, or street smart. But... He'd be smart."
     k ""
 
-# game/scripts/kali_events.rpy:10057
+# game/scripts/kali_events.rpy:10055
 translate pt_br kalispringtext_93d41043_4:
 
     # k "He would do all of his school work, every day. I'd make sure of that."
     k ""
 
-# game/scripts/kali_events.rpy:10058
+# game/scripts/kali_events.rpy:10056
 translate pt_br kalispringtext_aad1e435_4:
 
     # k "Then one day he would graduate. Hopefully top of his class... He would be so happy, and we'd buy him a car. He could go wherever he wants."
     k ""
 
-# game/scripts/kali_events.rpy:10059
+# game/scripts/kali_events.rpy:10057
 translate pt_br kalispringtext_9159bf6a_4:
 
     # k "But at that point, we would have made sure he's a good kid. Not getting in to trouble, not doing drugs."
     k ""
 
-# game/scripts/kali_events.rpy:10060
+# game/scripts/kali_events.rpy:10058
 translate pt_br kalispringtext_c47cbe0e_4:
 
     # k "Then he would go to college, maybe he would even be a doctor..."
     k ""
 
-# game/scripts/kali_events.rpy:10061
+# game/scripts/kali_events.rpy:10059
 translate pt_br kalispringtext_a08fb434_4:
 
     # k "By that point he would have found the love of his life, maybe at some stupid hotel he didn't even want to be at."
     k ""
 
-# game/scripts/kali_events.rpy:10062
+# game/scripts/kali_events.rpy:10060
 translate pt_br kalispringtext_ff3623d0_4:
 
     # k "We'd be old and grey... But we'd still be in love. Because love is forever..."
     k ""
 
-# game/scripts/kali_events.rpy:10063
+# game/scripts/kali_events.rpy:10061
 translate pt_br kalispringtext_0631b9af_4:
 
     # k "...You know... Hypothetically."
     k ""
 
-# game/scripts/kali_events.rpy:10066
+# game/scripts/kali_events.rpy:10064
 translate pt_br kalispringtext_7cffe20f_1:
 
     # k "Hey, are you even thinking about me? ...I mean, hypothetically... that's a lot of work."
     k ""
 
-# game/scripts/kali_events.rpy:10068
+# game/scripts/kali_events.rpy:10066
 translate pt_br kalispringtext_02763818_1:
 
     # k "A girl would be too much work. Too much to worry about..."
     k ""
 
-# game/scripts/kali_events.rpy:10069
+# game/scripts/kali_events.rpy:10067
 translate pt_br kalispringtext_d12728be_3:
 
     # k "But a boy... That would be fun."
     k ""
 
-# game/scripts/kali_events.rpy:10070
+# game/scripts/kali_events.rpy:10068
 translate pt_br kalispringtext_6e594eec_5:
 
     # k "I would get him a computer on his seventh birthday. Maybe we could all play something some day..."
     k ""
 
-# game/scripts/kali_events.rpy:10071
+# game/scripts/kali_events.rpy:10069
 translate pt_br kalispringtext_e214697e_5:
 
     # k "He'd go to school, make some friends... Maybe even get a girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:10072
+# game/scripts/kali_events.rpy:10070
 translate pt_br kalispringtext_1fd83da3_5:
 
     # k "I would make sure he knows how to treat a girl. He'd be a stud for sure, haha..."
     k ""
 
-# game/scripts/kali_events.rpy:10073
+# game/scripts/kali_events.rpy:10071
 translate pt_br kalispringtext_82091822_9:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10074
+# game/scripts/kali_events.rpy:10072
 translate pt_br kalispringtext_f7677214_5:
 
     # k "He would have troubles in school... Maybe he would be bullied. And you would teach him how to defend himself."
     k ""
 
-# game/scripts/kali_events.rpy:10075
+# game/scripts/kali_events.rpy:10073
 translate pt_br kalispringtext_b57a78bb_5:
 
     # k "But he'd be a good kid. He would be smart... Maybe not book smart, or street smart. But... He'd be smart."
     k ""
 
-# game/scripts/kali_events.rpy:10076
+# game/scripts/kali_events.rpy:10074
 translate pt_br kalispringtext_93d41043_5:
 
     # k "He would do all of his school work, every day. I'd make sure of that."
     k ""
 
-# game/scripts/kali_events.rpy:10077
+# game/scripts/kali_events.rpy:10075
 translate pt_br kalispringtext_aad1e435_5:
 
     # k "Then one day he would graduate. Hopefully top of his class... He would be so happy, and we'd buy him a car. He could go wherever he wants."
     k ""
 
-# game/scripts/kali_events.rpy:10078
+# game/scripts/kali_events.rpy:10076
 translate pt_br kalispringtext_9159bf6a_5:
 
     # k "But at that point, we would have made sure he's a good kid. Not getting in to trouble, not doing drugs."
     k ""
 
-# game/scripts/kali_events.rpy:10079
+# game/scripts/kali_events.rpy:10077
 translate pt_br kalispringtext_c47cbe0e_5:
 
     # k "Then he would go to college, maybe he would even be a doctor..."
     k ""
 
-# game/scripts/kali_events.rpy:10080
+# game/scripts/kali_events.rpy:10078
 translate pt_br kalispringtext_a08fb434_5:
 
     # k "By that point he would have found the love of his life, maybe at some stupid hotel he didn't even want to be at."
     k ""
 
-# game/scripts/kali_events.rpy:10081
+# game/scripts/kali_events.rpy:10079
 translate pt_br kalispringtext_ff3623d0_5:
 
     # k "We'd be old and grey... But we'd still be in love. Because love is forever..."
     k ""
 
-# game/scripts/kali_events.rpy:10082
+# game/scripts/kali_events.rpy:10080
 translate pt_br kalispringtext_0631b9af_5:
 
     # k "...You know... Hypothetically."
     k ""
 
-# game/scripts/kali_events.rpy:10084
+# game/scripts/kali_events.rpy:10082
 translate pt_br kalispringtext_82091822_10:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10085
+# game/scripts/kali_events.rpy:10083
 translate pt_br kalispringtext_721fff29_2:
 
     # k "......"
     k ""
 
-# game/scripts/kali_events.rpy:10086
+# game/scripts/kali_events.rpy:10084
 translate pt_br kalispringtext_98debc3f_1:
 
     # k "........."
     k ""
 
-# game/scripts/kali_events.rpy:10087
+# game/scripts/kali_events.rpy:10085
 translate pt_br kalispringtext_830ef914:
 
     # k "I love you [name]."
     k ""
 
-# game/scripts/kali_events.rpy:10091
+# game/scripts/kali_events.rpy:10089
 translate pt_br kalispringtext_82091822_11:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10093
+# game/scripts/kali_events.rpy:10091
 translate pt_br kalispringtext_82091822_12:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10095
+# game/scripts/kali_events.rpy:10093
 translate pt_br kalispringtext_ca1b3fa8:
 
     # k "Let's get out of here. My feet are starting to get pruny."
     k ""
 
-# game/scripts/kali_events.rpy:10096
+# game/scripts/kali_events.rpy:10094
 translate pt_br kalispringtext_483ac1e7:
 
     # k "Thanks for... everything."
     k ""
 
-# game/scripts/kali_events.rpy:10105
+# game/scripts/kali_events.rpy:10103
 translate pt_br kalimissionary_b1b3f09f:
 
     # k "Ahh! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:10106
+# game/scripts/kali_events.rpy:10104
 translate pt_br kalimissionary_93c04655:
 
     # k "Nnn... Ahh... Yesss..."
     k ""
 
-# game/scripts/kali_events.rpy:10109
+# game/scripts/kali_events.rpy:10107
 translate pt_br kalimissionary_8ba88102:
 
     # k "Ahh! Hahh! Fuck me! Yes! Oh god, yes! Ah!"
     k ""
 
-# game/scripts/kali_events.rpy:10110
+# game/scripts/kali_events.rpy:10108
 translate pt_br kalimissionary_2cd7c6e2:
 
     # k "Fuck my pussy! Yes! Harder! Deeper! Ahhh!"
     k ""
 
-# game/scripts/kali_events.rpy:10111
+# game/scripts/kali_events.rpy:10109
 translate pt_br kalimissionary_28def1b4:
 
     # k "I'm gonna cum! I'm gonna cum! Fuck! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:10113
+# game/scripts/kali_events.rpy:10111
 translate pt_br kalimissionary_6e85a559:
 
     # k "FUUUUUCK!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:10114
+# game/scripts/kali_events.rpy:10112
 translate pt_br kalimissionary_acbf0d67:
 
     # k "MMMH, nnnnnmh~! Yes, yes, yes!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10116
+# game/scripts/kali_events.rpy:10114
 translate pt_br kalimissionary_3227d715:
 
     # k "Ahh... Hahhhh... Haha..."
     k ""
 
-# game/scripts/kali_events.rpy:10117
+# game/scripts/kali_events.rpy:10115
 translate pt_br kalimissionary_f1fdb91e:
 
     # k "Now it's your turn..."
     k ""
 
-# game/scripts/kali_events.rpy:10120
+# game/scripts/kali_events.rpy:10118
 translate pt_br kalimissionary_f23cc4c4:
 
     # k "Mmmm! Nnn! Hahh! Ahh!!!"
     k ""
 
-# game/scripts/kali_events.rpy:10121
+# game/scripts/kali_events.rpy:10119
 translate pt_br kalimissionary_5f6ef09f:
 
     # k "Fuck yes! Yes! I want your cum! All over me! Ah!"
     k ""
 
-# game/scripts/kali_events.rpy:10122
+# game/scripts/kali_events.rpy:10120
 translate pt_br kalimissionary_876ec4bb:
 
     # k "Ah, Ah, Ah, Ah! Cum! Ahh!!!"
     k ""
 
-# game/scripts/kali_events.rpy:10128
+# game/scripts/kali_events.rpy:10126
 translate pt_br kalimissionary_06150057:
 
     # k "Ahhh!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10129
+# game/scripts/kali_events.rpy:10127
 translate pt_br kalimissionary_f45f439b:
 
     # k "Hnn! NNN!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10130
+# game/scripts/kali_events.rpy:10128
 translate pt_br kalimissionary_cf3fc8d1:
 
     # k "So... Deep!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10135
+# game/scripts/kali_events.rpy:10133
 translate pt_br kalimissionary_85b9f941:
 
     # k "Ahh... fuck... you came so much inside me..."
     k ""
 
-# game/scripts/kali_events.rpy:10140
+# game/scripts/kali_events.rpy:10138
 translate pt_br kalimissionary_69588e9a:
 
     # k "Ahhh! You came all over me..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10141
+# game/scripts/kali_events.rpy:10139
 translate pt_br kalimissionary_65759b9e:
 
     # k "Mmmm... I'm all dirty now..."
     k ""
 
-# game/scripts/kali_events.rpy:10268
+# game/scripts/kali_events.rpy:10266
 translate pt_br kdad_6199adc4:
 
     # k "Well, here we are..."
     k ""
 
-# game/scripts/kali_events.rpy:10269
+# game/scripts/kali_events.rpy:10267
 translate pt_br kdad_3a31fc46:
 
     # c "Wow, this looks very nice. Is this where you grew up?"
     c ""
 
-# game/scripts/kali_events.rpy:10270
+# game/scripts/kali_events.rpy:10268
 translate pt_br kdad_4cd95a3d:
 
     # k "Pfft, no. I'm not from here. This is just one of my dad's homes in Syl'anar. He's gotta have at least one in every city..."
     k ""
 
-# game/scripts/kali_events.rpy:10271
+# game/scripts/kali_events.rpy:10269
 translate pt_br kdad_e9cdb985:
 
     # k "Where is he? He should be here..."
     k ""
 
-# game/scripts/kali_events.rpy:10273
+# game/scripts/kali_events.rpy:10271
 translate pt_br kdad_522aebaf:
 
     # kd "Hey hey! It's Kali's boyfriend! Glad you could make it!"
     kd ""
 
-# game/scripts/kali_events.rpy:10274
+# game/scripts/kali_events.rpy:10272
 translate pt_br kdad_7feb4474:
 
     # k "{i}DAD!{/i}"
     k ""
 
-# game/scripts/kali_events.rpy:10276
+# game/scripts/kali_events.rpy:10274
 translate pt_br kdad_61e37060:
 
     # kd "What? That's what you called him on the phone."
     kd ""
 
-# game/scripts/kali_events.rpy:10277
+# game/scripts/kali_events.rpy:10275
 translate pt_br kdad_5c91090c:
 
     # k "Nh..."
     k ""
 
-# game/scripts/kali_events.rpy:10278
+# game/scripts/kali_events.rpy:10276
 translate pt_br kdad_cb8c5f1a:
 
     # k "Dad, it would have been really nice if you gave us some sort of warning before flying us out here... we're not elves you know..."
     k ""
 
-# game/scripts/kali_events.rpy:10279
+# game/scripts/kali_events.rpy:10277
 translate pt_br kdad_da308cf5:
 
     # kd "I would sure hope not. But honey, you know I'm rarely nearby and free at the same time."
     kd ""
 
-# game/scripts/kali_events.rpy:10281
+# game/scripts/kali_events.rpy:10279
 translate pt_br kdad_eda6781d:
 
     # kd "But hey! Let's not worry about the small things, we're all here and that's what matters."
     kd ""
 
-# game/scripts/kali_events.rpy:10283
+# game/scripts/kali_events.rpy:10281
 translate pt_br kdad_f2cd646a:
 
     # kd "So Mr. [name], let's get to business shall we?" with ssshake
     kd "" with ssshake
 
-# game/scripts/kali_events.rpy:10284
+# game/scripts/kali_events.rpy:10282
 translate pt_br kdad_a7a9c43b:
 
     # c "I'm sorry?"
     c ""
 
-# game/scripts/kali_events.rpy:10285
+# game/scripts/kali_events.rpy:10283
 translate pt_br kdad_878b69f5:
 
     # kd "You see... the hotel industry is something I have yet to get into. And since you're my darling's boyfriend, I figure why not make a deal together?"
     kd ""
 
-# game/scripts/kali_events.rpy:10286
+# game/scripts/kali_events.rpy:10284
 translate pt_br kdad_edb4fa9f:
 
     # kd "You may well know this already, but Syl'anar receives over 175 million tourists a year, do you know how much money that is!? That is a huge piece of the pie we can get our grubby hands on, my friend!"
     kd ""
 
-# game/scripts/kali_events.rpy:10288
+# game/scripts/kali_events.rpy:10286
 translate pt_br kdad_20c6d519:
 
     # kd "Can I interest you in some fine elvish wine? Dated to before the crusades! This is the real stuff..."
     kd ""
 
-# game/scripts/kali_events.rpy:10289
+# game/scripts/kali_events.rpy:10287
 translate pt_br kdad_6a506300:
 
     # c "Maybe later."
     c ""
 
-# game/scripts/kali_events.rpy:10290
+# game/scripts/kali_events.rpy:10288
 translate pt_br kdad_c41d2e05:
 
     # kd "That's surprising... but fine, I won't push it."
     kd ""
 
-# game/scripts/kali_events.rpy:10292
+# game/scripts/kali_events.rpy:10290
 translate pt_br kdad_6842d3e5:
 
     # kd "Now, I know your hotel business hasn't exploded in popularity, but that's only due to location. Quite honestly, I'm impressed you've been able to sustain yourself out there in the middle of nowhere."
     kd ""
 
-# game/scripts/kali_events.rpy:10293
+# game/scripts/kali_events.rpy:10291
 translate pt_br kdad_61ecf72d:
 
     # kd "And that's a big part of why I believe in you, my friend! You've been able to keep that place running for over 20 years, even in the harshest conditions. You were forged in fire! I see the same fighting spirit in you that I had myself when I was young."
     kd ""
 
-# game/scripts/kali_events.rpy:10294
+# game/scripts/kali_events.rpy:10292
 translate pt_br kdad_dae1a8a7:
 
     # c "Actually, I've only recently inherited the hotel from my grandfather. And my receptionist does most of the work..."
     c ""
 
-# game/scripts/kali_events.rpy:10296
+# game/scripts/kali_events.rpy:10294
 translate pt_br kdad_7002301b:
 
     # kd "{size=-10}{i}Kali didn't mention that...{/i}{/size}\nHm, well at least you're honest. Maybe to a fault..."
     kd ""
 
-# game/scripts/kali_events.rpy:10298
+# game/scripts/kali_events.rpy:10296
 translate pt_br kdad_05e5c4e9:
 
     # kd "Is he still alive?"
     kd ""
 
-# game/scripts/kali_events.rpy:10299
+# game/scripts/kali_events.rpy:10297
 translate pt_br kdad_96747164:
 
     # c "No, he recently passed..."
     c ""
 
-# game/scripts/kali_events.rpy:10300
+# game/scripts/kali_events.rpy:10298
 translate pt_br kdad_dc5c5c25:
 
     # kd "Oh, that's unfortunate..."
     kd ""
 
-# game/scripts/kali_events.rpy:10301
+# game/scripts/kali_events.rpy:10299
 translate pt_br kdad_b3703962:
 
     # kd "Well... listen, the way I see it is you're basically a startup company, and I want to invest early in you! You have some idea of how to run a hotel, right?"
     kd ""
 
-# game/scripts/kali_events.rpy:10302
+# game/scripts/kali_events.rpy:10300
 translate pt_br kdad_34e77072:
 
     # c "I guess."
     c ""
 
-# game/scripts/kali_events.rpy:10303
+# game/scripts/kali_events.rpy:10301
 translate pt_br kdad_43d1fa9e:
 
     # kd "Great! I've got the money, you've got the skills. If all goes well, you might be the manager of one of the most popular hotels in the country! A massive tower, reaching into the clouds! A casino and bar on the first floor! Luxury penthouses! Toilets made of gold! A big 'NERO' sign at the entrance! How does that proposition sound to you, hm?"
     kd ""
 
-# game/scripts/kali_events.rpy:10304
+# game/scripts/kali_events.rpy:10302
 translate pt_br kdad_b2fa84b4:
 
     # c "A luxury tower, hm? That does sound nice..."
     c ""
 
-# game/scripts/kali_events.rpy:10305
+# game/scripts/kali_events.rpy:10303
 translate pt_br kdad_e643a37e:
 
     # kd "Of course, of course! But let's just get the obvious out of the way before we continue..."
     kd ""
 
-# game/scripts/kali_events.rpy:10306
+# game/scripts/kali_events.rpy:10304
 translate pt_br kdad_43e621c6:
 
     # kd "As one person, you could only realistically manage 3 to 5 hotels at a time, and my plans... well 5 hotels is just thinking too small!"
     kd ""
 
-# game/scripts/kali_events.rpy:10307
+# game/scripts/kali_events.rpy:10305
 translate pt_br kdad_348bd87e:
 
     # kd "I wouldn't ever cut my darling's boyfriend a bad deal, so let's say we split the company 90/10? You get 10 percent."
     kd ""
 
-# game/scripts/kali_events.rpy:10308
+# game/scripts/kali_events.rpy:10306
 translate pt_br kdad_865accd1:
 
     # c "Only 10 percent?"
     c ""
 
-# game/scripts/kali_events.rpy:10309
+# game/scripts/kali_events.rpy:10307
 translate pt_br kdad_ad8ff902:
 
     # kd "I know, I know, that might seem low at first, but think of the big picture! I have to be a majority share holder in this to get this thing moving, and we need to bring others on board eventually so I'll need to split my shares even further. If everything goes to plan, I'll end up owning only 11 percent for myself. It's just business."
     kd ""
 
-# game/scripts/kali_events.rpy:10310
+# game/scripts/kali_events.rpy:10308
 translate pt_br kdad_5a137b52:
 
     # c "That would make you the owner of my hotel, and me your employee."
     c ""
 
-# game/scripts/kali_events.rpy:10311
+# game/scripts/kali_events.rpy:10309
 translate pt_br kdad_64b4dbbd:
 
     # kd "You would still be a manager my friend, and might I add... a millionaire too. \nEventually."
     kd ""
 
-# game/scripts/kali_events.rpy:10312
+# game/scripts/kali_events.rpy:10310
 translate pt_br kdad_3898b6cc:
 
     # kd "And by the way, I have some great ideas on how to spruce things up at yours. Business will increase ten-fold!"
     kd ""
 
-# game/scripts/kali_events.rpy:10314
+# game/scripts/kali_events.rpy:10312
 translate pt_br kdad_1cdc36f7:
 
     # kd "Hm?" with ssshake
     kd "" with ssshake
 
-# game/scripts/kali_events.rpy:10315
+# game/scripts/kali_events.rpy:10313
 translate pt_br kdad_ddc3bd00:
 
     # kd "Oh, motherf- I gotta take this, this is important. Stay around for dinner, will ya?" with ssshake
     kd "" with ssshake
 
-# game/scripts/kali_events.rpy:10317
+# game/scripts/kali_events.rpy:10315
 translate pt_br kdad_5973e9a4:
 
     # kd "Yeah, hey! I'm spendin' time with my daughter, asshole, what do you want? I'm on vacation!"
     kd ""
 
-# game/scripts/kali_events.rpy:10318
+# game/scripts/kali_events.rpy:10316
 translate pt_br kdad_6db73eeb:
 
     # k "Did you see that!? He totally ignored me!"
     k ""
 
-# game/scripts/kali_events.rpy:10319
+# game/scripts/kali_events.rpy:10317
 translate pt_br kdad_5f1b7a26:
 
     # c "So you set me up on some sort of business date?"
     c ""
 
-# game/scripts/kali_events.rpy:10321
+# game/scripts/kali_events.rpy:10319
 translate pt_br kdad_d02640ec:
 
     # k "I didn't know he was going to do that! He just told me he wanted to have a family dinner..."
     k ""
 
-# game/scripts/kali_events.rpy:10322
+# game/scripts/kali_events.rpy:10320
 translate pt_br kdad_a0750666:
 
     # c "I guess you've been telling him how good a hotel I run, eh?"
     c ""
 
-# game/scripts/kali_events.rpy:10323
+# game/scripts/kali_events.rpy:10321
 translate pt_br kdad_be8a79bb:
 
     # k "Nh... I didn't even know he cared that much about that stuff, I was just telling him about you..."
     k ""
 
-# game/scripts/kali_events.rpy:10325
+# game/scripts/kali_events.rpy:10323
 translate pt_br kdad_2275971d:
 
     # k "Shit, that's right... my {i}whole{/i} family is going to be here... which means..."
     k ""
 
-# game/scripts/kali_events.rpy:10327
+# game/scripts/kali_events.rpy:10325
 translate pt_br kdad_fa486a13:
 
     # q "Kali? KALI! You're here!"
     q ""
 
-# game/scripts/kali_events.rpy:10328
+# game/scripts/kali_events.rpy:10326
 translate pt_br kdad_01a826b2:
 
     # k "Egh..."
     k ""
 
-# game/scripts/kali_events.rpy:10330
+# game/scripts/kali_events.rpy:10328
 translate pt_br kdad_08a519a8:
 
     # q "And who's that? He's kinda hot..."
     q ""
 
-# game/scripts/kali_events.rpy:10331
+# game/scripts/kali_events.rpy:10329
 translate pt_br kdad_232c36f1:
 
     # k "Lucia! Shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:10332
+# game/scripts/kali_events.rpy:10330
 translate pt_br kdad_43971f1e:
 
     # lu "Why? What is he to you, hm?"
     lu ""
 
-# game/scripts/kali_events.rpy:10333
+# game/scripts/kali_events.rpy:10331
 translate pt_br kdad_cbf39173:
 
     # k "Just... shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:10335
+# game/scripts/kali_events.rpy:10333
 translate pt_br kdad_a7f88cb3:
 
     # lu "That's such a rude way to greet your sister... it's been so long!"
     lu ""
 
-# game/scripts/kali_events.rpy:10336
+# game/scripts/kali_events.rpy:10334
 translate pt_br kdad_692b7f83:
 
     # k "It's only been a few months... not long enough..."
     k ""
 
-# game/scripts/kali_events.rpy:10338
+# game/scripts/kali_events.rpy:10336
 translate pt_br kdad_8efc525c:
 
     # lu "Kaliii~ you haven't introduced us yet! Who is this?"
     lu ""
 
-# game/scripts/kali_events.rpy:10339
+# game/scripts/kali_events.rpy:10337
 translate pt_br kdad_1517d098:
 
     # k "[name], meet Lucia. My {i}annoying{/i} little sister..."
     k ""
 
-# game/scripts/kali_events.rpy:10340
+# game/scripts/kali_events.rpy:10338
 translate pt_br kdad_9193ca15:
 
     # lu "But who is he to you?"
     lu ""
 
-# game/scripts/kali_events.rpy:10341
+# game/scripts/kali_events.rpy:10339
 translate pt_br kdad_c2732dc3:
 
     # k "He's, um... a good friend...?"
     k ""
 
-# game/scripts/kali_events.rpy:10342
+# game/scripts/kali_events.rpy:10340
 translate pt_br kdad_6df3e90f:
 
     # lu "A good friend? People don't usually bring good friends to meet your parents for dinner, do they?"
     lu ""
 
-# game/scripts/kali_events.rpy:10343
+# game/scripts/kali_events.rpy:10341
 translate pt_br kdad_0d1a1c66:
 
     # k "I don't know... I think dad just wanted to make a business deal with him."
     k ""
 
-# game/scripts/kali_events.rpy:10344
+# game/scripts/kali_events.rpy:10342
 translate pt_br kdad_962d346e:
 
     # lu "Hmm, I think something more is going on here..."
     lu ""
 
-# game/scripts/kali_events.rpy:10346
+# game/scripts/kali_events.rpy:10344
 translate pt_br kdad_54ee5f16:
 
     # lu "So Kali, what's it been like since dad kicked you out? How is living on your own?"
     lu ""
 
-# game/scripts/kali_events.rpy:10347
+# game/scripts/kali_events.rpy:10345
 translate pt_br kdad_4c97b401:
 
     # k "It sucks. You have to worry about storing food for yourself, paying bills, and even have to do {i}'taxes'{/i}..."
     k ""
 
-# game/scripts/kali_events.rpy:10348
+# game/scripts/kali_events.rpy:10346
 translate pt_br kdad_be233d26:
 
     # lu "What are taxes...?"
     lu ""
 
-# game/scripts/kali_events.rpy:10349
+# game/scripts/kali_events.rpy:10347
 translate pt_br kdad_5ddcc2d2:
 
     # k "Apparently you {i}have{/i} to pay the government when you make money. Like, it's not even an option..."
     k ""
 
-# game/scripts/kali_events.rpy:10350
+# game/scripts/kali_events.rpy:10348
 translate pt_br kdad_0cda3bcb:
 
     # c "Wait, neither of you have heard of taxes before?"
     c ""
 
-# game/scripts/kali_events.rpy:10351
+# game/scripts/kali_events.rpy:10349
 translate pt_br kdad_fcc7db39:
 
     # lu "I've never had a job... isn't that a job thing?"
     lu ""
 
-# game/scripts/kali_events.rpy:10352
+# game/scripts/kali_events.rpy:10350
 translate pt_br kdad_516552bc:
 
     # k "Well, dad has never paid his, so I thought it wasn't really a big deal. I got a scary letter in the mail though, so I guess I have to..."
     k ""
 
-# game/scripts/kali_events.rpy:10353
+# game/scripts/kali_events.rpy:10351
 translate pt_br kdad_45cbd93f:
 
     # lu "Yeah... I don't think I'll ever get a job. Just doesn't sound fun."
     lu ""
 
-# game/scripts/kali_events.rpy:10354
+# game/scripts/kali_events.rpy:10352
 translate pt_br kdad_927474d0:
 
     # k "You're lucky dad hasn't kicked you out yet. He probably will in a few years, so you might want to prepare for that..."
     k ""
 
-# game/scripts/kali_events.rpy:10355
+# game/scripts/kali_events.rpy:10353
 translate pt_br kdad_8759691f:
 
     # lu "Pfft, whatever, I'm sure I'll be fine."
     lu ""
 
-# game/scripts/kali_events.rpy:10357
+# game/scripts/kali_events.rpy:10355
 translate pt_br kdad_7afa1b4b:
 
     # lu "Well, I gotta go help dad set up the table. See you two later~"
     lu ""
 
-# game/scripts/kali_events.rpy:10358
+# game/scripts/kali_events.rpy:10356
 translate pt_br kdad_be7f9017:
 
     # c "Bye."
     c ""
 
-# game/scripts/kali_events.rpy:10360
+# game/scripts/kali_events.rpy:10358
 translate pt_br kdad_d7408560:
 
     # k "Sorry about her... she can be so annoying sometimes... most of the time."
     k ""
 
-# game/scripts/kali_events.rpy:10361
+# game/scripts/kali_events.rpy:10359
 translate pt_br kdad_4b8bfd3a:
 
     # c "She didn't seem too bad."
     c ""
 
-# game/scripts/kali_events.rpy:10362
+# game/scripts/kali_events.rpy:10360
 translate pt_br kdad_a67244e8:
 
     # k "Only because you haven't gotten to know her yet... she's a spoiled brat, way more spoiled than I ever was. Dad treats her like a princess, and treats me like a peasant."
     k ""
 
-# game/scripts/kali_events.rpy:10363
+# game/scripts/kali_events.rpy:10361
 translate pt_br kdad_45b2c2ba:
 
     # c "That's better than being spoiled, at least you get to experience the real world."
     c ""
 
-# game/scripts/kali_events.rpy:10364
+# game/scripts/kali_events.rpy:10362
 translate pt_br kdad_ba52e4b2:
 
     # k "I know, that's why she bothers me so much. Dad let me find my interests on my own, he even let me mess around in the code of the androids we had guarding our tower as a child."
     k ""
 
-# game/scripts/kali_events.rpy:10365
+# game/scripts/kali_events.rpy:10363
 translate pt_br kdad_0bae6889:
 
     # k "Lucy on the other hand was molded by my father's own hands. She's a socialite, and is close with all of dad's business partners. We're completely different people, like night and day..."
     k ""
 
-# game/scripts/kali_events.rpy:10366
+# game/scripts/kali_events.rpy:10364
 translate pt_br kdad_8953e40d:
 
     # k "Well... anyway, it doesn't look like dinner is going to be ready for a while... want to chill on the balcony?"
     k ""
 
-# game/scripts/kali_events.rpy:10367
+# game/scripts/kali_events.rpy:10365
 translate pt_br kdad_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/kali_events.rpy:10369
+# game/scripts/kali_events.rpy:10367
 translate pt_br kdad_637e3242:
 
     # k "Oh wow, this city has grown a lot since I was here last. Must have been... seven years. Half those towers look new."
     k ""
 
-# game/scripts/kali_events.rpy:10370
+# game/scripts/kali_events.rpy:10368
 translate pt_br kdad_2a40cacd:
 
     # k "I like The Capitol better, towers are twice this size at least. This country has some growing to do, but it's growing so fast."
     k ""
 
-# game/scripts/kali_events.rpy:10371
+# game/scripts/kali_events.rpy:10369
 translate pt_br kdad_c527c9ca:
 
     # k "[name], have you ever been up this high? Heh, first time I went above the 100th floor of a tower, my knees wouldn't stop wobbling..."
     k ""
 
-# game/scripts/kali_events.rpy:10372
+# game/scripts/kali_events.rpy:10370
 translate pt_br kdad_18510ee6:
 
     # c "I'm used to it, it's a nice view."
     c ""
 
-# game/scripts/kali_events.rpy:10373
+# game/scripts/kali_events.rpy:10371
 translate pt_br kdad_83c80dcd:
 
     # k "It is..."
     k ""
 
-# game/scripts/kali_events.rpy:10375
+# game/scripts/kali_events.rpy:10373
 translate pt_br kdad_a71d34e1:
 
     # k "Hey... [name]? ...What are we?"
     k ""
 
-# game/scripts/kali_events.rpy:10376
+# game/scripts/kali_events.rpy:10374
 translate pt_br kdad_f489996a:
 
     # k "I mean, Lucy seems to think we're together, but that's so silly! ...Right?"
     k ""
 
-# game/scripts/kali_events.rpy:10377
+# game/scripts/kali_events.rpy:10375
 translate pt_br kdad_2f105310:
 
     # c "It doesn't have to be."
     c ""
 
-# game/scripts/kali_events.rpy:10378
+# game/scripts/kali_events.rpy:10376
 translate pt_br kdad_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10380
+# game/scripts/kali_events.rpy:10378
 translate pt_br kdad_8d6ca142:
 
     # k "...I'm not pretty, or girly, or anything like that... honestly, I'm kinda rude most of the time. I won't even get any of my father's money, so you can forget about that..."
     k ""
 
-# game/scripts/kali_events.rpy:10381
+# game/scripts/kali_events.rpy:10379
 translate pt_br kdad_a55735ba:
 
     # c "I'm not interested in your father's money. I'm not too sure I'll be taking his deal either, I don't like the idea of not owning my grandfather's hotel."
     c ""
 
-# game/scripts/kali_events.rpy:10382
+# game/scripts/kali_events.rpy:10380
 translate pt_br kdad_beff515e:
 
     # k "Good. He's always in control of some sort of my life, I don't want him to own the building I live in too."
     k ""
 
-# game/scripts/kali_events.rpy:10383
+# game/scripts/kali_events.rpy:10381
 translate pt_br kdad_67c7a0dd:
 
     # c "But Kali, you're one of the hottest women in the hotel. Don't beat yourself up to much."
     c ""
 
-# game/scripts/kali_events.rpy:10384
+# game/scripts/kali_events.rpy:10382
 translate pt_br kdad_f59a9159:
 
     # k "Pfft, whatever..."
     k ""
 
-# game/scripts/kali_events.rpy:10385
+# game/scripts/kali_events.rpy:10383
 translate pt_br kdad_5d3c41f4:
 
     # lu "Kali! [name]! Dinner is ready!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:10386
+# game/scripts/kali_events.rpy:10384
 translate pt_br kdad_8dc0cd13:
 
     # k "Oh! Finally, I'm starving..."
     k ""
 
-# game/scripts/kali_events.rpy:10389
+# game/scripts/kali_events.rpy:10387
 translate pt_br kdad_e1bc8ad5:
 
     # kd "Enjoy your meal, honey! I know how much you like pizza."
     kd ""
 
-# game/scripts/kali_events.rpy:10390
+# game/scripts/kali_events.rpy:10388
 translate pt_br kdad_216a9abc:
 
     # k "You made pizza?"
     k ""
 
-# game/scripts/kali_events.rpy:10391
+# game/scripts/kali_events.rpy:10389
 translate pt_br kdad_7585fbc1:
 
     # kd "Sorry, but I won't be able to stay and eat with everyone. Something very important came up and I need to fly back to The Capitol immediately."
     kd ""
 
-# game/scripts/kali_events.rpy:10392
+# game/scripts/kali_events.rpy:10390
 translate pt_br kdad_1a942669:
 
     # k "Wait, you're leaving already!?"
     k ""
 
-# game/scripts/kali_events.rpy:10394
+# game/scripts/kali_events.rpy:10392
 translate pt_br kdad_ee658cc6:
 
     # kd "[name], Kali will give you my number. Give me a call once you've decided to expand your business."
     kd ""
 
-# game/scripts/kali_events.rpy:10396
+# game/scripts/kali_events.rpy:10394
 translate pt_br kdad_b9ee3372:
 
     # k "Tsk..."
     k ""
 
-# game/scripts/kali_events.rpy:10398
+# game/scripts/kali_events.rpy:10396
 translate pt_br kdad_7ca3dbed:
 
     # k "Urgh, he {i}ordered{/i} pizza? I hate black olives!"
     k ""
 
-# game/scripts/kali_events.rpy:10399
+# game/scripts/kali_events.rpy:10397
 translate pt_br kdad_c6d426ea:
 
     # lu "You know dad doesn't keep butlers at every house..."
     lu ""
 
-# game/scripts/kali_events.rpy:10400
+# game/scripts/kali_events.rpy:10398
 translate pt_br kdad_839e41bf:
 
     # k "He's one of the top 5 richest people in the world, and all he can do is give his children takeout?"
     k ""
 
-# game/scripts/kali_events.rpy:10401
+# game/scripts/kali_events.rpy:10399
 translate pt_br kdad_bed34b74:
 
     # lu "You know he's busy..."
     lu ""
 
-# game/scripts/kali_events.rpy:10402
+# game/scripts/kali_events.rpy:10400
 translate pt_br kdad_993e4dd2:
 
     # lu "What are you complaining about anyway? Don't you like pizza?"
     lu ""
 
-# game/scripts/kali_events.rpy:10403
+# game/scripts/kali_events.rpy:10401
 translate pt_br kdad_d4fafca8:
 
     # k "It's not about the pizza..."
     k ""
 
-# game/scripts/kali_events.rpy:10405
+# game/scripts/kali_events.rpy:10403
 translate pt_br kdad_b119879b:
 
     # lu "So [name], how did you meet my sister?"
     lu ""
 
-# game/scripts/kali_events.rpy:10408
+# game/scripts/kali_events.rpy:10406
 translate pt_br kdad_a0776b4c:
 
     # lu "Oh, that explains a lot. Was it love at first sight?"
     lu ""
 
-# game/scripts/kali_events.rpy:10409
+# game/scripts/kali_events.rpy:10407
 translate pt_br kdad_a6c7b0fc:
 
     # k "Don't answer that..."
     k ""
 
-# game/scripts/kali_events.rpy:10412
+# game/scripts/kali_events.rpy:10410
 translate pt_br kdad_055064ff:
 
     # lu "Really? I didn't know you stripped, Kali!"
     lu ""
 
-# game/scripts/kali_events.rpy:10413
+# game/scripts/kali_events.rpy:10411
 translate pt_br kdad_6c2ba621:
 
     # k "I don't..."
     k ""
 
-# game/scripts/kali_events.rpy:10415
+# game/scripts/kali_events.rpy:10413
 translate pt_br kdad_6db41cd3:
 
     # lu "I don't see a reason why he would lie about that..."
     lu ""
 
-# game/scripts/kali_events.rpy:10417
+# game/scripts/kali_events.rpy:10415
 translate pt_br kdad_724b6df8:
 
     # k "He's fucking with you, obviously..."
     k ""
 
-# game/scripts/kali_events.rpy:10419
+# game/scripts/kali_events.rpy:10417
 translate pt_br kdad_738bc8b1:
 
     # lu "So how close are you two {u}exactly...?{/u}"
     lu ""
 
-# game/scripts/kali_events.rpy:10423
+# game/scripts/kali_events.rpy:10421
 translate pt_br kdad_8bd69ffc:
 
     # lu "Oh, just a friend?"
     lu ""
 
-# game/scripts/kali_events.rpy:10424
+# game/scripts/kali_events.rpy:10422
 translate pt_br kdad_53b547f4:
 
     # k "Stop asking stupid questions, brat!"
     k ""
 
-# game/scripts/kali_events.rpy:10428
+# game/scripts/kali_events.rpy:10426
 translate pt_br kdad_483eab05:
 
     # lu "Ohh~ so you two are together, huh?"
     lu ""
 
-# game/scripts/kali_events.rpy:10429
+# game/scripts/kali_events.rpy:10427
 translate pt_br kdad_209091fb:
 
     # k "Shut up, stop asking stupid questions..."
     k ""
 
-# game/scripts/kali_events.rpy:10431
+# game/scripts/kali_events.rpy:10429
 translate pt_br kdad_36feb841:
 
     # lu "Well are you?"
     lu ""
 
-# game/scripts/kali_events.rpy:10432
+# game/scripts/kali_events.rpy:10430
 translate pt_br kdad_bdde7367:
 
     # k "I don't know... Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:10433
+# game/scripts/kali_events.rpy:10431
 translate pt_br kdad_6f2ddef7:
 
     # lu "Have you two had sex yet?"
     lu ""
 
-# game/scripts/kali_events.rpy:10435
+# game/scripts/kali_events.rpy:10433
 translate pt_br kdad_f4e98bf4:
 
     # k "What!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10436
+# game/scripts/kali_events.rpy:10434
 translate pt_br kdad_71cca89c:
 
     # lu "Hmm? Am I not allowed to ask questions?"
     lu ""
 
-# game/scripts/kali_events.rpy:10437
+# game/scripts/kali_events.rpy:10435
 translate pt_br kdad_abe9aa2e:
 
     # k "No, you're not! If you had been listening, you would know that!"
     k ""
 
-# game/scripts/kali_events.rpy:10438
+# game/scripts/kali_events.rpy:10436
 translate pt_br kdad_bbb321eb:
 
     # lu "So you did have sex with him..."
     lu ""
 
-# game/scripts/kali_events.rpy:10439
+# game/scripts/kali_events.rpy:10437
 translate pt_br kdad_a141e77a:
 
     # k "I didn't say that!"
     k ""
 
-# game/scripts/kali_events.rpy:10440
+# game/scripts/kali_events.rpy:10438
 translate pt_br kdad_539fdbc9:
 
     # lu "You're not a good liar, Kali, hahaha!"
     lu ""
 
-# game/scripts/kali_events.rpy:10442
+# game/scripts/kali_events.rpy:10440
 translate pt_br kdad_f37982d8:
 
     # lu "Hmmm... It's a shame that my big sister lost her virginity and I still haven't... It's really hard to find someone decent these days you know..."
     lu ""
 
-# game/scripts/kali_events.rpy:10443
+# game/scripts/kali_events.rpy:10441
 translate pt_br kdad_cf43cafd:
 
     # k "Why are you bringing that up!?"
     k ""
 
-# game/scripts/kali_events.rpy:10444
+# game/scripts/kali_events.rpy:10442
 translate pt_br kdad_c4abeec8:
 
     # lu "...No reason..."
     lu ""
 
-# game/scripts/kali_events.rpy:10445
+# game/scripts/kali_events.rpy:10443
 translate pt_br kdad_6c840890:
 
     # k "Are you really trying to hit on [name] right now!?"
     k ""
 
-# game/scripts/kali_events.rpy:10446
+# game/scripts/kali_events.rpy:10444
 translate pt_br kdad_b92f7115:
 
     # lu "What made you think that?"
     lu ""
 
-# game/scripts/kali_events.rpy:10447
+# game/scripts/kali_events.rpy:10445
 translate pt_br kdad_0d730294:
 
     # k "Seriously?"
     k ""
 
-# game/scripts/kali_events.rpy:10448
+# game/scripts/kali_events.rpy:10446
 translate pt_br kdad_0b11da5a:
 
     # lu "What do you think, [name]? Am I hitting on you?"
     lu ""
 
-# game/scripts/kali_events.rpy:10451
+# game/scripts/kali_events.rpy:10449
 translate pt_br kdad_dd151b89:
 
     # lu "I guess I'm not very subtle, huh?"
     lu ""
 
-# game/scripts/kali_events.rpy:10452
+# game/scripts/kali_events.rpy:10450
 translate pt_br kdad_0058c2fa:
 
     # k "Can you stop?"
     k ""
 
-# game/scripts/kali_events.rpy:10454
+# game/scripts/kali_events.rpy:10452
 translate pt_br kdad_076ab7e9:
 
     # lu "Why? Do you like him too?"
     lu ""
 
-# game/scripts/kali_events.rpy:10455
+# game/scripts/kali_events.rpy:10453
 translate pt_br kdad_a141e77a_1:
 
     # k "I didn't say that!"
     k ""
 
-# game/scripts/kali_events.rpy:10456
+# game/scripts/kali_events.rpy:10454
 translate pt_br kdad_ccdd0de3:
 
     # lu "Well, it sounds like you're not sure. If you're just going to treat him as a piece of meat you get to fuck, then he's fair game, right?"
     lu ""
 
-# game/scripts/kali_events.rpy:10457
+# game/scripts/kali_events.rpy:10455
 translate pt_br kdad_68c3d1fe:
 
     # k "What!? He's not just a piece of meat!"
     k ""
 
-# game/scripts/kali_events.rpy:10458
+# game/scripts/kali_events.rpy:10456
 translate pt_br kdad_ce118b2f:
 
     # lu "Oh really?"
     lu ""
 
-# game/scripts/kali_events.rpy:10459
+# game/scripts/kali_events.rpy:10457
 translate pt_br kdad_86babcd7:
 
     # k "Yes! Really!"
     k ""
 
-# game/scripts/kali_events.rpy:10460
+# game/scripts/kali_events.rpy:10458
 translate pt_br kdad_7d0abbf5:
 
     # lu "Then what is he?"
     lu ""
 
-# game/scripts/kali_events.rpy:10462
+# game/scripts/kali_events.rpy:10460
 translate pt_br kdad_8529d459:
 
     # k "Um, he's..."
     k ""
 
-# game/scripts/kali_events.rpy:10463
+# game/scripts/kali_events.rpy:10461
 translate pt_br kdad_338d65a8:
 
     # lu "Fair game?"
     lu ""
 
-# game/scripts/kali_events.rpy:10465
+# game/scripts/kali_events.rpy:10463
 translate pt_br kdad_d75fe578:
 
     # k "No!"
     k ""
 
-# game/scripts/kali_events.rpy:10466
+# game/scripts/kali_events.rpy:10464
 translate pt_br kdad_2cc0ce42:
 
     # lu "Well if he's not fair game, and he's not just a piece of meat... what is he to you?"
     lu ""
 
-# game/scripts/kali_events.rpy:10467
+# game/scripts/kali_events.rpy:10465
 translate pt_br kdad_bfd1a3c3:
 
     # k "I... I can't answer that!"
     k ""
 
-# game/scripts/kali_events.rpy:10468
+# game/scripts/kali_events.rpy:10466
 translate pt_br kdad_c2433779:
 
     # lu "I guess we'll just have to leave it to [name] then..."
     lu ""
 
-# game/scripts/kali_events.rpy:10469
+# game/scripts/kali_events.rpy:10467
 translate pt_br kdad_a6925a08:
 
     # k "You're such a brat..."
     k ""
 
-# game/scripts/kali_events.rpy:10471
+# game/scripts/kali_events.rpy:10469
 translate pt_br kdad_a9b73aba:
 
     # lu "See? Nothing to worry about, hehe!"
     lu ""
 
-# game/scripts/kali_events.rpy:10472
+# game/scripts/kali_events.rpy:10470
 translate pt_br kdad_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10474
+# game/scripts/kali_events.rpy:10472
 translate pt_br kdad_a48d832b:
 
     # lu "Well, either way, we should probably eat... this pizza is going to get cold if we don't."
     lu ""
 
-# game/scripts/kali_events.rpy:10476
+# game/scripts/kali_events.rpy:10474
 translate pt_br kdad_9c3c1527:
 
     # "All three of you enjoy the mediocre pizza, make small talk, and before you know it, the sun has set..."
     ""
 
-# game/scripts/kali_events.rpy:10478
+# game/scripts/kali_events.rpy:10476
 translate pt_br kdad_acf1dbf1:
 
     # k "Tsk... there's nothing interesting on..."
     k ""
 
-# game/scripts/kali_events.rpy:10479
+# game/scripts/kali_events.rpy:10477
 translate pt_br kdad_7269820d:
 
     # k "Want to turn on a movie or something?"
     k ""
 
-# game/scripts/kali_events.rpy:10480
+# game/scripts/kali_events.rpy:10478
 translate pt_br kdad_efeffaff:
 
     # c "Sure, what are you into?"
     c ""
 
-# game/scripts/kali_events.rpy:10481
+# game/scripts/kali_events.rpy:10479
 translate pt_br kdad_f8e18b06:
 
     # k "I could watch a psychological horror, I love those."
     k ""
 
-# game/scripts/kali_events.rpy:10483
+# game/scripts/kali_events.rpy:10481
 translate pt_br kdad_9fc17527:
 
     # lu "Hey guys! What are you watching? The news? Urgh, boring..."
     lu ""
 
-# game/scripts/kali_events.rpy:10484
+# game/scripts/kali_events.rpy:10482
 translate pt_br kdad_4964fd4c:
 
     # k "Lucy!? What the hell are you wearing!?"
     k ""
 
-# game/scripts/kali_events.rpy:10486
+# game/scripts/kali_events.rpy:10484
 translate pt_br kdad_daabd21c:
 
     # lu "Same as you, silly. Something comfortable!"
     lu ""
 
-# game/scripts/kali_events.rpy:10487
+# game/scripts/kali_events.rpy:10485
 translate pt_br kdad_e59f061d:
 
     # k "That's how you're going to describe that outfit!? {i}Comfortable{/i}?"
     k ""
 
-# game/scripts/kali_events.rpy:10488
+# game/scripts/kali_events.rpy:10486
 translate pt_br kdad_7a91800e:
 
     # lu "Pfft, come on... you're not even trying to hide your panties..."
     lu ""
 
-# game/scripts/kali_events.rpy:10489
+# game/scripts/kali_events.rpy:10487
 translate pt_br kdad_7d173c96:
 
     # k "THIS is comfortable, THAT is slutty!"
     k ""
 
-# game/scripts/kali_events.rpy:10490
+# game/scripts/kali_events.rpy:10488
 translate pt_br kdad_cfbe1f54:
 
     # lu "Looks good, right [name]?"
     lu ""
 
-# game/scripts/kali_events.rpy:10491
+# game/scripts/kali_events.rpy:10489
 translate pt_br kdad_957c13c5:
 
     # k "Don't answer that!"
     k ""
 
-# game/scripts/kali_events.rpy:10492
+# game/scripts/kali_events.rpy:10490
 translate pt_br kdad_1ff38cef:
 
     # lu "Aww, why not? Jealous?"
     lu ""
 
-# game/scripts/kali_events.rpy:10493
+# game/scripts/kali_events.rpy:10491
 translate pt_br kdad_70fc16e5:
 
     # k "No! Let's just watch a movie!"
     k ""
 
-# game/scripts/kali_events.rpy:10494
+# game/scripts/kali_events.rpy:10492
 translate pt_br kdad_046e5368:
 
     # lu "Oh good, I would have died of boredom with the news on..."
     lu ""
 
-# game/scripts/kali_events.rpy:10496
+# game/scripts/kali_events.rpy:10494
 translate pt_br kdad_b24d2b87:
 
     # lu "This seat looks open..."
     lu ""
 
-# game/scripts/kali_events.rpy:10497
+# game/scripts/kali_events.rpy:10495
 translate pt_br kdad_5c917949:
 
     # k "Bitch! I was sitting there!"
     k ""
 
-# game/scripts/kali_events.rpy:10498
+# game/scripts/kali_events.rpy:10496
 translate pt_br kdad_40a1deca:
 
     # lu "Kali, it's rude to interrupt a conversation..."
     lu ""
 
-# game/scripts/kali_events.rpy:10499
+# game/scripts/kali_events.rpy:10497
 translate pt_br kdad_a7da2aab:
 
     # k "It's rude to wear THAT!"
     k ""
 
-# game/scripts/kali_events.rpy:10501
+# game/scripts/kali_events.rpy:10499
 translate pt_br kdad_736bb49a:
 
     # lu "I'm not complaining about what you're wearing..."
     lu ""
 
-# game/scripts/kali_events.rpy:10502
+# game/scripts/kali_events.rpy:10500
 translate pt_br kdad_c0258a18:
 
     # k "Because I'm not dressed up like a slut!"
     k ""
 
-# game/scripts/kali_events.rpy:10504
+# game/scripts/kali_events.rpy:10502
 translate pt_br kdad_7cb71de0:
 
     # lu "Well? Do I look like a slut, [name]? Do I look like I reeeally need a cock? Does it look like I would do anything to be fucked on this couch?"
     lu ""
 
-# game/scripts/kali_events.rpy:10505
+# game/scripts/kali_events.rpy:10503
 translate pt_br kdad_460e9784:
 
     # k "DON'T ANSWER THAT!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10507
+# game/scripts/kali_events.rpy:10505
 translate pt_br kdad_8f909702:
 
     # lu "Geez, don't be so loud, Kali..."
     lu ""
 
-# game/scripts/kali_events.rpy:10509
+# game/scripts/kali_events.rpy:10507
 translate pt_br kdad_31607c1c:
 
     # lu "I guess we'll just have to leave that one open for now..."
     lu ""
 
-# game/scripts/kali_events.rpy:10511
+# game/scripts/kali_events.rpy:10509
 translate pt_br kdad_2a8220fe:
 
     # "You watch a movie with Lucia at your side. At points during the movie while Kali isn't looking, Lucy brushes your thigh. Soon, the movie ends..."
     ""
 
-# game/scripts/kali_events.rpy:10512
+# game/scripts/kali_events.rpy:10510
 translate pt_br kdad_34bd2704:
 
     # k "*yawwwwn*, come on [name], let's go to bed."
     k ""
 
-# game/scripts/kali_events.rpy:10514
+# game/scripts/kali_events.rpy:10512
 translate pt_br kdad_8591718e:
 
     # lu "Aww, going to bed aleady? The night's so young, come on! Let's go to a club!"
     lu ""
 
-# game/scripts/kali_events.rpy:10515
+# game/scripts/kali_events.rpy:10513
 translate pt_br kdad_cb4343b7:
 
     # k "No, we're going to bed... you should too..."
     k ""
 
-# game/scripts/kali_events.rpy:10516
+# game/scripts/kali_events.rpy:10514
 translate pt_br kdad_060b3cc0:
 
     # lu "You suck, Kali..."
     lu ""
 
-# game/scripts/kali_events.rpy:10518
+# game/scripts/kali_events.rpy:10516
 translate pt_br kdad_771f5490:
 
     # lu "Well, enjoy sleeping together~"
     lu ""
 
-# game/scripts/kali_events.rpy:10519
+# game/scripts/kali_events.rpy:10517
 translate pt_br kdad_5a16b869:
 
     # k "Sleeping... together?"
     k ""
 
-# game/scripts/kali_events.rpy:10520
+# game/scripts/kali_events.rpy:10518
 translate pt_br kdad_937caf62:
 
     # lu "Well yeah... there's only one bed left. Dad's not going to let either of you sleep in his, so..."
     lu ""
 
-# game/scripts/kali_events.rpy:10521
+# game/scripts/kali_events.rpy:10519
 translate pt_br kdad_cb5898af:
 
     # k "Oh... well, okay... fine. Come on, [name]."
     k ""
 
-# game/scripts/kali_events.rpy:10523
+# game/scripts/kali_events.rpy:10521
 translate pt_br kdad_7b8eee8f:
 
     # "For the first time, you and Kali decide to sleep together in the same bed. She seems to like it, but isn't quite used to sharing her bed yet."
     ""
 
-# game/scripts/kali_events.rpy:10524
+# game/scripts/kali_events.rpy:10522
 translate pt_br kdad_38762a0a:
 
     # "In the middle of the night, nature calls. While looking for the bathroom, you run into someone familiar..."
     ""
 
-# game/scripts/kali_events.rpy:10527
+# game/scripts/kali_events.rpy:10525
 translate pt_br kdad_8d3232d8:
 
     # lu "*gasp*! [name]? What are you doing!?"
     lu ""
 
-# game/scripts/kali_events.rpy:10528
+# game/scripts/kali_events.rpy:10526
 translate pt_br kdad_6d03ffe3:
 
     # c "Oh! Sorry, I didn't notice you.\nWait, why are you naked?"
     c ""
 
-# game/scripts/kali_events.rpy:10529
+# game/scripts/kali_events.rpy:10527
 translate pt_br kdad_3c0294b6:
 
     # lu "[name], you pervert! You're supposed to be in bed with Kali but you're spying on her naked sister...!?"
     lu ""
 
-# game/scripts/kali_events.rpy:10530
+# game/scripts/kali_events.rpy:10528
 translate pt_br kdad_fc0a6195:
 
     # c "Oh, I see what's going on here..."
     c ""
 
-# game/scripts/kali_events.rpy:10532
+# game/scripts/kali_events.rpy:10530
 translate pt_br kdad_ba0feca6:
 
     # lu "So, are we going to do this thing or not? I mean, I'm going to tell Kali we did either way."
     lu ""
 
-# game/scripts/kali_events.rpy:10533
+# game/scripts/kali_events.rpy:10531
 translate pt_br kdad_7ed7e961:
 
     # lu "You don't have to, but you might as well have some fun. She probably won't even believe me."
     lu ""
 
-# game/scripts/kali_events.rpy:10534
+# game/scripts/kali_events.rpy:10532
 translate pt_br kdad_dcc9d847:
 
     # c "You sure are confident for a virgin."
     c ""
 
-# game/scripts/kali_events.rpy:10535
+# game/scripts/kali_events.rpy:10533
 translate pt_br kdad_344c449b:
 
     # lu "Pfft, what does that matter anyway? You don't think I have a few toys of my own? Heheh..."
     lu ""
 
-# game/scripts/kali_events.rpy:10536
+# game/scripts/kali_events.rpy:10534
 translate pt_br kdad_72d92b81:
 
     # lu "Come on, let's have some fun... My dad won't be back here for a few days, or maybe even weeks..."
     lu ""
 
-# game/scripts/kali_events.rpy:10540
+# game/scripts/kali_events.rpy:10538
 translate pt_br kdad_a2764415:
 
     # lu "Good, take it out, get over here already..."
     lu ""
 
-# game/scripts/kali_events.rpy:10542
+# game/scripts/kali_events.rpy:10540
 translate pt_br kdad_ca691d23:
 
     # lu "Be gentle, okay? I want to feel you..."
     lu ""
 
-# game/scripts/kali_events.rpy:10543
+# game/scripts/kali_events.rpy:10541
 translate pt_br kdad_e9c8d1ae:
 
     # c "Are you ready?"
     c ""
 
-# game/scripts/kali_events.rpy:10544
+# game/scripts/kali_events.rpy:10542
 translate pt_br kdad_3ef0d0c3:
 
     # lu "Shut up and stick it in already!"
     lu ""
 
-# game/scripts/kali_events.rpy:10546
+# game/scripts/kali_events.rpy:10544
 translate pt_br kdad_a4877fd7:
 
     # lu "Hnn, NNNNNGH~! Fuck, it's so big...!"
     lu ""
 
-# game/scripts/kali_events.rpy:10548
+# game/scripts/kali_events.rpy:10546
 translate pt_br kdad_58bbac54:
 
     # lu "Aaaah! Mmmmn~" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:10550
+# game/scripts/kali_events.rpy:10548
 translate pt_br kdad_af7a7b82:
 
     # lu "Aaah~! FUCK! Yes! Mmmn, it feels so good not to be a virgin anymore~"
     lu ""
 
-# game/scripts/kali_events.rpy:10551
+# game/scripts/kali_events.rpy:10549
 translate pt_br kdad_a8743434:
 
     # lu "Hahh, hnngh~! Nnnm, I never thought I would lose my virginity with my sister in the same house, NNM!"
     lu ""
 
-# game/scripts/kali_events.rpy:10552
+# game/scripts/kali_events.rpy:10550
 translate pt_br kdad_7fc5a78e:
 
     # lu "Mmmn, it's too bad Kali is too shy to say she loves you, I bet you'd love to be fucking both of us right now, wouldn't you? Mmmn~!"
     lu ""
 
-# game/scripts/kali_events.rpy:10553
+# game/scripts/kali_events.rpy:10551
 translate pt_br kdad_6e9f372a:
 
     # lu "Aaah! I can't believe it, I'm fucking a real cock! MMMMMN! Finally~ you have no idea how much I've needed this!"
     lu ""
 
-# game/scripts/kali_events.rpy:10556
+# game/scripts/kali_events.rpy:10554
 translate pt_br kdad_7b57aa84:
 
     # lu "Aaah, hnngh~! Come on, don't treat me like a delicate flower! FUCK ME! Make me cummm~!"
     lu ""
 
-# game/scripts/kali_events.rpy:10558
+# game/scripts/kali_events.rpy:10556
 translate pt_br kdad_b92f9c23:
 
     # lu "Aagh! Yes, YES! Mmmmn~! Harder, harder~~!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:10559
+# game/scripts/kali_events.rpy:10557
 translate pt_br kdad_60d593fb:
 
     # lu "Fuck me, [name]! Fuck me...! Hnnngh! Fuck, I'm so close...!"
     lu ""
 
-# game/scripts/kali_events.rpy:10560
+# game/scripts/kali_events.rpy:10558
 translate pt_br kdad_64ab70a1:
 
     # lu "Yes, yes, YES! AAAAAH~! I'm gonna cum, I'm gonna cummmm! Don't stop! Fucking cum in me, let's go all the way! Mmmn, mmmn, NNNNNNNNNGH!!!"
     lu ""
 
-# game/scripts/kali_events.rpy:10562
+# game/scripts/kali_events.rpy:10560
 translate pt_br kdad_d35f0b47:
 
     # lu "AAAAAGH! YESS!" with sshake
     lu "" with sshake
 
-# game/scripts/kali_events.rpy:10563
+# game/scripts/kali_events.rpy:10561
 translate pt_br kdad_72be4e73:
 
     # lu "Fuck, fuck, fuuuuuck~!" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:10564
+# game/scripts/kali_events.rpy:10562
 translate pt_br kdad_e68c427d:
 
     # lu "Nnnm, oh my god I can feel your cock throbbing inside of mee~" with ssshake
     lu "" with ssshake
 
-# game/scripts/kali_events.rpy:10566
+# game/scripts/kali_events.rpy:10564
 translate pt_br kdad_90dcb100:
 
     # lu "Hahhh...! Ahhh...! Fuck..."
     lu ""
 
-# game/scripts/kali_events.rpy:10567
+# game/scripts/kali_events.rpy:10565
 translate pt_br kdad_33426eac:
 
     # lu "Nnnnm, I hope Kali didn't hear us... heheh~ hhnnngh..."
     lu ""
 
-# game/scripts/kali_events.rpy:10569
+# game/scripts/kali_events.rpy:10567
 translate pt_br kdad_f7a59dbf:
 
     # "After taking a leak, you slink back into bed with the unaware Kali..."
     ""
 
-# game/scripts/kali_events.rpy:10576
+# game/scripts/kali_events.rpy:10574
 translate pt_br kdad_033c6c3d:
 
     # lu "Well, we can still have some after, right? Come on, I don't want to be a virgin forever...!"
     lu ""
 
-# game/scripts/kali_events.rpy:10577
+# game/scripts/kali_events.rpy:10575
 translate pt_br kdad_b90d6d57:
 
     # c "Sorry, bye."
     c ""
 
-# game/scripts/kali_events.rpy:10578
+# game/scripts/kali_events.rpy:10576
 translate pt_br kdad_2ab43b26:
 
     # lu "Wait, what!?"
     lu ""
 
-# game/scripts/kali_events.rpy:10580
+# game/scripts/kali_events.rpy:10578
 translate pt_br kdad_35130af7:
 
     # "After taking a leak, you slink back into bed with Kali..."
     ""
 
-# game/scripts/kali_events.rpy:10651
+# game/scripts/kali_events.rpy:10649
 translate pt_br kdad_df2c4abd:
 
     # "You sleep in late and wake to the scent of pizza being microwaved, smells like breakfast time."
     ""
 
-# game/scripts/kali_events.rpy:10653
+# game/scripts/kali_events.rpy:10651
 translate pt_br kdad_9e61f3b3:
 
     # k "You had sex with my sister!?" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:10654
+# game/scripts/kali_events.rpy:10652
 translate pt_br kdad_3e0390ff:
 
     # c "Uh..."
     c ""
 
-# game/scripts/kali_events.rpy:10655
+# game/scripts/kali_events.rpy:10653
 translate pt_br kdad_dea3653a:
 
     # lu "Heheh~ what's wrong Kali? Isn't he single?"
     lu ""
 
-# game/scripts/kali_events.rpy:10657
+# game/scripts/kali_events.rpy:10655
 translate pt_br kdad_d5aa0096:
 
     # k "Single? I... I don't know..."
     k ""
 
-# game/scripts/kali_events.rpy:10658
+# game/scripts/kali_events.rpy:10656
 translate pt_br kdad_707abd6a:
 
     # lu "Well if you haven't noticed, we're getting pretty close..."
     lu ""
 
-# game/scripts/kali_events.rpy:10659
+# game/scripts/kali_events.rpy:10657
 translate pt_br kdad_e6d6ee30:
 
     # k "You're not allowed to date him, brat! You're not old enough!"
     k ""
 
-# game/scripts/kali_events.rpy:10660
+# game/scripts/kali_events.rpy:10658
 translate pt_br kdad_c8e15579:
 
     # lu "Bitch, I'm 22."
     lu ""
 
-# game/scripts/kali_events.rpy:10661
+# game/scripts/kali_events.rpy:10659
 translate pt_br kdad_63bd4711:
 
     # k "I don't care! Mentally, you're like 4 and half!"
     k ""
 
-# game/scripts/kali_events.rpy:10662
+# game/scripts/kali_events.rpy:10660
 translate pt_br kdad_86de8ea8:
 
     # lu "Insults, really?"
     lu ""
 
-# game/scripts/kali_events.rpy:10663
+# game/scripts/kali_events.rpy:10661
 translate pt_br kdad_ae77a836:
 
     # k "What's your problem!? Why do you keep hitting on him?"
     k ""
 
-# game/scripts/kali_events.rpy:10664
+# game/scripts/kali_events.rpy:10662
 translate pt_br kdad_0103d0b7:
 
     # lu "Because he's single, sis... I don't see why we shouldn't fool around, he's not cheating..."
     lu ""
 
-# game/scripts/kali_events.rpy:10665
+# game/scripts/kali_events.rpy:10663
 translate pt_br kdad_4ada8cf1:
 
     # lu "Or, am I wrong? Hm? Could there possibly be a nerdy girl out there who loves playing games all day and secretly loves him but is way too shy to show it because she's just so terrified of opening up and letting people get to know her? Couldn't be you... could it?"
     lu ""
 
-# game/scripts/kali_events.rpy:10667
+# game/scripts/kali_events.rpy:10665
 translate pt_br kdad_48ed31aa:
 
     # k "W-Well... I..."
     k ""
 
-# game/scripts/kali_events.rpy:10668
+# game/scripts/kali_events.rpy:10666
 translate pt_br kdad_cbd332cc:
 
     # lu "Come on, Kali! Your last boyfriend left you because you wouldn't get off your lazy ass and go on a date with him! He's not going to wait forever, Kali. I know you..."
     lu ""
 
-# game/scripts/kali_events.rpy:10669
+# game/scripts/kali_events.rpy:10667
 translate pt_br kdad_e7a87367:
 
     # k "I- I can't...!"
     k ""
 
-# game/scripts/kali_events.rpy:10670
+# game/scripts/kali_events.rpy:10668
 translate pt_br kdad_9c21023e:
 
     # lu "Why not?"
     lu ""
 
-# game/scripts/kali_events.rpy:10671
+# game/scripts/kali_events.rpy:10669
 translate pt_br kdad_f0a2e195:
 
     # k "I just... well.. I'm not that interesting, so..."
     k ""
 
-# game/scripts/kali_events.rpy:10673
+# game/scripts/kali_events.rpy:10671
 translate pt_br kdad_a9abf52e:
 
     # lu "Hey [name], can I borrow you in the bathroom for a sec? I want to get a man's advice on my panties..."
     lu ""
 
-# game/scripts/kali_events.rpy:10674
+# game/scripts/kali_events.rpy:10672
 translate pt_br kdad_81bb9568:
 
     # k "What!? Don't follow her!"
     k ""
 
-# game/scripts/kali_events.rpy:10676
+# game/scripts/kali_events.rpy:10674
 translate pt_br kdad_7fbc6716:
 
     # lu "Hm? Why shouldn't he follow me Kali?"
     lu ""
 
-# game/scripts/kali_events.rpy:10677
+# game/scripts/kali_events.rpy:10675
 translate pt_br kdad_e12f9a30:
 
     # k "Because, uh..."
     k ""
 
-# game/scripts/kali_events.rpy:10678
+# game/scripts/kali_events.rpy:10676
 translate pt_br kdad_c2dbf67b:
 
     # lu "Say it!"
     lu ""
 
-# game/scripts/kali_events.rpy:10679
+# game/scripts/kali_events.rpy:10677
 translate pt_br kdad_e79eed03:
 
     # k "I-It's... nnh..."
     k ""
 
-# game/scripts/kali_events.rpy:10680
+# game/scripts/kali_events.rpy:10678
 translate pt_br kdad_a630d5e3:
 
     # lu "Come on, Kali! Say it!"
     lu ""
 
-# game/scripts/kali_events.rpy:10682
+# game/scripts/kali_events.rpy:10680
 translate pt_br kdad_b4ededfc:
 
     # k "Because I love you!"
     k ""
 
-# game/scripts/kali_events.rpy:10683
+# game/scripts/kali_events.rpy:10681
 translate pt_br kdad_be90cec8:
 
     # lu "*gasp*!"
     lu ""
 
-# game/scripts/kali_events.rpy:10685
+# game/scripts/kali_events.rpy:10683
 translate pt_br kdad_72a41aed:
 
     # lu "Wait, Kali...! Urgh... dammit..."
     lu ""
 
-# game/scripts/kali_events.rpy:10686
+# game/scripts/kali_events.rpy:10684
 translate pt_br kdad_c73f47aa:
 
     # c "...You told her we had sex?"
     c ""
 
-# game/scripts/kali_events.rpy:10687
+# game/scripts/kali_events.rpy:10685
 translate pt_br kdad_61d73360:
 
     # lu "Dude, I'm just trying to get her to admit her love for you... you have no idea how isolated she kept herself, how many opportunities she let go because she hesitated..."
     lu ""
 
-# game/scripts/kali_events.rpy:10688
+# game/scripts/kali_events.rpy:10686
 translate pt_br kdad_e5fe3ddb:
 
     # lu "Get out there, you need to go talk to her!"
     lu ""
 
-# game/scripts/kali_events.rpy:10689
+# game/scripts/kali_events.rpy:10687
 translate pt_br kdad_192147d7:
 
     # c "I should, be right back..."
     c ""
 
-# game/scripts/kali_events.rpy:10694
+# game/scripts/kali_events.rpy:10692
 translate pt_br kdad_fb05a80d:
 
     # k "{size=-5}{i}*sniff*, nnh... dammit... *sniff*...{/i}{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:10695
+# game/scripts/kali_events.rpy:10693
 translate pt_br kdad_c479c3ac:
 
     # c "There she is..."
     c ""
 
-# game/scripts/kali_events.rpy:10697
+# game/scripts/kali_events.rpy:10695
 translate pt_br kdad_4f7f84d1:
 
     # c "Kali... are you okay? What's wrong?"
     c ""
 
-# game/scripts/kali_events.rpy:10698
+# game/scripts/kali_events.rpy:10696
 translate pt_br kdad_83392fa3:
 
     # k "[name]? O-Oh, *sniff*! Nothing..."
     k ""
 
-# game/scripts/kali_events.rpy:10699
+# game/scripts/kali_events.rpy:10697
 translate pt_br kdad_82eb0108:
 
     # c "Kali..."
     c ""
 
-# game/scripts/kali_events.rpy:10700
+# game/scripts/kali_events.rpy:10698
 translate pt_br kdad_77e9d34c:
 
     # k "Just go hang out with Lucy..."
     k ""
 
-# game/scripts/kali_events.rpy:10701
+# game/scripts/kali_events.rpy:10699
 translate pt_br kdad_3ccdf2f8:
 
     # c "I don't want to be with Lucy, I want to be with you."
     c ""
 
-# game/scripts/kali_events.rpy:10702
+# game/scripts/kali_events.rpy:10700
 translate pt_br kdad_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10703
+# game/scripts/kali_events.rpy:10701
 translate pt_br kdad_980165d7:
 
     # k "Why do you even talk to me still? I'm rude, I'm ugly, I'm a fucking mess... my clothes are horrible, and I can't even style my own hair! I don't have any redeeming qualities at all..."
     k ""
 
-# game/scripts/kali_events.rpy:10704
+# game/scripts/kali_events.rpy:10702
 translate pt_br kdad_0a551d61:
 
     # c "Kali... you're beautiful, and one of the coolest women I know."
     c ""
 
-# game/scripts/kali_events.rpy:10706
+# game/scripts/kali_events.rpy:10704
 translate pt_br kdad_12263ee4:
 
     # k "*sniff*, no I'm not... I'm gross...!"
     k ""
 
-# game/scripts/kali_events.rpy:10707
+# game/scripts/kali_events.rpy:10705
 translate pt_br kdad_3d0c3526:
 
     # c "I don't care what you wear, or how you style your hair. You should have a little pride, you're even better on the inside."
     c ""
 
-# game/scripts/kali_events.rpy:10709
+# game/scripts/kali_events.rpy:10707
 translate pt_br kdad_f550a2e2:
 
     # k "Eh, heheh... did you just rhyme...? That was so cheesy..."
     k ""
 
-# game/scripts/kali_events.rpy:10710
+# game/scripts/kali_events.rpy:10708
 translate pt_br kdad_f31fc52d:
 
     # k "Lucy is right... I always push everybody I get close to away..."
     k ""
 
-# game/scripts/kali_events.rpy:10711
+# game/scripts/kali_events.rpy:10709
 translate pt_br kdad_930fe6e7:
 
     # k "When I was a kid, I was really fat so I was always picked on... it ruined my self confidence... One day in school I confessed my love to a boy and I was bullied the rest of the year for it... it was so humiliating..."
     k ""
 
-# game/scripts/kali_events.rpy:10712
+# game/scripts/kali_events.rpy:10710
 translate pt_br kdad_bd0d66bc:
 
     # k "Everytime I get close to someone I just feel... like there's no way they're going to like the real me..."
     k ""
 
-# game/scripts/kali_events.rpy:10713
+# game/scripts/kali_events.rpy:10711
 translate pt_br kdad_95d2655f:
 
     # k "I guess you hate me, right? For trying to push you away..."
     k ""
 
-# game/scripts/kali_events.rpy:10714
+# game/scripts/kali_events.rpy:10712
 translate pt_br kdad_cefc2410:
 
     # c "Not at all. Nobody is perfect, we all have things to work out."
     c ""
 
-# game/scripts/kali_events.rpy:10715
+# game/scripts/kali_events.rpy:10713
 translate pt_br kdad_f63b487a:
 
     # k "[name]..."
     k ""
 
-# game/scripts/kali_events.rpy:10717
+# game/scripts/kali_events.rpy:10715
 translate pt_br kdad_84109e71:
 
     # k "Mmmn~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10719
+# game/scripts/kali_events.rpy:10717
 translate pt_br kdad_8ae3fbac:
 
     # k "I... I'm sorry... should I not have done that?"
     k ""
 
-# game/scripts/kali_events.rpy:10720
+# game/scripts/kali_events.rpy:10718
 translate pt_br kdad_af309cd4:
 
     # c "Shut up, it was perfect."
     c ""
 
-# game/scripts/kali_events.rpy:10722
+# game/scripts/kali_events.rpy:10720
 translate pt_br kdad_6aa8fbef:
 
     # k "Mmmn! Mmmn..."
     k ""
 
-# game/scripts/kali_events.rpy:10723
+# game/scripts/kali_events.rpy:10721
 translate pt_br kdad_b4f74821:
 
     # k "Nnnh... mmmn..."
     k ""
 
-# game/scripts/kali_events.rpy:10725
+# game/scripts/kali_events.rpy:10723
 translate pt_br kdad_48cd4db7:
 
     # k "[name], I love you... you're the best thing that's ever happened to me... I don't want to lose you..."
     k ""
 
-# game/scripts/kali_events.rpy:10726
+# game/scripts/kali_events.rpy:10724
 translate pt_br kdad_23030797:
 
     # c "I love you too, Kali. I love you too..."
     c ""
 
-# game/scripts/kali_events.rpy:10731
+# game/scripts/kali_events.rpy:10729
 translate pt_br kdad_16315632:
 
     # lu "So, how did it go? Are you two together yet?"
     lu ""
 
-# game/scripts/kali_events.rpy:10732
+# game/scripts/kali_events.rpy:10730
 translate pt_br kdad_f36d3575:
 
     # k "...Maybe."
     k ""
 
-# game/scripts/kali_events.rpy:10733
+# game/scripts/kali_events.rpy:10731
 translate pt_br kdad_8a50550d:
 
     # lu "Kali..."
     lu ""
 
-# game/scripts/kali_events.rpy:10734
+# game/scripts/kali_events.rpy:10732
 translate pt_br kdad_2d7c3613:
 
     # k "...Yeah, we're together... I'm his girlfriend."
     k ""
 
-# game/scripts/kali_events.rpy:10735
+# game/scripts/kali_events.rpy:10733
 translate pt_br kdad_e3ecf02f:
 
     # lu "There you go!"
     lu ""
 
-# game/scripts/kali_events.rpy:10736
+# game/scripts/kali_events.rpy:10734
 translate pt_br kdad_381920ef:
 
     # lu "Well, I hope you guys are packed up! Your flight leaves in an hour."
     lu ""
 
-# game/scripts/kali_events.rpy:10738
+# game/scripts/kali_events.rpy:10736
 translate pt_br kdad_11d30497:
 
     # k "What do you mean our flight leaves in an hour!? We just got here yesterday!"
     k ""
 
-# game/scripts/kali_events.rpy:10739
+# game/scripts/kali_events.rpy:10737
 translate pt_br kdad_6a15ddcd:
 
     # lu "Dad never told you? He bought two-way tickets. Better leave soon unless you want to pay for your own ride back..."
     lu ""
 
-# game/scripts/kali_events.rpy:10740
+# game/scripts/kali_events.rpy:10738
 translate pt_br kdad_6596409b:
 
     # k "I didn't even get to say hi to him!"
     k ""
 
-# game/scripts/kali_events.rpy:10741
+# game/scripts/kali_events.rpy:10739
 translate pt_br kdad_2125d179:
 
     # lu "Well, that's dad for you..."
     lu ""
 
-# game/scripts/kali_events.rpy:10742
+# game/scripts/kali_events.rpy:10740
 translate pt_br kdad_6234c9e0:
 
     # k "Dammit, come on [name]! I don't have shit packed! Fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:10743
+# game/scripts/kali_events.rpy:10741
 translate pt_br kdad_1f992d02:
 
     # lu "Heh, see ya guys!"
     lu ""
 
-# game/scripts/kali_events.rpy:10745
+# game/scripts/kali_events.rpy:10743
 translate pt_br kdad_25cffc39:
 
     # "You and Kali rush to pack your bags. You hop in your car, drive to the airport and manage to find a seat with minutes to spare."
     ""
 
-# game/scripts/kali_events.rpy:10746
+# game/scripts/kali_events.rpy:10744
 translate pt_br kdad_ca18dc77:
 
     # "After another long, boring flight, you arrive back to the hotel..."
     ""
 
-# game/scripts/kali_events.rpy:10748
+# game/scripts/kali_events.rpy:10746
 translate pt_br kdad_80f3e5b4:
 
     # k "Phew, we finally made it back... I'm so tired..."
     k ""
 
-# game/scripts/kali_events.rpy:10749
+# game/scripts/kali_events.rpy:10747
 translate pt_br kdad_387d6341:
 
     # k "Thank you, [name]... I feel like a totally different person now. A big weight was lifted off my shoulders because of you two, as much as I hate giving Lucy any credit..."
     k ""
 
-# game/scripts/kali_events.rpy:10750
+# game/scripts/kali_events.rpy:10748
 translate pt_br kdad_458eb72c:
 
     # k "I'll... see you later. Bye..."
     k ""
 
-# game/scripts/kali_events.rpy:10755
+# game/scripts/kali_events.rpy:10753
 translate pt_br kdad_d5da669e:
 
     # l "[linoname]? [linoname]!"
     l ""
 
-# game/scripts/kali_events.rpy:10757
+# game/scripts/kali_events.rpy:10755
 translate pt_br kdad_766d576b:
 
     # l "Where did you go, [linoname]? You just disappeared one day and I got so worried...!"
     l ""
 
-# game/scripts/kali_events.rpy:10758
+# game/scripts/kali_events.rpy:10756
 translate pt_br kdad_c7ab405d:
 
     # c "I just went on a little vacation with Kali."
     c ""
 
-# game/scripts/kali_events.rpy:10759
+# game/scripts/kali_events.rpy:10757
 translate pt_br kdad_de300569:
 
     # l "Oh... you should tell me next time... I thought you might have left forever..."
     l ""
 
-# game/scripts/kali_events.rpy:10760
+# game/scripts/kali_events.rpy:10758
 translate pt_br kdad_8eb6c9ee:
 
     # c "I wouldn't ever do that to you."
     c ""
 
-# game/scripts/kali_events.rpy:10762
+# game/scripts/kali_events.rpy:10760
 translate pt_br kdad_73800d6f:
 
     # l "Okay~ would you like anything to eat, [linoname]? I'm sure you're hungry..."
     l ""
 
-# game/scripts/kali_events.rpy:10763
+# game/scripts/kali_events.rpy:10761
 translate pt_br kdad_4bd54cc7:
 
     # c "Maybe in a bit, let me unpack my things first."
     c ""
 
-# game/scripts/kali_events.rpy:10764
+# game/scripts/kali_events.rpy:10762
 translate pt_br kdad_c6c955e3:
 
     # l "Okay..."
     l ""
 
-# game/scripts/kali_events.rpy:10772
+# game/scripts/kali_events.rpy:10770
 translate pt_br kalisdad_52f49bc8:
 
     # k "Hey [name]... This is... my Dad..."
     k ""
 
-# game/scripts/kali_events.rpy:10773
+# game/scripts/kali_events.rpy:10771
 translate pt_br kalisdad_1e5ccde6:
 
     # kd "So this is [name]? It's good to finally meet you! Kali has told me so much about you."
     kd ""
 
-# game/scripts/kali_events.rpy:10776
+# game/scripts/kali_events.rpy:10774
 translate pt_br kalisdad_ba64ca8b:
 
     # k "Oh my god Dad, shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:10779
+# game/scripts/kali_events.rpy:10777
 translate pt_br kalisdad_3054633b:
 
     # kd "What? Can't a father talk to her daughter's boyfriend?"
     kd ""
 
-# game/scripts/kali_events.rpy:10780
+# game/scripts/kali_events.rpy:10778
 translate pt_br kalisdad_181f340a:
 
     # k "DAD! We haven't even talked about that! It's not official, shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:10781
+# game/scripts/kali_events.rpy:10779
 translate pt_br kalisdad_371eb7a2:
 
     # kd "Oh come on, from what you told me he clearly likes you."
     kd ""
 
-# game/scripts/kali_events.rpy:10782
+# game/scripts/kali_events.rpy:10780
 translate pt_br kalisdad_903d8b06:
 
     # k "{size=-10}{i}This is so embarrassing!{/i}{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:10785
+# game/scripts/kali_events.rpy:10783
 translate pt_br kalisdad_7a526552:
 
     # kd "Whatever you're doing to keep my daughter happy, keep at it! You'll need to tell me sometime, she's a really tough person to please."
     kd ""
 
-# game/scripts/kali_events.rpy:10786
+# game/scripts/kali_events.rpy:10784
 translate pt_br kalisdad_3a79a8d9:
 
     # k "Eghhhh..."
     k ""
 
-# game/scripts/kali_events.rpy:10787
+# game/scripts/kali_events.rpy:10785
 translate pt_br kalisdad_46655e72:
 
     # kd "So how's that job working out for you Kali? You seem to be doing well on your own now."
     kd ""
 
-# game/scripts/kali_events.rpy:10790
+# game/scripts/kali_events.rpy:10788
 translate pt_br kalisdad_0b2a6b08:
 
     # k "It's fine, Dad. Can you go now?"
     k ""
 
-# game/scripts/kali_events.rpy:10791
+# game/scripts/kali_events.rpy:10789
 translate pt_br kalisdad_19cae5de:
 
     # kd "Oh come on Kali, it's rare we get to chat face to face. Where do you work? You haven't given me a name yet. Do you work here now?"
     kd ""
 
-# game/scripts/kali_events.rpy:10792
+# game/scripts/kali_events.rpy:10790
 translate pt_br kalisdad_1704be15:
 
     # k "No Dad, I work at a pizza place. I deliver pizzas."
     k ""
 
-# game/scripts/kali_events.rpy:10793
+# game/scripts/kali_events.rpy:10791
 translate pt_br kalisdad_613825be:
 
     # kd "Really? You seem to be making a lot of money from tips then. You must be quite the charismatic girl!"
     kd ""
 
-# game/scripts/kali_events.rpy:10794
+# game/scripts/kali_events.rpy:10792
 translate pt_br kalisdad_c32e6b21:
 
     # kd "You wouldn't happen to be talking about Papa Rons, would you?"
     kd ""
 
-# game/scripts/kali_events.rpy:10795
+# game/scripts/kali_events.rpy:10793
 translate pt_br kalisdad_7fb60a44:
 
     # k "Yeah, so?"
     k ""
 
-# game/scripts/kali_events.rpy:10796
+# game/scripts/kali_events.rpy:10794
 translate pt_br kalisdad_f3607d69:
 
     # kd "That's great! My business partners and I have been discussing whether or not we should buy them out, it's actually why I'm here. What do you think sweetie?"
     kd ""
 
-# game/scripts/kali_events.rpy:10799
+# game/scripts/kali_events.rpy:10797
 translate pt_br kalisdad_7db874e8:
 
     # k "What!? You want to buy them out?"
     k ""
 
-# game/scripts/kali_events.rpy:10800
+# game/scripts/kali_events.rpy:10798
 translate pt_br kalisdad_7f3f225f:
 
     # kd "Of course! Their business seems to be doing well, and now that I know you work there, I could even promote you to manager!"
     kd ""
 
-# game/scripts/kali_events.rpy:10801
+# game/scripts/kali_events.rpy:10799
 translate pt_br kalisdad_73546876:
 
     # k "Dad I don't want that! Stay out of my life!"
     k ""
 
-# game/scripts/kali_events.rpy:10804
+# game/scripts/kali_events.rpy:10802
 translate pt_br kalisdad_587661f1:
 
     # kd "What? You don't think you'd be a good manager? You're pretty bossy, I think you'd do well! Haha!"
     kd ""
 
-# game/scripts/kali_events.rpy:10807
+# game/scripts/kali_events.rpy:10805
 translate pt_br kalisdad_443cc2b0:
 
     # k "Oh my god Dad! Go away already!"
     k ""
 
-# game/scripts/kali_events.rpy:10808
+# game/scripts/kali_events.rpy:10806
 translate pt_br kalisdad_4ac2cbb8:
 
     # kd "We could get them to sell hot dogs you know."
     kd ""
 
-# game/scripts/kali_events.rpy:10809
+# game/scripts/kali_events.rpy:10807
 translate pt_br kalisdad_c3f24f15:
 
     # k "DAD!"
     k ""
 
-# game/scripts/kali_events.rpy:10812
+# game/scripts/kali_events.rpy:10810
 translate pt_br kalisdad_2dee74b5:
 
     # kd "Hahaha! I'm just teasing you honey. But it wouldn't be that bad of an idea, would it?"
     kd ""
 
-# game/scripts/kali_events.rpy:10813
+# game/scripts/kali_events.rpy:10811
 translate pt_br kalisdad_b51fbe36:
 
     # k "Can you just go home Dad?"
     k ""
 
-# game/scripts/kali_events.rpy:10814
+# game/scripts/kali_events.rpy:10812
 translate pt_br kalisdad_f22f15b6:
 
     # kd "Oh! Speaking of home, why don't you guys come by? I could make you two dinner. You know your younger sister is living with me still right? You guys could have a talk!"
     kd ""
 
-# game/scripts/kali_events.rpy:10815
+# game/scripts/kali_events.rpy:10813
 translate pt_br kalisdad_204796cd:
 
     # k "Your house is so far away, we couldn't afford to fly there!"
     k ""
 
-# game/scripts/kali_events.rpy:10816
+# game/scripts/kali_events.rpy:10814
 translate pt_br kalisdad_9fa0d9a8:
 
     # kd "I'd pay for your flight of course. I'd love to make you dinner again honey. What do you say Mr. [name]?"
     kd ""
 
-# game/scripts/kali_events.rpy:10819
+# game/scripts/kali_events.rpy:10817
 translate pt_br kalisdad_96592f97:
 
     # kd "See! He wants to talk with his father in law!"
     kd ""
 
-# game/scripts/kali_events.rpy:10820
+# game/scripts/kali_events.rpy:10818
 translate pt_br kalisdad_ce14214b:
 
     # k "OH MY GOD DAD!"
     k ""
 
-# game/scripts/kali_events.rpy:10821
+# game/scripts/kali_events.rpy:10819
 translate pt_br kalisdad_b035d3d4:
 
     # kd "Hahaha!"
     kd ""
 
-# game/scripts/kali_events.rpy:10823
+# game/scripts/kali_events.rpy:10821
 translate pt_br kalisdad_88c9645f:
 
     # kd "Aw well, it's something to think about at least. Maybe we could talk about me investing in your hotel? It seems to be doing well."
     kd ""
 
-# game/scripts/kali_events.rpy:10824
+# game/scripts/kali_events.rpy:10822
 translate pt_br kalisdad_5c5a56bc:
 
     # k "Dad, please, stay out of my life!"
     k ""
 
-# game/scripts/kali_events.rpy:10825
+# game/scripts/kali_events.rpy:10823
 translate pt_br kalisdad_12531219:
 
     # kd "Well, I should get going. We'll be discussing if we should buy out Papa Rons. I'll let you know the results honey."
     kd ""
 
-# game/scripts/kali_events.rpy:10826
+# game/scripts/kali_events.rpy:10824
 translate pt_br kalisdad_79c83324:
 
     # k "Okay, great! Bye dad!"
     k ""
 
-# game/scripts/kali_events.rpy:10827
+# game/scripts/kali_events.rpy:10825
 translate pt_br kalisdad_8c8ead86:
 
     # kd "I'll be seeing you Mr. [name]! Have a good day."
     kd ""
 
-# game/scripts/kali_events.rpy:10831
+# game/scripts/kali_events.rpy:10829
 translate pt_br kalisdad_c2f25217:
 
     # k "[name] I'm so sorry! I didn't even know he was coming by, he surprised me!"
     k ""
 
-# game/scripts/kali_events.rpy:10832
+# game/scripts/kali_events.rpy:10830
 translate pt_br kalisdad_57fe814f:
 
     # c "He didn't seem so bad."
     c ""
 
-# game/scripts/kali_events.rpy:10835
+# game/scripts/kali_events.rpy:10833
 translate pt_br kalisdad_e5994e9b:
 
     # k "Are you kidding? You saw him, he was so embarrassing! Saying 'you like your hot dogs don't you Kali?' OH MY GOD! It's like he fucking knew!"
     k ""
 
-# game/scripts/kali_events.rpy:10836
+# game/scripts/kali_events.rpy:10834
 translate pt_br kalisdad_4e34f1a1:
 
     # k "And 'good job keeping my daughter happy'. Like what the FUCK!?"
     k ""
 
-# game/scripts/kali_events.rpy:10837
+# game/scripts/kali_events.rpy:10835
 translate pt_br kalisdad_971447a6:
 
     # c "What did you tell him about us?"
     c ""
 
-# game/scripts/kali_events.rpy:10840
+# game/scripts/kali_events.rpy:10838
 translate pt_br kalisdad_04035daa:
 
     # k "W-What!? Nothing! I'm going to hide under my sheets now, bye!"
     k ""
 
-# game/scripts/kali_events.rpy:10847
+# game/scripts/kali_events.rpy:10845
 translate pt_br kalilinmaid_858ac467:
 
     # k "I guess I do look pretty good in this..."
     k ""
 
-# game/scripts/kali_events.rpy:10849
+# game/scripts/kali_events.rpy:10847
 translate pt_br kalilinmaid_0ae3e33b:
 
     # k "If he finds me sexier in this... I guess I have no choice but to keep it..."
     k ""
 
-# game/scripts/kali_events.rpy:10850
+# game/scripts/kali_events.rpy:10848
 translate pt_br kalilinmaid_2d1d3563:
 
     # l "Kali, I finished your laundry!"
     l ""
 
-# game/scripts/kali_events.rpy:10852
+# game/scripts/kali_events.rpy:10850
 translate pt_br kalilinmaid_48164fab:
 
     # k "AAAAH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:10854
+# game/scripts/kali_events.rpy:10852
 translate pt_br kalilinmaid_d004d7bf:
 
     # k "Uhh..."
     k ""
 
-# game/scripts/kali_events.rpy:10855
+# game/scripts/kali_events.rpy:10853
 translate pt_br kalilinmaid_210ebf3a:
 
     # l "Kali... what are you wearing?"
     l ""
 
-# game/scripts/kali_events.rpy:10856
+# game/scripts/kali_events.rpy:10854
 translate pt_br kalilinmaid_5cef2c24:
 
     # k "It's... ummm... n-nothing..."
     k ""
 
-# game/scripts/kali_events.rpy:10857
+# game/scripts/kali_events.rpy:10855
 translate pt_br kalilinmaid_253625c4:
 
     # k "Just uh... cosplay."
     k ""
 
-# game/scripts/kali_events.rpy:10859
+# game/scripts/kali_events.rpy:10857
 translate pt_br kalilinmaid_93fdb669:
 
     # l "What? Hey are you trying to copy me? Where did you get that dress anyway?"
     l ""
 
-# game/scripts/kali_events.rpy:10860
+# game/scripts/kali_events.rpy:10858
 translate pt_br kalilinmaid_386743b8:
 
     # k "That's uh... none of your business! I was just... seeing how it looked on me...!"
     k ""
 
-# game/scripts/kali_events.rpy:10861
+# game/scripts/kali_events.rpy:10859
 translate pt_br kalilinmaid_eaebfb23:
 
     # l "I've never washed or seen that dress before... hmmmm..."
     l ""
 
-# game/scripts/kali_events.rpy:10862
+# game/scripts/kali_events.rpy:10860
 translate pt_br kalilinmaid_286f9c09:
 
     # k "S-Shut up! You didn't see anything!"
     k ""
 
-# game/scripts/kali_events.rpy:10863
+# game/scripts/kali_events.rpy:10861
 translate pt_br kalilinmaid_223034b3:
 
     # l "That's for [linoname] isn't it? You saw how much he liked me in this dress so you bought one for yourself didn't you? You're trying to seduce [linoname] and take him away from me!"
     l ""
 
-# game/scripts/kali_events.rpy:10864
+# game/scripts/kali_events.rpy:10862
 translate pt_br kalilinmaid_4a2d0e38:
 
     # k "I'm not trying to steal him from you or anything...!"
     k ""
 
-# game/scripts/kali_events.rpy:10866
+# game/scripts/kali_events.rpy:10864
 translate pt_br kalilinmaid_e683ec64:
 
     # k "[name] bought this for me when you were sick, alright?"
     k ""
 
-# game/scripts/kali_events.rpy:10867
+# game/scripts/kali_events.rpy:10865
 translate pt_br kalilinmaid_ee5176f5:
 
     # l "So why are you wearing it now?"
     l ""
 
-# game/scripts/kali_events.rpy:10868
+# game/scripts/kali_events.rpy:10866
 translate pt_br kalilinmaid_71967859:
 
     # k "Uh... Because you were washing my clothes!"
     k ""
 
-# game/scripts/kali_events.rpy:10869
+# game/scripts/kali_events.rpy:10867
 translate pt_br kalilinmaid_6ea89a01:
 
     # l "You have other clothes Kali..."
     l ""
 
-# game/scripts/kali_events.rpy:10870
+# game/scripts/kali_events.rpy:10868
 translate pt_br kalilinmaid_53830ed7:
 
     # k "Well... That's because..."
     k ""
 
-# game/scripts/kali_events.rpy:10871
+# game/scripts/kali_events.rpy:10869
 translate pt_br kalilinmaid_cb77cbc3:
 
     # k "Urgh... It's because I like it, okay? It's a little girly, but... [name] liked it on me so... I was just trying it on..."
     k ""
 
-# game/scripts/kali_events.rpy:10872
+# game/scripts/kali_events.rpy:10870
 translate pt_br kalilinmaid_f4153f32:
 
     # k "You wash clothes really fast, don't you...?"
     k ""
 
-# game/scripts/kali_events.rpy:10874
+# game/scripts/kali_events.rpy:10872
 translate pt_br kalilinmaid_1bb5ded5:
 
     # l "[linoname] said he liked you in that dress?"
     l ""
 
-# game/scripts/kali_events.rpy:10875
+# game/scripts/kali_events.rpy:10873
 translate pt_br kalilinmaid_14ab82a2:
 
     # k "Well... He didn't say that exactly, but... Yeah."
     k ""
 
-# game/scripts/kali_events.rpy:10876
+# game/scripts/kali_events.rpy:10874
 translate pt_br kalilinmaid_86ebffb7:
 
     # l "And you like him back?"
     l ""
 
-# game/scripts/kali_events.rpy:10878
+# game/scripts/kali_events.rpy:10876
 translate pt_br kalilinmaid_f3af628d:
 
     # k "I... I guess a little..."
     k ""
 
-# game/scripts/kali_events.rpy:10879
+# game/scripts/kali_events.rpy:10877
 translate pt_br kalilinmaid_d80db94b:
 
     # l "Really?"
     l ""
 
-# game/scripts/kali_events.rpy:10880
+# game/scripts/kali_events.rpy:10878
 translate pt_br kalilinmaid_405297fa:
 
     # k "Yeah... I guess so..."
     k ""
 
-# game/scripts/kali_events.rpy:10882
+# game/scripts/kali_events.rpy:10880
 translate pt_br kalilinmaid_2f14b11b:
 
     # l "What do you like about him?"
     l ""
 
-# game/scripts/kali_events.rpy:10883
+# game/scripts/kali_events.rpy:10881
 translate pt_br kalilinmaid_bb1ca162:
 
     # k "I don't know... He's nice I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:10884
+# game/scripts/kali_events.rpy:10882
 translate pt_br kalilinmaid_0b2a7cba:
 
     # l "I don't think that's enough for one person to like another."
     l ""
 
-# game/scripts/kali_events.rpy:10885
+# game/scripts/kali_events.rpy:10883
 translate pt_br kalilinmaid_975d42e2:
 
     # k "Well... When I'm with him I feel..."
     k ""
 
-# game/scripts/kali_events.rpy:10887
+# game/scripts/kali_events.rpy:10885
 translate pt_br kalilinmaid_054f1348:
 
     # l "Happy? Like you don't want to leave his side?"
     l ""
 
-# game/scripts/kali_events.rpy:10888
+# game/scripts/kali_events.rpy:10886
 translate pt_br kalilinmaid_cc038c40:
 
     # k "Yeah..."
     k ""
 
-# game/scripts/kali_events.rpy:10889
+# game/scripts/kali_events.rpy:10887
 translate pt_br kalilinmaid_8c3d6ece:
 
     # l "Me too..."
     l ""
 
-# game/scripts/kali_events.rpy:10890
+# game/scripts/kali_events.rpy:10888
 translate pt_br kalilinmaid_37b7a805:
 
     # l "It feels like butterflies are in my stomach, and I just want to hold his hand forever..."
     l ""
 
-# game/scripts/kali_events.rpy:10892
+# game/scripts/kali_events.rpy:10890
 translate pt_br kalilinmaid_ce3c4fcb:
 
     # k "So you like him too?"
     k ""
 
-# game/scripts/kali_events.rpy:10893
+# game/scripts/kali_events.rpy:10891
 translate pt_br kalilinmaid_61ee23d1:
 
     # l "Yeah... I do. I've never had a good Master before, at least one as good as him. I feel like he cares for me... He makes me feel like I'm more than just an Elf... Or a slave."
     l ""
 
-# game/scripts/kali_events.rpy:10894
+# game/scripts/kali_events.rpy:10892
 translate pt_br kalilinmaid_875d0c55:
 
     # l "He makes me feel like I'm... Human..."
     l ""
 
-# game/scripts/kali_events.rpy:10895
+# game/scripts/kali_events.rpy:10893
 translate pt_br kalilinmaid_acd42254:
 
     # k "That's kind of weird..."
     k ""
 
-# game/scripts/kali_events.rpy:10897
+# game/scripts/kali_events.rpy:10895
 translate pt_br kalilinmaid_ba49e173:
 
     # k "But I guess I know what you mean... He makes me feel special too..."
     k ""
 
-# game/scripts/kali_events.rpy:10898
+# game/scripts/kali_events.rpy:10896
 translate pt_br kalilinmaid_67c2bb20:
 
     # k "When we first met, I was such an asshole... I told him to fuck off... I regret it so much."
     k ""
 
-# game/scripts/kali_events.rpy:10899
+# game/scripts/kali_events.rpy:10897
 translate pt_br kalilinmaid_88bc30c0:
 
     # k "I've never really had a crush before. I don't get too much attention from guys... Maybe it's because I don't dress girly?"
     k ""
 
-# game/scripts/kali_events.rpy:10900
+# game/scripts/kali_events.rpy:10898
 translate pt_br kalilinmaid_75a89650:
 
     # l "Well... I think you're cute..."
     l ""
 
-# game/scripts/kali_events.rpy:10902
+# game/scripts/kali_events.rpy:10900
 translate pt_br kalilinmaid_7a6beb70:
 
     # k "Really?"
     k ""
 
-# game/scripts/kali_events.rpy:10903
+# game/scripts/kali_events.rpy:10901
 translate pt_br kalilinmaid_cb855101:
 
     # l "Yeah! I like your glasses."
     l ""
 
-# game/scripts/kali_events.rpy:10904
+# game/scripts/kali_events.rpy:10902
 translate pt_br kalilinmaid_719a51b7:
 
     # k "Hahaha... Thanks..."
     k ""
 
-# game/scripts/kali_events.rpy:10906
+# game/scripts/kali_events.rpy:10904
 translate pt_br kalilinmaid_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10908
+# game/scripts/kali_events.rpy:10906
 translate pt_br kalilinmaid_5702b6a3:
 
     # k "Hm. So what rights do you have?"
     k ""
 
-# game/scripts/kali_events.rpy:10909
+# game/scripts/kali_events.rpy:10907
 translate pt_br kalilinmaid_3e2253f6:
 
     # l "We only received rights 30 years ago. Someone new became the minister of elves, I think his name was Cornwall something."
     l ""
 
-# game/scripts/kali_events.rpy:10910
+# game/scripts/kali_events.rpy:10908
 translate pt_br kalilinmaid_d31a76a4:
 
     # l "He gave us the right to food and water, the right to a break and the right to a bed, the right to clothes..."
     l ""
 
-# game/scripts/kali_events.rpy:10911
+# game/scripts/kali_events.rpy:10909
 translate pt_br kalilinmaid_281c11cd:
 
     # k "So no free speech?"
     k ""
 
-# game/scripts/kali_events.rpy:10912
+# game/scripts/kali_events.rpy:10910
 translate pt_br kalilinmaid_397784c9:
 
     # l "Nope... some Masters prefer we stay silent..."
     l ""
 
-# game/scripts/kali_events.rpy:10913
+# game/scripts/kali_events.rpy:10911
 translate pt_br kalilinmaid_2e9bd230:
 
     # k "Oh..."
     k ""
 
-# game/scripts/kali_events.rpy:10915
+# game/scripts/kali_events.rpy:10913
 translate pt_br kalilinmaid_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:10916
+# game/scripts/kali_events.rpy:10914
 translate pt_br kalilinmaid_82822a0c:
 
     # l "..."
     l ""
 
-# game/scripts/kali_events.rpy:10917
+# game/scripts/kali_events.rpy:10915
 translate pt_br kalilinmaid_10895596:
 
     # l "I don't mind that [linoname] likes you."
     l ""
 
-# game/scripts/kali_events.rpy:10919
+# game/scripts/kali_events.rpy:10917
 translate pt_br kalilinmaid_7a6beb70_1:
 
     # k "Really?"
     k ""
 
-# game/scripts/kali_events.rpy:10920
+# game/scripts/kali_events.rpy:10918
 translate pt_br kalilinmaid_2997262b:
 
     # l "Not at all! I don't expect to ever have a boyfriend or anything like that. I'm used to that sort of thing. I'm a slave after all... Love isn't a part of the deal."
     l ""
 
-# game/scripts/kali_events.rpy:10921
+# game/scripts/kali_events.rpy:10919
 translate pt_br kalilinmaid_2726879b:
 
     # k "But... that's not fair!"
     k ""
 
-# game/scripts/kali_events.rpy:10922
+# game/scripts/kali_events.rpy:10920
 translate pt_br kalilinmaid_bfda93c7:
 
     # l "I don't have the right to love Kali..."
     l ""
 
-# game/scripts/kali_events.rpy:10923
+# game/scripts/kali_events.rpy:10921
 translate pt_br kalilinmaid_b9752861:
 
     # k "But..."
     k ""
 
-# game/scripts/kali_events.rpy:10924
+# game/scripts/kali_events.rpy:10922
 translate pt_br kalilinmaid_03635f6b:
 
     # l "It's okay, really. Maybe [linoname] likes me, maybe he doesn't... It doesn't really change much, does it?"
     l ""
 
-# game/scripts/kali_events.rpy:10925
+# game/scripts/kali_events.rpy:10923
 translate pt_br kalilinmaid_25b5e573:
 
     # k "Well couldn't he free you if he wanted?"
     k ""
 
-# game/scripts/kali_events.rpy:10926
+# game/scripts/kali_events.rpy:10924
 translate pt_br kalilinmaid_12765b2b:
 
     # l "Maybe... But I don't really want to be freed. I want life to stay like this forever. With me at [linoname]'s side."
     l ""
 
-# game/scripts/kali_events.rpy:10927
+# game/scripts/kali_events.rpy:10925
 translate pt_br kalilinmaid_7c131b84:
 
     # k "Lin..."
     k ""
 
-# game/scripts/kali_events.rpy:10928
+# game/scripts/kali_events.rpy:10926
 translate pt_br kalilinmaid_d984486f:
 
     # l "It's not much different from being married, is it?"
     l ""
 
-# game/scripts/kali_events.rpy:10930
+# game/scripts/kali_events.rpy:10928
 translate pt_br kalilinmaid_b56c9c0e:
 
     # k "Hahah... I guess you're right..."
     k ""
 
-# game/scripts/kali_events.rpy:10931
+# game/scripts/kali_events.rpy:10929
 translate pt_br kalilinmaid_a7b50953:
 
     # l "Tell me more about you and [linoname]."
     l ""
 
-# game/scripts/kali_events.rpy:10932
+# game/scripts/kali_events.rpy:10930
 translate pt_br kalilinmaid_87e6bf72:
 
     # k "...The first time he asked me on a date... I freaked out."
     k ""
 
-# game/scripts/kali_events.rpy:10933
+# game/scripts/kali_events.rpy:10931
 translate pt_br kalilinmaid_be3a5d10:
 
     # l "Really? What happened?"
     l ""
 
-# game/scripts/kali_events.rpy:10934
+# game/scripts/kali_events.rpy:10932
 translate pt_br kalilinmaid_a184bc1a:
 
     # k "I told him I couldn't go without a dress. I wanted it to be special, you know? So I wanted something fancy..."
     k ""
 
-# game/scripts/kali_events.rpy:10935
+# game/scripts/kali_events.rpy:10933
 translate pt_br kalilinmaid_e981491c:
 
     # k "I didn't have the money though, so I had to call my Dad. He loaned me $500 for a dress if I promised I would get a job."
     k ""
 
-# game/scripts/kali_events.rpy:10936
+# game/scripts/kali_events.rpy:10934
 translate pt_br kalilinmaid_5de77f55:
 
     # l "That dress cost you $500? I didn't know... I should have been more careful when washing it."
     l ""
 
-# game/scripts/kali_events.rpy:10937
+# game/scripts/kali_events.rpy:10935
 translate pt_br kalilinmaid_f1a0be48:
 
     # k "It's okay... I didn't plan on wearing it ever again."
     k ""
 
-# game/scripts/kali_events.rpy:10938
+# game/scripts/kali_events.rpy:10936
 translate pt_br kalilinmaid_88305d3b:
 
     # l "Why not?"
     l ""
 
-# game/scripts/kali_events.rpy:10939
+# game/scripts/kali_events.rpy:10937
 translate pt_br kalilinmaid_35120899:
 
     # k "It's stupid... I wore a $500 dress to a cafe. We didn't go anywhere fancy, we weren't served lobster or anything fancy like that. I looked so out of place..."
     k ""
 
-# game/scripts/kali_events.rpy:10940
+# game/scripts/kali_events.rpy:10938
 translate pt_br kalilinmaid_bce8b0de:
 
     # l "I bet [linoname] liked it."
     l ""
 
-# game/scripts/kali_events.rpy:10941
+# game/scripts/kali_events.rpy:10939
 translate pt_br kalilinmaid_8f720665:
 
     # k "Maybe..."
     k ""
 
-# game/scripts/kali_events.rpy:10942
+# game/scripts/kali_events.rpy:10940
 translate pt_br kalilinmaid_b6518b75:
 
     # k "Then we went to the beach. I guess it was our second date? I don't know... It was nice and sunny."
     k ""
 
-# game/scripts/kali_events.rpy:10943
+# game/scripts/kali_events.rpy:10941
 translate pt_br kalilinmaid_5d875d6c:
 
     # k "And then... we kind of... had sex..."
     k ""
 
-# game/scripts/kali_events.rpy:10944
+# game/scripts/kali_events.rpy:10942
 translate pt_br kalilinmaid_b27dfdd6:
 
     # l "I sort of figured. How was it?"
     l ""
 
-# game/scripts/kali_events.rpy:10945
+# game/scripts/kali_events.rpy:10943
 translate pt_br kalilinmaid_9252a416:
 
     # k "...It was good. Really good."
     k ""
 
-# game/scripts/kali_events.rpy:10946
+# game/scripts/kali_events.rpy:10944
 translate pt_br kalilinmaid_9a7fb2d9:
 
     # k "I always have a hard time cumming. I think it's because I try to always take control. When he flipped me over, took control, and started fucking me... I lost it. I came so hard..."
     k ""
 
-# game/scripts/kali_events.rpy:10947
+# game/scripts/kali_events.rpy:10945
 translate pt_br kalilinmaid_2444458c:
 
     # l "Wow..."
     l ""
 
-# game/scripts/kali_events.rpy:10948
+# game/scripts/kali_events.rpy:10946
 translate pt_br kalilinmaid_e77334fc:
 
     # k "And when you were sick... He gave me this dress and told me to clean his room. I didn't want to but... he said I looked nice in this dress. I felt like I had to do whatever he said, and I liked it."
     k ""
 
-# game/scripts/kali_events.rpy:10949
+# game/scripts/kali_events.rpy:10947
 translate pt_br kalilinmaid_7fd5e3b0:
 
     # k "So after I got done... I offered him a boobjob."
     k ""
 
-# game/scripts/kali_events.rpy:10950
+# game/scripts/kali_events.rpy:10948
 translate pt_br kalilinmaid_62245620:
 
     # l "Really? How was that? Does it really feel good for a guy?"
     l ""
 
-# game/scripts/kali_events.rpy:10951
+# game/scripts/kali_events.rpy:10949
 translate pt_br kalilinmaid_cfbe8ac2:
 
     # k "I guess, he came a lot."
     k ""
 
-# game/scripts/kali_events.rpy:10952
+# game/scripts/kali_events.rpy:10950
 translate pt_br kalilinmaid_a6aa6c5a:
 
     # l "I wish I could give boobjobs..."
     l ""
 
-# game/scripts/kali_events.rpy:10953
+# game/scripts/kali_events.rpy:10951
 translate pt_br kalilinmaid_a2751e18:
 
     # k "It's nothing special."
     k ""
 
-# game/scripts/kali_events.rpy:10954
+# game/scripts/kali_events.rpy:10952
 translate pt_br kalilinmaid_82822a0c_1:
 
     # l "..."
     l ""
 
-# game/scripts/kali_events.rpy:10955
+# game/scripts/kali_events.rpy:10953
 translate pt_br kalilinmaid_d4222d1c:
 
     # l "I think you're special Kali."
     l ""
 
-# game/scripts/kali_events.rpy:10957
+# game/scripts/kali_events.rpy:10955
 translate pt_br kalilinmaid_c55e6d50:
 
     # k "What...?"
     k ""
 
-# game/scripts/kali_events.rpy:10958
+# game/scripts/kali_events.rpy:10956
 translate pt_br kalilinmaid_f247134d:
 
     # l "After [linoname]'s grandfather died you were the first one here. You started everything."
     l ""
 
-# game/scripts/kali_events.rpy:10959
+# game/scripts/kali_events.rpy:10957
 translate pt_br kalilinmaid_424ffe32:
 
     # k "Oh, I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:10961
+# game/scripts/kali_events.rpy:10959
 translate pt_br kalilinmaid_e210b20a:
 
     # l "And now we have Ashley and Maria! This place is growing a lot."
     l ""
 
-# game/scripts/kali_events.rpy:10963
+# game/scripts/kali_events.rpy:10961
 translate pt_br kalilinmaid_0318730c:
 
     # l "And now we have Ashley, Maria and [botname]! This place is growing a lot."
     l ""
 
-# game/scripts/kali_events.rpy:10964
+# game/scripts/kali_events.rpy:10962
 translate pt_br kalilinmaid_446e95ee:
 
     # k "What was it like? Before [name]'s grandfather died, before I was here?"
     k ""
 
-# game/scripts/kali_events.rpy:10965
+# game/scripts/kali_events.rpy:10963
 translate pt_br kalilinmaid_b77ca47f:
 
     # l "Chaotic I guess. I was only there for a week before [linoname] came. We had 3 maids, and 9 guests. I was so scared, I never took care of so many people before."
     l ""
 
-# game/scripts/kali_events.rpy:10967
+# game/scripts/kali_events.rpy:10965
 translate pt_br kalilinmaid_448fd1b4:
 
     # l "[linoname]'s grandfather was always in his room working on [botname], so I didn't get to see him much, but he was nice."
     l ""
 
-# game/scripts/kali_events.rpy:10969
+# game/scripts/kali_events.rpy:10967
 translate pt_br kalilinmaid_31002588:
 
     # l "[linoname]'s grandfather was always in that room behind Ellen, so I didn't get to see him much, but he was nice."
     l ""
 
-# game/scripts/kali_events.rpy:10970
+# game/scripts/kali_events.rpy:10968
 translate pt_br kalilinmaid_05352550:
 
     # l "Then when he died, the place was to close down. It was only two days, but the other slaves were sold. So the food stopped coming to the guests and their clothes stopped being washed."
     l ""
 
-# game/scripts/kali_events.rpy:10971
+# game/scripts/kali_events.rpy:10969
 translate pt_br kalilinmaid_d5dc1f55:
 
     # l "Ellen was so heartbroken, she had known him for about two decades I think. She decided to keep me and told me relax until things were sorted out."
     l ""
 
-# game/scripts/kali_events.rpy:10972
+# game/scripts/kali_events.rpy:10970
 translate pt_br kalilinmaid_174c96c0:
 
     # l "Then [linoname] came, I was so scared... His grandfather was nice, he didn't make me do anything I didn't want to... So when [linoname] came I thought life would go back to how it used to be... Hard work and no sleep..."
     l ""
 
-# game/scripts/kali_events.rpy:10973
+# game/scripts/kali_events.rpy:10971
 translate pt_br kalilinmaid_82822a0c_2:
 
     # l "..."
     l ""
 
-# game/scripts/kali_events.rpy:10974
+# game/scripts/kali_events.rpy:10972
 translate pt_br kalilinmaid_93bd32a3:
 
     # l "Your clothes are ready for you Kali."
     l ""
 
-# game/scripts/kali_events.rpy:10976
+# game/scripts/kali_events.rpy:10974
 translate pt_br kalilinmaid_597a1206:
 
     # k "Oh, right. I forgot."
     k ""
 
-# game/scripts/kali_events.rpy:10977
+# game/scripts/kali_events.rpy:10975
 translate pt_br kalilinmaid_a240c894:
 
     # k "Thanks for talking with me Lin."
     k ""
 
-# game/scripts/kali_events.rpy:10978
+# game/scripts/kali_events.rpy:10976
 translate pt_br kalilinmaid_66eb1282:
 
     # l "Any time Kali."
     l ""
 
-# game/scripts/kali_events.rpy:11026
+# game/scripts/kali_events.rpy:11024
 translate pt_br kali_thigh_repeat_3a28fd64:
 
     # k "Ahh... mmmh, how does that feel? Do you like my thighs?"
     k ""
 
-# game/scripts/kali_events.rpy:11027
+# game/scripts/kali_events.rpy:11025
 translate pt_br kali_thigh_repeat_85fb29fc:
 
     # k "This is kind of hot... watching your cock rub my pussy like that."
     k ""
 
-# game/scripts/kali_events.rpy:11028
+# game/scripts/kali_events.rpy:11026
 translate pt_br kali_thigh_repeat_aa3038ca:
 
     # k "Hahhh, go faster, it feels so good..."
     k ""
 
-# game/scripts/kali_events.rpy:11031
+# game/scripts/kali_events.rpy:11029
 translate pt_br kali_thigh_repeat_d2d13823:
 
     # k "Mmm~ my pussy is drenching your cock, do you feel that?"
     k ""
 
-# game/scripts/kali_events.rpy:11032
+# game/scripts/kali_events.rpy:11030
 translate pt_br kali_thigh_repeat_06dd01c9:
 
     # k "Nnnh, haaah...! Are you getting close? I want to watch you cum."
     k ""
 
-# game/scripts/kali_events.rpy:11033
+# game/scripts/kali_events.rpy:11031
 translate pt_br kali_thigh_repeat_81bfc66c:
 
     # k "Hahh, yes...! Cum for me, [name]... cum for me!"
     k ""
 
-# game/scripts/kali_events.rpy:11035
+# game/scripts/kali_events.rpy:11033
 translate pt_br kali_thigh_repeat_56fd56d0:
 
     # k "Ah! Wow..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11053
+# game/scripts/kali_events.rpy:11051
 translate pt_br kalicafechoice_44ed8ff9:
 
     # k "Nice day out..."
     k ""
 
-# game/scripts/kali_events.rpy:11056
+# game/scripts/kali_events.rpy:11054
 translate pt_br prekaliexbeach_294ed6de:
 
     # k "I needed this..."
     k ""
 
-# game/scripts/kali_events.rpy:11058
+# game/scripts/kali_events.rpy:11056
 translate pt_br prekaliexbeach_45308c22:
 
     # "The two of you spend time relaxing in the sun together..."
     ""
 
-# game/scripts/kali_events.rpy:11060
+# game/scripts/kali_events.rpy:11058
 translate pt_br prekaliexbeach_ee6797a4:
 
     # k "That was great, thanks [name]."
     k ""
 
-# game/scripts/kali_events.rpy:11065
+# game/scripts/kali_events.rpy:11063
 translate pt_br prekaliexbeach_672f6a07:
 
     # k "Excuse me...? Gross!"
     k ""
 
-# game/scripts/kali_events.rpy:11071
+# game/scripts/kali_events.rpy:11069
 translate pt_br prekaliexbeach_4ccc6e07:
 
     # k "H-Here...?"
     k ""
 
-# game/scripts/kali_events.rpy:11075
+# game/scripts/kali_events.rpy:11073
 translate pt_br kaliexbeach_57538dd6:
 
     # k "What? Fuck off, dude..."
     k ""
 
-# game/scripts/kali_events.rpy:11081
+# game/scripts/kali_events.rpy:11079
 translate pt_br kaliexbeach_c8bd8764:
 
     # c "Get up..."
     c ""
 
-# game/scripts/kali_events.rpy:11082
+# game/scripts/kali_events.rpy:11080
 translate pt_br kaliexbeach_2618985e:
 
     # k "O-Okay...?"
     k ""
 
-# game/scripts/kali_events.rpy:11087
+# game/scripts/kali_events.rpy:11085
 translate pt_br kaliexbeach_ce54c96b:
 
     # k "Excuse me?"
     k ""
 
-# game/scripts/kali_events.rpy:11088
+# game/scripts/kali_events.rpy:11086
 translate pt_br kaliexbeach_02722695:
 
     # "I could probably have convinced her if her affection were higher..."
     ""
 
-# game/scripts/kali_events.rpy:11090
+# game/scripts/kali_events.rpy:11088
 translate pt_br kaliexbeach_a7c92472:
 
     # "I should train her more..."
     ""
 
-# game/scripts/kali_events.rpy:11096
+# game/scripts/kali_events.rpy:11094
 translate pt_br kaliexbeach_ea709308:
 
     # c "It's always a good idea to stretch before you get in the water..."
     c ""
 
-# game/scripts/kali_events.rpy:11097
+# game/scripts/kali_events.rpy:11095
 translate pt_br kaliexbeach_41f25b20:
 
     # k "If you say so... fine."
     k ""
 
-# game/scripts/kali_events.rpy:11102
+# game/scripts/kali_events.rpy:11100
 translate pt_br kaliexbeach_411402e2:
 
     # k "No! Absolutely not!"
     k ""
 
-# game/scripts/kali_events.rpy:11103
+# game/scripts/kali_events.rpy:11101
 translate pt_br kaliexbeach_02722695_1:
 
     # "I could probably have convinced her if her affection were higher..."
     ""
 
-# game/scripts/kali_events.rpy:11106
+# game/scripts/kali_events.rpy:11104
 translate pt_br kaliexbeach_a7c92472_1:
 
     # "I should train her more..."
     ""
 
-# game/scripts/kali_events.rpy:11111
+# game/scripts/kali_events.rpy:11109
 translate pt_br kaliexbeach_10bb104f:
 
     # c "Spread your legs, I'm going to eat you out."
     c ""
 
-# game/scripts/kali_events.rpy:11112
+# game/scripts/kali_events.rpy:11110
 translate pt_br kaliexbeach_1206a3c8:
 
     # k "Nnnh, r-right here...?"
     k ""
 
-# game/scripts/kali_events.rpy:11113
+# game/scripts/kali_events.rpy:11111
 translate pt_br kaliexbeach_d159c4e4:
 
     # c "Right here."
     c ""
 
-# game/scripts/kali_events.rpy:11114
+# game/scripts/kali_events.rpy:11112
 translate pt_br kaliexbeach_2f3da607:
 
     # k "Mmmn... I want to, but..."
     k ""
 
-# game/scripts/kali_events.rpy:11115
+# game/scripts/kali_events.rpy:11113
 translate pt_br kaliexbeach_8d9f7e29:
 
     # c "Don't worry about anyone else, they won't recognize you."
     c ""
 
-# game/scripts/kali_events.rpy:11116
+# game/scripts/kali_events.rpy:11114
 translate pt_br kaliexbeach_cc6a0eca:
 
     # k "Well... o-okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11121
+# game/scripts/kali_events.rpy:11119
 translate pt_br kaliexbeach_a2c42e52:
 
     # k "You're joking, right!?"
     k ""
 
-# game/scripts/kali_events.rpy:11122
+# game/scripts/kali_events.rpy:11120
 translate pt_br kaliexbeach_02722695_2:
 
     # "I could probably have convinced her if her affection were higher..."
     ""
 
-# game/scripts/kali_events.rpy:11124
+# game/scripts/kali_events.rpy:11122
 translate pt_br kaliexbeach_a7c92472_2:
 
     # "I should train her more..."
     ""
 
-# game/scripts/kali_events.rpy:11126
+# game/scripts/kali_events.rpy:11124
 translate pt_br kaliexbeach_19f36d7a:
 
     # "I need to unlock vaginal sex in her story first..."
     ""
 
-# game/scripts/kali_events.rpy:11131
+# game/scripts/kali_events.rpy:11129
 translate pt_br kaliexbeach_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/kali_events.rpy:11132
+# game/scripts/kali_events.rpy:11130
 translate pt_br kaliexbeach_33bb9a65:
 
     # c "You heard me."
     c ""
 
-# game/scripts/kali_events.rpy:11134
+# game/scripts/kali_events.rpy:11132
 translate pt_br kaliexbeach_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:11135
+# game/scripts/kali_events.rpy:11133
 translate pt_br kaliexbeach_bf832a13:
 
     # k "No."
     k ""
 
-# game/scripts/kali_events.rpy:11136
+# game/scripts/kali_events.rpy:11134
 translate pt_br kaliexbeach_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:11147
+# game/scripts/kali_events.rpy:11145
 translate pt_br kali_exfuck_6928c46c:
 
     # k "I said No. I won't do it..."
     k ""
 
-# game/scripts/kali_events.rpy:11148
+# game/scripts/kali_events.rpy:11146
 translate pt_br kali_exfuck_9565f260:
 
     # k "So what are you going to do about it, hm...?"
     k ""
 
-# game/scripts/kali_events.rpy:11149
+# game/scripts/kali_events.rpy:11147
 translate pt_br kali_exfuck_4996cc04:
 
     # k "Are you gonna grab me by my neck and bend me over?"
     k ""
 
-# game/scripts/kali_events.rpy:11150
+# game/scripts/kali_events.rpy:11148
 translate pt_br kali_exfuck_d867c8c7:
 
     # k "You don't even care who sees me, do you? Or how embarrassed I'll be? You just want to fuck me..."
     k ""
 
-# game/scripts/kali_events.rpy:11152
+# game/scripts/kali_events.rpy:11150
 translate pt_br kali_exfuck_5ab6df84:
 
     # k "Ah!"
     k ""
 
-# game/scripts/kali_events.rpy:11155
+# game/scripts/kali_events.rpy:11153
 translate pt_br kali_exfuck_cdc8478e:
 
     # k "Mmmmm.... you're going to do it, aren't you...?"
     k ""
 
-# game/scripts/kali_events.rpy:11156
+# game/scripts/kali_events.rpy:11154
 translate pt_br kali_exfuck_e57beb3f:
 
     # k "Or are you too much of a-"
     k ""
 
-# game/scripts/kali_events.rpy:11158
+# game/scripts/kali_events.rpy:11156
 translate pt_br kali_exfuck_398d8fbd:
 
     # k "Haaaaaah~!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11160
+# game/scripts/kali_events.rpy:11158
 translate pt_br kali_exfuck_fc544e8e:
 
     # k "Nnnngh! Fuck!!! You're so deeeeeep! Mmmmmn! Fuck, fuuuuuck~!"
     k ""
 
-# game/scripts/kali_events.rpy:11162
+# game/scripts/kali_events.rpy:11160
 translate pt_br kali_exfuck_b48aea6b:
 
     # k "Mmmmn! Yesss! Punish me [linoname]! Fuck my pussy, fuck my pussy~!"
     k ""
 
-# game/scripts/kali_events.rpy:11164
+# game/scripts/kali_events.rpy:11162
 translate pt_br kali_exfuck_abc7e50c:
 
     # k "Mmmmn! Yesss! Punish me [name]! Fuck my pussy, fuck my pussy~!"
     k ""
 
-# game/scripts/kali_events.rpy:11165
+# game/scripts/kali_events.rpy:11163
 translate pt_br kali_exfuck_52672138:
 
     # k "Ohhhh FUCK! AAAGH~! You feel so good! So ffffffucking good~! Yessss!"
     k ""
 
-# game/scripts/kali_events.rpy:11168
+# game/scripts/kali_events.rpy:11166
 translate pt_br kali_exfuck_077f6502:
 
     # k "Fuuuuuck!! Doing it in public makes me so fucking wet~! The embarrassment just makes it hotter! Ffffuck~!"
     k ""
 
-# game/scripts/kali_events.rpy:11169
+# game/scripts/kali_events.rpy:11167
 translate pt_br kali_exfuck_799c4d9e:
 
     # k "Aaaah! Aaaah! Fuck me! Punish your little slut! Show me what a naughty girl I've been~! Fuuuck!"
     k ""
 
-# game/scripts/kali_events.rpy:11170
+# game/scripts/kali_events.rpy:11168
 translate pt_br kali_exfuck_34bb6bb4:
 
     # k "Haaah! Aaah! Fuck, fuuuuck! More~! MMMMN! MORE, MORE~! Give me more! AAAAH~!"
     k ""
 
-# game/scripts/kali_events.rpy:11172
+# game/scripts/kali_events.rpy:11170
 translate pt_br kali_exfuck_50d79f72:
 
     # k "NNNNNGGGHHH!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11173
+# game/scripts/kali_events.rpy:11171
 translate pt_br kali_exfuck_37462eb2:
 
     # k "FUUUCK~! I'm cumming~!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11175
+# game/scripts/kali_events.rpy:11173
 translate pt_br kali_exfuck_3ed7d800:
 
     # k "HAAAH! AAAAH~! You're filling me up~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11176
+# game/scripts/kali_events.rpy:11174
 translate pt_br kali_exfuck_ad14be06:
 
     # k "Reward your little cum slut with cumm~!! Mmmmn~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11180
+# game/scripts/kali_events.rpy:11178
 translate pt_br kali_exfuck_7e0664db:
 
     # k "Ahhh... you came inside... it's dripping out... it's overflowing..."
     k ""
 
-# game/scripts/kali_events.rpy:11182
+# game/scripts/kali_events.rpy:11180
 translate pt_br kali_exfuck_00ef961c:
 
     # k "Ah~! Mmmn~...!"
     k ""
 
-# game/scripts/kali_events.rpy:11184
+# game/scripts/kali_events.rpy:11182
 translate pt_br kali_exfuck_57c50ee9:
 
     # k "Ahhmmn... Mmmnngh..."
     k ""
 
-# game/scripts/kali_events.rpy:11186
+# game/scripts/kali_events.rpy:11184
 translate pt_br kali_exfuck_871667ed:
 
     # k "What...? I don't want to get pregnant or anything..."
     k ""
 
-# game/scripts/kali_events.rpy:11197
+# game/scripts/kali_events.rpy:11195
 translate pt_br kali_excun_a26a9e90:
 
     # k "You're really going to lick my pussy, right here...?"
     k ""
 
-# game/scripts/kali_events.rpy:11199
+# game/scripts/kali_events.rpy:11197
 translate pt_br kali_excun_068a7007:
 
     # k "Hyaah, nnngh! You're really doing it...! Aahhh...!"
     k ""
 
-# game/scripts/kali_events.rpy:11200
+# game/scripts/kali_events.rpy:11198
 translate pt_br kali_excun_703e72f1:
 
     # k "Mmmmn...! Aaahh... that feels so good~! Oh yesss...! Aaaaagh~!"
     k ""
 
-# game/scripts/kali_events.rpy:11201
+# game/scripts/kali_events.rpy:11199
 translate pt_br kali_excun_67fe60d4:
 
     # k "Yes, yesss...! Right there! Oh fuck! MMMMN! Aaaah~! More~ more~"
     k ""
 
-# game/scripts/kali_events.rpy:11204
+# game/scripts/kali_events.rpy:11202
 translate pt_br kali_excun_f0bf95ae:
 
     # by "That's hot..."
     by ""
 
-# game/scripts/kali_events.rpy:11205
+# game/scripts/kali_events.rpy:11203
 translate pt_br kali_excun_f0079841:
 
     # by "What a slut!" with flash
     by "" with flash
 
-# game/scripts/kali_events.rpy:11206
+# game/scripts/kali_events.rpy:11204
 translate pt_br kali_excun_8fa7e8cf:
 
     # k "Hyaaah! Yess! Yes, I'm your slut...! Mmmmn! Fuuuuuck, that feels amazing!"
     k ""
 
-# game/scripts/kali_events.rpy:11207
+# game/scripts/kali_events.rpy:11205
 translate pt_br kali_excun_d563cb61:
 
     # k "I'm gonna cum...! Don't stop, keep licking...! Aaah! Ahhh! [name]! AAAAAH!!"
     k ""
 
-# game/scripts/kali_events.rpy:11208
+# game/scripts/kali_events.rpy:11206
 translate pt_br kali_excun_8ec8172b:
 
     # k "Right there! MMMN! Aaaagh~! Yes [name]! Right there, right there, right there! FUUUUUUUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:11210
+# game/scripts/kali_events.rpy:11208
 translate pt_br kali_excun_59ffc3ca:
 
     # k "AAAAAAGH, YESSSS! Right there!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11211
+# game/scripts/kali_events.rpy:11209
 translate pt_br kali_excun_181ac628:
 
     # k "Hnnngh, hmmmn! Fuck! AAAHGH!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11213
+# game/scripts/kali_events.rpy:11211
 translate pt_br kali_excun_02267dac:
 
     # k "Mmmmmn... [name]... that was..."
     k ""
 
-# game/scripts/kali_events.rpy:11214
+# game/scripts/kali_events.rpy:11212
 translate pt_br kali_excun_e03bbada:
 
     # k "I... I..."
     k ""
 
-# game/scripts/kali_events.rpy:11215
+# game/scripts/kali_events.rpy:11213
 translate pt_br kali_excun_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:11216
+# game/scripts/kali_events.rpy:11214
 translate pt_br kali_excun_ea7c8d04:
 
     # c "Looks like she fell asleep..."
     c ""
 
-# game/scripts/kali_events.rpy:11227
+# game/scripts/kali_events.rpy:11225
 translate pt_br kali_exyoga_908751dd:
 
     # k "Nnngh...! Aahhh...!"
     k ""
 
-# game/scripts/kali_events.rpy:11228
+# game/scripts/kali_events.rpy:11226
 translate pt_br kali_exyoga_367f15d7:
 
     # k "{i}{size=-5}Okay Kali, just focus on you... don't pay attention to all those perverts staring at you...{/size}{/i}"
     k ""
 
-# game/scripts/kali_events.rpy:11232
+# game/scripts/kali_events.rpy:11230
 translate pt_br kali_exyoga_13f30dd4:
 
     # c "You're flexible..."
     c ""
 
-# game/scripts/kali_events.rpy:11233
+# game/scripts/kali_events.rpy:11231
 translate pt_br kali_exyoga_4ebbdef4:
 
     # k "O-Of course..."
     k ""
 
-# game/scripts/kali_events.rpy:11236
+# game/scripts/kali_events.rpy:11234
 translate pt_br kali_exyoga_32fb7b8b:
 
     # by "Damn girl!" with flash
     by "" with flash
 
-# game/scripts/kali_events.rpy:11238
+# game/scripts/kali_events.rpy:11236
 translate pt_br kali_exyoga_67cd128e:
 
     # k "That was so embarrassing... I think people are taking pictures..."
     k ""
 
-# game/scripts/kali_events.rpy:11239
+# game/scripts/kali_events.rpy:11237
 translate pt_br kali_exyoga_d8f0a0da:
 
     # k "I hope they don't post them online..."
     k ""
 
-# game/scripts/kali_events.rpy:11243
+# game/scripts/kali_events.rpy:11241
 translate pt_br kali_exyoga_51980ed4:
 
     # k "Hnnnnnnghh! Fuck, I hope no one recognizes me either...! I'd be all over the news..."
     k ""
 
-# game/scripts/kali_events.rpy:11244
+# game/scripts/kali_events.rpy:11242
 translate pt_br kali_exyoga_0b3ded87:
 
     # k "I hope this makes you happy, pervert..."
     k ""
 
-# game/scripts/kali_events.rpy:11248
+# game/scripts/kali_events.rpy:11246
 translate pt_br kali_exyoga_20003a17:
 
     # k "Nnngh, why do I do these things for you..."
     k ""
 
-# game/scripts/kali_events.rpy:11249
+# game/scripts/kali_events.rpy:11247
 translate pt_br kali_exyoga_e0c925bd:
 
     # k "You better treat me when we get back..."
     k ""
 
-# game/scripts/kali_events.rpy:11253
+# game/scripts/kali_events.rpy:11251
 translate pt_br kali_exyoga_ebae90bc:
 
     # k "Ah, ahhhhhh...!"
     k ""
 
-# game/scripts/kali_events.rpy:11254
+# game/scripts/kali_events.rpy:11252
 translate pt_br kali_exyoga_3134f3d2:
 
     # k "Nnnngh... I'm a little wet now..."
     k ""
 
-# game/scripts/kali_events.rpy:11258
+# game/scripts/kali_events.rpy:11256
 translate pt_br kali_exyoga_bd964b41:
 
     # k "Nnnngh, aaah...!"
     k ""
 
-# game/scripts/kali_events.rpy:11259
+# game/scripts/kali_events.rpy:11257
 translate pt_br kali_exyoga_716b9024:
 
     # k "Mmmmn, I can feel your gaze... pervert..."
     k ""
 
-# game/scripts/kali_events.rpy:11263
+# game/scripts/kali_events.rpy:11261
 translate pt_br kali_exyoga_2a1255fb:
 
     # k "Aaah, nnnnh... I feel much more relaxed now..."
     k ""
 
-# game/scripts/kali_events.rpy:11264
+# game/scripts/kali_events.rpy:11262
 translate pt_br kali_exyoga_bd39f57d:
 
     # c "Good job..."
     c ""
 
-# game/scripts/kali_events.rpy:11270
+# game/scripts/kali_events.rpy:11268
 translate pt_br kali_exnipple_a491178d:
 
     # c "Strip."
     c ""
 
-# game/scripts/kali_events.rpy:11271
+# game/scripts/kali_events.rpy:11269
 translate pt_br kali_exnipple_6954d30c:
 
     # k "Everything...? Why?"
     k ""
 
-# game/scripts/kali_events.rpy:11272
+# game/scripts/kali_events.rpy:11270
 translate pt_br kali_exnipple_94ab8d3f:
 
     # c "We're going to have some fun."
     c ""
 
-# game/scripts/kali_events.rpy:11273
+# game/scripts/kali_events.rpy:11271
 translate pt_br kali_exnipple_fc54e19e:
 
     # k "Nnnnh..."
     k ""
 
-# game/scripts/kali_events.rpy:11276
+# game/scripts/kali_events.rpy:11274
 translate pt_br kali_exnipple_30de6118:
 
     # k "I can't believe I'm doing this..."
     k ""
 
-# game/scripts/kali_events.rpy:11277
+# game/scripts/kali_events.rpy:11275
 translate pt_br kali_exnipple_3ec1e854:
 
     # c "It'll be worth it."
     c ""
 
-# game/scripts/kali_events.rpy:11279
+# game/scripts/kali_events.rpy:11277
 translate pt_br kali_exnipple_e1cf815f:
 
     # k "Aah~ what are you doing...?"
     k ""
 
-# game/scripts/kali_events.rpy:11281
+# game/scripts/kali_events.rpy:11279
 translate pt_br kali_exnipple_86dff6bc:
 
     # k "Ahhh... nnnh..."
     k ""
 
-# game/scripts/kali_events.rpy:11282
+# game/scripts/kali_events.rpy:11280
 translate pt_br kali_exnipple_665786c0:
 
     # k "P-People are starting to stare... what are you doing [name]...?"
     k ""
 
-# game/scripts/kali_events.rpy:11283
+# game/scripts/kali_events.rpy:11281
 translate pt_br kali_exnipple_f17a64df:
 
     # c "Having fun..."
     c ""
 
-# game/scripts/kali_events.rpy:11287
+# game/scripts/kali_events.rpy:11285
 translate pt_br kali_exnipple_321c131e:
 
     # k "Nnnngh~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11289
+# game/scripts/kali_events.rpy:11287
 translate pt_br kali_exnipple_04dccfc1:
 
     # k "Ahhh... Mmmmn... my sweet spot...!"
     k ""
 
-# game/scripts/kali_events.rpy:11290
+# game/scripts/kali_events.rpy:11288
 translate pt_br kali_exnipple_b34abfce:
 
     # k "Haaaah! Aaaah! Mmmmn! You're making me moan too much...! Ahhh...!"
     k ""
 
-# game/scripts/kali_events.rpy:11291
+# game/scripts/kali_events.rpy:11289
 translate pt_br kali_exnipple_da78bd64:
 
     # k "Fuck...! Hnnngh...! That feels so good~!"
     k ""
 
-# game/scripts/kali_events.rpy:11295
+# game/scripts/kali_events.rpy:11293
 translate pt_br kali_exnipple_a00f0a13:
 
     # k "Nnnngh! AAAH!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11296
+# game/scripts/kali_events.rpy:11294
 translate pt_br kali_exnipple_86e7f19d:
 
     # k "Y-You're going so fast! Haaah! What are you doing, what are you doing...!? NNNGH!"
     k ""
 
-# game/scripts/kali_events.rpy:11297
+# game/scripts/kali_events.rpy:11295
 translate pt_br kali_exnipple_683f1a68:
 
     # k "Fuck, fuck! Oh fuck! [name]...! Haaah! Aaaah! Aaaaaaah!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11299
+# game/scripts/kali_events.rpy:11297
 translate pt_br kali_exnipple_30588ac9:
 
     # k "Hyaaaaaaaa!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11300
+# game/scripts/kali_events.rpy:11298
 translate pt_br kali_exnipple_51571184:
 
     # k "Aaaaaah! Haaaaahhhh!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11302
+# game/scripts/kali_events.rpy:11300
 translate pt_br kali_exnipple_34b679b6:
 
     # k "Nnngh...!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11303
+# game/scripts/kali_events.rpy:11301
 translate pt_br kali_exnipple_4df4ac18:
 
     # k "Haahh... ahhhh... you made me cum... mmmmngh... fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:11314
+# game/scripts/kali_events.rpy:11312
 translate pt_br kalicafelewd_b1105efd:
 
     # k "Fuck off dude."
     k ""
 
-# game/scripts/kali_events.rpy:11315
+# game/scripts/kali_events.rpy:11313
 translate pt_br kalicafelewd_5c46bdcb:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11319
+# game/scripts/kali_events.rpy:11317
 translate pt_br kalicafelewd_95306ef6:
 
     # k "What do you mean flash my breasts!? There are people here!"
     k ""
 
-# game/scripts/kali_events.rpy:11320
+# game/scripts/kali_events.rpy:11318
 translate pt_br kalicafelewd_5c914e66:
 
     # c "That's the point."
     c ""
 
-# game/scripts/kali_events.rpy:11322
+# game/scripts/kali_events.rpy:11320
 translate pt_br kalicafelewd_9d68a205:
 
     # k "And why would I do that?"
     k ""
 
-# game/scripts/kali_events.rpy:11323
+# game/scripts/kali_events.rpy:11321
 translate pt_br kalicafelewd_7c8f2a06:
 
     # c "Because it would be hot."
     c ""
 
-# game/scripts/kali_events.rpy:11325
+# game/scripts/kali_events.rpy:11323
 translate pt_br kalicafelewd_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:11327
+# game/scripts/kali_events.rpy:11325
 translate pt_br kalicafelewd_b0c672e1:
 
     # k "Alright, fine... I guess it would be a little hot..."
     k ""
 
-# game/scripts/kali_events.rpy:11329
+# game/scripts/kali_events.rpy:11327
 translate pt_br kalicafelewd_96886d44:
 
     # k "Here I go..."
     k ""
 
-# game/scripts/kali_events.rpy:11331
+# game/scripts/kali_events.rpy:11329
 translate pt_br kalicafelewd_c04d5802:
 
     # k "Hahh... they're out..."
     k ""
 
-# game/scripts/kali_events.rpy:11336
+# game/scripts/kali_events.rpy:11334
 translate pt_br kalicafelewd_1055d645:
 
     # k "There... happy?"
     k ""
 
-# game/scripts/kali_events.rpy:11337
+# game/scripts/kali_events.rpy:11335
 translate pt_br kalicafelewd_014d0311:
 
     # c "Very."
     c ""
 
-# game/scripts/kali_events.rpy:11338
+# game/scripts/kali_events.rpy:11336
 translate pt_br kalicafelewd_620d71f7:
 
     # k "Good, don't expect me to do that sort of thing all the time."
     k ""
 
-# game/scripts/kali_events.rpy:11340
+# game/scripts/kali_events.rpy:11338
 translate pt_br kalicafelewd_91f6f791:
 
     # "You spend time eating and chatting with Kali, she enjoys your company."
     ""
 
-# game/scripts/kali_events.rpy:11342
+# game/scripts/kali_events.rpy:11340
 translate pt_br kalicafelewd_c0de3af6:
 
     # k "It was fun, we should come back some time."
     k ""
 
-# game/scripts/kali_events.rpy:11351
+# game/scripts/kali_events.rpy:11349
 translate pt_br kalicafelewd_f6fe957b:
 
     # k "What!? Fuck off dude."
     k ""
 
-# game/scripts/kali_events.rpy:11352
+# game/scripts/kali_events.rpy:11350
 translate pt_br kalicafelewd_5c46bdcb_1:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11357
+# game/scripts/kali_events.rpy:11355
 translate pt_br kalicafelewd_e62511e3:
 
     # c "I should train her more"
     c ""
 
-# game/scripts/kali_events.rpy:11361
+# game/scripts/kali_events.rpy:11359
 translate pt_br kalicafelewd_6537cdc4:
 
     # k "Are you crazy!? You want everyone to see me half naked?"
     k ""
 
-# game/scripts/kali_events.rpy:11362
+# game/scripts/kali_events.rpy:11360
 translate pt_br kalicafelewd_56d0beb3:
 
     # c "That's right."
     c ""
 
-# game/scripts/kali_events.rpy:11364
+# game/scripts/kali_events.rpy:11362
 translate pt_br kalicafelewd_1a03f38e:
 
     # k "Why would I do that!? And don't say 'It would be hot'. EVERYONE would see me!"
     k ""
 
-# game/scripts/kali_events.rpy:11368
+# game/scripts/kali_events.rpy:11366
 translate pt_br kalicafelewd_f49a796a:
 
     # k "$10...?"
     k ""
 
-# game/scripts/kali_events.rpy:11370
+# game/scripts/kali_events.rpy:11368
 translate pt_br kalicafelewd_c452501c:
 
     # k "...I could use the money..."
     k ""
 
-# game/scripts/kali_events.rpy:11372
+# game/scripts/kali_events.rpy:11370
 translate pt_br kalicafelewd_41f9face:
 
     # k "I guess... I could try it..."
     k ""
 
-# game/scripts/kali_events.rpy:11373
+# game/scripts/kali_events.rpy:11371
 translate pt_br kalicafelewd_c2a5726d:
 
     # k "I mean... if it's something you really want me to do..."
     k ""
 
-# game/scripts/kali_events.rpy:11374
+# game/scripts/kali_events.rpy:11372
 translate pt_br kalicafelewd_9d9fb6df:
 
     # c "I do."
     c ""
 
-# game/scripts/kali_events.rpy:11375
+# game/scripts/kali_events.rpy:11373
 translate pt_br kalicafelewd_d896934d:
 
     # k "Alright... well, I may regret this but... I'll give it a try."
     k ""
 
-# game/scripts/kali_events.rpy:11377
+# game/scripts/kali_events.rpy:11375
 translate pt_br kalicafelewd_81821de9:
 
     # k "Erghh... I can't believe you're making me do this..."
     k ""
 
-# game/scripts/kali_events.rpy:11379
+# game/scripts/kali_events.rpy:11377
 translate pt_br kalicafelewd_a41ef1f0:
 
     # k "You... still want me to... right?"
     k ""
 
-# game/scripts/kali_events.rpy:11380
+# game/scripts/kali_events.rpy:11378
 translate pt_br kalicafelewd_9d9fb6df_1:
 
     # c "I do."
     c ""
 
-# game/scripts/kali_events.rpy:11382
+# game/scripts/kali_events.rpy:11380
 translate pt_br kalicafelewd_2754a707:
 
     # k "Erghh... Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11384
+# game/scripts/kali_events.rpy:11382
 translate pt_br kalicafelewd_96886d44_1:
 
     # k "Here I go..."
     k ""
 
-# game/scripts/kali_events.rpy:11386
+# game/scripts/kali_events.rpy:11384
 translate pt_br kalicafelewd_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:11388
+# game/scripts/kali_events.rpy:11386
 translate pt_br kalicafelewd_990d78c2:
 
     # k "Oh my god..."
     k ""
 
-# game/scripts/kali_events.rpy:11390
+# game/scripts/kali_events.rpy:11388
 translate pt_br kalicafelewd_925046fc:
 
     # k "Ahh..."
     k ""
 
-# game/scripts/kali_events.rpy:11392
+# game/scripts/kali_events.rpy:11390
 translate pt_br kalicafelewd_b375abea:
 
     # k "There's the last piece..."
     k ""
 
-# game/scripts/kali_events.rpy:11393
+# game/scripts/kali_events.rpy:11391
 translate pt_br kalicafelewd_5e53e82d:
 
     # k "Are you happy now? Can I get my money?"
     k ""
 
-# game/scripts/kali_events.rpy:11394
+# game/scripts/kali_events.rpy:11392
 translate pt_br kalicafelewd_f41ba07d:
 
     # c "Not yet."
     c ""
 
-# game/scripts/kali_events.rpy:11396
+# game/scripts/kali_events.rpy:11394
 translate pt_br kalicafelewd_f708c127:
 
     # k "What do you mean 'not yet'!?"
     k ""
 
-# game/scripts/kali_events.rpy:11397
+# game/scripts/kali_events.rpy:11395
 translate pt_br kalicafelewd_fe30ecdc:
 
     # c "Take off your top."
     c ""
 
-# game/scripts/kali_events.rpy:11398
+# game/scripts/kali_events.rpy:11396
 translate pt_br kalicafelewd_cd386fb0:
 
     # k "You said I only needed to be in my underwear! This is too much already!"
     k ""
 
-# game/scripts/kali_events.rpy:11399
+# game/scripts/kali_events.rpy:11397
 translate pt_br kalicafelewd_ef4f6a49:
 
     # c "I changed my mind, do you want your $10 or not?"
     c ""
 
-# game/scripts/kali_events.rpy:11401
+# game/scripts/kali_events.rpy:11399
 translate pt_br kalicafelewd_f2751138:
 
     # k "Erghh... Why do I do these things..."
     k ""
 
-# game/scripts/kali_events.rpy:11403
+# game/scripts/kali_events.rpy:11401
 translate pt_br kalicafelewd_aacaa8d1:
 
     # k "There! Happy!?"
     k ""
 
-# game/scripts/kali_events.rpy:11406
+# game/scripts/kali_events.rpy:11404
 translate pt_br kalicafelewd_f41ba07d_1:
 
     # c "Not yet."
     c ""
 
-# game/scripts/kali_events.rpy:11407
+# game/scripts/kali_events.rpy:11405
 translate pt_br kalicafelewd_2e20461b:
 
     # k "Oh no..."
     k ""
 
-# game/scripts/kali_events.rpy:11408
+# game/scripts/kali_events.rpy:11406
 translate pt_br kalicafelewd_7abef626:
 
     # c "Do a pose."
     c ""
 
-# game/scripts/kali_events.rpy:11410
+# game/scripts/kali_events.rpy:11408
 translate pt_br kalicafelewd_61e26be9:
 
     # k "Urgh! I'm going to kill you when we get back!"
     k ""
 
-# game/scripts/kali_events.rpy:11413
+# game/scripts/kali_events.rpy:11411
 translate pt_br kalicafelewd_f06c8340:
 
     # by "Hey, nice tits!"
     by ""
 
-# game/scripts/kali_events.rpy:11415
+# game/scripts/kali_events.rpy:11413
 translate pt_br kalicafelewd_6d32b8bc:
 
     # k "Shit! Someone's looking!"
     k ""
 
-# game/scripts/kali_events.rpy:11416
+# game/scripts/kali_events.rpy:11414
 translate pt_br kalicafelewd_b7a5d1c5:
 
     # by "Take off the rest too!"
     by ""
 
-# game/scripts/kali_events.rpy:11418
+# game/scripts/kali_events.rpy:11416
 translate pt_br kalicafelewd_5d537e01:
 
     # k "Fuck off pervert!"
     k ""
 
-# game/scripts/kali_events.rpy:11419
+# game/scripts/kali_events.rpy:11417
 translate pt_br kalicafelewd_1f5445e5:
 
     # k "I'm getting dressed now, I can't stand these assholes!"
     k ""
 
-# game/scripts/kali_events.rpy:11421
+# game/scripts/kali_events.rpy:11419
 translate pt_br kalicafelewd_d5b46f5b:
 
     # k "I did what you said, can I have that money now?"
     k ""
 
-# game/scripts/kali_events.rpy:11422
+# game/scripts/kali_events.rpy:11420
 translate pt_br kalicafelewd_cc39ce6e:
 
     # c "Sure, here it is."
     c ""
 
-# game/scripts/kali_events.rpy:11424
+# game/scripts/kali_events.rpy:11422
 translate pt_br kalicafelewd_825c286a:
 
     # "You gave Kali $10"
     ""
 
-# game/scripts/kali_events.rpy:11425
+# game/scripts/kali_events.rpy:11423
 translate pt_br kalicafelewd_eb72382e:
 
     # c "You did great, that was hot."
     c ""
 
-# game/scripts/kali_events.rpy:11427
+# game/scripts/kali_events.rpy:11425
 translate pt_br kalicafelewd_6d921f6a:
 
     # k "S-Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:11429
+# game/scripts/kali_events.rpy:11427
 translate pt_br kalicafelewd_91f6f791_1:
 
     # "You spend time eating and chatting with Kali, she enjoys your company."
     ""
 
-# game/scripts/kali_events.rpy:11431
+# game/scripts/kali_events.rpy:11429
 translate pt_br kalicafelewd_c0de3af6_1:
 
     # k "It was fun, we should come back some time."
     k ""
 
-# game/scripts/kali_events.rpy:11439
+# game/scripts/kali_events.rpy:11437
 translate pt_br kalicafelewd_d8cc72b7:
 
     # k "I can't believe you even thought of that..."
     k ""
 
-# game/scripts/kali_events.rpy:11441
+# game/scripts/kali_events.rpy:11439
 translate pt_br kalicafelewd_91f6f791_2:
 
     # "You spend time eating and chatting with Kali, she enjoys your company."
     ""
 
-# game/scripts/kali_events.rpy:11443
+# game/scripts/kali_events.rpy:11441
 translate pt_br kalicafelewd_c0de3af6_2:
 
     # k "It was fun, we should come back some time."
     k ""
 
-# game/scripts/kali_events.rpy:11448
+# game/scripts/kali_events.rpy:11446
 translate pt_br kalicafelewd_6495d6d6:
 
     # k "Erghh... Fine, whatever."
     k ""
 
-# game/scripts/kali_events.rpy:11450
+# game/scripts/kali_events.rpy:11448
 translate pt_br kalicafelewd_9f5e9a2f:
 
     # k "Alright... Here I go."
     k ""
 
-# game/scripts/kali_events.rpy:11458
+# game/scripts/kali_events.rpy:11456
 translate pt_br kalicafelewd_1055d645_1:
 
     # k "There... happy?"
     k ""
 
-# game/scripts/kali_events.rpy:11459
+# game/scripts/kali_events.rpy:11457
 translate pt_br kalicafelewd_f63412b2:
 
     # c "Take your top off."
     c ""
 
-# game/scripts/kali_events.rpy:11460
+# game/scripts/kali_events.rpy:11458
 translate pt_br kalicafelewd_357af3a4:
 
     # k "Urgh..."
     k ""
 
-# game/scripts/kali_events.rpy:11462
+# game/scripts/kali_events.rpy:11460
 translate pt_br kalicafelewd_2e448d29:
 
     # k "{size=-10}This is so embarrassing...{/size}"
     k ""
 
-# game/scripts/kali_events.rpy:11463
+# game/scripts/kali_events.rpy:11461
 translate pt_br kalicafelewd_bc442da3:
 
     # c "And a pose."
     c ""
 
-# game/scripts/kali_events.rpy:11465
+# game/scripts/kali_events.rpy:11463
 translate pt_br kalicafelewd_4bf0a94d:
 
     # k "Pervert."
     k ""
 
-# game/scripts/kali_events.rpy:11468
+# game/scripts/kali_events.rpy:11466
 translate pt_br kalicafelewd_f504c92f:
 
     # k "Well!? Am I done now?"
     k ""
 
-# game/scripts/kali_events.rpy:11469
+# game/scripts/kali_events.rpy:11467
 translate pt_br kalicafelewd_a44083c8:
 
     # c "Yeah, I guess that's enough."
     c ""
 
-# game/scripts/kali_events.rpy:11470
+# game/scripts/kali_events.rpy:11468
 translate pt_br kalicafelewd_af12b6aa:
 
     # k "Good..."
     k ""
 
-# game/scripts/kali_events.rpy:11472
+# game/scripts/kali_events.rpy:11470
 translate pt_br kalicafelewd_91f6f791_3:
 
     # "You spend time eating and chatting with Kali, she enjoys your company."
     ""
 
-# game/scripts/kali_events.rpy:11474
+# game/scripts/kali_events.rpy:11472
 translate pt_br kalicafelewd_c0de3af6_3:
 
     # k "It was fun, we should come back some time."
     k ""
 
-# game/scripts/kali_events.rpy:11483
+# game/scripts/kali_events.rpy:11481
 translate pt_br kalicafelewd_f6fe957b_1:
 
     # k "What!? Fuck off dude."
     k ""
 
-# game/scripts/kali_events.rpy:11484
+# game/scripts/kali_events.rpy:11482
 translate pt_br kalicafelewd_5c46bdcb_2:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11489
+# game/scripts/kali_events.rpy:11487
 translate pt_br kalicafelewd_836e3302:
 
     # "I should train her more"
     ""
 
-# game/scripts/kali_events.rpy:11493
+# game/scripts/kali_events.rpy:11491
 translate pt_br kalicafelewd_2b69e0de:
 
     # k "You're joking!"
     k ""
 
-# game/scripts/kali_events.rpy:11494
+# game/scripts/kali_events.rpy:11492
 translate pt_br kalicafelewd_de7ea174:
 
     # c "I'm not, I would enjoy it more if you were completely naked."
     c ""
 
-# game/scripts/kali_events.rpy:11495
+# game/scripts/kali_events.rpy:11493
 translate pt_br kalicafelewd_e5ca9415:
 
     # k "You're crazy! What do you think I am? Some whore?"
     k ""
 
-# game/scripts/kali_events.rpy:11496
+# game/scripts/kali_events.rpy:11494
 translate pt_br kalicafelewd_d19f855d:
 
     # c "..."
     c ""
 
-# game/scripts/kali_events.rpy:11497
+# game/scripts/kali_events.rpy:11495
 translate pt_br kalicafelewd_b9fb1b04:
 
     # k "Say something asshole!"
     k ""
 
-# game/scripts/kali_events.rpy:11498
+# game/scripts/kali_events.rpy:11496
 translate pt_br kalicafelewd_d06dd5b7:
 
     # c "Take off your clothes."
     c ""
 
-# game/scripts/kali_events.rpy:11500
+# game/scripts/kali_events.rpy:11498
 translate pt_br kalicafelewd_809ad7b8:
 
     # k "Did you hear what I just said!?"
     k ""
 
-# game/scripts/kali_events.rpy:11501
+# game/scripts/kali_events.rpy:11499
 translate pt_br kalicafelewd_d33eddd0:
 
     # c "Did you hear what {i}I{/i} just said?"
     c ""
 
-# game/scripts/kali_events.rpy:11503
+# game/scripts/kali_events.rpy:11501
 translate pt_br kalicafelewd_d2e0fbf5:
 
     # k "Hnng... God... you're so..."
     k ""
 
-# game/scripts/kali_events.rpy:11505
+# game/scripts/kali_events.rpy:11503
 translate pt_br kalicafelewd_90d88bea:
 
     # k "Fine... It's... It's not a big deal."
     k ""
 
-# game/scripts/kali_events.rpy:11507
+# game/scripts/kali_events.rpy:11505
 translate pt_br kalicafelewd_ae6270eb:
 
     # k "I can't believe you made me do this..."
     k ""
 
-# game/scripts/kali_events.rpy:11509
+# game/scripts/kali_events.rpy:11507
 translate pt_br kalicafelewd_ad5a7052:
 
     # k "But when you sound so dominant like that..."
     k ""
 
-# game/scripts/kali_events.rpy:11511
+# game/scripts/kali_events.rpy:11509
 translate pt_br kalicafelewd_506449cd:
 
     # k "It's hard to resist..."
     k ""
 
-# game/scripts/kali_events.rpy:11513
+# game/scripts/kali_events.rpy:11511
 translate pt_br kalicafelewd_9548f3ee:
 
     # k "And now here I am..."
     k ""
 
-# game/scripts/kali_events.rpy:11515
+# game/scripts/kali_events.rpy:11513
 translate pt_br kalicafelewd_734fe39d:
 
     # k "Completely naked in public..."
     k ""
 
-# game/scripts/kali_events.rpy:11519
+# game/scripts/kali_events.rpy:11517
 translate pt_br kalicafelewd_de5e936c:
 
     # k "...So now what?"
     k ""
 
-# game/scripts/kali_events.rpy:11520
+# game/scripts/kali_events.rpy:11518
 translate pt_br kalicafelewd_4ef743e2:
 
     # c "We eat."
     c ""
 
-# game/scripts/kali_events.rpy:11521
+# game/scripts/kali_events.rpy:11519
 translate pt_br kalicafelewd_22c719b5:
 
     # k "Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11523
+# game/scripts/kali_events.rpy:11521
 translate pt_br kalicafelewd_3d05d092:
 
     # "You spend time eating and chatting with the completely naked Kali, she fidgets a lot and tries to hide her blushing face."
     ""
 
-# game/scripts/kali_events.rpy:11524
+# game/scripts/kali_events.rpy:11522
 translate pt_br kalicafelewd_a71b8559:
 
     # "She tries to eat her food, but her mind is on other things."
     ""
 
-# game/scripts/kali_events.rpy:11526
+# game/scripts/kali_events.rpy:11524
 translate pt_br kalicafelewd_b52b068d:
 
     # k "Well... that was something... I still can't believe I'm completely naked..."
     k ""
 
-# game/scripts/kali_events.rpy:11527
+# game/scripts/kali_events.rpy:11525
 translate pt_br kalicafelewd_c3c259e8:
 
     # k "The stares are a bit annoying though..."
     k ""
 
-# game/scripts/kali_events.rpy:11529
+# game/scripts/kali_events.rpy:11527
 translate pt_br kalicafelewd_ad04bce3:
 
     # k "I was thinking... maybe when we get back we could fuck? Or something..."
     k ""
 
-# game/scripts/kali_events.rpy:11531
+# game/scripts/kali_events.rpy:11529
 translate pt_br kalicafelewd_b40440bb:
 
     # k "I don't know... just a thought I guess... But if you're interested just let me know... maybe..."
     k ""
 
-# game/scripts/kali_events.rpy:11540
+# game/scripts/kali_events.rpy:11538
 translate pt_br kalicafelewd_f6fe957b_2:
 
     # k "What!? Fuck off dude."
     k ""
 
-# game/scripts/kali_events.rpy:11541
+# game/scripts/kali_events.rpy:11539
 translate pt_br kalicafelewd_5c46bdcb_3:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11545
+# game/scripts/kali_events.rpy:11543
 translate pt_br kalicafelewd_f6fe957b_3:
 
     # k "What!? Fuck off dude."
     k ""
 
-# game/scripts/kali_events.rpy:11546
+# game/scripts/kali_events.rpy:11544
 translate pt_br kalicafelewd_97259e8a:
 
     # "She's probably not ready for that yet..."
     ""
 
-# game/scripts/kali_events.rpy:11550
+# game/scripts/kali_events.rpy:11548
 translate pt_br kalicafelewd_f6fe957b_4:
 
     # k "What!? Fuck off dude."
     k ""
 
-# game/scripts/kali_events.rpy:11551
+# game/scripts/kali_events.rpy:11549
 translate pt_br kalicafelewd_97259e8a_1:
 
     # "She's probably not ready for that yet..."
     ""
 
-# game/scripts/kali_events.rpy:11556
+# game/scripts/kali_events.rpy:11554
 translate pt_br kalicafelewd_836e3302_1:
 
     # "I should train her more"
     ""
 
-# game/scripts/kali_events.rpy:11560
+# game/scripts/kali_events.rpy:11558
 translate pt_br kalicafelewd_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/kali_events.rpy:11561
+# game/scripts/kali_events.rpy:11559
 translate pt_br kalicafelewd_33bb9a65:
 
     # c "You heard me."
     c ""
 
-# game/scripts/kali_events.rpy:11563
+# game/scripts/kali_events.rpy:11561
 translate pt_br kalicafelewd_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:11564
+# game/scripts/kali_events.rpy:11562
 translate pt_br kalicafelewd_bf832a13:
 
     # k "No."
     k ""
 
-# game/scripts/kali_events.rpy:11565
+# game/scripts/kali_events.rpy:11563
 translate pt_br kalicafelewd_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/kali_events.rpy:11567
+# game/scripts/kali_events.rpy:11565
 translate pt_br kalicafelewd_92baaeed:
 
     # k "I said no. I won't do it..."
     k ""
 
-# game/scripts/kali_events.rpy:11569
+# game/scripts/kali_events.rpy:11567
 translate pt_br kalicafelewd_db649a65:
 
     # k "So what are you going to do about it, hm?"
     k ""
 
-# game/scripts/kali_events.rpy:11571
+# game/scripts/kali_events.rpy:11569
 translate pt_br kalicafelewd_4996cc04:
 
     # k "Are you gonna grab me by my neck and bend me over?"
     k ""
 
-# game/scripts/kali_events.rpy:11573
+# game/scripts/kali_events.rpy:11571
 translate pt_br kalicafelewd_72fef930:
 
     # k "You don't even care who sees me, do you? Or how embarrassed I'll be?"
     k ""
 
-# game/scripts/kali_events.rpy:11575
+# game/scripts/kali_events.rpy:11573
 translate pt_br kalicafelewd_5ab6df84:
 
     # k "Ah!"
     k ""
 
-# game/scripts/kali_events.rpy:11577
+# game/scripts/kali_events.rpy:11575
 translate pt_br kalicafelewd_befacb47:
 
     # k "Mmmmm... you're going to do it, aren't you?"
     k ""
 
-# game/scripts/kali_events.rpy:11579
+# game/scripts/kali_events.rpy:11577
 translate pt_br kalicafelewd_a002ee43:
 
     # k "S-Shit! My pants!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11580
+# game/scripts/kali_events.rpy:11578
 translate pt_br kalicafelewd_a38ad62b:
 
     # c "No panties?"
     c ""
 
-# game/scripts/kali_events.rpy:11582
+# game/scripts/kali_events.rpy:11580
 translate pt_br kalicafelewd_b18613d3:
 
     # k "Yeah...? So? What are you gonna do about it?"
     k ""
 
-# game/scripts/kali_events.rpy:11584
+# game/scripts/kali_events.rpy:11582
 translate pt_br kalicafelewd_6499668a:
 
     # k "Nnngg!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11585
+# game/scripts/kali_events.rpy:11583
 translate pt_br kalicafelewd_a3dc0b87:
 
     # k "Fuck!!! You're going so deep! So fffffucking fast!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11586
+# game/scripts/kali_events.rpy:11584
 translate pt_br kalicafelewd_9abf3ef4:
 
     # k "Urghhh! Yesss! Punish me Daddy! Fuck my pussy!"
     k ""
 
-# game/scripts/kali_events.rpy:11591
+# game/scripts/kali_events.rpy:11589
 translate pt_br kalicafelewd_11662c9d:
 
     # k "Fuuuckk!!! Doing it in public makes me so hot! The embarrassment just makes it better! Fuck me [name]!"
     k ""
 
-# game/scripts/kali_events.rpy:11592
+# game/scripts/kali_events.rpy:11590
 translate pt_br kalicafelewd_4c26825d:
 
     # k "Ahhh! Nnngg!!! Fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:11593
+# game/scripts/kali_events.rpy:11591
 translate pt_br kalicafelewd_58890b40:
 
     # k "Fuck me Daddy! Fuck! Punish your little slut!"
     k ""
 
-# game/scripts/kali_events.rpy:11594
+# game/scripts/kali_events.rpy:11592
 translate pt_br kalicafelewd_cced8e32:
 
     # k "Treat me like your little whore! Fill me up! Show me I'm yours!"
     k ""
 
-# game/scripts/kali_events.rpy:11595
+# game/scripts/kali_events.rpy:11593
 translate pt_br kalicafelewd_3a341b93:
 
     # k "Fuuuucckkk!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11599
+# game/scripts/kali_events.rpy:11597
 translate pt_br kalicafelewd_4ba87d8e:
 
     # k "NNGGGHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11600
+# game/scripts/kali_events.rpy:11598
 translate pt_br kalicafelewd_ef76ec1a:
 
     # k "FUCK! YOU'RE FILLING ME UPPPP!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11601
+# game/scripts/kali_events.rpy:11599
 translate pt_br kalicafelewd_37aa7c7d:
 
     # k "I'M CUMMING! I'M CUMMING!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11602
+# game/scripts/kali_events.rpy:11600
 translate pt_br kalicafelewd_dddf67ff:
 
     # k "NNNGGG!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11604
+# game/scripts/kali_events.rpy:11602
 translate pt_br kalicafelewd_a58394e8:
 
     # k "Urghh... Hahhh... Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:11608
+# game/scripts/kali_events.rpy:11606
 translate pt_br kalicafelewd_51a16b8e:
 
     # k "Fuck, you came inside... It's dripping out..."
     k ""
 
-# game/scripts/kali_events.rpy:11616
+# game/scripts/kali_events.rpy:11614
 translate pt_br kalicafelewd_b425f4c0:
 
     # k "I don't really want to get pregnant... and I didn't want anyone to have to clean it up so..."
     k ""
 
-# game/scripts/kali_events.rpy:11623
+# game/scripts/kali_events.rpy:11621
 translate pt_br kalicafelewd_74428693:
 
     # k "Fuck, that was hot..."
     k ""
 
-# game/scripts/kali_events.rpy:11625
+# game/scripts/kali_events.rpy:11623
 translate pt_br kalicafelewd_91f6f791_4:
 
     # "You spend time eating and chatting with Kali, she enjoys your company."
     ""
 
-# game/scripts/kali_events.rpy:11627
+# game/scripts/kali_events.rpy:11625
 translate pt_br kalicafelewd_c0de3af6_4:
 
     # k "It was fun, we should come back some time."
     k ""
 
-# game/scripts/kali_events.rpy:11639
+# game/scripts/kali_events.rpy:11637
 translate pt_br kalipun_3b963de6:
 
     # k "You burnt my popcorn!? How do you burn popcorn!?"
     k ""
 
-# game/scripts/kali_events.rpy:11640
+# game/scripts/kali_events.rpy:11638
 translate pt_br kalipun_403e1624:
 
     # l "I'm sorry..."
     l ""
 
-# game/scripts/kali_events.rpy:11642
+# game/scripts/kali_events.rpy:11640
 translate pt_br kalipun_96fdbed7:
 
     # k "[name], what are you going to do about your maid? She can't even cook me popcorn..."
     k ""
 
-# game/scripts/kali_events.rpy:11643
+# game/scripts/kali_events.rpy:11641
 translate pt_br kalipun_94b78b43:
 
     # l "It said to keep it in for a minute, but they weren't all popped so I put them back in."
     l ""
 
-# game/scripts/kali_events.rpy:11645
+# game/scripts/kali_events.rpy:11643
 translate pt_br kalipun_239de322:
 
     # k "You're not supposed to cook it twice!"
     k ""
 
-# game/scripts/kali_events.rpy:11646
+# game/scripts/kali_events.rpy:11644
 translate pt_br kalipun_2122127f:
 
     # l "I didn't know that..."
     l ""
 
-# game/scripts/kali_events.rpy:11647
+# game/scripts/kali_events.rpy:11645
 translate pt_br kalipun_59d85935:
 
     # k "It says that on the package!"
     k ""
 
-# game/scripts/kali_events.rpy:11649
+# game/scripts/kali_events.rpy:11647
 translate pt_br kalipun_0fb2632b:
 
     # k "[name] you need to punish your maid. Otherwise she's going to be useless forever..."
     k ""
 
-# game/scripts/kali_events.rpy:11650
+# game/scripts/kali_events.rpy:11648
 translate pt_br kalipun_7fa9537c:
 
     # l "I'm learning..."
     l ""
 
-# game/scripts/kali_events.rpy:11651
+# game/scripts/kali_events.rpy:11649
 translate pt_br kalipun_bd9b86c3:
 
     # c "Alright, sit on her face Kali."
     c ""
 
-# game/scripts/kali_events.rpy:11653
+# game/scripts/kali_events.rpy:11651
 translate pt_br kalipun_144af301:
 
     # k "W-What!?"
     k ""
 
-# game/scripts/kali_events.rpy:11654
+# game/scripts/kali_events.rpy:11652
 translate pt_br kalipun_33bb9a65:
 
     # c "You heard me."
     c ""
 
-# game/scripts/kali_events.rpy:11655
+# game/scripts/kali_events.rpy:11653
 translate pt_br kalipun_d1d0a08e:
 
     # k "But, she's a girl!"
     k ""
 
-# game/scripts/kali_events.rpy:11656
+# game/scripts/kali_events.rpy:11654
 translate pt_br kalipun_49d3f91d:
 
     # c "And?"
     c ""
 
-# game/scripts/kali_events.rpy:11657
+# game/scripts/kali_events.rpy:11655
 translate pt_br kalipun_74c3081d:
 
     # k "And I'm a girl!"
     k ""
 
-# game/scripts/kali_events.rpy:11658
+# game/scripts/kali_events.rpy:11656
 translate pt_br kalipun_84930695:
 
     # c "What's your point?"
     c ""
 
-# game/scripts/kali_events.rpy:11659
+# game/scripts/kali_events.rpy:11657
 translate pt_br kalipun_805e6b8f:
 
     # k "I'm not a lesbian! I don't like girls!"
     k ""
 
-# game/scripts/kali_events.rpy:11660
+# game/scripts/kali_events.rpy:11658
 translate pt_br kalipun_d720c30d:
 
     # c "But it would feel good, and be a punishment for Lin."
     c ""
 
-# game/scripts/kali_events.rpy:11661
+# game/scripts/kali_events.rpy:11659
 translate pt_br kalipun_c4d95812:
 
     # k "And what are you going to do? Just sit there and enjoy it!?"
     k ""
 
-# game/scripts/kali_events.rpy:11662
+# game/scripts/kali_events.rpy:11660
 translate pt_br kalipun_351987c2:
 
     # c "That's right. It'd be hot."
     c ""
 
-# game/scripts/kali_events.rpy:11664
+# game/scripts/kali_events.rpy:11662
 translate pt_br kalipun_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:11665
+# game/scripts/kali_events.rpy:11663
 translate pt_br kalipun_985d1feb:
 
     # k "Fine, I guess if you think it'll be hot..."
     k ""
 
-# game/scripts/kali_events.rpy:11666
+# game/scripts/kali_events.rpy:11664
 translate pt_br kalipun_f7125fde:
 
     # k "Get on the bed Lin."
     k ""
 
-# game/scripts/kali_events.rpy:11667
+# game/scripts/kali_events.rpy:11665
 translate pt_br kalipun_ec81e190:
 
     # l "But I've never... licked a girl before..."
     l ""
 
-# game/scripts/kali_events.rpy:11668
+# game/scripts/kali_events.rpy:11666
 translate pt_br kalipun_9dec5a53:
 
     # c "You'll learn quick. Just do what Kali says."
     c ""
 
-# game/scripts/kali_events.rpy:11669
+# game/scripts/kali_events.rpy:11667
 translate pt_br kalipun_92e6d2c0:
 
     # l "Nnnn... yes [linoname]."
     l ""
 
-# game/scripts/kali_events.rpy:11671
+# game/scripts/kali_events.rpy:11669
 translate pt_br kalipun_7fde3b59:
 
     # k "Um... I guess lay down on your back..."
     k ""
 
-# game/scripts/kali_events.rpy:11672
+# game/scripts/kali_events.rpy:11670
 translate pt_br kalipun_9df8281d:
 
     # l "Yes, ma'am."
     l ""
 
-# game/scripts/kali_events.rpy:11673
+# game/scripts/kali_events.rpy:11671
 translate pt_br kalipun_59f58b53:
 
     # c "Kali, you're going to need to completely undress."
     c ""
 
-# game/scripts/kali_events.rpy:11675
+# game/scripts/kali_events.rpy:11673
 translate pt_br kalipun_12a9903f:
 
     # k "I don't want her to see me naked!"
     k ""
 
-# game/scripts/kali_events.rpy:11676
+# game/scripts/kali_events.rpy:11674
 translate pt_br kalipun_b4a067ff:
 
     # l "It's okay Kali, I won't look if you don't want me to."
     l ""
 
-# game/scripts/kali_events.rpy:11678
+# game/scripts/kali_events.rpy:11676
 translate pt_br kalipun_4e0ed08f:
 
     # k "Urgh, alright. Let's do this."
     k ""
 
-# game/scripts/kali_events.rpy:11680
+# game/scripts/kali_events.rpy:11678
 translate pt_br kalipun_b8e264ce:
 
     # l "Mmph! Kali... your hands are on my breasts..."
     l ""
 
-# game/scripts/kali_events.rpy:11681
+# game/scripts/kali_events.rpy:11679
 translate pt_br kalipun_31f52c21:
 
     # k "Well where else am I supposed to put them? Just start licking already!"
     k ""
 
-# game/scripts/kali_events.rpy:11684
+# game/scripts/kali_events.rpy:11682
 translate pt_br kalipun_dea468c5:
 
     # k "Mmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:11685
+# game/scripts/kali_events.rpy:11683
 translate pt_br kalipun_24f71aa0:
 
     # l "Mmph, am I doing it right Kali?"
     l ""
 
-# game/scripts/kali_events.rpy:11686
+# game/scripts/kali_events.rpy:11684
 translate pt_br kalipun_127dbb92:
 
     # k "Shut up and lick!"
     k ""
 
-# game/scripts/kali_events.rpy:11691
+# game/scripts/kali_events.rpy:11689
 translate pt_br kalipun_e089b6f0:
 
     # l "Ah! My nipples!" with ssshake
     l "" with ssshake
 
-# game/scripts/kali_events.rpy:11692
+# game/scripts/kali_events.rpy:11690
 translate pt_br kalipun_9d8750a3:
 
     # k "You better make me cum from this!"
     k ""
 
-# game/scripts/kali_events.rpy:11693
+# game/scripts/kali_events.rpy:11691
 translate pt_br kalipun_df7102f6:
 
     # l "Ahh! Nnnggg! Mmmph!"
     l ""
 
-# game/scripts/kali_events.rpy:11694
+# game/scripts/kali_events.rpy:11692
 translate pt_br kalipun_bcf9483b:
 
     # l "It hurts!"
     l ""
 
-# game/scripts/kali_events.rpy:11695
+# game/scripts/kali_events.rpy:11693
 translate pt_br kalipun_1a20dc94:
 
     # k "Good! Learn your lesson and stop burning my food!"
     k ""
 
-# game/scripts/kali_events.rpy:11696
+# game/scripts/kali_events.rpy:11694
 translate pt_br kalipun_0674476f:
 
     # l "Ahh! Nng!"
     l ""
 
-# game/scripts/kali_events.rpy:11701
+# game/scripts/kali_events.rpy:11699
 translate pt_br kalipun_dfba6f10:
 
     # k "Fuck, you're doing pretty good Lin..."
     k ""
 
-# game/scripts/kali_events.rpy:11702
+# game/scripts/kali_events.rpy:11700
 translate pt_br kalipun_939aa428:
 
     # l "Mmmphhh... Nnnph... Ahhnn!"
     l ""
 
-# game/scripts/kali_events.rpy:11703
+# game/scripts/kali_events.rpy:11701
 translate pt_br kalipun_9041214d:
 
     # k "Urghhh... Did you learn your lesson yet you little slut?"
     k ""
 
-# game/scripts/kali_events.rpy:11704
+# game/scripts/kali_events.rpy:11702
 translate pt_br kalipun_938f493c:
 
     # l "Mmmmmph! Mmmph!"
     l ""
 
-# game/scripts/kali_events.rpy:11708
+# game/scripts/kali_events.rpy:11706
 translate pt_br kalipun_ea150544:
 
     # k "Ahh... well I think I'm done. It's not like you were going to make me cum anyway..."
     k ""
 
-# game/scripts/kali_events.rpy:11709
+# game/scripts/kali_events.rpy:11707
 translate pt_br kalipun_2db88aec:
 
     # k "But it wasn't bad... I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:11710
+# game/scripts/kali_events.rpy:11708
 translate pt_br kalipun_f2629588:
 
     # l "Hmmph... that was gross..."
     l ""
 
-# game/scripts/kali_events.rpy:11711
+# game/scripts/kali_events.rpy:11709
 translate pt_br kalipun_0dc3e142:
 
     # k "So Lin, are you going to stop burning everything I eat?"
     k ""
 
-# game/scripts/kali_events.rpy:11712
+# game/scripts/kali_events.rpy:11710
 translate pt_br kalipun_e5c5602a:
 
     # l "...Yes ma'am..."
     l ""
 
-# game/scripts/kali_events.rpy:11713
+# game/scripts/kali_events.rpy:11711
 translate pt_br kalipun_85ceb222:
 
     # k "Good."
     k ""
 
-# game/scripts/kali_events.rpy:11715
+# game/scripts/kali_events.rpy:11713
 translate pt_br kalipun_5d79d463:
 
     # k "Thanks for the idea [name]. Maybe we should punish her some more..."
     k ""
 
-# game/scripts/kali_events.rpy:11716
+# game/scripts/kali_events.rpy:11714
 translate pt_br kalipun_82822a0c:
 
     # l "..."
     l ""
 
-# game/scripts/kali_events.rpy:11728
+# game/scripts/kali_events.rpy:11726
 translate pt_br kalibdsm_505b92c5:
 
     # k "Oh, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11734
+# game/scripts/kali_events.rpy:11732
 translate pt_br kalibdsm_ee044776:
 
     # k "What? I'm not doing that..."
     k ""
 
-# game/scripts/kali_events.rpy:11735
+# game/scripts/kali_events.rpy:11733
 translate pt_br kalibdsm_5c46bdcb:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11740
+# game/scripts/kali_events.rpy:11738
 translate pt_br kalibdsm_836e3302:
 
     # "I should train her more"
     ""
 
-# game/scripts/kali_events.rpy:11746
+# game/scripts/kali_events.rpy:11744
 translate pt_br kalibdsm_505b92c5_1:
 
     # k "Oh, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11753
+# game/scripts/kali_events.rpy:11751
 translate pt_br kalibdsm_ee044776_1:
 
     # k "What? I'm not doing that..."
     k ""
 
-# game/scripts/kali_events.rpy:11754
+# game/scripts/kali_events.rpy:11752
 translate pt_br kalibdsm_5c46bdcb_1:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11759
+# game/scripts/kali_events.rpy:11757
 translate pt_br kalibdsm_836e3302_1:
 
     # "I should train her more"
     ""
 
-# game/scripts/kali_events.rpy:11771
+# game/scripts/kali_events.rpy:11769
 translate pt_br kalibdsm_ee044776_2:
 
     # k "What? I'm not doing that..."
     k ""
 
-# game/scripts/kali_events.rpy:11772
+# game/scripts/kali_events.rpy:11770
 translate pt_br kalibdsm_5c46bdcb_2:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11775
+# game/scripts/kali_events.rpy:11773
 translate pt_br kalibdsm_d724424a:
 
     # "She's probably not ready for that."
     ""
 
-# game/scripts/kali_events.rpy:11780
+# game/scripts/kali_events.rpy:11778
 translate pt_br kalibdsm_836e3302_2:
 
     # "I should train her more"
     ""
 
-# game/scripts/kali_events.rpy:11793
+# game/scripts/kali_events.rpy:11791
 translate pt_br kalibdsm_ee044776_3:
 
     # k "What? I'm not doing that..."
     k ""
 
-# game/scripts/kali_events.rpy:11794
+# game/scripts/kali_events.rpy:11792
 translate pt_br kalibdsm_5c46bdcb_3:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:11797
+# game/scripts/kali_events.rpy:11795
 translate pt_br kalibdsm_d724424a_1:
 
     # "She's probably not ready for that."
     ""
 
-# game/scripts/kali_events.rpy:11803
+# game/scripts/kali_events.rpy:11801
 translate pt_br kalirope_7b9d8e94:
 
     # c "I'm going to hang you from the ceiling and fuck you."
     c ""
 
-# game/scripts/kali_events.rpy:11804
+# game/scripts/kali_events.rpy:11802
 translate pt_br kalirope_505b92c5:
 
     # k "Oh, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11806
+# game/scripts/kali_events.rpy:11804
 translate pt_br kalirope_ab526d23:
 
     # "You strip Kali from her clothes, apply clothespins to her nipples, grab some nearby rope and tie her to the ceiling..."
     ""
 
-# game/scripts/kali_events.rpy:11808
+# game/scripts/kali_events.rpy:11806
 translate pt_br kalirope_9d5daa35:
 
     # k "You're really going to fuck me like this... Sir?"
     k ""
 
-# game/scripts/kali_events.rpy:11809
+# game/scripts/kali_events.rpy:11807
 translate pt_br kalirope_56d0beb3:
 
     # c "That's right."
     c ""
 
-# game/scripts/kali_events.rpy:11811
+# game/scripts/kali_events.rpy:11809
 translate pt_br kalirope_f2f48b19:
 
     # k "Mmmm... My pussy is already soaking... I'm waiting for you Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:11812
+# game/scripts/kali_events.rpy:11810
 translate pt_br kalirope_4f477350:
 
     # c "Remember, you're not allowed to cum unless I say so."
     c ""
 
-# game/scripts/kali_events.rpy:11813
+# game/scripts/kali_events.rpy:11811
 translate pt_br kalirope_ca3bf304:
 
     # k "Yes sir..."
     k ""
 
-# game/scripts/kali_events.rpy:11815
+# game/scripts/kali_events.rpy:11813
 translate pt_br kalirope_cc885cd6:
 
     # k "Ahhh... Mmm..."
     k ""
 
-# game/scripts/kali_events.rpy:11816
+# game/scripts/kali_events.rpy:11814
 translate pt_br kalirope_e67e09bd:
 
     # k "It feels so good... fuck... Ahh..."
     k ""
 
-# game/scripts/kali_events.rpy:11817
+# game/scripts/kali_events.rpy:11815
 translate pt_br kalirope_9490e44c:
 
     # k "Hahhh... Mmm... fuck... Sir!"
     k ""
 
-# game/scripts/kali_events.rpy:11821
+# game/scripts/kali_events.rpy:11819
 translate pt_br kalirope_e6f21681:
 
     # k "Ahhh! Mmm! Shit..."
     k ""
 
-# game/scripts/kali_events.rpy:11822
+# game/scripts/kali_events.rpy:11820
 translate pt_br kalirope_40b8f19e:
 
     # k "Fuck me like you own me Sir! Mmmm! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:11823
+# game/scripts/kali_events.rpy:11821
 translate pt_br kalirope_172ad3b8:
 
     # k "Hahh! Oh my god!"
     k ""
 
-# game/scripts/kali_events.rpy:11826
+# game/scripts/kali_events.rpy:11824
 translate pt_br kalirope_708c5bd7:
 
     # k "MMMM! Ahhh! I want to cum! Please let me cum Sir!"
     k ""
 
-# game/scripts/kali_events.rpy:11830
+# game/scripts/kali_events.rpy:11828
 translate pt_br kalirope_ce366f8b:
 
     # k "AHHH! Mmmmm... Fuck... Thank you Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11837
+# game/scripts/kali_events.rpy:11835
 translate pt_br kalirope_bede5ddc:
 
     # k "Ahhh! Hahh! I can't hold it anymore!"
     k ""
 
-# game/scripts/kali_events.rpy:11839
+# game/scripts/kali_events.rpy:11837
 translate pt_br kalirope_01150b8f:
 
     # k "Ahhh!!! Ahhh! Hahh... nnn... I'm sorry Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11844
+# game/scripts/kali_events.rpy:11842
 translate pt_br kalirope_4d13a74f:
 
     # k "Ahh! No! Noo! Why!?"
     k ""
 
-# game/scripts/kali_events.rpy:11845
+# game/scripts/kali_events.rpy:11843
 translate pt_br kalirope_4386108d:
 
     # k "Nnn... Please... put it back in!"
     k ""
 
-# game/scripts/kali_events.rpy:11847
+# game/scripts/kali_events.rpy:11845
 translate pt_br kalirope_0a50cadb:
 
     # k "Ahhh! Fuck! Yes!"
     k ""
 
-# game/scripts/kali_events.rpy:11848
+# game/scripts/kali_events.rpy:11846
 translate pt_br kalirope_1019022e:
 
     # k "Mmm! Ahh! Fuck! Ahhh!!! Mmmm!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11849
+# game/scripts/kali_events.rpy:11847
 translate pt_br kalirope_7fad6e0c:
 
     # k "Fuck yes! Fuck my pussy! Harder! Deeper! Please Sir!"
     k ""
 
-# game/scripts/kali_events.rpy:11852
+# game/scripts/kali_events.rpy:11850
 translate pt_br kalirope_1903a0d9:
 
     # k "MMM! Ahhh! Fuck! I'm gonna cum!"
     k ""
 
-# game/scripts/kali_events.rpy:11856
+# game/scripts/kali_events.rpy:11854
 translate pt_br kalirope_4588c57a:
 
     # k "AH! AHHH! AHH! Yesss! Ahh... Mmm... That felt so good... Thank you Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11863
+# game/scripts/kali_events.rpy:11861
 translate pt_br kalirope_bede5ddc_1:
 
     # k "Ahhh! Hahh! I can't hold it anymore!"
     k ""
 
-# game/scripts/kali_events.rpy:11865
+# game/scripts/kali_events.rpy:11863
 translate pt_br kalirope_04f31e88:
 
     # k "AHHHH!!! AH! Hahh... nnn... I'm sorry Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11869
+# game/scripts/kali_events.rpy:11867
 translate pt_br kalirope_d30021b2:
 
     # k "NNNnnnggg!! No! Put it back! Hurry! Please Sir! Please!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11871
+# game/scripts/kali_events.rpy:11869
 translate pt_br kalirope_75941be5:
 
     # k "Yes! Ohhhh yes! YES!"
     k ""
 
-# game/scripts/kali_events.rpy:11872
+# game/scripts/kali_events.rpy:11870
 translate pt_br kalirope_3c406025:
 
     # k "Ahh! Fuck! It feels so good!"
     k ""
 
-# game/scripts/kali_events.rpy:11873
+# game/scripts/kali_events.rpy:11871
 translate pt_br kalirope_9dbb3195:
 
     # k "FUCK! AHHH! IT FEELS SO GOOD!"
     k ""
 
-# game/scripts/kali_events.rpy:11876
+# game/scripts/kali_events.rpy:11874
 translate pt_br kalirope_d6e5688c:
 
     # k "FUCK! I NEED TO CUM! PLEASE LET ME CUM SIR! I NEED TO CUM!"
     k ""
 
-# game/scripts/kali_events.rpy:11877
+# game/scripts/kali_events.rpy:11875
 translate pt_br kalirope_47b7ea70:
 
     # k "I'LL DO ANYTHING! PLEASE! PLEASE LET ME CUM!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11881
+# game/scripts/kali_events.rpy:11879
 translate pt_br kalirope_a339040d:
 
     # k "AHHHHHHH!!! AHH!!! FFUCK! Hahh... fuck... Thank you Sir..." with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11888
+# game/scripts/kali_events.rpy:11886
 translate pt_br kalirope_bede5ddc_2:
 
     # k "Ahhh! Hahh! I can't hold it anymore!"
     k ""
 
-# game/scripts/kali_events.rpy:11890
+# game/scripts/kali_events.rpy:11888
 translate pt_br kalirope_96c5a5dd:
 
     # k "AHHHHH!!! NNNN!!! MMMM!!! Hahhh... nnn... I'm sorry Sir..." with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11895
+# game/scripts/kali_events.rpy:11893
 translate pt_br kalirope_a980b119:
 
     # k "NNNNNNNNGGG!!! NOOOO! PLEASE PUT IT BACK IN! AHHH! I'M SO CLOSE! I JUST NEED YOUR COCK! PLEASE!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11896
+# game/scripts/kali_events.rpy:11894
 translate pt_br kalirope_c7a9b584:
 
     # c "We're done here."
     c ""
 
-# game/scripts/kali_events.rpy:11897
+# game/scripts/kali_events.rpy:11895
 translate pt_br kalirope_a7f8bc9d:
 
     # k "NOOO!"
     k ""
 
-# game/scripts/kali_events.rpy:11904
+# game/scripts/kali_events.rpy:11902
 translate pt_br kalistrain_04cdf5b5:
 
     # c "I'm going to restrain you and fuck you from behind."
     c ""
 
-# game/scripts/kali_events.rpy:11905
+# game/scripts/kali_events.rpy:11903
 translate pt_br kalistrain_505b92c5:
 
     # k "Oh, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:11907
+# game/scripts/kali_events.rpy:11905
 translate pt_br kalistrain_e0093a1f:
 
     # "You take off Kali's clothes, apply clothespins to her nipples and put her in the rope outfit. You take the restraint and lock her up..."
     ""
 
-# game/scripts/kali_events.rpy:11909
+# game/scripts/kali_events.rpy:11907
 translate pt_br kalistrain_1a21719c:
 
     # k "Ahh... my nipples hurt..."
     k ""
 
-# game/scripts/kali_events.rpy:11913
+# game/scripts/kali_events.rpy:11911
 translate pt_br kalistrain_4f40235a:
 
     # k "Are you... really going to fuck me like this... Sir?"
     k ""
 
-# game/scripts/kali_events.rpy:11914
+# game/scripts/kali_events.rpy:11912
 translate pt_br kalistrain_ae32541b:
 
     # c "I am. But you're only allowed to cum if I say you can."
     c ""
 
-# game/scripts/kali_events.rpy:11915
+# game/scripts/kali_events.rpy:11913
 translate pt_br kalistrain_b224ac0d:
 
     # k "...Please be kind Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:11917
+# game/scripts/kali_events.rpy:11915
 translate pt_br kalistrain_18d0ad18:
 
     # k "Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:11918
+# game/scripts/kali_events.rpy:11916
 translate pt_br kalistrain_5fc6d8eb:
 
     # k "Fuck... yes..."
     k ""
 
-# game/scripts/kali_events.rpy:11919
+# game/scripts/kali_events.rpy:11917
 translate pt_br kalistrain_1cfe4dfc:
 
     # k "Ohhh... It feels so good like this... being helpless..."
     k ""
 
-# game/scripts/kali_events.rpy:11920
+# game/scripts/kali_events.rpy:11918
 translate pt_br kalistrain_6a31bcab:
 
     # k "Hahhh! Treat me like your slut Sir! Mmmm... Fuck me like I'm your personal toy! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:11924
+# game/scripts/kali_events.rpy:11922
 translate pt_br kalistrain_f1fe6d49:
 
     # k "Mmmmm!!! Fuck me Sir! Yes!"
     k ""
 
-# game/scripts/kali_events.rpy:11925
+# game/scripts/kali_events.rpy:11923
 translate pt_br kalistrain_cd06fcb0:
 
     # k "Ohhhh shit! Fuuck! Ffffuck!"
     k ""
 
-# game/scripts/kali_events.rpy:11926
+# game/scripts/kali_events.rpy:11924
 translate pt_br kalistrain_a575404b:
 
     # k "I... I think I'm going to cum! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:11927
+# game/scripts/kali_events.rpy:11925
 translate pt_br kalistrain_8547b390:
 
     # k "Please! Please let me cum Sir!"
     k ""
 
-# game/scripts/kali_events.rpy:11931
+# game/scripts/kali_events.rpy:11929
 translate pt_br kalistrain_f96a4071:
 
     # k "AHHH! Ahh... Hahh... Thank you Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11933
+# game/scripts/kali_events.rpy:11931
 translate pt_br kalistrain_91596cd9:
 
     # k "Ahhh... you came all over me..."
     k ""
 
-# game/scripts/kali_events.rpy:11941
+# game/scripts/kali_events.rpy:11939
 translate pt_br kalistrain_bede5ddc:
 
     # k "Ahhh! Hahh! I can't hold it anymore!"
     k ""
 
-# game/scripts/kali_events.rpy:11943
+# game/scripts/kali_events.rpy:11941
 translate pt_br kalistrain_01150b8f:
 
     # k "Ahhh!!! Ahhh! Hahh... nnn... I'm sorry Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11948
+# game/scripts/kali_events.rpy:11946
 translate pt_br kalistrain_4d13a74f:
 
     # k "Ahh! No! Noo! Why!?"
     k ""
 
-# game/scripts/kali_events.rpy:11949
+# game/scripts/kali_events.rpy:11947
 translate pt_br kalistrain_4386108d:
 
     # k "Nnn... Please... put it back in!"
     k ""
 
-# game/scripts/kali_events.rpy:11951
+# game/scripts/kali_events.rpy:11949
 translate pt_br kalistrain_0a50cadb:
 
     # k "Ahhh! Fuck! Yes!"
     k ""
 
-# game/scripts/kali_events.rpy:11952
+# game/scripts/kali_events.rpy:11950
 translate pt_br kalistrain_1019022e:
 
     # k "Mmm! Ahh! Fuck! Ahhh!!! Mmmm!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11953
+# game/scripts/kali_events.rpy:11951
 translate pt_br kalistrain_7fad6e0c:
 
     # k "Fuck yes! Fuck my pussy! Harder! Deeper! Please Sir!"
     k ""
 
-# game/scripts/kali_events.rpy:11956
+# game/scripts/kali_events.rpy:11954
 translate pt_br kalistrain_1903a0d9:
 
     # k "MMM! Ahhh! Fuck! I'm gonna cum!"
     k ""
 
-# game/scripts/kali_events.rpy:11960
+# game/scripts/kali_events.rpy:11958
 translate pt_br kalistrain_4588c57a:
 
     # k "AH! AHHH! AHH! Yesss! Ahh... Mmm... That felt so good... Thank you Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11962
+# game/scripts/kali_events.rpy:11960
 translate pt_br kalistrain_9f22abc0:
 
     # k "Ahh! Mmm! You came all over me!"
     k ""
 
-# game/scripts/kali_events.rpy:11970
+# game/scripts/kali_events.rpy:11968
 translate pt_br kalistrain_bede5ddc_1:
 
     # k "Ahhh! Hahh! I can't hold it anymore!"
     k ""
 
-# game/scripts/kali_events.rpy:11972
+# game/scripts/kali_events.rpy:11970
 translate pt_br kalistrain_01150b8f_1:
 
     # k "Ahhh!!! Ahhh! Hahh... nnn... I'm sorry Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11977
+# game/scripts/kali_events.rpy:11975
 translate pt_br kalistrain_7bfdfe78:
 
     # k "NNNnnnggg!! No! Put it back! Hurry! Please Sir!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:11979
+# game/scripts/kali_events.rpy:11977
 translate pt_br kalistrain_75941be5:
 
     # k "Yes! Ohhhh yes! YES!"
     k ""
 
-# game/scripts/kali_events.rpy:11980
+# game/scripts/kali_events.rpy:11978
 translate pt_br kalistrain_fe08940d:
 
     # k "Ahh! Never stop fucking me Sir! Fuck! Yes! It feels so good!"
     k ""
 
-# game/scripts/kali_events.rpy:11981
+# game/scripts/kali_events.rpy:11979
 translate pt_br kalistrain_9dbb3195:
 
     # k "FUCK! AHHH! IT FEELS SO GOOD!"
     k ""
 
-# game/scripts/kali_events.rpy:11984
+# game/scripts/kali_events.rpy:11982
 translate pt_br kalistrain_ff607fec:
 
     # k "FUCK! LET ME CUM ON YOUR COCK! PLEASE SIR! I NEED TO CUM! I NEED TO CUM! I NEED TO CUM!"
     k ""
 
-# game/scripts/kali_events.rpy:11985
+# game/scripts/kali_events.rpy:11983
 translate pt_br kalistrain_f0270c7c:
 
     # k "I'LL DO ANYTHING! I'LL BE YOUR LITTLE SLUT FOREVER! PLEASE! I JUST NEED TO CUM!!!"
     k ""
 
-# game/scripts/kali_events.rpy:11989
+# game/scripts/kali_events.rpy:11987
 translate pt_br kalistrain_74000f71:
 
     # k "AHHHHHHH!!! AHH! NNN!!! FFFFFFUCK! Ahhhh... Hahh... Holy shit... Thank you Sir..." with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:11991
+# game/scripts/kali_events.rpy:11989
 translate pt_br kalistrain_3a4c559b:
 
     # k "Nnn!!! You came all over me... Ahhh... Hahhh... Thank you Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:11999
+# game/scripts/kali_events.rpy:11997
 translate pt_br kalistrain_bede5ddc_2:
 
     # k "Ahhh! Hahh! I can't hold it anymore!"
     k ""
 
-# game/scripts/kali_events.rpy:12001
+# game/scripts/kali_events.rpy:11999
 translate pt_br kalistrain_01150b8f_2:
 
     # k "Ahhh!!! Ahhh! Hahh... nnn... I'm sorry Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12006
+# game/scripts/kali_events.rpy:12004
 translate pt_br kalistrain_2ff14da3:
 
     # k "NNNNNNNNGGG!!! NOOOO! PLEASE! PUT IT BACK IN! HURRY! I'M SO CLOSE I'LL CUM IF YOU JUST PUT YOUR COCK BACK IN! JUST THE TIP! ANYTHING! PLEASE!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12007
+# game/scripts/kali_events.rpy:12005
 translate pt_br kalistrain_5d1354f2:
 
     # c "I think we're done here."
     c ""
 
-# game/scripts/kali_events.rpy:12008
+# game/scripts/kali_events.rpy:12006
 translate pt_br kalistrain_b8fe9151:
 
     # k "NO! NOO! PLEASE!"
     k ""
 
-# game/scripts/kali_events.rpy:12009
+# game/scripts/kali_events.rpy:12007
 translate pt_br kalistrain_c23ae78d:
 
     # k "NNNNN!! Nnn..."
     k ""
 
-# game/scripts/kali_events.rpy:12017
+# game/scripts/kali_events.rpy:12015
 translate pt_br kalithroat_322cee82:
 
     # c "Get on your knees and start sucking."
     c ""
 
-# game/scripts/kali_events.rpy:12018
+# game/scripts/kali_events.rpy:12016
 translate pt_br kalithroat_87a21f5b:
 
     # k "...Yes Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12020
+# game/scripts/kali_events.rpy:12018
 translate pt_br kalithroat_62471ac6:
 
     # k "Nnnggh... Mmnnn... Ghh..."
     k ""
 
-# game/scripts/kali_events.rpy:12024
+# game/scripts/kali_events.rpy:12022
 translate pt_br kalithroat_daf9c106:
 
     # k "GGHHK!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12036
+# game/scripts/kali_events.rpy:12034
 translate pt_br kaligo_1b282dc8:
 
     # k "*COUGH* *COUGH* *COUGH*"
     k ""
 
-# game/scripts/kali_events.rpy:12037
+# game/scripts/kali_events.rpy:12035
 translate pt_br kaligo_2c15c860:
 
     # k "Aghh... Ah... shit..."
     k ""
 
-# game/scripts/kali_events.rpy:12038
+# game/scripts/kali_events.rpy:12036
 translate pt_br kaligo_f90230ed:
 
     # c "Get back to sucking."
     c ""
 
-# game/scripts/kali_events.rpy:12039
+# game/scripts/kali_events.rpy:12037
 translate pt_br kaligo_3659189f:
 
     # k "Agh... Ahem... Yes Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12041
+# game/scripts/kali_events.rpy:12039
 translate pt_br kaligo_489152b7:
 
     # k "Ghkk... Mmm..."
     k ""
 
-# game/scripts/kali_events.rpy:12053
+# game/scripts/kali_events.rpy:12051
 translate pt_br kalidcum_84aa9723:
 
     # k "NNN!?!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12054
+# game/scripts/kali_events.rpy:12052
 translate pt_br kalidcum_7b0fc2df:
 
     # k "GHHHKHK!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12055
+# game/scripts/kali_events.rpy:12053
 translate pt_br kalidcum_6eb75862:
 
     # k "Nnngkkhk... Ghh..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12057
+# game/scripts/kali_events.rpy:12055
 translate pt_br kalidcum_3916e542:
 
     # k "*COUGH* *COUGH* *COUGH*" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12058
+# game/scripts/kali_events.rpy:12056
 translate pt_br kalidcum_9696ccb2:
 
     # c "Good girl."
     c ""
 
-# game/scripts/kali_events.rpy:12059
+# game/scripts/kali_events.rpy:12057
 translate pt_br kalidcum_18c131bd:
 
     # k "Eghh... Thank you... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12067
+# game/scripts/kali_events.rpy:12065
 translate pt_br kalihold_cd9934e7:
 
     # k "Nnn... Mmm!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12074
+# game/scripts/kali_events.rpy:12072
 translate pt_br kalihold_d3256511:
 
     # k "Mmmm! MMMM!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:12081
+# game/scripts/kali_events.rpy:12079
 translate pt_br kalihold_1562aaeb:
 
     # k "MMM! MMMMMM!!! MMMMMMMMMM!!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:12089
+# game/scripts/kali_events.rpy:12087
 translate pt_br kalihold_dd910717:
 
     # k "MMMMM! MMMM!!! MMMmmmm... nn..." with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:12091
+# game/scripts/kali_events.rpy:12089
 translate pt_br kalihold_5c10700d:
 
     # c "She passed out..."
     c ""
 
-# game/scripts/kali_events.rpy:12095
+# game/scripts/kali_events.rpy:12093
 translate pt_br kalihold_ab54542c:
 
     # "You wait for Kali to regain her conciousness... After a couple mintues, she comes to."
     ""
 
-# game/scripts/kali_events.rpy:12097
+# game/scripts/kali_events.rpy:12095
 translate pt_br kalihold_89306eb0:
 
     # k "Did I... pass out?"
     k ""
 
-# game/scripts/kali_events.rpy:12098
+# game/scripts/kali_events.rpy:12096
 translate pt_br kalihold_074224c2:
 
     # c "You did."
     c ""
 
-# game/scripts/kali_events.rpy:12099
+# game/scripts/kali_events.rpy:12097
 translate pt_br kalihold_c2d1f108:
 
     # k "Holy shit..."
     k ""
 
-# game/scripts/kali_events.rpy:12106
+# game/scripts/kali_events.rpy:12104
 translate pt_br kfbdsm_32b0d4f6:
 
     # k "So what are we going to do?"
     k ""
 
-# game/scripts/kali_events.rpy:12107
+# game/scripts/kali_events.rpy:12105
 translate pt_br kfbdsm_0a6acb06:
 
     # c "Let's start off with tying you down."
     c ""
 
-# game/scripts/kali_events.rpy:12108
+# game/scripts/kali_events.rpy:12106
 translate pt_br kfbdsm_22c719b5:
 
     # k "Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:12110
+# game/scripts/kali_events.rpy:12108
 translate pt_br kfbdsm_e5ad37e3:
 
     # "You tell Kali to sit down on the bed. You make her strip her clothes and put on the rope outfit."
     ""
 
-# game/scripts/kali_events.rpy:12112
+# game/scripts/kali_events.rpy:12110
 translate pt_br kfbdsm_5498ae4e:
 
     # k "So... now what?"
     k ""
 
-# game/scripts/kali_events.rpy:12113
+# game/scripts/kali_events.rpy:12111
 translate pt_br kfbdsm_e4c638fd:
 
     # c "I'm going to tie your hands behind your back, you're going to perk your ass up, and take what I have to give you."
     c ""
 
-# game/scripts/kali_events.rpy:12114
+# game/scripts/kali_events.rpy:12112
 translate pt_br kfbdsm_495341cf:
 
     # k "Oh... okay..."
     k ""
 
-# game/scripts/kali_events.rpy:12116
+# game/scripts/kali_events.rpy:12114
 translate pt_br kfbdsm_e6069e4a:
 
     # k "...Now what...?"
     k ""
 
-# game/scripts/kali_events.rpy:12118
+# game/scripts/kali_events.rpy:12116
 translate pt_br kfbdsm_cba94fa4:
 
     # "TIP: During BDSM scenes, sometimes you may control when a girl cums, but there's a chance for the girl to cum regardless of what you say. And sometimes your goal will be to get the girl to cum as many times as she can."
     ""
 
-# game/scripts/kali_events.rpy:12119
+# game/scripts/kali_events.rpy:12117
 translate pt_br kfbdsm_4fc6a587:
 
     # "TIP: If a girl cums, you have the option to punish them, raising their submission."
     ""
 
-# game/scripts/kali_events.rpy:12120
+# game/scripts/kali_events.rpy:12118
 translate pt_br kfbdsm_756d881d:
 
     # "TIP: However, not letting her cum at all during BDSM scenes will cause them to get angry, lowering the 'submission' stat. You'll be able to decline her three times before the scene ends."
     ""
 
-# game/scripts/kali_events.rpy:12121
+# game/scripts/kali_events.rpy:12119
 translate pt_br kfbdsm_7a50ff13:
 
     # c "You can only cum if I say so, understand?"
     c ""
 
-# game/scripts/kali_events.rpy:12122
+# game/scripts/kali_events.rpy:12120
 translate pt_br kfbdsm_bf0c2c09:
 
     # k "W-What? That's not really fair..."
     k ""
 
-# game/scripts/kali_events.rpy:12123
+# game/scripts/kali_events.rpy:12121
 translate pt_br kfbdsm_24c0e557:
 
     # c "It's not meant to be."
     c ""
 
-# game/scripts/kali_events.rpy:12124
+# game/scripts/kali_events.rpy:12122
 translate pt_br kfbdsm_2e9bd230:
 
     # k "Oh..."
     k ""
 
-# game/scripts/kali_events.rpy:12125
+# game/scripts/kali_events.rpy:12123
 translate pt_br kfbdsm_df0eba0d:
 
     # c "If you cum, I'm going to punish you."
     c ""
 
-# game/scripts/kali_events.rpy:12126
+# game/scripts/kali_events.rpy:12124
 translate pt_br kfbdsm_a3ade135:
 
     # k "Punish me? How?"
     k ""
 
-# game/scripts/kali_events.rpy:12127
+# game/scripts/kali_events.rpy:12125
 translate pt_br kfbdsm_5b728684:
 
     # c "You're not going to want to find out..."
     c ""
 
-# game/scripts/kali_events.rpy:12128
+# game/scripts/kali_events.rpy:12126
 translate pt_br kfbdsm_0b0cda64:
 
     # k "Oh... okay, I'll try not to cum..."
     k ""
 
-# game/scripts/kali_events.rpy:12129
+# game/scripts/kali_events.rpy:12127
 translate pt_br kfbdsm_9f867307:
 
     # c "And you won't be calling me by my name. You'll address me as 'Sir'."
     c ""
 
-# game/scripts/kali_events.rpy:12130
+# game/scripts/kali_events.rpy:12128
 translate pt_br kfbdsm_e68c1edc:
 
     # k "Um... okay."
     k ""
 
-# game/scripts/kali_events.rpy:12131
+# game/scripts/kali_events.rpy:12129
 translate pt_br kfbdsm_3ee8f6e2:
 
     # c "'Okay'...?"
     c ""
 
-# game/scripts/kali_events.rpy:12132
+# game/scripts/kali_events.rpy:12130
 translate pt_br kfbdsm_71786e58:
 
     # k "I mean... Yes Sir."
     k ""
 
-# game/scripts/kali_events.rpy:12133
+# game/scripts/kali_events.rpy:12131
 translate pt_br kfbdsm_2c45c848:
 
     # c "Let's get started..."
     c ""
 
-# game/scripts/kali_events.rpy:12135
+# game/scripts/kali_events.rpy:12133
 translate pt_br kfbdsm_17de0987:
 
     # k "Nnn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12136
+# game/scripts/kali_events.rpy:12134
 translate pt_br kfbdsm_7cab310e:
 
     # k "A vibrator? You... nn.. You know I have a hard time cumming from... Nng! ...Those, right?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12137
+# game/scripts/kali_events.rpy:12135
 translate pt_br kfbdsm_61f62db9:
 
     # "You turn up the speed"
     ""
 
-# game/scripts/kali_events.rpy:12138
+# game/scripts/kali_events.rpy:12136
 translate pt_br kfbdsm_df1a39d5:
 
     # k "NNN!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12139
+# game/scripts/kali_events.rpy:12137
 translate pt_br kfbdsm_34a12585:
 
     # k "Fuck! This one's... really powerful! Ahh!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12140
+# game/scripts/kali_events.rpy:12138
 translate pt_br kfbdsm_65afed20:
 
     # k "Nnggg!!! Fuck!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12141
+# game/scripts/kali_events.rpy:12139
 translate pt_br kfbdsm_83a691c3:
 
     # c "Going to cum?" with ssshake
     c "" with ssshake
 
-# game/scripts/kali_events.rpy:12142
+# game/scripts/kali_events.rpy:12140
 translate pt_br kfbdsm_611ca711:
 
     # k "No!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12144
+# game/scripts/kali_events.rpy:12142
 translate pt_br kfbdsm_9d117311:
 
     # c "No what?" with ssshake
     c "" with ssshake
 
-# game/scripts/kali_events.rpy:12145
+# game/scripts/kali_events.rpy:12143
 translate pt_br kfbdsm_05e17c1e:
 
     # k "Ahh! No Sir!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12146
+# game/scripts/kali_events.rpy:12144
 translate pt_br kfbdsm_9e742b3f:
 
     # c "Good girl." with ssshake
     c "" with ssshake
 
-# game/scripts/kali_events.rpy:12147
+# game/scripts/kali_events.rpy:12145
 translate pt_br kfbdsm_80ede5ab:
 
     # k "Ahh! T-Turn it up!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12148
+# game/scripts/kali_events.rpy:12146
 translate pt_br kfbdsm_21a126fa:
 
     # "You decide to turn the speed up."
     ""
 
-# game/scripts/kali_events.rpy:12149
+# game/scripts/kali_events.rpy:12147
 translate pt_br kfbdsm_47e0e5ad:
 
     # k "AHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12150
+# game/scripts/kali_events.rpy:12148
 translate pt_br kfbdsm_6329d26e:
 
     # k "CAN I CUM?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12152
+# game/scripts/kali_events.rpy:12150
 translate pt_br kfbdsm_dfe501f3:
 
     # k "NN! CAN I CUM SIR?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12156
+# game/scripts/kali_events.rpy:12154
 translate pt_br kfbdsm_440a817d:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12158
+# game/scripts/kali_events.rpy:12156
 translate pt_br kfbdsm_16515732:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12164
+# game/scripts/kali_events.rpy:12162
 translate pt_br kfbdsm_eca74bb5:
 
     # k "NNN I... I CAN'T HOLD IT ANYMORE!"
     k ""
 
-# game/scripts/kali_events.rpy:12166
+# game/scripts/kali_events.rpy:12164
 translate pt_br kfbdsm_440a817d_1:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12168
+# game/scripts/kali_events.rpy:12166
 translate pt_br kfbdsm_338c3da0:
 
     # k "Ahh... hahhh... I'm... I'm sorry... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12169
+# game/scripts/kali_events.rpy:12167
 translate pt_br kfbdsm_326ee61a:
 
     # c "Get up."
     c ""
 
-# game/scripts/kali_events.rpy:12172
+# game/scripts/kali_events.rpy:12170
 translate pt_br kfbdsm_03814059:
 
     # k "NNNN! What!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12173
+# game/scripts/kali_events.rpy:12171
 translate pt_br kfbdsm_6d3e5d41:
 
     # k "NNGG! MMM!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12174
+# game/scripts/kali_events.rpy:12172
 translate pt_br kfbdsm_8e8179fc:
 
     # k "AHH! Please let me cum!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12176
+# game/scripts/kali_events.rpy:12174
 translate pt_br kfbdsm_83cab1e2:
 
     # k "AH! Please let me cum Sir!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12180
+# game/scripts/kali_events.rpy:12178
 translate pt_br kfbdsm_440a817d_2:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12182
+# game/scripts/kali_events.rpy:12180
 translate pt_br kfbdsm_16515732_1:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12188
+# game/scripts/kali_events.rpy:12186
 translate pt_br kfbdsm_eca74bb5_1:
 
     # k "NNN I... I CAN'T HOLD IT ANYMORE!"
     k ""
 
-# game/scripts/kali_events.rpy:12190
+# game/scripts/kali_events.rpy:12188
 translate pt_br kfbdsm_440a817d_3:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12192
+# game/scripts/kali_events.rpy:12190
 translate pt_br kfbdsm_338c3da0_1:
 
     # k "Ahh... hahhh... I'm... I'm sorry... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12193
+# game/scripts/kali_events.rpy:12191
 translate pt_br kfbdsm_326ee61a_1:
 
     # c "Get up."
     c ""
 
-# game/scripts/kali_events.rpy:12196
+# game/scripts/kali_events.rpy:12194
 translate pt_br kfbdsm_cdb77f5f:
 
     # k "NGGG! NOO!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12197
+# game/scripts/kali_events.rpy:12195
 translate pt_br kfbdsm_2150b457:
 
     # k "FFUCK! I'm so sensitive!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12198
+# game/scripts/kali_events.rpy:12196
 translate pt_br kfbdsm_b4bb40a1:
 
     # k "PLEASE! LET ME CUM! PLEASE SIR!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12199
+# game/scripts/kali_events.rpy:12197
 translate pt_br kfbdsm_eec563a8:
 
     # c "Not yet..." with ssshake
     c "" with ssshake
 
-# game/scripts/kali_events.rpy:12200
+# game/scripts/kali_events.rpy:12198
 translate pt_br kfbdsm_ba4b2a58:
 
     # k "FUUUUCK! I NEED TO CUM! I'LL DO ANYTHING! I'LL SUCK YOUR DICK! PLEASE SIR! PLEASE!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12204
+# game/scripts/kali_events.rpy:12202
 translate pt_br kfbdsm_440a817d_4:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12206
+# game/scripts/kali_events.rpy:12204
 translate pt_br kfbdsm_16515732_2:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12212
+# game/scripts/kali_events.rpy:12210
 translate pt_br kfbdsm_eca74bb5_2:
 
     # k "NNN I... I CAN'T HOLD IT ANYMORE!"
     k ""
 
-# game/scripts/kali_events.rpy:12214
+# game/scripts/kali_events.rpy:12212
 translate pt_br kfbdsm_440a817d_5:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12216
+# game/scripts/kali_events.rpy:12214
 translate pt_br kfbdsm_338c3da0_2:
 
     # k "Ahh... hahhh... I'm... I'm sorry... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12217
+# game/scripts/kali_events.rpy:12215
 translate pt_br kfbdsm_326ee61a_2:
 
     # c "Get up."
     c ""
 
-# game/scripts/kali_events.rpy:12220
+# game/scripts/kali_events.rpy:12218
 translate pt_br kfbdsm_c4c64e1a:
 
     # k "NOO! FUCK FUCK!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12221
+# game/scripts/kali_events.rpy:12219
 translate pt_br kfbdsm_67cccf31:
 
     # k "PLEASE! I'LL DO ANYTHING! SERIOUSLY! I JUST NEED TO CUM!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12222
+# game/scripts/kali_events.rpy:12220
 translate pt_br kfbdsm_d4d0e3f0:
 
     # k "FUCK FUCK FUUUCK! PLEASE SIR! MMMM!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12223
+# game/scripts/kali_events.rpy:12221
 translate pt_br kfbdsm_1499b6fc:
 
     # k "I'M GOING TO GO CRAZY! ALL I CAN THINK OF IS CUMMING!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12224
+# game/scripts/kali_events.rpy:12222
 translate pt_br kfbdsm_a41cd19c:
 
     # k "PLEASE LET ME CUM!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12228
+# game/scripts/kali_events.rpy:12226
 translate pt_br kfbdsm_440a817d_6:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12230
+# game/scripts/kali_events.rpy:12228
 translate pt_br kfbdsm_16515732_3:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12235
+# game/scripts/kali_events.rpy:12233
 translate pt_br kfbdsm_144af301:
 
     # k "W-What!?"
     k ""
 
-# game/scripts/kali_events.rpy:12236
+# game/scripts/kali_events.rpy:12234
 translate pt_br kfbdsm_a5fe4647:
 
     # k "NO! Put it back! I want to cum! I NEED to cum!"
     k ""
 
-# game/scripts/kali_events.rpy:12237
+# game/scripts/kali_events.rpy:12235
 translate pt_br kfbdsm_c029daca:
 
     # c "Maybe next time."
     c ""
 
-# game/scripts/kali_events.rpy:12238
+# game/scripts/kali_events.rpy:12236
 translate pt_br kfbdsm_26ec7a75:
 
     # k "NNN! NO!!!"
     k ""
 
-# game/scripts/kali_events.rpy:12244
+# game/scripts/kali_events.rpy:12242
 translate pt_br kalivibe_a2478ff4:
 
     # k "I'm ready sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12246
+# game/scripts/kali_events.rpy:12244
 translate pt_br kalivibe_ba175c69:
 
     # k "Ahhh... Mmmm..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12247
+# game/scripts/kali_events.rpy:12245
 translate pt_br kalivibe_36830eb5:
 
     # k "Fuck... it feels good..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12248
+# game/scripts/kali_events.rpy:12246
 translate pt_br kalivibe_2cd02e28:
 
     # k "Please... turn it up Sir..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12249
+# game/scripts/kali_events.rpy:12247
 translate pt_br kalivibe_61f62db9:
 
     # "You turn up the speed"
     ""
 
-# game/scripts/kali_events.rpy:12250
+# game/scripts/kali_events.rpy:12248
 translate pt_br kalivibe_13bfa152:
 
     # k "Ahh!!! Mmm!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12251
+# game/scripts/kali_events.rpy:12249
 translate pt_br kalivibe_6d12f80d:
 
     # k "Fuuckk! FUCK!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12252
+# game/scripts/kali_events.rpy:12250
 translate pt_br kalivibe_dfe501f3:
 
     # k "NN! CAN I CUM SIR?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12256
+# game/scripts/kali_events.rpy:12254
 translate pt_br kalivibe_440a817d:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12258
+# game/scripts/kali_events.rpy:12256
 translate pt_br kalivibe_16515732:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12264
+# game/scripts/kali_events.rpy:12262
 translate pt_br kalivibe_eca74bb5:
 
     # k "NNN I... I CAN'T HOLD IT ANYMORE!"
     k ""
 
-# game/scripts/kali_events.rpy:12266
+# game/scripts/kali_events.rpy:12264
 translate pt_br kalivibe_440a817d_1:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12268
+# game/scripts/kali_events.rpy:12266
 translate pt_br kalivibe_338c3da0:
 
     # k "Ahh... hahhh... I'm... I'm sorry... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12269
+# game/scripts/kali_events.rpy:12267
 translate pt_br kalivibe_326ee61a:
 
     # c "Get up."
     c ""
 
-# game/scripts/kali_events.rpy:12272
+# game/scripts/kali_events.rpy:12270
 translate pt_br kalivibe_03814059:
 
     # k "NNNN! What!?" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12273
+# game/scripts/kali_events.rpy:12271
 translate pt_br kalivibe_6d3e5d41:
 
     # k "NNGG! MMM!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12274
+# game/scripts/kali_events.rpy:12272
 translate pt_br kalivibe_8e8179fc:
 
     # k "AHH! Please let me cum!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12276
+# game/scripts/kali_events.rpy:12274
 translate pt_br kalivibe_83cab1e2:
 
     # k "AH! Please let me cum Sir!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12280
+# game/scripts/kali_events.rpy:12278
 translate pt_br kalivibe_440a817d_2:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12282
+# game/scripts/kali_events.rpy:12280
 translate pt_br kalivibe_16515732_1:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12288
+# game/scripts/kali_events.rpy:12286
 translate pt_br kalivibe_eca74bb5_1:
 
     # k "NNN I... I CAN'T HOLD IT ANYMORE!"
     k ""
 
-# game/scripts/kali_events.rpy:12290
+# game/scripts/kali_events.rpy:12288
 translate pt_br kalivibe_440a817d_3:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12292
+# game/scripts/kali_events.rpy:12290
 translate pt_br kalivibe_338c3da0_1:
 
     # k "Ahh... hahhh... I'm... I'm sorry... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12293
+# game/scripts/kali_events.rpy:12291
 translate pt_br kalivibe_326ee61a_1:
 
     # c "Get up."
     c ""
 
-# game/scripts/kali_events.rpy:12296
+# game/scripts/kali_events.rpy:12294
 translate pt_br kalivibe_cdb77f5f:
 
     # k "NGGG! NOO!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12297
+# game/scripts/kali_events.rpy:12295
 translate pt_br kalivibe_2150b457:
 
     # k "FFUCK! I'm so sensitive!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12298
+# game/scripts/kali_events.rpy:12296
 translate pt_br kalivibe_b4bb40a1:
 
     # k "PLEASE! LET ME CUM! PLEASE SIR!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12299
+# game/scripts/kali_events.rpy:12297
 translate pt_br kalivibe_eec563a8:
 
     # c "Not yet..." with ssshake
     c "" with ssshake
 
-# game/scripts/kali_events.rpy:12300
+# game/scripts/kali_events.rpy:12298
 translate pt_br kalivibe_ba4b2a58:
 
     # k "FUUUUCK! I NEED TO CUM! I'LL DO ANYTHING! I'LL SUCK YOUR DICK! PLEASE SIR! PLEASE!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12304
+# game/scripts/kali_events.rpy:12302
 translate pt_br kalivibe_440a817d_4:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12306
+# game/scripts/kali_events.rpy:12304
 translate pt_br kalivibe_16515732_2:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12312
+# game/scripts/kali_events.rpy:12310
 translate pt_br kalivibe_eca74bb5_2:
 
     # k "NNN I... I CAN'T HOLD IT ANYMORE!"
     k ""
 
-# game/scripts/kali_events.rpy:12314
+# game/scripts/kali_events.rpy:12312
 translate pt_br kalivibe_440a817d_5:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12316
+# game/scripts/kali_events.rpy:12314
 translate pt_br kalivibe_338c3da0_2:
 
     # k "Ahh... hahhh... I'm... I'm sorry... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12317
+# game/scripts/kali_events.rpy:12315
 translate pt_br kalivibe_326ee61a_2:
 
     # c "Get up."
     c ""
 
-# game/scripts/kali_events.rpy:12320
+# game/scripts/kali_events.rpy:12318
 translate pt_br kalivibe_c4c64e1a:
 
     # k "NOO! FUCK FUCK!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12321
+# game/scripts/kali_events.rpy:12319
 translate pt_br kalivibe_67cccf31:
 
     # k "PLEASE! I'LL DO ANYTHING! SERIOUSLY! I JUST NEED TO CUM!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12322
+# game/scripts/kali_events.rpy:12320
 translate pt_br kalivibe_d4d0e3f0:
 
     # k "FUCK FUCK FUUUCK! PLEASE SIR! MMMM!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12323
+# game/scripts/kali_events.rpy:12321
 translate pt_br kalivibe_1499b6fc:
 
     # k "I'M GOING TO GO CRAZY! ALL I CAN THINK OF IS CUMMING!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12324
+# game/scripts/kali_events.rpy:12322
 translate pt_br kalivibe_a41cd19c:
 
     # k "PLEASE LET ME CUM!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12328
+# game/scripts/kali_events.rpy:12326
 translate pt_br kalivibe_440a817d_6:
 
     # k "AHHHHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12330
+# game/scripts/kali_events.rpy:12328
 translate pt_br kalivibe_16515732_3:
 
     # k "Ahh... hahhh... Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12335
+# game/scripts/kali_events.rpy:12333
 translate pt_br kalivibe_144af301:
 
     # k "W-What!?"
     k ""
 
-# game/scripts/kali_events.rpy:12336
+# game/scripts/kali_events.rpy:12334
 translate pt_br kalivibe_a5fe4647:
 
     # k "NO! Put it back! I want to cum! I NEED to cum!"
     k ""
 
-# game/scripts/kali_events.rpy:12337
+# game/scripts/kali_events.rpy:12335
 translate pt_br kalivibe_c029daca:
 
     # c "Maybe next time."
     c ""
 
-# game/scripts/kali_events.rpy:12338
+# game/scripts/kali_events.rpy:12336
 translate pt_br kalivibe_26ec7a75:
 
     # k "NNN! NO!!!"
     k ""
 
-# game/scripts/kali_events.rpy:12347
+# game/scripts/kali_events.rpy:12345
 translate pt_br kalibpunish_27e78cd0:
 
     # k "So... how are you going to punish me?"
     k ""
 
-# game/scripts/kali_events.rpy:12350
+# game/scripts/kali_events.rpy:12348
 translate pt_br kalibpunish_c55e6d50:
 
     # k "What...?"
     k ""
 
-# game/scripts/kali_events.rpy:12351
+# game/scripts/kali_events.rpy:12349
 translate pt_br kalibpunish_1ffeadfb:
 
     # c "Lean over on my knees."
     c ""
 
-# game/scripts/kali_events.rpy:12352
+# game/scripts/kali_events.rpy:12350
 translate pt_br kalibpunish_87a21f5b:
 
     # k "...Yes Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12354
+# game/scripts/kali_events.rpy:12352
 translate pt_br kalibpunish_b3cffac2:
 
     # k "Nnn... please be gentle..."
     k ""
 
-# game/scripts/kali_events.rpy:12356
+# game/scripts/kali_events.rpy:12354
 translate pt_br kalibpunish_2464a20c:
 
     # k "Ahh!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12360
+# game/scripts/kali_events.rpy:12358
 translate pt_br kalibpunish_15da2976:
 
     # k "Mmm!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12364
+# game/scripts/kali_events.rpy:12362
 translate pt_br kalibpunish_586493bf:
 
     # k "Fuck!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12368
+# game/scripts/kali_events.rpy:12366
 translate pt_br kalibpunish_97fa8710:
 
     # k "Gahh!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12372
+# game/scripts/kali_events.rpy:12370
 translate pt_br kalibpunish_7201cdf3:
 
     # k "Fuck, Fuck!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12376
+# game/scripts/kali_events.rpy:12374
 translate pt_br kalibpunish_b821125f:
 
     # k "NNN!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12380
+# game/scripts/kali_events.rpy:12378
 translate pt_br kalibpunish_47e0e5ad:
 
     # k "AHH!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:12381
+# game/scripts/kali_events.rpy:12379
 translate pt_br kalibpunish_c7a66cc4:
 
     # c "Alright, I'm done."
     c ""
 
-# game/scripts/kali_events.rpy:12385
+# game/scripts/kali_events.rpy:12383
 translate pt_br kalibpunish_63849d6f:
 
     # k "W-What?"
     k ""
 
-# game/scripts/kali_events.rpy:12386
+# game/scripts/kali_events.rpy:12384
 translate pt_br kalibpunish_5c0bacf3:
 
     # c "Get on your knees."
     c ""
 
-# game/scripts/kali_events.rpy:12387
+# game/scripts/kali_events.rpy:12385
 translate pt_br kalibpunish_87a21f5b_1:
 
     # k "...Yes Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12389
+# game/scripts/kali_events.rpy:12387
 translate pt_br kalibpunish_4c561436:
 
     # k "Ergh..."
     k ""
 
-# game/scripts/kali_events.rpy:12394
+# game/scripts/kali_events.rpy:12392
 translate pt_br kalibpunish_129646bd:
 
     # c "What do you say?"
     c ""
 
-# game/scripts/kali_events.rpy:12395
+# game/scripts/kali_events.rpy:12393
 translate pt_br kalibpunish_810612ce:
 
     # k "...Thank you Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12397
+# game/scripts/kali_events.rpy:12395
 translate pt_br kalibpunish_ab27bdc4:
 
     # k "Thank you sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12400
+# game/scripts/kali_events.rpy:12398
 translate pt_br kalibpunish_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/kali_events.rpy:12401
+# game/scripts/kali_events.rpy:12399
 translate pt_br kalibpunish_078805fd:
 
     # c "Get against the wall, now."
     c ""
 
-# game/scripts/kali_events.rpy:12402
+# game/scripts/kali_events.rpy:12400
 translate pt_br kalibpunish_87a21f5b_2:
 
     # k "...Yes Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12404
+# game/scripts/kali_events.rpy:12402
 translate pt_br kalibpunish_e9c8d1ae:
 
     # c "Are you ready?"
     c ""
 
-# game/scripts/kali_events.rpy:12405
+# game/scripts/kali_events.rpy:12403
 translate pt_br kalibpunish_cd428874:
 
     # k "Please be gentle..."
     k ""
 
-# game/scripts/kali_events.rpy:12407
+# game/scripts/kali_events.rpy:12405
 translate pt_br kalibpunish_74961744:
 
     # k "Nnn..."
     k ""
 
-# game/scripts/kali_events.rpy:12415
+# game/scripts/kali_events.rpy:12413
 translate pt_br kalibpunish_1499434e:
 
     # k "Ahhh!"
     k ""
 
-# game/scripts/kali_events.rpy:12423
+# game/scripts/kali_events.rpy:12421
 translate pt_br kalibpunish_a81dcba7:
 
     # k "Nnnn!"
     k ""
 
-# game/scripts/kali_events.rpy:12431
+# game/scripts/kali_events.rpy:12429
 translate pt_br kalibpunish_535fb8ae:
 
     # k "Ghhh!"
     k ""
 
-# game/scripts/kali_events.rpy:12439
+# game/scripts/kali_events.rpy:12437
 translate pt_br kalibpunish_d6da04ef:
 
     # k "Gahhhh!!"
     k ""
 
-# game/scripts/kali_events.rpy:12447
+# game/scripts/kali_events.rpy:12445
 translate pt_br kalibpunish_be2e0637:
 
     # k "Fuck!"
     k ""
 
-# game/scripts/kali_events.rpy:12455
+# game/scripts/kali_events.rpy:12453
 translate pt_br kalibpunish_71d3faba:
 
     # k "Ahh!!!"
     k ""
 
-# game/scripts/kali_events.rpy:12456
+# game/scripts/kali_events.rpy:12454
 translate pt_br kalibpunish_2229d407:
 
     # c "That's enough."
     c ""
 
-# game/scripts/kali_events.rpy:12457
+# game/scripts/kali_events.rpy:12455
 translate pt_br kalibpunish_a13456c3:
 
     # k "Ahh... hahhh... Thank you... Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12463
+# game/scripts/kali_events.rpy:12461
 translate pt_br kalibend_de1160db:
 
     # k "Is that all Sir?"
     k ""
 
-# game/scripts/kali_events.rpy:12464
+# game/scripts/kali_events.rpy:12462
 translate pt_br kalibend_5ffb6a99:
 
     # c "Yes, you can go now."
     c ""
 
-# game/scripts/kali_events.rpy:12466
+# game/scripts/kali_events.rpy:12464
 translate pt_br kalibend_70196ce1:
 
     # k "Thank you Sir..."
     k ""
 
-# game/scripts/kali_events.rpy:12468
+# game/scripts/kali_events.rpy:12466
 translate pt_br kalibend_22c719b5:
 
     # k "Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:12476
+# game/scripts/kali_events.rpy:12474
 translate pt_br KaliKnock1_5566a5da:
 
     # q "Fuck... fuck...! FUCK!"
     q ""
 
-# game/scripts/kali_events.rpy:12477
+# game/scripts/kali_events.rpy:12475
 translate pt_br KaliKnock1_9362fea3:
 
     # c "Hmm...?"
     c ""
 
-# game/scripts/kali_events.rpy:12478
+# game/scripts/kali_events.rpy:12476
 translate pt_br KaliKnock1_f586bf6b:
 
     # q "Nnnngh! Fuck!"
     q ""
 
-# game/scripts/kali_events.rpy:12480
+# game/scripts/kali_events.rpy:12478
 translate pt_br KaliKnock1_fd8ef07e:
 
     # q "Fucking dammit! Fuck this shitty game! FUCK!"
     q ""
 
-# game/scripts/kali_events.rpy:12481
+# game/scripts/kali_events.rpy:12479
 translate pt_br KaliKnock1_98ba7ce2:
 
     # c "Hello?"
     c ""
 
-# game/scripts/kali_events.rpy:12483
+# game/scripts/kali_events.rpy:12481
 translate pt_br KaliKnock1_c55cdbec:
 
     # q "Huh?"
     q ""
 
-# game/scripts/kali_events.rpy:12485
+# game/scripts/kali_events.rpy:12483
 translate pt_br KaliKnock1_dc79d598:
 
     # q "Rrrngh, fuck off!" with ssshake
     q "" with ssshake
 
-# game/scripts/kali_events.rpy:12486
+# game/scripts/kali_events.rpy:12484
 translate pt_br KaliKnock1_2a7e6029:
 
     # c "Uh, hey, I'm the new manager of this place."
     c ""
 
-# game/scripts/kali_events.rpy:12487
+# game/scripts/kali_events.rpy:12485
 translate pt_br KaliKnock1_4b54ef8c:
 
     # q "Are you here to kick me out for being too loud?"
     q ""
 
-# game/scripts/kali_events.rpy:12488
+# game/scripts/kali_events.rpy:12486
 translate pt_br KaliKnock1_b80c041a:
 
     # c "No, I'm just checking in on everyone."
     c ""
 
-# game/scripts/kali_events.rpy:12489
+# game/scripts/kali_events.rpy:12487
 translate pt_br KaliKnock1_edbb9b9d:
 
     # q "Then fuck off! I'm busy!"
     q ""
 
-# game/scripts/kali_events.rpy:12490
+# game/scripts/kali_events.rpy:12488
 translate pt_br KaliKnock1_15adeeef:
 
     # c "Too busy playing games?"
     c ""
 
-# game/scripts/kali_events.rpy:12491
+# game/scripts/kali_events.rpy:12489
 translate pt_br KaliKnock1_e28c60c3:
 
     # q "Too busy escaping from this shitty reality!"
     q ""
 
-# game/scripts/kali_events.rpy:12492
+# game/scripts/kali_events.rpy:12490
 translate pt_br KaliKnock1_5c59de0b:
 
     # q "Nnngh, come on! Come on!"
     q ""
 
-# game/scripts/kali_events.rpy:12494
+# game/scripts/kali_events.rpy:12492
 translate pt_br KaliKnock1_37302bd5:
 
     # q "FUCK!" with ssshake
     q "" with ssshake
 
-# game/scripts/kali_events.rpy:12496
+# game/scripts/kali_events.rpy:12494
 translate pt_br KaliKnock1_4c3d7e9b:
 
     # k "*sigh*... sorry... Hey, I'm Kali."
     k ""
 
-# game/scripts/kali_events.rpy:12497
+# game/scripts/kali_events.rpy:12495
 translate pt_br KaliKnock1_e3837b00:
 
     # c "I'm [name]. \nWhat was that about escaping reality?"
     c ""
 
-# game/scripts/kali_events.rpy:12498
+# game/scripts/kali_events.rpy:12496
 translate pt_br KaliKnock1_1c36bd9b:
 
     # k "Just... egh, I shouldn't be here... on this continent or in this shitty hotel..."
     k ""
 
-# game/scripts/kali_events.rpy:12499
+# game/scripts/kali_events.rpy:12497
 translate pt_br KaliKnock1_62e524cc:
 
     # c "Why? What happened?"
     c ""
 
-# game/scripts/kali_events.rpy:12500
+# game/scripts/kali_events.rpy:12498
 translate pt_br KaliKnock1_55bcb450:
 
     # k "...Why do you care?"
     k ""
 
-# game/scripts/kali_events.rpy:12501
+# game/scripts/kali_events.rpy:12499
 translate pt_br KaliKnock1_232a347b:
 
     # c "I just do."
     c ""
 
-# game/scripts/kali_events.rpy:12502
+# game/scripts/kali_events.rpy:12500
 translate pt_br KaliKnock1_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:12504
+# game/scripts/kali_events.rpy:12502
 translate pt_br KaliKnock1_969a3f2b:
 
     # k "*sigh*, well my dad decided it would be a {i}great{/i} idea to send his daughter to the other side of the world so she could 'experience reality'..."
     k ""
 
-# game/scripts/kali_events.rpy:12505
+# game/scripts/kali_events.rpy:12503
 translate pt_br KaliKnock1_2c6cf3d0:
 
     # k "By that he means, without a silver spoon in my mouth..."
     k ""
 
-# game/scripts/kali_events.rpy:12506
+# game/scripts/kali_events.rpy:12504
 translate pt_br KaliKnock1_cc24ec67:
 
     # c "Are you rich?"
     c ""
 
-# game/scripts/kali_events.rpy:12507
+# game/scripts/kali_events.rpy:12505
 translate pt_br KaliKnock1_b6e79bb9:
 
     # k "I'm not, obviously... but he's {i}very{/i} rich. So now I get to experience living paycheck to paycheck like the rest of society... "
     k ""
 
-# game/scripts/kali_events.rpy:12508
+# game/scripts/kali_events.rpy:12506
 translate pt_br KaliKnock1_1287cc60:
 
     # k "He said it's what I needed... that it would turn me into a proper business woman..."
     k ""
 
-# game/scripts/kali_events.rpy:12509
+# game/scripts/kali_events.rpy:12507
 translate pt_br KaliKnock1_7c015c88:
 
     # k "All of that is bullshit... I don't care about running his business and I never will. So I guess this is my punishment..."
     k ""
 
-# game/scripts/kali_events.rpy:12510
+# game/scripts/kali_events.rpy:12508
 translate pt_br KaliKnock1_591555de:
 
     # c "That's rough."
     c ""
 
-# game/scripts/kali_events.rpy:12512
+# game/scripts/kali_events.rpy:12510
 translate pt_br KaliKnock1_70c0e28c:
 
     # k "I don't even have a job! I'm still living on the care package he sent with me..."
     k ""
 
-# game/scripts/kali_events.rpy:12516
+# game/scripts/kali_events.rpy:12514
 translate pt_br KaliKnock1_41073e7c:
 
     # k "I'm a big girl, I don't need your help..."
     k ""
 
-# game/scripts/kali_events.rpy:12517
+# game/scripts/kali_events.rpy:12515
 translate pt_br KaliKnock1_e90d773c:
 
     # k "But, thanks..."
     k ""
 
-# game/scripts/kali_events.rpy:12522
+# game/scripts/kali_events.rpy:12520
 translate pt_br KaliKnock1_1a2e144f:
 
     # k "I would rather die than wear a maid outfit..."
     k ""
 
-# game/scripts/kali_events.rpy:12526
+# game/scripts/kali_events.rpy:12524
 translate pt_br KaliKnock1_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:12527
+# game/scripts/kali_events.rpy:12525
 translate pt_br KaliKnock1_29d0ae2a:
 
     # k "I should fucking kill you for saying that."
     k ""
 
-# game/scripts/kali_events.rpy:12530
+# game/scripts/kali_events.rpy:12528
 translate pt_br KaliKnock1_e7004701:
 
     # k "I've never even had a job, honestly... life for me was mostly games, food, and hacking my father's androids..."
     k ""
 
-# game/scripts/kali_events.rpy:12531
+# game/scripts/kali_events.rpy:12529
 translate pt_br KaliKnock1_f4dc9edf:
 
     # k "And my annoying sister... I don't miss her too much..."
     k ""
 
-# game/scripts/kali_events.rpy:12532
+# game/scripts/kali_events.rpy:12530
 translate pt_br KaliKnock1_2c0177f0:
 
     # k "I'll have to find something soon though or I won't be able to pay rent..."
     k ""
 
-# game/scripts/kali_events.rpy:12533
+# game/scripts/kali_events.rpy:12531
 translate pt_br KaliKnock1_8023af53:
 
     # c "I'm sure we can work something out if that's necessary."
     c ""
 
-# game/scripts/kali_events.rpy:12535
+# game/scripts/kali_events.rpy:12533
 translate pt_br KaliKnock1_ddbef400:
 
     # k "You mean you'll let me live here until I can find a job?"
     k ""
 
-# game/scripts/kali_events.rpy:12536
+# game/scripts/kali_events.rpy:12534
 translate pt_br KaliKnock1_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/kali_events.rpy:12537
+# game/scripts/kali_events.rpy:12535
 translate pt_br KaliKnock1_9ed64919:
 
     # k "Hey, thank you! That's the first good thing that's happened to me since I moved here."
     k ""
 
-# game/scripts/kali_events.rpy:12538
+# game/scripts/kali_events.rpy:12536
 translate pt_br KaliKnock1_6663f034:
 
     # c "Where are you from, by the way?"
     c ""
 
-# game/scripts/kali_events.rpy:12540
+# game/scripts/kali_events.rpy:12538
 translate pt_br KaliKnock1_aabcbd14:
 
     # k "The other side of this fucking planet... The Capitol, you've heard of it right? The biggest city in the world...?"
     k ""
 
-# game/scripts/kali_events.rpy:12541
+# game/scripts/kali_events.rpy:12539
 translate pt_br KaliKnock1_980f0afa:
 
     # c "Of course, before I moved here I actually lived not too far from The Capitol."
     c ""
 
-# game/scripts/kali_events.rpy:12543
+# game/scripts/kali_events.rpy:12541
 translate pt_br KaliKnock1_4f05d4b4:
 
     # k "Oh, really? That's cool! Kind of weird to come from a place where there are no elves, and suddenly you see them everywhere, right? I can't be the only one..."
     k ""
 
-# game/scripts/kali_events.rpy:12544
+# game/scripts/kali_events.rpy:12542
 translate pt_br KaliKnock1_92e3cf30:
 
     # c "They're cute."
     c ""
 
-# game/scripts/kali_events.rpy:12546
+# game/scripts/kali_events.rpy:12544
 translate pt_br KaliKnock1_4472b702:
 
     # k "Uh, I don't know if I'd put it that way, but sure."
     k ""
 
-# game/scripts/kali_events.rpy:12548
+# game/scripts/kali_events.rpy:12546
 translate pt_br KaliKnock1_899568c8:
 
     # k "Anyway, it was nice to meet you [name]! I'm Kali by the way... eh, did I already mention that?"
     k ""
 
-# game/scripts/kali_events.rpy:12549
+# game/scripts/kali_events.rpy:12547
 translate pt_br KaliKnock1_394468db:
 
     # c "If you need anything else, you know where to find me."
     c ""
 
-# game/scripts/kali_events.rpy:12550
+# game/scripts/kali_events.rpy:12548
 translate pt_br KaliKnock1_bd9aefd7:
 
     # k "Oh, really? Thank you!"
     k ""
 
-# game/scripts/kali_events.rpy:12570
+# game/scripts/kali_events.rpy:12568
 translate pt_br kalicafe_13710f0a:
 
     # "After placing your order, you sit down..."
     ""
 
-# game/scripts/kali_events.rpy:12572
+# game/scripts/kali_events.rpy:12570
 translate pt_br kalicafe_c9f22915:
 
     # k "Nnnngh..."
     k ""
 
-# game/scripts/kali_events.rpy:12573
+# game/scripts/kali_events.rpy:12571
 translate pt_br kalicafe_bf4820cf:
 
     # c "What's wrong?"
     c ""
 
-# game/scripts/kali_events.rpy:12574
+# game/scripts/kali_events.rpy:12572
 translate pt_br kalicafe_845e4a1d:
 
     # k "I feel a little... overdressed..."
     k ""
 
-# game/scripts/kali_events.rpy:12575
+# game/scripts/kali_events.rpy:12573
 translate pt_br kalicafe_7037c916:
 
     # c "You remembered I invited you to a cafe, right?"
     c ""
 
-# game/scripts/kali_events.rpy:12576
+# game/scripts/kali_events.rpy:12574
 translate pt_br kalicafe_cc038c40:
 
     # k "Yeah..."
     k ""
 
-# game/scripts/kali_events.rpy:12577
+# game/scripts/kali_events.rpy:12575
 translate pt_br kalicafe_9b12ea32:
 
     # k "I just... wanted this night to be memorable, I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:12578
+# game/scripts/kali_events.rpy:12576
 translate pt_br kalicafe_c50aea30:
 
     # c "Then don't worry about what everyone else thinks, you look beautiful to me."
     c ""
 
-# game/scripts/kali_events.rpy:12580
+# game/scripts/kali_events.rpy:12578
 translate pt_br kalicafe_f993cc37:
 
     # k "Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12581
+# game/scripts/kali_events.rpy:12579
 translate pt_br kalicafe_c8e13e04:
 
     # c "That necklace looks very nice... and expensive. Are those diamonds?"
     c ""
 
-# game/scripts/kali_events.rpy:12582
+# game/scripts/kali_events.rpy:12580
 translate pt_br kalicafe_48a4b31d:
 
     # k "Oh, this...? Thanks... Yeah, it was something my father bought for my mother a long time ago."
     k ""
 
-# game/scripts/kali_events.rpy:12583
+# game/scripts/kali_events.rpy:12581
 translate pt_br kalicafe_d35508b1:
 
     # c "What happened to her?"
     c ""
 
-# game/scripts/kali_events.rpy:12584
+# game/scripts/kali_events.rpy:12582
 translate pt_br kalicafe_f9e2340d:
 
     # k "She's not alive anymore..."
     k ""
 
-# game/scripts/kali_events.rpy:12585
+# game/scripts/kali_events.rpy:12583
 translate pt_br kalicafe_1f2716d7:
 
     # c "I see... It fits you well, though."
     c ""
 
-# game/scripts/kali_events.rpy:12587
+# game/scripts/kali_events.rpy:12585
 translate pt_br kalicafe_277d4808:
 
     # k "Huh, this place looks familiar... I think my Dad owns it."
     k ""
 
-# game/scripts/kali_events.rpy:12588
+# game/scripts/kali_events.rpy:12586
 translate pt_br kalicafe_4e24c2ca:
 
     # c "Really?"
     c ""
 
-# game/scripts/kali_events.rpy:12590
-translate pt_br kalicafe_ac3ac1ed:
+# game/scripts/kali_events.rpy:12588
+translate pt_br kalicafe_9af71ce5:
 
-    # k "Yeah! He buys so many business and companies I couldn't even begin to list them all."
+    # k "Yeah! He buys so many businesses and companies I couldn't even begin to list them all."
     k ""
 
-# game/scripts/kali_events.rpy:12591
+# game/scripts/kali_events.rpy:12589
 translate pt_br kalicafe_f9a65edb:
 
     # c "He sounds very rich."
     c ""
 
-# game/scripts/kali_events.rpy:12592
+# game/scripts/kali_events.rpy:12590
 translate pt_br kalicafe_ef7689b3:
 
     # k "He is, he's one of the richest people in the world..."
     k ""
 
-# game/scripts/kali_events.rpy:12596
+# game/scripts/kali_events.rpy:12594
 translate pt_br kalicafe_0feeed3b:
 
     # k "My father doesn't really have time for his children... he's too focused on his business, they take all his time..."
     k ""
 
-# game/scripts/kali_events.rpy:12597
+# game/scripts/kali_events.rpy:12595
 translate pt_br kalicafe_eb919560:
 
     # c "That's rough..."
     c ""
 
-# game/scripts/kali_events.rpy:12598
+# game/scripts/kali_events.rpy:12596
 translate pt_br kalicafe_a51afd52:
 
     # k "Yeah, so while I'm here living in a fucking hotel, he's flying from house to house all over the world..."
     k ""
 
-# game/scripts/kali_events.rpy:12599
+# game/scripts/kali_events.rpy:12597
 translate pt_br kalicafe_2bf1b914:
 
     # c "He doesn't even help you a little?"
     c ""
 
-# game/scripts/kali_events.rpy:12600
+# game/scripts/kali_events.rpy:12598
 translate pt_br kalicafe_06046b7b:
 
     # k "He doesn't want to. He wants me to earn everything the way he did, through hard work and dedication."
     k ""
 
-# game/scripts/kali_events.rpy:12601
+# game/scripts/kali_events.rpy:12599
 translate pt_br kalicafe_fc0ae149:
 
     # c "Surely you could get a job here then."
     c ""
 
-# game/scripts/kali_events.rpy:12603
+# game/scripts/kali_events.rpy:12601
 translate pt_br kalicafe_a8a4f27e:
 
     # k "Ergh, here...? I hate coffee, remember? But, I guess I could... he wouldn't give me any special treatment though."
     k ""
 
-# game/scripts/kali_events.rpy:12605
+# game/scripts/kali_events.rpy:12603
 translate pt_br kalicafe_6c24a7fb:
 
     # k "Don't worry, I have enough money saved up to pay rent for the next couple of weeks. I'm sure I'll find a job soon..."
     k ""
 
-# game/scripts/kali_events.rpy:12606
+# game/scripts/kali_events.rpy:12604
 translate pt_br kalicafe_0b3898b0:
 
     # c "You could still work as a maid..."
     c ""
 
-# game/scripts/kali_events.rpy:12608
+# game/scripts/kali_events.rpy:12606
 translate pt_br kalicafe_19f25e6a:
 
     # k "Dress up in a slutty maid uniform? I bet you'd like that, wouldn't you?"
     k ""
 
-# game/scripts/kali_events.rpy:12609
+# game/scripts/kali_events.rpy:12607
 translate pt_br kalicafe_4a20bd78:
 
     # k "Actually, don't answer that. It's not happening either way..."
     k ""
 
-# game/scripts/kali_events.rpy:12610
+# game/scripts/kali_events.rpy:12608
 translate pt_br kalicafe_2bb6b116:
 
     # c "You would look adorable, though."
     c ""
 
-# game/scripts/kali_events.rpy:12612
+# game/scripts/kali_events.rpy:12610
 translate pt_br kalicafe_a2788b5a:
 
     # k "Whatever..."
     k ""
 
-# game/scripts/kali_events.rpy:12614
+# game/scripts/kali_events.rpy:12612
 translate pt_br kalicafe_4541455d:
 
     # k "So, how's the hotel going?"
     k ""
 
-# game/scripts/kali_events.rpy:12617
+# game/scripts/kali_events.rpy:12615
 translate pt_br kalicafe_dff822a9:
 
     # k "I guess we both have lame parents then... Well, in your case it's your grandfather I guess."
     k ""
 
-# game/scripts/kali_events.rpy:12619
+# game/scripts/kali_events.rpy:12617
 translate pt_br kalicafe_d3212ceb:
 
     # k "That's the spirit."
     k ""
 
-# game/scripts/kali_events.rpy:12620
+# game/scripts/kali_events.rpy:12618
 translate pt_br kalicafe_50739020:
 
     # k "I met your elf, she's cute... I'm not very used to seeing them."
     k ""
 
-# game/scripts/kali_events.rpy:12621
+# game/scripts/kali_events.rpy:12619
 translate pt_br kalicafe_2724651d:
 
     # c "Lin is the first elf I've gotten to know, she does great work. I'm glad to have her."
     c ""
 
-# game/scripts/kali_events.rpy:12622
+# game/scripts/kali_events.rpy:12620
 translate pt_br kalicafe_dda4a51c:
 
     # k "Oh, nice... I guess since we're both from outside of Syl'anar, we have one thing in common at least."
     k ""
 
-# game/scripts/kali_events.rpy:12623
+# game/scripts/kali_events.rpy:12621
 translate pt_br kalicafe_85fb5bba:
 
     # k "It kind of sucks that there's no snow here, but I've never been so close to a rainforest. I kind of want to fly there some day, maybe see the pyramids... or even the old elvish capital."
     k ""
 
-# game/scripts/kali_events.rpy:12624
+# game/scripts/kali_events.rpy:12622
 translate pt_br kalicafe_6ef2949d:
 
     # c "Maybe we can go together."
     c ""
 
-# game/scripts/kali_events.rpy:12625
+# game/scripts/kali_events.rpy:12623
 translate pt_br kalicafe_9e066070:
 
     # k "Heh, you think? That would be... cool."
     k ""
 
-# game/scripts/kali_events.rpy:12626
+# game/scripts/kali_events.rpy:12624
 translate pt_br kalicafe_7e689bf1:
 
     # k "I don't really... do much... so if you ever want to do something just... let me know, alright?"
     k ""
 
-# game/scripts/kali_events.rpy:12627
+# game/scripts/kali_events.rpy:12625
 translate pt_br kalicafe_993ba4d9:
 
     # c "Sounds good."
     c ""
 
-# game/scripts/kali_events.rpy:12628
+# game/scripts/kali_events.rpy:12626
 translate pt_br kalicafe_2ebc91fe:
 
     # c "So, what else does your father do? Maybe we could enter into a business arrangement."
     c ""
 
-# game/scripts/kali_events.rpy:12630
+# game/scripts/kali_events.rpy:12628
 translate pt_br kalicafe_11b94d43:
 
     # k "Umm... well I don't want you to look at me different, so... I don't know how much I should say..."
     k ""
 
-# game/scripts/kali_events.rpy:12631
+# game/scripts/kali_events.rpy:12629
 translate pt_br kalicafe_bb00a52c:
 
     # c "What do you mean?"
     c ""
 
-# game/scripts/kali_events.rpy:12632
+# game/scripts/kali_events.rpy:12630
 translate pt_br kalicafe_c56bfba2:
 
     # k "He's not a slave master or anything... I just want you to see me for me and not for my fathers money..."
     k ""
 
-# game/scripts/kali_events.rpy:12633
+# game/scripts/kali_events.rpy:12631
 translate pt_br kalicafe_24366554:
 
     # c "I understand."
     c ""
 
-# game/scripts/kali_events.rpy:12634
+# game/scripts/kali_events.rpy:12632
 translate pt_br kalicafe_c4d7aee5:
 
     # k "He's in a lot of businesses though, and if yours is profitable, I'm sure you could get his attention..."
     k ""
 
-# game/scripts/kali_events.rpy:12635
+# game/scripts/kali_events.rpy:12633
 translate pt_br kalicafe_dc2e2b92:
 
     # k "And before you ask, yeah, that's all it takes. He doesn't really care what you do, so long as it's legal and profitable."
     k ""
 
-# game/scripts/kali_events.rpy:12636
+# game/scripts/kali_events.rpy:12634
 translate pt_br kalicafe_6f1a9ff1:
 
     # k "But he's not a greedy asshole... Well, he's not an asshole at least. He loves helping small businesses grow and flourish."
     k ""
 
-# game/scripts/kali_events.rpy:12637
+# game/scripts/kali_events.rpy:12635
 translate pt_br kalicafe_2512720f:
 
     # k "But, anyway, enough about my father. I kind of hate his guts right now..."
     k ""
 
-# game/scripts/kali_events.rpy:12638
+# game/scripts/kali_events.rpy:12636
 translate pt_br kalicafe_e20d1582:
 
     # c "What do you enjoy doing in your free time?"
     c ""
 
-# game/scripts/kali_events.rpy:12640
+# game/scripts/kali_events.rpy:12638
 translate pt_br kalicafe_587288d6:
 
     # k "Oh, I guess I'm on my computer most days... playing games, looking at- uh... videos and stuff... browsing the internet..."
     k ""
 
-# game/scripts/kali_events.rpy:12641
+# game/scripts/kali_events.rpy:12639
 translate pt_br kalicafe_717e9d7d:
 
     # k "Sometimes I read books when I'm really bored... or play chess... but that's when I'm {i}really{/i} bored..."
     k ""
 
-# game/scripts/kali_events.rpy:12642
+# game/scripts/kali_events.rpy:12640
 translate pt_br kalicafe_591aa1d9:
 
     # k "I also like to do squats first thing in the morning, it helps me wake up, and exercise is always good, right?"
     k ""
 
-# game/scripts/kali_events.rpy:12643
+# game/scripts/kali_events.rpy:12641
 translate pt_br kalicafe_50100f9d:
 
     # c "It has certainly been good for your ass."
     c ""
 
-# game/scripts/kali_events.rpy:12645
+# game/scripts/kali_events.rpy:12643
 translate pt_br kalicafe_02cb09c7:
 
     # k "Heh... that's right, you did see it..."
     k ""
 
-# game/scripts/kali_events.rpy:12647
+# game/scripts/kali_events.rpy:12645
 translate pt_br kalicafe_f54b5a32:
 
     # k "W-Well I hope it's burned into your head, because that was the last time you're going to see it..."
     k ""
 
-# game/scripts/kali_events.rpy:12648
+# game/scripts/kali_events.rpy:12646
 translate pt_br kalicafe_4629bc64:
 
     # c "Oh, I've already been friend zoned?"
     c ""
 
-# game/scripts/kali_events.rpy:12650
+# game/scripts/kali_events.rpy:12648
 translate pt_br kalicafe_bfc1be55:
 
     # k "W-What? Absolutely not!"
     k ""
 
-# game/scripts/kali_events.rpy:12652
+# game/scripts/kali_events.rpy:12650
 translate pt_br kalicafe_5fd20f3a:
 
     # k "I mean, whatever! Shut up..."
     k ""
 
-# game/scripts/kali_events.rpy:12653
+# game/scripts/kali_events.rpy:12651
 translate pt_br kalicafe_f1cb2602:
 
     # k "I just hope you enjoyed it while it lasted... Hmph..."
     k ""
 
-# game/scripts/kali_events.rpy:12654
+# game/scripts/kali_events.rpy:12652
 translate pt_br kalicafe_9aa7a3a2:
 
     # c "I did."
     c ""
 
-# game/scripts/kali_events.rpy:12655
+# game/scripts/kali_events.rpy:12653
 translate pt_br kalicafe_ec03a10f:
 
     # k "G-Good..."
     k ""
 
-# game/scripts/kali_events.rpy:12657
+# game/scripts/kali_events.rpy:12655
 translate pt_br kalicafe_15d36fd1:
 
     # ba "Here is your lemonade, ma'am."
     ba ""
 
-# game/scripts/kali_events.rpy:12658
+# game/scripts/kali_events.rpy:12656
 translate pt_br kalicafe_81dea93e:
 
     # k "Oh, thank you."
     k ""
 
-# game/scripts/kali_events.rpy:12660
+# game/scripts/kali_events.rpy:12658
 translate pt_br kalicafe_4b757eba:
 
     # "You and Kali talk a bit more about various things over the course of about 10 minutes..."
     ""
 
-# game/scripts/kali_events.rpy:12662
+# game/scripts/kali_events.rpy:12660
 translate pt_br kalicafe_4b7ede66:
 
     # k "Well, I should get going. Thanks for taking me out. I mean, it's not like it was a date so..."
     k ""
 
-# game/scripts/kali_events.rpy:12664
+# game/scripts/kali_events.rpy:12662
 translate pt_br kalicafe_4fdd712c:
 
     # k "And don't tell anyone I came here. I don't want anyone thinking I like... coffee."
     k ""
 
-# game/scripts/kali_events.rpy:12665
+# game/scripts/kali_events.rpy:12663
 translate pt_br kalicafe_bd805a76:
 
     # c "No problem."
     c ""
 
-# game/scripts/kali_events.rpy:12678
+# game/scripts/kali_events.rpy:12676
 translate pt_br kalisorry1_ac86fd36:
 
     # k "Oh, hey..."
     k ""
 
-# game/scripts/kali_events.rpy:12679
+# game/scripts/kali_events.rpy:12677
 translate pt_br kalisorry1_41b7da5b:
 
     # k "Listen... I'm sorry about the other day. My father told me I would be staying in this shitty town for another year."
     k ""
 
-# game/scripts/kali_events.rpy:12682
+# game/scripts/kali_events.rpy:12680
 translate pt_br kalisorry1_24be09b5:
 
     # k "God I fucking hate him!"
     k ""
 
-# game/scripts/kali_events.rpy:12683
+# game/scripts/kali_events.rpy:12681
 translate pt_br kalisorry1_60046919:
 
     # k "What kind of father leaves his daughter in another country with no way of leaving!?"
     k ""
 
-# game/scripts/kali_events.rpy:12686
+# game/scripts/kali_events.rpy:12684
 translate pt_br kalisorry1_8dbf64a8:
 
     # k "I don't even have a fucking job..."
     k ""
 
-# game/scripts/kali_events.rpy:12690
+# game/scripts/kali_events.rpy:12688
 translate pt_br kalisorry1_835e6417:
 
     # k "Oh... You don't need to do that. I should be able to find a job myself."
     k ""
 
-# game/scripts/kali_events.rpy:12696
+# game/scripts/kali_events.rpy:12694
 translate pt_br kalisorry1_2bcd77db:
 
     # k "I would rather die than wear a maid outfit."
     k ""
 
-# game/scripts/kali_events.rpy:12701
+# game/scripts/kali_events.rpy:12699
 translate pt_br kalisorry1_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:12704
+# game/scripts/kali_events.rpy:12702
 translate pt_br kalisorry1_29d0ae2a:
 
     # k "I should fucking kill you for saying that."
     k ""
 
-# game/scripts/kali_events.rpy:12709
+# game/scripts/kali_events.rpy:12707
 translate pt_br kalisorry1_8c910cf9:
 
     # k "Anyway... my name's Kali. Don't be annoying and we'll be great friends."
     k ""
 
-# game/scripts/kali_events.rpy:12710
+# game/scripts/kali_events.rpy:12708
 translate pt_br kalisorry1_b2205f80:
 
     # c "I'm [name]."
     c ""
 
-# game/scripts/kali_events.rpy:12713
+# game/scripts/kali_events.rpy:12711
 translate pt_br kalisorry1_56f32615:
 
     # k "I'll be in my room if you need me. Good luck with the place."
     k ""
 
-# game/scripts/kali_events.rpy:12724
+# game/scripts/kali_events.rpy:12722
 translate pt_br kaliroom_971db94c:
 
     # c "Kali isn't in her room anymore."
     c ""
 
-# game/scripts/kali_events.rpy:12770
+# game/scripts/kali_events.rpy:12768
 translate pt_br kaliroom_f828beea:
 
     # k "Hey, it's getting pretty late... what's up?"
     k ""
 
-# game/scripts/kali_events.rpy:12798
+# game/scripts/kali_events.rpy:12796
 translate pt_br kaliroom_f828beea_1:
 
     # k "Hey, it's getting pretty late... what's up?"
     k ""
 
-# game/scripts/kali_events.rpy:12832
+# game/scripts/kali_events.rpy:12830
 translate pt_br kaliroomchoices_eeb548db:
 
     # c "How are you?"
     c ""
 
-# game/scripts/kali_events.rpy:12833
+# game/scripts/kali_events.rpy:12831
 translate pt_br kaliroomchoices_e16fb914:
 
     # k "I'm alright, I guess."
     k ""
 
-# game/scripts/kali_events.rpy:12834
+# game/scripts/kali_events.rpy:12832
 translate pt_br kaliroomchoices_e6951c84:
 
     # k "The place kind of sucks, but at least it's affordable."
     k ""
 
-# game/scripts/kali_events.rpy:12862
+# game/scripts/kali_events.rpy:12860
 translate pt_br kaliroomchoices_eeb548db_1:
 
     # c "How are you?"
     c ""
 
-# game/scripts/kali_events.rpy:12863
+# game/scripts/kali_events.rpy:12861
 translate pt_br kaliroomchoices_aab5ada1:
 
     # k "Not too bad."
     k ""
 
-# game/scripts/kali_events.rpy:12894
+# game/scripts/kali_events.rpy:12892
 translate pt_br kaliroomchoices_a5cd05d6:
 
     # k "Hey [name]!"
     k ""
 
-# game/scripts/kali_events.rpy:12898
+# game/scripts/kali_events.rpy:12896
 translate pt_br kalitalk_549aa430:
 
     # k "Tired... but I guess I could stay up longer if I had an energy drink..."
     k ""
 
-# game/scripts/kali_events.rpy:12900
+# game/scripts/kali_events.rpy:12898
 translate pt_br kalitalk_01e07849:
 
     # k "I'm fine..."
     k ""
 
-# game/scripts/kali_events.rpy:12903
+# game/scripts/kali_events.rpy:12901
 translate pt_br kalitalk_c546e89c:
 
     # k "I'm okay I guess."
     k ""
 
-# game/scripts/kali_events.rpy:12906
+# game/scripts/kali_events.rpy:12904
 translate pt_br kalitalk_3a6c9d55:
 
     # k "I'm good, thanks! You?"
     k ""
 
-# game/scripts/kali_events.rpy:12909
+# game/scripts/kali_events.rpy:12907
 translate pt_br kalitalk_1680144b:
 
     # k "I'm doing great [name]!"
     k ""
 
-# game/scripts/kali_events.rpy:12917
+# game/scripts/kali_events.rpy:12915
 translate pt_br kaliinteract_dfba945c:
 
     # k "Thanks..."
     k ""
 
-# game/scripts/kali_events.rpy:12922
+# game/scripts/kali_events.rpy:12920
 translate pt_br kaliinteract_2dbeb312:
 
     # k "We could be doing more, you know..."
     k ""
 
-# game/scripts/kali_events.rpy:12925
+# game/scripts/kali_events.rpy:12923
 translate pt_br kaliinteract_9056ca8d:
 
     # k "Thank you~"
     k ""
 
-# game/scripts/kali_events.rpy:12928
+# game/scripts/kali_events.rpy:12926
 translate pt_br kaliinteract_0a5583a7:
 
     # k "What is this..."
     k ""
 
-# game/scripts/kali_events.rpy:12931
+# game/scripts/kali_events.rpy:12929
 translate pt_br kaliinteract_d1f4aa81:
 
     # k "Heheh, you're so weird..."
     k ""
 
-# game/scripts/kali_events.rpy:12934
+# game/scripts/kali_events.rpy:12932
 translate pt_br kaliinteract_dfba945c_1:
 
     # k "Thanks..."
     k ""
 
-# game/scripts/kali_events.rpy:12938
+# game/scripts/kali_events.rpy:12936
 translate pt_br kaliinteract_e62dece0:
 
     # k "Awww..."
     k ""
 
-# game/scripts/kali_events.rpy:12941
+# game/scripts/kali_events.rpy:12939
 translate pt_br kaliinteract_7d7268cf:
 
     # k "Heh, weirdo..."
     k ""
 
-# game/scripts/kali_events.rpy:12944
+# game/scripts/kali_events.rpy:12942
 translate pt_br kaliinteract_f993cc37:
 
     # k "Thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:12947
+# game/scripts/kali_events.rpy:12945
 translate pt_br kaliinteract_010b5145:
 
     # k "Wh-What is this...? Weirdo..."
     k ""
 
-# game/scripts/kali_events.rpy:12952
+# game/scripts/kali_events.rpy:12950
 translate pt_br kaliinteract_2ff1a4d3:
 
     # k "Mmp... mmmh..."
     k ""
 
-# game/scripts/kali_events.rpy:12957
+# game/scripts/kali_events.rpy:12955
 translate pt_br kaliinteract_f6de48f5:
 
     # k "Mmmh~"
     k ""
 
-# game/scripts/kali_events.rpy:12960
+# game/scripts/kali_events.rpy:12958
 translate pt_br kaliinteract_12f54508:
 
     # k "Mmmph..."
     k ""
 
-# game/scripts/kali_events.rpy:12963
+# game/scripts/kali_events.rpy:12961
 translate pt_br kaliinteract_245431b2:
 
     # k "Llll..."
     k ""
 
-# game/scripts/kali_events.rpy:12966
+# game/scripts/kali_events.rpy:12964
 translate pt_br kaliinteract_1d71d0e1:
 
     # k "Love you~"
     k ""
 
-# game/scripts/kali_events.rpy:12969
+# game/scripts/kali_events.rpy:12967
 translate pt_br kaliinteract_12f54508_1:
 
     # k "Mmmph..."
     k ""
 
-# game/scripts/kali_events.rpy:12973
+# game/scripts/kali_events.rpy:12971
 translate pt_br kaliinteract_75f1ae1e:
 
     # k "Mmmp... mmmph..."
     k ""
 
-# game/scripts/kali_events.rpy:12976
+# game/scripts/kali_events.rpy:12974
 translate pt_br kaliinteract_3dafde7b:
 
     # k "Lllnn... you're so hot..."
     k ""
 
-# game/scripts/kali_events.rpy:12979
+# game/scripts/kali_events.rpy:12977
 translate pt_br kaliinteract_951f7c2b:
 
     # k "Hnnn... mmmp..."
     k ""
 
-# game/scripts/kali_events.rpy:12982
+# game/scripts/kali_events.rpy:12980
 translate pt_br kaliinteract_78cebbcc:
 
     # k "Hmm~ I love you..."
     k ""
 
-# game/scripts/kali_events.rpy:12988
+# game/scripts/kali_events.rpy:12986
 translate pt_br kaliinteract_3c1b08f5:
 
     # k "Mmmh..."
     k ""
 
-# game/scripts/kali_events.rpy:12993
+# game/scripts/kali_events.rpy:12991
 translate pt_br kaliinteract_6ae56ef1:
 
     # k "Is that your phone or are you just happy to see me?"
     k ""
 
-# game/scripts/kali_events.rpy:12996
+# game/scripts/kali_events.rpy:12994
 translate pt_br kaliinteract_26b62b33:
 
     # k "Mmm~"
     k ""
 
-# game/scripts/kali_events.rpy:12999
+# game/scripts/kali_events.rpy:12997
 translate pt_br kaliinteract_f11116fe:
 
     # k "Come closer!"
     k ""
 
-# game/scripts/kali_events.rpy:13002
+# game/scripts/kali_events.rpy:13000
 translate pt_br kaliinteract_5f69aad7:
 
     # k "I need that, thanks..."
     k ""
 
-# game/scripts/kali_events.rpy:13005
+# game/scripts/kali_events.rpy:13003
 translate pt_br kaliinteract_f2d6bb36:
 
     # k "Thanks, I needed that..."
     k ""
 
-# game/scripts/kali_events.rpy:13009
+# game/scripts/kali_events.rpy:13007
 translate pt_br kaliinteract_63cfc23d:
 
     # k "Love you..."
     k ""
 
-# game/scripts/kali_events.rpy:13012
+# game/scripts/kali_events.rpy:13010
 translate pt_br kaliinteract_231c5226:
 
     # k "This is... nice."
     k ""
 
-# game/scripts/kali_events.rpy:13015
+# game/scripts/kali_events.rpy:13013
 translate pt_br kaliinteract_beb4c158:
 
     # k "Mmmph... thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:13018
+# game/scripts/kali_events.rpy:13016
 translate pt_br kaliinteract_660dda31:
 
     # k "This is so nice..."
     k ""
 
-# game/scripts/kali_events.rpy:13053
+# game/scripts/kali_events.rpy:13051
 translate pt_br kaliinteract_68f8d3e8:
 
     # "I need to raise her Affection..."
     ""
 
-# game/scripts/kali_events.rpy:13081
+# game/scripts/kali_events.rpy:13079
 translate pt_br kaliinteract_bd15db5a:
 
     # k "Not happening."
     k ""
 
-# game/scripts/kali_events.rpy:13110
+# game/scripts/kali_events.rpy:13108
 translate pt_br kaliinteract_ff686071:
 
     # c "I want you to wear something else while you're hanging out in the hotel."
     c ""
 
-# game/scripts/kali_events.rpy:13111
+# game/scripts/kali_events.rpy:13109
 translate pt_br kaliinteract_4b48641c:
 
     # k "Sure, I guess."
     k ""
 
-# game/scripts/kali_events.rpy:13114
+# game/scripts/kali_events.rpy:13112
 translate pt_br kalioutfits_046134fd:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13117
+# game/scripts/kali_events.rpy:13115
 translate pt_br kalioutfits_6917a82e:
 
     # k "Alright."
     k ""
 
-# game/scripts/kali_events.rpy:13131
+# game/scripts/kali_events.rpy:13129
 translate pt_br kalioutfits_046134fd_1:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13134
+# game/scripts/kali_events.rpy:13132
 translate pt_br kalioutfits_9888278b:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13137
+# game/scripts/kali_events.rpy:13135
 translate pt_br kalioutfits_3424a90e:
 
     # k "Hm, sure!"
     k ""
 
-# game/scripts/kali_events.rpy:13151
+# game/scripts/kali_events.rpy:13149
 translate pt_br kalioutfits_046134fd_2:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13154
+# game/scripts/kali_events.rpy:13152
 translate pt_br kalioutfits_9888278b_1:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13157
+# game/scripts/kali_events.rpy:13155
 translate pt_br kalioutfits_b621322b:
 
     # k "Sure."
     k ""
 
-# game/scripts/kali_events.rpy:13171
+# game/scripts/kali_events.rpy:13169
 translate pt_br kalioutfits_046134fd_3:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13174
+# game/scripts/kali_events.rpy:13172
 translate pt_br kalioutfits_9888278b_2:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13177
+# game/scripts/kali_events.rpy:13175
 translate pt_br kalioutfits_ea43300a:
 
     # k "Yes sir."
     k ""
 
-# game/scripts/kali_events.rpy:13191
+# game/scripts/kali_events.rpy:13189
 translate pt_br kalioutfits_046134fd_4:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13194
+# game/scripts/kali_events.rpy:13192
 translate pt_br kalioutfits_9888278b_3:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13197
+# game/scripts/kali_events.rpy:13195
 translate pt_br kalioutfits_5f2e4934:
 
     # k "Can do."
     k ""
 
-# game/scripts/kali_events.rpy:13211
+# game/scripts/kali_events.rpy:13209
 translate pt_br kalioutfits_046134fd_5:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13214
+# game/scripts/kali_events.rpy:13212
 translate pt_br kalioutfits_9888278b_4:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13217
+# game/scripts/kali_events.rpy:13215
 translate pt_br kalioutfits_6917a82e_1:
 
     # k "Alright."
     k ""
 
-# game/scripts/kali_events.rpy:13231
+# game/scripts/kali_events.rpy:13229
 translate pt_br kalioutfits_186eaac0:
 
     # "I need to increase her level."
     ""
 
-# game/scripts/kali_events.rpy:13234
+# game/scripts/kali_events.rpy:13232
 translate pt_br kalioutfits_046134fd_6:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13237
+# game/scripts/kali_events.rpy:13235
 translate pt_br kalioutfits_6917a82e_2:
 
     # k "Alright."
     k ""
 
-# game/scripts/kali_events.rpy:13251
+# game/scripts/kali_events.rpy:13249
 translate pt_br kalioutfits_046134fd_7:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13254
+# game/scripts/kali_events.rpy:13252
 translate pt_br kalioutfits_9888278b_5:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13258
+# game/scripts/kali_events.rpy:13256
 translate pt_br kalioutfits_71fbaff9:
 
     # k "Oh, sure."
     k ""
 
-# game/scripts/kali_events.rpy:13272
+# game/scripts/kali_events.rpy:13270
 translate pt_br kalioutfits_88aab539:
 
     # k "I'm am not your slut."
     k ""
 
-# game/scripts/kali_events.rpy:13277
+# game/scripts/kali_events.rpy:13275
 translate pt_br kalioutfits_046134fd_8:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/kali_events.rpy:13280
+# game/scripts/kali_events.rpy:13278
 translate pt_br kalioutfits_9888278b_6:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/kali_events.rpy:13284
+# game/scripts/kali_events.rpy:13282
 translate pt_br kalioutfits_113e5b81:
 
     # k "O-Oh, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:13322
+# game/scripts/kali_events.rpy:13320
 translate pt_br kalioutfits_b1e3ace8:
 
     # k "Never happening..."
     k ""
 
-# game/scripts/kali_events.rpy:13323
+# game/scripts/kali_events.rpy:13321
 translate pt_br kalioutfits_65f7e9b7:
 
     # "Her submission and exhibitionism are too low..."
     ""
 
-# game/scripts/kali_events.rpy:13356
+# game/scripts/kali_events.rpy:13354
 translate pt_br kalioutfits_88e766bf:
 
     # k "Urgh, gross..."
     k ""
 
-# game/scripts/kali_events.rpy:13385
+# game/scripts/kali_events.rpy:13383
 translate pt_br kalioutfits_f8afe4eb:
 
     # k "Oh, what do you have in mind...?"
     k ""
 
-# game/scripts/kali_events.rpy:13391
+# game/scripts/kali_events.rpy:13389
 translate pt_br kalioutfits_84f5a16b:
 
     # k "Oh, back to Kali? Okay."
     k ""
 
-# game/scripts/kali_events.rpy:13393
+# game/scripts/kali_events.rpy:13391
 translate pt_br kalioutfits_7c1d033a:
 
     # k "[kaliname]...? Well, if it makes you happy."
     k ""
 
-# game/scripts/kali_events.rpy:13398
+# game/scripts/kali_events.rpy:13396
 translate pt_br kalioutfits_5e86d3d9:
 
     # k "At this time? I'd rather just get an energy drink from the kitchen..."
     k ""
 
-# game/scripts/kali_events.rpy:13426
+# game/scripts/kali_events.rpy:13424
 translate pt_br kalioutfits_e7496ded:
 
     # k "Not interested..."
     k ""
 
-# game/scripts/kali_events.rpy:13429
+# game/scripts/kali_events.rpy:13427
 translate pt_br kalioutfits_5932df6c:
 
     # k "Yeah, sure. Sounds fun."
     k ""
 
-# game/scripts/kali_events.rpy:13463
+# game/scripts/kali_events.rpy:13461
 translate pt_br kalioutfits_bccde3c8:
 
     # k "What? Ew..."
     k ""
 
-# game/scripts/kali_events.rpy:13464
+# game/scripts/kali_events.rpy:13462
 translate pt_br kalioutfits_138ce778:
 
     # "I need to raise Kali's friendship..."
     ""
 
-# game/scripts/kali_events.rpy:13493
+# game/scripts/kali_events.rpy:13491
 translate pt_br kalioutfits_eddbd324:
 
     # k "Oh... sure, what did you have in mind?"
     k ""
 
-# game/scripts/kali_events.rpy:13496
+# game/scripts/kali_events.rpy:13494
 translate pt_br kalioutfits_71fbaff9_1:
 
     # k "Oh, sure."
     k ""
 
-# game/scripts/kali_events.rpy:13502
+# game/scripts/kali_events.rpy:13500
 translate pt_br kalifreemenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13508
+# game/scripts/kali_events.rpy:13506
 translate pt_br kalifreemenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13514
+# game/scripts/kali_events.rpy:13512
 translate pt_br kalifreemenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13520
+# game/scripts/kali_events.rpy:13518
 translate pt_br kalifreemenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13526
+# game/scripts/kali_events.rpy:13524
 translate pt_br kalifreemenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13532
+# game/scripts/kali_events.rpy:13530
 translate pt_br kalifreemenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13546
+# game/scripts/kali_events.rpy:13544
 translate pt_br kaliblowmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13552
+# game/scripts/kali_events.rpy:13550
 translate pt_br kaliblowmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13558
+# game/scripts/kali_events.rpy:13556
 translate pt_br kaliblowmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13564
+# game/scripts/kali_events.rpy:13562
 translate pt_br kaliblowmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13570
+# game/scripts/kali_events.rpy:13568
 translate pt_br kaliblowmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13576
+# game/scripts/kali_events.rpy:13574
 translate pt_br kaliblowmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13589
+# game/scripts/kali_events.rpy:13587
 translate pt_br kalimismenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13595
+# game/scripts/kali_events.rpy:13593
 translate pt_br kalimismenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13601
+# game/scripts/kali_events.rpy:13599
 translate pt_br kalimismenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13607
+# game/scripts/kali_events.rpy:13605
 translate pt_br kalimismenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13613
+# game/scripts/kali_events.rpy:13611
 translate pt_br kalimismenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13619
+# game/scripts/kali_events.rpy:13617
 translate pt_br kalimismenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13626
+# game/scripts/kali_events.rpy:13624
 translate pt_br kalimismenu_89d0de95:
 
     # k "Um... how do you want me dressed?"
     k ""
 
-# game/scripts/kali_events.rpy:13632
+# game/scripts/kali_events.rpy:13630
 translate pt_br kalimismenu_53235d36:
 
     # k "Are you ready [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:13634
+# game/scripts/kali_events.rpy:13632
 translate pt_br kalimismenu_cd1a85e3:
 
     # k "Ahh... my boobs feel funny when your dick is between them..."
     k ""
 
-# game/scripts/kali_events.rpy:13635
+# game/scripts/kali_events.rpy:13633
 translate pt_br kalimismenu_ecb40363:
 
     # k "Does it feel good [linoname]?"
     k ""
 
-# game/scripts/kali_events.rpy:13636
+# game/scripts/kali_events.rpy:13634
 translate pt_br kalimismenu_f998e46e:
 
     # k "Heh, I know it does..."
     k ""
 
-# game/scripts/kali_events.rpy:13637
+# game/scripts/kali_events.rpy:13635
 translate pt_br kalimismenu_eefb709b:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
     k ""
 
-# game/scripts/kali_events.rpy:13641
+# game/scripts/kali_events.rpy:13639
 translate pt_br kalimismenu_66deae9f:
 
     # k "Ahh! Mmmm..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13642
+# game/scripts/kali_events.rpy:13640
 translate pt_br kalimismenu_2bd4b217:
 
     # k "You came all over my tits [linoname]..."
     k ""
 
-# game/scripts/kali_events.rpy:13653
+# game/scripts/kali_events.rpy:13651
 translate pt_br kalimismenu_53235d36_1:
 
     # k "Are you ready [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:13655
+# game/scripts/kali_events.rpy:13653
 translate pt_br kalimismenu_d83482e3:
 
     # k "Ahh... My boobs feel funny when your dick is between them..."
     k ""
 
-# game/scripts/kali_events.rpy:13656
+# game/scripts/kali_events.rpy:13654
 translate pt_br kalimismenu_28e18ed7:
 
     # k "Does it feel good [name]?"
     k ""
 
-# game/scripts/kali_events.rpy:13657
+# game/scripts/kali_events.rpy:13655
 translate pt_br kalimismenu_f998e46e_1:
 
     # k "Heh, I know it does..."
     k ""
 
-# game/scripts/kali_events.rpy:13658
+# game/scripts/kali_events.rpy:13656
 translate pt_br kalimismenu_eefb709b_1:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
     k ""
 
-# game/scripts/kali_events.rpy:13662
+# game/scripts/kali_events.rpy:13660
 translate pt_br kalimismenu_66deae9f_1:
 
     # k "Ahh! Mmmm..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13663
+# game/scripts/kali_events.rpy:13661
 translate pt_br kalimismenu_65d9bb66:
 
     # k "You came all over my tits [name]..."
     k ""
 
-# game/scripts/kali_events.rpy:13672
+# game/scripts/kali_events.rpy:13670
 translate pt_br kalimismenu_13813a24:
 
     # k "Sounds fun."
     k ""
 
-# game/scripts/kali_events.rpy:13678
+# game/scripts/kali_events.rpy:13676
 translate pt_br kalithighmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13684
+# game/scripts/kali_events.rpy:13682
 translate pt_br kalithighmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13690
+# game/scripts/kali_events.rpy:13688
 translate pt_br kalithighmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13696
+# game/scripts/kali_events.rpy:13694
 translate pt_br kalithighmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13702
+# game/scripts/kali_events.rpy:13700
 translate pt_br kalithighmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13708
+# game/scripts/kali_events.rpy:13706
 translate pt_br kalithighmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13716
+# game/scripts/kali_events.rpy:13714
 translate pt_br kalithighmenu_b621322b:
 
     # k "Sure."
     k ""
 
-# game/scripts/kali_events.rpy:13722
+# game/scripts/kali_events.rpy:13720
 translate pt_br kalianalmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13728
+# game/scripts/kali_events.rpy:13726
 translate pt_br kalianalmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13734
+# game/scripts/kali_events.rpy:13732
 translate pt_br kalianalmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13740
+# game/scripts/kali_events.rpy:13738
 translate pt_br kalianalmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/kali_events.rpy:13746
+# game/scripts/kali_events.rpy:13744
 translate pt_br kalianalmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13752
+# game/scripts/kali_events.rpy:13750
 translate pt_br kalianalmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/kali_events.rpy:13762
+# game/scripts/kali_events.rpy:13760
 translate pt_br kalianalmenu_c2494032:
 
     # c "Nevermind..."
     c ""
 
-# game/scripts/kali_events.rpy:13792
+# game/scripts/kali_events.rpy:13790
 translate pt_br kalianalmenu_3ae7e25f:
 
     # k "At this time? No thank you..."
     k ""
 
-# game/scripts/kali_events.rpy:13820
+# game/scripts/kali_events.rpy:13818
 translate pt_br kalianalmenu_d6647337:
 
     # k "Ummm... I'm a little busy..."
     k ""
 
-# game/scripts/kali_events.rpy:13821
+# game/scripts/kali_events.rpy:13819
 translate pt_br kalianalmenu_138ce778:
 
     # "I need to raise Kali's friendship..."
     ""
 
-# game/scripts/kali_events.rpy:13824
+# game/scripts/kali_events.rpy:13822
 translate pt_br kalianalmenu_cdbc42b9:
 
     # k "Yeah... that sounds great!"
     k ""
 
-# game/scripts/kali_events.rpy:13839
+# game/scripts/kali_events.rpy:13837
 translate pt_br kalianalmenu_10de7f48:
 
     # k "Let's wait until tomorrow..."
     k ""
 
-# game/scripts/kali_events.rpy:13868
+# game/scripts/kali_events.rpy:13866
 translate pt_br kalianalmenu_3e9a56fe:
 
     # k "What!? No!"
     k ""
 
-# game/scripts/kali_events.rpy:13869
+# game/scripts/kali_events.rpy:13867
 translate pt_br kalianalmenu_2666eee6:
 
     # "Kali's friendship is too low..."
     ""
 
-# game/scripts/kali_events.rpy:13897
+# game/scripts/kali_events.rpy:13895
 translate pt_br kalianalmenu_8e4f092f:
 
     # k "You want to take pictures of me...?"
     k ""
 
-# game/scripts/kali_events.rpy:13898
+# game/scripts/kali_events.rpy:13896
 translate pt_br kalianalmenu_56d0beb3:
 
     # c "That's right."
     c ""
 
-# game/scripts/kali_events.rpy:13899
+# game/scripts/kali_events.rpy:13897
 translate pt_br kalianalmenu_cba1e23d:
 
     # k "And what are you going to do with these pictures?"
     k ""
 
-# game/scripts/kali_events.rpy:13900
+# game/scripts/kali_events.rpy:13898
 translate pt_br kalianalmenu_bc63c9d4:
 
     # c "Whatever I want."
     c ""
 
-# game/scripts/kali_events.rpy:13901
+# game/scripts/kali_events.rpy:13899
 translate pt_br kalianalmenu_14e0e6a6:
 
     # k "Yeah... I'm going to pass..."
     k ""
 
-# game/scripts/kali_events.rpy:13902
+# game/scripts/kali_events.rpy:13900
 translate pt_br kalianalmenu_5c46bdcb:
 
     # "Kali's affection is too low..."
     ""
 
-# game/scripts/kali_events.rpy:13930
+# game/scripts/kali_events.rpy:13928
 translate pt_br kalianalmenu_8e4f092f_1:
 
     # k "You want to take pictures of me...?"
     k ""
 
-# game/scripts/kali_events.rpy:13931
+# game/scripts/kali_events.rpy:13929
 translate pt_br kalianalmenu_56d0beb3_1:
 
     # c "That's right."
     c ""
 
-# game/scripts/kali_events.rpy:13932
+# game/scripts/kali_events.rpy:13930
 translate pt_br kalianalmenu_2e9bd230:
 
     # k "Oh..."
     k ""
 
-# game/scripts/kali_events.rpy:13933
+# game/scripts/kali_events.rpy:13931
 translate pt_br kalianalmenu_9a89a226:
 
     # c "Follow me to my room."
     c ""
 
-# game/scripts/kali_events.rpy:13934
+# game/scripts/kali_events.rpy:13932
 translate pt_br kalianalmenu_22c719b5:
 
     # k "Okay..."
     k ""
 
-# game/scripts/kali_events.rpy:13940
+# game/scripts/kali_events.rpy:13938
 translate pt_br kalianalmenu_aa188f6f:
 
     # c "See you later."
     c ""
 
-# game/scripts/kali_events.rpy:13941
+# game/scripts/kali_events.rpy:13939
 translate pt_br kalianalmenu_cf3bb8c2:
 
     # k "Later."
     k ""
 
-# game/scripts/kali_events.rpy:13949
+# game/scripts/kali_events.rpy:13947
 translate pt_br kali_freestyle_blowjob_e2a80771:
 
     # k "Mmmn...! How does that feel, [name]? Llmmn...! You like my blowjobs, don't you?"
     k ""
 
-# game/scripts/kali_events.rpy:13950
+# game/scripts/kali_events.rpy:13948
 translate pt_br kali_freestyle_blowjob_c9d0f384:
 
     # k "Mmmh, heheh, don't cum too quickly, I like to suck you..."
     k ""
 
-# game/scripts/kali_events.rpy:13951
+# game/scripts/kali_events.rpy:13949
 translate pt_br kali_freestyle_blowjob_c61e5c75:
 
     # k "Llmngh, mmnl...! Do you like it when I use my tongue...? Mmmln..."
     k ""
 
-# game/scripts/kali_events.rpy:13954
+# game/scripts/kali_events.rpy:13952
 translate pt_br kali_freestyle_blowjob_d4bfa480:
 
     # k "Mmmh, fuck...! Your cock is so fucking juicy, I love it...! Mmmh!"
     k ""
 
-# game/scripts/kali_events.rpy:13955
+# game/scripts/kali_events.rpy:13953
 translate pt_br kali_freestyle_blowjob_7aedede6:
 
     # k "Mmn, mmmgh! Are you getting close? Mmmh...! Cum, give me a big load...! Mmmh...!"
     k ""
 
-# game/scripts/kali_events.rpy:13956
+# game/scripts/kali_events.rpy:13954
 translate pt_br kali_freestyle_blowjob_cf236de6:
 
     # k "Cum for me! Mmmn! Cum for me, cum for me...!"
     k ""
 
-# game/scripts/kali_events.rpy:13961
+# game/scripts/kali_events.rpy:13959
 translate pt_br kali_freestyle_blowjob_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
     c ""
 
-# game/scripts/kali_events.rpy:13962
+# game/scripts/kali_events.rpy:13960
 translate pt_br kali_freestyle_blowjob_6a427001:
 
     # k "Oh, mmmph...! Okay."
     k ""
 
-# game/scripts/kali_events.rpy:13965
+# game/scripts/kali_events.rpy:13963
 translate pt_br kali_freestyle_blowjob_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
     c ""
 
-# game/scripts/kali_events.rpy:13966
+# game/scripts/kali_events.rpy:13964
 translate pt_br kali_freestyle_blowjob_a2d92736:
 
     # k "Oh~ mmmph, sure~"
     k ""
 
-# game/scripts/kali_events.rpy:13969
+# game/scripts/kali_events.rpy:13967
 translate pt_br kali_freestyle_blowjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/kali_events.rpy:13970
+# game/scripts/kali_events.rpy:13968
 translate pt_br kali_freestyle_blowjob_d6942871:
 
     # k "Mmmn, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:13977
+# game/scripts/kali_events.rpy:13975
 translate pt_br kali_freestyle_blowjob_5553a0cb:
 
     # c "I'm cumming!"
     c ""
 
-# game/scripts/kali_events.rpy:13979
+# game/scripts/kali_events.rpy:13977
 translate pt_br kali_freestyle_blowjob_fff6fb9d:
 
     # k "Mmmh!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13980
+# game/scripts/kali_events.rpy:13978
 translate pt_br kali_freestyle_blowjob_27330d1e:
 
     # k "Mmmmh, nnh...!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13981
+# game/scripts/kali_events.rpy:13979
 translate pt_br kali_freestyle_blowjob_81cfa29e:
 
     # k "*gulp*...! Mmh~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13983
+# game/scripts/kali_events.rpy:13981
 translate pt_br kali_freestyle_blowjob_5f6b4d90:
 
     # k "I hope you enjoyed... see you later."
     k ""
 
-# game/scripts/kali_events.rpy:13987
+# game/scripts/kali_events.rpy:13985
 translate pt_br kali_freestyle_blowjob_6dd67c63:
 
     # k "Aaaah~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13988
+# game/scripts/kali_events.rpy:13986
 translate pt_br kali_freestyle_blowjob_166a7488:
 
     # k "Nnngh! Yes, cum for me! More~! Mmmh~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:13990
+# game/scripts/kali_events.rpy:13988
 translate pt_br kali_freestyle_blowjob_5f6b4d90_1:
 
     # k "I hope you enjoyed... see you later."
     k ""
 
-# game/scripts/kali_events.rpy:14008
+# game/scripts/kali_events.rpy:14006
 translate pt_br kali_freestyle_missionary_b1b3f09f:
 
     # k "Ahh! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:14009
+# game/scripts/kali_events.rpy:14007
 translate pt_br kali_freestyle_missionary_93c04655:
 
     # k "Nnn... Ahh... Yesss..."
     k ""
 
-# game/scripts/kali_events.rpy:14012
+# game/scripts/kali_events.rpy:14010
 translate pt_br kali_freestyle_missionary_8ba88102:
 
     # k "Ahh! Hahh! Fuck me! Yes! Oh god, yes! Ah!"
     k ""
 
-# game/scripts/kali_events.rpy:14013
+# game/scripts/kali_events.rpy:14011
 translate pt_br kali_freestyle_missionary_2cd7c6e2:
 
     # k "Fuck my pussy! Yes! Harder! Deeper! Ahhh!"
     k ""
 
-# game/scripts/kali_events.rpy:14014
+# game/scripts/kali_events.rpy:14012
 translate pt_br kali_freestyle_missionary_28def1b4:
 
     # k "I'm gonna cum! I'm gonna cum! Fuck! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:14016
+# game/scripts/kali_events.rpy:14014
 translate pt_br kali_freestyle_missionary_6e85a559:
 
     # k "FUUUUUCK!!!" with sshake
     k "" with sshake
 
-# game/scripts/kali_events.rpy:14017
+# game/scripts/kali_events.rpy:14015
 translate pt_br kali_freestyle_missionary_acbf0d67:
 
     # k "MMMH, nnnnnmh~! Yes, yes, yes!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14019
+# game/scripts/kali_events.rpy:14017
 translate pt_br kali_freestyle_missionary_3227d715:
 
     # k "Ahh... Hahhhh... Haha..."
     k ""
 
-# game/scripts/kali_events.rpy:14020
+# game/scripts/kali_events.rpy:14018
 translate pt_br kali_freestyle_missionary_f1fdb91e:
 
     # k "Now it's your turn..."
     k ""
 
-# game/scripts/kali_events.rpy:14023
+# game/scripts/kali_events.rpy:14021
 translate pt_br kali_freestyle_missionary_f23cc4c4:
 
     # k "Mmmm! Nnn! Hahh! Ahh!!!"
     k ""
 
-# game/scripts/kali_events.rpy:14024
+# game/scripts/kali_events.rpy:14022
 translate pt_br kali_freestyle_missionary_5f6ef09f:
 
     # k "Fuck yes! Yes! I want your cum! All over me! Ah!"
     k ""
 
-# game/scripts/kali_events.rpy:14025
+# game/scripts/kali_events.rpy:14023
 translate pt_br kali_freestyle_missionary_876ec4bb:
 
     # k "Ah, Ah, Ah, Ah! Cum! Ahh!!!"
     k ""
 
-# game/scripts/kali_events.rpy:14030
+# game/scripts/kali_events.rpy:14028
 translate pt_br kali_freestyle_missionary_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
     c ""
 
-# game/scripts/kali_events.rpy:14031
+# game/scripts/kali_events.rpy:14029
 translate pt_br kali_freestyle_missionary_6a427001:
 
     # k "Oh, mmmph...! Okay."
     k ""
 
-# game/scripts/kali_events.rpy:14034
+# game/scripts/kali_events.rpy:14032
 translate pt_br kali_freestyle_missionary_f7d70909:
 
     # c "Get on your knees, suck my cock."
     c ""
 
-# game/scripts/kali_events.rpy:14035
+# game/scripts/kali_events.rpy:14033
 translate pt_br kali_freestyle_missionary_5dd97b0d:
 
     # k "Oh, okay."
     k ""
 
-# game/scripts/kali_events.rpy:14038
+# game/scripts/kali_events.rpy:14036
 translate pt_br kali_freestyle_missionary_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/kali_events.rpy:14039
+# game/scripts/kali_events.rpy:14037
 translate pt_br kali_freestyle_missionary_d6942871:
 
     # k "Mmmn, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:14047
+# game/scripts/kali_events.rpy:14045
 translate pt_br kali_freestyle_missionary_06150057:
 
     # k "Ahhh!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14048
+# game/scripts/kali_events.rpy:14046
 translate pt_br kali_freestyle_missionary_f45f439b:
 
     # k "Hnn! NNN!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14049
+# game/scripts/kali_events.rpy:14047
 translate pt_br kali_freestyle_missionary_cf3fc8d1:
 
     # k "So... Deep!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14054
+# game/scripts/kali_events.rpy:14052
 translate pt_br kali_freestyle_missionary_85b9f941:
 
     # k "Ahh... fuck... you came so much inside me..."
     k ""
 
-# game/scripts/kali_events.rpy:14059
+# game/scripts/kali_events.rpy:14057
 translate pt_br kali_freestyle_missionary_69588e9a:
 
     # k "Ahhh! You came all over me..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14060
+# game/scripts/kali_events.rpy:14058
 translate pt_br kali_freestyle_missionary_65759b9e:
 
     # k "Mmmm... I'm all dirty now..."
     k ""
 
-# game/scripts/kali_events.rpy:14082
+# game/scripts/kali_events.rpy:14080
 translate pt_br kali_freestyle_thighjob_3a28fd64:
 
     # k "Ahh... mmmh, how does that feel? Do you like my thighs?"
     k ""
 
-# game/scripts/kali_events.rpy:14083
+# game/scripts/kali_events.rpy:14081
 translate pt_br kali_freestyle_thighjob_85fb29fc:
 
     # k "This is kind of hot... watching your cock rub my pussy like that."
     k ""
 
-# game/scripts/kali_events.rpy:14084
+# game/scripts/kali_events.rpy:14082
 translate pt_br kali_freestyle_thighjob_aa3038ca:
 
     # k "Hahhh, go faster, it feels so good..."
     k ""
 
-# game/scripts/kali_events.rpy:14087
+# game/scripts/kali_events.rpy:14085
 translate pt_br kali_freestyle_thighjob_d2d13823:
 
     # k "Mmm~ my pussy is drenching your cock, do you feel that?"
     k ""
 
-# game/scripts/kali_events.rpy:14088
+# game/scripts/kali_events.rpy:14086
 translate pt_br kali_freestyle_thighjob_06dd01c9:
 
     # k "Nnnh, haaah...! Are you getting close? I want to watch you cum."
     k ""
 
-# game/scripts/kali_events.rpy:14089
+# game/scripts/kali_events.rpy:14087
 translate pt_br kali_freestyle_thighjob_81bfc66c:
 
     # k "Hahh, yes...! Cum for me, [name]... cum for me!"
     k ""
 
-# game/scripts/kali_events.rpy:14092
+# game/scripts/kali_events.rpy:14090
 translate pt_br kali_freestyle_thighjob_f7d70909:
 
     # c "Get on your knees, suck my cock."
     c ""
 
-# game/scripts/kali_events.rpy:14093
+# game/scripts/kali_events.rpy:14091
 translate pt_br kali_freestyle_thighjob_5dd97b0d:
 
     # k "Oh, okay."
     k ""
 
-# game/scripts/kali_events.rpy:14096
+# game/scripts/kali_events.rpy:14094
 translate pt_br kali_freestyle_thighjob_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
     c ""
 
-# game/scripts/kali_events.rpy:14097
+# game/scripts/kali_events.rpy:14095
 translate pt_br kali_freestyle_thighjob_a2d92736:
 
     # k "Oh~ mmmph, sure~"
     k ""
 
-# game/scripts/kali_events.rpy:14100
+# game/scripts/kali_events.rpy:14098
 translate pt_br kali_freestyle_thighjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/kali_events.rpy:14101
+# game/scripts/kali_events.rpy:14099
 translate pt_br kali_freestyle_thighjob_d6942871:
 
     # k "Mmmn, okay..."
     k ""
 
-# game/scripts/kali_events.rpy:14109
+# game/scripts/kali_events.rpy:14107
 translate pt_br kali_freestyle_thighjob_56fd56d0:
 
     # k "Ah! Wow..." with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14127
+# game/scripts/kali_events.rpy:14125
 translate pt_br kali_freestyle_anal_0467e2bc:
 
     # k "Come onnn~ put it in!"
     k ""
 
-# game/scripts/kali_events.rpy:14130
+# game/scripts/kali_events.rpy:14128
 translate pt_br kali_freestyle_anal_908233c2:
 
     # k "Nnngh~!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14133
+# game/scripts/kali_events.rpy:14131
 translate pt_br kali_freestyle_anal_d112e047:
 
     # k "Oh! Fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:14134
+# game/scripts/kali_events.rpy:14132
 translate pt_br kali_freestyle_anal_600c5445:
 
     # k "Ohggh, god... Hnn..."
     k ""
 
-# game/scripts/kali_events.rpy:14135
+# game/scripts/kali_events.rpy:14133
 translate pt_br kali_freestyle_anal_7d9d5174:
 
     # k "Yes, fuck! My ass feels so good!"
     k ""
 
-# game/scripts/kali_events.rpy:14136
+# game/scripts/kali_events.rpy:14134
 translate pt_br kali_freestyle_anal_e129708d:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
     k ""
 
-# game/scripts/kali_events.rpy:14139
+# game/scripts/kali_events.rpy:14137
 translate pt_br kali_freestyle_anal_b33cbc04:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
     k ""
 
-# game/scripts/kali_events.rpy:14140
+# game/scripts/kali_events.rpy:14138
 translate pt_br kali_freestyle_anal_0304eda8:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
     k ""
 
-# game/scripts/kali_events.rpy:14141
+# game/scripts/kali_events.rpy:14139
 translate pt_br kali_freestyle_anal_87f41667:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
     k ""
 
-# game/scripts/kali_events.rpy:14142
+# game/scripts/kali_events.rpy:14140
 translate pt_br kali_freestyle_anal_9621136c:
 
     # k "AH! HNN! NN! HAH!"
     k ""
 
-# game/scripts/kali_events.rpy:14143
+# game/scripts/kali_events.rpy:14141
 translate pt_br kali_freestyle_anal_644a3b6a:
 
     # k "[name]! [name]! Cum inside my ass! Please!"
     k ""
 
-# game/scripts/kali_events.rpy:14146
+# game/scripts/kali_events.rpy:14144
 translate pt_br kali_freestyle_anal_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
     c ""
 
-# game/scripts/kali_events.rpy:14147
+# game/scripts/kali_events.rpy:14145
 translate pt_br kali_freestyle_anal_6a427001:
 
     # k "Oh, mmmph...! Okay."
     k ""
 
-# game/scripts/kali_events.rpy:14150
+# game/scripts/kali_events.rpy:14148
 translate pt_br kali_freestyle_anal_f7d70909:
 
     # c "Get on your knees, suck my cock."
     c ""
 
-# game/scripts/kali_events.rpy:14151
+# game/scripts/kali_events.rpy:14149
 translate pt_br kali_freestyle_anal_5dd97b0d:
 
     # k "Oh, okay."
     k ""
 
-# game/scripts/kali_events.rpy:14154
+# game/scripts/kali_events.rpy:14152
 translate pt_br kali_freestyle_anal_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
     c ""
 
-# game/scripts/kali_events.rpy:14155
+# game/scripts/kali_events.rpy:14153
 translate pt_br kali_freestyle_anal_a2d92736:
 
     # k "Oh~ mmmph, sure~"
     k ""
 
-# game/scripts/kali_events.rpy:14163
+# game/scripts/kali_events.rpy:14161
 translate pt_br kali_freestyle_anal_dad2a4ef:
 
     # k "Hnnn!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14164
+# game/scripts/kali_events.rpy:14162
 translate pt_br kali_freestyle_anal_2c1711d6:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14165
+# game/scripts/kali_events.rpy:14163
 translate pt_br kali_freestyle_anal_0cfc804c:
 
     # k "Holy shit!!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14172
+# game/scripts/kali_events.rpy:14170
 translate pt_br kali_freestyle_anal_e7b6ced2:
 
     # k "Ahhh... Hahhh, Holy shit..."
     k ""
 
-# game/scripts/kali_events.rpy:14194
+# game/scripts/kali_events.rpy:14192
 translate pt_br kaliundress_79e0e9d2:
 
     # k "!!!"
     k ""
 
-# game/scripts/kali_events.rpy:14196
+# game/scripts/kali_events.rpy:14194
 translate pt_br kaliundress_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14197
+# game/scripts/kali_events.rpy:14195
 translate pt_br kaliundress_93aeead4:
 
     # k "Dude, what the fuck! Get out!"
     k ""
 
-# game/scripts/kali_events.rpy:14199
+# game/scripts/kali_events.rpy:14197
 translate pt_br kaliundress_32bfcd46:
 
     # "Kali spends some time getting dressed"
     ""
 
-# game/scripts/kali_events.rpy:14201
+# game/scripts/kali_events.rpy:14199
 translate pt_br kaliundress_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14204
+# game/scripts/kali_events.rpy:14202
 translate pt_br kaliundress_f57638e2:
 
     # k "...Did you see my..."
     k ""
 
-# game/scripts/kali_events.rpy:14205
+# game/scripts/kali_events.rpy:14203
 translate pt_br kaliundress_b279afbb:
 
     # k "Urgh... of course you did..."
     k ""
 
-# game/scripts/kali_events.rpy:14208
+# game/scripts/kali_events.rpy:14206
 translate pt_br kaliundress_1ee7027f:
 
     # k "Ever heard of knocking asshole!?"
     k ""
 
-# game/scripts/kali_events.rpy:14210
+# game/scripts/kali_events.rpy:14208
 translate pt_br kaliundress_9aa7a3a2:
 
     # c "I did."
     c ""
 
-# game/scripts/kali_events.rpy:14214
+# game/scripts/kali_events.rpy:14212
 translate pt_br kaliundress_93334484:
 
     # k "What?"
     k ""
 
-# game/scripts/kali_events.rpy:14215
+# game/scripts/kali_events.rpy:14213
 translate pt_br kaliundress_761553af:
 
     # k "Oh, I must have had the music too loud!"
     k ""
 
-# game/scripts/kali_events.rpy:14218
+# game/scripts/kali_events.rpy:14216
 translate pt_br kaliundress_84cb1d11:
 
     # k "Well... I mean... you can't just..."
     k ""
 
-# game/scripts/kali_events.rpy:14219
+# game/scripts/kali_events.rpy:14217
 translate pt_br kaliundress_61320c9a:
 
     # k "Urghhh... I guess it was my fault."
     k ""
 
-# game/scripts/kali_events.rpy:14222
+# game/scripts/kali_events.rpy:14220
 translate pt_br kaliundress_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14225
+# game/scripts/kali_events.rpy:14223
 translate pt_br kaliundress_1aa392a9:
 
     # k "Well..."
     k ""
 
-# game/scripts/kali_events.rpy:14228
+# game/scripts/kali_events.rpy:14226
 translate pt_br kaliundress_d8ae5cca:
 
     # k "Did... Did you like them...?"
     k ""
 
-# game/scripts/kali_events.rpy:14230
+# game/scripts/kali_events.rpy:14228
 translate pt_br kaliundress_ff95e483:
 
     # c "They were amazing."
     c ""
 
-# game/scripts/kali_events.rpy:14234
+# game/scripts/kali_events.rpy:14232
 translate pt_br kaliundress_82091822_3:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14237
+# game/scripts/kali_events.rpy:14235
 translate pt_br kaliundress_557e0685:
 
     # k "You liked them?"
     k ""
 
-# game/scripts/kali_events.rpy:14240
+# game/scripts/kali_events.rpy:14238
 translate pt_br kaliundress_36e5b02e:
 
     # k "I mean... of course you did. They look good, why wouldn't you like them..."
     k ""
 
-# game/scripts/kali_events.rpy:14243
+# game/scripts/kali_events.rpy:14241
 translate pt_br kaliundress_af1606d0:
 
     # k "...I guess... It's not really a big deal if you see my tits. They're just tits..."
     k ""
 
-# game/scripts/kali_events.rpy:14245
+# game/scripts/kali_events.rpy:14243
 translate pt_br kaliundress_e5b9fd1b:
 
     # c "They're great tits."
     c ""
 
-# game/scripts/kali_events.rpy:14249
+# game/scripts/kali_events.rpy:14247
 translate pt_br kaliundress_82091822_4:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14252
+# game/scripts/kali_events.rpy:14250
 translate pt_br kaliundress_a858aade:
 
     # k "Shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:14253
+# game/scripts/kali_events.rpy:14251
 translate pt_br kaliundress_b409a14e:
 
     # k "Stop making me feel good!"
     k ""
 
-# game/scripts/kali_events.rpy:14256
+# game/scripts/kali_events.rpy:14254
 translate pt_br kaliundress_2c8a54bd:
 
     # k "I mean... I.."
     k ""
 
-# game/scripts/kali_events.rpy:14259
+# game/scripts/kali_events.rpy:14257
 translate pt_br kaliundress_a858aade_1:
 
     # k "Shut up!"
     k ""
 
-# game/scripts/kali_events.rpy:14262
+# game/scripts/kali_events.rpy:14260
 translate pt_br kaliundress_93b6b699:
 
     # "Kali goes into her room and slams the door"
     ""
 
-# game/scripts/kali_events.rpy:14280
+# game/scripts/kali_events.rpy:14278
 translate pt_br kalimail_19d4dca1:
 
     # k "Oh hey, mind checking the mail? I'm expecting something. Should be here any minute now."
     k ""
 
-# game/scripts/kali_events.rpy:14281
+# game/scripts/kali_events.rpy:14279
 translate pt_br kalimail_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/kali_events.rpy:14285
+# game/scripts/kali_events.rpy:14283
 translate pt_br kalimail_3804f446:
 
     # k "Great!"
     k ""
 
-# game/scripts/kali_events.rpy:14288
+# game/scripts/kali_events.rpy:14286
 translate pt_br kalimail_a200cdc1:
 
     # k "Uh... just don't look inside it."
     k ""
 
-# game/scripts/kali_events.rpy:14289
+# game/scripts/kali_events.rpy:14287
 translate pt_br kalimail_73c2fcc2:
 
     # c "Why not?"
     c ""
 
-# game/scripts/kali_events.rpy:14292
+# game/scripts/kali_events.rpy:14290
 translate pt_br kalimail_6a7f9612:
 
     # k "Because I fucking said so! ...Now hurry!"
     k ""
 
-# game/scripts/kali_events.rpy:14302
+# game/scripts/kali_events.rpy:14300
 translate pt_br kalimail2_9768f495:
 
     # k "Is it here? Did you get it?"
     k ""
 
-# game/scripts/kali_events.rpy:14303
+# game/scripts/kali_events.rpy:14301
 translate pt_br kalimail2_b8cc8523:
 
     # c "Yeah, here it is."
     c ""
 
-# game/scripts/kali_events.rpy:14307
+# game/scripts/kali_events.rpy:14305
 translate pt_br kalimail2_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14308
+# game/scripts/kali_events.rpy:14306
 translate pt_br kalimail2_75a9fe44:
 
     # k "You opened it didn't you?"
     k ""
 
-# game/scripts/kali_events.rpy:14309
+# game/scripts/kali_events.rpy:14307
 translate pt_br kalimail2_e83bfcf6:
 
     # c "...No."
     c ""
 
-# game/scripts/kali_events.rpy:14312
+# game/scripts/kali_events.rpy:14310
 translate pt_br kalimail2_a850555c:
 
     # k "Don't fucking lie to me! The seal is broken."
     k ""
 
-# game/scripts/kali_events.rpy:14315
+# game/scripts/kali_events.rpy:14313
 translate pt_br kalimail2_f4958571:
 
     # k "Look... don't be getting any weird ideas... It's for my neck alright?"
     k ""
 
-# game/scripts/kali_events.rpy:14318
+# game/scripts/kali_events.rpy:14316
 translate pt_br kalimail2_4dbad1be:
 
     # k "Yeah... the stress of being left here by my dad and not having a job can really pile up... and..."
     k ""
 
-# game/scripts/kali_events.rpy:14321
+# game/scripts/kali_events.rpy:14319
 translate pt_br kalimail2_5eb10bf5:
 
     # k "Oh shut up pervert! Don't go looking through people's stuff! What I do in my free time is my business. Not yours."
     k ""
 
-# game/scripts/kali_events.rpy:14324
+# game/scripts/kali_events.rpy:14322
 translate pt_br kalimail2_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14327
+# game/scripts/kali_events.rpy:14325
 translate pt_br kalimail2_b8c42ba5:
 
     # k "Get out of here already!"
     k ""
 
-# game/scripts/kali_events.rpy:14339
+# game/scripts/kali_events.rpy:14337
 translate pt_br kalimail2_c9e17861:
 
     # k "Awesome! Thanks!"
     k ""
 
-# game/scripts/kali_events.rpy:14340
+# game/scripts/kali_events.rpy:14338
 translate pt_br kalimail2_05d80dd7:
 
     # c "What's in it?"
     c ""
 
-# game/scripts/kali_events.rpy:14343
+# game/scripts/kali_events.rpy:14341
 translate pt_br kalimail2_d070a765:
 
     # k "Two bags of none of your business."
     k ""
 
-# game/scripts/kali_events.rpy:14346
+# game/scripts/kali_events.rpy:14344
 translate pt_br kalimail2_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14347
+# game/scripts/kali_events.rpy:14345
 translate pt_br kalimail2_10e137e9:
 
     # k "...Okay, bye..."
     k ""
 
-# game/scripts/kali_events.rpy:14359
+# game/scripts/kali_events.rpy:14357
 translate pt_br kalismassager_7915450e:
 
     # c "Looks like it's here."
     c ""
 
-# game/scripts/kali_events.rpy:14360
+# game/scripts/kali_events.rpy:14358
 translate pt_br kalismassager_fc7e3ae9:
 
     # "You open the door to see Kali's package."
     ""
 
-# game/scripts/kali_events.rpy:14363
+# game/scripts/kali_events.rpy:14361
 translate pt_br kalismassager_0a519210:
 
     # "You open the package and see..."
     ""
 
-# game/scripts/kali_events.rpy:14365
+# game/scripts/kali_events.rpy:14363
 translate pt_br kalismassager_7bb30a99:
 
     # "A massager!"
     ""
 
-# game/scripts/kali_events.rpy:14366
+# game/scripts/kali_events.rpy:14364
 translate pt_br kalismassager_ee16634a:
 
     # c "So that's why she didn't want me to open it..."
     c ""
 
-# game/scripts/kali_events.rpy:14412
+# game/scripts/kali_events.rpy:14410
 translate pt_br kaliworkslutty_beff5ce8:
 
     # k "Hey, I'm just getting ready for work, what's up?"
     k ""
 
-# game/scripts/kali_events.rpy:14413
+# game/scripts/kali_events.rpy:14411
 translate pt_br kaliworkslutty_39b9e416:
 
     # c "I just bought this for you... I think you should wear it to work."
     c ""
 
-# game/scripts/kali_events.rpy:14416
+# game/scripts/kali_events.rpy:14414
 translate pt_br kaliworkslutty_7812b31c:
 
     # k "...You don't really expect me to wear this do you? I'm not a slut..."
     k ""
 
-# game/scripts/kali_events.rpy:14419
+# game/scripts/kali_events.rpy:14417
 translate pt_br kaliworkslutty_e758f0af:
 
     # c "Just try it on, maybe you'll like it. And you'll get tons of tips."
     c ""
 
-# game/scripts/kali_events.rpy:14422
+# game/scripts/kali_events.rpy:14420
 translate pt_br kaliworkslutty_6a2cb958:
 
     # k "Fine... one sec..."
     k ""
 
-# game/scripts/kali_events.rpy:14425
+# game/scripts/kali_events.rpy:14423
 translate pt_br kaliworkslutty_0ae314d4:
 
     # k "What is this!? Am I a stripper now!?"
     k ""
 
-# game/scripts/kali_events.rpy:14429
+# game/scripts/kali_events.rpy:14427
 translate pt_br kaliworkslutty_40f031e3:
 
     # k "You expect me to wear this? You're crazy!"
     k ""
 
-# game/scripts/kali_events.rpy:14430
+# game/scripts/kali_events.rpy:14428
 translate pt_br kaliworkslutty_5b4b3d52:
 
     # c "You would make a lot of tips..."
     c ""
 
-# game/scripts/kali_events.rpy:14432
+# game/scripts/kali_events.rpy:14430
 translate pt_br kaliworkslutty_19a169db:
 
     # k "Urgh, you're right... And I do need the money..."
     k ""
 
-# game/scripts/kali_events.rpy:14433
+# game/scripts/kali_events.rpy:14431
 translate pt_br kaliworkslutty_15cd8257:
 
     # k "Fine... I'll try it. But if I don't like it don't ever expect me to wear this again."
     k ""
 
-# game/scripts/kali_events.rpy:14434
+# game/scripts/kali_events.rpy:14432
 translate pt_br kaliworkslutty_73733689:
 
     # c "Sounds fair. Oh, and I get half your tips."
     c ""
 
-# game/scripts/kali_events.rpy:14436
+# game/scripts/kali_events.rpy:14434
 translate pt_br kaliworkslutty_48479b76:
 
     # k "What!? Like hell."
     k ""
 
-# game/scripts/kali_events.rpy:14437
+# game/scripts/kali_events.rpy:14435
 translate pt_br kaliworkslutty_e498cbe1:
 
     # c "You'll easily make double or triple the tips wearing that, and I need to pay off that outfit."
     c ""
 
-# game/scripts/kali_events.rpy:14439
+# game/scripts/kali_events.rpy:14437
 translate pt_br kaliworkslutty_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14440
+# game/scripts/kali_events.rpy:14438
 translate pt_br kaliworkslutty_f1871ac1:
 
     # k "...25 percent."
     k ""
 
-# game/scripts/kali_events.rpy:14441
+# game/scripts/kali_events.rpy:14439
 translate pt_br kaliworkslutty_51e1a649:
 
     # c "Deal."
     c ""
 
-# game/scripts/kali_events.rpy:14442
+# game/scripts/kali_events.rpy:14440
 translate pt_br kaliworkslutty_1e2d2177:
 
     # k "...See you tonight... I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:14454
+# game/scripts/kali_events.rpy:14452
 translate pt_br talkkaliwork_7fee2887:
 
     # k "Oh hey [name], good news."
     k ""
 
-# game/scripts/kali_events.rpy:14457
+# game/scripts/kali_events.rpy:14455
 translate pt_br talkkaliwork_d227056a:
 
     # k "I got a job!"
     k ""
 
-# game/scripts/kali_events.rpy:14458
+# game/scripts/kali_events.rpy:14456
 translate pt_br talkkaliwork_87ac6169:
 
     # c "Really? That's great."
     c ""
 
-# game/scripts/kali_events.rpy:14459
+# game/scripts/kali_events.rpy:14457
 translate pt_br talkkaliwork_77b0a0ce:
 
     # k "Yeah... I don't need to worry about being homeless anymore, heheh..."
     k ""
 
-# game/scripts/kali_events.rpy:14460
+# game/scripts/kali_events.rpy:14458
 translate pt_br talkkaliwork_9ef0dc6c:
 
     # c "Where's your new job?"
     c ""
 
-# game/scripts/kali_events.rpy:14463
+# game/scripts/kali_events.rpy:14461
 translate pt_br talkkaliwork_4afb9bd2:
 
     # k "Oh, it's uh... at a restaurant. It's really nice, very clean..."
     k ""
 
-# game/scripts/kali_events.rpy:14464
+# game/scripts/kali_events.rpy:14462
 translate pt_br talkkaliwork_9663f0b1:
 
     # c "You're a waitress?"
     c ""
 
-# game/scripts/kali_events.rpy:14465
+# game/scripts/kali_events.rpy:14463
 translate pt_br talkkaliwork_e80f1822:
 
     # k "No..."
     k ""
 
-# game/scripts/kali_events.rpy:14466
+# game/scripts/kali_events.rpy:14464
 translate pt_br talkkaliwork_07fd8fa5:
 
     # k "I'm a delivery girl... I deliver pizzas..."
     k ""
 
-# game/scripts/kali_events.rpy:14471
+# game/scripts/kali_events.rpy:14469
 translate pt_br talkkaliwork_7d2fa492:
 
     # k "No it's not! I don't want to deliver pizzas for the rest of my life!"
     k ""
 
-# game/scripts/kali_events.rpy:14474
+# game/scripts/kali_events.rpy:14472
 translate pt_br talkkaliwork_94e4249b:
 
     # k "Urgh, you don't understand..."
     k ""
 
-# game/scripts/kali_events.rpy:14479
+# game/scripts/kali_events.rpy:14477
 translate pt_br talkkaliwork_1df60d83:
 
     # k "Heh, yeah... that's a plus."
     k ""
 
-# game/scripts/kali_events.rpy:14483
+# game/scripts/kali_events.rpy:14481
 translate pt_br talkkaliwork_ef2be30f:
 
     # k "Anyway... I'm headed there now actually. I'm supposed to meet my manager and co workers before I start."
     k ""
 
-# game/scripts/kali_events.rpy:14484
+# game/scripts/kali_events.rpy:14482
 translate pt_br talkkaliwork_e1b6ef6a:
 
     # c "Can I come with you?"
     c ""
 
-# game/scripts/kali_events.rpy:14487
+# game/scripts/kali_events.rpy:14485
 translate pt_br talkkaliwork_68d6bfa7:
 
     # k "Really? Ummmmm... sure, I guess... I'll drive."
     k ""
 
-# game/scripts/kali_events.rpy:14489
+# game/scripts/kali_events.rpy:14487
 translate pt_br talkkaliwork_54be8fa7:
 
     # "...{w}...{w}..."
     ""
 
-# game/scripts/kali_events.rpy:14491
+# game/scripts/kali_events.rpy:14489
 translate pt_br talkkaliwork_e849409f:
 
     # q "*snore*..."
     q ""
 
-# game/scripts/kali_events.rpy:14492
+# game/scripts/kali_events.rpy:14490
 translate pt_br talkkaliwork_a43a3575:
 
     # k "Umm, hello?"
     k ""
 
-# game/scripts/kali_events.rpy:14493
+# game/scripts/kali_events.rpy:14491
 translate pt_br talkkaliwork_6ba87469:
 
     # q "Nnnnngh... No... I can't swim in space...!"
     q ""
 
-# game/scripts/kali_events.rpy:14495
+# game/scripts/kali_events.rpy:14493
 translate pt_br talkkaliwork_1f0618fd:
 
     # k "Hello!?"
     k ""
 
-# game/scripts/kali_events.rpy:14496
+# game/scripts/kali_events.rpy:14494
 translate pt_br talkkaliwork_66172fb2:
 
     # q "Nnngh!?" with ssshake
     q "" with ssshake
 
-# game/scripts/kali_events.rpy:14498
+# game/scripts/kali_events.rpy:14496
 translate pt_br talkkaliwork_a2040b61:
 
     # nid "Hello... I'm Nidra... welcome to Papa Rons..."
     nid ""
 
-# game/scripts/kali_events.rpy:14499
+# game/scripts/kali_events.rpy:14497
 translate pt_br talkkaliwork_f4f0d293:
 
     # k "Yeah, I know... I work here now."
     k ""
 
-# game/scripts/kali_events.rpy:14500
+# game/scripts/kali_events.rpy:14498
 translate pt_br talkkaliwork_33639f48:
 
     # nid "Oh, really...?"
     nid ""
 
-# game/scripts/kali_events.rpy:14501
+# game/scripts/kali_events.rpy:14499
 translate pt_br talkkaliwork_28b740cf:
 
     # nid "That's right... we were expecting someone..."
     nid ""
 
-# game/scripts/kali_events.rpy:14503
+# game/scripts/kali_events.rpy:14501
 translate pt_br talkkaliwork_d1685089:
 
     # nid "You're Kali... right? I'm Nidra... I'll be your co worker..."
     nid ""
 
-# game/scripts/kali_events.rpy:14504
+# game/scripts/kali_events.rpy:14502
 translate pt_br talkkaliwork_7457cfe8:
 
     # k "Do you always sleep on the job...?"
     k ""
 
-# game/scripts/kali_events.rpy:14505
+# game/scripts/kali_events.rpy:14503
 translate pt_br talkkaliwork_fe2ab04a:
 
     # nid "I can't control it... I'm always sleepy..."
     nid ""
 
-# game/scripts/kali_events.rpy:14506
+# game/scripts/kali_events.rpy:14504
 translate pt_br talkkaliwork_726b5e1f:
 
     # k "Great..."
     k ""
 
-# game/scripts/kali_events.rpy:14507
+# game/scripts/kali_events.rpy:14505
 translate pt_br talkkaliwork_3e952247:
 
     # nid "It's pretty slow around here... so... you don't need to worry about me..."
     nid ""
 
-# game/scripts/kali_events.rpy:14508
+# game/scripts/kali_events.rpy:14506
 translate pt_br talkkaliwork_0db754f9:
 
     # k "Don't you cook the pizzas though? How can you work like that..."
     k ""
 
-# game/scripts/kali_events.rpy:14510
+# game/scripts/kali_events.rpy:14508
 translate pt_br talkkaliwork_f4861ac5:
 
     # nid "...It's just frozen shit anyway... the stove takes care of everything else..."
     nid ""
 
-# game/scripts/kali_events.rpy:14511
+# game/scripts/kali_events.rpy:14509
 translate pt_br talkkaliwork_9bbab684:
 
     # k "Nnngh... this place is going to burn down with me in it..."
     k ""
 
-# game/scripts/kali_events.rpy:14512
+# game/scripts/kali_events.rpy:14510
 translate pt_br talkkaliwork_9cab6d2f:
 
     # k "Where's the manager, can I speak to him?"
     k ""
 
-# game/scripts/kali_events.rpy:14513
+# game/scripts/kali_events.rpy:14511
 translate pt_br talkkaliwork_8e88f8b0:
 
     # nid "The manager is... uh... where is he..."
     nid ""
 
-# game/scripts/kali_events.rpy:14514
+# game/scripts/kali_events.rpy:14512
 translate pt_br talkkaliwork_146bbd75:
 
     # nid "Oh, that's right... he told me to train you..."
     nid ""
 
-# game/scripts/kali_events.rpy:14515
+# game/scripts/kali_events.rpy:14513
 translate pt_br talkkaliwork_77901f74:
 
     # k "*sigh*... alright, what do I have to do..."
     k ""
 
-# game/scripts/kali_events.rpy:14516
+# game/scripts/kali_events.rpy:14514
 translate pt_br talkkaliwork_e676315c:
 
     # nid "Do you... know how to drive a... car?"
     nid ""
 
-# game/scripts/kali_events.rpy:14517
+# game/scripts/kali_events.rpy:14515
 translate pt_br talkkaliwork_a302aea6:
 
     # k "Yes..."
     k ""
 
-# game/scripts/kali_events.rpy:14518
+# game/scripts/kali_events.rpy:14516
 translate pt_br talkkaliwork_9db14ae5:
 
     # nid "I guess that's it... wow, that was an easy bonus..."
     nid ""
 
-# game/scripts/kali_events.rpy:14519
+# game/scripts/kali_events.rpy:14517
 translate pt_br talkkaliwork_9b3fbd08:
 
     # nid "He wants you to finish a delivery though... before you start..."
     nid ""
 
-# game/scripts/kali_events.rpy:14520
+# game/scripts/kali_events.rpy:14518
 translate pt_br talkkaliwork_3e841376:
 
     # k "Okay, I can do that."
     k ""
 
-# game/scripts/kali_events.rpy:14521
+# game/scripts/kali_events.rpy:14519
 translate pt_br talkkaliwork_a085913f:
 
     # nid "The keys are in the back room..."
     nid ""
 
-# game/scripts/kali_events.rpy:14522
+# game/scripts/kali_events.rpy:14520
 translate pt_br talkkaliwork_8b8667e3:
 
     # nid "Don't steal the car... okay?"
     nid ""
 
-# game/scripts/kali_events.rpy:14524
+# game/scripts/kali_events.rpy:14522
 translate pt_br talkkaliwork_a92193fc:
 
     # k "I guess I have to do some work... sorry for dragging you out here to make you wait."
     k ""
 
-# game/scripts/kali_events.rpy:14525
+# game/scripts/kali_events.rpy:14523
 translate pt_br talkkaliwork_6c878e4c:
 
     # c "No problem at all. I'll join you on your first delivery, if that's allowed..."
     c ""
 
-# game/scripts/kali_events.rpy:14527
+# game/scripts/kali_events.rpy:14525
 translate pt_br talkkaliwork_3b59fec2:
 
     # nid "*snore*..."
     nid ""
 
-# game/scripts/kali_events.rpy:14528
+# game/scripts/kali_events.rpy:14526
 translate pt_br talkkaliwork_af6f8956:
 
     # k "I don't think she'll care, heh..."
     k ""
 
-# game/scripts/kali_events.rpy:14530
+# game/scripts/kali_events.rpy:14528
 translate pt_br talkkaliwork_81235e28:
 
     # k "Okay, yeah... that would be cool. I wouldn't be as bored at least..."
     k ""
 
-# game/scripts/kali_events.rpy:14532
+# game/scripts/kali_events.rpy:14530
 translate pt_br talkkaliwork_848a4072:
 
     # "You and Kali wait for the first delivery order to come. Nidra was right, this place is a bit slow..."
     ""
 
-# game/scripts/kali_events.rpy:14533
+# game/scripts/kali_events.rpy:14531
 translate pt_br talkkaliwork_dd4c5964:
 
     # "After waiting for what feels like 30 minutes, the phone finally rings. It's an order for two large pepperoni pizzas."
     ""
 
-# game/scripts/kali_events.rpy:14534
+# game/scripts/kali_events.rpy:14532
 translate pt_br talkkaliwork_aff8a077:
 
     # "Once Nidra has baked the order, you and Kali drive to the address. She completes the delivery on time and you return to Papa Rons..."
     ""
 
-# game/scripts/kali_events.rpy:14536
+# game/scripts/kali_events.rpy:14534
 translate pt_br talkkaliwork_fb409ad4:
 
     # k "Okay, we did it."
     k ""
 
-# game/scripts/kali_events.rpy:14537
+# game/scripts/kali_events.rpy:14535
 translate pt_br talkkaliwork_0aa2afc9:
 
     # nid "Egh... huh? Oh... nice..."
     nid ""
 
-# game/scripts/kali_events.rpy:14538
+# game/scripts/kali_events.rpy:14536
 translate pt_br talkkaliwork_082895c5:
 
     # k "So, that's it?"
     k ""
 
-# game/scripts/kali_events.rpy:14539
+# game/scripts/kali_events.rpy:14537
 translate pt_br talkkaliwork_683971af:
 
     # nid "Were there... any complications...?"
     nid ""
 
-# game/scripts/kali_events.rpy:14540
+# game/scripts/kali_events.rpy:14538
 translate pt_br talkkaliwork_0d4d630a:
 
     # k "Nope."
     k ""
 
-# game/scripts/kali_events.rpy:14541
+# game/scripts/kali_events.rpy:14539
 translate pt_br talkkaliwork_c6f6cdb6:
 
     # nid "Grats... you got the job... you can start this afternoon."
     nid ""
 
-# game/scripts/kali_events.rpy:14542
+# game/scripts/kali_events.rpy:14540
 translate pt_br talkkaliwork_1209a9d5:
 
     # k "Finally..."
     k ""
 
-# game/scripts/kali_events.rpy:14543
+# game/scripts/kali_events.rpy:14541
 translate pt_br talkkaliwork_7688e72b:
 
     # k "Alright, let's get out of here [name]. Goodbye Nidra."
     k ""
 
-# game/scripts/kali_events.rpy:14544
+# game/scripts/kali_events.rpy:14542
 translate pt_br talkkaliwork_c8fa16a0:
 
     # k "Or... goodnight...? Whatever."
     k ""
 
-# game/scripts/kali_events.rpy:14545
+# game/scripts/kali_events.rpy:14543
 translate pt_br talkkaliwork_bda6cfef:
 
     # nid "Night..."
     nid ""
 
-# game/scripts/kali_events.rpy:14547
+# game/scripts/kali_events.rpy:14545
 translate pt_br talkkaliwork_54be8fa7_1:
 
     # "...{w}...{w}..."
     ""
 
-# game/scripts/kali_events.rpy:14551
+# game/scripts/kali_events.rpy:14549
 translate pt_br talkkaliwork_a3b03158:
 
     # k "Hey... thanks for joining me, you didn't have to..."
     k ""
 
-# game/scripts/kali_events.rpy:14552
+# game/scripts/kali_events.rpy:14550
 translate pt_br talkkaliwork_289c2a35:
 
     # c "No problem, I had a good time with you."
     c ""
 
-# game/scripts/kali_events.rpy:14553
+# game/scripts/kali_events.rpy:14551
 translate pt_br talkkaliwork_dfba945c:
 
     # k "Thanks..."
     k ""
 
-# game/scripts/kali_events.rpy:14555
+# game/scripts/kali_events.rpy:14553
 translate pt_br talkkaliwork_19dd1f53:
 
     # k "Alright, well uh..."
     k ""
 
-# game/scripts/kali_events.rpy:14556
+# game/scripts/kali_events.rpy:14554
 translate pt_br talkkaliwork_7d1e0c50:
 
     # k "See you around."
     k ""
 
-# game/scripts/kali_events.rpy:14571
+# game/scripts/kali_events.rpy:14569
 translate pt_br kalisexm_8512cd7d:
 
     # k "Missionary? Sounds like fun..."
     k ""
 
-# game/scripts/kali_events.rpy:14573
+# game/scripts/kali_events.rpy:14571
 translate pt_br kalisexm_e28deb44:
 
     # "Kali undresses herself and lays down on the bed. Waiting."
     ""
 
-# game/scripts/kali_events.rpy:14576
+# game/scripts/kali_events.rpy:14574
 translate pt_br kalisexm_8a6a5ed4:
 
     # k "Well [name], are you going to fuck me or not?"
     k ""
 
-# game/scripts/kali_events.rpy:14580
+# game/scripts/kali_events.rpy:14578
 translate pt_br kalisexm_bcfac4f6:
 
     # k "Ohhhh fuck! It's so fucking big."
     k ""
 
-# game/scripts/kali_events.rpy:14581
+# game/scripts/kali_events.rpy:14579
 translate pt_br kalisexm_a5552c7a:
 
     # k "Ahh... yessss. ohh, mmmmmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:14582
+# game/scripts/kali_events.rpy:14580
 translate pt_br kalisexm_032346f5:
 
     # k "Mmmmm. Shit you're good at this [name]."
     k ""
 
-# game/scripts/kali_events.rpy:14583
+# game/scripts/kali_events.rpy:14581
 translate pt_br kalisexm_d8b0314c:
 
     # k "Reallllly good... hahhh..."
     k ""
 
-# game/scripts/kali_events.rpy:14586
+# game/scripts/kali_events.rpy:14584
 translate pt_br kalisexm_f939b082:
 
     # k "Fuck! Yes! Go faster!"
     k ""
 
-# game/scripts/kali_events.rpy:14587
+# game/scripts/kali_events.rpy:14585
 translate pt_br kalisexm_ed79144f:
 
     # k "Ahh! Mmmmm... yes yes!"
     k ""
 
-# game/scripts/kali_events.rpy:14588
+# game/scripts/kali_events.rpy:14586
 translate pt_br kalisexm_f21dd2fa:
 
     # k "Yesss! YESS!"
     k ""
 
-# game/scripts/kali_events.rpy:14589
+# game/scripts/kali_events.rpy:14587
 translate pt_br kalisexm_9ae7b23b:
 
     # k "More! Faster!"
     k ""
 
-# game/scripts/kali_events.rpy:14592
+# game/scripts/kali_events.rpy:14590
 translate pt_br kalisexm_22769ccb:
 
     # k "Fuck yes! Keep going! Fuck my pussy!"
     k ""
 
-# game/scripts/kali_events.rpy:14593
+# game/scripts/kali_events.rpy:14591
 translate pt_br kalisexm_60c704f6:
 
     # k "Don't fucking stop! Yesyesyesyes! FUCK! FUCK!"
     k ""
 
-# game/scripts/kali_events.rpy:14596
+# game/scripts/kali_events.rpy:14594
 translate pt_br kalisexm_6a423224:
 
     # k "I'M FUCKING CUMMING! FUUUUUUUUUCK!!!"
     k ""
 
-# game/scripts/kali_events.rpy:14597
+# game/scripts/kali_events.rpy:14595
 translate pt_br kalisexm_ccf273a7:
 
     # k "OHHHHHHHHHH! FUCK YES! AHH!"
     k ""
 
-# game/scripts/kali_events.rpy:14600
+# game/scripts/kali_events.rpy:14598
 translate pt_br kalisexm_fb296a77:
 
     # k "Fuck! Shit! ohmygod... fuck ...Holy shit you made me cum [name]."
     k ""
 
-# game/scripts/kali_events.rpy:14603
+# game/scripts/kali_events.rpy:14601
 translate pt_br kalisexm_2647110b:
 
     # k "Mmmm... Your cock made my pussy cum. Hahhh... mmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:14604
+# game/scripts/kali_events.rpy:14602
 translate pt_br kalisexm_67ae32ca:
 
     # k "Ahhhh..."
     k ""
 
-# game/scripts/kali_events.rpy:14605
+# game/scripts/kali_events.rpy:14603
 translate pt_br kalisexm_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14606
+# game/scripts/kali_events.rpy:14604
 translate pt_br kalisexm_c52ea169:
 
     # k "Your turn."
     k ""
 
-# game/scripts/kali_events.rpy:14609
+# game/scripts/kali_events.rpy:14607
 translate pt_br kalisexm_9c579d66:
 
     # k "Ohhh fuck. Yes! Yes!"
     k ""
 
-# game/scripts/kali_events.rpy:14610
+# game/scripts/kali_events.rpy:14608
 translate pt_br kalisexm_a1b1d0ff:
 
     # k "Pound me [name]! Fuck my tight pussy!"
     k ""
 
-# game/scripts/kali_events.rpy:14611
+# game/scripts/kali_events.rpy:14609
 translate pt_br kalisexm_6a412b60:
 
     # k "Use my fucking pussy! Use me and fucking cum!"
     k ""
 
-# game/scripts/kali_events.rpy:14614
+# game/scripts/kali_events.rpy:14612
 translate pt_br kalisexm_12bc9ee6:
 
     # k "Cum for me! Cum! Yes!"
     k ""
 
-# game/scripts/kali_events.rpy:14619
+# game/scripts/kali_events.rpy:14617
 translate pt_br kalisexm_287e1234:
 
     # k "Wait! Inside!? But I mi-"
     k ""
 
-# game/scripts/kali_events.rpy:14620
+# game/scripts/kali_events.rpy:14618
 translate pt_br kalisexm_79e0e9d2:
 
     # k "!!!"
     k ""
 
-# game/scripts/kali_events.rpy:14623
+# game/scripts/kali_events.rpy:14621
 translate pt_br kalisexm_1a1ed794:
 
     # k "OHH!!! Fuck you're filling me up!"
     k ""
 
-# game/scripts/kali_events.rpy:14624
+# game/scripts/kali_events.rpy:14622
 translate pt_br kalisexm_ffe1b84f:
 
     # k "Ohhhh... mmmm... oh my god... you came inside..."
     k ""
 
-# game/scripts/kali_events.rpy:14627
+# game/scripts/kali_events.rpy:14625
 translate pt_br kalisexm_81aaee28:
 
     # k "mmm..."
     k ""
 
-# game/scripts/kali_events.rpy:14628
+# game/scripts/kali_events.rpy:14626
 translate pt_br kalisexm_9f8d2045:
 
     # k "I might get pregnant..."
     k ""
 
-# game/scripts/kali_events.rpy:14629
+# game/scripts/kali_events.rpy:14627
 translate pt_br kalisexm_fec4985c:
 
     # k "Heh heh heh... mmm..."
     k ""
 
-# game/scripts/kali_events.rpy:14631
+# game/scripts/kali_events.rpy:14629
 translate pt_br kalisexm_15975616:
 
     # k "Thanks [name], that was amazing..."
     k ""
 
-# game/scripts/kali_events.rpy:14636
+# game/scripts/kali_events.rpy:14634
 translate pt_br kalisexm_ea78399e:
 
     # k "Yes! Fucking cum on me!"
     k ""
 
-# game/scripts/kali_events.rpy:14640
+# game/scripts/kali_events.rpy:14638
 translate pt_br kalisexm_59351dd0:
 
     # k "Do it! Cum! Please cum on me! Yes yes yes!"
     k ""
 
-# game/scripts/kali_events.rpy:14643
+# game/scripts/kali_events.rpy:14641
 translate pt_br kalisexm_925046fc:
 
     # k "Ahh..."
     k ""
 
-# game/scripts/kali_events.rpy:14644
+# game/scripts/kali_events.rpy:14642
 translate pt_br kalisexm_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14645
+# game/scripts/kali_events.rpy:14643
 translate pt_br kalisexm_bc102e1a:
 
     # k "It's all over me..."
     k ""
 
-# game/scripts/kali_events.rpy:14646
+# game/scripts/kali_events.rpy:14644
 translate pt_br kalisexm_48cd5574:
 
     # k "Mmmmm..."
     k ""
 
-# game/scripts/kali_events.rpy:14648
+# game/scripts/kali_events.rpy:14646
 translate pt_br kalisexm_15975616_1:
 
     # k "Thanks [name], that was amazing..."
     k ""
 
-# game/scripts/kali_events.rpy:14653
+# game/scripts/kali_events.rpy:14651
 translate pt_br kalisexm_97a56ee0:
 
     # k "I hope you had fun too heheh."
     k ""
 
-# game/scripts/kali_events.rpy:14654
+# game/scripts/kali_events.rpy:14652
 translate pt_br kalisexm_5e66397d:
 
     # k "Let me know when you want to have some more... 'fun'... I'll be waiting."
     k ""
 
-# game/scripts/kali_events.rpy:14660
+# game/scripts/kali_events.rpy:14658
 translate pt_br kalibeach_38aa64ab:
 
     # "You and Kali drive to the beach..."
     ""
 
-# game/scripts/kali_events.rpy:14662
+# game/scripts/kali_events.rpy:14660
 translate pt_br kalibeach_05f51636:
 
     # k "Thanks for coming with me, [name]."
     k ""
 
-# game/scripts/kali_events.rpy:14664
+# game/scripts/kali_events.rpy:14662
 translate pt_br kalibeach_778f1c08:
 
     # k "Pretty cool place, not many people at this time... and it's not too far from the hotel."
     k ""
 
-# game/scripts/kali_events.rpy:14666
+# game/scripts/kali_events.rpy:14664
 translate pt_br kalibeach_9e90b6f2:
 
     # k "Hey... can you put some sunscreen on me? I would do it myself, but... I can't reach my back..."
     k ""
 
-# game/scripts/kali_events.rpy:14667
+# game/scripts/kali_events.rpy:14665
 translate pt_br kalibeach_db073fff:
 
     # c "Yeah, no problem."
     c ""
 
-# game/scripts/kali_events.rpy:14668
+# game/scripts/kali_events.rpy:14666
 translate pt_br kalibeach_3dabfd2d:
 
     # k "Cool..."
     k ""
 
-# game/scripts/kali_events.rpy:14670
+# game/scripts/kali_events.rpy:14668
 translate pt_br kalibeach_31c7682f:
 
     # k "Don't get any ideas..."
     k ""
 
-# game/scripts/kali_events.rpy:14672
+# game/scripts/kali_events.rpy:14670
 translate pt_br kalibeach_925046fc:
 
     # k "Ahh..."
     k ""
 
-# game/scripts/kali_events.rpy:14674
+# game/scripts/kali_events.rpy:14672
 translate pt_br kalibeach_bc0e4658:
 
     # k "H-Hey... where are your eyes?"
     k ""
 
-# game/scripts/kali_events.rpy:14676
+# game/scripts/kali_events.rpy:14674
 translate pt_br kalibeach_b96b494c:
 
     # c "Where do you want them to be?"
     c ""
 
-# game/scripts/kali_events.rpy:14678
+# game/scripts/kali_events.rpy:14676
 translate pt_br kalibeach_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14680
+# game/scripts/kali_events.rpy:14678
 translate pt_br kalibeach_9b317648:
 
     # k "Nnnn..."
     k ""
 
-# game/scripts/kali_events.rpy:14682
+# game/scripts/kali_events.rpy:14680
 translate pt_br kalibeach_45a63d8b:
 
     # k "Aah! H-Hey..."
     k ""
 
-# game/scripts/kali_events.rpy:14684
+# game/scripts/kali_events.rpy:14682
 translate pt_br kalibeach_557ec6fe:
 
     # k "I thought I told you not to do anything weird..."
     k ""
 
-# game/scripts/kali_events.rpy:14686
+# game/scripts/kali_events.rpy:14684
 translate pt_br kalibeach_fc54e19e:
 
     # k "Nnnnh..."
     k ""
 
-# game/scripts/kali_events.rpy:14688
+# game/scripts/kali_events.rpy:14686
 translate pt_br kalibeach_d218500b:
 
     # c "I'm just rubbing sunscreen on you..."
     c ""
 
-# game/scripts/kali_events.rpy:14690
+# game/scripts/kali_events.rpy:14688
 translate pt_br kalibeach_2d209eab:
 
     # k "O-Okay, well... that's fine then..."
     k ""
 
-# game/scripts/kali_events.rpy:14692
+# game/scripts/kali_events.rpy:14690
 translate pt_br kalibeach_7e64899c:
 
     # k "Ah..."
     k ""
 
-# game/scripts/kali_events.rpy:14697
+# game/scripts/kali_events.rpy:14695
 translate pt_br kalibeach_6d4350bc:
 
     # k "Hey, what are you..."
     k ""
 
-# game/scripts/kali_events.rpy:14699
+# game/scripts/kali_events.rpy:14697
 translate pt_br kalibeach_f7974904:
 
     # k "AH! Hey!!" with ssshake
     k "" with ssshake
 
-# game/scripts/kali_events.rpy:14700
+# game/scripts/kali_events.rpy:14698
 translate pt_br kalibeach_7d7e6aaa:
 
     # k "Give it back, asshole!"
     k ""
 
-# game/scripts/kali_events.rpy:14701
+# game/scripts/kali_events.rpy:14699
 translate pt_br kalibeach_72048b4b:
 
     # c "Heheh, you don't want tan lines, do you?"
     c ""
 
-# game/scripts/kali_events.rpy:14703
+# game/scripts/kali_events.rpy:14701
 translate pt_br kalibeach_b836e199:
 
     # k "Nnnngh... are there more people here? Fuck, fuck..."
     k ""
 
-# game/scripts/kali_events.rpy:14704
+# game/scripts/kali_events.rpy:14702
 translate pt_br kalibeach_d726b2f9:
 
     # c "You're overthinking it..."
     c ""
 
-# game/scripts/kali_events.rpy:14706
+# game/scripts/kali_events.rpy:14704
 translate pt_br kalibeach_29cc84de:
 
     # k "Give it back! Now! There are people here!"
     k ""
 
-# game/scripts/kali_events.rpy:14707
+# game/scripts/kali_events.rpy:14705
 translate pt_br kalibeach_eec7ed34:
 
     # c "Alright..."
     c ""
 
-# game/scripts/kali_events.rpy:14709
+# game/scripts/kali_events.rpy:14707
 translate pt_br kalibeach_df0d2017:
 
     # k "Hmph... don't do that in public... stupid..."
     k ""
 
-# game/scripts/kali_events.rpy:14711
+# game/scripts/kali_events.rpy:14709
 translate pt_br kalibeach_311fd05c:
 
     # k "I'll do the rest..."
     k ""
 
-# game/scripts/kali_events.rpy:14713
+# game/scripts/kali_events.rpy:14711
 translate pt_br kalibeach_63087b23:
 
     # c "Your skin is very soft."
     c ""
 
-# game/scripts/kali_events.rpy:14715
+# game/scripts/kali_events.rpy:14713
 translate pt_br kalibeach_ba3a0808:
 
     # k "I-It's just the sun screen..."
     k ""
 
-# game/scripts/kali_events.rpy:14717
+# game/scripts/kali_events.rpy:14715
 translate pt_br kalibeach_5667294f:
 
     # k "You can stop now... I'll do the rest..."
     k ""
 
-# game/scripts/kali_events.rpy:14720
+# game/scripts/kali_events.rpy:14718
 translate pt_br kalibeach_3ee014e4:
 
     # k "That was fun... thanks for the help."
     k ""
 
-# game/scripts/kali_events.rpy:14721
+# game/scripts/kali_events.rpy:14719
 translate pt_br kalibeach_c027eb52:
 
     # k "At least I won't be all red now..."
     k ""
 
-# game/scripts/kali_events.rpy:14722
+# game/scripts/kali_events.rpy:14720
 translate pt_br kalibeach_a2971e90:
 
     # c "Happy to help."
     c ""
 
-# game/scripts/kali_events.rpy:14724
+# game/scripts/kali_events.rpy:14722
 translate pt_br kalibeach_4fbdc6dd:
 
     # k "The Capitol, where I'm from, isn't near any beaches..."
     k ""
 
-# game/scripts/kali_events.rpy:14725
+# game/scripts/kali_events.rpy:14723
 translate pt_br kalibeach_9a92e081:
 
     # c "Is this your first time at one?"
     c ""
 
-# game/scripts/kali_events.rpy:14726
+# game/scripts/kali_events.rpy:14724
 translate pt_br kalibeach_990a62d8:
 
     # k "No, of course not... but this is probably one of the nicest. So long as it doesn't get too crowded..."
     k ""
 
-# game/scripts/kali_events.rpy:14727
+# game/scripts/kali_events.rpy:14725
 translate pt_br kalibeach_f254ba4e:
 
     # c "Not a fan of crowds, huh?"
     c ""
 
-# game/scripts/kali_events.rpy:14728
+# game/scripts/kali_events.rpy:14726
 translate pt_br kalibeach_af68632c:
 
     # k "Not at all, I'm so introverted..."
     k ""
 
-# game/scripts/kali_events.rpy:14729
+# game/scripts/kali_events.rpy:14727
 translate pt_br kalibeach_de30088b:
 
     # k "You know, I would probably be a celebrity if I wasn't so introverted."
     k ""
 
-# game/scripts/kali_events.rpy:14730
+# game/scripts/kali_events.rpy:14728
 translate pt_br kalibeach_4e24c2ca:
 
     # c "Really?"
     c ""
 
-# game/scripts/kali_events.rpy:14731
+# game/scripts/kali_events.rpy:14729
 translate pt_br kalibeach_54785ffe:
 
     # k "Yeah, my father's... well, he's extremely rich. He's always doing something, always bringing new advancements to the world in some way or another."
     k ""
 
-# game/scripts/kali_events.rpy:14732
+# game/scripts/kali_events.rpy:14730
 translate pt_br kalibeach_26c13299:
 
     # c "How does he do that?"
     c ""
 
-# game/scripts/kali_events.rpy:14733
+# game/scripts/kali_events.rpy:14731
 translate pt_br kalibeach_a365ec54:
 
     # k "He buys businesses and invests heavily in them. Everything from coffee shops to the space industry, there's no limits honestly."
     k ""
 
-# game/scripts/kali_events.rpy:14734
+# game/scripts/kali_events.rpy:14732
 translate pt_br kalibeach_0ed6fae6:
 
     # c "It sounds like he almost has a monopoly."
     c ""
 
-# game/scripts/kali_events.rpy:14735
+# game/scripts/kali_events.rpy:14733
 translate pt_br kalibeach_d36f5eb6:
 
     # k "He basically does..."
     k ""
 
-# game/scripts/kali_events.rpy:14736
+# game/scripts/kali_events.rpy:14734
 translate pt_br kalibeach_c4077d7f:
 
     # k "I've always tried my best to stay away from the press, I'm not really interested in what he does anyway, so it's not like I would know anything."
     k ""
 
-# game/scripts/kali_events.rpy:14737
+# game/scripts/kali_events.rpy:14735
 translate pt_br kalibeach_bd5a7cc9:
 
     # k "But the world has pretty much forgotten about me."
     k ""
 
-# game/scripts/kali_events.rpy:14738
+# game/scripts/kali_events.rpy:14736
 translate pt_br kalibeach_8fb37d3a:
 
     # c "Is that a good thing?"
     c ""
 
-# game/scripts/kali_events.rpy:14740
+# game/scripts/kali_events.rpy:14738
 translate pt_br kalibeach_e4334b75:
 
     # k "Well... I couldn't handle fame. Could you imagine people coming up to us here? While we're trying to enjoy ourselves?"
     k ""
 
-# game/scripts/kali_events.rpy:14741
+# game/scripts/kali_events.rpy:14739
 translate pt_br kalibeach_965b3ffb:
 
     # k "I'm glad I'm never harassed by the press like my father..."
     k ""
 
-# game/scripts/kali_events.rpy:14742
+# game/scripts/kali_events.rpy:14740
 translate pt_br kalibeach_8b830d3d:
 
     # k "But... I would like to do something with my life eventually..."
     k ""
 
-# game/scripts/kali_events.rpy:14744
+# game/scripts/kali_events.rpy:14742
 translate pt_br kalibeach_5775a58e:
 
     # k "And no, not a maid, sheesh..."
     k ""
 
-# game/scripts/kali_events.rpy:14745
+# game/scripts/kali_events.rpy:14743
 translate pt_br kalibeach_9a604e2d:
 
     # c "I didn't say anything."
     c ""
 
-# game/scripts/kali_events.rpy:14746
+# game/scripts/kali_events.rpy:14744
 translate pt_br kalibeach_7a2bb9e3:
 
     # k "You were thinking it though."
     k ""
 
-# game/scripts/kali_events.rpy:14747
+# game/scripts/kali_events.rpy:14745
 translate pt_br kalibeach_2ba2993d:
 
     # k "But, whatever... I don't even care about doing it now anyway. I'm finally on my own, and I can afford it too, so I'm comfortable..."
     k ""
 
-# game/scripts/kali_events.rpy:14748
+# game/scripts/kali_events.rpy:14746
 translate pt_br kalibeach_a50a2857:
 
     # k "Maybe I'll... join a league tourney or something..."
     k ""
 
-# game/scripts/kali_events.rpy:14750
+# game/scripts/kali_events.rpy:14748
 translate pt_br kalibeach_5dc198e9:
 
     # k "Or... maybe you can take me to a fancy restaurant sometime. I have to use that dress again..."
     k ""
 
-# game/scripts/kali_events.rpy:14751
+# game/scripts/kali_events.rpy:14749
 translate pt_br kalibeach_5ba83a62:
 
     # c "What do you like to eat?"
     c ""
 
-# game/scripts/kali_events.rpy:14753
+# game/scripts/kali_events.rpy:14751
 translate pt_br kalibeach_558559ed:
 
     # k "Umm... Pizza... uh, what else..."
     k ""
 
-# game/scripts/kali_events.rpy:14754
+# game/scripts/kali_events.rpy:14752
 translate pt_br kalibeach_3aa65172:
 
     # c "Pizza isn't that fancy."
     c ""
 
-# game/scripts/kali_events.rpy:14755
+# game/scripts/kali_events.rpy:14753
 translate pt_br kalibeach_9966901b:
 
     # k "I know, I know... I just love it, give me a second..."
     k ""
 
-# game/scripts/kali_events.rpy:14757
+# game/scripts/kali_events.rpy:14755
 translate pt_br kalibeach_1245007d:
 
     # k "I love oriental food. I order it when I'm too lazy to bake pizza."
     k ""
 
-# game/scripts/kali_events.rpy:14758
+# game/scripts/kali_events.rpy:14756
 translate pt_br kalibeach_f3b5ce28:
 
     # k "Expect a lot of deliveries, by the way..."
     k ""
 
-# game/scripts/kali_events.rpy:14759
+# game/scripts/kali_events.rpy:14757
 translate pt_br kalibeach_b7f4b180:
 
     # c "Noted."
     c ""
 
-# game/scripts/kali_events.rpy:14760
+# game/scripts/kali_events.rpy:14758
 translate pt_br kalibeach_85ceb222:
 
     # k "Good."
     k ""
 
-# game/scripts/kali_events.rpy:14762
+# game/scripts/kali_events.rpy:14760
 translate pt_br kalibeach_94ca2354:
 
     # k "Alright, let's get out of here... I'm getting hungry."
     k ""
 
-# game/scripts/kali_events.rpy:14763
+# game/scripts/kali_events.rpy:14761
 translate pt_br kalibeach_0b36f178:
 
     # k "It was fun... I had a good time..."
     k ""
 
-# game/scripts/kali_events.rpy:14764
+# game/scripts/kali_events.rpy:14762
 translate pt_br kalibeach_d4226afb:
 
     # c "I did too."
     c ""
 
-# game/scripts/kali_events.rpy:14766
+# game/scripts/kali_events.rpy:14764
 translate pt_br kalibeach_c9eb6c05:
 
     # "You drive Kali home..."
     ""
 
-# game/scripts/kali_events.rpy:14779
+# game/scripts/kali_events.rpy:14777
 translate pt_br kalibroken_6b13a90f:
 
     # k "God damn it!"
     k ""
 
-# game/scripts/kali_events.rpy:14780
+# game/scripts/kali_events.rpy:14778
 translate pt_br kalibroken_499819e9:
 
     # c "What happened?"
     c ""
 
-# game/scripts/kali_events.rpy:14783
+# game/scripts/kali_events.rpy:14781
 translate pt_br kalibroken_af852bff:
 
     # k "My hard drive broke..."
     k ""
 
-# game/scripts/kali_events.rpy:14786
+# game/scripts/kali_events.rpy:14784
 translate pt_br kalibroken_803bc722:
 
     # k "It was expensive too! And I can't afford to buy another one..."
     k ""
 
-# game/scripts/kali_events.rpy:14789
+# game/scripts/kali_events.rpy:14787
 translate pt_br kalibroken_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14792
+# game/scripts/kali_events.rpy:14790
 translate pt_br kalibroken_f43581d0:
 
     # k "Could... you order one for me?"
     k ""
 
-# game/scripts/kali_events.rpy:14793
+# game/scripts/kali_events.rpy:14791
 translate pt_br kalibroken_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/kali_events.rpy:14796
+# game/scripts/kali_events.rpy:14794
 translate pt_br kalibroken_da234d9e:
 
     # k "Really? Thanks! A replacement should cost $20."
     k ""
 
-# game/scripts/kali_events.rpy:14805
+# game/scripts/kali_events.rpy:14803
 translate pt_br kalihasspeakers_21b352b2:
 
     # k "Is it here yet?"
     k ""
 
-# game/scripts/kali_events.rpy:14808
+# game/scripts/kali_events.rpy:14806
 translate pt_br kalihasspeakers_3a29767d:
 
     # c "Yeah, it's right here."
     c ""
 
-# game/scripts/kali_events.rpy:14811
+# game/scripts/kali_events.rpy:14809
 translate pt_br kalihasspeakers_f9a8cbf4:
 
     # k "Sweet!"
     k ""
 
-# game/scripts/kali_events.rpy:14814
+# game/scripts/kali_events.rpy:14812
 translate pt_br kalihasspeakers_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14817
+# game/scripts/kali_events.rpy:14815
 translate pt_br kalihasspeakers_9d6dfa78:
 
     # k "...So can I have it?"
     k ""
 
-# game/scripts/kali_events.rpy:14822
+# game/scripts/kali_events.rpy:14820
 translate pt_br kalihasspeakers_28e4c1ba:
 
     # k "A favor!?"
     k ""
 
-# game/scripts/kali_events.rpy:14823
+# game/scripts/kali_events.rpy:14821
 translate pt_br kalihasspeakers_96d37064:
 
     # c "I had to spend a lot of money to get this for you."
     c ""
 
-# game/scripts/kali_events.rpy:14826
+# game/scripts/kali_events.rpy:14824
 translate pt_br kalihasspeakers_f4c0ac6a:
 
     # k "I..."
     k ""
 
-# game/scripts/kali_events.rpy:14829
+# game/scripts/kali_events.rpy:14827
 translate pt_br kalihasspeakers_8bc30f61:
 
     # k "...Urgh, I guess you're right. What do you want?"
     k ""
 
-# game/scripts/kali_events.rpy:14830
+# game/scripts/kali_events.rpy:14828
 translate pt_br kalihasspeakers_f63412b2:
 
     # c "Take your top off."
     c ""
 
-# game/scripts/kali_events.rpy:14833
+# game/scripts/kali_events.rpy:14831
 translate pt_br kalihasspeakers_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/kali_events.rpy:14834
+# game/scripts/kali_events.rpy:14832
 translate pt_br kalihasspeakers_e14f5b70:
 
     # c "Or I could just return it and get my money back..."
     c ""
 
-# game/scripts/kali_events.rpy:14837
+# game/scripts/kali_events.rpy:14835
 translate pt_br kalihasspeakers_82091822_1:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14838
+# game/scripts/kali_events.rpy:14836
 translate pt_br kalihasspeakers_33000106:
 
     # k "Fuck. You."
     k ""
 
-# game/scripts/kali_events.rpy:14841
+# game/scripts/kali_events.rpy:14839
 translate pt_br kalihasspeakers_9cbd0123:
 
     # "Kali takes her shirt off and throws it to the side..."
     ""
 
-# game/scripts/kali_events.rpy:14844
+# game/scripts/kali_events.rpy:14842
 translate pt_br kalihasspeakers_82091822_2:
 
     # k "..."
     k ""
 
-# game/scripts/kali_events.rpy:14847
+# game/scripts/kali_events.rpy:14845
 translate pt_br kalihasspeakers_968ceaad:
 
     # c "A bra?"
     c ""
 
-# game/scripts/kali_events.rpy:14848
+# game/scripts/kali_events.rpy:14846
 translate pt_br kalihasspeakers_8b9c985f:
 
     # k "Yes! A bra! Are you happy now!?"
     k ""
 
-# game/scripts/kali_events.rpy:14849
+# game/scripts/kali_events.rpy:14847
 translate pt_br kalihasspeakers_014d0311:
 
     # c "Very."
     c ""
 
-# game/scripts/kali_events.rpy:14850
+# game/scripts/kali_events.rpy:14848
 translate pt_br kalihasspeakers_b0bba41c:
 
     # k "Whatever... thanks for the hard drive, I guess..."
     k ""
 
-# game/scripts/kali_events.rpy:14854
+# game/scripts/kali_events.rpy:14852
 translate pt_br kalihasspeakers_6fff6447:
 
     # k "Sweet! Thanks so much [name]!"
@@ -45538,391 +45526,391 @@ translate pt_br strings:
     old "{color=#f0f020}Show us some skin.{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:6682
+    # game/scripts/kali_events.rpy:6680
     old "Right."
     new ""
 
-    # game/scripts/kali_events.rpy:6682
+    # game/scripts/kali_events.rpy:6680
     old "I'm not sure what to do..."
     new ""
 
-    # game/scripts/kali_events.rpy:6682
+    # game/scripts/kali_events.rpy:6680
     old "...Or we could use it to our own benefit."
     new ""
 
-    # game/scripts/kali_events.rpy:6817
+    # game/scripts/kali_events.rpy:6815
     old "Sounds dangerous."
     new ""
 
-    # game/scripts/kali_events.rpy:6817
+    # game/scripts/kali_events.rpy:6815
     old "Sounds like you'll be rich."
     new ""
 
-    # game/scripts/kali_events.rpy:6817
+    # game/scripts/kali_events.rpy:6815
     old "Sounds like a great idea."
     new ""
 
-    # game/scripts/kali_events.rpy:6982
+    # game/scripts/kali_events.rpy:6980
     old "Fuck her pussy"
     new ""
 
-    # game/scripts/kali_events.rpy:6982
+    # game/scripts/kali_events.rpy:6980
     old "Fuck her ass"
     new ""
 
-    # game/scripts/kali_events.rpy:7183
+    # game/scripts/kali_events.rpy:7181
     old "Fulfill her fantasy"
     new ""
 
-    # game/scripts/kali_events.rpy:7183
+    # game/scripts/kali_events.rpy:7181
     old "Ignore her fantasy"
     new ""
 
-    # game/scripts/kali_events.rpy:7332
+    # game/scripts/kali_events.rpy:7330
     old "Follow Kali"
     new ""
 
-    # game/scripts/kali_events.rpy:7332
+    # game/scripts/kali_events.rpy:7330
     old "Refuse"
     new ""
 
-    # game/scripts/kali_events.rpy:7419
+    # game/scripts/kali_events.rpy:7417
     old "Small Pizza ($5)"
     new ""
 
-    # game/scripts/kali_events.rpy:7419
+    # game/scripts/kali_events.rpy:7417
     old "Large Pizza ($10)"
     new ""
 
-    # game/scripts/kali_events.rpy:7419
+    # game/scripts/kali_events.rpy:7417
     old "Large Pizza Meal with Drink ($15)"
     new ""
 
-    # game/scripts/kali_events.rpy:7694
+    # game/scripts/kali_events.rpy:7692
     old "Talk to her"
     new ""
 
-    # game/scripts/kali_events.rpy:7694
+    # game/scripts/kali_events.rpy:7692
     old "Ignore her"
     new ""
 
-    # game/scripts/kali_events.rpy:7716
+    # game/scripts/kali_events.rpy:7714
     old "I haven't seen many Half elves."
     new ""
 
-    # game/scripts/kali_events.rpy:7716
+    # game/scripts/kali_events.rpy:7714
     old "How did you get in your current situation?"
     new ""
 
-    # game/scripts/kali_events.rpy:7716
+    # game/scripts/kali_events.rpy:7714
     old "That's all."
     new ""
 
-    # game/scripts/kali_events.rpy:7817
+    # game/scripts/kali_events.rpy:7815
     old "Let's have some fun"
     new ""
 
-    # game/scripts/kali_events.rpy:7822
+    # game/scripts/kali_events.rpy:7820
     old "Utility Room Sex"
     new ""
 
-    # game/scripts/kali_events.rpy:7822
+    # game/scripts/kali_events.rpy:7820
     old "Threesome"
     new ""
 
-    # game/scripts/kali_events.rpy:7932
+    # game/scripts/kali_events.rpy:7930
     old "I want a threesome."
     new ""
 
-    # game/scripts/kali_events.rpy:7932
+    # game/scripts/kali_events.rpy:7930
     old "Kali's right."
     new ""
 
-    # game/scripts/kali_events.rpy:8082
+    # game/scripts/kali_events.rpy:8080
     old "Sure (This will continue Lucy's story)"
     new ""
 
-    # game/scripts/kali_events.rpy:8082
+    # game/scripts/kali_events.rpy:8080
     old "No (This will stop Lucy's story)"
     new ""
 
-    # game/scripts/kali_events.rpy:8316
+    # game/scripts/kali_events.rpy:8314
     old "Not my preference."
     new ""
 
-    # game/scripts/kali_events.rpy:8551
+    # game/scripts/kali_events.rpy:8549
     old "No..."
     new ""
 
-    # game/scripts/kali_events.rpy:8779
+    # game/scripts/kali_events.rpy:8777
     old "Massage Thighs"
     new ""
 
-    # game/scripts/kali_events.rpy:8779
+    # game/scripts/kali_events.rpy:8777
     old "Massage Hips"
     new ""
 
-    # game/scripts/kali_events.rpy:8779
+    # game/scripts/kali_events.rpy:8777
     old "Massage Breasts"
     new ""
 
-    # game/scripts/kali_events.rpy:8779
+    # game/scripts/kali_events.rpy:8777
     old "Massage Back"
     new ""
 
-    # game/scripts/kali_events.rpy:8940
+    # game/scripts/kali_events.rpy:8938
     old "{color=#8C8C8C}Bunny Suit{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:8940
+    # game/scripts/kali_events.rpy:8938
     old "Bunny Suit"
     new ""
 
-    # game/scripts/kali_events.rpy:9758
+    # game/scripts/kali_events.rpy:9756
     old "We fuck like rabbits"
     new ""
 
-    # game/scripts/kali_events.rpy:9758
+    # game/scripts/kali_events.rpy:9756
     old "Mind your business"
     new ""
 
-    # game/scripts/kali_events.rpy:9931
+    # game/scripts/kali_events.rpy:9929
     old "Yeah, I guess."
     new ""
 
-    # game/scripts/kali_events.rpy:9931
+    # game/scripts/kali_events.rpy:9929
     old "I'm alright, how about you?"
     new ""
 
-    # game/scripts/kali_events.rpy:9945
+    # game/scripts/kali_events.rpy:9943
     old "Not really"
     new ""
 
-    # game/scripts/kali_events.rpy:9945
+    # game/scripts/kali_events.rpy:9943
     old "Actually, I do"
     new ""
 
-    # game/scripts/kali_events.rpy:9961
+    # game/scripts/kali_events.rpy:9959
     old "Some day"
     new ""
 
-    # game/scripts/kali_events.rpy:9961
+    # game/scripts/kali_events.rpy:9959
     old "I prefer to be free"
     new ""
 
-    # game/scripts/kali_events.rpy:9961
+    # game/scripts/kali_events.rpy:9959
     old "If it's you..."
     new ""
 
-    # game/scripts/kali_events.rpy:9976
+    # game/scripts/kali_events.rpy:9974
     old "A girl"
     new ""
 
-    # game/scripts/kali_events.rpy:9976
+    # game/scripts/kali_events.rpy:9974
     old "A boy"
     new ""
 
-    # game/scripts/kali_events.rpy:9976
+    # game/scripts/kali_events.rpy:9974
     old "How about both?"
     new ""
 
-    # game/scripts/kali_events.rpy:9976
+    # game/scripts/kali_events.rpy:9974
     old "I'd rather not have children."
     new ""
 
-    # game/scripts/kali_events.rpy:10088
+    # game/scripts/kali_events.rpy:10086
     old "I love you too"
     new ""
 
-    # game/scripts/kali_events.rpy:10406
+    # game/scripts/kali_events.rpy:10404
     old "She lives at my hotel."
     new ""
 
-    # game/scripts/kali_events.rpy:10406
+    # game/scripts/kali_events.rpy:10404
     old "At a strip club."
     new ""
 
-    # game/scripts/kali_events.rpy:10420
+    # game/scripts/kali_events.rpy:10418
     old "She's a good friend."
     new ""
 
-    # game/scripts/kali_events.rpy:10420
+    # game/scripts/kali_events.rpy:10418
     old "She's my girlfriend."
     new ""
 
-    # game/scripts/kali_events.rpy:10449
+    # game/scripts/kali_events.rpy:10447
     old "Very obviously..."
     new ""
 
-    # game/scripts/kali_events.rpy:10449
+    # game/scripts/kali_events.rpy:10447
     old "I didn't realize."
     new ""
 
-    # game/scripts/kali_events.rpy:10537
+    # game/scripts/kali_events.rpy:10535
     old "Fuck her. (Begin Lucy's story)"
     new ""
 
-    # game/scripts/kali_events.rpy:10537
+    # game/scripts/kali_events.rpy:10535
     old "I {b}REALLY{/b} need to pee. (End Lucy's story)"
     new ""
 
-    # game/scripts/kali_events.rpy:10817
+    # game/scripts/kali_events.rpy:10815
     old "That sounds like fun"
     new ""
 
-    # game/scripts/kali_events.rpy:11054
+    # game/scripts/kali_events.rpy:11052
     old "Let's relax."
     new ""
 
-    # game/scripts/kali_events.rpy:11054
+    # game/scripts/kali_events.rpy:11052
     old "Let's do something lewd..."
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "{color=#8C8C8C}Breast Play{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "Breast Play"
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "{color=#8C8C8C}Nude Yoga{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "Nude Yoga"
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "{color=#8C8C8C}Cunnilingus{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "{color=#8C8C8C}Bend Over{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:11072
+    # game/scripts/kali_events.rpy:11070
     old "Bend Over"
     new ""
 
-    # game/scripts/kali_events.rpy:11310
+    # game/scripts/kali_events.rpy:11308
     old "Flash your breasts"
     new ""
 
-    # game/scripts/kali_events.rpy:11310
+    # game/scripts/kali_events.rpy:11308
     old "Strip down to your underwear"
     new ""
 
-    # game/scripts/kali_events.rpy:11310
+    # game/scripts/kali_events.rpy:11308
     old "I want you to eat with me completely naked"
     new ""
 
-    # game/scripts/kali_events.rpy:11365
+    # game/scripts/kali_events.rpy:11363
     old "Would $10 change your mind?"
     new ""
 
-    # game/scripts/kali_events.rpy:11365
+    # game/scripts/kali_events.rpy:11363
     old "Fine, nevermind."
     new ""
 
-    # game/scripts/kali_events.rpy:11827
+    # game/scripts/kali_events.rpy:11825
     old "Pull out"
     new ""
 
-    # game/scripts/kali_events.rpy:12025
+    # game/scripts/kali_events.rpy:12023
     old "Let her go"
     new ""
 
-    # game/scripts/kali_events.rpy:12025
+    # game/scripts/kali_events.rpy:12023
     old "Hold her down"
     new ""
 
-    # game/scripts/kali_events.rpy:12513
+    # game/scripts/kali_events.rpy:12511
     old "Maybe I could help you find a job?"
     new ""
 
-    # game/scripts/kali_events.rpy:12513
+    # game/scripts/kali_events.rpy:12511
     old "You could work here. We need a cook."
     new ""
 
-    # game/scripts/kali_events.rpy:12513
+    # game/scripts/kali_events.rpy:12511
     old "I'll give you some money if you show me your tits."
     new ""
 
-    # game/scripts/kali_events.rpy:12615
+    # game/scripts/kali_events.rpy:12613
     old "It's not what I was expecting."
     new ""
 
-    # game/scripts/kali_events.rpy:12615
+    # game/scripts/kali_events.rpy:12613
     old "I'm going to turn it into something amazing."
     new ""
 
-    # game/scripts/kali_events.rpy:13112
+    # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> Bunny Suit <{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:13112
+    # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> College Uniform <{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:13112
+    # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}College Uniform{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:13112
+    # game/scripts/kali_events.rpy:13110
     old "College Uniform"
     new ""
 
-    # game/scripts/kali_events.rpy:13112
+    # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> Casual Clothes <{/color}"
     new ""
 
-    # game/scripts/kali_events.rpy:13494
+    # game/scripts/kali_events.rpy:13492
     old "Thighjob"
     new ""
 
-    # game/scripts/kali_events.rpy:13627
+    # game/scripts/kali_events.rpy:13625
     old "Maid Outfit"
     new ""
 
-    # game/scripts/kali_events.rpy:14361
+    # game/scripts/kali_events.rpy:14359
     old "Open it"
     new ""
 
-    # game/scripts/kali_events.rpy:14361
+    # game/scripts/kali_events.rpy:14359
     old "Bring it to Kali"
     new ""
 
-    # game/scripts/kali_events.rpy:14467
+    # game/scripts/kali_events.rpy:14465
     old "That's amazing!"
     new ""
 
-    # game/scripts/kali_events.rpy:14467
+    # game/scripts/kali_events.rpy:14465
     old "At least you get a discount on pizza."
     new ""
 
-    # game/scripts/kali_events.rpy:14615
+    # game/scripts/kali_events.rpy:14613
     old "Inside"
     new ""
 
-    # game/scripts/kali_events.rpy:14615
+    # game/scripts/kali_events.rpy:14613
     old "Outside"
     new ""
 
-    # game/scripts/kali_events.rpy:14694
+    # game/scripts/kali_events.rpy:14692
     old "Undo her bra"
     new ""
 
-    # game/scripts/kali_events.rpy:14694
+    # game/scripts/kali_events.rpy:14692
     old "Compliment her"
     new ""
 
-    # game/scripts/kali_events.rpy:14818
+    # game/scripts/kali_events.rpy:14816
     old "You owe me a favor first"
     new ""
 
-    # game/scripts/kali_events.rpy:14818
+    # game/scripts/kali_events.rpy:14816
     old "Here it is"
     new ""
 

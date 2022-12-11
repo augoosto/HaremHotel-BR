@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/maria_events.rpy:9
 translate pt_br mar_gamble_405586bd:
@@ -9421,9 +9421,9 @@ translate pt_br mar_hangout_05_3e3a9f87:
     m ""
 
 # game/scripts/maria_events.rpy:2612
-translate pt_br mar_hangout_05_de0b89de:
+translate pt_br mar_hangout_05_2c6b0d8c:
 
-    # m "Oh good, because I love giving head! Seriously, I could probably suck a cock all day... even while we're watching movies together, I'd like you like a lollipop..."
+    # m "Oh good, because I love giving head! Seriously, I could probably suck a cock all day... even while we're watching movies together, I'd lick you like a lollipop..."
     m ""
 
 # game/scripts/maria_events.rpy:2614
@@ -28314,10021 +28314,10025 @@ translate pt_br marcun_repeat_d88cc606:
     # m "Thanks baby... Hahah..."
     m ""
 
-# game/scripts/maria_events.rpy:7676
+# game/scripts/maria_events.rpy:7677
 translate pt_br marcam_a09a5118:
 
     # "Before you knock on the door, you hear Maria talking... It sounds like someone is in her room."
     ""
 
-# game/scripts/maria_events.rpy:7677
+# game/scripts/maria_events.rpy:7678
 translate pt_br marcam_c59d2d11:
 
     # "You peek through the door..."
     ""
 
-# game/scripts/maria_events.rpy:7679
+# game/scripts/maria_events.rpy:7680
 translate pt_br marcam_6c599453:
 
     # c "{i}(Is Maria watching porn...?){/i}"
     c ""
 
-# game/scripts/maria_events.rpy:7680
+# game/scripts/maria_events.rpy:7681
 translate pt_br marcam_41308e8a:
 
     # m "Ahhh...! Nnnh! Yes, yes! Harder!"
     m ""
 
-# game/scripts/maria_events.rpy:7681
+# game/scripts/maria_events.rpy:7682
 translate pt_br marcam_938be34e:
 
     # tts "$5 Donation! \n'You're so hot.'"
     tts ""
 
-# game/scripts/maria_events.rpy:7682
+# game/scripts/maria_events.rpy:7683
 translate pt_br marcam_d6a95dc7:
 
     # m "Mmmmmn... Oh! Thanks for the tip Big_Man7! Ahh...!"
     m ""
 
-# game/scripts/maria_events.rpy:7684
+# game/scripts/maria_events.rpy:7685
 translate pt_br marcam_1731b2c3:
 
     # tts "$1 Donation! \n'Squirt for us!!!'"
     tts ""
 
-# game/scripts/maria_events.rpy:7685
+# game/scripts/maria_events.rpy:7686
 translate pt_br marcam_fac90c53:
 
     # m "Heheh, you want to see me squirt, kool92? We haven't reached the goal yet..."
     m ""
 
-# game/scripts/maria_events.rpy:7686
+# game/scripts/maria_events.rpy:7687
 translate pt_br marcam_589a614c:
 
     # c "{i}(Oh... she's streaming...){/i}"
     c ""
 
-# game/scripts/maria_events.rpy:7688
+# game/scripts/maria_events.rpy:7689
 translate pt_br marcam_5e9a4b1e:
 
     # m "Ahhh...! Ahhh...! I haven't had sex in so long, fuck I'm so horny...!"
     m ""
 
-# game/scripts/maria_events.rpy:7689
+# game/scripts/maria_events.rpy:7690
 translate pt_br marcam_3a58996e:
 
     # tts "$2 Donation! \n'I see you bought a new pink dildo, please tell me how much so I can pretend I bought it for you <3'"
     tts ""
 
-# game/scripts/maria_events.rpy:7690
+# game/scripts/maria_events.rpy:7691
 translate pt_br marcam_aec5dfa0:
 
     # m "Mmmn! Oh, thanks for the tip!"
     m ""
 
-# game/scripts/maria_events.rpy:7692
+# game/scripts/maria_events.rpy:7693
 translate pt_br marcam_ca5ef382:
 
     # m "Mmmmm... fuck, I'm getting close, guys... should I use another toy to finish myself off?"
     m ""
 
-# game/scripts/maria_events.rpy:7693
+# game/scripts/maria_events.rpy:7694
 translate pt_br marcam_d69a5919:
 
     # m "Hm... Yeah? Okay... I'll set up a poll."
     m ""
 
-# game/scripts/maria_events.rpy:7695
+# game/scripts/maria_events.rpy:7696
 translate pt_br marcam_3560aab1:
 
     # m "7 Inch dildo... Vibrator... Massager..."
     m ""
 
-# game/scripts/maria_events.rpy:7696
+# game/scripts/maria_events.rpy:7697
 translate pt_br marcam_3309d9e2:
 
     # m "Okay, go vote everyone!"
     m ""
 
-# game/scripts/maria_events.rpy:7697
+# game/scripts/maria_events.rpy:7698
 translate pt_br marcam_8439d27f:
 
     # m "Hm..."
     m ""
 
-# game/scripts/maria_events.rpy:7698
+# game/scripts/maria_events.rpy:7699
 translate pt_br marcam_07bf2690:
 
     # tts "$5 Donation! \n'$50 if u show ur face'"
     tts ""
 
-# game/scripts/maria_events.rpy:7699
+# game/scripts/maria_events.rpy:7700
 translate pt_br marcam_35f4ea91:
 
     # m "Oh, sorry! No, I don't share my face, I have a personal life after all."
     m ""
 
-# game/scripts/maria_events.rpy:7700
+# game/scripts/maria_events.rpy:7701
 translate pt_br marcam_e328dba7:
 
     # m "Oh! A big tip, thank you so much!"
     m ""
 
-# game/scripts/maria_events.rpy:7701
+# game/scripts/maria_events.rpy:7702
 translate pt_br marcam_db727a83:
 
     # tts "$20 Donation! \n'will u marry me'"
     tts ""
 
-# game/scripts/maria_events.rpy:7702
+# game/scripts/maria_events.rpy:7703
 translate pt_br marcam_2bac1af7:
 
     # m "Aww, that's uh... sweet! Thank you."
     m ""
 
-# game/scripts/maria_events.rpy:7703
+# game/scripts/maria_events.rpy:7704
 translate pt_br marcam_299b01c4:
 
     # m "Ohh, vibrator is winning! Keep voting everyone!"
     m ""
 
-# game/scripts/maria_events.rpy:7704
+# game/scripts/maria_events.rpy:7705
 translate pt_br marcam_6ea5cd20:
 
     # tts "$20 Donation! \n'last donation scammed? answer question pls. i've been a tier 3 sub for 13 months."
     tts ""
 
-# game/scripts/maria_events.rpy:7705
+# game/scripts/maria_events.rpy:7706
 translate pt_br marcam_d5dca547:
 
     # m "*ehem*... I have a boyfriend, thanks..."
     m ""
 
-# game/scripts/maria_events.rpy:7706
+# game/scripts/maria_events.rpy:7707
 translate pt_br marcam_976b7c18:
 
     # tts "$20 Donation! \n'fucking bitch, i'm ur top donator and this is how u treat me? unsubbed."
     tts ""
 
-# game/scripts/maria_events.rpy:7707
+# game/scripts/maria_events.rpy:7708
 translate pt_br marcam_c9062bfa:
 
     # m "Anyway..."
     m ""
 
-# game/scripts/maria_events.rpy:7708
+# game/scripts/maria_events.rpy:7709
 translate pt_br marcam_009430d9:
 
     # tts "$50 Donation! \n'jk lol <3 hope this proves my love for u'"
     tts ""
 
-# game/scripts/maria_events.rpy:7709
+# game/scripts/maria_events.rpy:7710
 translate pt_br marcam_e612037c:
 
     # m "..."
     m ""
 
-# game/scripts/maria_events.rpy:7710
+# game/scripts/maria_events.rpy:7711
 translate pt_br marcam_79f859bb:
 
     # tts "$2 Donation! \n'Dono is a huge simp lmao'"
     tts ""
 
-# game/scripts/maria_events.rpy:7711
+# game/scripts/maria_events.rpy:7712
 translate pt_br marcam_3758ffb0:
 
     # tts "$20 Donation! \n'nothing mediocre about that pussy B)'"
     tts ""
 
-# game/scripts/maria_events.rpy:7712
+# game/scripts/maria_events.rpy:7713
 translate pt_br marcam_23c1bcfc:
 
     # tts "$100 Donation! \n'LOL this guy thinks $50 is a lot!'"
     tts ""
 
-# game/scripts/maria_events.rpy:7713
+# game/scripts/maria_events.rpy:7714
 translate pt_br marcam_6a645935:
 
     # m "Alright! Thanks for the tips everyone, voting has ended, massager wins!"
     m ""
 
-# game/scripts/maria_events.rpy:7716
+# game/scripts/maria_events.rpy:7717
 translate pt_br marcam_de5f486d:
 
     # m "Nnnh!"
     m ""
 
-# game/scripts/maria_events.rpy:7717
+# game/scripts/maria_events.rpy:7718
 translate pt_br marcam_73b11cf0:
 
     # m "Aaaahh... fuck, mmmmh..."
     m ""
 
-# game/scripts/maria_events.rpy:7718
+# game/scripts/maria_events.rpy:7719
 translate pt_br marcam_6f17e3e4:
 
     # m "Favorite fetish? Heheh... Mmmn...! I love sucking big juicy cock... kissing, licking... swallowing. Mmmmh...!"
     m ""
 
-# game/scripts/maria_events.rpy:7721
+# game/scripts/maria_events.rpy:7722
 translate pt_br marcam_c4ea5172:
 
     # m "Hahhh...! Mmmn! Egg vibes next? Maybe once we hit our next goal, haha... Mmmn!"
     m ""
 
-# game/scripts/maria_events.rpy:7722
+# game/scripts/maria_events.rpy:7723
 translate pt_br marcam_f4569805:
 
     # tts "$1 Donation! \n'feet pics?'"
     tts ""
 
-# game/scripts/maria_events.rpy:7723
+# game/scripts/maria_events.rpy:7724
 translate pt_br marcam_562e3141:
 
     # m "Links to all my stuff are in the description!"
     m ""
 
-# game/scripts/maria_events.rpy:7726
+# game/scripts/maria_events.rpy:7727
 translate pt_br marcam_39fe3971:
 
     # m "Mmmh, come on everyone! I'm so close...!"
     m ""
 
-# game/scripts/maria_events.rpy:7727
+# game/scripts/maria_events.rpy:7728
 translate pt_br marcam_e9d3831c:
 
     # m "Oh! We hit the goal! Good job guys!"
     m ""
 
-# game/scripts/maria_events.rpy:7729
+# game/scripts/maria_events.rpy:7730
 translate pt_br marcam_9dfa9b7c:
 
     # m "Okay, time for the egg vibes..."
     m ""
 
-# game/scripts/maria_events.rpy:7730
+# game/scripts/maria_events.rpy:7731
 translate pt_br marcam_414caf34:
 
     # tts "$10 Donation! \n'Put them in your ass'"
     tts ""
 
-# game/scripts/maria_events.rpy:7732
+# game/scripts/maria_events.rpy:7733
 translate pt_br marcam_ab503632:
 
     # m "Ohhh, my ass? Thank you for the tip!"
     m ""
 
-# game/scripts/maria_events.rpy:7734
+# game/scripts/maria_events.rpy:7735
 translate pt_br marcam_99242793:
 
     # m "Nngh...!"
     m ""
 
-# game/scripts/maria_events.rpy:7736
+# game/scripts/maria_events.rpy:7737
 translate pt_br marcam_9819d3f2:
 
     # m "It's in!"
     m ""
 
-# game/scripts/maria_events.rpy:7737
+# game/scripts/maria_events.rpy:7738
 translate pt_br marcam_7b8f4201:
 
     # tts "$5 Donation! \n'1 more! 1 more!'"
     tts ""
 
-# game/scripts/maria_events.rpy:7738
+# game/scripts/maria_events.rpy:7739
 translate pt_br marcam_cc0d0c4a:
 
     # m "Heheh! Okay..."
     m ""
 
-# game/scripts/maria_events.rpy:7740
+# game/scripts/maria_events.rpy:7741
 translate pt_br marcam_4540d1ad:
 
     # m "Mmmn..."
     m ""
 
-# game/scripts/maria_events.rpy:7742
+# game/scripts/maria_events.rpy:7743
 translate pt_br marcam_6da1e086:
 
     # m "Ahh... Remember everyone, they're powered by your tips, so if you want to make me cum, you know what to do!"
     m ""
 
-# game/scripts/maria_events.rpy:7743
+# game/scripts/maria_events.rpy:7744
 translate pt_br marcam_46e63367:
 
     # tts "$2 Donation! \n$10 Donation! \n$3 Donation!"
     tts ""
 
-# game/scripts/maria_events.rpy:7745
+# game/scripts/maria_events.rpy:7746
 translate pt_br marcam_ca53ed54:
 
     # m "Ahhh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7746
+# game/scripts/maria_events.rpy:7747
 translate pt_br marcam_cd1e035f:
 
     # m "Mmmmn... thank you...!"
     m ""
 
-# game/scripts/maria_events.rpy:7747
+# game/scripts/maria_events.rpy:7748
 translate pt_br marcam_06af9d20:
 
     # m "Mmmn, wow... over 1,000 of you... thanks for joining! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:7748
+# game/scripts/maria_events.rpy:7749
 translate pt_br marcam_1c85aceb:
 
     # m "Ahhh....! Fuck! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:7749
+# game/scripts/maria_events.rpy:7750
 translate pt_br marcam_48d3f1a6:
 
     # tts "$20 Donation! \n'Put the dildo up your ass.'"
     tts ""
 
-# game/scripts/maria_events.rpy:7750
+# game/scripts/maria_events.rpy:7751
 translate pt_br marcam_effbb0c4:
 
     # m "Nnh... what? My ass? I don't think it'll fit..."
     m ""
 
-# game/scripts/maria_events.rpy:7751
+# game/scripts/maria_events.rpy:7752
 translate pt_br marcam_37e7d72a:
 
     # m "$50!?"
     m ""
 
-# game/scripts/maria_events.rpy:7752
+# game/scripts/maria_events.rpy:7753
 translate pt_br marcam_6d1d2d28:
 
     # m "Hmm..."
     m ""
 
-# game/scripts/maria_events.rpy:7753
+# game/scripts/maria_events.rpy:7754
 translate pt_br marcam_46f745da:
 
     # m "I guess... I could try it..."
     m ""
 
-# game/scripts/maria_events.rpy:7755
+# game/scripts/maria_events.rpy:7756
 translate pt_br marcam_8bc8c9ea:
 
     # m "This is way too fucking big for my ass..."
     m ""
 
-# game/scripts/maria_events.rpy:7756
+# game/scripts/maria_events.rpy:7757
 translate pt_br marcam_699df0c1:
 
     # m "I guess I better lube it first..."
     m ""
 
-# game/scripts/maria_events.rpy:7758
+# game/scripts/maria_events.rpy:7759
 translate pt_br marcam_ffc679c0:
 
     # m "Llllnn..."
     m ""
 
-# game/scripts/maria_events.rpy:7760
+# game/scripts/maria_events.rpy:7761
 translate pt_br marcam_f42939cb:
 
     # m "Nngh... Mmmph..."
     m ""
 
-# game/scripts/maria_events.rpy:7762
+# game/scripts/maria_events.rpy:7763
 translate pt_br marcam_a718394d:
 
     # m "Llngh... Nghk!"
     m ""
 
-# game/scripts/maria_events.rpy:7764
+# game/scripts/maria_events.rpy:7765
 translate pt_br marcam_ce16ccf2:
 
     # m "Mmmmn..."
     m ""
 
-# game/scripts/maria_events.rpy:7766
+# game/scripts/maria_events.rpy:7767
 translate pt_br marcam_17629928:
 
     # m "Nnnghk...!"
     m ""
 
-# game/scripts/maria_events.rpy:7768
+# game/scripts/maria_events.rpy:7769
 translate pt_br marcam_25d89dca:
 
     # m "NNGHK!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7769
+# game/scripts/maria_events.rpy:7770
 translate pt_br marcam_fd3af17c:
 
     # m "MMGH!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7771
+# game/scripts/maria_events.rpy:7772
 translate pt_br marcam_17631024:
 
     # m "Ghaagh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7772
+# game/scripts/maria_events.rpy:7773
 translate pt_br marcam_bfe2e6e2:
 
     # m "Fuck, it barely fit in my mouth... Nnngh... It should be ready now..."
     m ""
 
-# game/scripts/maria_events.rpy:7774
+# game/scripts/maria_events.rpy:7775
 translate pt_br marcam_847adc89:
 
     # m "Mmmn... ready everyone?"
     m ""
 
-# game/scripts/maria_events.rpy:7776
+# game/scripts/maria_events.rpy:7777
 translate pt_br marcam_1b841bc9:
 
     # tts "$5 Donation! \n$13 Donation! \n$5 Donation!"
     tts ""
 
-# game/scripts/maria_events.rpy:7778
+# game/scripts/maria_events.rpy:7779
 translate pt_br marcam_6d20a027:
 
     # m "Nnnn...! Fuck, it's in!"
     m ""
 
-# game/scripts/maria_events.rpy:7780
+# game/scripts/maria_events.rpy:7781
 translate pt_br marcam_8897be45:
 
     # m "Aaah! It's so fucking big..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7782
+# game/scripts/maria_events.rpy:7783
 translate pt_br marcam_d41908d4:
 
     # m "Ohhh...! Fuuuuck!"
     m ""
 
-# game/scripts/maria_events.rpy:7783
+# game/scripts/maria_events.rpy:7784
 translate pt_br marcam_b743ec85:
 
     # tts "$10 Donation!"
     tts ""
 
-# game/scripts/maria_events.rpy:7785
+# game/scripts/maria_events.rpy:7786
 translate pt_br marcam_631a67f7:
 
     # m "Agh...! Fuck, that's deep!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7787
+# game/scripts/maria_events.rpy:7788
 translate pt_br marcam_4ec2337c:
 
     # m "Hnnnghk! I think.... Hahhh! I'm gonna... Hmmmngh!"
     m ""
 
-# game/scripts/maria_events.rpy:7788
+# game/scripts/maria_events.rpy:7789
 translate pt_br marcam_e24d15b7:
 
     # m "HNNN! C-CUM...! I'M GONNA...!"
     m ""
 
-# game/scripts/maria_events.rpy:7790
+# game/scripts/maria_events.rpy:7791
 translate pt_br marcam_47b88558:
 
     # m "CUUUUUUUUUUM!!!!!!!!" with sshake
     m "" with sshake
 
-# game/scripts/maria_events.rpy:7791
+# game/scripts/maria_events.rpy:7792
 translate pt_br marcam_4237746d:
 
     # m "HAH! AAAAAAAH!" with sshake
     m "" with sshake
 
-# game/scripts/maria_events.rpy:7794
+# game/scripts/maria_events.rpy:7795
 translate pt_br marcam_e90c7c16:
 
     # tts "$50 Donation! \n'hot'"
     tts ""
 
-# game/scripts/maria_events.rpy:7796
+# game/scripts/maria_events.rpy:7797
 translate pt_br marcam_0463f94c:
 
     # m "Ah... hah... ahh... Guys, I came..."
     m ""
 
-# game/scripts/maria_events.rpy:7798
+# game/scripts/maria_events.rpy:7799
 translate pt_br marcam_e151df11:
 
     # m "Oh my gosh! So many tips! Thank you so much guys!!! You guys are the best!"
     m ""
 
-# game/scripts/maria_events.rpy:7799
+# game/scripts/maria_events.rpy:7800
 translate pt_br marcam_5958988d:
 
     # m "Well, everyone, I hope you enjoyed the show haha. But I gotta go... my um... boyfriend needs me, see you guys later! *click*"
     m ""
 
-# game/scripts/maria_events.rpy:7801
+# game/scripts/maria_events.rpy:7802
 translate pt_br marcam_1eb40713:
 
     # c "{i}(Wow, that was interesting...){/i}"
     c ""
 
-# game/scripts/maria_events.rpy:7804
+# game/scripts/maria_events.rpy:7805
 translate pt_br marcam_1a805542:
 
     # m "[name]..."
     m ""
 
-# game/scripts/maria_events.rpy:7805
+# game/scripts/maria_events.rpy:7806
 translate pt_br marcam_dad58dfb:
 
     # c "Huh- What?"
     c ""
 
-# game/scripts/maria_events.rpy:7806
+# game/scripts/maria_events.rpy:7807
 translate pt_br marcam_40004c37:
 
     # m "Don't play dumb... I knew you were peeping on me..."
     m ""
 
-# game/scripts/maria_events.rpy:7809
+# game/scripts/maria_events.rpy:7810
 translate pt_br marcam_b8cc38e0:
 
     # m "Did you enjoy the show?"
     m ""
 
-# game/scripts/maria_events.rpy:7810
+# game/scripts/maria_events.rpy:7811
 translate pt_br marcam_d3a7e5b3:
 
     # c "Yeah, I didn't know you streamed yourself."
     c ""
 
-# game/scripts/maria_events.rpy:7811
+# game/scripts/maria_events.rpy:7812
 translate pt_br marcam_72eb993b:
 
     # m "Yep... looks like I've been caught..."
     m ""
 
-# game/scripts/maria_events.rpy:7812
+# game/scripts/maria_events.rpy:7813
 translate pt_br marcam_d73cf78f:
 
     # m "This isn't really something I want others knowing about. I don't want to be labeled a slut by everyone here..."
     m ""
 
-# game/scripts/maria_events.rpy:7815
+# game/scripts/maria_events.rpy:7816
 translate pt_br marcam_bbe01b7d:
 
     # m "But a girl's gotta make money somehow ya know?"
     m ""
 
-# game/scripts/maria_events.rpy:7818
+# game/scripts/maria_events.rpy:7819
 translate pt_br marcam_af915c6c:
 
     # m "Tip please!"
     m ""
 
-# game/scripts/maria_events.rpy:7819
+# game/scripts/maria_events.rpy:7820
 translate pt_br marcam_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/maria_events.rpy:7820
+# game/scripts/maria_events.rpy:7821
 translate pt_br marcam_84d6c691:
 
     # m "You're the only one who got to see my face, it's only fair you pay for special treatment..."
     m ""
 
-# game/scripts/maria_events.rpy:7825
+# game/scripts/maria_events.rpy:7826
 translate pt_br marcam_966b3b18:
 
     # m "Hahaha I'm just kidding!"
     m ""
 
-# game/scripts/maria_events.rpy:7828
+# game/scripts/maria_events.rpy:7829
 translate pt_br marcam_23d0348f:
 
     # m "But $50? You must have {i}really{/i} enjoyed the show..."
     m ""
 
-# game/scripts/maria_events.rpy:7830
+# game/scripts/maria_events.rpy:7831
 translate pt_br marcam_3d5fd06d:
 
     # m "Either way, you'd always get free shows..."
     m ""
 
-# game/scripts/maria_events.rpy:7834
+# game/scripts/maria_events.rpy:7835
 translate pt_br marcam_966b3b18_1:
 
     # m "Hahaha I'm just kidding!"
     m ""
 
-# game/scripts/maria_events.rpy:7837
+# game/scripts/maria_events.rpy:7838
 translate pt_br marcam_b384c837:
 
     # m "You'll always get free shows..."
     m ""
 
-# game/scripts/maria_events.rpy:7841
+# game/scripts/maria_events.rpy:7842
 translate pt_br marcam_ea13c89e:
 
     # m "Jeez, calm down... It was just a joke..."
     m ""
 
-# game/scripts/maria_events.rpy:7846
+# game/scripts/maria_events.rpy:7847
 translate pt_br marcam_36aefd39:
 
     # m "Besides, you're the reason I came. An audience always helps, especially if he's spying on me..."
     m ""
 
-# game/scripts/maria_events.rpy:7847
+# game/scripts/maria_events.rpy:7848
 translate pt_br marcam_76d7d1f8:
 
     # m "That, and I make more money in a day than you do in a week, hahaha."
     m ""
 
-# game/scripts/maria_events.rpy:7850
+# game/scripts/maria_events.rpy:7851
 translate pt_br marcam_3be9fc28:
 
     # m "Haha, see you around [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:7861
+# game/scripts/maria_events.rpy:7862
 translate pt_br marashlesbo_30220e63:
 
     # "You hear voices coming from inside. You decide to peek through the door."
     ""
 
-# game/scripts/maria_events.rpy:7863
+# game/scripts/maria_events.rpy:7864
 translate pt_br marashlesbo_6e991a5e:
 
     # m "Ashley, you know I'm worried about you... You scared me when you pulled a knife on me... What's gotten into you?"
     m ""
 
-# game/scripts/maria_events.rpy:7865
+# game/scripts/maria_events.rpy:7866
 translate pt_br marashlesbo_fff54ff7:
 
     # a "I don't know... He's the best person I've ever met, and he took my virginity so we can't be separated!"
     a ""
 
-# game/scripts/maria_events.rpy:7866
+# game/scripts/maria_events.rpy:7867
 translate pt_br marashlesbo_93882564:
 
     # m "Ashley, you know he's had sex with other girls..."
     m ""
 
-# game/scripts/maria_events.rpy:7868
+# game/scripts/maria_events.rpy:7869
 translate pt_br marashlesbo_03323a8f:
 
     # a "I don't care! He's the only one meant for me!"
     a ""
 
-# game/scripts/maria_events.rpy:7869
+# game/scripts/maria_events.rpy:7870
 translate pt_br marashlesbo_6868a07f:
 
     # m "Well that doesn't mean you're the only one for him..."
     m ""
 
-# game/scripts/maria_events.rpy:7871
+# game/scripts/maria_events.rpy:7872
 translate pt_br marashlesbo_046884db:
 
     # a "But..."
     a ""
 
-# game/scripts/maria_events.rpy:7872
+# game/scripts/maria_events.rpy:7873
 translate pt_br marashlesbo_68aa747d:
 
     # m "Ashley, I'm sure he likes you a lot, but guys like him aren't supposed to be tied down to one girl..."
     m ""
 
-# game/scripts/maria_events.rpy:7874
+# game/scripts/maria_events.rpy:7875
 translate pt_br marashlesbo_dbd58c77:
 
     # m "What if we shared him...?"
     m ""
 
-# game/scripts/maria_events.rpy:7875
+# game/scripts/maria_events.rpy:7876
 translate pt_br marashlesbo_29f4fa1a:
 
     # a "What? I don't think 3 people can get married together..."
     a ""
 
-# game/scripts/maria_events.rpy:7876
+# game/scripts/maria_events.rpy:7877
 translate pt_br marashlesbo_d31b4300:
 
     # m "That's not what I mean Ash haha! I mean... maybe we could share him... sexually...."
     m ""
 
-# game/scripts/maria_events.rpy:7877
+# game/scripts/maria_events.rpy:7878
 translate pt_br marashlesbo_94513324:
 
     # a "Ohhh..."
     a ""
 
-# game/scripts/maria_events.rpy:7878
+# game/scripts/maria_events.rpy:7879
 translate pt_br marashlesbo_4a93112c:
 
     # a "I guess I don't mind that... if he doesn't mind..."
     a ""
 
-# game/scripts/maria_events.rpy:7880
+# game/scripts/maria_events.rpy:7881
 translate pt_br marashlesbo_07503b3b:
 
     # a "As long as you don't plan on marrying him!"
     a ""
 
-# game/scripts/maria_events.rpy:7881
+# game/scripts/maria_events.rpy:7882
 translate pt_br marashlesbo_15107bf0:
 
     # m "No... of course not!"
     m ""
 
-# game/scripts/maria_events.rpy:7883
+# game/scripts/maria_events.rpy:7884
 translate pt_br marashlesbo_80a9d581:
 
     # a "Then... I guess I don't mind if you suck his cock every once in a while..."
     a ""
 
-# game/scripts/maria_events.rpy:7884
+# game/scripts/maria_events.rpy:7885
 translate pt_br marashlesbo_ebcb2bb4:
 
     # m "There ya go! It's not a big deal after all..."
     m ""
 
-# game/scripts/maria_events.rpy:7886
+# game/scripts/maria_events.rpy:7887
 translate pt_br marashlesbo_d04eb104:
 
     # m "!"
     m ""
 
-# game/scripts/maria_events.rpy:7888
+# game/scripts/maria_events.rpy:7889
 translate pt_br marashlesbo_fa5a3fd9:
 
     # a "What is it?"
     a ""
 
-# game/scripts/maria_events.rpy:7889
+# game/scripts/maria_events.rpy:7890
 translate pt_br marashlesbo_ea9a406c:
 
     # m "Um... nothing..."
     m ""
 
-# game/scripts/maria_events.rpy:7890
+# game/scripts/maria_events.rpy:7891
 translate pt_br marashlesbo_465301f5:
 
     # m "But, Ashley... I think [name] would also enjoy it if we got a little more... close..."
     m ""
 
-# game/scripts/maria_events.rpy:7891
+# game/scripts/maria_events.rpy:7892
 translate pt_br marashlesbo_5f97d41e:
 
     # a "Huh? What do you mean?"
     a ""
 
-# game/scripts/maria_events.rpy:7893
+# game/scripts/maria_events.rpy:7894
 translate pt_br marashlesbo_9098eedf:
 
     # m "This..."
     m ""
 
-# game/scripts/maria_events.rpy:7895
+# game/scripts/maria_events.rpy:7896
 translate pt_br marashlesbo_117616ce:
 
     # a "Mmm!!!"
     a ""
 
-# game/scripts/maria_events.rpy:7899
+# game/scripts/maria_events.rpy:7900
 translate pt_br marashlesbo_d9512dd7:
 
     # a "Mmmmm..."
     a ""
 
-# game/scripts/maria_events.rpy:7901
+# game/scripts/maria_events.rpy:7902
 translate pt_br marashlesbo_6332c773:
 
     # a "Ahhhh..."
     a ""
 
-# game/scripts/maria_events.rpy:7905
+# game/scripts/maria_events.rpy:7906
 translate pt_br marashlesbo_9430ab62:
 
     # m "Get on the bed Ashley..."
     m ""
 
-# game/scripts/maria_events.rpy:7906
+# game/scripts/maria_events.rpy:7907
 translate pt_br marashlesbo_e59009a7:
 
     # a "O-okay..."
     a ""
 
-# game/scripts/maria_events.rpy:7908
+# game/scripts/maria_events.rpy:7909
 translate pt_br marashlesbo_a305ae46:
 
     # a "Now what...?"
     a ""
 
-# game/scripts/maria_events.rpy:7909
+# game/scripts/maria_events.rpy:7910
 translate pt_br marashlesbo_cfebc80b:
 
     # m "Get naked, obviously."
     m ""
 
-# game/scripts/maria_events.rpy:7910
+# game/scripts/maria_events.rpy:7911
 translate pt_br marashlesbo_9e3ef0db:
 
     # a "Um... okay..."
     a ""
 
-# game/scripts/maria_events.rpy:7912
+# game/scripts/maria_events.rpy:7913
 translate pt_br marashlesbo_e0675ed1:
 
     # a "What happens now...?"
     a ""
 
-# game/scripts/maria_events.rpy:7913
+# game/scripts/maria_events.rpy:7914
 translate pt_br marashlesbo_b3e8392b:
 
     # m "Lean back, Ash."
     m ""
 
-# game/scripts/maria_events.rpy:7914
+# game/scripts/maria_events.rpy:7915
 translate pt_br marashlesbo_71955456:
 
     # a "Okay..."
     a ""
 
-# game/scripts/maria_events.rpy:7916
+# game/scripts/maria_events.rpy:7917
 translate pt_br marashlesbo_94b473ea:
 
     # a "What are you going to do...?"
     a ""
 
-# game/scripts/maria_events.rpy:7917
+# game/scripts/maria_events.rpy:7918
 translate pt_br marashlesbo_d8353652:
 
     # m "I think you already know Ash..."
     m ""
 
-# game/scripts/maria_events.rpy:7918
+# game/scripts/maria_events.rpy:7919
 translate pt_br marashlesbo_9fe2ab50:
 
     # m "Are you ready?"
     m ""
 
-# game/scripts/maria_events.rpy:7919
+# game/scripts/maria_events.rpy:7920
 translate pt_br marashlesbo_6f316da9:
 
     # a "U-Um... Yeah..."
     a ""
 
-# game/scripts/maria_events.rpy:7921
+# game/scripts/maria_events.rpy:7922
 translate pt_br marashlesbo_3513cb2b:
 
     # a "Ahhh... I've never had another girl... lick my..."
     a ""
 
-# game/scripts/maria_events.rpy:7923
+# game/scripts/maria_events.rpy:7924
 translate pt_br marashlesbo_73658512:
 
     # a "Ahh! ... Mmmm..." with ssshake
     a "" with ssshake
 
-# game/scripts/maria_events.rpy:7924
+# game/scripts/maria_events.rpy:7925
 translate pt_br marashlesbo_41b62df2:
 
     # a "Ahhh! Maria..."
     a ""
 
-# game/scripts/maria_events.rpy:7925
+# game/scripts/maria_events.rpy:7926
 translate pt_br marashlesbo_e9de84b9:
 
     # a "You're really good at this Maria..."
     a ""
 
-# game/scripts/maria_events.rpy:7926
+# game/scripts/maria_events.rpy:7927
 translate pt_br marashlesbo_0d95bcb3:
 
     # m "Mmmhmmm..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7927
+# game/scripts/maria_events.rpy:7928
 translate pt_br marashlesbo_432e1371:
 
     # a "Ah! Maria... Ahh!!" with ssshake
     a "" with ssshake
 
-# game/scripts/maria_events.rpy:7930
+# game/scripts/maria_events.rpy:7931
 translate pt_br marashlesbo_c7bf5210:
 
     # a "Ah! Ahhh! Ahhhhh!" with sshake
     a "" with sshake
 
-# game/scripts/maria_events.rpy:7931
+# game/scripts/maria_events.rpy:7932
 translate pt_br marashlesbo_69b2e7dd:
 
     # a "Ahhhh!! Ahhh!!! AH! I'm going to cum! Mariaaaa!!!" with ssshake
     a "" with ssshake
 
-# game/scripts/maria_events.rpy:7932
+# game/scripts/maria_events.rpy:7933
 translate pt_br marashlesbo_48ae4f36:
 
     # a "AHHH!!" with sshake
     a "" with sshake
 
-# game/scripts/maria_events.rpy:7934
+# game/scripts/maria_events.rpy:7935
 translate pt_br marashlesbo_6a90b550:
 
     # a "AHHHHHHHHHHHHHH!!!!!" with sshake
     a "" with sshake
 
-# game/scripts/maria_events.rpy:7936
+# game/scripts/maria_events.rpy:7937
 translate pt_br marashlesbo_6332c773_1:
 
     # a "Ahhhh..."
     a ""
 
-# game/scripts/maria_events.rpy:7937
+# game/scripts/maria_events.rpy:7938
 translate pt_br marashlesbo_6a8dd5cd:
 
     # a "Ah... Hmmm... Thank you Maria..."
     a ""
 
-# game/scripts/maria_events.rpy:7941
+# game/scripts/maria_events.rpy:7942
 translate pt_br marashlesbo_05fd661d:
 
     # m "Enjoy that?"
     m ""
 
-# game/scripts/maria_events.rpy:7942
+# game/scripts/maria_events.rpy:7943
 translate pt_br marashlesbo_f9acadfe:
 
     # a "Umm... yeah... But what if [name] finds out? I didn't cheat on him, did I?"
     a ""
 
-# game/scripts/maria_events.rpy:7943
+# game/scripts/maria_events.rpy:7944
 translate pt_br marashlesbo_f4339d48:
 
     # m "No of course not! And I think he would like it if he found out. Hehehe..."
     m ""
 
-# game/scripts/maria_events.rpy:7944
+# game/scripts/maria_events.rpy:7945
 translate pt_br marashlesbo_aa56ee99:
 
     # a "Oh... okay."
     a ""
 
-# game/scripts/maria_events.rpy:7946
+# game/scripts/maria_events.rpy:7947
 translate pt_br marashlesbo_4830f892:
 
     # "Ashley exits Maria's room and goes inside her room."
     ""
 
-# game/scripts/maria_events.rpy:7949
+# game/scripts/maria_events.rpy:7950
 translate pt_br marashlesbo_1a805542:
 
     # m "[name]..."
     m ""
 
-# game/scripts/maria_events.rpy:7950
+# game/scripts/maria_events.rpy:7951
 translate pt_br marashlesbo_055c1fdd:
 
     # m "How did you enjoy that?"
     m ""
 
-# game/scripts/maria_events.rpy:7951
+# game/scripts/maria_events.rpy:7952
 translate pt_br marashlesbo_a335fbfa:
 
     # c "That was amazing!"
     c ""
 
-# game/scripts/maria_events.rpy:7952
+# game/scripts/maria_events.rpy:7953
 translate pt_br marashlesbo_cea19c1b:
 
     # m "Hmhm... I'm glad you liked it... Hopefully Ashley isn't as crazy anymore..."
     m ""
 
-# game/scripts/maria_events.rpy:7953
+# game/scripts/maria_events.rpy:7954
 translate pt_br marashlesbo_567bbe25:
 
     # m "And maybe we'll even be able to have some more {i}fun{/i} at some point hahaha."
     m ""
 
-# game/scripts/maria_events.rpy:7954
+# game/scripts/maria_events.rpy:7955
 translate pt_br marashlesbo_d53d895a:
 
     # m "...I think I may actually like girls..."
     m ""
 
-# game/scripts/maria_events.rpy:7955
+# game/scripts/maria_events.rpy:7956
 translate pt_br marashlesbo_331a0f6c:
 
     # m "I mean, I like guys, don't get me wrong, but... That was really fun..."
     m ""
 
-# game/scripts/maria_events.rpy:7958
+# game/scripts/maria_events.rpy:7959
 translate pt_br marashlesbo_792b1bc5:
 
     # m "See you later [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:7969
+# game/scripts/maria_events.rpy:7970
 translate pt_br marlobsucc_54648a26:
 
     # m "Mmmmh~ Oh, hello Ellen."
     m ""
 
-# game/scripts/maria_events.rpy:7970
+# game/scripts/maria_events.rpy:7971
 translate pt_br marlobsucc_351eeb5c:
 
     # e "Enjoying yourself?"
     e ""
 
-# game/scripts/maria_events.rpy:7971
+# game/scripts/maria_events.rpy:7972
 translate pt_br marlobsucc_93cb4239:
 
     # m "Mmhmm... Ahh! Nnnh! It's so big...!"
     m ""
 
-# game/scripts/maria_events.rpy:7973
+# game/scripts/maria_events.rpy:7974
 translate pt_br marlobsucc_8a136cdf:
 
     # e "I know, I remember."
     e ""
 
-# game/scripts/maria_events.rpy:7974
+# game/scripts/maria_events.rpy:7975
 translate pt_br marlobsucc_18c36034:
 
     # m "Ahhh! Mmmh! Fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:7977
+# game/scripts/maria_events.rpy:7978
 translate pt_br marlobsucc_f8ff1578:
 
     # m "Ahhh! Don't stop! Mmh! Good boy, ah!"
     m ""
 
-# game/scripts/maria_events.rpy:7978
+# game/scripts/maria_events.rpy:7979
 translate pt_br marlobsucc_8bd7558e:
 
     # m "MHH! Shit! Fuck, this is so hot!"
     m ""
 
-# game/scripts/maria_events.rpy:7980
+# game/scripts/maria_events.rpy:7981
 translate pt_br marlobsucc_70c84286:
 
     # m "Mmh~! [linoname], yes!"
     m ""
 
-# game/scripts/maria_events.rpy:7982
+# game/scripts/maria_events.rpy:7983
 translate pt_br marlobsucc_80b58556:
 
     # m "Mmh~! [name], yes!"
     m ""
 
-# game/scripts/maria_events.rpy:7984
+# game/scripts/maria_events.rpy:7985
 translate pt_br marlobsucc_c13d290e:
 
     # m "AHH!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7985
+# game/scripts/maria_events.rpy:7986
 translate pt_br marlobsucc_73eec693:
 
     # e "Uh oh, inside? I thought you didn't want to get pregnant?" with ssshake
     e "" with ssshake
 
-# game/scripts/maria_events.rpy:7986
+# game/scripts/maria_events.rpy:7987
 translate pt_br marlobsucc_2ccdb2e7:
 
     # m "Nnh! Don't ruin the moment!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:7995
+# game/scripts/maria_events.rpy:7996
 translate pt_br marlobsub_861b6003:
 
     # m "Mmmmh~ In front of Ellen? Ahh, fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:7996
+# game/scripts/maria_events.rpy:7997
 translate pt_br marlobsub_351eeb5c:
 
     # e "Enjoying yourself?"
     e ""
 
-# game/scripts/maria_events.rpy:7997
+# game/scripts/maria_events.rpy:7998
 translate pt_br marlobsub_93cb4239:
 
     # m "Mmhmm... Ahh! Nnnh! It's so big...!"
     m ""
 
-# game/scripts/maria_events.rpy:7999
+# game/scripts/maria_events.rpy:8000
 translate pt_br marlobsub_8a136cdf:
 
     # e "I know, I remember."
     e ""
 
-# game/scripts/maria_events.rpy:8000
+# game/scripts/maria_events.rpy:8001
 translate pt_br marlobsub_18c36034:
 
     # m "Ahhh! Mmmh! Fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:8004
+# game/scripts/maria_events.rpy:8005
 translate pt_br marlobsub_7b3dc003:
 
     # m "Ahhh! Don't stop, [linoname]! Mmh! Yes, ah!"
     m ""
 
-# game/scripts/maria_events.rpy:8005
+# game/scripts/maria_events.rpy:8006
 translate pt_br marlobsub_8bd7558e:
 
     # m "MHH! Shit! Fuck, this is so hot!"
     m ""
 
-# game/scripts/maria_events.rpy:8007
+# game/scripts/maria_events.rpy:8008
 translate pt_br marlobsub_70c84286:
 
     # m "Mmh~! [linoname], yes!"
     m ""
 
-# game/scripts/maria_events.rpy:8009
+# game/scripts/maria_events.rpy:8010
 translate pt_br marlobsub_80b58556:
 
     # m "Mmh~! [name], yes!"
     m ""
 
-# game/scripts/maria_events.rpy:8011
+# game/scripts/maria_events.rpy:8012
 translate pt_br marlobsub_c13d290e:
 
     # m "AHH!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8012
+# game/scripts/maria_events.rpy:8013
 translate pt_br marlobsub_73eec693:
 
     # e "Uh oh, inside? I thought you didn't want to get pregnant?" with ssshake
     e "" with ssshake
 
-# game/scripts/maria_events.rpy:8013
+# game/scripts/maria_events.rpy:8014
 translate pt_br marlobsub_256a208e:
 
     # m "I don't!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8022
+# game/scripts/maria_events.rpy:8023
 translate pt_br marslobbyblowjob_8e8ae594:
 
     # m "Mmmp... Ngghh... Gk..."
     m ""
 
-# game/scripts/maria_events.rpy:8024
+# game/scripts/maria_events.rpy:8025
 translate pt_br marslobbyblowjob_7c0912cc:
 
     # m "Nnghk! Nnghhhhh... Mmngh..."
     m ""
 
-# game/scripts/maria_events.rpy:8025
+# game/scripts/maria_events.rpy:8026
 translate pt_br marslobbyblowjob_043f6715:
 
     # m "Ghfff... Mmmp..."
     m ""
 
-# game/scripts/maria_events.rpy:8026
+# game/scripts/maria_events.rpy:8027
 translate pt_br marslobbyblowjob_6481ba7d:
 
     # m "Ghkk! Nhggh..."
     m ""
 
-# game/scripts/maria_events.rpy:8029
+# game/scripts/maria_events.rpy:8030
 translate pt_br marslobbyblowjob_74321b79:
 
     # m "Mmph! Nghpphh!"
     m ""
 
-# game/scripts/maria_events.rpy:8030
+# game/scripts/maria_events.rpy:8031
 translate pt_br marslobbyblowjob_2b247754:
 
     # m "Ghhk! Nnnghhk!"
     m ""
 
-# game/scripts/maria_events.rpy:8032
+# game/scripts/maria_events.rpy:8033
 translate pt_br marslobbyblowjob_c9166771:
 
     # m "Nyahh!"
     m ""
 
-# game/scripts/maria_events.rpy:8034
+# game/scripts/maria_events.rpy:8035
 translate pt_br marslobbyblowjob_f2c9c4c2:
 
     # m "Mmmm, that was so hot! You came so much!"
     m ""
 
-# game/scripts/maria_events.rpy:8043
+# game/scripts/maria_events.rpy:8044
 translate pt_br marlobbyblowjob_8e8ae594:
 
     # m "Mmmp... Ngghh... Gk..."
     m ""
 
-# game/scripts/maria_events.rpy:8045
+# game/scripts/maria_events.rpy:8046
 translate pt_br marlobbyblowjob_7c0912cc:
 
     # m "Nnghk! Nnghhhhh... Mmngh..."
     m ""
 
-# game/scripts/maria_events.rpy:8046
+# game/scripts/maria_events.rpy:8047
 translate pt_br marlobbyblowjob_043f6715:
 
     # m "Ghfff... Mmmp..."
     m ""
 
-# game/scripts/maria_events.rpy:8047
+# game/scripts/maria_events.rpy:8048
 translate pt_br marlobbyblowjob_6481ba7d:
 
     # m "Ghkk! Nhggh..."
     m ""
 
-# game/scripts/maria_events.rpy:8050
+# game/scripts/maria_events.rpy:8051
 translate pt_br marlobbyblowjob_74321b79:
 
     # m "Mmph! Nghpphh!"
     m ""
 
-# game/scripts/maria_events.rpy:8051
+# game/scripts/maria_events.rpy:8052
 translate pt_br marlobbyblowjob_2b247754:
 
     # m "Ghhk! Nnnghhk!"
     m ""
 
-# game/scripts/maria_events.rpy:8053
+# game/scripts/maria_events.rpy:8054
 translate pt_br marlobbyblowjob_c9166771:
 
     # m "Nyahh!"
     m ""
 
-# game/scripts/maria_events.rpy:8055
+# game/scripts/maria_events.rpy:8056
 translate pt_br marlobbyblowjob_f2c9c4c2:
 
     # m "Mmmm, that was so hot! You came so much!"
     m ""
 
-# game/scripts/maria_events.rpy:8166
+# game/scripts/maria_events.rpy:8167
 translate pt_br marblowjob_freestyle_aba414ff:
 
     # m "Mmmgh! Nnnn! Fuck, I love your cock so much...! Mmmn~"
     m ""
 
-# game/scripts/maria_events.rpy:8167
+# game/scripts/maria_events.rpy:8168
 translate pt_br marblowjob_freestyle_637b7f00:
 
     # m "Hnn! So good...! Mmmh~ I could suck you all day."
     m ""
 
-# game/scripts/maria_events.rpy:8168
+# game/scripts/maria_events.rpy:8169
 translate pt_br marblowjob_freestyle_0578e57b:
 
     # m "Mmmh! Nnh! Fuck, this is making me so wet..."
     m ""
 
-# game/scripts/maria_events.rpy:8171
+# game/scripts/maria_events.rpy:8172
 translate pt_br marblowjob_freestyle_34eabf85:
 
     # m "Mmppp... Gghhk! Fuck, yes!"
     m ""
 
-# game/scripts/maria_events.rpy:8172
+# game/scripts/maria_events.rpy:8173
 translate pt_br marblowjob_freestyle_78aabbe0:
 
     # m "Cum all over me [name]! Hnng! Yes! I want you to cover my face! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:8173
+# game/scripts/maria_events.rpy:8174
 translate pt_br marblowjob_freestyle_e6df1d9f:
 
     # m "Nnghpph! Mmm! Cum for me! Cum for me! Nnn!"
     m ""
 
-# game/scripts/maria_events.rpy:8176
+# game/scripts/maria_events.rpy:8177
 translate pt_br marblowjob_freestyle_19065405:
 
     # c "Lay down, I'm going to lick you."
     c ""
 
-# game/scripts/maria_events.rpy:8177
+# game/scripts/maria_events.rpy:8178
 translate pt_br marblowjob_freestyle_d8ec71c1:
 
     # m "Mmmn~ okay...!"
     m ""
 
-# game/scripts/maria_events.rpy:8180
+# game/scripts/maria_events.rpy:8181
 translate pt_br marblowjob_freestyle_31871fcb:
 
     # c "Get on top of me, I want you to fuck me."
     c ""
 
-# game/scripts/maria_events.rpy:8181
+# game/scripts/maria_events.rpy:8182
 translate pt_br marblowjob_freestyle_568a58f5:
 
     # m "Sure~"
     m ""
 
-# game/scripts/maria_events.rpy:8184
+# game/scripts/maria_events.rpy:8185
 translate pt_br marblowjob_freestyle_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/maria_events.rpy:8185
+# game/scripts/maria_events.rpy:8186
 translate pt_br marblowjob_freestyle_298abfe4:
 
     # m "Okay~"
     m ""
 
-# game/scripts/maria_events.rpy:8195
+# game/scripts/maria_events.rpy:8196
 translate pt_br marblowjob_freestyle_8808e52b:
 
     # m "Nnngh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8196
+# game/scripts/maria_events.rpy:8197
 translate pt_br marblowjob_freestyle_a3f3d1ec:
 
     # m "Ghhhkk!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8197
+# game/scripts/maria_events.rpy:8198
 translate pt_br marblowjob_freestyle_4fcf6728:
 
     # m "Nggg..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8200
+# game/scripts/maria_events.rpy:8201
 translate pt_br marblowjob_freestyle_ca5f1202:
 
     # m "Nnnn... That was so hot..."
     m ""
 
-# game/scripts/maria_events.rpy:8205
+# game/scripts/maria_events.rpy:8206
 translate pt_br marblowjob_freestyle_3047f384:
 
     # m "Ahhh! Mmmh, that was so hot... thanks [name]~"
     m ""
 
-# game/scripts/maria_events.rpy:8227
+# game/scripts/maria_events.rpy:8229
 translate pt_br marcow_freestyle_dfcad048:
 
     # m "They're watching us [name]... It turns me on so much..."
     m ""
 
-# game/scripts/maria_events.rpy:8228
+# game/scripts/maria_events.rpy:8230
 translate pt_br marcow_freestyle_11574025:
 
     # m "Mmm... fuck, you feel so good...!"
     m ""
 
-# game/scripts/maria_events.rpy:8230
+# game/scripts/maria_events.rpy:8232
 translate pt_br marcow_freestyle_45761fa0:
 
     # m "*ding*\nAh! Thanks for the tip~"
     m ""
 
-# game/scripts/maria_events.rpy:8231
+# game/scripts/maria_events.rpy:8233
 translate pt_br marcow_freestyle_2dc014cf:
 
     # m "Ahh...! hahh...! Mmm...! hahhh...!"
     m ""
 
-# game/scripts/maria_events.rpy:8232
+# game/scripts/maria_events.rpy:8234
 translate pt_br marcow_freestyle_7035c8ec:
 
     # m "Mmmm... enjoying my pussy [name]? I know you love it, heheh~"
     m ""
 
-# game/scripts/maria_events.rpy:8235
+# game/scripts/maria_events.rpy:8237
 translate pt_br marcow_freestyle_303f1f82:
 
     # m "Fuuuckkk... yes... [name] your dick is amazing...!"
     m ""
 
-# game/scripts/maria_events.rpy:8236
+# game/scripts/maria_events.rpy:8238
 translate pt_br marcow_freestyle_d92263ac:
 
     # m "I love your dick so much [name]! Fuck, fuck~! I love it!!!"
     m ""
 
-# game/scripts/maria_events.rpy:8237
+# game/scripts/maria_events.rpy:8239
 translate pt_br marcow_freestyle_db89d6e7:
 
     # m "Ohhh shit! Fuck me! Yes! Pound my pussy [name]! Ohhh god! Nnh, NNNM!"
     m ""
 
-# game/scripts/maria_events.rpy:8238
+# game/scripts/maria_events.rpy:8240
 translate pt_br marcow_freestyle_397d9152:
 
     # m "Are you gonna cum? Mmmn! Fuck... just cum outside, okay? I don't want to get pregnant..."
     m ""
 
-# game/scripts/maria_events.rpy:8241
+# game/scripts/maria_events.rpy:8243
 translate pt_br marcow_freestyle_19065405:
 
     # c "Lay down, I'm going to lick you."
     c ""
 
-# game/scripts/maria_events.rpy:8242
+# game/scripts/maria_events.rpy:8244
 translate pt_br marcow_freestyle_d8ec71c1:
 
     # m "Mmmn~ okay...!"
     m ""
 
-# game/scripts/maria_events.rpy:8249
+# game/scripts/maria_events.rpy:8251
 translate pt_br marcow_freestyle_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/maria_events.rpy:8250
+# game/scripts/maria_events.rpy:8252
 translate pt_br marcow_freestyle_298abfe4:
 
     # m "Okay~"
     m ""
 
-# game/scripts/maria_events.rpy:8253
+# game/scripts/maria_events.rpy:8255
 translate pt_br marcow_freestyle_1ecf4fd1:
 
     # c "Get on your knees, I want you to suck my cock."
     c ""
 
-# game/scripts/maria_events.rpy:8254
+# game/scripts/maria_events.rpy:8256
 translate pt_br marcow_freestyle_4274e3c4:
 
     # m "Oh, finally~"
     m ""
 
-# game/scripts/maria_events.rpy:8261
+# game/scripts/maria_events.rpy:8263
 translate pt_br marcow_freestyle_98519239:
 
     # m "Ahh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8262
+# game/scripts/maria_events.rpy:8264
 translate pt_br marcow_freestyle_5902e4c7:
 
     # m "Fffuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8263
+# game/scripts/maria_events.rpy:8265
 translate pt_br marcow_freestyle_ddc57a01:
 
     # m "Ahh... Mmmm... nn..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8265
+# game/scripts/maria_events.rpy:8267
 translate pt_br marcow_freestyle_c4dba98b:
 
     # m "Ahh... You came inside... nnnnhg" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8271
+# game/scripts/maria_events.rpy:8273
 translate pt_br marcow_freestyle_1debbabc:
 
     # m "Ahhh!?" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8272
+# game/scripts/maria_events.rpy:8274
 translate pt_br marcow_freestyle_66124176:
 
     # m "Ffffuck...! Wait...!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8273
+# game/scripts/maria_events.rpy:8275
 translate pt_br marcow_freestyle_8ceadd8b:
 
     # m "Nnnnnhm!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8275
+# game/scripts/maria_events.rpy:8277
 translate pt_br marcow_freestyle_d65e7eed:
 
     # m "Aaaagh, fuck... you can't do that...!"
     m ""
 
-# game/scripts/maria_events.rpy:8283
+# game/scripts/maria_events.rpy:8285
 translate pt_br marcow_freestyle_355a7086:
 
     # m "Ahhhhh! Yesssss!"
     m ""
 
-# game/scripts/maria_events.rpy:8284
+# game/scripts/maria_events.rpy:8286
 translate pt_br marcow_freestyle_2cff0bfd:
 
     # m "Heheheh, thanks [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:8303
+# game/scripts/maria_events.rpy:8306
 translate pt_br maranal_freestyle_356fafa9:
 
     # m "[name]... I'm ready for you~\nBe gentle, okay? Your cock is bigger than most of the toys I use."
     m ""
 
-# game/scripts/maria_events.rpy:8305
+# game/scripts/maria_events.rpy:8308
 translate pt_br maranal_freestyle_5fcd5f5e:
 
     # m "Hnnn, aaaagh~! Fuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8306
+# game/scripts/maria_events.rpy:8309
 translate pt_br maranal_freestyle_e0eb58d2:
 
     # m "Nnnh...! Damn, okay... you can start moving...!"
     m ""
 
-# game/scripts/maria_events.rpy:8308
+# game/scripts/maria_events.rpy:8311
 translate pt_br maranal_freestyle_93f379b3:
 
     # m "Ahh! Fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:8310
+# game/scripts/maria_events.rpy:8313
 translate pt_br maranal_freestyle_60558ed7:
 
     # m "Fuck! Lin, was right! It feels so different when it's with you!"
     m ""
 
-# game/scripts/maria_events.rpy:8311
+# game/scripts/maria_events.rpy:8314
 translate pt_br maranal_freestyle_a9c9874d:
 
     # m "Ahh.. haha... I don't have to worry about acting for the stream... Hahahhh..."
     m ""
 
-# game/scripts/maria_events.rpy:8312
+# game/scripts/maria_events.rpy:8315
 translate pt_br maranal_freestyle_49ab19d1:
 
     # m "Mmm, fuck! I love you [name]! I love you~!"
     m ""
 
-# game/scripts/maria_events.rpy:8313
+# game/scripts/maria_events.rpy:8316
 translate pt_br maranal_freestyle_f1f5414e:
 
     # m "Ahhh, Hahahh... Nnn! [name]! It feels so good...! Mmmn, yes! Fuck my ass~!"
     m ""
 
-# game/scripts/maria_events.rpy:8314
+# game/scripts/maria_events.rpy:8317
 translate pt_br maranal_freestyle_0bafbc47:
 
     # m "Mmm! Fuck my toys, your cock is the best! Holy fuck! Ahh! Ahh! Ahhhh~!"
     m ""
 
-# game/scripts/maria_events.rpy:8317
+# game/scripts/maria_events.rpy:8320
 translate pt_br maranal_freestyle_26db0df0:
 
     # m "FUCK! Faster! Faster! MMMMH!"
     m ""
 
-# game/scripts/maria_events.rpy:8318
+# game/scripts/maria_events.rpy:8321
 translate pt_br maranal_freestyle_61d0f577:
 
     # m "Ahhh! Oh fuck~! [name]! It feels so good! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:8319
+# game/scripts/maria_events.rpy:8322
 translate pt_br maranal_freestyle_ceefe985:
 
     # m "OhmygodohmygodohmyGOD! FUCK! YES! Fuck my ass [name]! Yes, yes, yes~!"
     m ""
 
-# game/scripts/maria_events.rpy:8320
+# game/scripts/maria_events.rpy:8323
 translate pt_br maranal_freestyle_92aa664d:
 
     # m "Cum inside me! MMMH! It's okay, cum inside my ass! AH!"
     m ""
 
-# game/scripts/maria_events.rpy:8321
+# game/scripts/maria_events.rpy:8324
 translate pt_br maranal_freestyle_322d5842:
 
     # m "PLEASE! Cum inside! I want to feel you explode deep in my ass! Fuck! Do it DO IT!!! [name]!!!"
     m ""
 
-# game/scripts/maria_events.rpy:8324
+# game/scripts/maria_events.rpy:8327
 translate pt_br maranal_freestyle_19065405:
 
     # c "Lay down, I'm going to lick you."
     c ""
 
-# game/scripts/maria_events.rpy:8325
+# game/scripts/maria_events.rpy:8328
 translate pt_br maranal_freestyle_d8ec71c1:
 
     # m "Mmmn~ okay...!"
     m ""
 
-# game/scripts/maria_events.rpy:8328
+# game/scripts/maria_events.rpy:8331
 translate pt_br maranal_freestyle_31871fcb:
 
     # c "Get on top of me, I want you to fuck me."
     c ""
 
-# game/scripts/maria_events.rpy:8329
+# game/scripts/maria_events.rpy:8332
 translate pt_br maranal_freestyle_568a58f5:
 
     # m "Sure~"
     m ""
 
-# game/scripts/maria_events.rpy:8336
+# game/scripts/maria_events.rpy:8339
 translate pt_br maranal_freestyle_1ecf4fd1:
 
     # c "Get on your knees, I want you to suck my cock."
     c ""
 
-# game/scripts/maria_events.rpy:8337
+# game/scripts/maria_events.rpy:8340
 translate pt_br maranal_freestyle_4274e3c4:
 
     # m "Oh, finally~"
     m ""
 
-# game/scripts/maria_events.rpy:8343
+# game/scripts/maria_events.rpy:8346
 translate pt_br maranal_freestyle_1a26e490:
 
     # m "NGGH~!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8344
+# game/scripts/maria_events.rpy:8347
 translate pt_br maranal_freestyle_30a53f23:
 
     # m "FUCK! Fill me up!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8345
+# game/scripts/maria_events.rpy:8348
 translate pt_br maranal_freestyle_016d54da:
 
     # m "NNNN! Yes!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8347
+# game/scripts/maria_events.rpy:8350
 translate pt_br maranal_freestyle_db5211ab:
 
     # m "Ahhh... Hahhh... fuck... that was amazing...!"
     m ""
 
-# game/scripts/maria_events.rpy:8353
+# game/scripts/maria_events.rpy:8356
 translate pt_br maranal_freestyle_a54c80b7:
 
     # m " Ahh~! Mmmm... You came all over me [name]... Hahahhh, fuck..."
     m ""
 
-# game/scripts/maria_events.rpy:8371
+# game/scripts/maria_events.rpy:8375
 translate pt_br marcun_freestyle_2bdd94fe:
 
     # m "Ohhh, oh fuck..."
     m ""
 
-# game/scripts/maria_events.rpy:8372
+# game/scripts/maria_events.rpy:8376
 translate pt_br marcun_freestyle_05116ac8:
 
     # m "Nnnnah... wow! Your tongue feels so fucking good! Mmmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:8373
+# game/scripts/maria_events.rpy:8377
 translate pt_br marcun_freestyle_9214c998:
 
     # m "Ssss, nnn...! Fuck! More, more~! Haaahn! Lick me more~"
     m ""
 
-# game/scripts/maria_events.rpy:8374
+# game/scripts/maria_events.rpy:8378
 translate pt_br marcun_freestyle_db75c66a:
 
     # m "Oh my god, this is so hot! Mmm~ Fuck... Fuck! Ahh...!"
     m ""
 
-# game/scripts/maria_events.rpy:8377
+# game/scripts/maria_events.rpy:8381
 translate pt_br marcun_freestyle_d62747ac:
 
     # m "Ahhh, yesss...! Lick my clit, ahh...! Yes!"
     m ""
 
-# game/scripts/maria_events.rpy:8378
+# game/scripts/maria_events.rpy:8382
 translate pt_br marcun_freestyle_599ce25a:
 
     # m "Fuck, fuck! This is better than I thought it would be! MMMMN!"
     m ""
 
-# game/scripts/maria_events.rpy:8379
+# game/scripts/maria_events.rpy:8383
 translate pt_br marcun_freestyle_563bf6e6:
 
     # m "Don't stop! Don't stop! MMMN!"
     m ""
 
-# game/scripts/maria_events.rpy:8386
+# game/scripts/maria_events.rpy:8390
 translate pt_br marcun_freestyle_31871fcb:
 
     # c "Get on top of me, I want you to fuck me."
     c ""
 
-# game/scripts/maria_events.rpy:8387
+# game/scripts/maria_events.rpy:8391
 translate pt_br marcun_freestyle_568a58f5:
 
     # m "Sure~"
     m ""
 
-# game/scripts/maria_events.rpy:8390
+# game/scripts/maria_events.rpy:8394
 translate pt_br marcun_freestyle_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/maria_events.rpy:8391
+# game/scripts/maria_events.rpy:8395
 translate pt_br marcun_freestyle_298abfe4:
 
     # m "Okay~"
     m ""
 
-# game/scripts/maria_events.rpy:8394
+# game/scripts/maria_events.rpy:8398
 translate pt_br marcun_freestyle_1ecf4fd1:
 
     # c "Get on your knees, I want you to suck my cock."
     c ""
 
-# game/scripts/maria_events.rpy:8395
+# game/scripts/maria_events.rpy:8399
 translate pt_br marcun_freestyle_4274e3c4:
 
     # m "Oh, finally~"
     m ""
 
-# game/scripts/maria_events.rpy:8401
+# game/scripts/maria_events.rpy:8405
 translate pt_br marcun_freestyle_558b3a97:
 
     # m "GAHHH!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8402
+# game/scripts/maria_events.rpy:8406
 translate pt_br marcun_freestyle_e3a6f6c3:
 
     # m "Ahhhnnnn!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8405
+# game/scripts/maria_events.rpy:8409
 translate pt_br marcun_freestyle_7b53b79e:
 
     # m "Ahhh... Hahhh... Nnn..."
     m ""
 
-# game/scripts/maria_events.rpy:8406
+# game/scripts/maria_events.rpy:8410
 translate pt_br marcun_freestyle_d88cc606:
 
     # m "Thanks baby... Hahah..."
     m ""
 
-# game/scripts/maria_events.rpy:8425
+# game/scripts/maria_events.rpy:8430
 translate pt_br marblowjob_aba414ff:
 
     # m "Mmmgh! Nnnn! Fuck, I love your cock so much...! Mmmn~"
     m ""
 
-# game/scripts/maria_events.rpy:8426
+# game/scripts/maria_events.rpy:8431
 translate pt_br marblowjob_637b7f00:
 
     # m "Hnn! So good...! Mmmh~ I could suck you all day."
     m ""
 
-# game/scripts/maria_events.rpy:8427
+# game/scripts/maria_events.rpy:8432
 translate pt_br marblowjob_0578e57b:
 
     # m "Mmmh! Nnh! Fuck, this is making me so wet..."
     m ""
 
-# game/scripts/maria_events.rpy:8430
+# game/scripts/maria_events.rpy:8435
 translate pt_br marblowjob_34eabf85:
 
     # m "Mmppp... Gghhk! Fuck, yes!"
     m ""
 
-# game/scripts/maria_events.rpy:8431
+# game/scripts/maria_events.rpy:8436
 translate pt_br marblowjob_78aabbe0:
 
     # m "Cum all over me [name]! Hnng! Yes! I want you to cover my face! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:8432
+# game/scripts/maria_events.rpy:8437
 translate pt_br marblowjob_e6df1d9f:
 
     # m "Nnghpph! Mmm! Cum for me! Cum for me! Nnn!"
     m ""
 
-# game/scripts/maria_events.rpy:8436
+# game/scripts/maria_events.rpy:8441
 translate pt_br marblowjob_8808e52b:
 
     # m "Nnngh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8437
+# game/scripts/maria_events.rpy:8442
 translate pt_br marblowjob_a3f3d1ec:
 
     # m "Ghhhkk!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8438
+# game/scripts/maria_events.rpy:8443
 translate pt_br marblowjob_4fcf6728:
 
     # m "Nggg..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:8441
+# game/scripts/maria_events.rpy:8446
 translate pt_br marblowjob_ca5f1202:
 
     # m "Nnnn... That was so hot..."
     m ""
 
-# game/scripts/maria_events.rpy:8446
+# game/scripts/maria_events.rpy:8451
 translate pt_br marblowjob_3047f384:
 
     # m "Ahhh! Mmmh, that was so hot... thanks [name]~"
     m ""
 
-# game/scripts/maria_events.rpy:8470
+# game/scripts/maria_events.rpy:8476
 translate pt_br marlobtv_4e8b3387:
 
     # m "Mmm... I hate this show... What else is on?"
     m ""
 
-# game/scripts/maria_events.rpy:8472
+# game/scripts/maria_events.rpy:8478
 translate pt_br marlobtv_deb62ff6:
 
     # m "*gasp*! She did not!"
     m ""
 
-# game/scripts/maria_events.rpy:8474
+# game/scripts/maria_events.rpy:8480
 translate pt_br marlobtv_f9eedd7c:
 
     # m "Oh! I love this show. You'll never guess the ending."
     m ""
 
-# game/scripts/maria_events.rpy:8476
+# game/scripts/maria_events.rpy:8482
 translate pt_br marlobtv_4b6e85ef:
 
     # "You and Maria watch a couple of shows. After some time, you both decide to stop, and you take her back to her room."
     ""
 
-# game/scripts/maria_events.rpy:8531
+# game/scripts/maria_events.rpy:8537
 translate pt_br marhangdone_558fd3ae:
 
     # m "Thanks for hanging out with me today."
     m ""
 
-# game/scripts/maria_events.rpy:8577
+# game/scripts/maria_events.rpy:8583
 translate pt_br marhangdone_1d16bcde:
 
     # m "You know... I've been a bit horny lately... Did you maybe want to have some sex?"
     m ""
 
-# game/scripts/maria_events.rpy:8580
+# game/scripts/maria_events.rpy:8586
 translate pt_br marhangdone_e04f00b4:
 
     # m "Heheh, good answer..."
     m ""
 
-# game/scripts/maria_events.rpy:8628
+# game/scripts/maria_events.rpy:8634
 translate pt_br marhangdone_4ad36ca4:
 
     # m "Aww..."
     m ""
 
-# game/scripts/maria_events.rpy:8677
+# game/scripts/maria_events.rpy:8683
 translate pt_br marhangdone_f60a9188:
 
     # m "You know... My ass has been aching lately..."
     m ""
 
-# game/scripts/maria_events.rpy:8680
+# game/scripts/maria_events.rpy:8686
 translate pt_br marhangdone_aa68868a:
 
     # m "Oh? Do you?"
     m ""
 
-# game/scripts/maria_events.rpy:8681
+# game/scripts/maria_events.rpy:8687
 translate pt_br marhangdone_edd5ccd8:
 
     # m "Hmmm, you'll have to give it to me then..."
     m ""
 
-# game/scripts/maria_events.rpy:8729
+# game/scripts/maria_events.rpy:8735
 translate pt_br marhangdone_a9f96848:
 
     # m "Tsk... Whatever."
     m ""
 
-# game/scripts/maria_events.rpy:8778
+# game/scripts/maria_events.rpy:8784
 translate pt_br marhangdone_edfd9fd1:
 
     # m "[name]... I think you deserve a reward for hanging out with me today..."
     m ""
 
-# game/scripts/maria_events.rpy:8779
+# game/scripts/maria_events.rpy:8785
 translate pt_br marhangdone_d672cdd7:
 
     # c "And what's that?"
     c ""
 
-# game/scripts/maria_events.rpy:8780
+# game/scripts/maria_events.rpy:8786
 translate pt_br marhangdone_142048ce:
 
     # m "Well, it's only natural that I as a woman should reward my man with a blowjob..."
     m ""
 
-# game/scripts/maria_events.rpy:8783
+# game/scripts/maria_events.rpy:8789
 translate pt_br marhangdone_50d559b1:
 
     # m "Yes sir..."
     m ""
 
-# game/scripts/maria_events.rpy:8831
+# game/scripts/maria_events.rpy:8837
 translate pt_br marhangdone_a9f96848_1:
 
     # m "Tsk... Whatever."
     m ""
 
-# game/scripts/maria_events.rpy:8837
+# game/scripts/maria_events.rpy:8843
 translate pt_br marhangdone_d2102335:
 
     # m "I'll see you later [name]."
     m ""
 
-# game/scripts/maria_events.rpy:8846
+# game/scripts/maria_events.rpy:8852
 translate pt_br marsneaky_359d2eb9:
 
     # m "Oooohhh! Ashley's unguarded room! I can't wait to see what secrets she's hiding!"
     m ""
 
-# game/scripts/maria_events.rpy:8847
+# game/scripts/maria_events.rpy:8853
 translate pt_br marsneaky_5b3ecf3e:
 
     # m "I bet she keeps everything in that yellow drawer over there!"
     m ""
 
-# game/scripts/maria_events.rpy:8849
+# game/scripts/maria_events.rpy:8855
 translate pt_br marsneaky_30fefa40:
 
     # m "Okay, let's see here..."
     m ""
 
-# game/scripts/maria_events.rpy:8850
+# game/scripts/maria_events.rpy:8856
 translate pt_br marsneaky_536e0923:
 
     # m "Clothes... Skirts... Shorts... No pants? Come to think of it, I've never seen her wear pants before..."
     m ""
 
-# game/scripts/maria_events.rpy:8851
+# game/scripts/maria_events.rpy:8857
 translate pt_br marsneaky_2dd1b0a4:
 
     # m "Two pairs of panties...? Really?"
     m ""
 
-# game/scripts/maria_events.rpy:8852
+# game/scripts/maria_events.rpy:8858
 translate pt_br marsneaky_d570900c:
 
     # m "Lots of socks... Ankle socks... Knee Highs... Thigh Highs... Striped... White, Black... She really likes socks..."
     m ""
 
-# game/scripts/maria_events.rpy:8854
+# game/scripts/maria_events.rpy:8860
 translate pt_br marsneaky_33083b51:
 
     # m "Oh..."
     m ""
 
-# game/scripts/maria_events.rpy:8855
+# game/scripts/maria_events.rpy:8861
 translate pt_br marsneaky_efeaf6ec:
 
     # m "Found her knife... I better put that back..."
     m ""
 
-# game/scripts/maria_events.rpy:8857
+# game/scripts/maria_events.rpy:8863
 translate pt_br marsneaky_59091ffc:
 
     # m "Really Ash!? No dildos? No vibes? Seriously? This is boring..."
     m ""
 
-# game/scripts/maria_events.rpy:8858
+# game/scripts/maria_events.rpy:8864
 translate pt_br marsneaky_81975c17:
 
     # m "Ohhh~ What's this? This looks nice..."
     m ""
 
-# game/scripts/maria_events.rpy:8860
+# game/scripts/maria_events.rpy:8866
 translate pt_br marsneaky_506c11b1:
 
     # c "What are you doing?"
     c ""
 
-# game/scripts/maria_events.rpy:8862
+# game/scripts/maria_events.rpy:8868
 translate pt_br marsneaky_948029da:
 
     # m "What does it look like? I'm trying it on!"
     m ""
 
-# game/scripts/maria_events.rpy:8864
+# game/scripts/maria_events.rpy:8870
 translate pt_br marsneaky_5d24c785:
 
     # m "Wow... this is pretty cute. You guys have totally fucked in this, haven't you?"
     m ""
 
-# game/scripts/maria_events.rpy:8866
+# game/scripts/maria_events.rpy:8872
 translate pt_br marsneaky_f559c64c:
 
     # m "Ahh!"
     m ""
 
-# game/scripts/maria_events.rpy:8868
+# game/scripts/maria_events.rpy:8874
 translate pt_br marsneaky_de024a26:
 
     # m "Haha! It is a bit tight though..."
     m ""
 
-# game/scripts/maria_events.rpy:8870
+# game/scripts/maria_events.rpy:8876
 translate pt_br marsneaky_98899fab:
 
     # m "Hmmm... This was a bit boring though... I was really hoping we'd find some dark secret Ash was hiding... Like maybe some fake IDs?"
     m ""
 
-# game/scripts/maria_events.rpy:8871
+# game/scripts/maria_events.rpy:8877
 translate pt_br marsneaky_3a9e410a:
 
     # m "I don't really know what I expected though..."
     m ""
 
-# game/scripts/maria_events.rpy:8873
+# game/scripts/maria_events.rpy:8879
 translate pt_br marsneaky_7d39507c:
 
     # m "Oh! I bet Kali is hiding something! Let's go to her room!"
     m ""
 
-# game/scripts/maria_events.rpy:8875
+# game/scripts/maria_events.rpy:8881
 translate pt_br marsneaky_00a5cd9f:
 
     # "You attempt to open Kali's door, but it's also locked. So you use your master key to get inside..."
     ""
 
-# game/scripts/maria_events.rpy:8877
+# game/scripts/maria_events.rpy:8883
 translate pt_br marsneaky_5aff9f13:
 
     # m "Oooh! A computer! I wonder what kind of porn she looks at!"
     m ""
 
-# game/scripts/maria_events.rpy:8879
+# game/scripts/maria_events.rpy:8885
 translate pt_br marsneaky_73406c42:
 
     # m "Damn... I need a password... Any ideas?"
     m ""
 
-# game/scripts/maria_events.rpy:8882
+# game/scripts/maria_events.rpy:8888
 translate pt_br marsneaky_79ac87be:
 
     # m "Well... I guess I'll try it..."
     m ""
 
-# game/scripts/maria_events.rpy:8883
+# game/scripts/maria_events.rpy:8889
 translate pt_br marsneaky_3b551daa:
 
     # m "...Nope."
     m ""
 
-# game/scripts/maria_events.rpy:8885
+# game/scripts/maria_events.rpy:8891
 translate pt_br marsneaky_3b551daa_1:
 
     # m "...Nope."
     m ""
 
-# game/scripts/maria_events.rpy:8887
+# game/scripts/maria_events.rpy:8893
 translate pt_br marsneaky_3b551daa_2:
 
     # m "...Nope."
     m ""
 
-# game/scripts/maria_events.rpy:8889
+# game/scripts/maria_events.rpy:8895
 translate pt_br marsneaky_3b551daa_3:
 
     # m "...Nope."
     m ""
 
-# game/scripts/maria_events.rpy:8890
+# game/scripts/maria_events.rpy:8896
 translate pt_br marsneaky_11e44d6f:
 
     # m "*sigh*... I guess it's pointless, lets look somewhere else."
     m ""
 
-# game/scripts/maria_events.rpy:8892
+# game/scripts/maria_events.rpy:8898
 translate pt_br marsneaky_28d83f20:
 
     # m "Please be something interesting here!"
     m ""
 
-# game/scripts/maria_events.rpy:8893
+# game/scripts/maria_events.rpy:8899
 translate pt_br marsneaky_80944fed:
 
     # m "Jacket... Black Jeans..."
     m ""
 
-# game/scripts/maria_events.rpy:8894
+# game/scripts/maria_events.rpy:8900
 translate pt_br marsneaky_cb466988:
 
     # m "Wow, she doesn't have much..."
     m ""
 
-# game/scripts/maria_events.rpy:8896
+# game/scripts/maria_events.rpy:8902
 translate pt_br marsneaky_7b6260c8:
 
     # m "Bingo!"
     m ""
 
-# game/scripts/maria_events.rpy:8897
+# game/scripts/maria_events.rpy:8903
 translate pt_br marsneaky_fad28e53:
 
     # m "She tried hiding it under her clothes, haha!"
     m ""
 
-# game/scripts/maria_events.rpy:8898
+# game/scripts/maria_events.rpy:8904
 translate pt_br marsneaky_8a43f493:
 
     # m "This one isn't even good though... She really needs to upgrade."
     m ""
 
-# game/scripts/maria_events.rpy:8900
+# game/scripts/maria_events.rpy:8906
 translate pt_br marsneaky_6ea77684:
 
     # m "Hmm... Ooh, this looks fancy!"
     m ""
 
-# game/scripts/maria_events.rpy:8902
+# game/scripts/maria_events.rpy:8908
 translate pt_br marsneaky_58c9b794:
 
     # m "Let's see how this looks on me..."
     m ""
 
-# game/scripts/maria_events.rpy:8904
+# game/scripts/maria_events.rpy:8910
 translate pt_br marsneaky_188426df:
 
     # m "Hey, you're not looking are you...? Haha..."
     m ""
 
-# game/scripts/maria_events.rpy:8906
+# game/scripts/maria_events.rpy:8912
 translate pt_br marsneaky_a55a340e:
 
     # m "Damn, this looks downright sexy. Who knew she had something like this just hanging around? It isn't like her at all."
     m ""
 
-# game/scripts/maria_events.rpy:8908
+# game/scripts/maria_events.rpy:8914
 translate pt_br marsneaky_750eeec5:
 
     # m "This is high quality too! It's Elvish!"
     m ""
 
-# game/scripts/maria_events.rpy:8909
+# game/scripts/maria_events.rpy:8915
 translate pt_br marsneaky_79ce872e:
 
     # c "Elvish?"
     c ""
 
-# game/scripts/maria_events.rpy:8911
+# game/scripts/maria_events.rpy:8917
 translate pt_br marsneaky_dd9c68d3:
 
     # m "You didn't know? Elves are master tailorers. They make special weaves when making clothing, it's supposed to make clothes tear resistant."
     m ""
 
-# game/scripts/maria_events.rpy:8913
+# game/scripts/maria_events.rpy:8919
 translate pt_br marsneaky_724548e2:
 
     # m "This necklace looks like it was crafted with real gems too. She definitely spent a lot on this. I wonder why? It's not her style at all."
     m ""
 
-# game/scripts/maria_events.rpy:8914
+# game/scripts/maria_events.rpy:8920
 translate pt_br marsneaky_02e7baaa:
 
     # m "I'll have to ask her if I can borrow it."
     m ""
 
-# game/scripts/maria_events.rpy:8916
+# game/scripts/maria_events.rpy:8922
 translate pt_br marsneaky_6796a1c9:
 
     # m "Alright, who's next? Lin?"
     m ""
 
-# game/scripts/maria_events.rpy:8918
+# game/scripts/maria_events.rpy:8924
 translate pt_br marsneaky_bfa75505:
 
     # "You head to Lin's room. To your surprise, it's unlocked."
     ""
 
-# game/scripts/maria_events.rpy:8920
+# game/scripts/maria_events.rpy:8926
 translate pt_br marsneaky_c1668f3d:
 
     # m "Oooh! I spy a laptop!"
     m ""
 
-# game/scripts/maria_events.rpy:8922
+# game/scripts/maria_events.rpy:8928
 translate pt_br marsneaky_0aec558c:
 
     # m "Hahaha! No password! I'm kind of surprised she even has a laptop though..."
     m ""
 
-# game/scripts/maria_events.rpy:8923
+# game/scripts/maria_events.rpy:8929
 translate pt_br marsneaky_267958ec:
 
     # m "Awwww!"
     m ""
 
-# game/scripts/maria_events.rpy:8924
+# game/scripts/maria_events.rpy:8930
 translate pt_br marsneaky_499819e9:
 
     # c "What happened?"
     c ""
 
-# game/scripts/maria_events.rpy:8926
+# game/scripts/maria_events.rpy:8932
 translate pt_br marsneaky_21c434a0:
 
     # m "Her wallpaper is a picture of you! That's so adorable!"
     m ""
 
-# game/scripts/maria_events.rpy:8927
+# game/scripts/maria_events.rpy:8933
 translate pt_br marsneaky_75c7cda3:
 
     # c "{i}(Where did she get a picture of me from?){/i}"
     c ""
 
-# game/scripts/maria_events.rpy:8929
+# game/scripts/maria_events.rpy:8935
 translate pt_br marsneaky_348ef9bd:
 
     # m "Let's see... What else does she have here..."
     m ""
 
-# game/scripts/maria_events.rpy:8931
+# game/scripts/maria_events.rpy:8937
 translate pt_br marsneaky_6da8ab0a:
 
     # m "Hmm... Nothing too interesting... Let's check her browsing history. Doubt there would be anything interes-"
     m ""
 
-# game/scripts/maria_events.rpy:8933
+# game/scripts/maria_events.rpy:8939
 translate pt_br marsneaky_fe0c34e1:
 
     # m "WHAT THE FUCK!?"
     m ""
 
-# game/scripts/maria_events.rpy:8934
+# game/scripts/maria_events.rpy:8940
 translate pt_br marsneaky_0f173ebb:
 
     # c "What is it?"
     c ""
 
-# game/scripts/maria_events.rpy:8935
+# game/scripts/maria_events.rpy:8941
 translate pt_br marsneaky_bc88dd7b:
 
     # m "It's 90 percent porn!"
     m ""
 
-# game/scripts/maria_events.rpy:8936
+# game/scripts/maria_events.rpy:8942
 translate pt_br marsneaky_ae46b244:
 
     # m "NO WAY! Finally something interesting!"
     m ""
 
-# game/scripts/maria_events.rpy:8937
+# game/scripts/maria_events.rpy:8943
 translate pt_br marsneaky_646f2937:
 
     # m "BDSM, Deepthroat, Bukkake, Anal, Double Penetration, Gangbang, oh my god!!! She's such a slut!"
     m ""
 
-# game/scripts/maria_events.rpy:8938
+# game/scripts/maria_events.rpy:8944
 translate pt_br marsneaky_cd04dbf8:
 
     # m "Who knew she had all of these fantasies! She's such a precious little Elf girl, I never would have guessed!"
     m ""
 
-# game/scripts/maria_events.rpy:8940
+# game/scripts/maria_events.rpy:8946
 translate pt_br marsneaky_86e0199d:
 
     # m "Hmm, she actually doesn't visit these sites often. Like once a week if that. But man, when she does, she goes crazy!"
     m ""
 
-# game/scripts/maria_events.rpy:8941
+# game/scripts/maria_events.rpy:8947
 translate pt_br marsneaky_83dfe5c6:
 
     # m "Heheheh... I kind of want to watch porn with her now..."
     m ""
 
-# game/scripts/maria_events.rpy:8942
+# game/scripts/maria_events.rpy:8948
 translate pt_br marsneaky_ec21faed:
 
     # m "...And she has a virus... Of course."
     m ""
 
-# game/scripts/maria_events.rpy:8944
+# game/scripts/maria_events.rpy:8950
 translate pt_br marsneaky_38addc92:
 
     # m "Hmm... Nothing too interesting... Let's check her browsing history. Doubt there would be anything interesting their either..."
     m ""
 
-# game/scripts/maria_events.rpy:8945
+# game/scripts/maria_events.rpy:8951
 translate pt_br marsneaky_2a4730e6:
 
     # m "...Yeah, just boring stuff. Looks like she tried looking up her sister? Didn't know she had one..."
     m ""
 
-# game/scripts/maria_events.rpy:8946
+# game/scripts/maria_events.rpy:8952
 translate pt_br marsneaky_b8cf615b:
 
     # m "...She has a virus..."
     m ""
 
-# game/scripts/maria_events.rpy:8948
+# game/scripts/maria_events.rpy:8954
 translate pt_br marsneaky_4cdba764:
 
     # m "[botname] next?"
     m ""
 
-# game/scripts/maria_events.rpy:8950
+# game/scripts/maria_events.rpy:8956
 translate pt_br marsneaky_d81a9a97:
 
     # "You head to the second floor to [botname]'s room. It's also already unlocked..."
     ""
 
-# game/scripts/maria_events.rpy:8952
+# game/scripts/maria_events.rpy:8958
 translate pt_br marsneaky_2742a550:
 
     # m "This place is really clean... I guess it makes sense..."
     m ""
 
-# game/scripts/maria_events.rpy:8953
+# game/scripts/maria_events.rpy:8959
 translate pt_br marsneaky_f78eb2f4:
 
     # m "Hmm, she doesn't really have any wardrobes or anything to look through..."
     m ""
 
-# game/scripts/maria_events.rpy:8955
+# game/scripts/maria_events.rpy:8961
 translate pt_br marsneaky_b417e096:
 
     # m "Wait... What is that?"
     m ""
 
-# game/scripts/maria_events.rpy:8957
+# game/scripts/maria_events.rpy:8963
 translate pt_br marsneaky_b7c12070:
 
     # m "Oh my god..."
     m ""
 
-# game/scripts/maria_events.rpy:8959
+# game/scripts/maria_events.rpy:8965
 translate pt_br marsneaky_ffcdcb53:
 
     # m "That's a big gun!"
     m ""
 
-# game/scripts/maria_events.rpy:8962
+# game/scripts/maria_events.rpy:8968
 translate pt_br marsneaky_cd431054:
 
     # m "Why does she have a gun [name]!?"
     m ""
 
-# game/scripts/maria_events.rpy:8963
+# game/scripts/maria_events.rpy:8969
 translate pt_br marsneaky_dbbcb546:
 
     # c "Is it real?"
     c ""
 
-# game/scripts/maria_events.rpy:8964
+# game/scripts/maria_events.rpy:8970
 translate pt_br marsneaky_86adcf21:
 
     # m "How would I know!?"
     m ""
 
-# game/scripts/maria_events.rpy:8966
+# game/scripts/maria_events.rpy:8972
 translate pt_br marsneaky_50fb2b81:
 
     # bot "What are you doing in my room Maria!"
     bot ""
 
-# game/scripts/maria_events.rpy:8967
+# game/scripts/maria_events.rpy:8973
 translate pt_br marsneaky_b8c54f96:
 
     # m "Umm... Aren't you supposed to be eating with everyone else?"
     m ""
 
-# game/scripts/maria_events.rpy:8968
+# game/scripts/maria_events.rpy:8974
 translate pt_br marsneaky_5311dd99:
 
     # bot "I don't need food! Put that down before you hurt someone!"
     bot ""
 
-# game/scripts/maria_events.rpy:8970
+# game/scripts/maria_events.rpy:8976
 translate pt_br marsneaky_979c4106:
 
     # bot "You shouldn't be in my room without me! You could get hurt!"
     bot ""
 
-# game/scripts/maria_events.rpy:8971
+# game/scripts/maria_events.rpy:8977
 translate pt_br marsneaky_7f6bf8ed:
 
     # m "Why... do you have a gun?"
     m ""
 
-# game/scripts/maria_events.rpy:8972
+# game/scripts/maria_events.rpy:8978
 translate pt_br marsneaky_d6618b5d:
 
     # bot "Self defense. Mostly for if the hotel is ever attacked by hostile forces."
     bot ""
 
-# game/scripts/maria_events.rpy:8973
+# game/scripts/maria_events.rpy:8979
 translate pt_br marsneaky_7679bdaa:
 
     # m "Hostile... Forces...? Why would we ever be attacked?"
     m ""
 
-# game/scripts/maria_events.rpy:8974
+# game/scripts/maria_events.rpy:8980
 translate pt_br marsneaky_a3cc8adc:
 
     # bot "I don't know. I was coded with knowledge on how to defend with a gun. That's why I have a gun, you shouldn't touch it."
     bot ""
 
-# game/scripts/maria_events.rpy:8975
+# game/scripts/maria_events.rpy:8981
 translate pt_br marsneaky_a8116903:
 
     # m "Uhh, okay. I'm sorry."
     m ""
 
-# game/scripts/maria_events.rpy:8977
+# game/scripts/maria_events.rpy:8983
 translate pt_br marsneaky_717b76fb:
 
     # bot "Hello [botown]."
     bot ""
 
-# game/scripts/maria_events.rpy:8978
+# game/scripts/maria_events.rpy:8984
 translate pt_br marsneaky_20f67560:
 
     # m "Let's get out of here [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:8981
+# game/scripts/maria_events.rpy:8987
 translate pt_br marsneaky_9c2b998b:
 
     # m "Well, that was interesting... We definitely learned a couple things..."
     m ""
 
-# game/scripts/maria_events.rpy:8984
+# game/scripts/maria_events.rpy:8990
 translate pt_br marsneaky_a2465f70:
 
     # m "It was fun [name], thanks for hanging out with me."
     m ""
 
-# game/scripts/maria_events.rpy:8985
+# game/scripts/maria_events.rpy:8991
 translate pt_br marsneaky_4a3c1ab8:
 
     # c "What, we're not going to look around your room?"
     c ""
 
-# game/scripts/maria_events.rpy:8986
+# game/scripts/maria_events.rpy:8992
 translate pt_br marsneaky_82ad3a52:
 
     # m "Hahaha, nope! Better luck next time."
     m ""
 
-# game/scripts/maria_events.rpy:8987
+# game/scripts/maria_events.rpy:8993
 translate pt_br marsneaky_624956ae:
 
     # m "See ya [name]."
     m ""
 
-# game/scripts/maria_events.rpy:8990
+# game/scripts/maria_events.rpy:8996
 translate pt_br marsneaky_fa9bb70e:
 
     # l "Grrr..."
     l ""
 
-# game/scripts/maria_events.rpy:8991
+# game/scripts/maria_events.rpy:8997
 translate pt_br marsneaky_3784857a:
 
     # c "...?"
     c ""
 
-# game/scripts/maria_events.rpy:8993
+# game/scripts/maria_events.rpy:8999
 translate pt_br marsneaky_92083735:
 
     # l "Hmph!"
     l ""
 
-# game/scripts/maria_events.rpy:8995
+# game/scripts/maria_events.rpy:9001
 translate pt_br marsneaky_52a0c720:
 
     # c "What did I do?"
     c ""
 
-# game/scripts/maria_events.rpy:9148
+# game/scripts/maria_events.rpy:9154
 translate pt_br manal_repeat_356fafa9:
 
     # m "[name]... I'm ready for you~\nBe gentle, okay? Your cock is bigger than most of the toys I use."
     m ""
 
-# game/scripts/maria_events.rpy:9150
+# game/scripts/maria_events.rpy:9156
 translate pt_br manal_repeat_5fcd5f5e:
 
     # m "Hnnn, aaaagh~! Fuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9151
+# game/scripts/maria_events.rpy:9157
 translate pt_br manal_repeat_e0eb58d2:
 
     # m "Nnnh...! Damn, okay... you can start moving...!"
     m ""
 
-# game/scripts/maria_events.rpy:9153
+# game/scripts/maria_events.rpy:9159
 translate pt_br manal_repeat_93f379b3:
 
     # m "Ahh! Fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:9155
+# game/scripts/maria_events.rpy:9161
 translate pt_br manal_repeat_60558ed7:
 
     # m "Fuck! Lin, was right! It feels so different when it's with you!"
     m ""
 
-# game/scripts/maria_events.rpy:9156
+# game/scripts/maria_events.rpy:9162
 translate pt_br manal_repeat_a9c9874d:
 
     # m "Ahh.. haha... I don't have to worry about acting for the stream... Hahahhh..."
     m ""
 
-# game/scripts/maria_events.rpy:9157
+# game/scripts/maria_events.rpy:9163
 translate pt_br manal_repeat_49ab19d1:
 
     # m "Mmm, fuck! I love you [name]! I love you~!"
     m ""
 
-# game/scripts/maria_events.rpy:9158
+# game/scripts/maria_events.rpy:9164
 translate pt_br manal_repeat_f1f5414e:
 
     # m "Ahhh, Hahahh... Nnn! [name]! It feels so good...! Mmmn, yes! Fuck my ass~!"
     m ""
 
-# game/scripts/maria_events.rpy:9159
+# game/scripts/maria_events.rpy:9165
 translate pt_br manal_repeat_0bafbc47:
 
     # m "Mmm! Fuck my toys, your cock is the best! Holy fuck! Ahh! Ahh! Ahhhh~!"
     m ""
 
-# game/scripts/maria_events.rpy:9162
+# game/scripts/maria_events.rpy:9168
 translate pt_br manal_repeat_26db0df0:
 
     # m "FUCK! Faster! Faster! MMMMH!"
     m ""
 
-# game/scripts/maria_events.rpy:9163
+# game/scripts/maria_events.rpy:9169
 translate pt_br manal_repeat_61d0f577:
 
     # m "Ahhh! Oh fuck~! [name]! It feels so good! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:9164
+# game/scripts/maria_events.rpy:9170
 translate pt_br manal_repeat_ceefe985:
 
     # m "OhmygodohmygodohmyGOD! FUCK! YES! Fuck my ass [name]! Yes, yes, yes~!"
     m ""
 
-# game/scripts/maria_events.rpy:9165
+# game/scripts/maria_events.rpy:9171
 translate pt_br manal_repeat_92aa664d:
 
     # m "Cum inside me! MMMH! It's okay, cum inside my ass! AH!"
     m ""
 
-# game/scripts/maria_events.rpy:9166
+# game/scripts/maria_events.rpy:9172
 translate pt_br manal_repeat_322d5842:
 
     # m "PLEASE! Cum inside! I want to feel you explode deep in my ass! Fuck! Do it DO IT!!! [name]!!!"
     m ""
 
-# game/scripts/maria_events.rpy:9170
+# game/scripts/maria_events.rpy:9176
 translate pt_br manal_repeat_1a26e490:
 
     # m "NGGH~!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9171
+# game/scripts/maria_events.rpy:9177
 translate pt_br manal_repeat_30a53f23:
 
     # m "FUCK! Fill me up!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9172
+# game/scripts/maria_events.rpy:9178
 translate pt_br manal_repeat_016d54da:
 
     # m "NNNN! Yes!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9174
+# game/scripts/maria_events.rpy:9180
 translate pt_br manal_repeat_db5211ab:
 
     # m "Ahhh... Hahhh... fuck... that was amazing...!"
     m ""
 
-# game/scripts/maria_events.rpy:9180
+# game/scripts/maria_events.rpy:9186
 translate pt_br manal_repeat_a54c80b7:
 
     # m " Ahh~! Mmmm... You came all over me [name]... Hahahhh, fuck..."
     m ""
 
-# game/scripts/maria_events.rpy:9189
+# game/scripts/maria_events.rpy:9203
 translate pt_br manal_356fafa9:
 
     # m "[name]... I'm ready for you~\nBe gentle, okay? Your cock is bigger than most of the toys I use."
     m ""
 
-# game/scripts/maria_events.rpy:9191
+# game/scripts/maria_events.rpy:9205
 translate pt_br manal_5fcd5f5e:
 
     # m "Hnnn, aaaagh~! Fuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9192
+# game/scripts/maria_events.rpy:9206
 translate pt_br manal_e0eb58d2:
 
     # m "Nnnh...! Damn, okay... you can start moving...!"
     m ""
 
-# game/scripts/maria_events.rpy:9194
+# game/scripts/maria_events.rpy:9208
 translate pt_br manal_93f379b3:
 
     # m "Ahh! Fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:9196
+# game/scripts/maria_events.rpy:9210
 translate pt_br manal_60558ed7:
 
     # m "Fuck! Lin, was right! It feels so different when it's with you!"
     m ""
 
-# game/scripts/maria_events.rpy:9197
+# game/scripts/maria_events.rpy:9211
 translate pt_br manal_a9c9874d:
 
     # m "Ahh.. haha... I don't have to worry about acting for the stream... Hahahhh..."
     m ""
 
-# game/scripts/maria_events.rpy:9198
+# game/scripts/maria_events.rpy:9212
 translate pt_br manal_49ab19d1:
 
     # m "Mmm, fuck! I love you [name]! I love you~!"
     m ""
 
-# game/scripts/maria_events.rpy:9199
+# game/scripts/maria_events.rpy:9213
 translate pt_br manal_f1f5414e:
 
     # m "Ahhh, Hahahh... Nnn! [name]! It feels so good...! Mmmn, yes! Fuck my ass~!"
     m ""
 
-# game/scripts/maria_events.rpy:9200
+# game/scripts/maria_events.rpy:9214
 translate pt_br manal_0bafbc47:
 
     # m "Mmm! Fuck my toys, your cock is the best! Holy fuck! Ahh! Ahh! Ahhhh~!"
     m ""
 
-# game/scripts/maria_events.rpy:9203
+# game/scripts/maria_events.rpy:9217
 translate pt_br manal_26db0df0:
 
     # m "FUCK! Faster! Faster! MMMMH!"
     m ""
 
-# game/scripts/maria_events.rpy:9204
+# game/scripts/maria_events.rpy:9218
 translate pt_br manal_61d0f577:
 
     # m "Ahhh! Oh fuck~! [name]! It feels so good! Mmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:9205
+# game/scripts/maria_events.rpy:9219
 translate pt_br manal_ceefe985:
 
     # m "OhmygodohmygodohmyGOD! FUCK! YES! Fuck my ass [name]! Yes, yes, yes~!"
     m ""
 
-# game/scripts/maria_events.rpy:9206
+# game/scripts/maria_events.rpy:9220
 translate pt_br manal_92aa664d:
 
     # m "Cum inside me! MMMH! It's okay, cum inside my ass! AH!"
     m ""
 
-# game/scripts/maria_events.rpy:9207
+# game/scripts/maria_events.rpy:9221
 translate pt_br manal_322d5842:
 
     # m "PLEASE! Cum inside! I want to feel you explode deep in my ass! Fuck! Do it DO IT!!! [name]!!!"
     m ""
 
-# game/scripts/maria_events.rpy:9211
+# game/scripts/maria_events.rpy:9225
 translate pt_br manal_1a26e490:
 
     # m "NGGH~!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9212
+# game/scripts/maria_events.rpy:9226
 translate pt_br manal_30a53f23:
 
     # m "FUCK! Fill me up!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9213
+# game/scripts/maria_events.rpy:9227
 translate pt_br manal_016d54da:
 
     # m "NNNN! Yes!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9215
+# game/scripts/maria_events.rpy:9229
 translate pt_br manal_db5211ab:
 
     # m "Ahhh... Hahhh... fuck... that was amazing...!"
     m ""
 
-# game/scripts/maria_events.rpy:9222
+# game/scripts/maria_events.rpy:9236
 translate pt_br manal_a54c80b7:
 
     # m " Ahh~! Mmmm... You came all over me [name]... Hahahhh, fuck..."
     m ""
 
-# game/scripts/maria_events.rpy:9228
+# game/scripts/maria_events.rpy:9242
 translate pt_br manal_6f143058:
 
     # m "Ahh, thank you [name]... I may have regretted it if I streamed it."
     m ""
 
-# game/scripts/maria_events.rpy:9229
+# game/scripts/maria_events.rpy:9243
 translate pt_br manal_f61b19ef:
 
     # m "You know... I really meant what I said. I really do love you [name], like, a lot..."
     m ""
 
-# game/scripts/maria_events.rpy:9231
+# game/scripts/maria_events.rpy:9245
 translate pt_br manal_2731636b:
 
     # m "Maybe I don't show it enough... Being an orphan really has a way of making you hold your feelings in..."
     m ""
 
-# game/scripts/maria_events.rpy:9232
+# game/scripts/maria_events.rpy:9246
 translate pt_br manal_dfcef259:
 
     # m "So... I'm sorry."
     m ""
 
-# game/scripts/maria_events.rpy:9233
+# game/scripts/maria_events.rpy:9247
 translate pt_br manal_88eaee51:
 
     # m "I think I'm done with streaming as well. I don't need their attention, just yours. And it's like you said..."
     m ""
 
-# game/scripts/maria_events.rpy:9234
+# game/scripts/maria_events.rpy:9248
 translate pt_br manal_c2c52d0a:
 
     # m "Money isn't going to change that."
     m ""
 
-# game/scripts/maria_events.rpy:9237
+# game/scripts/maria_events.rpy:9251
 translate pt_br manal_7f59bebf:
 
     # "You've unlocked anal in Maria's room!"
     ""
 
-# game/scripts/maria_events.rpy:9244
+# game/scripts/maria_events.rpy:9258
 translate pt_br marcreep_3d2ef6b1:
 
     # m "GET OUT!" with sshake
     m "" with sshake
 
-# game/scripts/maria_events.rpy:9246
+# game/scripts/maria_events.rpy:9260
 translate pt_br marcreep_499819e9:
 
     # c "What happened?"
     c ""
 
-# game/scripts/maria_events.rpy:9247
+# game/scripts/maria_events.rpy:9261
 translate pt_br marcreep_733b0de6:
 
     # m "Some creepy fucking dude found my address!"
     m ""
 
-# game/scripts/maria_events.rpy:9248
+# game/scripts/maria_events.rpy:9262
 translate pt_br marcreep_f35d1d0f:
 
     # c "What? Where, how?"
     c ""
 
-# game/scripts/maria_events.rpy:9249
+# game/scripts/maria_events.rpy:9263
 translate pt_br marcreep_d02a2d62:
 
     # m "I don't know! He said he watches my streams every time I'm online."
     m ""
 
-# game/scripts/maria_events.rpy:9250
+# game/scripts/maria_events.rpy:9264
 translate pt_br marcreep_7f962627:
 
     # m "GOD! What a fucking creep..."
     m ""
 
-# game/scripts/maria_events.rpy:9251
+# game/scripts/maria_events.rpy:9265
 translate pt_br marcreep_49bd643c:
 
     # c "What did he want?"
     c ""
 
-# game/scripts/maria_events.rpy:9252
+# game/scripts/maria_events.rpy:9266
 translate pt_br marcreep_9f441eec:
 
     # m "He said he would pay me to get fucked in the ass by my boyfriend. Said he had to tell me in person..."
     m ""
 
-# game/scripts/maria_events.rpy:9253
+# game/scripts/maria_events.rpy:9267
 translate pt_br marcreep_6cfe28be:
 
     # c "For how much?"
     c ""
 
-# game/scripts/maria_events.rpy:9255
+# game/scripts/maria_events.rpy:9269
 translate pt_br marcreep_4727a4d3:
 
     # m "That's not the point [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:9256
+# game/scripts/maria_events.rpy:9270
 translate pt_br marcreep_8ad33b15:
 
     # m "But he said he would donate $500..."
     m ""
 
-# game/scripts/maria_events.rpy:9257
+# game/scripts/maria_events.rpy:9271
 translate pt_br marcreep_222c0df0:
 
     # c "You get $500 and all I have to do is fuck you in the ass?"
     c ""
 
-# game/scripts/maria_events.rpy:9259
+# game/scripts/maria_events.rpy:9273
 translate pt_br marcreep_65f2e44d:
 
     # m "[name]! That's not what we're talking about right now!"
     m ""
 
-# game/scripts/maria_events.rpy:9260
+# game/scripts/maria_events.rpy:9274
 translate pt_br marcreep_b48c15db:
 
     # m "HE FOUND MY ADDRESS!"
     m ""
 
-# game/scripts/maria_events.rpy:9262
+# game/scripts/maria_events.rpy:9276
 translate pt_br marcreep_19cd4de9:
 
     # m "How can I feel safe anymore knowing my address is out there for anyone to just find!?"
     m ""
 
-# game/scripts/maria_events.rpy:9263
+# game/scripts/maria_events.rpy:9277
 translate pt_br marcreep_89c6b4df:
 
     # m "There are bad people on the internet [name]... Who knows what they're willing to do..."
     m ""
 
-# game/scripts/maria_events.rpy:9264
+# game/scripts/maria_events.rpy:9278
 translate pt_br marcreep_24ec2aa6:
 
     # c "Do you really think anyone wants to hurt you?"
     c ""
 
-# game/scripts/maria_events.rpy:9266
+# game/scripts/maria_events.rpy:9280
 translate pt_br marcreep_1b7224f9:
 
     # m "I don't know! There's probably some lonely loser out there who would pay a lot of money to come give me a 'visit'..."
     m ""
 
-# game/scripts/maria_events.rpy:9267
+# game/scripts/maria_events.rpy:9281
 translate pt_br marcreep_56d35b94:
 
     # c "That's not good."
     c ""
 
-# game/scripts/maria_events.rpy:9268
+# game/scripts/maria_events.rpy:9282
 translate pt_br marcreep_017c6a2b:
 
     # m "No! It's not..."
     m ""
 
-# game/scripts/maria_events.rpy:9269
+# game/scripts/maria_events.rpy:9283
 translate pt_br marcreep_2dca2ba0:
 
     # m "You need security or something. Buy a gun, I don't know..."
     m ""
 
-# game/scripts/maria_events.rpy:9270
+# game/scripts/maria_events.rpy:9284
 translate pt_br marcreep_2b5be66f:
 
     # c "Would that make you feel safe?"
     c ""
 
-# game/scripts/maria_events.rpy:9271
+# game/scripts/maria_events.rpy:9285
 translate pt_br marcreep_3ff93cc8:
 
     # m "I guess..."
     m ""
 
-# game/scripts/maria_events.rpy:9273
+# game/scripts/maria_events.rpy:9287
 translate pt_br marcreep_9278c91c:
 
     # m "Urgh, still... $500 is a lot. That's like 3 months of rent..."
     m ""
 
-# game/scripts/maria_events.rpy:9274
+# game/scripts/maria_events.rpy:9288
 translate pt_br marcreep_4f4e6124:
 
     # c "Wow, really?"
     c ""
 
-# game/scripts/maria_events.rpy:9275
+# game/scripts/maria_events.rpy:9289
 translate pt_br marcreep_15a8271f:
 
     # m "What do you mean? You're the manager..."
     m ""
 
-# game/scripts/maria_events.rpy:9276
+# game/scripts/maria_events.rpy:9290
 translate pt_br marcreep_df4e35b5:
 
     # c "I don't do the accounting."
     c ""
 
-# game/scripts/maria_events.rpy:9277
+# game/scripts/maria_events.rpy:9291
 translate pt_br marcreep_a47389f3:
 
     # m "Well it's A LOT of money... I could live without worry for so long..."
     m ""
 
-# game/scripts/maria_events.rpy:9278
+# game/scripts/maria_events.rpy:9292
 translate pt_br marcreep_8a8a7c71:
 
     # c "Are you really thinking about doing it?"
     c ""
 
-# game/scripts/maria_events.rpy:9279
+# game/scripts/maria_events.rpy:9293
 translate pt_br marcreep_78561e80:
 
     # m "Egh... If I think about it objectively and forget about that creepy guy... It just makes sense doesn't it?"
     m ""
 
-# game/scripts/maria_events.rpy:9280
+# game/scripts/maria_events.rpy:9294
 translate pt_br marcreep_e10e3389:
 
     # m "What do you think?"
     m ""
 
-# game/scripts/maria_events.rpy:9283
+# game/scripts/maria_events.rpy:9297
 translate pt_br marcreep_ec2941ec:
 
     # m "You're not just saying that because you want to fuck me in the ass, are you?"
     m ""
 
-# game/scripts/maria_events.rpy:9285
+# game/scripts/maria_events.rpy:9299
 translate pt_br marcreep_fed09018:
 
     # m "You think?"
     m ""
 
-# game/scripts/maria_events.rpy:9286
+# game/scripts/maria_events.rpy:9300
 translate pt_br marcreep_88c56c86:
 
     # m "Either way, wouldn't it just encourage him to come back again...?"
     m ""
 
-# game/scripts/maria_events.rpy:9287
+# game/scripts/maria_events.rpy:9301
 translate pt_br marcreep_fc6f1560:
 
     # c "Not if I buy a gun."
     c ""
 
-# game/scripts/maria_events.rpy:9288
+# game/scripts/maria_events.rpy:9302
 translate pt_br marcreep_5986d097:
 
     # m "I guess you're right..."
     m ""
 
-# game/scripts/maria_events.rpy:9290
+# game/scripts/maria_events.rpy:9304
 translate pt_br marcreep_e748c8b9:
 
     # m "Come with me..."
     m ""
 
-# game/scripts/maria_events.rpy:9291
+# game/scripts/maria_events.rpy:9305
 translate pt_br marcreep_a397e1d0:
 
     # c "What are we doing?"
     c ""
 
-# game/scripts/maria_events.rpy:9292
+# game/scripts/maria_events.rpy:9306
 translate pt_br marcreep_925c2661:
 
     # m "Just follow me. Please?"
     m ""
 
-# game/scripts/maria_events.rpy:9293
+# game/scripts/maria_events.rpy:9307
 translate pt_br marcreep_4b489c83:
 
     # c "Okay..."
     c ""
 
-# game/scripts/maria_events.rpy:9295
+# game/scripts/maria_events.rpy:9309
 translate pt_br marcreep_e857bfc4:
 
     # m "I know I teased about it a while ago, but I want you to fuck me in the ass."
     m ""
 
-# game/scripts/maria_events.rpy:9296
+# game/scripts/maria_events.rpy:9310
 translate pt_br marcreep_1def9263:
 
     # m "Simply put... I want the money. And, well... I wouldn't mind giving you my anal virginity."
     m ""
 
-# game/scripts/maria_events.rpy:9297
+# game/scripts/maria_events.rpy:9311
 translate pt_br marcreep_0ac0ff14:
 
     # c "So you're willing to sell your anal virginity?"
     c ""
 
-# game/scripts/maria_events.rpy:9299
+# game/scripts/maria_events.rpy:9313
 translate pt_br marcreep_9969a0a2:
 
     # m "It's $500!"
     m ""
 
-# game/scripts/maria_events.rpy:9300
+# game/scripts/maria_events.rpy:9314
 translate pt_br marcreep_2d7d4b33:
 
     # m "And it's not like I'm giving it to someone I don't care about. I mean... I WANT to do it. And I get $500? Why not?"
     m ""
 
-# game/scripts/maria_events.rpy:9304
+# game/scripts/maria_events.rpy:9318
 translate pt_br marcreep_c0869886:
 
     # m "Good to know you agree."
     m ""
 
-# game/scripts/maria_events.rpy:9306
+# game/scripts/maria_events.rpy:9320
 translate pt_br marcreep_2c43bf9c:
 
     # m "But listen... I was planning on asking you soon anyway... An extra $500 is just a bonus."
     m ""
 
-# game/scripts/maria_events.rpy:9308
+# game/scripts/maria_events.rpy:9322
 translate pt_br marcreep_ccab215d:
 
     # m "What? What are you worried about?"
     m ""
 
-# game/scripts/maria_events.rpy:9309
+# game/scripts/maria_events.rpy:9323
 translate pt_br marcreep_65c9a151:
 
     # c "A creepy guy came to personally offer $500 to have anal sex. That's unsettling."
     c ""
 
-# game/scripts/maria_events.rpy:9311
+# game/scripts/maria_events.rpy:9325
 translate pt_br marcreep_07c7da2d:
 
     # m "*sigh*... I get it. I'm still creeped out too. But I only have until the end of today to do it..."
     m ""
 
-# game/scripts/maria_events.rpy:9312
+# game/scripts/maria_events.rpy:9326
 translate pt_br marcreep_2c015148:
 
     # m "I was planning on asking you soon anyway... So... Please?"
     m ""
 
-# game/scripts/maria_events.rpy:9313
+# game/scripts/maria_events.rpy:9327
 translate pt_br marcreep_c9b0706c:
 
     # m "That guy definitely wouldn't be happy if I refused him... He wasn't right in the head."
     m ""
 
-# game/scripts/maria_events.rpy:9314
+# game/scripts/maria_events.rpy:9328
 translate pt_br marcreep_d817d974:
 
     # m "And, well... I would be able to live here for at least another decade... With you."
     m ""
 
-# game/scripts/maria_events.rpy:9315
+# game/scripts/maria_events.rpy:9329
 translate pt_br marcreep_08b039c3:
 
     # m "What do you say [name]? Please?"
     m ""
 
-# game/scripts/maria_events.rpy:9319
+# game/scripts/maria_events.rpy:9333
 translate pt_br marcreep_2790f3ab:
 
     # m "Really? Thanks!"
     m ""
 
-# game/scripts/maria_events.rpy:9321
+# game/scripts/maria_events.rpy:9335
 translate pt_br marcreep_afe1b17d:
 
     # c "One condition?"
     c ""
 
-# game/scripts/maria_events.rpy:9322
+# game/scripts/maria_events.rpy:9336
 translate pt_br marcreep_6296b7e3:
 
     # m "Sure!"
     m ""
 
-# game/scripts/maria_events.rpy:9323
+# game/scripts/maria_events.rpy:9337
 translate pt_br marcreep_5c5c06a9:
 
     # c "You're not going to stream it."
     c ""
 
-# game/scripts/maria_events.rpy:9325
+# game/scripts/maria_events.rpy:9339
 translate pt_br marcreep_184642ee:
 
     # m "What!? Why!?"
     m ""
 
-# game/scripts/maria_events.rpy:9326
+# game/scripts/maria_events.rpy:9340
 translate pt_br marcreep_19250856:
 
     # c "You don't have to worry about rent. You can live here as long as you want, regardless of money."
     c ""
 
-# game/scripts/maria_events.rpy:9327
+# game/scripts/maria_events.rpy:9341
 translate pt_br marcreep_299b6dc1:
 
     # c "I want you here, and money isn't going to change that."
     c ""
 
-# game/scripts/maria_events.rpy:9329
+# game/scripts/maria_events.rpy:9343
 translate pt_br marcreep_1e859661:
 
     # m "...What?"
     m ""
 
-# game/scripts/maria_events.rpy:9331
+# game/scripts/maria_events.rpy:9345
 translate pt_br marcreep_0bf8a763:
 
     # m "Heh... *sniff* That was really sweet [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:9333
+# game/scripts/maria_events.rpy:9347
 translate pt_br marcreep_6af5c290:
 
     # m "God, I want to fuck you so much now!"
     m ""
 
-# game/scripts/maria_events.rpy:9334
+# game/scripts/maria_events.rpy:9348
 translate pt_br marcreep_9042dc55:
 
     # m "Let's do it! Fuck the money, I want you!"
     m ""
 
-# game/scripts/maria_events.rpy:9337
+# game/scripts/maria_events.rpy:9351
 translate pt_br marcreep_b5b60e0b:
 
     # m "Tsk... Whatever..."
     m ""
 
-# game/scripts/maria_events.rpy:9339
+# game/scripts/maria_events.rpy:9353
 translate pt_br marcreep_cfb933c1:
 
     # m "Maybe you're right, maybe I shouldn't even stream anymore..."
     m ""
 
-# game/scripts/maria_events.rpy:9344
+# game/scripts/maria_events.rpy:9358
 translate pt_br marlspring_1b646dc8:
 
     # l "So how are you liking the hotel? I hope it's clean enough."
     l ""
 
-# game/scripts/maria_events.rpy:9346
+# game/scripts/maria_events.rpy:9360
 translate pt_br marlspring_a0ce6c55:
 
     # m "It's great! And you're doing good, Lin. No complaints from me."
     m ""
 
-# game/scripts/maria_events.rpy:9347
+# game/scripts/maria_events.rpy:9361
 translate pt_br marlspring_14da678c:
 
     # l "Sometimes I get worried if I miss a spot..."
     l ""
 
-# game/scripts/maria_events.rpy:9348
+# game/scripts/maria_events.rpy:9362
 translate pt_br marlspring_7b345b50:
 
     # m "A little dust isn't going to hurt anyone."
     m ""
 
-# game/scripts/maria_events.rpy:9349
+# game/scripts/maria_events.rpy:9363
 translate pt_br marlspring_fb4e5a1c:
 
     # m "I see you're wearing that swimsuit I gave you, how do you like it?"
     m ""
 
-# game/scripts/maria_events.rpy:9351
+# game/scripts/maria_events.rpy:9365
 translate pt_br marlspring_a59d273b:
 
     # l "It's a little slutty... But... I've been feeling a little slutty lately..."
     l ""
 
-# game/scripts/maria_events.rpy:9353
+# game/scripts/maria_events.rpy:9367
 translate pt_br marlspring_4d6a86b9:
 
     # m "You too huh? [name] has his ways..."
     m ""
 
-# game/scripts/maria_events.rpy:9354
+# game/scripts/maria_events.rpy:9368
 translate pt_br marlspring_d91e80c5:
 
     # l "Heheh..."
     l ""
 
-# game/scripts/maria_events.rpy:9356
+# game/scripts/maria_events.rpy:9370
 translate pt_br marlspring_3ce3da88:
 
     # m "Oh, that's new."
     m ""
 
-# game/scripts/maria_events.rpy:9358
+# game/scripts/maria_events.rpy:9372
 translate pt_br marlspring_228a982c:
 
     # l "It's a little slutty... But it was a gift. It would be rude not to wear it."
     l ""
 
-# game/scripts/maria_events.rpy:9359
+# game/scripts/maria_events.rpy:9373
 translate pt_br marlspring_9f518243:
 
     # m "Aw, that's sweet Lin."
     m ""
 
-# game/scripts/maria_events.rpy:9361
+# game/scripts/maria_events.rpy:9375
 translate pt_br marlspring_4a22978d:
 
     # m "Oh hey [name], come to relax?"
     m ""
 
-# game/scripts/maria_events.rpy:9362
+# game/scripts/maria_events.rpy:9376
 translate pt_br marlspring_359e7d89:
 
     # l "Hi [linoname]!"
     l ""
 
-# game/scripts/maria_events.rpy:9364
+# game/scripts/maria_events.rpy:9378
 translate pt_br marlspring_e1f3fb2a:
 
     # m "Lin and I were just getting to know each other."
     m ""
 
-# game/scripts/maria_events.rpy:9365
+# game/scripts/maria_events.rpy:9379
 translate pt_br marlspring_604bd795:
 
     # l "Yup!"
     l ""
 
-# game/scripts/maria_events.rpy:9367
+# game/scripts/maria_events.rpy:9381
 translate pt_br marlspring_6c2b8f7b:
 
     # l "Did you know she used to be a cheerleader? And she graduated top of her class! She's so smart!"
     l ""
 
-# game/scripts/maria_events.rpy:9368
+# game/scripts/maria_events.rpy:9382
 translate pt_br marlspring_cf5f9675:
 
     # m "It's not something I like to brag about."
     m ""
 
-# game/scripts/maria_events.rpy:9371
+# game/scripts/maria_events.rpy:9385
 translate pt_br marlspring_d80f9436:
 
     # m "Haha! You're not wrong..."
     m ""
 
-# game/scripts/maria_events.rpy:9374
+# game/scripts/maria_events.rpy:9388
 translate pt_br marlspring_f96e78c8:
 
     # m "Haha, what's that supposed to mean?"
     m ""
 
-# game/scripts/maria_events.rpy:9377
+# game/scripts/maria_events.rpy:9391
 translate pt_br marlspring_03a923d9:
 
     # m "The fuck?"
     m ""
 
-# game/scripts/maria_events.rpy:9378
+# game/scripts/maria_events.rpy:9392
 translate pt_br marlspring_90afa43f:
 
     # l "That was mean [linoname]..."
     l ""
 
-# game/scripts/maria_events.rpy:9379
+# game/scripts/maria_events.rpy:9393
 translate pt_br marlspring_1d698aab:
 
     # m "I'm not some bimbo who needs help with her homework you know. I actually study."
     m ""
 
-# game/scripts/maria_events.rpy:9383
+# game/scripts/maria_events.rpy:9397
 translate pt_br marlspring_1dfed9b9:
 
     # m "Anyway, what are you doing here [name]? You wouldn't be trying to see if we're talking about you, are you?"
     m ""
 
-# game/scripts/maria_events.rpy:9385
+# game/scripts/maria_events.rpy:9399
 translate pt_br marlspring_0aab00c6:
 
     # l "What? We weren't-"
     l ""
 
-# game/scripts/maria_events.rpy:9386
+# game/scripts/maria_events.rpy:9400
 translate pt_br marlspring_12b68dce:
 
     # m "Shh."
     m ""
 
-# game/scripts/maria_events.rpy:9388
+# game/scripts/maria_events.rpy:9402
 translate pt_br marlspring_24e8bf88:
 
     # m "You know, sometimes us girls like to talk about our boyfriends. Like how many times we've fucked."
     m ""
 
-# game/scripts/maria_events.rpy:9390
+# game/scripts/maria_events.rpy:9404
 translate pt_br marlspring_77ddac28:
 
     # l "Heheh, we've had sex a lot, haven't we [linoname]?"
     l ""
 
-# game/scripts/maria_events.rpy:9392
+# game/scripts/maria_events.rpy:9406
 translate pt_br marlspring_cc9e692d:
 
     # m "You're not the only one. He's fucked me more times than I can count."
     m ""
 
-# game/scripts/maria_events.rpy:9394
+# game/scripts/maria_events.rpy:9408
 translate pt_br marlspring_05845db5:
 
     # m "Hey Lin, have you done anal yet?"
     m ""
 
-# game/scripts/maria_events.rpy:9396
+# game/scripts/maria_events.rpy:9410
 translate pt_br marlspring_3348ec1d:
 
     # l "Oh, yes I have! My first time was with [linoname], and it felt so good I came."
     l ""
 
-# game/scripts/maria_events.rpy:9397
+# game/scripts/maria_events.rpy:9411
 translate pt_br marlspring_6900c95c:
 
     # m "Oh, really? I haven't had the chance..."
     m ""
 
-# game/scripts/maria_events.rpy:9398
+# game/scripts/maria_events.rpy:9412
 translate pt_br marlspring_58dbed9d:
 
     # l "You should try it out! It hurts at first... But it's totally different from vaginal!"
     l ""
 
-# game/scripts/maria_events.rpy:9399
+# game/scripts/maria_events.rpy:9413
 translate pt_br marlspring_6a8b4b3a:
 
     # m "Well, I've used a toy."
     m ""
 
-# game/scripts/maria_events.rpy:9400
+# game/scripts/maria_events.rpy:9414
 translate pt_br marlspring_db63c52b:
 
     # l "But you haven't with [linoname]! His cock is really big. And I bet it would feel much better knowing he was doing it."
     l ""
 
-# game/scripts/maria_events.rpy:9402
+# game/scripts/maria_events.rpy:9416
 translate pt_br marlspring_69b61ff4:
 
     # l "And if he cums inside, it feels so good! It really warms you up."
     l ""
 
-# game/scripts/maria_events.rpy:9403
+# game/scripts/maria_events.rpy:9417
 translate pt_br marlspring_4d8c4def:
 
     # m "That's pretty hot..."
     m ""
 
-# game/scripts/maria_events.rpy:9405
+# game/scripts/maria_events.rpy:9419
 translate pt_br marlspring_9b9521af:
 
     # m "Maybe we should try it out sometime?"
     m ""
 
-# game/scripts/maria_events.rpy:9406
+# game/scripts/maria_events.rpy:9420
 translate pt_br marlspring_8d3c3470:
 
     # l "Do it [linoname]!"
     l ""
 
-# game/scripts/maria_events.rpy:9407
+# game/scripts/maria_events.rpy:9421
 translate pt_br marlspring_1320e6ef:
 
     # c "Maybe some day."
     c ""
 
-# game/scripts/maria_events.rpy:9409
+# game/scripts/maria_events.rpy:9423
 translate pt_br marlspring_7f0181b0:
 
     # l "Well... No... Nothing's supposed to go in there..."
     l ""
 
-# game/scripts/maria_events.rpy:9410
+# game/scripts/maria_events.rpy:9424
 translate pt_br marlspring_fb076ce3:
 
     # m "It's much different from vaginal sex you know."
     m ""
 
-# game/scripts/maria_events.rpy:9411
+# game/scripts/maria_events.rpy:9425
 translate pt_br marlspring_314853c4:
 
     # l "Have you had anal sex?"
     l ""
 
-# game/scripts/maria_events.rpy:9412
+# game/scripts/maria_events.rpy:9426
 translate pt_br marlspring_bbb86e19:
 
     # m "No, but I have used toys."
     m ""
 
-# game/scripts/maria_events.rpy:9413
+# game/scripts/maria_events.rpy:9427
 translate pt_br marlspring_29cce0f7:
 
     # l "I can't imagine it would feel good... It's a dirty place..."
     l ""
 
-# game/scripts/maria_events.rpy:9415
+# game/scripts/maria_events.rpy:9429
 translate pt_br marlspring_9a47dd21:
 
     # m "[name], how dare you not show her the pleasures of anal, haha!"
     m ""
 
-# game/scripts/maria_events.rpy:9416
+# game/scripts/maria_events.rpy:9430
 translate pt_br marlspring_9b9521af_1:
 
     # m "Maybe we should try it out sometime?"
     m ""
 
-# game/scripts/maria_events.rpy:9417
+# game/scripts/maria_events.rpy:9431
 translate pt_br marlspring_1320e6ef_1:
 
     # c "Maybe some day."
     c ""
 
-# game/scripts/maria_events.rpy:9419
+# game/scripts/maria_events.rpy:9433
 translate pt_br marlspring_f078d36f:
 
     # m "What about his cock, have you sucked it yet?"
     m ""
 
-# game/scripts/maria_events.rpy:9421
+# game/scripts/maria_events.rpy:9435
 translate pt_br marlspring_f81f8fd4:
 
     # l "Yes! It feels so big in your mouth, doesn't it?"
     l ""
 
-# game/scripts/maria_events.rpy:9422
+# game/scripts/maria_events.rpy:9436
 translate pt_br marlspring_8709c172:
 
     # m "It kind of hurts my jaw... But oh... I love sucking his cock... I feel like I've been put in my place, serving him... Ahh~"
     m ""
 
-# game/scripts/maria_events.rpy:9423
+# game/scripts/maria_events.rpy:9437
 translate pt_br marlspring_3cd3558b:
 
     # l "Wow you really like it don't you?"
     l ""
 
-# game/scripts/maria_events.rpy:9424
+# game/scripts/maria_events.rpy:9438
 translate pt_br marlspring_70532e47:
 
     # m "Just as much as vaginal sex... It's like I have a g spot in the back of my throat. It makes me so wet..."
     m ""
 
-# game/scripts/maria_events.rpy:9425
+# game/scripts/maria_events.rpy:9439
 translate pt_br marlspring_2444458c:
 
     # l "Wow..."
     l ""
 
-# game/scripts/maria_events.rpy:9427
+# game/scripts/maria_events.rpy:9441
 translate pt_br marlspring_a49632d4:
 
     # l "No..."
     l ""
 
-# game/scripts/maria_events.rpy:9428
+# game/scripts/maria_events.rpy:9442
 translate pt_br marlspring_242a30d7:
 
     # m "That's a shame. A blowjob is the best way to service a man. It feels like he's putting me in my place... Ahh~"
     m ""
 
-# game/scripts/maria_events.rpy:9429
+# game/scripts/maria_events.rpy:9443
 translate pt_br marlspring_50bc1598:
 
     # l "Wow, you really like it don't you?"
     l ""
 
-# game/scripts/maria_events.rpy:9430
+# game/scripts/maria_events.rpy:9444
 translate pt_br marlspring_70532e47_1:
 
     # m "Just as much as vaginal sex... It's like I have a g spot in the back of my throat. It makes me so wet..."
     m ""
 
-# game/scripts/maria_events.rpy:9431
+# game/scripts/maria_events.rpy:9445
 translate pt_br marlspring_2444458c_1:
 
     # l "Wow..."
     l ""
 
-# game/scripts/maria_events.rpy:9432
+# game/scripts/maria_events.rpy:9446
 translate pt_br marlspring_c35b2e0b:
 
     # l "Maria, what are your parents like?"
     l ""
 
-# game/scripts/maria_events.rpy:9434
+# game/scripts/maria_events.rpy:9448
 translate pt_br marlspring_9622b6fc:
 
     # m "Why do you ask...?"
     m ""
 
-# game/scripts/maria_events.rpy:9435
+# game/scripts/maria_events.rpy:9449
 translate pt_br marlspring_7c989117:
 
     # l "Well, my parents tried to make us as independent as possible... So they made us wander outside all the time."
     l ""
 
-# game/scripts/maria_events.rpy:9437
+# game/scripts/maria_events.rpy:9451
 translate pt_br marlspring_ec62fd34:
 
     # l "But now that I think about it... They were probably just having a lot of sex..."
     l ""
 
-# game/scripts/maria_events.rpy:9438
+# game/scripts/maria_events.rpy:9452
 translate pt_br marlspring_63ec2bd8:
 
     # l "Maria?"
     l ""
 
-# game/scripts/maria_events.rpy:9439
+# game/scripts/maria_events.rpy:9453
 translate pt_br marlspring_d3107ef6:
 
     # m "Well..."
     m ""
 
-# game/scripts/maria_events.rpy:9440
+# game/scripts/maria_events.rpy:9454
 translate pt_br marlspring_f6577ce9:
 
     # m "My parents are dead..."
     m ""
 
-# game/scripts/maria_events.rpy:9441
+# game/scripts/maria_events.rpy:9455
 translate pt_br marlspring_e258bf0b:
 
     # l "*gasp*! Oh no! What happened!?"
     l ""
 
-# game/scripts/maria_events.rpy:9443
+# game/scripts/maria_events.rpy:9457
 translate pt_br marlspring_a6c784d9:
 
     # m "Well... I never knew them. So I guess I don't know if they really are dead..."
     m ""
 
-# game/scripts/maria_events.rpy:9444
+# game/scripts/maria_events.rpy:9458
 translate pt_br marlspring_2efcf3cc:
 
     # m "I'm an orphan..."
     m ""
 
-# game/scripts/maria_events.rpy:9445
+# game/scripts/maria_events.rpy:9459
 translate pt_br marlspring_8f2a663b:
 
     # l "What!? Really!? I'm so sorry Maria!"
     l ""
 
-# game/scripts/maria_events.rpy:9446
+# game/scripts/maria_events.rpy:9460
 translate pt_br marlspring_c1ded021:
 
     # m "It wasn't your fault..."
     m ""
 
-# game/scripts/maria_events.rpy:9447
+# game/scripts/maria_events.rpy:9461
 translate pt_br marlspring_b6dbc8b8:
 
     # c "Why haven't you mentioned this before?"
     c ""
 
-# game/scripts/maria_events.rpy:9448
+# game/scripts/maria_events.rpy:9462
 translate pt_br marlspring_90eff352:
 
     # m "What was I supposed to say? 'Hey I'm Maria, my parents are dead by the way.'?"
     m ""
 
-# game/scripts/maria_events.rpy:9449
+# game/scripts/maria_events.rpy:9463
 translate pt_br marlspring_418182c3:
 
     # m "Urgh... I'm sorry... I just don't like thinking about it..."
     m ""
 
-# game/scripts/maria_events.rpy:9450
+# game/scripts/maria_events.rpy:9464
 translate pt_br marlspring_d8c65863:
 
     # m "Like what if they really aren't dead? All I know is I arrived at a foster home when I was 7 months old..."
     m ""
 
-# game/scripts/maria_events.rpy:9451
+# game/scripts/maria_events.rpy:9465
 translate pt_br marlspring_7f4a20d8:
 
     # m "What if they just didn't want me anymore..."
     m ""
 
-# game/scripts/maria_events.rpy:9452
+# game/scripts/maria_events.rpy:9466
 translate pt_br marlspring_e3c312b2:
 
     # l "No! Maria! That can't be it! I'm sure your parents loved you!"
     l ""
 
-# game/scripts/maria_events.rpy:9453
+# game/scripts/maria_events.rpy:9467
 translate pt_br marlspring_863506b9:
 
     # m "Well... It keeps me up at night..."
     m ""
 
-# game/scripts/maria_events.rpy:9454
+# game/scripts/maria_events.rpy:9468
 translate pt_br marlspring_b7f249d3:
 
     # c "How were you able to go to college then?"
     c ""
 
-# game/scripts/maria_events.rpy:9455
+# game/scripts/maria_events.rpy:9469
 translate pt_br marlspring_023ac6eb:
 
     # m "Luck I guess... I mean, I was smart in high school, but I was given a scholarship... Mostly because I was an orphan..."
     m ""
 
-# game/scripts/maria_events.rpy:9456
+# game/scripts/maria_events.rpy:9470
 translate pt_br marlspring_e369cf7f:
 
     # l "U-Uhmmm, how about we change the subject? Any siblings?"
     l ""
 
-# game/scripts/maria_events.rpy:9457
+# game/scripts/maria_events.rpy:9471
 translate pt_br marlspring_dee46be1:
 
     # m "Just the other kids at the foster home..."
     m ""
 
-# game/scripts/maria_events.rpy:9458
+# game/scripts/maria_events.rpy:9472
 translate pt_br marlspring_c3892b6a:
 
     # l "O-Ohh, Umm..."
     l ""
 
-# game/scripts/maria_events.rpy:9459
+# game/scripts/maria_events.rpy:9473
 translate pt_br marlspring_10dea1f7:
 
     # c "Didn't you say your parents were bugging you to get a job, and that's how you got in to streaming?"
     c ""
 
-# game/scripts/maria_events.rpy:9460
+# game/scripts/maria_events.rpy:9474
 translate pt_br marlspring_46220836:
 
     # m "I lied okay!? We were on a date... I didn't want to ruin the mood..."
     m ""
 
-# game/scripts/maria_events.rpy:9461
+# game/scripts/maria_events.rpy:9475
 translate pt_br marlspring_1ea1116c:
 
     # l "What's streaming?"
     l ""
 
-# game/scripts/maria_events.rpy:9462
+# game/scripts/maria_events.rpy:9476
 translate pt_br marlspring_fa34bded:
 
     # m "It's just... you wouldn't understand... It's a computer thing."
     m ""
 
-# game/scripts/maria_events.rpy:9463
+# game/scripts/maria_events.rpy:9477
 translate pt_br marlspring_ab87af7d:
 
     # l "But I like computers! They're so interesting, they can do so many things!"
     l ""
 
-# game/scripts/maria_events.rpy:9464
+# game/scripts/maria_events.rpy:9478
 translate pt_br marlspring_4ec29062:
 
     # m "...Streaming is when you... urgh, how do I explain this to you... Imagine we could talk from very far away, even though it looked like we were right next to each other."
     m ""
 
-# game/scripts/maria_events.rpy:9465
+# game/scripts/maria_events.rpy:9479
 translate pt_br marlspring_90dd9098:
 
     # l "Uh... what?"
     l ""
 
-# game/scripts/maria_events.rpy:9466
+# game/scripts/maria_events.rpy:9480
 translate pt_br marlspring_6b836384:
 
     # m "Let's see here... Okay, Imagine you had a picture of me, but that picture was me, and you could ask me questions and everything."
     m ""
 
-# game/scripts/maria_events.rpy:9467
+# game/scripts/maria_events.rpy:9481
 translate pt_br marlspring_44007200:
 
     # l "I'm so confused..."
     l ""
 
-# game/scripts/maria_events.rpy:9468
+# game/scripts/maria_events.rpy:9482
 translate pt_br marlspring_caf221f3:
 
     # m "I guess you'd just have to see it for yourself."
     m ""
 
-# game/scripts/maria_events.rpy:9469
+# game/scripts/maria_events.rpy:9483
 translate pt_br marlspring_ba8e2378:
 
     # l "Really? Can I?"
     l ""
 
-# game/scripts/maria_events.rpy:9471
+# game/scripts/maria_events.rpy:9485
 translate pt_br marlspring_76542275:
 
     # m "You want to see my stream?"
     m ""
 
-# game/scripts/maria_events.rpy:9472
+# game/scripts/maria_events.rpy:9486
 translate pt_br marlspring_5afa3407:
 
     # l "Yeah! That sounds so cool! How many people are looking at your pictures?"
     l ""
 
-# game/scripts/maria_events.rpy:9473
+# game/scripts/maria_events.rpy:9487
 translate pt_br marlspring_791bcca5:
 
     # m "Well, it's not really pictures... Egh, nevermind..."
     m ""
 
-# game/scripts/maria_events.rpy:9475
+# game/scripts/maria_events.rpy:9489
 translate pt_br marlspring_b9469384:
 
     # m "I'll just have to show you some time."
     m ""
 
-# game/scripts/maria_events.rpy:9476
+# game/scripts/maria_events.rpy:9490
 translate pt_br marlspring_8fd0fe07:
 
     # l "Really? I would love to!"
     l ""
 
-# game/scripts/maria_events.rpy:9477
+# game/scripts/maria_events.rpy:9491
 translate pt_br marlspring_04bcba7f:
 
     # m "Just a warning, I do it naked."
     m ""
 
-# game/scripts/maria_events.rpy:9478
+# game/scripts/maria_events.rpy:9492
 translate pt_br marlspring_77ab9800:
 
     # l "W-What!? Naked!? Why would you let people see you naked!?"
     l ""
 
-# game/scripts/maria_events.rpy:9479
+# game/scripts/maria_events.rpy:9493
 translate pt_br marlspring_59c2e339:
 
     # m "I've got to make money somehow..."
     m ""
 
-# game/scripts/maria_events.rpy:9480
+# game/scripts/maria_events.rpy:9494
 translate pt_br marlspring_54dca91c:
 
     # l "People... give you money for that?"
     l ""
 
-# game/scripts/maria_events.rpy:9481
+# game/scripts/maria_events.rpy:9495
 translate pt_br marlspring_be1d2900:
 
     # m "Yep, a lot."
     m ""
 
-# game/scripts/maria_events.rpy:9482
+# game/scripts/maria_events.rpy:9496
 translate pt_br marlspring_fff58484:
 
     # l "How much...?"
     l ""
 
-# game/scripts/maria_events.rpy:9483
+# game/scripts/maria_events.rpy:9497
 translate pt_br marlspring_989b94ce:
 
     # m "I can make a couple hundred dollars a day."
     m ""
 
-# game/scripts/maria_events.rpy:9484
+# game/scripts/maria_events.rpy:9498
 translate pt_br marlspring_2b88e4f1:
 
     # l "And all you do is... be naked?"
     l ""
 
-# game/scripts/maria_events.rpy:9485
+# game/scripts/maria_events.rpy:9499
 translate pt_br marlspring_a5249481:
 
     # m "There's more to it than that. But that's the gist of it."
     m ""
 
-# game/scripts/maria_events.rpy:9487
+# game/scripts/maria_events.rpy:9501
 translate pt_br marlspring_a2d2e667:
 
     # l "[linoname] did you know Maria was rich? You should walk around naked!"
     l ""
 
-# game/scripts/maria_events.rpy:9488
+# game/scripts/maria_events.rpy:9502
 translate pt_br marlspring_0b4e875e:
 
     # c "I don't think anyone would be interested in that."
     c ""
 
-# game/scripts/maria_events.rpy:9490
+# game/scripts/maria_events.rpy:9504
 translate pt_br marlspring_d51425eb:
 
     # m "They only watch women on there."
     m ""
 
-# game/scripts/maria_events.rpy:9491
+# game/scripts/maria_events.rpy:9505
 translate pt_br marlspring_365a094a:
 
     # l "Oh... But I want to see! Can I see?"
     l ""
 
-# game/scripts/maria_events.rpy:9492
+# game/scripts/maria_events.rpy:9506
 translate pt_br marlspring_c112ecdd:
 
     # m "Maybe some day."
     m ""
 
-# game/scripts/maria_events.rpy:9493
+# game/scripts/maria_events.rpy:9507
 translate pt_br marlspring_e0c29e8c:
 
     # l "Oh okay."
     l ""
 
-# game/scripts/maria_events.rpy:9495
+# game/scripts/maria_events.rpy:9509
 translate pt_br marlspring_00d4a768:
 
     # m "Well, I think I'm done here."
     m ""
 
-# game/scripts/maria_events.rpy:9497
+# game/scripts/maria_events.rpy:9511
 translate pt_br marlspring_38442ff4:
 
     # m "Thanks for talking to me Lin."
     m ""
 
-# game/scripts/maria_events.rpy:9498
+# game/scripts/maria_events.rpy:9512
 translate pt_br marlspring_ef7cdb0a:
 
     # l "Sure, no problem!"
     l ""
 
-# game/scripts/maria_events.rpy:9505
+# game/scripts/maria_events.rpy:9519
 translate pt_br marlinstream_8967f664:
 
     # m "So what do you think?"
     m ""
 
-# game/scripts/maria_events.rpy:9506
+# game/scripts/maria_events.rpy:9520
 translate pt_br marlinstream_b5f912f2:
 
     # l "It's all so interesting! There's so many toys I've never seen before..."
     l ""
 
-# game/scripts/maria_events.rpy:9507
+# game/scripts/maria_events.rpy:9521
 translate pt_br marlinstream_51352fff:
 
     # m "Wanna try one out?"
     m ""
 
-# game/scripts/maria_events.rpy:9508
+# game/scripts/maria_events.rpy:9522
 translate pt_br marlinstream_fb3a1273:
 
     # l "I don't know, it looks a bit scary..."
     l ""
 
-# game/scripts/maria_events.rpy:9509
+# game/scripts/maria_events.rpy:9523
 translate pt_br marlinstream_fc631e4a:
 
     # l "Are there really people watching us?"
     l ""
 
-# game/scripts/maria_events.rpy:9510
+# game/scripts/maria_events.rpy:9524
 translate pt_br marlinstream_6c80ff35:
 
     # m "The camera is only on me right now, but I'm sure the people would love to see you naked."
     m ""
 
-# game/scripts/maria_events.rpy:9511
+# game/scripts/maria_events.rpy:9525
 translate pt_br marlinstream_16efdb38:
 
     # l "I don't know... how many people are watching you?"
     l ""
 
-# game/scripts/maria_events.rpy:9512
+# game/scripts/maria_events.rpy:9526
 translate pt_br marlinstream_b00dcda6:
 
     # m "It's a slow day, only a couple hundred."
     m ""
 
-# game/scripts/maria_events.rpy:9513
+# game/scripts/maria_events.rpy:9527
 translate pt_br marlinstream_e97cec3b:
 
     # l "Wow... That's a lot of people looking at you nude..."
     l ""
 
-# game/scripts/maria_events.rpy:9514
+# game/scripts/maria_events.rpy:9528
 translate pt_br marlinstream_db4faa34:
 
     # m "And they pay a lot too! All you have to do is show them your breasts and they'll go crazy! You could probably make a lot of money too. There aren't any Elves streaming."
     m ""
 
-# game/scripts/maria_events.rpy:9515
+# game/scripts/maria_events.rpy:9529
 translate pt_br marlinstream_4dbfc562:
 
     # l "R-Really? How much could I make?"
     l ""
 
-# game/scripts/maria_events.rpy:9516
+# game/scripts/maria_events.rpy:9530
 translate pt_br marlinstream_439f5d94:
 
     # m "I bet you could make $1,000 on your first day."
     m ""
 
-# game/scripts/maria_events.rpy:9517
+# game/scripts/maria_events.rpy:9531
 translate pt_br marlinstream_5598eed5:
 
     # l "Really!?"
     l ""
 
-# game/scripts/maria_events.rpy:9518
+# game/scripts/maria_events.rpy:9532
 translate pt_br marlinstream_48c0be5b:
 
     # m "How about it? Wanna give it a go?"
     m ""
 
-# game/scripts/maria_events.rpy:9519
+# game/scripts/maria_events.rpy:9533
 translate pt_br marlinstream_dfd19f9f:
 
     # l "Um... I don't know... It's a lot of people..."
     l ""
 
-# game/scripts/maria_events.rpy:9520
+# game/scripts/maria_events.rpy:9534
 translate pt_br marlinstream_b39b4104:
 
     # m "Don't think of them as people, think of them as... potential donations. It helps when you forget they really exist."
     m ""
 
-# game/scripts/maria_events.rpy:9521
+# game/scripts/maria_events.rpy:9535
 translate pt_br marlinstream_b1d3a58a:
 
     # l "That's a bit mean Maria..."
     l ""
 
-# game/scripts/maria_events.rpy:9522
+# game/scripts/maria_events.rpy:9536
 translate pt_br marlinstream_14d2e3c8:
 
     # m "Well, that's just how it is. Even I couldn't actually stomach showing my breasts to over a thousand people face to face."
     m ""
 
-# game/scripts/maria_events.rpy:9523
+# game/scripts/maria_events.rpy:9537
 translate pt_br marlinstream_a9ecfbea:
 
     # l "Oh... Well... I guess if it's just my breasts..."
     l ""
 
-# game/scripts/maria_events.rpy:9524
+# game/scripts/maria_events.rpy:9538
 translate pt_br marlinstream_efa76d2b:
 
     # m "That's the spirit! And don't worry, any donations I get, you'll get half of."
     m ""
 
-# game/scripts/maria_events.rpy:9526
+# game/scripts/maria_events.rpy:9540
 translate pt_br marlinstream_eb1e9630:
 
     # l "Um... Hi guys!"
     l ""
 
-# game/scripts/maria_events.rpy:9527
+# game/scripts/maria_events.rpy:9541
 translate pt_br marlinstream_0f214366:
 
     # "{i}ding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9529
+# game/scripts/maria_events.rpy:9543
 translate pt_br marlinstream_7391c277:
 
     # m "Oh look! You already got a donation!"
     m ""
 
-# game/scripts/maria_events.rpy:9530
+# game/scripts/maria_events.rpy:9544
 translate pt_br marlinstream_c90cb2d1:
 
     # l "O-Oh, really?"
     l ""
 
-# game/scripts/maria_events.rpy:9532
+# game/scripts/maria_events.rpy:9546
 translate pt_br marlinstream_1f5023a9:
 
     # l "Um, Thank you for the donation!"
     l ""
 
-# game/scripts/maria_events.rpy:9534
+# game/scripts/maria_events.rpy:9548
 translate pt_br marlinstream_a42499be:
 
     # l "You want to see me... suck a cock?"
     l ""
 
-# game/scripts/maria_events.rpy:9535
+# game/scripts/maria_events.rpy:9549
 translate pt_br marlinstream_21b0ed83:
 
     # m "Oh, don't mind them, they say stuff some times."
     m ""
 
-# game/scripts/maria_events.rpy:9536
+# game/scripts/maria_events.rpy:9550
 translate pt_br marlinstream_5ec8def7:
 
     # l "A big fat cock... in the ass...?"
     l ""
 
-# game/scripts/maria_events.rpy:9537
+# game/scripts/maria_events.rpy:9551
 translate pt_br marlinstream_107f249f:
 
     # m "Uh, hey! Why don't you ignore them and show them your tits?"
     m ""
 
-# game/scripts/maria_events.rpy:9539
+# game/scripts/maria_events.rpy:9553
 translate pt_br marlinstream_08a25382:
 
     # l "Oh, uh. I guess... It'll get us money, right?"
     l ""
 
-# game/scripts/maria_events.rpy:9540
+# game/scripts/maria_events.rpy:9554
 translate pt_br marlinstream_175cd8b4:
 
     # m "That's right!"
     m ""
 
-# game/scripts/maria_events.rpy:9542
+# game/scripts/maria_events.rpy:9556
 translate pt_br marlinstream_3a96b615:
 
     # l "Okay, umm, do you guys want to see my breasts?"
     l ""
 
-# game/scripts/maria_events.rpy:9543
+# game/scripts/maria_events.rpy:9557
 translate pt_br marlinstream_dc49e877:
 
     # "{i}ding, ding, ding, ding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9545
+# game/scripts/maria_events.rpy:9559
 translate pt_br marlinstream_45bef0f2:
 
     # l "Wow, they're giving us a lot of money!"
     l ""
 
-# game/scripts/maria_events.rpy:9546
+# game/scripts/maria_events.rpy:9560
 translate pt_br marlinstream_8cae0993:
 
     # m "You should probably give them what they want."
     m ""
 
-# game/scripts/maria_events.rpy:9548
+# game/scripts/maria_events.rpy:9562
 translate pt_br marlinstream_804b1ec6:
 
     # l "O-Okay... here I go..."
     l ""
 
-# game/scripts/maria_events.rpy:9550
+# game/scripts/maria_events.rpy:9564
 translate pt_br marlinstream_766446c5:
 
     # l "They're out..."
     l ""
 
-# game/scripts/maria_events.rpy:9551
+# game/scripts/maria_events.rpy:9565
 translate pt_br marlinstream_d07f183d:
 
     # "{i}dingdingdingdingding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9553
+# game/scripts/maria_events.rpy:9567
 translate pt_br marlinstream_cb4575db:
 
     # l "Look! They're donating so much!"
     l ""
 
-# game/scripts/maria_events.rpy:9554
+# game/scripts/maria_events.rpy:9568
 translate pt_br marlinstream_29c91977:
 
     # m "They must really like you."
     m ""
 
-# game/scripts/maria_events.rpy:9556
+# game/scripts/maria_events.rpy:9570
 translate pt_br marlinstream_b38a703c:
 
     # l "This one wants to... cum on my slutty Elf tits?"
     l ""
 
-# game/scripts/maria_events.rpy:9557
+# game/scripts/maria_events.rpy:9571
 translate pt_br marlinstream_0630e97d:
 
     # l "They're not slutty... They're cute..."
     l ""
 
-# game/scripts/maria_events.rpy:9558
+# game/scripts/maria_events.rpy:9572
 translate pt_br marlinstream_f2029b94:
 
     # l "Suck on my nipples? Why would you do that... He's not a baby, right?"
     l ""
 
-# game/scripts/maria_events.rpy:9559
+# game/scripts/maria_events.rpy:9573
 translate pt_br marlinstream_595e1a9b:
 
     # m "Some guys are into that."
     m ""
 
-# game/scripts/maria_events.rpy:9560
+# game/scripts/maria_events.rpy:9574
 translate pt_br marlinstream_ae706233:
 
     # l "Being a baby?"
     l ""
 
-# game/scripts/maria_events.rpy:9561
+# game/scripts/maria_events.rpy:9575
 translate pt_br marlinstream_3d632f7c:
 
     # m "No! Sucking on nipples."
     m ""
 
-# game/scripts/maria_events.rpy:9562
+# game/scripts/maria_events.rpy:9576
 translate pt_br marlinstream_83593ed5:
 
     # l "Ohh..."
     l ""
 
-# game/scripts/maria_events.rpy:9564
+# game/scripts/maria_events.rpy:9578
 translate pt_br marlinstream_fca74ada:
 
     # m "Hey you should take off everything!"
     m ""
 
-# game/scripts/maria_events.rpy:9565
+# game/scripts/maria_events.rpy:9579
 translate pt_br marlinstream_5057ba24:
 
     # l "What? Everything? ...Would we get more money?"
     l ""
 
-# game/scripts/maria_events.rpy:9566
+# game/scripts/maria_events.rpy:9580
 translate pt_br marlinstream_52091155:
 
     # m "Of course! They'd go crazy!"
     m ""
 
-# game/scripts/maria_events.rpy:9567
+# game/scripts/maria_events.rpy:9581
 translate pt_br marlinstream_b4ab457a:
 
     # l "Heheh, okay. This is kind of fun! But... I don't want them to see my... Umm.."
     l ""
 
-# game/scripts/maria_events.rpy:9568
+# game/scripts/maria_events.rpy:9582
 translate pt_br marlinstream_8a9e7159:
 
     # m "That's fine, you can keep your panties on. {size=-10}{i}For now...{/i}{/size}"
     m ""
 
-# game/scripts/maria_events.rpy:9570
+# game/scripts/maria_events.rpy:9584
 translate pt_br marlinstream_dca843b5:
 
     # "{i}dingdingdingdingdingdingdingdingding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9571
+# game/scripts/maria_events.rpy:9585
 translate pt_br marlinstream_cbae115e:
 
     # l "Wow! You got so much money!"
     l ""
 
-# game/scripts/maria_events.rpy:9572
+# game/scripts/maria_events.rpy:9586
 translate pt_br marlinstream_c4924d4f:
 
     # m "{i}We{/i} got so much money."
     m ""
 
-# game/scripts/maria_events.rpy:9573
+# game/scripts/maria_events.rpy:9587
 translate pt_br marlinstream_9e6599bd:
 
     # l "Oh, right."
     l ""
 
-# game/scripts/maria_events.rpy:9574
+# game/scripts/maria_events.rpy:9588
 translate pt_br marlinstream_4cf0951f:
 
     # "{i}ding, ding, ding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9575
+# game/scripts/maria_events.rpy:9589
 translate pt_br marlinstream_8a02914b:
 
     # l "Wow, they really are going crazy!"
     l ""
 
-# game/scripts/maria_events.rpy:9576
+# game/scripts/maria_events.rpy:9590
 translate pt_br marlinstream_626d771c:
 
     # m "Haha, I'm jealous. They must not get to see Elves much."
     m ""
 
-# game/scripts/maria_events.rpy:9577
+# game/scripts/maria_events.rpy:9591
 translate pt_br marlinstream_5a2ff0a7:
 
     # "{i}{b}DING{/b}{/i}" with ssshake
     "" with ssshake
 
-# game/scripts/maria_events.rpy:9578
+# game/scripts/maria_events.rpy:9592
 translate pt_br marlinstream_b8209501:
 
     # l "Wow! We just got $50!"
     l ""
 
-# game/scripts/maria_events.rpy:9580
+# game/scripts/maria_events.rpy:9594
 translate pt_br marlinstream_60ccc972:
 
     # l "The note says... 'I want to see Maria lick the Elf's pussy'?"
     l ""
 
-# game/scripts/maria_events.rpy:9581
+# game/scripts/maria_events.rpy:9595
 translate pt_br marlinstream_803945fc:
 
     # m "Let me see..."
     m ""
 
-# game/scripts/maria_events.rpy:9583
+# game/scripts/maria_events.rpy:9597
 translate pt_br marlinstream_245f810c:
 
     # m "Hm, the payment went through..."
     m ""
 
-# game/scripts/maria_events.rpy:9585
+# game/scripts/maria_events.rpy:9599
 translate pt_br marlinstream_a5716933:
 
     # m "What do you think? Should we do it?"
     m ""
 
-# game/scripts/maria_events.rpy:9586
+# game/scripts/maria_events.rpy:9600
 translate pt_br marlinstream_9ecd81cf:
 
     # l "But... Why would you lick my pussy? You're a girl..."
     l ""
 
-# game/scripts/maria_events.rpy:9587
+# game/scripts/maria_events.rpy:9601
 translate pt_br marlinstream_ca16c11b:
 
     # m "I'm bisexual Lin."
     m ""
 
-# game/scripts/maria_events.rpy:9588
+# game/scripts/maria_events.rpy:9602
 translate pt_br marlinstream_bbd23f7a:
 
     # l "So... You want to lick my pussy?"
     l ""
 
-# game/scripts/maria_events.rpy:9589
+# game/scripts/maria_events.rpy:9603
 translate pt_br marlinstream_a26965c5:
 
     # m "That's right..."
     m ""
 
-# game/scripts/maria_events.rpy:9590
+# game/scripts/maria_events.rpy:9604
 translate pt_br marlinstream_4471af31:
 
     # l "Oh... But... I don't think [linoname] would like that..."
     l ""
 
-# game/scripts/maria_events.rpy:9591
+# game/scripts/maria_events.rpy:9605
 translate pt_br marlinstream_502c9d7f:
 
     # m "Are you kidding? I'm sure he would love it if we got closer!"
     m ""
 
-# game/scripts/maria_events.rpy:9592
+# game/scripts/maria_events.rpy:9606
 translate pt_br marlinstream_222037ba:
 
     # l "I'm going to go ask him..."
     l ""
 
-# game/scripts/maria_events.rpy:9595
+# game/scripts/maria_events.rpy:9609
 translate pt_br marlinstream_912996e5:
 
     # l "Oh! Hi [linoname]... I didn't know you were there..."
     l ""
 
-# game/scripts/maria_events.rpy:9596
+# game/scripts/maria_events.rpy:9610
 translate pt_br marlinstream_48fc288b:
 
     # c "What's up?"
     c ""
 
-# game/scripts/maria_events.rpy:9599
+# game/scripts/maria_events.rpy:9613
 translate pt_br marlinstream_24dd34bc:
 
     # l "Maria was showing me her computer and how she streams, It's really cool."
     l ""
 
-# game/scripts/maria_events.rpy:9600
+# game/scripts/maria_events.rpy:9614
 translate pt_br marlinstream_047c91d2:
 
     # l "The people on the computer started giving us a lot of money. I was nervous at first, but I decided to show them my breasts. I hope that's okay..."
     l ""
 
-# game/scripts/maria_events.rpy:9601
+# game/scripts/maria_events.rpy:9615
 translate pt_br marlinstream_94a7b281:
 
     # l "And we started getting even more money! So I took off everything but my panties. I wasn't sure if you wanted anyone else to see my pussy..."
     l ""
 
-# game/scripts/maria_events.rpy:9602
+# game/scripts/maria_events.rpy:9616
 translate pt_br marlinstream_69bd4c79:
 
     # l "But then we got a HUGE donation!"
     l ""
 
-# game/scripts/maria_events.rpy:9605
+# game/scripts/maria_events.rpy:9619
 translate pt_br marlinstream_9a428110:
 
     # l "The person said they wanted Maria to lick my pussy... I wasn't sure if I should go through with it..."
     l ""
 
-# game/scripts/maria_events.rpy:9606
+# game/scripts/maria_events.rpy:9620
 translate pt_br marlinstream_1c7d5fe8:
 
     # c "What do you think?"
     c ""
 
-# game/scripts/maria_events.rpy:9607
+# game/scripts/maria_events.rpy:9621
 translate pt_br marlinstream_a0906033:
 
     # l "Well... It was a lot of money... If I can help Maria out I don't think it's too bad... But it's your decision [linoname]..."
     l ""
 
-# game/scripts/maria_events.rpy:9612
+# game/scripts/maria_events.rpy:9626
 translate pt_br marlinstream_c5934a4d:
 
     # l "Okay [linoname]! I've never had my pussy licked by a girl before... It should be interesting!"
     l ""
 
-# game/scripts/maria_events.rpy:9614
+# game/scripts/maria_events.rpy:9628
 translate pt_br marlinstream_7c741e60:
 
     # m "What'd he say?"
     m ""
 
-# game/scripts/maria_events.rpy:9615
+# game/scripts/maria_events.rpy:9629
 translate pt_br marlinstream_d74eb190:
 
     # l "He said I could help."
     l ""
 
-# game/scripts/maria_events.rpy:9616
+# game/scripts/maria_events.rpy:9630
 translate pt_br marlinstream_14e490b3:
 
     # m "See? What did I tell you?"
     m ""
 
-# game/scripts/maria_events.rpy:9617
+# game/scripts/maria_events.rpy:9631
 translate pt_br marlinstream_f3529d77:
 
     # l "I'm... still a bit nervous... We'll get a lot of money, right?"
     l ""
 
-# game/scripts/maria_events.rpy:9618
+# game/scripts/maria_events.rpy:9632
 translate pt_br marlinstream_61a392e9:
 
     # m "Just relax... I'll do everything."
     m ""
 
-# game/scripts/maria_events.rpy:9619
+# game/scripts/maria_events.rpy:9633
 translate pt_br marlinstream_eb8692b2:
 
     # l "Oh, okay..."
     l ""
 
-# game/scripts/maria_events.rpy:9621
+# game/scripts/maria_events.rpy:9635
 translate pt_br marlinstream_f4b1c419:
 
     # m "Ah~ You have such a pretty pussy Lin..."
     m ""
 
-# game/scripts/maria_events.rpy:9622
+# game/scripts/maria_events.rpy:9636
 translate pt_br marlinstream_732616b5:
 
     # l "Oh... T-Thank you... Ahh..."
     l ""
 
-# game/scripts/maria_events.rpy:9624
+# game/scripts/maria_events.rpy:9638
 translate pt_br marlinstream_afd792ac:
 
     # m "How does it feel having your clit licked?"
     m ""
 
-# game/scripts/maria_events.rpy:9625
+# game/scripts/maria_events.rpy:9639
 translate pt_br marlinstream_98a40d22:
 
     # l "Nnn... F-Funny..."
     l ""
 
-# game/scripts/maria_events.rpy:9626
+# game/scripts/maria_events.rpy:9640
 translate pt_br marlinstream_823d5f34:
 
     # m "But good?"
     m ""
 
-# game/scripts/maria_events.rpy:9627
+# game/scripts/maria_events.rpy:9641
 translate pt_br marlinstream_2f2baa41:
 
     # l "Yes... I think so... Ahh..."
     l ""
 
-# game/scripts/maria_events.rpy:9629
+# game/scripts/maria_events.rpy:9643
 translate pt_br marlinstream_c090cee3:
 
     # l "It's different from [linoname]'s penis..."
     l ""
 
-# game/scripts/maria_events.rpy:9630
+# game/scripts/maria_events.rpy:9644
 translate pt_br marlinstream_f47dc8e6:
 
     # "{i}ding ding ding ding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9631
+# game/scripts/maria_events.rpy:9645
 translate pt_br marlinstream_aaba422f:
 
     # l "Your tongue... Ah... Is so soft..."
     l ""
 
-# game/scripts/maria_events.rpy:9632
+# game/scripts/maria_events.rpy:9646
 translate pt_br marlinstream_65114b43:
 
     # m "Mmhmmm..."
     m ""
 
-# game/scripts/maria_events.rpy:9633
+# game/scripts/maria_events.rpy:9647
 translate pt_br marlinstream_0388dbb6:
 
     # l "Ahh..."
     l ""
 
-# game/scripts/maria_events.rpy:9634
+# game/scripts/maria_events.rpy:9648
 translate pt_br marlinstream_450d8300:
 
     # "{i}dingdingdingdingdingdingding{/i}"
     ""
 
-# game/scripts/maria_events.rpy:9635
+# game/scripts/maria_events.rpy:9649
 translate pt_br marlinstream_0495e321:
 
     # m "*slurp* They're really enjoying it Lin... Lllp"
     m ""
 
-# game/scripts/maria_events.rpy:9636
+# game/scripts/maria_events.rpy:9650
 translate pt_br marlinstream_401924ab:
 
     # l "Ahhh... Nn... T-Thank you for the money..."
     l ""
 
-# game/scripts/maria_events.rpy:9640
+# game/scripts/maria_events.rpy:9654
 translate pt_br marlinstream_d3514c3f:
 
     # l "Ahh! Ahh... You're going so fast! W-What are you doing?"
     l ""
 
-# game/scripts/maria_events.rpy:9641
+# game/scripts/maria_events.rpy:9655
 translate pt_br marlinstream_6548e8d7:
 
     # m "Mmmmp, making you cum..."
     m ""
 
-# game/scripts/maria_events.rpy:9642
+# game/scripts/maria_events.rpy:9656
 translate pt_br marlinstream_5f987438:
 
     # l "Ahh... Hahhh... I think it's working! Nnnn!"
     l ""
 
-# game/scripts/maria_events.rpy:9643
+# game/scripts/maria_events.rpy:9657
 translate pt_br marlinstream_b62f8fc6:
 
     # "{i}dingdingding{b}DING{/b}dingdingdingding{b}DING{/b}dingding{/i}" with ssshake
     "" with ssshake
 
-# game/scripts/maria_events.rpy:9644
+# game/scripts/maria_events.rpy:9658
 translate pt_br marlinstream_14a6d1bb:
 
     # m "Mmmm, thanks for the tips..."
     m ""
 
-# game/scripts/maria_events.rpy:9645
+# game/scripts/maria_events.rpy:9659
 translate pt_br marlinstream_9f28304a:
 
     # l "Ahh! Hahhh! Nnn! Ahh!"
     l ""
 
-# game/scripts/maria_events.rpy:9646
+# game/scripts/maria_events.rpy:9660
 translate pt_br marlinstream_968d354d:
 
     # m "About to cum?"
     m ""
 
-# game/scripts/maria_events.rpy:9647
+# game/scripts/maria_events.rpy:9661
 translate pt_br marlinstream_62923d91:
 
     # l "Yes! Yes! Don't stop, please! Ahh!"
     l ""
 
-# game/scripts/maria_events.rpy:9648
+# game/scripts/maria_events.rpy:9662
 translate pt_br marlinstream_fdc4b3c0:
 
     # l "Nnn! NNN! I'm cumming! I'm cumming! Ahh!"
     l ""
 
-# game/scripts/maria_events.rpy:9650
+# game/scripts/maria_events.rpy:9664
 translate pt_br marlinstream_9d80db53:
 
     # l "Ahh!!! NNN!" with ssshake
     l "" with ssshake
 
-# game/scripts/maria_events.rpy:9651
+# game/scripts/maria_events.rpy:9665
 translate pt_br marlinstream_31a97fb7:
 
     # "{i}dingdingding{b}DING{/b}dingdingdingding{b}DINGDING{/b}{b}DING{/b}dingdingdingdingdingdingdingding{/i}" with ssshake
     "" with ssshake
 
-# game/scripts/maria_events.rpy:9652
+# game/scripts/maria_events.rpy:9666
 translate pt_br marlinstream_ce2c515c:
 
     # m "Mmm..."
     m ""
 
-# game/scripts/maria_events.rpy:9654
+# game/scripts/maria_events.rpy:9668
 translate pt_br marlinstream_a0e6559e:
 
     # l "Ahh... You made me cum... with your tongue... Nnnn..."
     l ""
 
-# game/scripts/maria_events.rpy:9655
+# game/scripts/maria_events.rpy:9669
 translate pt_br marlinstream_c88dd55f:
 
     # m "So? How was it? Did you like your first time streaming?"
     m ""
 
-# game/scripts/maria_events.rpy:9656
+# game/scripts/maria_events.rpy:9670
 translate pt_br marlinstream_4bbc963c:
 
     # l "It was... fun..."
     l ""
 
-# game/scripts/maria_events.rpy:9657
+# game/scripts/maria_events.rpy:9671
 translate pt_br marlinstream_a94a9e90:
 
     # m "The viewers enjoyed it too..."
     m ""
 
-# game/scripts/maria_events.rpy:9658
+# game/scripts/maria_events.rpy:9672
 translate pt_br marlinstream_406deb61:
 
     # l "The viewers?"
     l ""
 
-# game/scripts/maria_events.rpy:9660
+# game/scripts/maria_events.rpy:9674
 translate pt_br marlinstream_a6671e91:
 
     # l "Ah! They're looking right at my pussy!"
     l ""
 
-# game/scripts/maria_events.rpy:9661
+# game/scripts/maria_events.rpy:9675
 translate pt_br marlinstream_50c67d94:
 
     # "{b}DINGDINGDING{/b}" with ssshake
     "" with ssshake
 
-# game/scripts/maria_events.rpy:9663
+# game/scripts/maria_events.rpy:9677
 translate pt_br marlinstream_53310a5a:
 
     # l "Nnn... {size=-10}Perverts...{/size}"
     l ""
 
-# game/scripts/maria_events.rpy:9664
+# game/scripts/maria_events.rpy:9678
 translate pt_br marlinstream_9139cc99:
 
     # m "Aw, don't call them perverts! You're rich now!"
     m ""
 
-# game/scripts/maria_events.rpy:9665
+# game/scripts/maria_events.rpy:9679
 translate pt_br marlinstream_c6076e0a:
 
     # l "Really? How much did we make?"
     l ""
 
-# game/scripts/maria_events.rpy:9667
+# game/scripts/maria_events.rpy:9681
 translate pt_br marlinstream_5e8e5297:
 
     # m "Let's see here..."
     m ""
 
-# game/scripts/maria_events.rpy:9669
+# game/scripts/maria_events.rpy:9683
 translate pt_br marlinstream_e84c86dd:
 
     # m "$150!"
     m ""
 
-# game/scripts/maria_events.rpy:9670
+# game/scripts/maria_events.rpy:9684
 translate pt_br marlinstream_1176f568:
 
     # l "Really!? So... I get half of that?"
     l ""
 
-# game/scripts/maria_events.rpy:9671
+# game/scripts/maria_events.rpy:9685
 translate pt_br marlinstream_175cd8b4_1:
 
     # m "That's right!"
     m ""
 
-# game/scripts/maria_events.rpy:9672
+# game/scripts/maria_events.rpy:9686
 translate pt_br marlinstream_3f4510e8:
 
     # l "Wow... I don't think I've ever had that much money..."
     l ""
 
-# game/scripts/maria_events.rpy:9673
+# game/scripts/maria_events.rpy:9687
 translate pt_br marlinstream_0d71502f:
 
     # m "What are you going to spend it on?"
     m ""
 
-# game/scripts/maria_events.rpy:9674
+# game/scripts/maria_events.rpy:9688
 translate pt_br marlinstream_10e37f02:
 
     # l "I don't know... I've never thought of that before... Maybe I could buy [linoname] a new suit!"
     l ""
 
-# game/scripts/maria_events.rpy:9675
+# game/scripts/maria_events.rpy:9689
 translate pt_br marlinstream_d5e4ade4:
 
     # m "Well... that's a start."
     m ""
 
-# game/scripts/maria_events.rpy:9679
+# game/scripts/maria_events.rpy:9693
 translate pt_br marlinstream_2e959e18:
 
     # l "Oh, okay [linoname]. I'll let Maria know."
     l ""
 
-# game/scripts/maria_events.rpy:9688
+# game/scripts/maria_events.rpy:9702
 translate pt_br marellen_a23353de:
 
     # m "Hey [name], I could use some help..."
     m ""
 
-# game/scripts/maria_events.rpy:9689
+# game/scripts/maria_events.rpy:9703
 translate pt_br marellen_15cef1a8:
 
     # c "What do you need?"
     c ""
 
-# game/scripts/maria_events.rpy:9692
+# game/scripts/maria_events.rpy:9706
 translate pt_br marellen_0b34b065:
 
     # m "Well... I have a plan. And it can only work if you do exactly what I say."
     m ""
 
-# game/scripts/maria_events.rpy:9693
+# game/scripts/maria_events.rpy:9707
 translate pt_br marellen_cd7c5e69:
 
     # c "What are you up to this time...?"
     c ""
 
-# game/scripts/maria_events.rpy:9694
+# game/scripts/maria_events.rpy:9708
 translate pt_br marellen_a8d6f75d:
 
     # m "What? Where's the fun in telling you now? Trust me... It'll be best if you just do what I ask."
     m ""
 
-# game/scripts/maria_events.rpy:9699
+# game/scripts/maria_events.rpy:9713
 translate pt_br marellen_d57b2e46:
 
     # m "Great! Alright, here's the plan..."
     m ""
 
-# game/scripts/maria_events.rpy:9700
+# game/scripts/maria_events.rpy:9714
 translate pt_br marellen_885536f9:
 
     # m "You're going to invite Ellen to the hot springs. She'll accept of course. I could only imagine she'd like a break from work, and I can only assume she'd love to get to know you more..."
     m ""
 
-# game/scripts/maria_events.rpy:9701
+# game/scripts/maria_events.rpy:9715
 translate pt_br marellen_175a4e67:
 
     # m "But here's the catch, you're going to inform her you've decided it's going to be nude only."
     m ""
 
-# game/scripts/maria_events.rpy:9702
+# game/scripts/maria_events.rpy:9716
 translate pt_br marellen_f9d6ac02:
 
     # c "So you want me to get her naked?"
     c ""
 
-# game/scripts/maria_events.rpy:9705
+# game/scripts/maria_events.rpy:9719
 translate pt_br marellen_dd79351d:
 
     # m "Don't worry, you guys won't be the only ones..."
     m ""
 
-# game/scripts/maria_events.rpy:9708
+# game/scripts/maria_events.rpy:9722
 translate pt_br marellen_a52670bf:
 
     # c "So you want both of us naked, together, at the hot springs..."
     c ""
 
-# game/scripts/maria_events.rpy:9709
+# game/scripts/maria_events.rpy:9723
 translate pt_br marellen_857b34c3:
 
     # m "That's right."
     m ""
 
-# game/scripts/maria_events.rpy:9710
+# game/scripts/maria_events.rpy:9724
 translate pt_br marellen_244facf1:
 
     # c "And then what?"
     c ""
 
-# game/scripts/maria_events.rpy:9711
+# game/scripts/maria_events.rpy:9725
 translate pt_br marellen_86a32014:
 
     # m "That's all you need to know for now..."
     m ""
 
-# game/scripts/maria_events.rpy:9712
+# game/scripts/maria_events.rpy:9726
 translate pt_br marellen_45beedf4:
 
     # m "Now get to it! I'll meet you there in a bit."
     m ""
 
-# game/scripts/maria_events.rpy:9714
+# game/scripts/maria_events.rpy:9728
 translate pt_br marellen_34955bb0:
 
     # e "Hello [name], how can I help you today?"
     e ""
 
-# game/scripts/maria_events.rpy:9715
+# game/scripts/maria_events.rpy:9729
 translate pt_br marellen_6770d99f:
 
     # c "Interested in taking a break and joining me in the hot springs?"
     c ""
 
-# game/scripts/maria_events.rpy:9717
+# game/scripts/maria_events.rpy:9731
 translate pt_br marellen_eb1467f9:
 
     # e "Oh, I don't know about that... Wouldn't it be best for me to stay here? What if a customer were to come in?"
     e ""
 
-# game/scripts/maria_events.rpy:9718
+# game/scripts/maria_events.rpy:9732
 translate pt_br marellen_c39b3d9c:
 
     # c "It should be fine."
     c ""
 
-# game/scripts/maria_events.rpy:9719
+# game/scripts/maria_events.rpy:9733
 translate pt_br marellen_98e9667a:
 
     # e "I don't know... I don't even know if I have a bathing suit that fits anymore."
     e ""
 
-# game/scripts/maria_events.rpy:9720
+# game/scripts/maria_events.rpy:9734
 translate pt_br marellen_aaf2a469:
 
     # c "Not a problem, the hot springs is nude only now."
     c ""
 
-# game/scripts/maria_events.rpy:9722
+# game/scripts/maria_events.rpy:9736
 translate pt_br marellen_673ed1e3:
 
     # e "Nude only? When did this happen?"
     e ""
 
-# game/scripts/maria_events.rpy:9723
+# game/scripts/maria_events.rpy:9737
 translate pt_br marellen_972c528f:
 
     # c "A couple seconds ago."
     c ""
 
-# game/scripts/maria_events.rpy:9724
+# game/scripts/maria_events.rpy:9738
 translate pt_br marellen_27724f46:
 
     # e "[name], are you trying to see me naked?"
     e ""
 
-# game/scripts/maria_events.rpy:9725
+# game/scripts/maria_events.rpy:9739
 translate pt_br marellen_b91dbabb:
 
     # c "You've been working hard, don't you think you deserve a break?"
     c ""
 
-# game/scripts/maria_events.rpy:9727
+# game/scripts/maria_events.rpy:9741
 translate pt_br marellen_b2768b79:
 
     # e "Oh, well, I have been working hard... but..."
     e ""
 
-# game/scripts/maria_events.rpy:9728
+# game/scripts/maria_events.rpy:9742
 translate pt_br marellen_c7d80626:
 
     # c "Come on, you deserve a break."
     c ""
 
-# game/scripts/maria_events.rpy:9729
+# game/scripts/maria_events.rpy:9743
 translate pt_br marellen_23e1fa19:
 
     # e "*sigh*, Alright, I'll join you."
     e ""
 
-# game/scripts/maria_events.rpy:9730
+# game/scripts/maria_events.rpy:9744
 translate pt_br marellen_7149101a:
 
     # e "But I'm not going nude. I'll just have to find something that fits... I'll meet you there in a bit."
     e ""
 
-# game/scripts/maria_events.rpy:9732
+# game/scripts/maria_events.rpy:9746
 translate pt_br marellen_97380497:
 
     # "You head to the hot springs, undress, and wait for Ellen and Maria..."
     ""
 
-# game/scripts/maria_events.rpy:9734
+# game/scripts/maria_events.rpy:9748
 translate pt_br marellen_e26eed70:
 
     # e "Hello [name], I found something..."
     e ""
 
-# game/scripts/maria_events.rpy:9738
+# game/scripts/maria_events.rpy:9752
 translate pt_br marellen_ca5f5191:
 
     # e "*sigh*... I'm sorry [name], it was something your grandfather gave me when I was younger... It looks much smaller on me now..."
     e ""
 
-# game/scripts/maria_events.rpy:9740
+# game/scripts/maria_events.rpy:9754
 translate pt_br marellen_2d68e397:
 
     # e "Oh my..."
     e ""
 
-# game/scripts/maria_events.rpy:9742
+# game/scripts/maria_events.rpy:9756
 translate pt_br marellen_0bfd8d4b:
 
     # e "Well, I suppose that's just normal... I'm not wearing the most modest bathing suit in the world..."
     e ""
 
-# game/scripts/maria_events.rpy:9744
+# game/scripts/maria_events.rpy:9758
 translate pt_br marellen_a262afda:
 
     # e "Though it looks like you and your grandfather are more alike than I had thought..."
     e ""
 
-# game/scripts/maria_events.rpy:9746
+# game/scripts/maria_events.rpy:9760
 translate pt_br marellen_06c3b290:
 
     # e "Oh, ehem... Sorry, I don't mean to stare. It's... just been a while is all..."
     e ""
 
-# game/scripts/maria_events.rpy:9747
+# game/scripts/maria_events.rpy:9761
 translate pt_br marellen_2fe885f6:
 
     # c "What was your relationship like with my grandfather?"
     c ""
 
-# game/scripts/maria_events.rpy:9748
+# game/scripts/maria_events.rpy:9762
 translate pt_br marellen_068edf98:
 
     # e "Well, when I first joined I was very resistant to follow his instructions... But he was a very old man when I first met him."
     e ""
 
-# game/scripts/maria_events.rpy:9749
+# game/scripts/maria_events.rpy:9763
 translate pt_br marellen_7ff31070:
 
     # e "Eventually I saw how hard it was for him to do things on his own, so I felt obligated to help him with anything I could. I was being paid after all..."
     e ""
 
-# game/scripts/maria_events.rpy:9750
+# game/scripts/maria_events.rpy:9764
 translate pt_br marellen_9eefe737:
 
     # e "Over the years I grew very close to your grandfather, he was kind, but firm. And although he was at least triple my age at the time, I became very attached to him..."
     e ""
 
-# game/scripts/maria_events.rpy:9752
+# game/scripts/maria_events.rpy:9766
 translate pt_br marellen_a9ba5ee4:
 
     # e "When he died, it was like losing a part of the family, or even a lover..."
     e ""
 
-# game/scripts/maria_events.rpy:9753
+# game/scripts/maria_events.rpy:9767
 translate pt_br marellen_93e72967:
 
     # c "So you guys had sex?"
     c ""
 
-# game/scripts/maria_events.rpy:9755
+# game/scripts/maria_events.rpy:9769
 translate pt_br marellen_7b1f3fa0:
 
     # e "Well, that's a bit sudden, but yes. He taught me everything in the book..."
     e ""
 
-# game/scripts/maria_events.rpy:9756
+# game/scripts/maria_events.rpy:9770
 translate pt_br marellen_c618ce17:
 
     # e "I hope you've been teaching the other girls plenty as well. Your grandfather's biggest regret was not starting sooner."
     e ""
 
-# game/scripts/maria_events.rpy:9757
+# game/scripts/maria_events.rpy:9771
 translate pt_br marellen_1215ebba:
 
     # c "Maybe you could help with that?"
     c ""
 
-# game/scripts/maria_events.rpy:9758
+# game/scripts/maria_events.rpy:9772
 translate pt_br marellen_6a1ef332:
 
     # e "Oh, I don't know about that... I'm not much of a teacher..."
     e ""
 
-# game/scripts/maria_events.rpy:9760
+# game/scripts/maria_events.rpy:9774
 translate pt_br marellen_36089d37:
 
     # m "Hey guys~~~"
     m ""
 
-# game/scripts/maria_events.rpy:9761
+# game/scripts/maria_events.rpy:9775
 translate pt_br marellen_4ba0ab7d:
 
     # e "Maria?"
     e ""
 
-# game/scripts/maria_events.rpy:9763
+# game/scripts/maria_events.rpy:9777
 translate pt_br marellen_e4deda5a:
 
     # e "What are you doing here, Maria?"
     e ""
 
-# game/scripts/maria_events.rpy:9764
+# game/scripts/maria_events.rpy:9778
 translate pt_br marellen_df0ad3ae:
 
     # m "[name] invited me..."
     m ""
 
-# game/scripts/maria_events.rpy:9766
+# game/scripts/maria_events.rpy:9780
 translate pt_br marellen_927470f1:
 
     # m "Ellen! Did you get him hard!? {size=-10}{i}All according to plan...{/i}{/size}"
     m ""
 
-# game/scripts/maria_events.rpy:9767
+# game/scripts/maria_events.rpy:9781
 translate pt_br marellen_25ed69fa:
 
     # e "Well, not on purpose..."
     e ""
 
-# game/scripts/maria_events.rpy:9769
+# game/scripts/maria_events.rpy:9783
 translate pt_br marellen_a7e448bb:
 
     # m "Ellen, you're such a harlot! I can't believe you're just teasing him..."
     m ""
 
-# game/scripts/maria_events.rpy:9770
+# game/scripts/maria_events.rpy:9784
 translate pt_br marellen_11eedb83:
 
     # e "That wasn't my intention..."
     e ""
 
-# game/scripts/maria_events.rpy:9771
+# game/scripts/maria_events.rpy:9785
 translate pt_br marellen_15397bb4:
 
     # m "So you're just going to leave him like that?"
     m ""
 
-# game/scripts/maria_events.rpy:9772
+# game/scripts/maria_events.rpy:9786
 translate pt_br marellen_21c854d3:
 
     # e "He's a man, he has ways of taking care of it himself."
     e ""
 
-# game/scripts/maria_events.rpy:9773
+# game/scripts/maria_events.rpy:9787
 translate pt_br marellen_57c8d9b7:
 
     # m "I can't believe you, Ellen! As a woman, it's your responsibility to take care of it. Especially if you're the cause."
     m ""
 
-# game/scripts/maria_events.rpy:9774
+# game/scripts/maria_events.rpy:9788
 translate pt_br marellen_874eb7b4:
 
     # e "That's a bit demeaning..."
     e ""
 
-# game/scripts/maria_events.rpy:9775
+# game/scripts/maria_events.rpy:9789
 translate pt_br marellen_5f384ff1:
 
     # m "Are you really going to make him suffer?"
     m ""
 
-# game/scripts/maria_events.rpy:9777
+# game/scripts/maria_events.rpy:9791
 translate pt_br marellen_0b3bae37:
 
     # e "Like I said... he can take care of it himself if he would like..."
     e ""
 
-# game/scripts/maria_events.rpy:9778
+# game/scripts/maria_events.rpy:9792
 translate pt_br marellen_4c947787:
 
     # m "So you just want to watch him jerk himself off?"
     m ""
 
-# game/scripts/maria_events.rpy:9780
+# game/scripts/maria_events.rpy:9794
 translate pt_br marellen_586aff94:
 
     # e "No! That's not what I meant..."
     e ""
 
-# game/scripts/maria_events.rpy:9781
+# game/scripts/maria_events.rpy:9795
 translate pt_br marellen_5a389ed0:
 
     # m "Ellen, there's no other way. You'll just have to fuck him."
     m ""
 
-# game/scripts/maria_events.rpy:9782
+# game/scripts/maria_events.rpy:9796
 translate pt_br marellen_24f61f17:
 
     # e "What!? I'm not doing that... [name] is like a son to me..."
     e ""
 
-# game/scripts/maria_events.rpy:9783
+# game/scripts/maria_events.rpy:9797
 translate pt_br marellen_b3214932:
 
     # m "Who knew you were such a tease... I thought you were better than this..."
     m ""
 
-# game/scripts/maria_events.rpy:9785
+# game/scripts/maria_events.rpy:9799
 translate pt_br marellen_e3a7b4e8:
 
     # e "*sigh* ..."
     e ""
 
-# game/scripts/maria_events.rpy:9786
+# game/scripts/maria_events.rpy:9800
 translate pt_br marellen_5c01f42b:
 
     # e "I guess... I could use my hands..."
     e ""
 
-# game/scripts/maria_events.rpy:9787
+# game/scripts/maria_events.rpy:9801
 translate pt_br marellen_d0742614:
 
     # m "Only a pussy could tame that cock..."
     m ""
 
-# game/scripts/maria_events.rpy:9789
+# game/scripts/maria_events.rpy:9803
 translate pt_br marellen_d7cd04dd:
 
     # e "Well, why don't you do it then?"
     e ""
 
-# game/scripts/maria_events.rpy:9790
+# game/scripts/maria_events.rpy:9804
 translate pt_br marellen_ec974686:
 
     # m "I'm not the one who got him hard..."
     m ""
 
-# game/scripts/maria_events.rpy:9792
+# game/scripts/maria_events.rpy:9806
 translate pt_br marellen_dd0b1da0:
 
     # e "Maria..."
     e ""
 
-# game/scripts/maria_events.rpy:9793
+# game/scripts/maria_events.rpy:9807
 translate pt_br marellen_cb35afda:
 
     # e "Oh... I guess I don't really have a choice, do I...?"
     e ""
 
-# game/scripts/maria_events.rpy:9794
+# game/scripts/maria_events.rpy:9808
 translate pt_br marellen_f7f1120d:
 
     # m "{size=-10}{i}Yes! Yes! YES!{/i}{/size}"
     m ""
 
-# game/scripts/maria_events.rpy:9796
+# game/scripts/maria_events.rpy:9810
 translate pt_br marellen_5f2cf3e0:
 
     # e "[name]... Do you need... help?"
     e ""
 
-# game/scripts/maria_events.rpy:9799
+# game/scripts/maria_events.rpy:9813
 translate pt_br marellen_1a7b48f5:
 
     # e "Ah... Alright, well. I suppose I wouldn't mind helping you with that... As long as you don't cum inside me!"
     e ""
 
-# game/scripts/maria_events.rpy:9800
+# game/scripts/maria_events.rpy:9814
 translate pt_br marellen_f8f50ce8:
 
     # e "I'm not at a time in my life where I can take care of a child. Do you understand?"
     e ""
 
-# game/scripts/maria_events.rpy:9801
+# game/scripts/maria_events.rpy:9815
 translate pt_br marellen_9d9fb6df:
 
     # c "I do."
     c ""
 
-# game/scripts/maria_events.rpy:9802
+# game/scripts/maria_events.rpy:9816
 translate pt_br marellen_2bf0d9c5:
 
     # e "Alright, well... Let's... get to it then."
     e ""
 
-# game/scripts/maria_events.rpy:9803
+# game/scripts/maria_events.rpy:9817
 translate pt_br marellen_424fdc9a:
 
     # m "Yes!"
     m ""
 
-# game/scripts/maria_events.rpy:9806
+# game/scripts/maria_events.rpy:9820
 translate pt_br marellen_0f72cfbb:
 
     # e "Well, this place looks as good as any..."
     e ""
 
-# game/scripts/maria_events.rpy:9807
+# game/scripts/maria_events.rpy:9821
 translate pt_br marellen_70243853:
 
     # m "Don't forget to get your tits out!"
     m ""
 
-# game/scripts/maria_events.rpy:9808
+# game/scripts/maria_events.rpy:9822
 translate pt_br marellen_c941d5d0:
 
     # e "Yes, yes... I know..."
     e ""
 
-# game/scripts/maria_events.rpy:9810
+# game/scripts/maria_events.rpy:9824
 translate pt_br marellen_f9e0aec2:
 
     # e "Hm... Well... I guess whenever you're ready [name]..."
     e ""
 
-# game/scripts/maria_events.rpy:9814
+# game/scripts/maria_events.rpy:9828
 translate pt_br marellen_a44cec79:
 
     # e "Oh! Well... Aren't you excited?"
     e ""
 
-# game/scripts/maria_events.rpy:9815
+# game/scripts/maria_events.rpy:9829
 translate pt_br marellen_07c88ad9:
 
     # e "Go slow, okay? It's been a while..."
     e ""
 
-# game/scripts/maria_events.rpy:9817
+# game/scripts/maria_events.rpy:9831
 translate pt_br marellen_7ef6cf62:
 
     # e "Ah!" with dissolve
     e "" with dissolve
 
-# game/scripts/maria_events.rpy:9819
+# game/scripts/maria_events.rpy:9833
 translate pt_br marellen_fcc17f6b:
 
     # e "Ohh... you're... really deep aren't you?"
     e ""
 
-# game/scripts/maria_events.rpy:9820
+# game/scripts/maria_events.rpy:9834
 translate pt_br marellen_a9030eb6:
 
     # m "This is so hot..."
     m ""
 
-# game/scripts/maria_events.rpy:9821
+# game/scripts/maria_events.rpy:9835
 translate pt_br marellen_fc5792d7:
 
     # e "Mmmm... Go ahead [name], start when you're ready."
     e ""
 
-# game/scripts/maria_events.rpy:9823
+# game/scripts/maria_events.rpy:9837
 translate pt_br marellen_af5419e3:
 
     # e "Ahhh!"
     e ""
 
-# game/scripts/maria_events.rpy:9824
+# game/scripts/maria_events.rpy:9838
 translate pt_br marellen_e4b1b1d6:
 
     # e "Ohhh... that's... Ahem... Keep going like that [name]..."
     e ""
 
-# game/scripts/maria_events.rpy:9825
+# game/scripts/maria_events.rpy:9839
 translate pt_br marellen_e29ca1a4:
 
     # m "Mmm! You're fucking her good [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:9826
+# game/scripts/maria_events.rpy:9840
 translate pt_br marellen_98da1ba9:
 
     # e "Ahh... Maria... Please."
     e ""
 
-# game/scripts/maria_events.rpy:9827
+# game/scripts/maria_events.rpy:9841
 translate pt_br marellen_c1893250:
 
     # m "Enjoying it Ellen?"
     m ""
 
-# game/scripts/maria_events.rpy:9828
+# game/scripts/maria_events.rpy:9842
 translate pt_br marellen_28e933b9:
 
     # e "Well... Yes. I'm enjoying it very much, Hnnnn..."
     e ""
 
-# game/scripts/maria_events.rpy:9829
+# game/scripts/maria_events.rpy:9843
 translate pt_br marellen_7f9fd9fd:
 
     # e "Ah... It's been a really long time... Hmm! I guess it feels much better than I thought it would after all this time... Mmmm..."
     e ""
 
-# game/scripts/maria_events.rpy:9830
+# game/scripts/maria_events.rpy:9844
 translate pt_br marellen_e58c32f1:
 
     # m "Not even a toy?"
     m ""
 
-# game/scripts/maria_events.rpy:9831
+# game/scripts/maria_events.rpy:9845
 translate pt_br marellen_e047cd7d:
 
     # e "Well, ahh! No... I don't have time for that... Hnn!"
     e ""
 
-# game/scripts/maria_events.rpy:9833
+# game/scripts/maria_events.rpy:9847
 translate pt_br marellen_9b2aedbd:
 
     # m "Really? I couldn't imagine not being fucked at least once a day..."
     m ""
 
-# game/scripts/maria_events.rpy:9836
+# game/scripts/maria_events.rpy:9850
 translate pt_br marellen_2041c685:
 
     # e "Ahhh... [name]... Keep going... Just don't cum inside, okay? Pull out whenever you're ready..."
     e ""
 
-# game/scripts/maria_events.rpy:9837
+# game/scripts/maria_events.rpy:9851
 translate pt_br marellen_38b1cc20:
 
     # m "I would love to see you covered in cum Ellen..."
     m ""
 
-# game/scripts/maria_events.rpy:9838
+# game/scripts/maria_events.rpy:9852
 translate pt_br marellen_ec3048e4:
 
     # e "I just don't want to get pregnant, okay?"
     e ""
 
-# game/scripts/maria_events.rpy:9839
+# game/scripts/maria_events.rpy:9853
 translate pt_br marellen_02169950:
 
     # m "Or are you secretly a cum slut?"
     m ""
 
-# game/scripts/maria_events.rpy:9840
+# game/scripts/maria_events.rpy:9854
 translate pt_br marellen_83c12668:
 
     # e "Maria!"
     e ""
 
-# game/scripts/maria_events.rpy:9841
+# game/scripts/maria_events.rpy:9855
 translate pt_br marellen_4ffd42f4:
 
     # m "Hahaha!"
     m ""
 
-# game/scripts/maria_events.rpy:9842
+# game/scripts/maria_events.rpy:9856
 translate pt_br marellen_524da424:
 
     # e "Ahhh... Mmmmm... Keep going [name]... keep going..."
     e ""
 
-# game/scripts/maria_events.rpy:9843
+# game/scripts/maria_events.rpy:9857
 translate pt_br marellen_2c7c19d2:
 
     # e "I'm ready for your cum... Ah! ...Feel free to, Hnn! Cum whenever you'd like... Ah..."
     e ""
 
-# game/scripts/maria_events.rpy:9844
+# game/scripts/maria_events.rpy:9858
 translate pt_br marellen_6e00eac9:
 
     # e "Ohhh... God... I haven't felt a cock inside me for so long... I'd forgotten how good sex feels..."
     e ""
 
-# game/scripts/maria_events.rpy:9845
+# game/scripts/maria_events.rpy:9859
 translate pt_br marellen_e925b368:
 
     # e "Come on [name]... Cum for me... It's okay, just cum..."
     e ""
 
-# game/scripts/maria_events.rpy:9846
+# game/scripts/maria_events.rpy:9860
 translate pt_br marellen_393da735:
 
     # m "Do it [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:9850
+# game/scripts/maria_events.rpy:9864
 translate pt_br marellen_52cd3c96:
 
     # e "Oh!" with ssshake
     e "" with ssshake
 
-# game/scripts/maria_events.rpy:9852
+# game/scripts/maria_events.rpy:9866
 translate pt_br marellen_0a4ebd3d:
 
     # e "Oh my... that was quite the load..."
     e ""
 
-# game/scripts/maria_events.rpy:9854
+# game/scripts/maria_events.rpy:9868
 translate pt_br marellen_929f275b:
 
     # m "Ahh~ Look at her ass~ It's so pretty..."
     m ""
 
-# game/scripts/maria_events.rpy:9855
+# game/scripts/maria_events.rpy:9869
 translate pt_br marellen_7bbb8d04:
 
     # e "Maria, what are you doing back there?"
     e ""
 
-# game/scripts/maria_events.rpy:9856
+# game/scripts/maria_events.rpy:9870
 translate pt_br marellen_7d760175:
 
     # m "I'm just enjoying the view..."
     m ""
 
-# game/scripts/maria_events.rpy:9860
+# game/scripts/maria_events.rpy:9874
 translate pt_br marellen_a982f0d6:
 
     # e "Ahem... Well, I'm glad you were able to calm down [name]..."
     e ""
 
-# game/scripts/maria_events.rpy:9861
+# game/scripts/maria_events.rpy:9875
 translate pt_br marellen_85a04a92:
 
     # e "I can't believe I actually did that. What's gotten in to me? ...I guess I miss your grandfather a little too much..."
     e ""
 
-# game/scripts/maria_events.rpy:9862
+# game/scripts/maria_events.rpy:9876
 translate pt_br marellen_75ed9de7:
 
     # m "You guys were so hot..."
     m ""
 
-# game/scripts/maria_events.rpy:9863
+# game/scripts/maria_events.rpy:9877
 translate pt_br marellen_1f2ac501:
 
     # e "Oh, well... Thank you Maria, I'm glad you think I still look pretty."
     e ""
 
-# game/scripts/maria_events.rpy:9864
+# game/scripts/maria_events.rpy:9878
 translate pt_br marellen_65d63039:
 
     # e "Well, I should get back to work. After I get dressed..."
     e ""
 
-# game/scripts/maria_events.rpy:9865
+# game/scripts/maria_events.rpy:9879
 translate pt_br marellen_39455364:
 
     # m "Awww, do you have to?"
     m ""
 
-# game/scripts/maria_events.rpy:9866
+# game/scripts/maria_events.rpy:9880
 translate pt_br marellen_df959bae:
 
     # e "Have a good day you two."
     e ""
 
-# game/scripts/maria_events.rpy:9868
+# game/scripts/maria_events.rpy:9882
 translate pt_br marellen_f36fb50f:
 
     # m "[name] you did amazing! You actually fucked her!"
     m ""
 
-# game/scripts/maria_events.rpy:9869
+# game/scripts/maria_events.rpy:9883
 translate pt_br marellen_c17f2cc9:
 
     # m "I was hoping something would happen, but I didn't expect she would actually go through with it!"
     m ""
 
-# game/scripts/maria_events.rpy:9870
+# game/scripts/maria_events.rpy:9884
 translate pt_br marellen_b914f096:
 
     # m "And you came all over her ass! Amazing!"
     m ""
 
-# game/scripts/maria_events.rpy:9872
+# game/scripts/maria_events.rpy:9886
 translate pt_br marellen_a557d2c0:
 
     # m "You know... we're both naked... And I'm pretty horny now..."
     m ""
 
-# game/scripts/maria_events.rpy:9873
+# game/scripts/maria_events.rpy:9887
 translate pt_br marellen_0e076f76:
 
     # m "Well, you know where I live, haha..."
     m ""
 
-# game/scripts/maria_events.rpy:9875
+# game/scripts/maria_events.rpy:9889
 translate pt_br marellen_c6df150e:
 
     # m "I'll see you around [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:9884
+# game/scripts/maria_events.rpy:9898
 translate pt_br marellen_ac519835:
 
     # m "WHAT!?"
     m ""
 
-# game/scripts/maria_events.rpy:9885
+# game/scripts/maria_events.rpy:9899
 translate pt_br marellen_a82037cf:
 
     # e "Oh, okay... Well, I hope you're able to take care of that yourself then..."
     e ""
 
-# game/scripts/maria_events.rpy:9887
+# game/scripts/maria_events.rpy:9901
 translate pt_br marellen_a535c0b1:
 
     # m "Tsk... After all that work..."
     m ""
 
-# game/scripts/maria_events.rpy:9888
+# game/scripts/maria_events.rpy:9902
 translate pt_br marellen_1853f7a7:
 
     # e "Feel free to help him yourself, Maria."
     e ""
 
-# game/scripts/maria_events.rpy:9889
+# game/scripts/maria_events.rpy:9903
 translate pt_br marellen_a6e2d18b:
 
     # m "Whatever..."
     m ""
 
-# game/scripts/maria_events.rpy:9899
+# game/scripts/maria_events.rpy:9913
 translate pt_br marellen_7da086c0:
 
     # m "No worries, there's no time limit. Just let me know when you're ready."
     m ""
 
-# game/scripts/maria_events.rpy:9909
+# game/scripts/maria_events.rpy:9923
 translate pt_br marcowgirlcasual_dfcad048:
 
     # m "They're watching us [name]... It turns me on so much..."
     m ""
 
-# game/scripts/maria_events.rpy:9910
+# game/scripts/maria_events.rpy:9924
 translate pt_br marcowgirlcasual_bf60a6e9:
 
     # m "Ah! Mmmm... Fuck!"
     m ""
 
-# game/scripts/maria_events.rpy:9911
+# game/scripts/maria_events.rpy:9925
 translate pt_br marcowgirlcasual_ce2c515c:
 
     # m "Mmm..."
     m ""
 
-# game/scripts/maria_events.rpy:9913
+# game/scripts/maria_events.rpy:9927
 translate pt_br marcowgirlcasual_45761fa0:
 
     # m "*ding*\nAh! Thanks for the tip~"
     m ""
 
-# game/scripts/maria_events.rpy:9914
+# game/scripts/maria_events.rpy:9928
 translate pt_br marcowgirlcasual_52549637:
 
     # m "Ahh... hahh... mmm... hahhh..."
     m ""
 
-# game/scripts/maria_events.rpy:9915
+# game/scripts/maria_events.rpy:9929
 translate pt_br marcowgirlcasual_9712b60d:
 
     # m "Mmmm... enjoying my pussy [name]?"
     m ""
 
-# game/scripts/maria_events.rpy:9918
+# game/scripts/maria_events.rpy:9932
 translate pt_br marcowgirlcasual_8224f517:
 
     # m "Fuuuckkk... yes... [name] your dick is amazing..."
     m ""
 
-# game/scripts/maria_events.rpy:9919
+# game/scripts/maria_events.rpy:9933
 translate pt_br marcowgirlcasual_71b91c7d:
 
     # m "I love your dick so much [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:9920
+# game/scripts/maria_events.rpy:9934
 translate pt_br marcowgirlcasual_8e9931ab:
 
     # m "Ahhh! Nnn! Mmmmm!!! Ahhh..."
     m ""
 
-# game/scripts/maria_events.rpy:9921
+# game/scripts/maria_events.rpy:9935
 translate pt_br marcowgirlcasual_41e5a5fc:
 
     # m "Ohhh shit! Fuck me! Yes! Pound my pussy [name]! Ohhh god!"
     m ""
 
-# game/scripts/maria_events.rpy:9924
+# game/scripts/maria_events.rpy:9938
 translate pt_br marcowgirlcasual_b3a84d8e:
 
     # m "Cumming already? Cum outside, okay? I don't want to get pregnant..."
     m ""
 
-# game/scripts/maria_events.rpy:9928
+# game/scripts/maria_events.rpy:9942
 translate pt_br marcowgirlcasual_98519239:
 
     # m "Ahh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9929
+# game/scripts/maria_events.rpy:9943
 translate pt_br marcowgirlcasual_5902e4c7:
 
     # m "Fffuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9930
+# game/scripts/maria_events.rpy:9944
 translate pt_br marcowgirlcasual_ddc57a01:
 
     # m "Ahh... Mmmm... nn..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9932
+# game/scripts/maria_events.rpy:9946
 translate pt_br marcowgirlcasual_64a889fb:
 
     # m "Ahh... You came inside... You shouldn't do that..."
     m ""
 
-# game/scripts/maria_events.rpy:9939
+# game/scripts/maria_events.rpy:9953
 translate pt_br marcowgirlcasual_22a8e77c:
 
     # m "Yes! Cum all over my face! Everybody is going to love this so much!"
     m ""
 
-# game/scripts/maria_events.rpy:9941
+# game/scripts/maria_events.rpy:9955
 translate pt_br marcowgirlcasual_6d247568:
 
     # m "Yes! Cum all over my face [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:9943
+# game/scripts/maria_events.rpy:9957
 translate pt_br marcowgirlcasual_c35307b0:
 
     # m "Ahhhhh! Yesssss!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9944
+# game/scripts/maria_events.rpy:9958
 translate pt_br marcowgirlcasual_2cff0bfd:
 
     # m "Heheheh, thanks [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:9956
+# game/scripts/maria_events.rpy:9978
 translate pt_br marcowgirl_dfcad048:
 
     # m "They're watching us [name]... It turns me on so much..."
     m ""
 
-# game/scripts/maria_events.rpy:9957
+# game/scripts/maria_events.rpy:9979
 translate pt_br marcowgirl_11574025:
 
     # m "Mmm... fuck, you feel so good...!"
     m ""
 
-# game/scripts/maria_events.rpy:9959
+# game/scripts/maria_events.rpy:9981
 translate pt_br marcowgirl_45761fa0:
 
     # m "*ding*\nAh! Thanks for the tip~"
     m ""
 
-# game/scripts/maria_events.rpy:9960
+# game/scripts/maria_events.rpy:9982
 translate pt_br marcowgirl_2dc014cf:
 
     # m "Ahh...! hahh...! Mmm...! hahhh...!"
     m ""
 
-# game/scripts/maria_events.rpy:9961
+# game/scripts/maria_events.rpy:9983
 translate pt_br marcowgirl_7035c8ec:
 
     # m "Mmmm... enjoying my pussy [name]? I know you love it, heheh~"
     m ""
 
-# game/scripts/maria_events.rpy:9964
+# game/scripts/maria_events.rpy:9986
 translate pt_br marcowgirl_303f1f82:
 
     # m "Fuuuckkk... yes... [name] your dick is amazing...!"
     m ""
 
-# game/scripts/maria_events.rpy:9965
+# game/scripts/maria_events.rpy:9987
 translate pt_br marcowgirl_d92263ac:
 
     # m "I love your dick so much [name]! Fuck, fuck~! I love it!!!"
     m ""
 
-# game/scripts/maria_events.rpy:9966
+# game/scripts/maria_events.rpy:9988
 translate pt_br marcowgirl_db89d6e7:
 
     # m "Ohhh shit! Fuck me! Yes! Pound my pussy [name]! Ohhh god! Nnh, NNNM!"
     m ""
 
-# game/scripts/maria_events.rpy:9967
+# game/scripts/maria_events.rpy:9989
 translate pt_br marcowgirl_397d9152:
 
     # m "Are you gonna cum? Mmmn! Fuck... just cum outside, okay? I don't want to get pregnant..."
     m ""
 
-# game/scripts/maria_events.rpy:9972
+# game/scripts/maria_events.rpy:9994
 translate pt_br marcowgirl_98519239:
 
     # m "Ahh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9973
+# game/scripts/maria_events.rpy:9995
 translate pt_br marcowgirl_5902e4c7:
 
     # m "Fffuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9974
+# game/scripts/maria_events.rpy:9996
 translate pt_br marcowgirl_ddc57a01:
 
     # m "Ahh... Mmmm... nn..." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9976
+# game/scripts/maria_events.rpy:9998
 translate pt_br marcowgirl_c4dba98b:
 
     # m "Ahh... You came inside... nnnnhg" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9982
+# game/scripts/maria_events.rpy:10004
 translate pt_br marcowgirl_1debbabc:
 
     # m "Ahhh!?" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9983
+# game/scripts/maria_events.rpy:10005
 translate pt_br marcowgirl_66124176:
 
     # m "Ffffuck...! Wait...!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9984
+# game/scripts/maria_events.rpy:10006
 translate pt_br marcowgirl_8ceadd8b:
 
     # m "Nnnnnhm!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:9986
+# game/scripts/maria_events.rpy:10008
 translate pt_br marcowgirl_d65e7eed:
 
     # m "Aaaagh, fuck... you can't do that...!"
     m ""
 
-# game/scripts/maria_events.rpy:9994
+# game/scripts/maria_events.rpy:10016
 translate pt_br marcowgirl_355a7086:
 
     # m "Ahhhhh! Yesssss!"
     m ""
 
-# game/scripts/maria_events.rpy:9995
+# game/scripts/maria_events.rpy:10017
 translate pt_br marcowgirl_2cff0bfd:
 
     # m "Heheheh, thanks [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:10141
+# game/scripts/maria_events.rpy:10164
 translate pt_br mardate_104e05b7:
 
     # m "It's pretty busy today, lucky we got a seat huh?"
     m ""
 
-# game/scripts/maria_events.rpy:10142
+# game/scripts/maria_events.rpy:10165
 translate pt_br mardate_9e61f609:
 
     # m "The atmosphere here is so nice..."
     m ""
 
-# game/scripts/maria_events.rpy:10143
+# game/scripts/maria_events.rpy:10166
 translate pt_br mardate_ee538c7d:
 
     # m "So what are you going to get? I was thinking... maybe a steak and salad."
     m ""
 
-# game/scripts/maria_events.rpy:10145
+# game/scripts/maria_events.rpy:10168
 translate pt_br mardate_b0a557e5:
 
     # m "This stuff is pretty expensive, so don't go wild and order everything you want... But I'll be able to pay for almost anything."
     m ""
 
-# game/scripts/maria_events.rpy:10146
+# game/scripts/maria_events.rpy:10169
 translate pt_br mardate_d6f6e42e:
 
     # c "I appreciate it."
     c ""
 
-# game/scripts/maria_events.rpy:10147
+# game/scripts/maria_events.rpy:10170
 translate pt_br mardate_b6946d49:
 
     # m "Streaming has its benefits, you know?"
     m ""
 
-# game/scripts/maria_events.rpy:10148
+# game/scripts/maria_events.rpy:10171
 translate pt_br mardate_441bf92f:
 
     # c "How did you get in to streaming anyway?"
     c ""
 
-# game/scripts/maria_events.rpy:10150
+# game/scripts/maria_events.rpy:10173
 translate pt_br mardate_86c0f5d7:
 
     # m "Oh that? Well... I was pretty popular with all the boys in college. High school too. But I didn't go sucking everyone's dick or anything, those were just rumors..."
     m ""
 
-# game/scripts/maria_events.rpy:10151
+# game/scripts/maria_events.rpy:10174
 translate pt_br mardate_3a08fae9:
 
     # m "I was the head cheerleader for our football team. The attention was nice, but the crowd was... not the best."
     m ""
 
-# game/scripts/maria_events.rpy:10153
+# game/scripts/maria_events.rpy:10176
 translate pt_br mardate_85ff5f95:
 
     # m "You don't think I'm easy, do you?"
     m ""
 
-# game/scripts/maria_events.rpy:10155
+# game/scripts/maria_events.rpy:10178
 translate pt_br mardate_f78ea1c0:
 
     # m "Because I'm not. Even if I like to flaunt what I have, I'm not a slut. I won't let just anyone touch me, you know?"
     m ""
 
-# game/scripts/maria_events.rpy:10157
+# game/scripts/maria_events.rpy:10180
 translate pt_br mardate_80ebaf31:
 
     # m "Did you seriously think I was a slut?"
     m ""
 
-# game/scripts/maria_events.rpy:10158
+# game/scripts/maria_events.rpy:10181
 translate pt_br mardate_ed1e847f:
 
     # c "Well..."
     c ""
 
-# game/scripts/maria_events.rpy:10159
+# game/scripts/maria_events.rpy:10182
 translate pt_br mardate_c5b2c87f:
 
     # m "Look, if you thought I like to get back at all my boyfriends by sucking people's dicks, you're wrong. My ex was an asshole, it was never going to work out, and... you were kind of cute."
     m ""
 
-# game/scripts/maria_events.rpy:10160
+# game/scripts/maria_events.rpy:10183
 translate pt_br mardate_151d8330:
 
     # m "You were there... I was kind of horny... It was a little spontaneous, sure... But I don't know..."
     m ""
 
-# game/scripts/maria_events.rpy:10162
+# game/scripts/maria_events.rpy:10185
 translate pt_br mardate_fe0736eb:
 
     # m "And who are you calling a slut anyway? You fuck the girls at the hotel like every day!"
     m ""
 
-# game/scripts/maria_events.rpy:10163
+# game/scripts/maria_events.rpy:10186
 translate pt_br mardate_f360494e:
 
     # m "I've only had like... 5 boyfriends. Well maybe 6. When I was 8 years old I guess I was {i}kind of{/i} in a relationship with a boy. As much as you can be at 8 anyway."
     m ""
 
-# game/scripts/maria_events.rpy:10165
+# game/scripts/maria_events.rpy:10188
 translate pt_br mardate_ab8825e4:
 
     # m "So I hope you're ready for my questions... they're pretty serious..."
     m ""
 
-# game/scripts/maria_events.rpy:10166
+# game/scripts/maria_events.rpy:10189
 translate pt_br mardate_59c20226:
 
     # c "Go ahead."
     c ""
 
-# game/scripts/maria_events.rpy:10167
+# game/scripts/maria_events.rpy:10190
 translate pt_br mardate_353ba4c4:
 
     # m "Well, let's start off with something light... How do you like your coffee?"
     m ""
 
-# game/scripts/maria_events.rpy:10171
+# game/scripts/maria_events.rpy:10194
 translate pt_br mardate_f08968bb:
 
     # m "Seriously dude...?"
     m ""
 
-# game/scripts/maria_events.rpy:10172
+# game/scripts/maria_events.rpy:10195
 translate pt_br mardate_297d93f3:
 
     # c "What?"
     c ""
 
-# game/scripts/maria_events.rpy:10173
+# game/scripts/maria_events.rpy:10196
 translate pt_br mardate_eaf8040d:
 
     # m "Forget about it..."
     m ""
 
-# game/scripts/maria_events.rpy:10176
+# game/scripts/maria_events.rpy:10199
 translate pt_br mardate_971d8a8f:
 
     # m "Ohh, a little brown, huh? That's good to hear..."
     m ""
 
-# game/scripts/maria_events.rpy:10178
+# game/scripts/maria_events.rpy:10201
 translate pt_br mardate_edfea665:
 
     # m "Hm, I figured."
     m ""
 
-# game/scripts/maria_events.rpy:10181
+# game/scripts/maria_events.rpy:10204
 translate pt_br mardate_ab1d51b4:
 
     # m "Oh, really? That's interesting..."
     m ""
 
-# game/scripts/maria_events.rpy:10183
+# game/scripts/maria_events.rpy:10206
 translate pt_br mardate_73d7b457:
 
     # m "Next question. What's your favorite food?"
     m ""
 
-# game/scripts/maria_events.rpy:10186
+# game/scripts/maria_events.rpy:10209
 translate pt_br mardate_acf2672c:
 
     # m "Heheheh, that's good to know..."
     m ""
 
-# game/scripts/maria_events.rpy:10188
+# game/scripts/maria_events.rpy:10211
 translate pt_br mardate_0e6f6ef9:
 
     # m "That makes sense."
     m ""
 
-# game/scripts/maria_events.rpy:10190
+# game/scripts/maria_events.rpy:10213
 translate pt_br mardate_bc411352:
 
     # m "Really? I would have never guessed."
     m ""
 
-# game/scripts/maria_events.rpy:10191
+# game/scripts/maria_events.rpy:10214
 translate pt_br mardate_54e5b135:
 
     # m "Whatever floats your boat I guess, no judgement from me after all..."
     m ""
 
-# game/scripts/maria_events.rpy:10193
+# game/scripts/maria_events.rpy:10216
 translate pt_br mardate_2d23607a:
 
     # m "Good thing we came here then."
     m ""
 
-# game/scripts/maria_events.rpy:10195
+# game/scripts/maria_events.rpy:10218
 translate pt_br mardate_2333518f:
 
     # m "Interesting..."
     m ""
 
-# game/scripts/maria_events.rpy:10197
+# game/scripts/maria_events.rpy:10220
 translate pt_br mardate_53fe9ac2:
 
     # m "What's your favorite flower?"
     m ""
 
-# game/scripts/maria_events.rpy:10200
+# game/scripts/maria_events.rpy:10223
 translate pt_br mardate_4eda6417:
 
     # m "Interesting... Reminds me of Ashley."
     m ""
 
-# game/scripts/maria_events.rpy:10202
+# game/scripts/maria_events.rpy:10225
 translate pt_br mardate_744f3a84:
 
     # m "Hm, reminds me of Kali."
     m ""
 
-# game/scripts/maria_events.rpy:10204
+# game/scripts/maria_events.rpy:10227
 translate pt_br mardate_5f51d464:
 
     # m "Huh, reminds me of Lin."
     m ""
 
-# game/scripts/maria_events.rpy:10206
+# game/scripts/maria_events.rpy:10229
 translate pt_br mardate_bc0443d7:
 
     # m "Hehe, that's good to know."
     m ""
 
-# game/scripts/maria_events.rpy:10208
+# game/scripts/maria_events.rpy:10231
 translate pt_br mardate_dbbdc4d7:
 
     # m "Okay, next question. What's your type?"
     m ""
 
-# game/scripts/maria_events.rpy:10212
+# game/scripts/maria_events.rpy:10235
 translate pt_br mardate_49ebab31:
 
     # m "What...?"
     m ""
 
-# game/scripts/maria_events.rpy:10213
+# game/scripts/maria_events.rpy:10236
 translate pt_br mardate_4cb45486:
 
     # c "Sometimes I go with grass type, but fire is usually the strongest."
     c ""
 
-# game/scripts/maria_events.rpy:10214
+# game/scripts/maria_events.rpy:10237
 translate pt_br mardate_b7c12070:
 
     # m "Oh my god..."
     m ""
 
-# game/scripts/maria_events.rpy:10216
+# game/scripts/maria_events.rpy:10239
 translate pt_br mardate_e0d3f14e:
 
     # m "I kind of had an idea you liked submissive girls."
     m ""
 
-# game/scripts/maria_events.rpy:10218
+# game/scripts/maria_events.rpy:10241
 translate pt_br mardate_6ff74f48:
 
     # m "Oh really? That's surprising..."
     m ""
 
-# game/scripts/maria_events.rpy:10220
+# game/scripts/maria_events.rpy:10243
 translate pt_br mardate_a1a27f3c:
 
     # m "That kind of makes sense."
     m ""
 
-# game/scripts/maria_events.rpy:10222
+# game/scripts/maria_events.rpy:10245
 translate pt_br mardate_c1b3f285:
 
     # m "Hmm, interesting."
     m ""
 
-# game/scripts/maria_events.rpy:10224
+# game/scripts/maria_events.rpy:10247
 translate pt_br mardate_2d2a7d7a:
 
     # m "Hahaha, I guess that's why you like Ash so much, right?"
     m ""
 
-# game/scripts/maria_events.rpy:10226
+# game/scripts/maria_events.rpy:10249
 translate pt_br mardate_608d4a0b:
 
     # m "Oh really? That's surprising... Have you talked to Ellen recently? Haha!"
     m ""
 
-# game/scripts/maria_events.rpy:10229
+# game/scripts/maria_events.rpy:10252
 translate pt_br mardate_0bb7636f:
 
     # m "Oh my god, hahaha! Stop, that's not what I asked. Hahaha!"
     m ""
 
-# game/scripts/maria_events.rpy:10232
+# game/scripts/maria_events.rpy:10255
 translate pt_br mardate_fe58b7ca:
 
     # m "Next question. What's your favorite position?"
     m ""
 
-# game/scripts/maria_events.rpy:10236
+# game/scripts/maria_events.rpy:10259
 translate pt_br mardate_48ef5905:
 
     # m "Wha... huh?"
     m ""
 
-# game/scripts/maria_events.rpy:10237
+# game/scripts/maria_events.rpy:10260
 translate pt_br mardate_5814bae8:
 
     # c "Sometimes I sleep on my back, but I go to sleep faster in the fetal position."
     c ""
 
-# game/scripts/maria_events.rpy:10238
+# game/scripts/maria_events.rpy:10261
 translate pt_br mardate_5ecf49af:
 
     # m "Oh my god, are you okay?"
     m ""
 
-# game/scripts/maria_events.rpy:10241
+# game/scripts/maria_events.rpy:10264
 translate pt_br mardate_f773428c:
 
     # m "Ohhh, that's interesting."
     m ""
 
-# game/scripts/maria_events.rpy:10243
+# game/scripts/maria_events.rpy:10266
 translate pt_br mardate_2333518f_1:
 
     # m "Interesting..."
     m ""
 
-# game/scripts/maria_events.rpy:10246
+# game/scripts/maria_events.rpy:10269
 translate pt_br mardate_dee1bbb6:
 
     # m "Haha, same..."
     m ""
 
-# game/scripts/maria_events.rpy:10248
+# game/scripts/maria_events.rpy:10271
 translate pt_br mardate_fd498387:
 
     # m "Oh, hm. Never tried that before."
     m ""
 
-# game/scripts/maria_events.rpy:10250
+# game/scripts/maria_events.rpy:10273
 translate pt_br mardate_4f1cd44b:
 
     # m "Alright, now what's your favorite part of a woman?"
     m ""
 
-# game/scripts/maria_events.rpy:10254
+# game/scripts/maria_events.rpy:10277
 translate pt_br mardate_0dfa241f:
 
     # m "Feet? Really?"
     m ""
 
-# game/scripts/maria_events.rpy:10255
+# game/scripts/maria_events.rpy:10278
 translate pt_br mardate_275db29a:
 
     # c "What? I like feet."
     c ""
 
-# game/scripts/maria_events.rpy:10256
+# game/scripts/maria_events.rpy:10279
 translate pt_br mardate_da97cf64:
 
     # m "I mean, that's cool and all, but... a little weird."
     m ""
 
-# game/scripts/maria_events.rpy:10258
+# game/scripts/maria_events.rpy:10281
 translate pt_br mardate_915da103:
 
     # m "I'd have to agree, haha."
     m ""
 
-# game/scripts/maria_events.rpy:10260
+# game/scripts/maria_events.rpy:10283
 translate pt_br mardate_43613450:
 
     # m "I can see why."
     m ""
 
-# game/scripts/maria_events.rpy:10262
+# game/scripts/maria_events.rpy:10285
 translate pt_br mardate_2333518f_2:
 
     # m "Interesting..."
     m ""
 
-# game/scripts/maria_events.rpy:10265
+# game/scripts/maria_events.rpy:10288
 translate pt_br mardate_0a8552ce:
 
     # m "Wow, really? I... I guess I'm just a little surprised."
     m ""
 
-# game/scripts/maria_events.rpy:10266
+# game/scripts/maria_events.rpy:10289
 translate pt_br mardate_69c215fd:
 
     # m "Usually guys say 'ass' or 'boobs', it's... refreshing."
     m ""
 
-# game/scripts/maria_events.rpy:10268
+# game/scripts/maria_events.rpy:10291
 translate pt_br mardate_0372ceb0:
 
     # m "Next question, what's your favorite breast size?"
     m ""
 
-# game/scripts/maria_events.rpy:10272
+# game/scripts/maria_events.rpy:10295
 translate pt_br mardate_e9a00f13:
 
     # m "What?"
     m ""
 
-# game/scripts/maria_events.rpy:10273
+# game/scripts/maria_events.rpy:10296
 translate pt_br mardate_156dfb6f:
 
     # c "It's weird, I know."
     c ""
 
-# game/scripts/maria_events.rpy:10274
+# game/scripts/maria_events.rpy:10297
 translate pt_br mardate_47aee188:
 
     # m "Yeah, a little..."
     m ""
 
-# game/scripts/maria_events.rpy:10276
+# game/scripts/maria_events.rpy:10299
 translate pt_br mardate_2333518f_3:
 
     # m "Interesting..."
     m ""
 
-# game/scripts/maria_events.rpy:10278
+# game/scripts/maria_events.rpy:10301
 translate pt_br mardate_524bba94:
 
     # m "Oh, good."
     m ""
 
-# game/scripts/maria_events.rpy:10280
+# game/scripts/maria_events.rpy:10303
 translate pt_br mardate_9cb550a3:
 
     # m "Well, I guess that's normal."
     m ""
 
-# game/scripts/maria_events.rpy:10283
+# game/scripts/maria_events.rpy:10306
 translate pt_br mardate_9b8f1e76:
 
     # m "Really? Ergh, boys..."
     m ""
 
-# game/scripts/maria_events.rpy:10286
+# game/scripts/maria_events.rpy:10309
 translate pt_br mardate_df7a111f:
 
     # m "Oh, really? That's new."
     m ""
 
-# game/scripts/maria_events.rpy:10288
+# game/scripts/maria_events.rpy:10311
 translate pt_br mardate_93df3fc0:
 
     # m "Okay, this is a little weird... But answer honestly... What's your favorite hole?"
     m ""
 
-# game/scripts/maria_events.rpy:10292
+# game/scripts/maria_events.rpy:10315
 translate pt_br mardate_e9a00f13_1:
 
     # m "What?"
     m ""
 
-# game/scripts/maria_events.rpy:10293
+# game/scripts/maria_events.rpy:10316
 translate pt_br mardate_91dedf6b:
 
     # c "That's the last hole."
     c ""
 
-# game/scripts/maria_events.rpy:10294
+# game/scripts/maria_events.rpy:10317
 translate pt_br mardate_36bb4db6:
 
     # m "Are you really talking about golf right now?"
     m ""
 
-# game/scripts/maria_events.rpy:10296
+# game/scripts/maria_events.rpy:10319
 translate pt_br mardate_34f7ef8e:
 
     # m "That's surprising."
     m ""
 
-# game/scripts/maria_events.rpy:10298
+# game/scripts/maria_events.rpy:10321
 translate pt_br mardate_0e6f6ef9_1:
 
     # m "That makes sense."
     m ""
 
-# game/scripts/maria_events.rpy:10300
+# game/scripts/maria_events.rpy:10323
 translate pt_br mardate_6faa5e93:
 
     # m "Really? I've never tried it with anything other than a toy..."
     m ""
 
-# game/scripts/maria_events.rpy:10301
+# game/scripts/maria_events.rpy:10324
 translate pt_br mardate_75d7ce81:
 
     # m "It's alright I guess, I just do it mainly for my stream though."
     m ""
 
-# game/scripts/maria_events.rpy:10302
+# game/scripts/maria_events.rpy:10325
 translate pt_br mardate_64855782:
 
     # m "Last question, what do-"
     m ""
 
-# game/scripts/maria_events.rpy:10304
+# game/scripts/maria_events.rpy:10327
 translate pt_br mardate_8450fd27:
 
     # m "Oh my god!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:10305
+# game/scripts/maria_events.rpy:10328
 translate pt_br mardate_297d93f3_1:
 
     # c "What?"
     c ""
 
-# game/scripts/maria_events.rpy:10306
+# game/scripts/maria_events.rpy:10329
 translate pt_br mardate_25dd62bc:
 
     # m "That's my ex! He's here!"
     m ""
 
-# game/scripts/maria_events.rpy:10307
+# game/scripts/maria_events.rpy:10330
 translate pt_br mardate_a1af67ba:
 
     # m "Oh my god... he sees me! He's coming over here!"
     m ""
 
-# game/scripts/maria_events.rpy:10309
+# game/scripts/maria_events.rpy:10332
 translate pt_br mardate_59a6b42d:
 
     # m "What do {i}you{/i} want?"
     m ""
 
-# game/scripts/maria_events.rpy:10310
+# game/scripts/maria_events.rpy:10333
 translate pt_br mardate_6ee69d85:
 
     # q "Funny seeing you here, wasn't this where we went on our first date? And now you're here with some dude?"
     q ""
 
-# game/scripts/maria_events.rpy:10311
+# game/scripts/maria_events.rpy:10334
 translate pt_br mardate_c9babafd:
 
     # m "This 'dude' is my boyfriend. You know, the guy who came on my face. You remember the picture don't you?"
     m ""
 
-# game/scripts/maria_events.rpy:10313
+# game/scripts/maria_events.rpy:10336
 translate pt_br mardate_fc3ac93c:
 
     # q "Seriously? This is who you dumped me for? A little old don't you think?"
     q ""
 
-# game/scripts/maria_events.rpy:10315
+# game/scripts/maria_events.rpy:10338
 translate pt_br mardate_bc50ec48:
 
     # m "He owns a Hotel, you barely even own a car. And besides that, he's so much better than you ever were."
     m ""
 
-# game/scripts/maria_events.rpy:10316
+# game/scripts/maria_events.rpy:10339
 translate pt_br mardate_b8e5c60d:
 
     # m "He's nice, he cares for me, AND his dick is like twice as big as yours. Don't you remember it? I'm sure you saved it so you could jerk off to it."
     m ""
 
-# game/scripts/maria_events.rpy:10318
+# game/scripts/maria_events.rpy:10341
 translate pt_br mardate_505df1a8:
 
     # q "What!? You fucking bitch watch what you sa-"
     q ""
 
-# game/scripts/maria_events.rpy:10320
+# game/scripts/maria_events.rpy:10343
 translate pt_br mardate_e895bac1:
 
     # m "Oh my god! You hit him!" with sshake
     m "" with sshake
 
-# game/scripts/maria_events.rpy:10322
+# game/scripts/maria_events.rpy:10345
 translate pt_br mardate_99867137:
 
     # m "You hit him! He's out cold I can't believe you hit him!"
     m ""
 
-# game/scripts/maria_events.rpy:10324
+# game/scripts/maria_events.rpy:10347
 translate pt_br mardate_e612037c:
 
     # m "..."
     m ""
 
-# game/scripts/maria_events.rpy:10325
+# game/scripts/maria_events.rpy:10348
 translate pt_br mardate_b270be08:
 
     # m "It was kind of hot..."
     m ""
 
-# game/scripts/maria_events.rpy:10327
+# game/scripts/maria_events.rpy:10350
 translate pt_br mardate_b09e1edb:
 
     # m "Nobody has ever hit someone for me... But you stood up and protected me..."
     m ""
 
-# game/scripts/maria_events.rpy:10328
+# game/scripts/maria_events.rpy:10351
 translate pt_br mardate_e631d4aa:
 
     # m "Come on, we should get out of here before the police come..."
     m ""
 
-# game/scripts/maria_events.rpy:10330
+# game/scripts/maria_events.rpy:10353
 translate pt_br mardate_052cf8bc:
 
     # "You both rush back to your car leaving Maria's ex boyfriend out cold on the ground."
     ""
 
-# game/scripts/maria_events.rpy:10331
+# game/scripts/maria_events.rpy:10354
 translate pt_br mardate_0ead63b6:
 
     # "You drive Maria back to the hotel, before you have a chance to exit the car, Maria grabs your arm, and kisses you on the cheek."
     ""
 
-# game/scripts/maria_events.rpy:10334
+# game/scripts/maria_events.rpy:10357
 translate pt_br mardate_4901a94d:
 
     # m "Thanks for taking me out [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:10337
+# game/scripts/maria_events.rpy:10360
 translate pt_br mardate_37e0cb27:
 
     # m "So I guess we're a thing now, right? I mean officially... You did hit my ex after all."
     m ""
 
-# game/scripts/maria_events.rpy:10338
+# game/scripts/maria_events.rpy:10361
 translate pt_br mardate_cf2a6a99:
 
     # c "I guess so."
     c ""
 
-# game/scripts/maria_events.rpy:10341
+# game/scripts/maria_events.rpy:10364
 translate pt_br mardate_9ec47ac4:
 
     # m "Cool, I guess I'll see you around then."
     m ""
 
-# game/scripts/maria_events.rpy:10348
+# game/scripts/maria_events.rpy:10371
 translate pt_br mark_5a7463a9:
 
     # m "Hey [name]~! I have an amazing idea... want to hear it?"
     m ""
 
-# game/scripts/maria_events.rpy:10349
+# game/scripts/maria_events.rpy:10372
 translate pt_br mark_59c20226:
 
     # c "Go ahead."
     c ""
 
-# game/scripts/maria_events.rpy:10350
+# game/scripts/maria_events.rpy:10373
 translate pt_br mark_fe7e7fb9:
 
     # m "Well, I don't want to spoil the surprise, but I was thinking of giving Kali one of my old cheerleader uniforms. I cut the skirt very short, heheh!"
     m ""
 
-# game/scripts/maria_events.rpy:10351
+# game/scripts/maria_events.rpy:10374
 translate pt_br mark_7bd726a2:
 
     # m "I'm sure we'd both enjoy how she looks in it. So what do you think?"
     m ""
 
-# game/scripts/maria_events.rpy:10352
+# game/scripts/maria_events.rpy:10375
 translate pt_br mark_55181581:
 
     # c "This should be fun."
     c ""
 
-# game/scripts/maria_events.rpy:10353
+# game/scripts/maria_events.rpy:10376
 translate pt_br mark_0ea021ab:
 
     # m "Right? Come on! Just wait for my signal."
     m ""
 
-# game/scripts/maria_events.rpy:10356
+# game/scripts/maria_events.rpy:10379
 translate pt_br mark_d0d02a60:
 
     # m "Knock knock! \nHey girl, do you have a moment?"
     m ""
 
-# game/scripts/maria_events.rpy:10358
+# game/scripts/maria_events.rpy:10381
 translate pt_br mark_fbe10527:
 
     # k "Maria? Can you knock before entering next time?"
     k ""
 
-# game/scripts/maria_events.rpy:10359
+# game/scripts/maria_events.rpy:10382
 translate pt_br mark_0904a1c1:
 
     # m "I did!"
     m ""
 
-# game/scripts/maria_events.rpy:10360
+# game/scripts/maria_events.rpy:10383
 translate pt_br mark_0daf212e:
 
     # k "No, you just said the words..."
     k ""
 
-# game/scripts/maria_events.rpy:10362
+# game/scripts/maria_events.rpy:10385
 translate pt_br mark_a2e08755:
 
     # m "Then it wouldn't be a surprise! I got something for you~"
     m ""
 
-# game/scripts/maria_events.rpy:10363
+# game/scripts/maria_events.rpy:10386
 translate pt_br mark_aa572cab:
 
     # k "Really? A gift? What do you have behind your back...?"
     k ""
 
-# game/scripts/maria_events.rpy:10365
+# game/scripts/maria_events.rpy:10388
 translate pt_br mark_db46b746:
 
     # m "This!"
     m ""
 
-# game/scripts/maria_events.rpy:10366
+# game/scripts/maria_events.rpy:10389
 translate pt_br mark_bbd02da0:
 
     # k "What is that...?"
     k ""
 
-# game/scripts/maria_events.rpy:10367
+# game/scripts/maria_events.rpy:10390
 translate pt_br mark_f6034cde:
 
     # m "Come on, just put it on!"
     m ""
 
-# game/scripts/maria_events.rpy:10368
+# game/scripts/maria_events.rpy:10391
 translate pt_br mark_6e3491da:
 
     # k "It doesn't even look my size..."
     k ""
 
-# game/scripts/maria_events.rpy:10369
+# game/scripts/maria_events.rpy:10392
 translate pt_br mark_771868a9:
 
     # m "Come on, pleeease?"
     m ""
 
-# game/scripts/maria_events.rpy:10370
+# game/scripts/maria_events.rpy:10393
 translate pt_br mark_df7b1eb3:
 
     # k "I don't need that... give it to Ashley or something."
     k ""
 
-# game/scripts/maria_events.rpy:10371
+# game/scripts/maria_events.rpy:10394
 translate pt_br mark_faad4497:
 
     # m "Don't be like that, Kali... you know [name] would love to see you in it..."
     m ""
 
-# game/scripts/maria_events.rpy:10373
+# game/scripts/maria_events.rpy:10396
 translate pt_br mark_82091822:
 
     # k "..."
     k ""
 
-# game/scripts/maria_events.rpy:10375
+# game/scripts/maria_events.rpy:10398
 translate pt_br mark_679105de:
 
     # k "Well... I mean... why not? We can at least see if it looks good on me. It couldn't hurt..."
     k ""
 
-# game/scripts/maria_events.rpy:10376
+# game/scripts/maria_events.rpy:10399
 translate pt_br mark_333ecca0:
 
     # m "That's the spirit..."
     m ""
 
-# game/scripts/maria_events.rpy:10378
+# game/scripts/maria_events.rpy:10401
 translate pt_br mark_54be8fa7:
 
     # "...{w}...{w}..."
     ""
 
-# game/scripts/maria_events.rpy:10380
+# game/scripts/maria_events.rpy:10403
 translate pt_br mark_3e0ea876:
 
     # k "What do you think? Does it look good?"
     k ""
 
-# game/scripts/maria_events.rpy:10381
+# game/scripts/maria_events.rpy:10404
 translate pt_br mark_99f6c448:
 
     # m "Hmm, I don't know... let's ask [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:10383
+# game/scripts/maria_events.rpy:10406
 translate pt_br mark_65ec0db1:
 
     # m "[name]! Get in here!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:10384
+# game/scripts/maria_events.rpy:10407
 translate pt_br mark_cd1d6306:
 
     # k "W-What? Wait, don't-"
     k ""
 
-# game/scripts/maria_events.rpy:10386
+# game/scripts/maria_events.rpy:10409
 translate pt_br mark_19471fee:
 
     # k "-Oh! You're already here...!"
     k ""
 
-# game/scripts/maria_events.rpy:10387
+# game/scripts/maria_events.rpy:10410
 translate pt_br mark_16293317:
 
     # m "What do you think~? Hot, right?"
     m ""
 
-# game/scripts/maria_events.rpy:10388
+# game/scripts/maria_events.rpy:10411
 translate pt_br mark_f934dc21:
 
     # k "M-Maria...! {i}{size=-7}Shut up!{/size}{/i}"
     k ""
 
-# game/scripts/maria_events.rpy:10389
+# game/scripts/maria_events.rpy:10412
 translate pt_br mark_7a9ffba5:
 
     # c "It looks amazing on you, Kali."
     c ""
 
-# game/scripts/maria_events.rpy:10391
+# game/scripts/maria_events.rpy:10414
 translate pt_br mark_c7425e2f:
 
     # k "W-Well, thanks..."
     k ""
 
-# game/scripts/maria_events.rpy:10392
+# game/scripts/maria_events.rpy:10415
 translate pt_br mark_2c72ada7:
 
     # m "See? He loves it..."
     m ""
 
-# game/scripts/maria_events.rpy:10394
+# game/scripts/maria_events.rpy:10417
 translate pt_br mark_9b608de1:
 
     # m "Now you two get to fuck in it~"
     m ""
 
-# game/scripts/maria_events.rpy:10395
+# game/scripts/maria_events.rpy:10418
 translate pt_br mark_cc45556c:
 
     # k "What!?"
     k ""
 
-# game/scripts/maria_events.rpy:10396
+# game/scripts/maria_events.rpy:10419
 translate pt_br mark_b88fddff:
 
     # m "Or I could just take it back..."
     m ""
 
-# game/scripts/maria_events.rpy:10397
+# game/scripts/maria_events.rpy:10420
 translate pt_br mark_f11ed08c:
 
     # k "You can't take back a gift!"
     k ""
 
-# game/scripts/maria_events.rpy:10398
+# game/scripts/maria_events.rpy:10421
 translate pt_br mark_96bbcff4:
 
     # m "I gave it to you so I could watch you get a thighjob, Kali... can't you see his hard-on? He's ready for it!"
     m ""
 
-# game/scripts/maria_events.rpy:10400
+# game/scripts/maria_events.rpy:10423
 translate pt_br mark_8cc43765:
 
     # k "But that's...! That's not...! I..."
     k ""
 
-# game/scripts/maria_events.rpy:10401
+# game/scripts/maria_events.rpy:10424
 translate pt_br mark_8e678519:
 
     # k "...Do you really want that, [name]?"
     k ""
 
-# game/scripts/maria_events.rpy:10404
+# game/scripts/maria_events.rpy:10427
 translate pt_br mark_5030b468:
 
     # m "See, I told you..."
     m ""
 
-# game/scripts/maria_events.rpy:10406
+# game/scripts/maria_events.rpy:10429
 translate pt_br mark_d2058c4c:
 
     # k "Well, I guess I don't mind then..."
     k ""
 
-# game/scripts/maria_events.rpy:10407
+# game/scripts/maria_events.rpy:10430
 translate pt_br mark_0f007686:
 
     # m "Great~! Don't mind me, you'll barely know I was here."
     m ""
 
-# game/scripts/maria_events.rpy:10410
+# game/scripts/maria_events.rpy:10433
 translate pt_br mark_925046fc:
 
     # k "Ahh..."
     k ""
 
-# game/scripts/maria_events.rpy:10411
+# game/scripts/maria_events.rpy:10434
 translate pt_br mark_797e959c:
 
     # m "Wow it looks so fun! How does it feel Kali?"
     m ""
 
-# game/scripts/maria_events.rpy:10412
+# game/scripts/maria_events.rpy:10435
 translate pt_br mark_0f2871ff:
 
     # k "It's alright I guess..."
     k ""
 
-# game/scripts/maria_events.rpy:10413
+# game/scripts/maria_events.rpy:10436
 translate pt_br mark_a9030eb6:
 
     # m "This is so hot..."
     m ""
 
-# game/scripts/maria_events.rpy:10414
+# game/scripts/maria_events.rpy:10437
 translate pt_br mark_f9760fb6:
 
     # k "I can't believe you're watching me..."
     k ""
 
-# game/scripts/maria_events.rpy:10416
+# game/scripts/maria_events.rpy:10439
 translate pt_br mark_fe7a0a11:
 
     # m "If only I had a dick so I could feel what [name] is feeling..."
     m ""
 
-# game/scripts/maria_events.rpy:10417
+# game/scripts/maria_events.rpy:10440
 translate pt_br mark_d1ecdb94:
 
     # k "What!? What are you saying?"
     k ""
 
-# game/scripts/maria_events.rpy:10418
+# game/scripts/maria_events.rpy:10441
 translate pt_br mark_449c1234:
 
     # m "Well you know I'm bi, right?"
     m ""
 
-# game/scripts/maria_events.rpy:10419
+# game/scripts/maria_events.rpy:10442
 translate pt_br mark_72dc1eb2:
 
     # k "W-Wait I didn't know that! Now this is even weirder!"
     k ""
 
-# game/scripts/maria_events.rpy:10420
+# game/scripts/maria_events.rpy:10443
 translate pt_br mark_6f05a2e1:
 
     # m "Oh relax..."
     m ""
 
-# game/scripts/maria_events.rpy:10422
+# game/scripts/maria_events.rpy:10445
 translate pt_br mark_853085b3:
 
     # k "Oh my god... now it's all starting to make sense... You bought those swimsuits for us because..."
     k ""
 
-# game/scripts/maria_events.rpy:10423
+# game/scripts/maria_events.rpy:10446
 translate pt_br mark_35309627:
 
     # m "That's right! Because it turned me on..."
     m ""
 
-# game/scripts/maria_events.rpy:10424
+# game/scripts/maria_events.rpy:10447
 translate pt_br mark_e4d09d2f:
 
     # k "You're such a pervert!"
     k ""
 
-# game/scripts/maria_events.rpy:10427
+# game/scripts/maria_events.rpy:10450
 translate pt_br mark_9d2c4271:
 
     # m "I think he's going to cum soon..."
     m ""
 
-# game/scripts/maria_events.rpy:10428
+# game/scripts/maria_events.rpy:10451
 translate pt_br mark_80561985:
 
     # k "Really...? Just from my thighs?"
     k ""
 
-# game/scripts/maria_events.rpy:10429
+# game/scripts/maria_events.rpy:10452
 translate pt_br mark_e4dd3f32:
 
     # m "I'm sure that outfit is helping as well."
     m ""
 
-# game/scripts/maria_events.rpy:10430
+# game/scripts/maria_events.rpy:10453
 translate pt_br mark_2e9bd230:
 
     # k "Oh..."
     k ""
 
-# game/scripts/maria_events.rpy:10432
+# game/scripts/maria_events.rpy:10455
 translate pt_br mark_5b6ad096:
 
     # k "Ah!" with ssshake
     k "" with ssshake
 
-# game/scripts/maria_events.rpy:10433
+# game/scripts/maria_events.rpy:10456
 translate pt_br mark_5768c0dc:
 
     # m "Oh my god~"
     m ""
 
-# game/scripts/maria_events.rpy:10435
+# game/scripts/maria_events.rpy:10458
 translate pt_br mark_6e2646d4:
 
     # m "Hah, hahah... he got some on me too~"
     m ""
 
-# game/scripts/maria_events.rpy:10437
+# game/scripts/maria_events.rpy:10460
 translate pt_br mark_2b08cc42:
 
     # m "Well, that was fun, wasn't it? Heheh..."
     m ""
 
-# game/scripts/maria_events.rpy:10438
+# game/scripts/maria_events.rpy:10461
 translate pt_br mark_e029ab97:
 
     # c "It was."
     c ""
 
-# game/scripts/maria_events.rpy:10439
+# game/scripts/maria_events.rpy:10462
 translate pt_br mark_76c44b5e:
 
     # k "Yeah, I guess..."
     k ""
 
-# game/scripts/maria_events.rpy:10440
+# game/scripts/maria_events.rpy:10463
 translate pt_br mark_077262cc:
 
     # m "Heheh, hear that [name]? {i}She guesses...{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:10441
+# game/scripts/maria_events.rpy:10464
 translate pt_br mark_b8077306:
 
     # m "Oh well, I'll see you two around. Have fun with Kali for me! Bye~"
     m ""
 
-# game/scripts/maria_events.rpy:10446
+# game/scripts/maria_events.rpy:10469
 translate pt_br mark_36b881c2:
 
     # "You've unlocked repeatable thighjobs with Kali!"
     ""
 
-# game/scripts/maria_events.rpy:10451
+# game/scripts/maria_events.rpy:10474
 translate pt_br mark_194393c5:
 
     # k "M-Maria! What the hell!?"
     k ""
 
-# game/scripts/maria_events.rpy:10452
+# game/scripts/maria_events.rpy:10475
 translate pt_br mark_813a3b82:
 
     # m "Well... I guess I misjudged that one..."
     m ""
 
-# game/scripts/maria_events.rpy:10454
+# game/scripts/maria_events.rpy:10477
 translate pt_br mark_3289957d:
 
     # k "Maria, get out of here!"
     k ""
 
-# game/scripts/maria_events.rpy:10455
+# game/scripts/maria_events.rpy:10478
 translate pt_br mark_f1967f39:
 
     # m "Okay, okay! I'm sorry..."
     m ""
 
-# game/scripts/maria_events.rpy:10466
+# game/scripts/maria_events.rpy:10489
 translate pt_br allbeach_b627cf2a:
 
     # m "Hey guys, want to go to the beach? It'll be fun!"
     m ""
 
-# game/scripts/maria_events.rpy:10467
+# game/scripts/maria_events.rpy:10490
 translate pt_br allbeach_cb0823fe:
 
     # a "Yeah, sure!"
     a ""
 
-# game/scripts/maria_events.rpy:10468
+# game/scripts/maria_events.rpy:10491
 translate pt_br allbeach_7ac73914:
 
     # k "I guess I could go."
     k ""
 
-# game/scripts/maria_events.rpy:10469
+# game/scripts/maria_events.rpy:10492
 translate pt_br allbeach_75ec764d:
 
     # l "Yes! I would love to Maria!"
     l ""
 
-# game/scripts/maria_events.rpy:10470
+# game/scripts/maria_events.rpy:10493
 translate pt_br allbeach_1b8627d0:
 
     # bot "Umm... I guess I wouldn't mind... but I don't have anything to wear..."
     bot ""
 
-# game/scripts/maria_events.rpy:10471
+# game/scripts/maria_events.rpy:10494
 translate pt_br allbeach_f84ce65f:
 
     # m "Don't worry, I've got something for you. For all of you actually..."
     m ""
 
-# game/scripts/maria_events.rpy:10472
+# game/scripts/maria_events.rpy:10495
 translate pt_br allbeach_c5811903:
 
     # a "Really!? Thank you!"
     a ""
 
-# game/scripts/maria_events.rpy:10473
+# game/scripts/maria_events.rpy:10496
 translate pt_br allbeach_299c2a5d:
 
     # k "You bought us all a swimsuit...?"
     k ""
 
-# game/scripts/maria_events.rpy:10474
+# game/scripts/maria_events.rpy:10497
 translate pt_br allbeach_857b34c3:
 
     # m "That's right."
     m ""
 
-# game/scripts/maria_events.rpy:10475
+# game/scripts/maria_events.rpy:10498
 translate pt_br allbeach_43fb70f1:
 
     # k "Can I see it first?"
     k ""
 
-# game/scripts/maria_events.rpy:10476
+# game/scripts/maria_events.rpy:10499
 translate pt_br allbeach_4ad5dc6f:
 
     # m "There's no fun in that though! Come on, let's go already!"
     m ""
 
-# game/scripts/maria_events.rpy:10477
+# game/scripts/maria_events.rpy:10500
 translate pt_br allbeach_5f5087ea:
 
     # k "I hope I don't regret this..."
     k ""
 
-# game/scripts/maria_events.rpy:10480
+# game/scripts/maria_events.rpy:10503
 translate pt_br allbeach_ac524e98:
 
     # k "I regret this..."
     k ""
 
-# game/scripts/maria_events.rpy:10484
+# game/scripts/maria_events.rpy:10507
 translate pt_br allbeach_00573bcc:
 
     # a "Nnngh... I'm gonna get sunburnt...! I didn't bring any sunblock..."
     a ""
 
-# game/scripts/maria_events.rpy:10485
+# game/scripts/maria_events.rpy:10508
 translate pt_br allbeach_5fcd6612:
 
     # a "Did you bring any, Maria...?"
     a ""
 
-# game/scripts/maria_events.rpy:10486
+# game/scripts/maria_events.rpy:10509
 translate pt_br allbeach_de7004ed:
 
     # m "I don't really keep any, sorry..."
     m ""
 
-# game/scripts/maria_events.rpy:10487
+# game/scripts/maria_events.rpy:10510
 translate pt_br allbeach_8fcfadbb:
 
     # a "I'm blaming you if it hurts too much to have sex..."
     a ""
 
-# game/scripts/maria_events.rpy:10488
+# game/scripts/maria_events.rpy:10511
 translate pt_br allbeach_f0175c31:
 
     # m "You look so cute in that, though! If you get a tan, at least you'll have sexy tan lines."
     m ""
 
-# game/scripts/maria_events.rpy:10490
+# game/scripts/maria_events.rpy:10513
 translate pt_br allbeach_160fdbc9:
 
     # bot "Hnnnnn...!"
     bot ""
 
-# game/scripts/maria_events.rpy:10491
+# game/scripts/maria_events.rpy:10514
 translate pt_br allbeach_2471981a:
 
     # l "Heheh... it's just water, [botname]..."
     l ""
 
-# game/scripts/maria_events.rpy:10492
+# game/scripts/maria_events.rpy:10515
 translate pt_br allbeach_72c78144:
 
     # bot "It's scary...!"
     bot ""
 
-# game/scripts/maria_events.rpy:10494
+# game/scripts/maria_events.rpy:10517
 translate pt_br allbeach_89eda75d:
 
     # l "Did you know... there is a race of water elves that can smell fear from a mile away...?"
     l ""
 
-# game/scripts/maria_events.rpy:10495
+# game/scripts/maria_events.rpy:10518
 translate pt_br allbeach_263a89ec:
 
     # bot "R-Really!?"
     bot ""
 
-# game/scripts/maria_events.rpy:10496
+# game/scripts/maria_events.rpy:10519
 translate pt_br allbeach_9c3a133b:
 
     # l "Mhm... they love the taste of metal, and they're blue, so you'll never see them coming..."
     l ""
 
-# game/scripts/maria_events.rpy:10497
+# game/scripts/maria_events.rpy:10520
 translate pt_br allbeach_f8279f06:
 
     # bot "Eeeeeh...!?"
     bot ""
 
-# game/scripts/maria_events.rpy:10499
+# game/scripts/maria_events.rpy:10522
 translate pt_br allbeach_bc4da012:
 
     # m "Hey you two, looking sexy..."
     m ""
 
-# game/scripts/maria_events.rpy:10500
+# game/scripts/maria_events.rpy:10523
 translate pt_br allbeach_06e58275:
 
     # bot "*GASP*!!! Don't eat me...!"
     bot ""
 
-# game/scripts/maria_events.rpy:10501
+# game/scripts/maria_events.rpy:10524
 translate pt_br allbeach_88d8f6bb:
 
     # m "Ohhh, since when could you read minds...?"
     m ""
 
-# game/scripts/maria_events.rpy:10503
+# game/scripts/maria_events.rpy:10526
 translate pt_br allbeach_4920d783:
 
     # bot "Oh... M-Maria..."
     bot ""
 
-# game/scripts/maria_events.rpy:10504
+# game/scripts/maria_events.rpy:10527
 translate pt_br allbeach_3faf0a5c:
 
     # m "Heheh, hey..."
     m ""
 
-# game/scripts/maria_events.rpy:10505
+# game/scripts/maria_events.rpy:10528
 translate pt_br allbeach_90e03c49:
 
     # l "What's up, Maria?"
     l ""
 
-# game/scripts/maria_events.rpy:10507
+# game/scripts/maria_events.rpy:10530
 translate pt_br allbeach_e5dabf2f:
 
     # m "You guys should play volley ball!"
     m ""
 
-# game/scripts/maria_events.rpy:10508
+# game/scripts/maria_events.rpy:10531
 translate pt_br allbeach_82690c35:
 
     # bot "Volley ball?"
     bot ""
 
-# game/scripts/maria_events.rpy:10509
+# game/scripts/maria_events.rpy:10532
 translate pt_br allbeach_1cd7f8ab:
 
     # l "Oh, it's a game the humans play at beach parties! They throw a ball over a net, I've heard it's fun!"
     l ""
 
-# game/scripts/maria_events.rpy:10510
+# game/scripts/maria_events.rpy:10533
 translate pt_br allbeach_318aedbe:
 
     # bot "I think I could do that!"
     bot ""
 
-# game/scripts/maria_events.rpy:10511
+# game/scripts/maria_events.rpy:10534
 translate pt_br allbeach_316d29d6:
 
     # k "Sports...?"
     k ""
 
-# game/scripts/maria_events.rpy:10512
+# game/scripts/maria_events.rpy:10535
 translate pt_br allbeach_b9f0733a:
 
     # a "I call Kali!"
     a ""
 
-# game/scripts/maria_events.rpy:10514
+# game/scripts/maria_events.rpy:10537
 translate pt_br allbeach_6066ac44:
 
     # k "HNGH! What the hell are you doing!?" with ssshake
     k "" with ssshake
 
-# game/scripts/maria_events.rpy:10516
+# game/scripts/maria_events.rpy:10539
 translate pt_br allbeach_103f69bf:
 
     # a "Onward, horsey!"
     a ""
 
-# game/scripts/maria_events.rpy:10517
+# game/scripts/maria_events.rpy:10540
 translate pt_br allbeach_357af3a4:
 
     # k "Urgh..."
     k ""
 
-# game/scripts/maria_events.rpy:10519
+# game/scripts/maria_events.rpy:10542
 translate pt_br allbeach_01f6f940:
 
     # a "Alright! Everyone ready?"
     a ""
 
-# game/scripts/maria_events.rpy:10520
+# game/scripts/maria_events.rpy:10543
 translate pt_br allbeach_8b6b7887:
 
     # k "I guess so..."
     k ""
 
-# game/scripts/maria_events.rpy:10521
+# game/scripts/maria_events.rpy:10544
 translate pt_br allbeach_bc2c7271:
 
     # bot "Go ahead!"
     bot ""
 
-# game/scripts/maria_events.rpy:10523
+# game/scripts/maria_events.rpy:10546
 translate pt_br allbeach_ff70fc82:
 
     # a "Are you joining, Maria?"
     a ""
 
-# game/scripts/maria_events.rpy:10524
+# game/scripts/maria_events.rpy:10547
 translate pt_br allbeach_7122f766:
 
     # m "Oh don't worry about us! We'll just watch."
     m ""
 
-# game/scripts/maria_events.rpy:10525
+# game/scripts/maria_events.rpy:10548
 translate pt_br allbeach_611649a0:
 
     # a "Okay!"
     a ""
 
-# game/scripts/maria_events.rpy:10527
+# game/scripts/maria_events.rpy:10550
 translate pt_br allbeach_0214ecea:
 
     # a "Hup!" with ssshake
     a "" with ssshake
 
-# game/scripts/maria_events.rpy:10529
+# game/scripts/maria_events.rpy:10552
 translate pt_br allbeach_df15c23c:
 
     # l "Hnnngg!" with ssshake
     l "" with ssshake
 
-# game/scripts/maria_events.rpy:10531
+# game/scripts/maria_events.rpy:10554
 translate pt_br allbeach_c73dc1dc:
 
     # l "Awww... I missed..."
     l ""
 
-# game/scripts/maria_events.rpy:10532
+# game/scripts/maria_events.rpy:10555
 translate pt_br allbeach_a1fcdfba:
 
     # bot "We can do better next time, Lin! Hit the ball!"
     bot ""
 
-# game/scripts/maria_events.rpy:10533
+# game/scripts/maria_events.rpy:10556
 translate pt_br allbeach_c6c955e3:
 
     # l "Okay..."
     l ""
 
-# game/scripts/maria_events.rpy:10535
+# game/scripts/maria_events.rpy:10558
 translate pt_br allbeach_74481afc:
 
     # l "Mmmph!" with ssshake
     l "" with ssshake
 
-# game/scripts/maria_events.rpy:10537
+# game/scripts/maria_events.rpy:10560
 translate pt_br allbeach_c74e82c7:
 
     # l "It went so far...!"
     l ""
 
-# game/scripts/maria_events.rpy:10538
+# game/scripts/maria_events.rpy:10561
 translate pt_br allbeach_74753dd7:
 
     # bot "*gasp*! Lin, your swimsuit!!"
     bot ""
 
-# game/scripts/maria_events.rpy:10540
+# game/scripts/maria_events.rpy:10563
 translate pt_br allbeach_e69ae9ba:
 
     # l "W-WHAT!?"
     l ""
 
-# game/scripts/maria_events.rpy:10542
+# game/scripts/maria_events.rpy:10565
 translate pt_br allbeach_5b4f06e0:
 
     # l "Nnnh... stupid swimsuit... It must have slid off when I went for the dive..."
     l ""
 
-# game/scripts/maria_events.rpy:10544
+# game/scripts/maria_events.rpy:10567
 translate pt_br allbeach_c83a6e50:
 
     # k "Hah!" with ssshake
     k "" with ssshake
 
-# game/scripts/maria_events.rpy:10545
+# game/scripts/maria_events.rpy:10568
 translate pt_br allbeach_0fcc35ad:
 
     # l "*gasp*! Oh no...!"
     l ""
 
-# game/scripts/maria_events.rpy:10546
+# game/scripts/maria_events.rpy:10569
 translate pt_br allbeach_c9949281:
 
     # bot "Lin, be careful next time! You missed the ball!"
     bot ""
 
-# game/scripts/maria_events.rpy:10547
+# game/scripts/maria_events.rpy:10570
 translate pt_br allbeach_d4c1f2e8:
 
     # l "I-I'm sorry!"
     l ""
 
-# game/scripts/maria_events.rpy:10548
+# game/scripts/maria_events.rpy:10571
 translate pt_br allbeach_3a9a2b6b:
 
     # bot "I'll get it!"
     bot ""
 
-# game/scripts/maria_events.rpy:10550
+# game/scripts/maria_events.rpy:10573
 translate pt_br allbeach_d96fd585:
 
     # m "So.... did you like the swimsuits I bought for them?"
     m ""
 
-# game/scripts/maria_events.rpy:10551
+# game/scripts/maria_events.rpy:10574
 translate pt_br allbeach_436b5031:
 
     # c "They're great."
     c ""
 
-# game/scripts/maria_events.rpy:10552
+# game/scripts/maria_events.rpy:10575
 translate pt_br allbeach_3601def0:
 
     # m "Good, I'm glad you like them... I picked out the sexiest ones just for you."
     m ""
 
-# game/scripts/maria_events.rpy:10553
+# game/scripts/maria_events.rpy:10576
 translate pt_br allbeach_a8055bac:
 
     # c "Just for me?"
     c ""
 
-# game/scripts/maria_events.rpy:10554
+# game/scripts/maria_events.rpy:10577
 translate pt_br allbeach_c9d1dad8:
 
     # m "And a little bit for me... but... mostly for you."
     m ""
 
-# game/scripts/maria_events.rpy:10555
+# game/scripts/maria_events.rpy:10578
 translate pt_br allbeach_f40636b5:
 
     # c "Why did you do that for me?"
     c ""
 
-# game/scripts/maria_events.rpy:10556
+# game/scripts/maria_events.rpy:10579
 translate pt_br allbeach_ab3d84eb:
 
     # m "Because..."
     m ""
 
-# game/scripts/maria_events.rpy:10557
+# game/scripts/maria_events.rpy:10580
 translate pt_br allbeach_070228c4:
 
     # m "I wanted to see if I could get some reaction out of you... and judging by your buldge, I'd say my plan worked out very well..."
     m ""
 
-# game/scripts/maria_events.rpy:10558
+# game/scripts/maria_events.rpy:10581
 translate pt_br allbeach_f8e11f21:
 
     # m "And if you're wondering why I didn't get anything sexy for myself, that's because..."
     m ""
 
-# game/scripts/maria_events.rpy:10560
+# game/scripts/maria_events.rpy:10583
 translate pt_br allbeach_64a8ccd4:
 
     # m "I didn't plan on wearing it often..."
     m ""
 
-# game/scripts/maria_events.rpy:10561
+# game/scripts/maria_events.rpy:10584
 translate pt_br allbeach_6e6ce20e:
 
     # c "Oh?"
     c ""
 
-# game/scripts/maria_events.rpy:10563
+# game/scripts/maria_events.rpy:10586
 translate pt_br allbeach_e6f30c8e:
 
     # m "What do you say we let them have their fun, and we have a little of our own behind those rocks? They won't be able to see us..."
     m ""
 
-# game/scripts/maria_events.rpy:10564
+# game/scripts/maria_events.rpy:10587
 translate pt_br allbeach_79cce127:
 
     # c "I'm interested."
     c ""
 
-# game/scripts/maria_events.rpy:10565
+# game/scripts/maria_events.rpy:10588
 translate pt_br allbeach_424c0e74:
 
     # m "Heheh, come on..."
     m ""
 
-# game/scripts/maria_events.rpy:10567
+# game/scripts/maria_events.rpy:10590
 translate pt_br allbeach_7daa866d:
 
     # m "Mmmmh... this spot looks good... are you ready?"
     m ""
 
-# game/scripts/maria_events.rpy:10569
+# game/scripts/maria_events.rpy:10592
 translate pt_br allbeach_ca2b67b5:
 
     # m "Ahhh, mmmm... it feels so wrong to do this behind everyone's backs, heheh..."
     m ""
 
-# game/scripts/maria_events.rpy:10571
+# game/scripts/maria_events.rpy:10594
 translate pt_br allbeach_f6e0c3b0:
 
     # m "Ahh! Fuck... it always feels so much better outside! Mmmmh!"
     m ""
 
-# game/scripts/maria_events.rpy:10572
+# game/scripts/maria_events.rpy:10595
 translate pt_br allbeach_d6fbc9cf:
 
     # m "Hahhh...! Even better knowing they're just behind those rocks... ahhh! They could find us at any moment... Hnnn!"
     m ""
 
-# game/scripts/maria_events.rpy:10576
+# game/scripts/maria_events.rpy:10599
 translate pt_br allbeach_5cc3b9c0:
 
     # bot "You're going down..."
     bot ""
 
-# game/scripts/maria_events.rpy:10578
+# game/scripts/maria_events.rpy:10601
 translate pt_br allbeach_aa9a6b6b:
 
     # bot "Hya!" with ssshake
     bot "" with ssshake
 
-# game/scripts/maria_events.rpy:10580
+# game/scripts/maria_events.rpy:10603
 translate pt_br allbeach_4eb3ca28:
 
     # bot "Ah! Oops..."
     bot ""
 
-# game/scripts/maria_events.rpy:10581
+# game/scripts/maria_events.rpy:10604
 translate pt_br allbeach_76657a5c:
 
     # a "It's flying!"
     a ""
 
-# game/scripts/maria_events.rpy:10582
+# game/scripts/maria_events.rpy:10605
 translate pt_br allbeach_8e07a54b:
 
     # l "You hit it too hard [botname]!"
     l ""
 
-# game/scripts/maria_events.rpy:10583
+# game/scripts/maria_events.rpy:10606
 translate pt_br allbeach_5193a6d1:
 
     # bot "I'm sorry! I didn't think I was that strong..."
     bot ""
 
-# game/scripts/maria_events.rpy:10584
+# game/scripts/maria_events.rpy:10607
 translate pt_br allbeach_022627f5:
 
     # a "Urgh... I'll go get it..."
     a ""
 
-# game/scripts/maria_events.rpy:10586
+# game/scripts/maria_events.rpy:10609
 translate pt_br allbeach_f76defd7:
 
     # m "Ahh...! Fuck me, [name]... Mmmm...!"
     m ""
 
-# game/scripts/maria_events.rpy:10588
+# game/scripts/maria_events.rpy:10611
 translate pt_br allbeach_7a2914b4:
 
     # a "[name]!? Maria!?" with ssshake
     a "" with ssshake
 
-# game/scripts/maria_events.rpy:10589
+# game/scripts/maria_events.rpy:10612
 translate pt_br allbeach_05e80b45:
 
     # m "Oh shit! Ash!?"
     m ""
 
-# game/scripts/maria_events.rpy:10590
+# game/scripts/maria_events.rpy:10613
 translate pt_br allbeach_391e2d5a:
 
     # m "Ash! We're just..."
     m ""
 
-# game/scripts/maria_events.rpy:10591
+# game/scripts/maria_events.rpy:10614
 translate pt_br allbeach_7a09b6ad:
 
     # a "You guys were fucking... while we were playing volleyball...?"
     a ""
 
-# game/scripts/maria_events.rpy:10592
+# game/scripts/maria_events.rpy:10615
 translate pt_br allbeach_755590d2:
 
     # m "Ummm..."
     m ""
 
-# game/scripts/maria_events.rpy:10594
+# game/scripts/maria_events.rpy:10617
 translate pt_br allbeach_d9be0389:
 
     # a "...And you didn't invite me...!?"
     a ""
 
-# game/scripts/maria_events.rpy:10595
+# game/scripts/maria_events.rpy:10618
 translate pt_br allbeach_1ac08414:
 
     # m "O-Oh, well..."
     m ""
 
-# game/scripts/maria_events.rpy:10597
+# game/scripts/maria_events.rpy:10620
 translate pt_br allbeach_47958052:
 
     # a "Hehe~ Hey Maria, how long have you been getting fucked for?"
     a ""
 
-# game/scripts/maria_events.rpy:10598
+# game/scripts/maria_events.rpy:10621
 translate pt_br allbeach_aa77e342:
 
     # m "Mmmmm... I don't know... a while..."
     m ""
 
-# game/scripts/maria_events.rpy:10600
+# game/scripts/maria_events.rpy:10623
 translate pt_br allbeach_4d678e3d:
 
     # a "Did [name] make you cum yet?"
     a ""
 
-# game/scripts/maria_events.rpy:10601
+# game/scripts/maria_events.rpy:10624
 translate pt_br allbeach_19ddd84b:
 
     # m "Ahh... almost..."
     m ""
 
-# game/scripts/maria_events.rpy:10602
+# game/scripts/maria_events.rpy:10625
 translate pt_br allbeach_b69cc410:
 
     # a "Hehe~ Do you like his dick? Do you love it?"
     a ""
 
-# game/scripts/maria_events.rpy:10603
+# game/scripts/maria_events.rpy:10626
 translate pt_br allbeach_04f253af:
 
     # m "Mmm... yess...!"
     m ""
 
-# game/scripts/maria_events.rpy:10604
+# game/scripts/maria_events.rpy:10627
 translate pt_br allbeach_07e247b9:
 
     # a "Are you gonna make him cum with your pussy?"
     a ""
 
-# game/scripts/maria_events.rpy:10605
+# game/scripts/maria_events.rpy:10628
 translate pt_br allbeach_7010afea:
 
     # m "Ahhh...! Mmmm...!"
     m ""
 
-# game/scripts/maria_events.rpy:10608
+# game/scripts/maria_events.rpy:10631
 translate pt_br allbeach_7cc1175c:
 
     # a "Ahhh! Your tongue feels so good, [name]...! Mmmh..."
     a ""
 
-# game/scripts/maria_events.rpy:10609
+# game/scripts/maria_events.rpy:10632
 translate pt_br allbeach_c6f890c9:
 
     # m "Ah, fuck! He's so hard...! Keep doing whatever you're doing... mmmh...!"
     m ""
 
-# game/scripts/maria_events.rpy:10610
+# game/scripts/maria_events.rpy:10633
 translate pt_br allbeach_1514376f:
 
     # a "Ahhh... you like that? Heheh...!"
     a ""
 
-# game/scripts/maria_events.rpy:10611
+# game/scripts/maria_events.rpy:10634
 translate pt_br allbeach_0147a8f7:
 
     # m "Fuck, fuck! Aaah!"
     m ""
 
-# game/scripts/maria_events.rpy:10613
+# game/scripts/maria_events.rpy:10636
 translate pt_br allbeach_77d4eaaf:
 
     # m "HNNN!!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:10614
+# game/scripts/maria_events.rpy:10637
 translate pt_br allbeach_abc845d0:
 
     # m "I-Inside!?" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:10615
+# game/scripts/maria_events.rpy:10638
 translate pt_br allbeach_0abfd4ef:
 
     # m "Nnnnngh!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:10617
+# game/scripts/maria_events.rpy:10640
 translate pt_br allbeach_7fd98f80:
 
     # m "Mmmmmh, fuck, that was so hot..."
     m ""
 
-# game/scripts/maria_events.rpy:10618
+# game/scripts/maria_events.rpy:10641
 translate pt_br allbeach_4c20301d:
 
     # m "Thanks for joining Ash..."
     m ""
 
-# game/scripts/maria_events.rpy:10619
+# game/scripts/maria_events.rpy:10642
 translate pt_br allbeach_4e82ad95:
 
     # a "No problem! You should have told me we were having a threesome earlier..."
     a ""
 
-# game/scripts/maria_events.rpy:10620
+# game/scripts/maria_events.rpy:10643
 translate pt_br allbeach_714acff1:
 
     # a "You're not upset he came inside?"
     a ""
 
-# game/scripts/maria_events.rpy:10621
+# game/scripts/maria_events.rpy:10644
 translate pt_br allbeach_9721eb1b:
 
     # m "Ahh... a little... but it's in the past, so it's hot..."
     m ""
 
-# game/scripts/maria_events.rpy:10622
+# game/scripts/maria_events.rpy:10645
 translate pt_br allbeach_48e9f142:
 
     # a "Hehe~ don't forget about your bikini Maria..."
     a ""
 
-# game/scripts/maria_events.rpy:10623
+# game/scripts/maria_events.rpy:10646
 translate pt_br allbeach_d84aa527:
 
     # m "Ahh... haha... right, almost forgot."
     m ""
 
-# game/scripts/maria_events.rpy:10635
+# game/scripts/maria_events.rpy:10658
 translate pt_br marlin_e69b5488:
 
     # "You hear music blasting from Maria's room..."
     ""
 
-# game/scripts/maria_events.rpy:10637
+# game/scripts/maria_events.rpy:10660
 translate pt_br marlin_e262a2bf:
 
     # l "Urgh! Maria! MARIA!"
     l ""
 
-# game/scripts/maria_events.rpy:10639
+# game/scripts/maria_events.rpy:10662
 translate pt_br marlin_c4a98a10:
 
     # l "[linoname], I can't get Maria to open the door! The music is too loud! Can you do something about it, please?"
     l ""
 
-# game/scripts/maria_events.rpy:10640
+# game/scripts/maria_events.rpy:10663
 translate pt_br marlin_df1457f3:
 
     # c "Sure, give me a bit."
     c ""
 
-# game/scripts/maria_events.rpy:10642
+# game/scripts/maria_events.rpy:10665
 translate pt_br marlin_ecf18235:
 
     # "*knock knock knock*"
     ""
 
-# game/scripts/maria_events.rpy:10643
+# game/scripts/maria_events.rpy:10666
 translate pt_br marlin_a20cefa7:
 
     # "..."
     ""
 
-# game/scripts/maria_events.rpy:10644
+# game/scripts/maria_events.rpy:10667
 translate pt_br marlin_98fe1475:
 
     # "*KNOCK KNOCK KNOCK*"
     ""
 
-# game/scripts/maria_events.rpy:10645
+# game/scripts/maria_events.rpy:10668
 translate pt_br marlin_a20cefa7_1:
 
     # "..."
     ""
 
-# game/scripts/maria_events.rpy:10647
+# game/scripts/maria_events.rpy:10670
 translate pt_br marlin_f377f8c2:
 
     # "You open Maria's door with your master key..."
     ""
 
-# game/scripts/maria_events.rpy:10677
+# game/scripts/maria_events.rpy:10700
 translate pt_br marlin_2aee77e9:
 
     # m "Oh! [name]! I thought I locked the door." with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:10678
+# game/scripts/maria_events.rpy:10701
 translate pt_br marlin_2deb05f0:
 
     # c "Having fun?"
     c ""
 
-# game/scripts/maria_events.rpy:10679
+# game/scripts/maria_events.rpy:10702
 translate pt_br marlin_d176af00:
 
     # m "Huh!? Oh, one sec!"
     m ""
 
-# game/scripts/maria_events.rpy:10683
+# game/scripts/maria_events.rpy:10706
 translate pt_br marlin_f35da0c3:
 
     # m "Guess you caught me... enjoy the show?"
     m ""
 
-# game/scripts/maria_events.rpy:10684
+# game/scripts/maria_events.rpy:10707
 translate pt_br marlin_1b2baadd:
 
     # c "You were amazing, I didn't know you could dance."
     c ""
 
-# game/scripts/maria_events.rpy:10686
+# game/scripts/maria_events.rpy:10709
 translate pt_br marlin_36ab04ae:
 
     # m "Thanks! I've always found dancing a very useful skill..."
     m ""
 
-# game/scripts/maria_events.rpy:10687
+# game/scripts/maria_events.rpy:10710
 translate pt_br marlin_9e90e676:
 
     # c "What are you wearing?"
     c ""
 
-# game/scripts/maria_events.rpy:10688
+# game/scripts/maria_events.rpy:10711
 translate pt_br marlin_e44229d1:
 
     # m "Oh this? Just my pajamas... Cute, don't you think?"
     m ""
 
-# game/scripts/maria_events.rpy:10691
+# game/scripts/maria_events.rpy:10714
 translate pt_br marlin_8147825d:
 
     # m "Haha, glad you like it..."
     m ""
 
-# game/scripts/maria_events.rpy:10694
+# game/scripts/maria_events.rpy:10717
 translate pt_br marlin_224dab0e:
 
     # m "Oh, you think? Let's put your theory to the test..."
     m ""
 
-# game/scripts/maria_events.rpy:10696
+# game/scripts/maria_events.rpy:10719
 translate pt_br marlin_80105d69:
 
     # m "Better, or worse...?"
     m ""
 
-# game/scripts/maria_events.rpy:10699
+# game/scripts/maria_events.rpy:10722
 translate pt_br marlin_51404596:
 
     # c "Definitely better."
     c ""
 
-# game/scripts/maria_events.rpy:10701
+# game/scripts/maria_events.rpy:10724
 translate pt_br marlin_614530b3:
 
     # m "Hmm, good to know..."
     m ""
 
-# game/scripts/maria_events.rpy:10703
+# game/scripts/maria_events.rpy:10726
 translate pt_br marlin_c0127670:
 
     # m "Well that wasn't very nice..."
     m ""
 
-# game/scripts/maria_events.rpy:10706
+# game/scripts/maria_events.rpy:10729
 translate pt_br marlin_c6591af3:
 
     # m "So, did you just come to stare? Or was there something you wanted...?"
     m ""
 
-# game/scripts/maria_events.rpy:10707
+# game/scripts/maria_events.rpy:10730
 translate pt_br marlin_e428c469:
 
     # c "Oh, uh... your music was too loud. People were complaining."
     c ""
 
-# game/scripts/maria_events.rpy:10708
+# game/scripts/maria_events.rpy:10731
 translate pt_br marlin_ff2ec910:
 
     # m "Hm, noted."
     m ""
 
-# game/scripts/maria_events.rpy:10709
+# game/scripts/maria_events.rpy:10732
 translate pt_br marlin_ebf9ce4c:
 
     # m "If that's all... have a good day..."
     m ""
 
-# game/scripts/maria_events.rpy:10710
+# game/scripts/maria_events.rpy:10733
 translate pt_br marlin_fea00f04:
 
     # c "Goodbye."
     c ""
 
-# game/scripts/maria_events.rpy:10713
+# game/scripts/maria_events.rpy:10736
 translate pt_br marlin_4a5e8093:
 
     # m "Holy shit, holy shit! I was caught! I couldn't have asked for a better ending!"
     m ""
 
-# game/scripts/maria_events.rpy:10714
+# game/scripts/maria_events.rpy:10737
 translate pt_br marlin_cd2ff271:
 
     # m "People are going to love this..."
     m ""
 
-# game/scripts/maria_events.rpy:10721
+# game/scripts/maria_events.rpy:10744
 translate pt_br marcafe_fa6cd7d7:
 
     # m "*sigh*... all set up. Hey [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:10722
+# game/scripts/maria_events.rpy:10745
 translate pt_br marcafe_a698a9e6:
 
     # c "Welcome to the hotel."
     c ""
 
-# game/scripts/maria_events.rpy:10723
+# game/scripts/maria_events.rpy:10746
 translate pt_br marcafe_4f764f6b:
 
     # m "Thank you! I can't wait to check out the place."
     m ""
 
-# game/scripts/maria_events.rpy:10724
+# game/scripts/maria_events.rpy:10747
 translate pt_br marcafe_370a0253:
 
     # m "It's not as nice as the dorms, but... my work sort of requires personal space and a roommate really gets in the way of that, ya know?"
     m ""
 
-# game/scripts/maria_events.rpy:10725
+# game/scripts/maria_events.rpy:10748
 translate pt_br marcafe_576d3895:
 
     # c "What do you do for a living?"
     c ""
 
-# game/scripts/maria_events.rpy:10727
+# game/scripts/maria_events.rpy:10750
 translate pt_br marcafe_63576642:
 
     # m "That's a secret..."
     m ""
 
-# game/scripts/maria_events.rpy:10729
+# game/scripts/maria_events.rpy:10752
 translate pt_br marcafe_0629e6fb:
 
     # m "More importantly, I hear you have a natural hot springs here! That's so rare in Syl'anar!"
     m ""
 
-# game/scripts/maria_events.rpy:10730
+# game/scripts/maria_events.rpy:10753
 translate pt_br marcafe_dc9a9338:
 
     # m "I've never actually been in one before, it's like a big natural hot tub, right? Actually, don't answer that. I want to find out for myself."
     m ""
 
-# game/scripts/maria_events.rpy:10731
+# game/scripts/maria_events.rpy:10754
 translate pt_br marcafe_5071cbdb:
 
     # m "Heeeeey... want to join me for some coffee? We should get to know each other a little more, considering I've seen your juicy cock and all..."
     m ""
 
-# game/scripts/maria_events.rpy:10732
+# game/scripts/maria_events.rpy:10755
 translate pt_br marcafe_a97d4f3c:
 
     # c "Sounds fun."
     c ""
 
-# game/scripts/maria_events.rpy:10733
+# game/scripts/maria_events.rpy:10756
 translate pt_br marcafe_b81d36d5:
 
     # m "How's Corpus Cafe sound?"
     m ""
 
-# game/scripts/maria_events.rpy:10734
+# game/scripts/maria_events.rpy:10757
 translate pt_br marcafe_154b3c12:
 
     # c "Great. See you there."
     c ""
 
-# game/scripts/maria_events.rpy:10737
+# game/scripts/maria_events.rpy:10760
 translate pt_br marcafe_ffe7d922:
 
     # m "Hey [name]. Thanks for joining me."
     m ""
 
-# game/scripts/maria_events.rpy:10739
+# game/scripts/maria_events.rpy:10762
 translate pt_br marcafe_35b2a880:
 
     # m "There's just something amazing about a good cup of coffee, don't ya think?"
     m ""
 
-# game/scripts/maria_events.rpy:10741
+# game/scripts/maria_events.rpy:10764
 translate pt_br marcafe_c5d36473:
 
     # m "You know... Ashley seems to like you a lot. I mean, she clings to a lot of people, but she never sticks for some reason... maybe you're special?"
     m ""
 
-# game/scripts/maria_events.rpy:10742
+# game/scripts/maria_events.rpy:10765
 translate pt_br marcafe_24616a02:
 
     # c "How long have you two known each other?"
     c ""
 
-# game/scripts/maria_events.rpy:10743
+# game/scripts/maria_events.rpy:10766
 translate pt_br marcafe_7e85a10b:
 
     # m "Oh, a long time! We've been in the same schools since elementary! She's been a good friend of mine for a very long time."
     m ""
 
-# game/scripts/maria_events.rpy:10744
+# game/scripts/maria_events.rpy:10767
 translate pt_br marcafe_6e535837:
 
     # m "I don't know much about her, though... if I'm being honest. She doesn't like to talk about herself."
     m ""
 
-# game/scripts/maria_events.rpy:10745
+# game/scripts/maria_events.rpy:10768
 translate pt_br marcafe_32f3c1e6:
 
     # m "That's why I'm curious what's so special about you... her virginity was very important to her, she always told me how she would only give it away to her future husband, soooo..."
     m ""
 
-# game/scripts/maria_events.rpy:10747
+# game/scripts/maria_events.rpy:10770
 translate pt_br marcafe_d7493380:
 
     # m "Hahahaha, oh well... I guess we'll see what happens. Unless I take you first..."
     m ""
 
-# game/scripts/maria_events.rpy:10749
+# game/scripts/maria_events.rpy:10772
 translate pt_br marcafe_065aab56:
 
     # m "Oh right, I'm still in a relationship..."
     m ""
 
-# game/scripts/maria_events.rpy:10750
+# game/scripts/maria_events.rpy:10773
 translate pt_br marcafe_24ab594c:
 
     # m "Hmph, I'm sure I could have you if I wanted you though..."
     m ""
 
-# game/scripts/maria_events.rpy:10753
+# game/scripts/maria_events.rpy:10776
 translate pt_br marcafe_59a0223f:
 
     # m "So what are you gonna have? Pick anything you want, I'll pay for it."
     m ""
 
-# game/scripts/maria_events.rpy:10756
+# game/scripts/maria_events.rpy:10779
 translate pt_br marcafe_65780ba2:
 
     # m "Good choice."
     m ""
 
-# game/scripts/maria_events.rpy:10758
+# game/scripts/maria_events.rpy:10781
 translate pt_br marcafe_33c67732:
 
     # m "Boring..."
     m ""
 
-# game/scripts/maria_events.rpy:10760
+# game/scripts/maria_events.rpy:10783
 translate pt_br marcafe_3bbdfdd9:
 
     # m "Ooh, good choice."
     m ""
 
-# game/scripts/maria_events.rpy:10763
+# game/scripts/maria_events.rpy:10786
 translate pt_br marcafe_b7b8830f:
 
     # m "Oh, heheheh... stop, I have a boyfriend!"
     m ""
 
-# game/scripts/maria_events.rpy:10766
+# game/scripts/maria_events.rpy:10789
 translate pt_br marcafe_a9b8f941:
 
     # m "Oh, not hungry? Why did we come here then?"
     m ""
 
-# game/scripts/maria_events.rpy:10770
+# game/scripts/maria_events.rpy:10793
 translate pt_br marcafe_c9842433:
 
     # m "Oh please... I invited you, I can afford it."
     m ""
 
-# game/scripts/maria_events.rpy:10772
+# game/scripts/maria_events.rpy:10795
 translate pt_br marcafe_50edbecf:
 
     # m "So... I was wondering... how attached are you to Ash?"
     m ""
 
-# game/scripts/maria_events.rpy:10773
+# game/scripts/maria_events.rpy:10796
 translate pt_br marcafe_bb00a52c:
 
     # c "What do you mean?"
     c ""
 
-# game/scripts/maria_events.rpy:10775
+# game/scripts/maria_events.rpy:10798
 translate pt_br marcafe_17b143b8:
 
     # m "You know... are you two like a thing or...?"
     m ""
 
-# game/scripts/maria_events.rpy:10779
+# game/scripts/maria_events.rpy:10802
 translate pt_br marcafe_ac519835:
 
     # m "WHAT!?"
     m ""
 
-# game/scripts/maria_events.rpy:10780
+# game/scripts/maria_events.rpy:10803
 translate pt_br marcafe_0973f211:
 
     # c "Just kidding."
     c ""
 
-# game/scripts/maria_events.rpy:10782
+# game/scripts/maria_events.rpy:10805
 translate pt_br marcafe_c94b94e7:
 
     # m "Oh hahaha!"
     m ""
 
-# game/scripts/maria_events.rpy:10785
+# game/scripts/maria_events.rpy:10808
 translate pt_br marcafe_2333518f:
 
     # m "Interesting..."
     m ""
 
-# game/scripts/maria_events.rpy:10787
+# game/scripts/maria_events.rpy:10810
 translate pt_br marcafe_04f947cd:
 
     # m "She can be, but you should take it as a compliment. Once she finds someone she likes, she sticks like glue."
     m ""
 
-# game/scripts/maria_events.rpy:10789
+# game/scripts/maria_events.rpy:10812
 translate pt_br marcafe_f13e6784:
 
     # m "Do you think she would be mad if we hooked up, or...?"
     m ""
 
-# game/scripts/maria_events.rpy:10790
+# game/scripts/maria_events.rpy:10813
 translate pt_br marcafe_4934dd1e:
 
     # c "Don't you have a boyfriend?"
     c ""
 
-# game/scripts/maria_events.rpy:10792
+# game/scripts/maria_events.rpy:10815
 translate pt_br marcafe_012ac42f:
 
     # m "Well... things aren't really working out as I'm sure you've guessed, I think we might break up soon..."
     m ""
 
-# game/scripts/maria_events.rpy:10794
+# game/scripts/maria_events.rpy:10817
 translate pt_br marcafe_6b93afe4:
 
     # m "Plus I hear good things about you, hahaha."
     m ""
 
-# game/scripts/maria_events.rpy:10796
+# game/scripts/maria_events.rpy:10819
 translate pt_br marcafe_9d9680b1:
 
     # m "But it's just a thought... I'll just have to see where my current relationship goes..."
     m ""
 
-# game/scripts/maria_events.rpy:10797
+# game/scripts/maria_events.rpy:10820
 translate pt_br marcafe_0edf30ef:
 
     # m "So what about Lin. What's her deal?"
     m ""
 
-# game/scripts/maria_events.rpy:10801
+# game/scripts/maria_events.rpy:10824
 translate pt_br marcafe_c3ab59ee:
 
     # m "Ohh, I bet that's fun haha."
     m ""
 
-# game/scripts/maria_events.rpy:10803
+# game/scripts/maria_events.rpy:10826
 translate pt_br marcafe_19c1e4e2:
 
     # m "I see..."
     m ""
 
-# game/scripts/maria_events.rpy:10805
+# game/scripts/maria_events.rpy:10828
 translate pt_br marcafe_f26ddc6f:
 
     # m "And Kali?"
     m ""
 
-# game/scripts/maria_events.rpy:10809
+# game/scripts/maria_events.rpy:10832
 translate pt_br marcafe_907c55a9:
 
     # m "Seems like a bitch to me."
     m ""
 
-# game/scripts/maria_events.rpy:10811
+# game/scripts/maria_events.rpy:10834
 translate pt_br marcafe_ecd57fe3:
 
     # m "Really? Maybe I should give her a second chance..."
     m ""
 
-# game/scripts/maria_events.rpy:10812
+# game/scripts/maria_events.rpy:10835
 translate pt_br marcafe_6ac6d822:
 
     # m "Oh, and Ellen... what do you think of her?"
     m ""
 
-# game/scripts/maria_events.rpy:10816
+# game/scripts/maria_events.rpy:10839
 translate pt_br marcafe_f56609e5:
 
     # m "She's just a receptionist to you? *sigh*, it must suck working for you, huh?"
     m ""
 
-# game/scripts/maria_events.rpy:10819
+# game/scripts/maria_events.rpy:10842
 translate pt_br marcafe_d79a96c3:
 
     # m "Mmmm, agreed..."
     m ""
 
-# game/scripts/maria_events.rpy:10821
+# game/scripts/maria_events.rpy:10844
 translate pt_br marcafe_ace8ce11:
 
     # m "Oh... it must suck working for you..."
     m ""
 
-# game/scripts/maria_events.rpy:10823
+# game/scripts/maria_events.rpy:10846
 translate pt_br marcafe_7b482112:
 
     # m "Well, I've had a great time [name]! I should really get ready for work though..."
     m ""
 
-# game/scripts/maria_events.rpy:10824
+# game/scripts/maria_events.rpy:10847
 translate pt_br marcafe_b0c4e4e1:
 
     # c "I'll drive you."
     c ""
 
-# game/scripts/maria_events.rpy:10825
+# game/scripts/maria_events.rpy:10848
 translate pt_br marcafe_b1cc44a4:
 
     # m "Oh, that's sweet!"
     m ""
 
-# game/scripts/maria_events.rpy:10826
+# game/scripts/maria_events.rpy:10849
 translate pt_br marcafe_a455d8de:
 
     # m "But, I'm actually self-employed! I work from home anyway, heheh."
     m ""
 
-# game/scripts/maria_events.rpy:10827
+# game/scripts/maria_events.rpy:10850
 translate pt_br marcafe_b05b3881:
 
     # c "It works out perfectly, then."
     c ""
 
-# game/scripts/maria_events.rpy:10828
+# game/scripts/maria_events.rpy:10851
 translate pt_br marcafe_160891fe:
 
     # m "I guess it does."
     m ""
 
-# game/scripts/maria_events.rpy:10894
+# game/scripts/maria_events.rpy:10917
 translate pt_br mariaroom_5dd50fea:
 
     # m "Hey, up for some late night fun?"
     m ""
 
-# game/scripts/maria_events.rpy:10898
+# game/scripts/maria_events.rpy:10921
 translate pt_br mariaroom_5dd50fea_1:
 
     # m "Hey, up for some late night fun?"
     m ""
 
-# game/scripts/maria_events.rpy:11005
+# game/scripts/maria_events.rpy:11028
 translate pt_br marroomchoices_be0526b1:
 
     # m "Morning!"
     m ""
 
-# game/scripts/maria_events.rpy:11009
+# game/scripts/maria_events.rpy:11032
 translate pt_br marroomchoices_0be10ecc:
 
     # m "Hey handsome! I hope your day was great!"
     m ""
 
-# game/scripts/maria_events.rpy:11011
+# game/scripts/maria_events.rpy:11034
 translate pt_br marroomchoices_2a1ee2da:
 
     # m "It's been so fun having Hana around, just like good ol' days!"
     m ""
 
-# game/scripts/maria_events.rpy:11013
+# game/scripts/maria_events.rpy:11036
 translate pt_br marroomchoices_29573995:
 
     # m "Hey handsome."
     m ""
 
-# game/scripts/maria_events.rpy:11015
+# game/scripts/maria_events.rpy:11038
 translate pt_br marroomchoices_ae203947:
 
     # m "Hi [name]."
     m ""
 
-# game/scripts/maria_events.rpy:11019
+# game/scripts/maria_events.rpy:11042
 translate pt_br martalkl_acc440d2:
 
     # m "Horny... and you?"
     m ""
 
-# game/scripts/maria_events.rpy:11022
+# game/scripts/maria_events.rpy:11045
 translate pt_br martalkl_c52b4059:
 
     # m "I'm okay I guess."
     m ""
 
-# game/scripts/maria_events.rpy:11025
+# game/scripts/maria_events.rpy:11048
 translate pt_br martalkl_dabe5f21:
 
     # m "I'm doing alright. You?"
     m ""
 
-# game/scripts/maria_events.rpy:11028
+# game/scripts/maria_events.rpy:11051
 translate pt_br martalkl_6aa0e748:
 
     # m "I'm great [name]! How are you?"
     m ""
 
-# game/scripts/maria_events.rpy:11031
+# game/scripts/maria_events.rpy:11054
 translate pt_br martalkl_acb4aa77:
 
     # m "Better now that you're here..."
     m ""
 
-# game/scripts/maria_events.rpy:11039
+# game/scripts/maria_events.rpy:11062
 translate pt_br marinteract_ace95d68:
 
     # m "Thanks..."
     m ""
 
-# game/scripts/maria_events.rpy:11045
+# game/scripts/maria_events.rpy:11068
 translate pt_br marinteract_89a3cb40:
 
     # m "Aw, thanks..."
     m ""
 
-# game/scripts/maria_events.rpy:11049
+# game/scripts/maria_events.rpy:11072
 translate pt_br marinteract_495c7278:
 
     # m "Mmn, adorable..."
     m ""
 
-# game/scripts/maria_events.rpy:11053
+# game/scripts/maria_events.rpy:11076
 translate pt_br marinteract_1679c593:
 
     # m "Careful..."
     m ""
 
-# game/scripts/maria_events.rpy:11055
+# game/scripts/maria_events.rpy:11078
 translate pt_br marinteract_c090d7ab:
 
     # m "We bite!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:11057
+# game/scripts/maria_events.rpy:11080
 translate pt_br marinteract_42d07288:
 
     # m "Heheh..."
     m ""
 
-# game/scripts/maria_events.rpy:11061
+# game/scripts/maria_events.rpy:11084
 translate pt_br marinteract_701c8f2f:
 
     # m "That hand could be put to better uses, you know..."
     m ""
 
-# game/scripts/maria_events.rpy:11065
+# game/scripts/maria_events.rpy:11088
 translate pt_br marinteract_c8c185be:
 
     # m "Mmmn, thank you..."
     m ""
 
-# game/scripts/maria_events.rpy:11070
+# game/scripts/maria_events.rpy:11093
 translate pt_br marinteract_d039fa99:
 
     # m "Hmph..."
     m ""
 
-# game/scripts/maria_events.rpy:11074
+# game/scripts/maria_events.rpy:11097
 translate pt_br marinteract_2f40f71b:
 
     # m "Cute..."
     m ""
 
-# game/scripts/maria_events.rpy:11078
+# game/scripts/maria_events.rpy:11101
 translate pt_br marinteract_42d07288_1:
 
     # m "Heheh..."
     m ""
 
-# game/scripts/maria_events.rpy:11082
+# game/scripts/maria_events.rpy:11105
 translate pt_br marinteract_1cba441d:
 
     # m "Mmmh..."
     m ""
 
-# game/scripts/maria_events.rpy:11089
+# game/scripts/maria_events.rpy:11112
 translate pt_br marinteract_017d0231:
 
     # m "Mmmh~!"
     m ""
 
-# game/scripts/maria_events.rpy:11094
+# game/scripts/maria_events.rpy:11117
 translate pt_br marinteract_7eb3d4ff:
 
     # m "Mmmmn! I love you..."
     m ""
 
-# game/scripts/maria_events.rpy:11097
+# game/scripts/maria_events.rpy:11120
 translate pt_br marinteract_f015aa6c:
 
     # m "Mmmmn! [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:11100
+# game/scripts/maria_events.rpy:11123
 translate pt_br marinteract_943ddc7c:
 
     # m "Llllln... careful what you wish for..."
     m ""
 
-# game/scripts/maria_events.rpy:11103
+# game/scripts/maria_events.rpy:11126
 translate pt_br marinteract_3dc4c3eb:
 
     # m "Mmmn! Mmmph! Nnnnm!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:11106
+# game/scripts/maria_events.rpy:11129
 translate pt_br marinteract_486cc705:
 
     # m "Mmmn... Mmmmp... [name]..."
     m ""
 
-# game/scripts/maria_events.rpy:11110
+# game/scripts/maria_events.rpy:11133
 translate pt_br marinteract_017d0231_1:
 
     # m "Mmmh~!"
     m ""
 
-# game/scripts/maria_events.rpy:11113
+# game/scripts/maria_events.rpy:11136
 translate pt_br marinteract_f592a1f8:
 
     # m "C'mere!"
     m ""
 
-# game/scripts/maria_events.rpy:11116
+# game/scripts/maria_events.rpy:11139
 translate pt_br marinteract_58a5cf7b:
 
     # m "Mmmmp~"
     m ""
 
-# game/scripts/maria_events.rpy:11119
+# game/scripts/maria_events.rpy:11142
 translate pt_br marinteract_115de734:
 
     # m "Mmmp! Llll~"
     m ""
 
-# game/scripts/maria_events.rpy:11126
+# game/scripts/maria_events.rpy:11149
 translate pt_br marinteract_37450de6:
 
     # m "Mmmmh~"
     m ""
 
-# game/scripts/maria_events.rpy:11131
+# game/scripts/maria_events.rpy:11154
 translate pt_br marinteract_3c7726dd:
 
     # m "Mmmm... [name], you smell nice..."
     m ""
 
-# game/scripts/maria_events.rpy:11134
+# game/scripts/maria_events.rpy:11157
 translate pt_br marinteract_e592f22d:
 
     # m "I love you..."
     m ""
 
-# game/scripts/maria_events.rpy:11137
+# game/scripts/maria_events.rpy:11160
 translate pt_br marinteract_3ff0ed73:
 
     # m "Wanna know a secret...?"
     m ""
 
-# game/scripts/maria_events.rpy:11138
+# game/scripts/maria_events.rpy:11161
 translate pt_br marinteract_848fcd6c:
 
     # m "I'm wet..."
     m ""
 
-# game/scripts/maria_events.rpy:11141
+# game/scripts/maria_events.rpy:11164
 translate pt_br marinteract_ecc47134:
 
     # m "This is nice..."
     m ""
 
-# game/scripts/maria_events.rpy:11144
+# game/scripts/maria_events.rpy:11167
 translate pt_br marinteract_c1c23fd2:
 
     # m "Hnnn... thank you..."
     m ""
 
-# game/scripts/maria_events.rpy:11148
+# game/scripts/maria_events.rpy:11171
 translate pt_br marinteract_ace95d68_1:
 
     # m "Thanks..."
     m ""
 
-# game/scripts/maria_events.rpy:11151
+# game/scripts/maria_events.rpy:11174
 translate pt_br marinteract_44a69953:
 
     # m "Nnnngh!"
     m ""
 
-# game/scripts/maria_events.rpy:11154
+# game/scripts/maria_events.rpy:11177
 translate pt_br marinteract_29e0098f:
 
     # m "Mmmh~"
     m ""
 
-# game/scripts/maria_events.rpy:11157
+# game/scripts/maria_events.rpy:11180
 translate pt_br marinteract_5429189a:
 
     # m "Hhhmmn..."
     m ""
 
-# game/scripts/maria_events.rpy:11190
+# game/scripts/maria_events.rpy:11213
 translate pt_br marinteract_68f8d3e8:
 
     # "I need to raise her Affection..."
     ""
 
-# game/scripts/maria_events.rpy:11194
+# game/scripts/maria_events.rpy:11217
 translate pt_br marinteract_42280a80:
 
     # m "Sorry, not happening."
     m ""
 
-# game/scripts/maria_events.rpy:11200
+# game/scripts/maria_events.rpy:11223
 translate pt_br marinteract_ff686071:
 
     # c "I want you to wear something else while you're hanging out in the hotel."
     c ""
 
-# game/scripts/maria_events.rpy:11201
+# game/scripts/maria_events.rpy:11224
 translate pt_br marinteract_ca7c912b:
 
     # m "I'm kind of just chilling today."
     m ""
 
-# game/scripts/maria_events.rpy:11204
+# game/scripts/maria_events.rpy:11227
 translate pt_br marinteract_ff686071_1:
 
     # c "I want you to wear something else while you're hanging out in the hotel."
     c ""
 
-# game/scripts/maria_events.rpy:11206
+# game/scripts/maria_events.rpy:11229
 translate pt_br marinteract_71510bb3:
 
     # m "Alright."
     m ""
 
-# game/scripts/maria_events.rpy:11209
+# game/scripts/maria_events.rpy:11232
 translate pt_br maroutfits_046134fd:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11212
+# game/scripts/maria_events.rpy:11235
 translate pt_br maroutfits_aac1acbd:
 
     # m "Can do."
     m ""
 
-# game/scripts/maria_events.rpy:11225
+# game/scripts/maria_events.rpy:11248
 translate pt_br maroutfits_046134fd_1:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11228
+# game/scripts/maria_events.rpy:11251
 translate pt_br maroutfits_9888278b:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11231
+# game/scripts/maria_events.rpy:11254
 translate pt_br maroutfits_7d4d1f99:
 
     # m "I love cosplay!"
     m ""
 
-# game/scripts/maria_events.rpy:11243
+# game/scripts/maria_events.rpy:11266
 translate pt_br maroutfits_046134fd_2:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11246
+# game/scripts/maria_events.rpy:11269
 translate pt_br maroutfits_9888278b_1:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11249
+# game/scripts/maria_events.rpy:11272
 translate pt_br maroutfits_6296b7e3:
 
     # m "Sure!"
     m ""
 
-# game/scripts/maria_events.rpy:11261
+# game/scripts/maria_events.rpy:11284
 translate pt_br maroutfits_046134fd_3:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11264
+# game/scripts/maria_events.rpy:11287
 translate pt_br maroutfits_9888278b_2:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11267
+# game/scripts/maria_events.rpy:11290
 translate pt_br maroutfits_6cfeeb76:
 
     # m "Heheh, alright!"
     m ""
 
-# game/scripts/maria_events.rpy:11279
+# game/scripts/maria_events.rpy:11302
 translate pt_br maroutfits_046134fd_4:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11282
+# game/scripts/maria_events.rpy:11305
 translate pt_br maroutfits_9888278b_3:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11285
+# game/scripts/maria_events.rpy:11308
 translate pt_br maroutfits_90408846:
 
     # m "Yes sir~"
     m ""
 
-# game/scripts/maria_events.rpy:11297
+# game/scripts/maria_events.rpy:11320
 translate pt_br maroutfits_046134fd_5:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11300
+# game/scripts/maria_events.rpy:11323
 translate pt_br maroutfits_9888278b_4:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11303
+# game/scripts/maria_events.rpy:11326
 translate pt_br maroutfits_970f3015:
 
     # m "Absolutely..."
     m ""
 
-# game/scripts/maria_events.rpy:11316
+# game/scripts/maria_events.rpy:11339
 translate pt_br maroutfits_046134fd_6:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11319
+# game/scripts/maria_events.rpy:11342
 translate pt_br maroutfits_9888278b_5:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11323
+# game/scripts/maria_events.rpy:11346
 translate pt_br maroutfits_9899430d:
 
     # m "Sure, why not."
     m ""
 
-# game/scripts/maria_events.rpy:11336
+# game/scripts/maria_events.rpy:11359
 translate pt_br maroutfits_650b2219:
 
     # m "I hope you're not saying I'm a slut."
     m ""
 
-# game/scripts/maria_events.rpy:11341
+# game/scripts/maria_events.rpy:11364
 translate pt_br maroutfits_046134fd_7:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/maria_events.rpy:11344
+# game/scripts/maria_events.rpy:11367
 translate pt_br maroutfits_9888278b_6:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/maria_events.rpy:11348
+# game/scripts/maria_events.rpy:11371
 translate pt_br maroutfits_badf15d6:
 
     # m "Fuck, that's hot. Sure, why not!"
     m ""
 
-# game/scripts/maria_events.rpy:11403
+# game/scripts/maria_events.rpy:11426
 translate pt_br maroutfits_83171960:
 
     # m "Uh, no."
     m ""
 
-# game/scripts/maria_events.rpy:11404
+# game/scripts/maria_events.rpy:11427
 translate pt_br maroutfits_65f7e9b7:
 
     # "Her submission and exhibitionism are too low..."
     ""
 
-# game/scripts/maria_events.rpy:11411
+# game/scripts/maria_events.rpy:11434
 translate pt_br maroutfits_42280a80:
 
     # m "Sorry, not happening."
     m ""
 
-# game/scripts/maria_events.rpy:11415
+# game/scripts/maria_events.rpy:11438
 translate pt_br maroutfits_ccb634bb:
 
     # m "I'll wear what I'd like."
     m ""
 
-# game/scripts/maria_events.rpy:11416
+# game/scripts/maria_events.rpy:11439
 translate pt_br maroutfits_c79ececa:
 
     # "I need to get closer to her."
     ""
 
-# game/scripts/maria_events.rpy:11462
+# game/scripts/maria_events.rpy:11485
 translate pt_br maroutfits_712a182d:
 
     # m "Excuse me? No."
     m ""
 
-# game/scripts/maria_events.rpy:11509
+# game/scripts/maria_events.rpy:11532
 translate pt_br maroutfits_b4922b14:
 
     # m "Ohh, I like where this is headed..."
     m ""
 
-# game/scripts/maria_events.rpy:11515
+# game/scripts/maria_events.rpy:11538
 translate pt_br maroutfits_90875356:
 
     # m "Aw, okay..."
     m ""
 
-# game/scripts/maria_events.rpy:11517
+# game/scripts/maria_events.rpy:11540
 translate pt_br maroutfits_59e9261d:
 
     # m "[marname] it is!"
     m ""
 
-# game/scripts/maria_events.rpy:11522
+# game/scripts/maria_events.rpy:11545
 translate pt_br maroutfits_73806e1c:
 
     # m "Heh, you're joking right? It's too late for that..."
     m ""
 
-# game/scripts/maria_events.rpy:11525
+# game/scripts/maria_events.rpy:11548
 translate pt_br maroutfits_ac544974:
 
     # m "Sorry, no..."
     m ""
 
-# game/scripts/maria_events.rpy:11526
+# game/scripts/maria_events.rpy:11549
 translate pt_br maroutfits_bdf3e059:
 
     # "I need to get closer to her first..."
     ""
 
-# game/scripts/maria_events.rpy:11529
+# game/scripts/maria_events.rpy:11552
 translate pt_br maroutfits_774f1e7e:
 
     # m "Oh, sure! Let me just get dressed and I'll meet you there."
     m ""
 
-# game/scripts/maria_events.rpy:11533
+# game/scripts/maria_events.rpy:11556
 translate pt_br maroutfits_64917407:
 
     # "You go to the beach where you wait for Maria. After a while, you see her."
     ""
 
-# game/scripts/maria_events.rpy:11581
+# game/scripts/maria_events.rpy:11604
 translate pt_br maroutfits_44c43905:
 
     # m "I don't really see us like that..."
     m ""
 
-# game/scripts/maria_events.rpy:11582
+# game/scripts/maria_events.rpy:11605
 translate pt_br maroutfits_df846399:
 
     # "I need to raise her friendship..."
     ""
 
-# game/scripts/maria_events.rpy:11628
+# game/scripts/maria_events.rpy:11651
 translate pt_br maroutfits_0c75046a:
 
     # m "Oh? What did you have in mind...?"
     m ""
 
-# game/scripts/maria_events.rpy:11632
+# game/scripts/maria_events.rpy:11655
 translate pt_br maroutfits_9b9c62fd:
 
     # m "Sounds fun, let's see who cums first..."
     m ""
 
-# game/scripts/maria_events.rpy:11638
+# game/scripts/maria_events.rpy:11661
 translate pt_br marfreemenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11644
+# game/scripts/maria_events.rpy:11667
 translate pt_br marfreemenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11650
+# game/scripts/maria_events.rpy:11673
 translate pt_br marfreemenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11656
+# game/scripts/maria_events.rpy:11679
 translate pt_br marfreemenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11662
+# game/scripts/maria_events.rpy:11685
 translate pt_br marfreemenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11668
+# game/scripts/maria_events.rpy:11691
 translate pt_br marfreemenu_0438e42c_5:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11677
+# game/scripts/maria_events.rpy:11700
 translate pt_br marfreemenu_a8dc7191:
 
     # m "Mmmm, let's do it!"
     m ""
 
-# game/scripts/maria_events.rpy:11682
+# game/scripts/maria_events.rpy:11705
 translate pt_br marblowmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11687
+# game/scripts/maria_events.rpy:11710
 translate pt_br marblowmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11693
+# game/scripts/maria_events.rpy:11716
 translate pt_br marblowmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11699
+# game/scripts/maria_events.rpy:11722
 translate pt_br marblowmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11705
+# game/scripts/maria_events.rpy:11728
 translate pt_br marblowmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11711
+# game/scripts/maria_events.rpy:11734
 translate pt_br marblowmenu_0438e42c_5:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11718
+# game/scripts/maria_events.rpy:11741
 translate pt_br marblowmenu_9f0de80f:
 
     # m "Sounds fun to me."
     m ""
 
-# game/scripts/maria_events.rpy:11723
+# game/scripts/maria_events.rpy:11746
 translate pt_br marcowmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11728
+# game/scripts/maria_events.rpy:11751
 translate pt_br marcowmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11734
+# game/scripts/maria_events.rpy:11757
 translate pt_br marcowmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11740
+# game/scripts/maria_events.rpy:11763
 translate pt_br marcowmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11746
+# game/scripts/maria_events.rpy:11769
 translate pt_br marcowmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11752
+# game/scripts/maria_events.rpy:11775
 translate pt_br marcowmenu_0438e42c_5:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11758
+# game/scripts/maria_events.rpy:11781
 translate pt_br marcowmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/maria_events.rpy:11769
+# game/scripts/maria_events.rpy:11792
 translate pt_br marcowmenu_c1fad2e0:
 
     # m "Only if you cum inside... Heheh!"
     m ""
 
-# game/scripts/maria_events.rpy:11774
+# game/scripts/maria_events.rpy:11797
 translate pt_br maranalmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11779
+# game/scripts/maria_events.rpy:11802
 translate pt_br maranalmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11785
+# game/scripts/maria_events.rpy:11808
 translate pt_br maranalmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11791
+# game/scripts/maria_events.rpy:11814
 translate pt_br maranalmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11797
+# game/scripts/maria_events.rpy:11820
 translate pt_br maranalmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11803
+# game/scripts/maria_events.rpy:11826
 translate pt_br maranalmenu_0438e42c_5:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11810
+# game/scripts/maria_events.rpy:11833
 translate pt_br maranalmenu_27a033a2:
 
     # m "Mmm... Can't wait!"
     m ""
 
-# game/scripts/maria_events.rpy:11815
+# game/scripts/maria_events.rpy:11838
 translate pt_br marcunmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11820
+# game/scripts/maria_events.rpy:11843
 translate pt_br marcunmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11826
+# game/scripts/maria_events.rpy:11849
 translate pt_br marcunmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11832
+# game/scripts/maria_events.rpy:11855
 translate pt_br marcunmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11838
+# game/scripts/maria_events.rpy:11861
 translate pt_br marcunmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11844
+# game/scripts/maria_events.rpy:11867
 translate pt_br marcunmenu_0438e42c_5:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/maria_events.rpy:11860
+# game/scripts/maria_events.rpy:11883
 translate pt_br marcunmenu_c2494032:
 
     # c "Nevermind..."
     c ""
 
-# game/scripts/maria_events.rpy:11864
+# game/scripts/maria_events.rpy:11887
 translate pt_br marcunmenu_3010cfc3:
 
     # m "It's a bit late..."
     m ""
 
-# game/scripts/maria_events.rpy:11867
+# game/scripts/maria_events.rpy:11890
 translate pt_br marcunmenu_e4f1d9a7:
 
     # m "Not hungry, sorry..."
     m ""
 
-# game/scripts/maria_events.rpy:11868
+# game/scripts/maria_events.rpy:11891
 translate pt_br marcunmenu_df846399:
 
     # "I need to raise her friendship..."
     ""
 
-# game/scripts/maria_events.rpy:11871
+# game/scripts/maria_events.rpy:11894
 translate pt_br marcunmenu_4c75d777:
 
     # m "Sure! That sounds nice."
     m ""
 
-# game/scripts/maria_events.rpy:11891
+# game/scripts/maria_events.rpy:11914
 translate pt_br marcunmenu_5da3885e:
 
     # m "Maybe tomorrow...?"
     m ""
 
-# game/scripts/maria_events.rpy:11938
+# game/scripts/maria_events.rpy:11961
 translate pt_br marcunmenu_884ea0fd:
 
     # m "Uhhh, that's pretty creepy, [name]. Selling my pictures online...?"
     m ""
 
-# game/scripts/maria_events.rpy:11939
+# game/scripts/maria_events.rpy:11962
 translate pt_br marcunmenu_3ba7bf68:
 
     # "Maria's friendship is too low..."
     ""
 
-# game/scripts/maria_events.rpy:11985
+# game/scripts/maria_events.rpy:12008
 translate pt_br marcunmenu_2cf2f6cc:
 
     # m "Why would you ask that?"
     m ""
 
-# game/scripts/maria_events.rpy:11986
+# game/scripts/maria_events.rpy:12009
 translate pt_br marcunmenu_cce56943:
 
     # "Mara's affection is too low..."
     ""
 
-# game/scripts/maria_events.rpy:11989
+# game/scripts/maria_events.rpy:12012
 translate pt_br marcunmenu_00b13b9d:
 
     # m "You want to take pinups of me? That sounds hot!"
     m ""
 
-# game/scripts/maria_events.rpy:11995
+# game/scripts/maria_events.rpy:12018
 translate pt_br marcunmenu_aa188f6f:
 
     # c "See you later."
     c ""
 
-# game/scripts/maria_events.rpy:11996
+# game/scripts/maria_events.rpy:12019
 translate pt_br marcunmenu_9fa2f8bc:
 
     # m "See ya."
     m ""
 
-# game/scripts/maria_events.rpy:12003
+# game/scripts/maria_events.rpy:12026
 translate pt_br marbeachchoice_09379416:
 
     # m "So what did you want to do?" nointeract
     m "" nointeract
 
-# game/scripts/maria_events.rpy:12006
+# game/scripts/maria_events.rpy:12029
 translate pt_br marbeachchoice_bf55a615:
 
     # m "If you say so..."
     m ""
 
-# game/scripts/maria_events.rpy:12008
+# game/scripts/maria_events.rpy:12031
 translate pt_br marbeachchoice_2c12f88b:
 
     # "You and Maria hang out for a while."
     ""
 
-# game/scripts/maria_events.rpy:12010
+# game/scripts/maria_events.rpy:12033
 translate pt_br marbeachchoice_c95d410c:
 
     # m "Alright, let's head out of here, I'm starting to get tipsy."
     m ""
 
-# game/scripts/maria_events.rpy:12017
+# game/scripts/maria_events.rpy:12040
 translate pt_br marbeachchoice_131320b8:
 
     # m "Relax there, tiger! I just wanna chill..."
     m ""
 
-# game/scripts/maria_events.rpy:12021
+# game/scripts/maria_events.rpy:12044
 translate pt_br marbeachchoice_1634ca8e:
 
     # m "Ohh...?"
     m ""
 
-# game/scripts/maria_events.rpy:12031
+# game/scripts/maria_events.rpy:12054
 translate pt_br marbeachlewd_73f4992e:
 
     # m "Not happening..."
     m ""
 
-# game/scripts/maria_events.rpy:12035
+# game/scripts/maria_events.rpy:12058
 translate pt_br marbeachlewd_0e56c3a1:
 
     # c "Come with me..."
     c ""
 
-# game/scripts/maria_events.rpy:12036
+# game/scripts/maria_events.rpy:12059
 translate pt_br marbeachlewd_99c7f33e:
 
     # m "Ohh, okay..."
     m ""
 
-# game/scripts/maria_events.rpy:12040
+# game/scripts/maria_events.rpy:12063
 translate pt_br marbeachlewd_e3632afb:
 
     # c "Come with me, I have something special for you to wear..."
     c ""
 
-# game/scripts/maria_events.rpy:12042
+# game/scripts/maria_events.rpy:12065
 translate pt_br marbeachlewd_3e4c22c6:
 
     # m "I'm fine in this..."
     m ""
 
-# game/scripts/maria_events.rpy:12044
+# game/scripts/maria_events.rpy:12067
 translate pt_br marbeachlewd_35f5823e:
 
     # "I need to train her more."
     ""
 
-# game/scripts/maria_events.rpy:12046
+# game/scripts/maria_events.rpy:12069
 translate pt_br marbeachlewd_02722695:
 
     # "I could probably have convinced her if her affection were higher..."
     ""
 
-# game/scripts/maria_events.rpy:12049
+# game/scripts/maria_events.rpy:12072
 translate pt_br marbeachlewd_e3632afb_1:
 
     # c "Come with me, I have something special for you to wear..."
     c ""
 
-# game/scripts/maria_events.rpy:12050
+# game/scripts/maria_events.rpy:12073
 translate pt_br marbeachlewd_427b9c43:
 
     # m "Hmmm... okay, I'll play along..."
     m ""
 
-# game/scripts/maria_events.rpy:12055
+# game/scripts/maria_events.rpy:12078
 translate pt_br marbeachlewd_7bfb6e1a:
 
     # c "Let's turn things up a notch, come with me..."
     c ""
 
-# game/scripts/maria_events.rpy:12057
+# game/scripts/maria_events.rpy:12080
 translate pt_br marbeachlewd_9a1f0f4f:
 
     # m "Um, not my thing, sorry..."
     m ""
 
-# game/scripts/maria_events.rpy:12059
+# game/scripts/maria_events.rpy:12082
 translate pt_br marbeachlewd_35f5823e_1:
 
     # "I need to train her more."
     ""
 
-# game/scripts/maria_events.rpy:12061
+# game/scripts/maria_events.rpy:12084
 translate pt_br marbeachlewd_02722695_1:
 
     # "I could probably have convinced her if her affection were higher..."
     ""
 
-# game/scripts/maria_events.rpy:12064
+# game/scripts/maria_events.rpy:12087
 translate pt_br marbeachlewd_7bfb6e1a_1:
 
     # c "Let's turn things up a notch, come with me..."
     c ""
 
-# game/scripts/maria_events.rpy:12065
+# game/scripts/maria_events.rpy:12088
 translate pt_br marbeachlewd_59a34078:
 
     # m "Hmm? Exciting..."
     m ""
 
-# game/scripts/maria_events.rpy:12069
+# game/scripts/maria_events.rpy:12092
 translate pt_br marbeachlewd_1f0fb799:
 
     # c "Take your clothes off, I'm fucking you right here, right now."
     c ""
 
-# game/scripts/maria_events.rpy:12071
+# game/scripts/maria_events.rpy:12094
 translate pt_br marbeachlewd_4ac9bb70:
 
     # m "Pfft, you must be joking...!"
     m ""
 
-# game/scripts/maria_events.rpy:12073
+# game/scripts/maria_events.rpy:12096
 translate pt_br marbeachlewd_35f5823e_2:
 
     # "I need to train her more."
     ""
 
-# game/scripts/maria_events.rpy:12075
+# game/scripts/maria_events.rpy:12098
 translate pt_br marbeachlewd_02722695_2:
 
     # "I could probably have convinced her if her affection were higher..."
     ""
 
-# game/scripts/maria_events.rpy:12079
+# game/scripts/maria_events.rpy:12102
 translate pt_br marbeachlewd_1f0fb799_1:
 
     # c "Take your clothes off, I'm fucking you right here, right now."
     c ""
 
-# game/scripts/maria_events.rpy:12080
+# game/scripts/maria_events.rpy:12103
 translate pt_br marbeachlewd_0361d430:
 
     # m "Oh...?"
     m ""
 
-# game/scripts/maria_events.rpy:12093
+# game/scripts/maria_events.rpy:12116
 translate pt_br mar_expublicfuck_31160983:
 
     # m "Right here, right now...?"
     m ""
 
-# game/scripts/maria_events.rpy:12094
+# game/scripts/maria_events.rpy:12117
 translate pt_br mar_expublicfuck_235e16c4:
 
     # m "In front of all these people? They'll see us..."
     m ""
 
-# game/scripts/maria_events.rpy:12095
+# game/scripts/maria_events.rpy:12118
 translate pt_br mar_expublicfuck_0e49505c:
 
     # c "Exactly..."
     c ""
 
-# game/scripts/maria_events.rpy:12097
+# game/scripts/maria_events.rpy:12120
 translate pt_br mar_expublicfuck_1ebedec1:
 
     # m "Well, I guess I better start stripping then..."
     m ""
 
-# game/scripts/maria_events.rpy:12100
+# game/scripts/maria_events.rpy:12123
 translate pt_br mar_expublicfuck_b46f7bed:
 
     # by "Damn, who's that!?"
     by ""
 
-# game/scripts/maria_events.rpy:12101
+# game/scripts/maria_events.rpy:12124
 translate pt_br mar_expublicfuck_79c3812d:
 
     # m "Looks like I'm already getting some attention..."
     m ""
 
-# game/scripts/maria_events.rpy:12107
+# game/scripts/maria_events.rpy:12130
 translate pt_br mar_expublicfuck_efadac9f:
 
     # by "This slut is going nude!"
     by ""
 
-# game/scripts/maria_events.rpy:12108
+# game/scripts/maria_events.rpy:12131
 translate pt_br mar_expublicfuck_3f1a3690:
 
     # m "Mmmn, am I growing a crowd already...?"
     m ""
 
-# game/scripts/maria_events.rpy:12110
+# game/scripts/maria_events.rpy:12133
 translate pt_br mar_expublicfuck_87482113:
 
     # m "Hnnng! Oh my god...! They're all so close...!"
     m ""
 
-# game/scripts/maria_events.rpy:12112
+# game/scripts/maria_events.rpy:12135
 translate pt_br mar_expublicfuck_5aa977e2:
 
     # m "Nnnnnmn!!!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12115
+# game/scripts/maria_events.rpy:12138
 translate pt_br mar_expublicfuck_1bca97ac:
 
     # m "Aaaaah~! Yes, yes! [name]...! MMMMMN!"
     m ""
 
-# game/scripts/maria_events.rpy:12116
+# game/scripts/maria_events.rpy:12139
 translate pt_br mar_expublicfuck_6a8132e0:
 
     # m "So good~! Fuck...! It feels so good out here~! Haaahhhhh!"
     m ""
 
-# game/scripts/maria_events.rpy:12117
+# game/scripts/maria_events.rpy:12140
 translate pt_br mar_expublicfuck_3da90745:
 
     # m "Mmmmn! Mmmmm! Aaaah! Enjoying the show, everyone...!? Aaah! Hnnngh!"
     m ""
 
-# game/scripts/maria_events.rpy:12118
+# game/scripts/maria_events.rpy:12141
 translate pt_br mar_expublicfuck_986caa3d:
 
     # by "This slut has no shame... you'll make a good wallpaper, heh!"
     by ""
 
-# game/scripts/maria_events.rpy:12119
+# game/scripts/maria_events.rpy:12142
 translate pt_br mar_expublicfuck_448ab37f:
 
     # m "Mmmmn! Cum lots to meee~!"
     m ""
 
-# game/scripts/maria_events.rpy:12122
+# game/scripts/maria_events.rpy:12145
 translate pt_br mar_expublicfuck_132e7572:
 
     # m "Haaaah! Hnn! Hnn! Hnn! Don't stop! Don't stop~! Show everyone I'm your slut~!"
     m ""
 
-# game/scripts/maria_events.rpy:12123
+# game/scripts/maria_events.rpy:12146
 translate pt_br mar_expublicfuck_bf44f973:
 
     # m "Aaaah! Aaah! [name]! Fuck me! Fuckmefuckmefuckmefuckmefuckmefuckme! Fuck meeeeee!!!"
     m ""
 
-# game/scripts/maria_events.rpy:12124
+# game/scripts/maria_events.rpy:12147
 translate pt_br mar_expublicfuck_6dd30bbb:
 
     # m "I'm gonna cum! Mmmn! Ffffuck, this turns me on so much~~~! HNNNG!"
     m ""
 
-# game/scripts/maria_events.rpy:12125
+# game/scripts/maria_events.rpy:12148
 translate pt_br mar_expublicfuck_23aa4595:
 
     # m "YES! YESSS! HNN! I'M CUMMINGGGG!!!"
     m ""
 
-# game/scripts/maria_events.rpy:12127
+# game/scripts/maria_events.rpy:12150
 translate pt_br mar_expublicfuck_d93adf4c:
 
     # m "HYAAAAA!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12128
+# game/scripts/maria_events.rpy:12151
 translate pt_br mar_expublicfuck_6636670c:
 
     # m "Hah, AAAAH!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12129
+# game/scripts/maria_events.rpy:12152
 translate pt_br mar_expublicfuck_54e9143d:
 
     # m "Hnnnnngh! Yess...! Cum in meeeee~!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12131
+# game/scripts/maria_events.rpy:12154
 translate pt_br mar_expublicfuck_047e4d88:
 
     # m "Hahh, hahhhh... hnnngh...!"
     m ""
 
-# game/scripts/maria_events.rpy:12132
+# game/scripts/maria_events.rpy:12155
 translate pt_br mar_expublicfuck_c7689f37:
 
     # m "Mmmn, you came inside me... fuck... that was so fun..."
     m ""
 
-# game/scripts/maria_events.rpy:12147
+# game/scripts/maria_events.rpy:12170
 translate pt_br mar_exhandy_a07fc293:
 
     # m "Yes...?"
     m ""
 
-# game/scripts/maria_events.rpy:12148
+# game/scripts/maria_events.rpy:12171
 translate pt_br mar_exhandy_8ddf0d5b:
 
     # c "I want you to give me a handjob, think you can do that?"
     c ""
 
-# game/scripts/maria_events.rpy:12149
+# game/scripts/maria_events.rpy:12172
 translate pt_br mar_exhandy_3e1fbcb5:
 
     # m "Out here? Heheh, of course... I'll finish you off so fast we'll never get the chance of being caught..."
     m ""
 
-# game/scripts/maria_events.rpy:12151
+# game/scripts/maria_events.rpy:12174
 translate pt_br mar_exhandy_2c4796a8:
 
     # m "Mmmmmn... you're already so hard..."
     m ""
 
-# game/scripts/maria_events.rpy:12152
+# game/scripts/maria_events.rpy:12175
 translate pt_br mar_exhandy_2beb2697:
 
     # m "You must like this as much as me, hm...?"
     m ""
 
-# game/scripts/maria_events.rpy:12155
+# game/scripts/maria_events.rpy:12178
 translate pt_br mar_exhandy_e23e448b:
 
     # m "Aahh, yeah... Mmmmn, your cock feels so good throbbing in my hand... fuck, it's so hard...! Mmmmm..."
     m ""
 
-# game/scripts/maria_events.rpy:12156
+# game/scripts/maria_events.rpy:12179
 translate pt_br mar_exhandy_77c74182:
 
     # m "Nnn, hurry up~ hurry up~... you don't want to get caught, do you...? What if the cops come and arrest us...?"
     m ""
 
-# game/scripts/maria_events.rpy:12157
+# game/scripts/maria_events.rpy:12180
 translate pt_br mar_exhandy_1804f666:
 
     # m "Mmmm, I guess I would just have to suck you off in the back of the car, huh..."
     m ""
 
-# game/scripts/maria_events.rpy:12160
+# game/scripts/maria_events.rpy:12183
 translate pt_br mar_exhandy_430f17d6:
 
     # m "Aaahh, fuck... I can't think of anything but your cock cumming...! Mmmmn! I wanna see you make a huge fucking mess, baby...!"
     m ""
 
-# game/scripts/maria_events.rpy:12161
+# game/scripts/maria_events.rpy:12184
 translate pt_br mar_exhandy_ce6f493b:
 
     # m "Do you want to cover me in cum like the other time...? Make me walk all over the place like a slut..."
     m ""
 
-# game/scripts/maria_events.rpy:12164
+# game/scripts/maria_events.rpy:12187
 translate pt_br mar_exhandy_ffcb8031:
 
     # m "Fuck it~! I'll do it! Mmmmn...! We're going home soon right? Ahhh...! I can make it to the car...!"
     m ""
 
-# game/scripts/maria_events.rpy:12165
+# game/scripts/maria_events.rpy:12188
 translate pt_br mar_exhandy_7446e074:
 
     # m "Cum, [name]...! Make a huge mess all over me...! Mmmmn! [name], [name]!"
     m ""
 
-# game/scripts/maria_events.rpy:12167
+# game/scripts/maria_events.rpy:12190
 translate pt_br mar_exhandy_cd23d41b:
 
     # m "Ahhh! Yes, yes! Fuck!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12169
+# game/scripts/maria_events.rpy:12192
 translate pt_br mar_exhandy_a577bf00:
 
     # m "Mmmn, heheh! The car isn't too far is it? C'mon, let's go..."
     m ""
 
-# game/scripts/maria_events.rpy:12171
+# game/scripts/maria_events.rpy:12194
 translate pt_br mar_exhandy_db0e4b48:
 
     # m "Excuse me... excuse me..."
     m ""
 
-# game/scripts/maria_events.rpy:12172
+# game/scripts/maria_events.rpy:12195
 translate pt_br mar_exhandy_05a1590f:
 
     # by "Woah..."
     by ""
 
-# game/scripts/maria_events.rpy:12173
+# game/scripts/maria_events.rpy:12196
 translate pt_br mar_exhandy_6ca26bcd:
 
     # by "Is that cum? What is she doing...?"
     by ""
 
-# game/scripts/maria_events.rpy:12174
+# game/scripts/maria_events.rpy:12197
 translate pt_br mar_exhandy_cd2da579:
 
     # m "I'm just going back to my car, have a good day..."
     m ""
 
-# game/scripts/maria_events.rpy:12186
+# game/scripts/maria_events.rpy:12209
 translate pt_br mar_exhumiliate_619e0640:
 
     # m "H-Hey, I don't want anyone thinking I actually want this...! Couldn't you have just put 'whore' or 'slut' on this instead...?"
     m ""
 
-# game/scripts/maria_events.rpy:12187
+# game/scripts/maria_events.rpy:12210
 translate pt_br mar_exhumiliate_718ccbc2:
 
     # c "I'll enjoy this more... Get out there."
     c ""
 
-# game/scripts/maria_events.rpy:12188
+# game/scripts/maria_events.rpy:12211
 translate pt_br mar_exhumiliate_1a43d6c3:
 
     # m "Nnnn..."
     m ""
 
-# game/scripts/maria_events.rpy:12190
+# game/scripts/maria_events.rpy:12213
 translate pt_br mar_exhumiliate_4c6585c6:
 
     # m "Well, no time like the present... h-hello everyone~"
     m ""
 
-# game/scripts/maria_events.rpy:12191
+# game/scripts/maria_events.rpy:12214
 translate pt_br mar_exhumiliate_6c7f5693:
 
     # m "H-Hey, at least take pics..."
     m ""
 
-# game/scripts/maria_events.rpy:12192
+# game/scripts/maria_events.rpy:12215
 translate pt_br mar_exhumiliate_4e5a4202:
 
     # c "Why?"
     c ""
 
-# game/scripts/maria_events.rpy:12193
+# game/scripts/maria_events.rpy:12216
 translate pt_br mar_exhumiliate_9e455b30:
 
     # m "Well for one, you could get horny later... you never know..."
     m ""
 
-# game/scripts/maria_events.rpy:12198
+# game/scripts/maria_events.rpy:12221
 translate pt_br mar_exhumiliate_32215a7d:
 
     # m "I'm getting so much attention... I can practicly hear everyone's pants tightening, ehehe..."
     m ""
 
-# game/scripts/maria_events.rpy:12199
+# game/scripts/maria_events.rpy:12222
 translate pt_br mar_exhumiliate_b71976cc:
 
     # by "What a slut!"
     by ""
 
-# game/scripts/maria_events.rpy:12200
+# game/scripts/maria_events.rpy:12223
 translate pt_br mar_exhumiliate_c2f441fc:
 
     # by "Is she trying to get pregnant?"
     by ""
 
-# game/scripts/maria_events.rpy:12201
+# game/scripts/maria_events.rpy:12224
 translate pt_br mar_exhumiliate_794783fa:
 
     # m "Heheh, everyone is so horny for me...!"
     m ""
 
-# game/scripts/maria_events.rpy:12205
+# game/scripts/maria_events.rpy:12228
 translate pt_br mar_exhumiliate_40362b3e:
 
     # m "Like what you see? Go ahead, take some pics..."
     m ""
 
-# game/scripts/maria_events.rpy:12206
+# game/scripts/maria_events.rpy:12229
 translate pt_br mar_exhumiliate_796a0832:
 
     # m "Enjoy them for me later, please...?"
     m ""
 
-# game/scripts/maria_events.rpy:12208
+# game/scripts/maria_events.rpy:12231
 translate pt_br mar_exhumiliate_1c6bff24:
 
     # by "D-Do I recognize her...?"
     by ""
 
-# game/scripts/maria_events.rpy:12212
+# game/scripts/maria_events.rpy:12235
 translate pt_br mar_exhumiliate_e2c87a8a:
 
     # m "Come closer everyone, don't be shy... take all the slutty pics of me you want..."
     m ""
 
-# game/scripts/maria_events.rpy:12213
+# game/scripts/maria_events.rpy:12236
 translate pt_br mar_exhumiliate_de695a35:
 
     # m "{i}[name]... the attention is turning me on so much... you better fuck me later tonight, Mmmmn...! {/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12217
+# game/scripts/maria_events.rpy:12240
 translate pt_br mar_exhumiliate_be6a898d:
 
     # by "$5 for a blowjob!"
     by ""
 
-# game/scripts/maria_events.rpy:12218
+# game/scripts/maria_events.rpy:12241
 translate pt_br mar_exhumiliate_b1ff0ead:
 
     # by "W-What about anal? I- I have $20!"
     by ""
 
-# game/scripts/maria_events.rpy:12219
+# game/scripts/maria_events.rpy:12242
 translate pt_br mar_exhumiliate_0935588a:
 
     # m "Heheh, sorry everyone... I'm exclusive..."
     m ""
 
-# game/scripts/maria_events.rpy:12223
+# game/scripts/maria_events.rpy:12246
 translate pt_br mar_exhumiliate_bc22d636:
 
     # m "Hey [name], wanna see something really kinky...?"
     m ""
 
-# game/scripts/maria_events.rpy:12225
+# game/scripts/maria_events.rpy:12248
 translate pt_br mar_exhumiliate_ddb354af:
 
     # m "Mmmmmmmn~"
     m ""
 
-# game/scripts/maria_events.rpy:12230
+# game/scripts/maria_events.rpy:12253
 translate pt_br mar_exhumiliate_e32e6fe1:
 
     # m "Ohhh, are you gonna cum? You can do it on me..."
     m ""
 
-# game/scripts/maria_events.rpy:12231
+# game/scripts/maria_events.rpy:12254
 translate pt_br mar_exhumiliate_050a897a:
 
     # m "I didn't know all of that would turn you on so much, you can't blame me, can you...?"
     m ""
 
-# game/scripts/maria_events.rpy:12232
+# game/scripts/maria_events.rpy:12255
 translate pt_br mar_exhumiliate_5c7cf56a:
 
     # m "Mmmmn, yes [name], cum all over me...! Yes... yes..."
     m ""
 
-# game/scripts/maria_events.rpy:12234
+# game/scripts/maria_events.rpy:12257
 translate pt_br mar_exhumiliate_84fc3f63:
 
     # m "Aah~! Mmmmn...! Yes...!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12238
+# game/scripts/maria_events.rpy:12261
 translate pt_br mar_exhumiliate_059910f5:
 
     # m "Hurry~! Take a pic before the cum runs off!"
     m ""
 
-# game/scripts/maria_events.rpy:12242
+# game/scripts/maria_events.rpy:12265
 translate pt_br mar_exhumiliate_8015b2bf:
 
     # m "Yes! I can't wait to see it!"
     m ""
 
-# game/scripts/maria_events.rpy:12253
+# game/scripts/maria_events.rpy:12276
 translate pt_br mar_exundress_a07fc293:
 
     # m "Yes...?"
     m ""
 
-# game/scripts/maria_events.rpy:12254
+# game/scripts/maria_events.rpy:12277
 translate pt_br mar_exundress_30d1dd15:
 
     # c "I'll be taking your swimsuit."
     c ""
 
-# game/scripts/maria_events.rpy:12255
+# game/scripts/maria_events.rpy:12278
 translate pt_br mar_exundress_241bdda2:
 
     # m "Hmm? And then what?"
     m ""
 
-# game/scripts/maria_events.rpy:12256
+# game/scripts/maria_events.rpy:12279
 translate pt_br mar_exundress_9d904c1c:
 
     # c "Then we're grabbing some drinks."
     c ""
 
-# game/scripts/maria_events.rpy:12257
+# game/scripts/maria_events.rpy:12280
 translate pt_br mar_exundress_99c7f33e:
 
     # m "Ohh, okay..."
     m ""
 
-# game/scripts/maria_events.rpy:12260
+# game/scripts/maria_events.rpy:12283
 translate pt_br mar_exundress_073be645:
 
     # m "How do I look, how do I look?"
     m ""
 
-# game/scripts/maria_events.rpy:12261
+# game/scripts/maria_events.rpy:12284
 translate pt_br mar_exundress_06ed1c66:
 
     # c "Horny."
     c ""
 
-# game/scripts/maria_events.rpy:12262
+# game/scripts/maria_events.rpy:12285
 translate pt_br mar_exundress_f87ea728:
 
     # m "Heheh, you're not wrong..."
     m ""
 
-# game/scripts/maria_events.rpy:12266
+# game/scripts/maria_events.rpy:12289
 translate pt_br mar_exundress_a1a5a9ec:
 
     # m "Ahh, fuck... I'm starting to leak already..."
     m ""
 
-# game/scripts/maria_events.rpy:12267
+# game/scripts/maria_events.rpy:12290
 translate pt_br mar_exundress_572b37c0:
 
     # m "Mmmm, everyone is going to think I'm a slut... but it turns me on, so... hm..."
     m ""
 
-# game/scripts/maria_events.rpy:12272
+# game/scripts/maria_events.rpy:12295
 translate pt_br mar_exundress_bada840f:
 
     # m "Heheh, I don't think anyone has spotted me yet... being risky is so fun...!"
     m ""
 
-# game/scripts/maria_events.rpy:12273
+# game/scripts/maria_events.rpy:12296
 translate pt_br mar_exundress_7b52c8ad:
 
     # c "Come on, we don't have all day. Let's get those drinks."
     c ""
 
-# game/scripts/maria_events.rpy:12274
+# game/scripts/maria_events.rpy:12297
 translate pt_br mar_exundress_4e102976:
 
     # m "Mmm, wait a moment, I think they're about to walk away..."
     m ""
 
-# game/scripts/maria_events.rpy:12279
+# game/scripts/maria_events.rpy:12302
 translate pt_br mar_exundress_1c3a1830:
 
     # m "AH!"
     m ""
 
-# game/scripts/maria_events.rpy:12281
+# game/scripts/maria_events.rpy:12304
 translate pt_br mar_exundress_23c2b0e8:
 
     # m "Nnn, shit...!"
     m ""
 
-# game/scripts/maria_events.rpy:12282
+# game/scripts/maria_events.rpy:12305
 translate pt_br mar_exundress_73da121a:
 
     # by "Who's that?"
     by ""
 
-# game/scripts/maria_events.rpy:12283
+# game/scripts/maria_events.rpy:12306
 translate pt_br mar_exundress_92e660a5:
 
     # by "Is she naked?"
     by ""
 
-# game/scripts/maria_events.rpy:12285
+# game/scripts/maria_events.rpy:12308
 translate pt_br mar_exundress_460aabc0:
 
     # m "H-Hi everyone, heheh... just passing through..."
     m ""
 
-# game/scripts/maria_events.rpy:12286
+# game/scripts/maria_events.rpy:12309
 translate pt_br mar_exundress_433431de:
 
     # m "{i}Dammit, [name]... you're such a brat!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12290
+# game/scripts/maria_events.rpy:12313
 translate pt_br mar_exundress_9c72dc0c:
 
     # m "H-Hello, hiii... I hope you enjoy the view~! Y-You can take pics if you wanna cum to me later~"
     m ""
 
-# game/scripts/maria_events.rpy:12291
+# game/scripts/maria_events.rpy:12314
 translate pt_br mar_exundress_694c3bfc:
 
     # m "{i}Nnn, fuck, they won't take their eyes off me...{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12292
+# game/scripts/maria_events.rpy:12315
 translate pt_br mar_exundress_16020ad6:
 
     # c "Why are you so nervous? You did this in front of so many others..."
     c ""
 
-# game/scripts/maria_events.rpy:12293
+# game/scripts/maria_events.rpy:12316
 translate pt_br mar_exundress_9a9862d1:
 
     # m "They weren't... right there, heh..."
     m ""
 
-# game/scripts/maria_events.rpy:12295
+# game/scripts/maria_events.rpy:12318
 translate pt_br mar_exundress_d893cb53:
 
     # m "Oh, I see... did you invite me here to get free drinks?"
     m ""
 
-# game/scripts/maria_events.rpy:12296
+# game/scripts/maria_events.rpy:12319
 translate pt_br mar_exundress_07a2fabb:
 
     # m "Hmph, should be easy..."
     m ""
 
-# game/scripts/maria_events.rpy:12298
+# game/scripts/maria_events.rpy:12321
 translate pt_br mar_exundress_89835ca2:
 
     # bartender "Woah."
     bartender ""
 
-# game/scripts/maria_events.rpy:12299
+# game/scripts/maria_events.rpy:12322
 translate pt_br mar_exundress_9b18793b:
 
     # m "Heeeey, could I get two tequila sunrises? Please...?"
     m ""
 
-# game/scripts/maria_events.rpy:12300
+# game/scripts/maria_events.rpy:12323
 translate pt_br mar_exundress_93c210ae:
 
     # bartender "Absolutely, coming right up..."
     bartender ""
 
-# game/scripts/maria_events.rpy:12303
+# game/scripts/maria_events.rpy:12326
 translate pt_br mar_exundress_ecb02edc:
 
     # bartender "Here you go! On the house..."
     bartender ""
 
-# game/scripts/maria_events.rpy:12304
+# game/scripts/maria_events.rpy:12327
 translate pt_br mar_exundress_98c6141c:
 
     # m "Thank you..."
     m ""
 
-# game/scripts/maria_events.rpy:12307
+# game/scripts/maria_events.rpy:12330
 translate pt_br mar_exundress_cc8623d9:
 
     # m "You got your free drink... are you happy now?"
     m ""
 
-# game/scripts/maria_events.rpy:12308
+# game/scripts/maria_events.rpy:12331
 translate pt_br mar_exundress_014d0311:
 
     # c "Very."
     c ""
 
-# game/scripts/maria_events.rpy:12309
+# game/scripts/maria_events.rpy:12332
 translate pt_br mar_exundress_2efd451c:
 
     # m "Heheh, enjoy..."
     m ""
 
-# game/scripts/maria_events.rpy:12318
+# game/scripts/maria_events.rpy:12341
 translate pt_br mar_firstpublicsex_5b46c65c:
 
     # m "So, are we getting fucked up or what?"
     m ""
 
-# game/scripts/maria_events.rpy:12319
+# game/scripts/maria_events.rpy:12342
 translate pt_br mar_firstpublicsex_f7c99917:
 
     # c "No drinks, I have something else planned for us today."
     c ""
 
-# game/scripts/maria_events.rpy:12320
+# game/scripts/maria_events.rpy:12343
 translate pt_br mar_firstpublicsex_c7ed539a:
 
     # m "Is that so? Well... how do you know I'm going to like it? I might just end up ditching you if I don't..."
     m ""
 
-# game/scripts/maria_events.rpy:12321
+# game/scripts/maria_events.rpy:12344
 translate pt_br mar_firstpublicsex_acd554e6:
 
     # c "You'll love it, trust me."
     c ""
 
-# game/scripts/maria_events.rpy:12322
+# game/scripts/maria_events.rpy:12345
 translate pt_br mar_firstpublicsex_5c133ddb:
 
     # m "Hmmm, well okay. I do love surprises..."
     m ""
 
-# game/scripts/maria_events.rpy:12323
+# game/scripts/maria_events.rpy:12346
 translate pt_br mar_firstpublicsex_90cae7fc:
 
     # c "Follow me..."
     c ""
 
-# game/scripts/maria_events.rpy:12326
+# game/scripts/maria_events.rpy:12349
 translate pt_br mar_firstpublicsex_3f683bb2:
 
     # c "We're here."
     c ""
 
-# game/scripts/maria_events.rpy:12327
+# game/scripts/maria_events.rpy:12350
 translate pt_br mar_firstpublicsex_8e2821ca:
 
     # m "Hmmm...?"
     m ""
 
-# game/scripts/maria_events.rpy:12328
+# game/scripts/maria_events.rpy:12351
 translate pt_br mar_firstpublicsex_0adf00f3:
 
     # m "This is the back, there aren't many people here... are we doing drugs or something?"
     m ""
 
-# game/scripts/maria_events.rpy:12329
+# game/scripts/maria_events.rpy:12352
 translate pt_br mar_firstpublicsex_ebc91229:
 
     # c "Have you ever done anything lewd outside of your bedroom?"
     c ""
 
-# game/scripts/maria_events.rpy:12331
+# game/scripts/maria_events.rpy:12354
 translate pt_br mar_firstpublicsex_50ad305a:
 
     # m "Heh, sure!"
     m ""
 
-# game/scripts/maria_events.rpy:12332
+# game/scripts/maria_events.rpy:12355
 translate pt_br mar_firstpublicsex_3d14f032:
 
     # m "I'm not embarrassed to admit it, I think every girl has done it at least once..."
     m ""
 
-# game/scripts/maria_events.rpy:12333
+# game/scripts/maria_events.rpy:12356
 translate pt_br mar_firstpublicsex_addd90c1:
 
     # m "Of course I've fingered myself in the back of class in college! It's thrilling..."
     m ""
 
-# game/scripts/maria_events.rpy:12334
+# game/scripts/maria_events.rpy:12357
 translate pt_br mar_firstpublicsex_f13e4a93:
 
     # m "I used to go to class all the time without panties... sometimes I'd wear a buttplug and a vibe..."
     m ""
 
-# game/scripts/maria_events.rpy:12335
+# game/scripts/maria_events.rpy:12358
 translate pt_br mar_firstpublicsex_3acd1826:
 
     # c "Is that all? Fingering yourself in the back of class and wearing a vibe?"
     c ""
 
-# game/scripts/maria_events.rpy:12337
+# game/scripts/maria_events.rpy:12360
 translate pt_br mar_firstpublicsex_41b7f7f9:
 
     # m "What? You say that like everyone does it all the time!"
     m ""
 
-# game/scripts/maria_events.rpy:12338
+# game/scripts/maria_events.rpy:12361
 translate pt_br mar_firstpublicsex_454b621b:
 
     # c "You've never... sucked a cock in public?"
     c ""
 
-# game/scripts/maria_events.rpy:12340
+# game/scripts/maria_events.rpy:12363
 translate pt_br mar_firstpublicsex_9e66fdb4:
 
     # m "Oh... I see what this is about..."
     m ""
 
-# game/scripts/maria_events.rpy:12341
+# game/scripts/maria_events.rpy:12364
 translate pt_br mar_firstpublicsex_2f2713bd:
 
     # m "Not... this public. Just locker room fun..."
     m ""
 
-# game/scripts/maria_events.rpy:12342
+# game/scripts/maria_events.rpy:12365
 translate pt_br mar_firstpublicsex_8e39d305:
 
     # c "So you're too shy or nervous to be more risky?"
     c ""
 
-# game/scripts/maria_events.rpy:12343
+# game/scripts/maria_events.rpy:12366
 translate pt_br mar_firstpublicsex_549d16af:
 
     # m "Shy? I've never been called shy in my life!"
     m ""
 
-# game/scripts/maria_events.rpy:12344
+# game/scripts/maria_events.rpy:12367
 translate pt_br mar_firstpublicsex_c6987e20:
 
     # m "I've just never had someone with the balls to do it with me..."
     m ""
 
-# game/scripts/maria_events.rpy:12346
+# game/scripts/maria_events.rpy:12369
 translate pt_br mar_firstpublicsex_0e01b562:
 
     # m "Nobody is watching... right? I could do much more than a blowjob..."
     m ""
 
-# game/scripts/maria_events.rpy:12349
+# game/scripts/maria_events.rpy:12372
 translate pt_br mar_firstpublicsex_88a770ae:
 
     # m "Hm? What's wrong? Did you not expect me to jump straight to sex...? I've always wanted to fuck outdoors... {i}You're{/i} not shy, are you...?"
     m ""
 
-# game/scripts/maria_events.rpy:12350
+# game/scripts/maria_events.rpy:12373
 translate pt_br mar_firstpublicsex_30845262:
 
     # m "Go ahead, take your clothes off... feel the breeze!"
     m ""
 
-# game/scripts/maria_events.rpy:12353
+# game/scripts/maria_events.rpy:12376
 translate pt_br mar_firstpublicsex_7404d8a2:
 
     # m "Mmmmn... you're getting hard... Have you no shame...?"
     m ""
 
-# game/scripts/maria_events.rpy:12354
+# game/scripts/maria_events.rpy:12377
 translate pt_br mar_firstpublicsex_354e81de:
 
     # m "But who am I to talk... I'm the one rubbing my wet pussy to you..."
     m ""
 
-# game/scripts/maria_events.rpy:12355
+# game/scripts/maria_events.rpy:12378
 translate pt_br mar_firstpublicsex_fb0ae8df:
 
     # m "Oh my god... you know what would be hot? I'm going to stream this! Can you grab my phone out of your pants, please...?"
     m ""
 
-# game/scripts/maria_events.rpy:12357
+# game/scripts/maria_events.rpy:12380
 translate pt_br mar_firstpublicsex_37e22bf5:
 
     # m "Do you mind if I call you my boyfriend? My fans would take it better than if I were fucking just any random dude..."
     m ""
 
-# game/scripts/maria_events.rpy:12358
+# game/scripts/maria_events.rpy:12381
 translate pt_br mar_firstpublicsex_59c20226:
 
     # c "Go ahead."
     c ""
 
-# game/scripts/maria_events.rpy:12359
+# game/scripts/maria_events.rpy:12382
 translate pt_br mar_firstpublicsex_3bae99de:
 
     # m "This is going to be so hot, fuck... I can barely keep my mind focused... *ahem*"
     m ""
 
-# game/scripts/maria_events.rpy:12361
+# game/scripts/maria_events.rpy:12384
 translate pt_br mar_firstpublicsex_97e039a2:
 
     # m "Hi everyone~~~ I'm live again with something special..."
     m ""
 
-# game/scripts/maria_events.rpy:12362
+# game/scripts/maria_events.rpy:12385
 translate pt_br mar_firstpublicsex_7f630f46:
 
     # m "I know everyone has been begging for public content, and I've finally been able to find an amazing boyfriend as adventurous as I am... So here we are!"
     m ""
 
-# game/scripts/maria_events.rpy:12364
+# game/scripts/maria_events.rpy:12387
 translate pt_br mar_firstpublicsex_47b5a7eb:
 
     # m "Mmmm... this is my first time having sex in public... I hope no one catches us!"
     m ""
 
-# game/scripts/maria_events.rpy:12365
+# game/scripts/maria_events.rpy:12388
 translate pt_br mar_firstpublicsex_21a26f12:
 
     # m "Ahh... he's teasing my pussy... you know how much I hate teasing...! Hurry...!"
     m ""
 
-# game/scripts/maria_events.rpy:12366
+# game/scripts/maria_events.rpy:12389
 translate pt_br mar_firstpublicsex_f88f0b84:
 
     # tts "$10 Donation! \n'I want you to cum so loud, everyone hears you.'"
     tts ""
 
-# game/scripts/maria_events.rpy:12367
+# game/scripts/maria_events.rpy:12390
 translate pt_br mar_firstpublicsex_944cb36f:
 
     # m "Oh shit...! I'd better turn that down..."
     m ""
 
-# game/scripts/maria_events.rpy:12369
+# game/scripts/maria_events.rpy:12392
 translate pt_br mar_firstpublicsex_a812a1f7:
 
     # m "{i}Aaaah~! Ffffuck...! We're doing it~! Mmmn, we're really doing it~!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12370
+# game/scripts/maria_events.rpy:12393
 translate pt_br mar_firstpublicsex_4f50ea70:
 
     # m "{i}Mmmm, yes! Fuck me~! Mmmmm! Not too hard, fuck~! Don't make me lose my voice...! Haahhh! Hahhh!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12371
+# game/scripts/maria_events.rpy:12394
 translate pt_br mar_firstpublicsex_b9e73d35:
 
     # tts "$5 Donation! \n'i luv u mariaaa~ exhibitionism is the best!'"
     tts ""
 
-# game/scripts/maria_events.rpy:12372
+# game/scripts/maria_events.rpy:12395
 translate pt_br mar_firstpublicsex_76ebdf48:
 
     # m "{i}Thanks for the tip~! Mmmmh!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12373
+# game/scripts/maria_events.rpy:12396
 translate pt_br mar_firstpublicsex_769716a3:
 
     # m "{i}Mmmm! Mmmm! Mmmmn! Fuck, my pussy is so tight right now...! HNNNNGH! Fuckk...! Fuckk...! It feels so much better in public...!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12376
+# game/scripts/maria_events.rpy:12399
 translate pt_br mar_firstpublicsex_b588a622:
 
     # tts "$2 Donation! \n'will donate $20 for creampie'"
     tts ""
 
-# game/scripts/maria_events.rpy:12377
+# game/scripts/maria_events.rpy:12400
 translate pt_br mar_firstpublicsex_f310d9d9:
 
     # m "{i}Hnnngh...! Sorry, there's no way I'm getting pregnant...! He's in me bare...! Hnnnngh!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12378
+# game/scripts/maria_events.rpy:12401
 translate pt_br mar_firstpublicsex_5eab8f26:
 
     # tts "$2 Donation! \n'$50'"
     tts ""
 
-# game/scripts/maria_events.rpy:12379
+# game/scripts/maria_events.rpy:12402
 translate pt_br mar_firstpublicsex_4b04235b:
 
     # m "{i}50 Syls...? That's weeks of rent...{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12380
+# game/scripts/maria_events.rpy:12403
 translate pt_br mar_firstpublicsex_7efbf32d:
 
     # m "{i}Mmmm, well... we'll see what my boyfriend wants to do...! MMMMN! It's his pussy right now...{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12383
+# game/scripts/maria_events.rpy:12406
 translate pt_br mar_firstpublicsex_e4f80ae9:
 
     # m "{i}Ohhh, fuck! FUCK!! MMMMGH, shit...! Hahhh! Hahhh! I'm getting too close, fuck!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12384
+# game/scripts/maria_events.rpy:12407
 translate pt_br mar_firstpublicsex_9c67a70e:
 
     # m "{i}Aaah! Hnnn! Please finish! I don't care where, MMMMMN! Aaah! I'm losing my voice...! MMMMN!{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12386
+# game/scripts/maria_events.rpy:12409
 translate pt_br mar_firstpublicsex_1a094d5a:
 
     # m "AAAH!" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12387
+# game/scripts/maria_events.rpy:12410
 translate pt_br mar_firstpublicsex_226a7ddc:
 
     # m "{i}Oh, f-fffuck...! He's cumming...!{/i}" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12389
+# game/scripts/maria_events.rpy:12412
 translate pt_br mar_firstpublicsex_191b68fe:
 
     # m "{i}Mmmmn...! Fuck...! Was I too loud...? Heheh...{/i}" with ssshake
     m "" with ssshake
 
-# game/scripts/maria_events.rpy:12390
+# game/scripts/maria_events.rpy:12413
 translate pt_br mar_firstpublicsex_0dacd741:
 
     # tts "$50 Donation! \n'You earned it'"
     tts ""
 
-# game/scripts/maria_events.rpy:12391
+# game/scripts/maria_events.rpy:12414
 translate pt_br mar_firstpublicsex_baf20424:
 
     # m "{i}Thank you~{/i}"
     m ""
 
-# game/scripts/maria_events.rpy:12398
+# game/scripts/maria_events.rpy:12421
 translate pt_br mar_firstpublicsex_9174bdac:
 
     # m "Wow, there's so many of you today!"
     m ""
 
-# game/scripts/maria_events.rpy:12399
+# game/scripts/maria_events.rpy:12422
 translate pt_br mar_firstpublicsex_7d6ab81f:
 
     # tts "$4 Donation! \n'more, more, more, more, more, more, more, more'"
     tts ""
 
-# game/scripts/maria_events.rpy:12400
+# game/scripts/maria_events.rpy:12423
 translate pt_br mar_firstpublicsex_79e342be:
 
     # m "I'm sorry everyone, but I have to dip, we can't risk being caught! Goodbye, I love you all~"
     m ""
 
-# game/scripts/maria_events.rpy:12402
+# game/scripts/maria_events.rpy:12425
 translate pt_br mar_firstpublicsex_78749170:
 
     # m "*sigh*... fuck, [name]... did you really have to cum inside...?"
     m ""
 
-# game/scripts/maria_events.rpy:12403
+# game/scripts/maria_events.rpy:12426
 translate pt_br mar_firstpublicsex_9fb169ab:
 
     # c "You said it was up to me..."
     c ""
 
-# game/scripts/maria_events.rpy:12404
+# game/scripts/maria_events.rpy:12427
 translate pt_br mar_firstpublicsex_1b3ae4b8:
 
     # m "Nnnn... I hate that it feels so good in my pussy... I can barely be mad at you..."
     m ""
 
-# game/scripts/maria_events.rpy:12409
+# game/scripts/maria_events.rpy:12432
 translate pt_br mar_firstpublicsex_6f71b87b:
 
     # m "That was so fucking hot, [name]... I'm glad you don't mind being on my stream! That video is going to sell like crazy..."
     m ""
 
-# game/scripts/maria_events.rpy:12410
+# game/scripts/maria_events.rpy:12433
 translate pt_br mar_firstpublicsex_00851630:
 
     # c "I'm glad you tried something new with me today."
     c ""
 
-# game/scripts/maria_events.rpy:12411
+# game/scripts/maria_events.rpy:12434
 translate pt_br mar_firstpublicsex_3ea15079:
 
     # m "You should... totally bring me back here."
     m ""
 
-# game/scripts/maria_events.rpy:12412
+# game/scripts/maria_events.rpy:12435
 translate pt_br mar_firstpublicsex_9a78404c:
 
     # m "...Maybe we could try something else... something that doesn't involve a... hot creampie. Ehehe..."
     m ""
 
-# game/scripts/maria_events.rpy:12415
+# game/scripts/maria_events.rpy:12438
 translate pt_br mar_firstpublicsex_1443c3ba:
 
     # "You've unlocked Exhibitionism training at the beach!"
     ""
 
 translate pt_br strings:
+
+    # game/scripts/maria_events.rpy:873
+    old "{size=+50}20 minutes later...{/size}"
+    new ""
 
     # game/scripts/maria_events.rpy:1347
     old "Try your best."
@@ -38344,6 +38348,14 @@ translate pt_br strings:
 
     # game/scripts/maria_events.rpy:1656
     old "I don't like you being a flirt to everyone..."
+    new ""
+
+    # game/scripts/maria_events.rpy:2535
+    old "Do you have a hobby?"
+    new ""
+
+    # game/scripts/maria_events.rpy:2605
+    old "Tell Maria a fetish"
     new ""
 
     # game/scripts/maria_events.rpy:2705
@@ -38578,299 +38590,299 @@ translate pt_br strings:
     old "You want me to eat you out?"
     new ""
 
-    # game/scripts/maria_events.rpy:7821
+    # game/scripts/maria_events.rpy:7822
     old "$50 Tip"
     new ""
 
-    # game/scripts/maria_events.rpy:7821
+    # game/scripts/maria_events.rpy:7822
     old "I'm not tipping you, thot."
     new ""
 
-    # game/scripts/maria_events.rpy:8678
+    # game/scripts/maria_events.rpy:8684
     old "I've got the cure..."
     new ""
 
-    # game/scripts/maria_events.rpy:8678
+    # game/scripts/maria_events.rpy:8684
     old "I think Ellen could help you with that."
     new ""
 
-    # game/scripts/maria_events.rpy:8880
+    # game/scripts/maria_events.rpy:8886
     old "ilikecock69"
     new ""
 
-    # game/scripts/maria_events.rpy:8880
+    # game/scripts/maria_events.rpy:8886
     old "iLove[name]"
     new ""
 
-    # game/scripts/maria_events.rpy:8880
+    # game/scripts/maria_events.rpy:8886
     old "kgirl24"
     new ""
 
-    # game/scripts/maria_events.rpy:8880
+    # game/scripts/maria_events.rpy:8886
     old "runeyiscool"
     new ""
 
-    # game/scripts/maria_events.rpy:9281
+    # game/scripts/maria_events.rpy:9295
     old "We should do it"
     new ""
 
-    # game/scripts/maria_events.rpy:9281
+    # game/scripts/maria_events.rpy:9295
     old "It's a bad idea"
     new ""
 
-    # game/scripts/maria_events.rpy:9301
+    # game/scripts/maria_events.rpy:9315
     old "Sounds good to me"
     new ""
 
-    # game/scripts/maria_events.rpy:9301
+    # game/scripts/maria_events.rpy:9315
     old "Still..."
     new ""
 
-    # game/scripts/maria_events.rpy:9316
+    # game/scripts/maria_events.rpy:9330
     old "Let's do it"
     new ""
 
-    # game/scripts/maria_events.rpy:9316
+    # game/scripts/maria_events.rpy:9330
     old "It's not happening"
     new ""
 
-    # game/scripts/maria_events.rpy:9369
+    # game/scripts/maria_events.rpy:9383
     old "As smart as you are sexy"
     new ""
 
-    # game/scripts/maria_events.rpy:9369
+    # game/scripts/maria_events.rpy:9383
     old "I didn't know you were smart"
     new ""
 
-    # game/scripts/maria_events.rpy:9369
+    # game/scripts/maria_events.rpy:9383
     old "Sounds like you sucked a lot of dick"
     new ""
 
-    # game/scripts/maria_events.rpy:9608
+    # game/scripts/maria_events.rpy:9622
     old "Let her help"
     new ""
 
-    # game/scripts/maria_events.rpy:9608
+    # game/scripts/maria_events.rpy:9622
     old "You should stop"
     new ""
 
-    # game/scripts/maria_events.rpy:9695
+    # game/scripts/maria_events.rpy:9709
     old "Fine, I'll help."
     new ""
 
-    # game/scripts/maria_events.rpy:10168
+    # game/scripts/maria_events.rpy:10191
     old "I like it a lot!"
     new ""
 
-    # game/scripts/maria_events.rpy:10168
+    # game/scripts/maria_events.rpy:10191
     old "With cream"
     new ""
 
-    # game/scripts/maria_events.rpy:10168
+    # game/scripts/maria_events.rpy:10191
     old "With milk"
     new ""
 
-    # game/scripts/maria_events.rpy:10168
+    # game/scripts/maria_events.rpy:10191
     old "Black"
     new ""
 
-    # game/scripts/maria_events.rpy:10184
+    # game/scripts/maria_events.rpy:10207
     old "Donuts"
     new ""
 
-    # game/scripts/maria_events.rpy:10184
+    # game/scripts/maria_events.rpy:10207
     old "Hot Dogs"
     new ""
 
-    # game/scripts/maria_events.rpy:10184
+    # game/scripts/maria_events.rpy:10207
     old "Lobster"
     new ""
 
-    # game/scripts/maria_events.rpy:10198
+    # game/scripts/maria_events.rpy:10221
     old "Dandelions"
     new ""
 
-    # game/scripts/maria_events.rpy:10198
+    # game/scripts/maria_events.rpy:10221
     old "Blue Bonnets"
     new ""
 
-    # game/scripts/maria_events.rpy:10198
+    # game/scripts/maria_events.rpy:10221
     old "Lilacs"
     new ""
 
-    # game/scripts/maria_events.rpy:10198
+    # game/scripts/maria_events.rpy:10221
     old "Roses"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "Usually fire"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "Submissive"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "Dominant"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "Innocent"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "Quiet"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "Crazy"
     new ""
 
-    # game/scripts/maria_events.rpy:10209
+    # game/scripts/maria_events.rpy:10232
     old "MILF"
     new ""
 
-    # game/scripts/maria_events.rpy:10233
+    # game/scripts/maria_events.rpy:10256
     old "Fetal"
     new ""
 
-    # game/scripts/maria_events.rpy:10233
+    # game/scripts/maria_events.rpy:10256
     old "69"
     new ""
 
-    # game/scripts/maria_events.rpy:10251
+    # game/scripts/maria_events.rpy:10274
     old "Feet"
     new ""
 
-    # game/scripts/maria_events.rpy:10251
+    # game/scripts/maria_events.rpy:10274
     old "Boobs"
     new ""
 
-    # game/scripts/maria_events.rpy:10251
+    # game/scripts/maria_events.rpy:10274
     old "Thighs"
     new ""
 
-    # game/scripts/maria_events.rpy:10251
+    # game/scripts/maria_events.rpy:10274
     old "The Face"
     new ""
 
-    # game/scripts/maria_events.rpy:10269
+    # game/scripts/maria_events.rpy:10292
     old "Massive"
     new ""
 
-    # game/scripts/maria_events.rpy:10269
+    # game/scripts/maria_events.rpy:10292
     old "No preference"
     new ""
 
-    # game/scripts/maria_events.rpy:10289
+    # game/scripts/maria_events.rpy:10312
     old "The 18th"
     new ""
 
-    # game/scripts/maria_events.rpy:10289
+    # game/scripts/maria_events.rpy:10312
     old "Mouth"
     new ""
 
-    # game/scripts/maria_events.rpy:10689
+    # game/scripts/maria_events.rpy:10712
     old "It would look better on the floor..."
     new ""
 
-    # game/scripts/maria_events.rpy:10689
+    # game/scripts/maria_events.rpy:10712
     old "Looks a bit slutty..."
     new ""
 
-    # game/scripts/maria_events.rpy:10754
+    # game/scripts/maria_events.rpy:10777
     old "I can pay for it"
     new ""
 
-    # game/scripts/maria_events.rpy:10776
+    # game/scripts/maria_events.rpy:10799
     old "I plan on marrying her"
     new ""
 
-    # game/scripts/maria_events.rpy:10776
+    # game/scripts/maria_events.rpy:10799
     old "Sometimes we hook up"
     new ""
 
-    # game/scripts/maria_events.rpy:10776
+    # game/scripts/maria_events.rpy:10799
     old "She's too clingy"
     new ""
 
-    # game/scripts/maria_events.rpy:10798
+    # game/scripts/maria_events.rpy:10821
     old "She's my slave"
     new ""
 
-    # game/scripts/maria_events.rpy:10798
+    # game/scripts/maria_events.rpy:10821
     old "She's my maid"
     new ""
 
-    # game/scripts/maria_events.rpy:10806
+    # game/scripts/maria_events.rpy:10829
     old "She's a bit rough"
     new ""
 
-    # game/scripts/maria_events.rpy:10806
+    # game/scripts/maria_events.rpy:10829
     old "She warms up once you get to know her"
     new ""
 
-    # game/scripts/maria_events.rpy:10814
+    # game/scripts/maria_events.rpy:10837
     old "She's a great receptionist"
     new ""
 
-    # game/scripts/maria_events.rpy:10814
+    # game/scripts/maria_events.rpy:10837
     old "She's a sexy MILF"
     new ""
 
-    # game/scripts/maria_events.rpy:10814
+    # game/scripts/maria_events.rpy:10837
     old "She's just some old lady"
     new ""
 
-    # game/scripts/maria_events.rpy:11207
+    # game/scripts/maria_events.rpy:11230
     old "{color=#8C8C8C}> Succubus Outfit <{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:11207
+    # game/scripts/maria_events.rpy:11230
     old "{color=#8C8C8C}Succubus Outfit{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:11719
+    # game/scripts/maria_events.rpy:11742
     old "{color=#8C8C8C}Casual Outfit{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:11719
+    # game/scripts/maria_events.rpy:11742
     old "Casual Outfit"
     new ""
 
-    # game/scripts/maria_events.rpy:11811
+    # game/scripts/maria_events.rpy:11834
     old "Sexy Gown"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "{color=#8C8C8C}Naked Drinks{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "Naked Drinks"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "{color=#8C8C8C}Public Humiliation{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "Public Humiliation"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "{color=#8C8C8C}Public Handjob{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "Public Handjob"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "{color=#8C8C8C}Public Beach Sex{/color}"
     new ""
 
-    # game/scripts/maria_events.rpy:12028
+    # game/scripts/maria_events.rpy:12051
     old "Public Beach Sex"
     new ""
 

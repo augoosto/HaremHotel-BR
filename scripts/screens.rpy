@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 translate pt_br strings:
 
@@ -206,6 +206,18 @@ translate pt_br strings:
     old "Visit Website"
     new ""
 
+    # game/scripts/screens.rpy:3789
+    old "Fast travel to.."
+    new ""
+
+    # game/scripts/screens.rpy:3790
+    old "Floor 1"
+    new ""
+
+    # game/scripts/screens.rpy:3791
+    old "Floor 2"
+    new ""
+
     # game/scripts/screens.rpy:3836
     old "Kitchen"
     new ""
@@ -214,8 +226,2272 @@ translate pt_br strings:
     old "Spring"
     new ""
 
+    # game/scripts/screens.rpy:3871
+    old "{font=dayfont2.ttf}{size=+175}{color=#FFFFFF}Day [day]{/color}{/size}{/font}"
+    new ""
+
     # game/scripts/screens.rpy:3903
     old "Hide"
+    new ""
+
+    # game/scripts/screens.rpy:3961
+    old "Misc Info"
+    new ""
+
+    # game/scripts/screens.rpy:4136
+    old "{color=#000000}Back{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4148
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Affection:{/size} {size=+10}[aut_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4150
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Affection:{/size} {size=+10}[aut_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4152
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Affection:{/size} {size=+10}[aut_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4154
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Affection:{/size} {size=+10}[aut_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4156
+    old "* * * * {size=+10}Affection:{/size} {size=+10}[aut_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4161
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[aut_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4163
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[aut_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4165
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[aut_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4167
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[aut_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4169
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[aut_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4174
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[aut_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4176
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[aut_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4178
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[aut_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4180
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[aut_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4182
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[aut_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4188
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[aut_boobjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4190
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[aut_boobjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4192
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Boobjobs:{/size} {size=+10}[aut_boobjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4194
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Boobjobs:{/size} {size=+10}[aut_boobjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4196
+    old "* * * * {size=+10}Boobjobs:{/size} {size=+10}[aut_boobjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4214
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[aut_bj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4216
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[aut_bj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4218
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[aut_bj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4220
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[aut_bj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4222
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[aut_bj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4248
+    old "{color=#FFFFFF}In Love{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4250
+    old "{color=#00C418}In Love{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4252
+    old "{color=#0477E3}In Love{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4254
+    old "{color=#A323BC}In Love{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4256
+    old "{color=#FEEB00}* In Love *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4258
+    old "{color=#FEEB00}** In Love **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4260
+    old "{color=#FEEB00}*** In Love ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4265
+    old "{color=#FFFFFF}Mega Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4267
+    old "{color=#00C418}Mega Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4269
+    old "{color=#0477E3}Mega Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4271
+    old "{color=#A323BC}Mega Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4273
+    old "{color=#FEEB00}* Mega Slut *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4275
+    old "{color=#FEEB00}** Mega Slut **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4277
+    old "{color=#FEEB00}*** Mega Slut ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4282
+    old "{color=#FFFFFF}Cum Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4284
+    old "{color=#00C418}Cum Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4286
+    old "{color=#0477E3}Cum Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4288
+    old "{color=#A323BC}Cum Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4290
+    old "{color=#FEEB00}* Cum Slut *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4292
+    old "{color=#FEEB00}** Cum Slut **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4294
+    old "{color=#FEEB00}*** Cum Slut ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4299
+    old "{color=#FFFFFF}Cumdump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4301
+    old "{color=#00C418}Cumdump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4303
+    old "{color=#0477E3}Cumdump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4305
+    old "{color=#A323BC}Cumdump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4307
+    old "{color=#FEEB00}* Cumdump *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4309
+    old "{color=#FEEB00}** Cumdump **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4311
+    old "{color=#FEEB00}*** Cumdump ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4317
+    old "{color=#FFFFFF}Professional Cocksucker{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4319
+    old "{color=#00C418}Professional Cocksucker{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4321
+    old "{color=#0477E3}Professional Cocksucker{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4323
+    old "{color=#A323BC}Professional Cocksucker{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4325
+    old "{color=#FEEB00}* Professional Cocksucker *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4327
+    old "{color=#FEEB00}** Professional Cocksucker **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4329
+    old "{color=#FEEB00}*** Professional Cocksucker ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4335
+    old "{color=#FFFFFF}Paizuri Star{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4337
+    old "{color=#00C418}Paizuri Star{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4339
+    old "{color=#0477E3}Paizuri Star{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4341
+    old "{color=#A323BC}Paizuri Star{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4343
+    old "{color=#FEEB00}* Paizuri Star *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4345
+    old "{color=#FEEB00}** Paizuri Star **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4347
+    old "{color=#FEEB00}*** Paizuri Star ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4353
+    old "{color=#FFFFFF}Exhibitionist{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4355
+    old "{color=#00C418}Exhibitionist{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4357
+    old "{color=#0477E3}Exhibitionist{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4359
+    old "{color=#A323BC}Exhibitionist{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4361
+    old "{color=#FEEB00}* Exhibitionist *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4363
+    old "{color=#FEEB00}** Exhibitionist **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4365
+    old "{color=#FEEB00}*** Exhibitionist ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4382
+    old "{color=#FFFFFF}* To be continued... *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4384
+    old "{color=#8C8C8C}Story Incomplete{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4403
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4405
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4407
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4409
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}9/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4412
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4414
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4416
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4418
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}9/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4421
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4423
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4425
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4427
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}9/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4430
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4432
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4434
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4436
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}9/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4439
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4441
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4443
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[ash_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4445
+    old "* * * * {size=+10}Lust:{/size} {size=+10}9/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4447
+    old "{color=#5D5D5D}* * * * {/color}{color=#5D5D5D}{size=+10}Lust:{/size} {size=+10}[ash_lust]/0 | Nympho & Friendship 23 Required{/size}{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4453
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Affection:{/size} {size=+10}[ash_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4455
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Affection:{/size} {size=+10}[ash_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4457
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Affection:{/size} {size=+10}[ash_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4459
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Affection:{/size} {size=+10}[ash_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4461
+    old "* * * * {size=+10}Affection:{/size} {size=+10}[ash_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4468
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[ash_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4470
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[ash_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4472
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[ash_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4474
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[ash_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4476
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[ash_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4483
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[ash_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4485
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[ash_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4487
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[ash_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4489
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[ash_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4491
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[ash_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4498
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[ash_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4500
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[ash_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4502
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Submission:{/size} {size=+10}[ash_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4504
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[ash_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4506
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[ash_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4517
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Footjobs:{/size} {size=+10}[ash_footjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4519
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Footjobs:{/size} {size=+10}[ash_footjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4521
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Footjobs:{/size} {size=+10}[ash_footjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4523
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Footjobs:{/size} {size=+10}[ash_footjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4525
+    old "* * * * {size=+10}Footjobs:{/size} {size=+10}[ash_footjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4531
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[ash_blowjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4533
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[ash_blowjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4535
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[ash_blowjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4537
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[ash_blowjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4539
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[ash_blowjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4545
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[ash_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4547
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[ash_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4549
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[ash_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4551
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[ash_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4553
+    old "* * * * {size=+10}Vaginal Sex:{/size} {size=+10}[ash_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4560
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[ash_anal1] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4562
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[ash_anal1] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4564
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Anal Sex:{/size} {size=+10}[ash_anal1] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4566
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Anal Sex:{/size} {size=+10}[ash_anal1] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4568
+    old "* * * * {size=+15}Anal Sex:{/size} {size=+10}[ash_anal1] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4630
+    old "{color=#FFFFFF}Nympho{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4632
+    old "{color=#00C418}Nympho{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4634
+    old "{color=#0477E3}Nympho{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4636
+    old "{color=#A323BC}Nympho{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4638
+    old "{color=#FEEB00}* Nympho *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4640
+    old "{color=#FEEB00}** Nympho **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4642
+    old "{color=#FEEB00}*** Nympho ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4647
+    old "{color=#FFFFFF}Buttslut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4649
+    old "{color=#00C418}Buttslut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4651
+    old "{color=#0477E3}Buttslut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4653
+    old "{color=#A323BC}Buttslut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4655
+    old "{color=#FEEB00}* Buttslut *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4657
+    old "{color=#FEEB00}** Buttslut **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4659
+    old "{color=#FEEB00}*** Buttslut ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4698
+    old "{color=#FFFFFF}Foot Fetish{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4700
+    old "{color=#00C418}Foot Fetish{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4702
+    old "{color=#0477E3}Foot Fetish{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4704
+    old "{color=#A323BC}Foot Fetish{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4706
+    old "{color=#FEEB00}* Foot Fetish *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4708
+    old "{color=#FEEB00}** Foot Fetish **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4710
+    old "{color=#FEEB00}*** Foot Fetish ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4734
+    old "{color=#FFFFFF}Submissive{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4736
+    old "{color=#00C418}Submissive{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4738
+    old "{color=#0477E3}Submissive{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4740
+    old "{color=#A323BC}Submissive{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4742
+    old "{color=#FEEB00}* Submissive *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4744
+    old "{color=#FEEB00}** Submissive **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4746
+    old "{color=#FEEB00}*** Submissive ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4753
+    old "{color=#FFFFFF}Lustful{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4755
+    old "{color=#00C418}Lustful{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4757
+    old "{color=#0477E3}Lustful{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4759
+    old "{color=#A323BC}Lustful{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4761
+    old "{color=#FEEB00}* Lustful *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4763
+    old "{color=#FEEB00}** Lustful **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4765
+    old "{color=#FEEB00}*** Lustful ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4795
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4797
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4799
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4804
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4806
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4808
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4813
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4815
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4817
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4822
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4824
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4826
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4831
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4833
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4835
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[kali_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4839
+    old "{color=#5D5D5D}* * * * {/color}{color=#5D5D5D}{size=+10}Lust:{/size} {size=+10}[kali_lust]/0 | Nympho & Friendship 18 Required{/size}{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:4844
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Affection:{/size} {size=+10}[kali_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4846
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Affection:{/size} {size=+10}[kali_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4848
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Affection:{/size} {size=+10}[kali_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4850
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Affection:{/size} {size=+10}[kali_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4852
+    old "* * * * {size=+10}Affection:{/size} {size=+10}[kali_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4858
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[kali_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4860
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[kali_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4862
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[kali_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4864
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[kali_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4866
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[kali_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4871
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[kali_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4873
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[kali_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4875
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[kali_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4877
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[kali_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4879
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[kali_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4883
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[kali_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4885
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[kali_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4887
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Submission:{/size} {size=+10}[kali_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4889
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[kali_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4891
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[kali_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4899
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Thighjobs:{/size} {size=+10}[kali_thigh] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4901
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Thighjobs:{/size} {size=+10}[kali_thigh] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4903
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Thighjobs:{/size} {size=+10}[kali_thigh] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4905
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Thighjobs:{/size} {size=+10}[kali_thigh] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4907
+    old "* * * * {size=+10}Thighjobs:{/size} {size=+10}[kali_thigh] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4912
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[kali_boobjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4914
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[kali_boobjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4916
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Boobjobs:{/size} {size=+10}[kali_boobjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4918
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Boobjobs:{/size} {size=+10}[kali_boobjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4920
+    old "* * * * {size=+10}Boobjobs:{/size} {size=+10}[kali_boobjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4926
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[kali_cun] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4928
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[kali_cun] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4930
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[kali_cun] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4932
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[kali_cun] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4934
+    old "* * * * {size=+10}Cunnilingus:{/size} {size=+10}[kali_cun] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4939
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[kali_blowjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4941
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[kali_blowjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4943
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[kali_blowjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4945
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[kali_blowjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4947
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[kali_blowjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4952
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[kali_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4954
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[kali_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4956
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[kali_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4958
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[kali_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4960
+    old "* * * * {size=+10}Vaginal Sex:{/size} {size=+10}[kali_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4965
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[kali_anal] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4967
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[kali_anal] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4969
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Anal Sex:{/size} {size=+10}[kali_anal] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4971
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Anal Sex:{/size} {size=+10}[kali_anal] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:4973
+    old "* * * * {size=+15}Anal Sex:{/size} {size=+10}[kali_anal] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5157
+    old "{color=#FFFFFF}Face Sitter{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5159
+    old "{color=#00C418}Face Sitter{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5161
+    old "{color=#0477E3}Face Sitter{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5163
+    old "{color=#A323BC}Face Sitter{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5165
+    old "{color=#FEEB00}* Face Sitter *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5167
+    old "{color=#FEEB00}** Face Sitter **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5169
+    old "{color=#FEEB00}*** Face Sitter ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5221
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5223
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5225
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5230
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5232
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5234
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5239
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5241
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5243
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5248
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5250
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5252
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5257
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5259
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5261
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[mar_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5265
+    old "{color=#5D5D5D}* * * * {/color}{color=#5D5D5D}{size=+10}Lust:{/size} {size=+10}[mar_lust]/0 | Nympho & Friendship 22 Required{/size}{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5274
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Affection:{/size} {size=+10}[mar_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5276
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Affection:{/size} {size=+10}[mar_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5278
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Affection:{/size} {size=+10}[mar_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5280
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Affection:{/size} {size=+10}[mar_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5282
+    old "* * * * {size=+10}Affection:{/size} {size=+10}[mar_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5289
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[mar_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5291
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[mar_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5293
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[mar_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5295
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[mar_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5297
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[mar_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5303
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[mar_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5305
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[mar_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5307
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[mar_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5309
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[mar_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5311
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[mar_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5320
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[mar_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5322
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[mar_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5324
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Submission:{/size} {size=+10}[mar_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5326
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[mar_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5328
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[mar_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5337
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[mar_hj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5339
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[mar_hj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5341
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Handjobs:{/size} {size=+10}[mar_hj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5343
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Handjobs:{/size} {size=+10}[mar_hj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5345
+    old "* * * * {size=+15}Handjobs:{/size} {size=+10}[mar_hj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5353
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[mar_blowjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5355
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[mar_blowjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5357
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[mar_blowjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5359
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[mar_blowjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5361
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[mar_blowjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5369
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[mar_cun] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5371
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[mar_cun] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5373
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[mar_cun] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5375
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[mar_cun] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5377
+    old "* * * * {size=+10}Cunnilingus:{/size} {size=+10}[mar_cun] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5384
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[mar_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5386
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[mar_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5388
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[mar_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5390
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[mar_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5392
+    old "* * * * {size=+10}Vaginal Sex:{/size} {size=+10}[mar_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5397
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[mar_anal] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5399
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[mar_anal] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5401
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Anal Sex:{/size} {size=+10}[mar_anal] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5403
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Anal Sex:{/size} {size=+10}[mar_anal] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5405
+    old "* * * * {size=+15}Anal Sex:{/size} {size=+10}[mar_anal] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5558
+    old "{color=#FFFFFF}Slick Hands{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5560
+    old "{color=#00C418}Slick Hands{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5562
+    old "{color=#0477E3}Slick Hands{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5564
+    old "{color=#A323BC}Slick Hands{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5566
+    old "{color=#FEEB00}* Slick Hands *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5568
+    old "{color=#FEEB00}** Slick Hands **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5570
+    old "{color=#FEEB00}*** Slick Hands ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5660
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5662
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5664
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5669
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5671
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5673
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5678
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5680
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5682
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5687
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5689
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5691
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5696
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5698
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5700
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[bot_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5704
+    old "{color=#5D5D5D}* * * * {/color}{color=#5D5D5D}{size=+10}Lust:{/size} {size=+10}[bot_lust]/0 | Nympho & Friendship 28 Required{/size}{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5709
+    old "{size=+10}Parts:{/size} {size=+10}[bot_parts]/3{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5714
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Obedience:{/size} {size=+10}[bot_ob] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5716
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Obedience:{/size} {size=+10}[bot_ob] | Liked{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5718
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Obedience:{/size} {size=+10}[bot_ob] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5720
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Obedience:{/size} {size=+10}[bot_ob] | Obedient{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5722
+    old "* * * * {size=+10}Obedience:{/size} {size=+10}[bot_ob] | Complete Obedience{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5728
+    old "{color=#5D5D5D}* * * * {/color} {size=+10}Sluttiness:{/size} {size=+10}[bot_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5730
+    old "* {color=#5D5D5D}* * * {/color} {size=+10}Sluttiness:{/size} {size=+10}[bot_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5732
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[bot_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5734
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[bot_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5736
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[bot_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5741
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[bot_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5743
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[bot_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5745
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[bot_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5747
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[bot_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5749
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[bot_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5755
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[bot_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5757
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[bot_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5759
+    old "* *{color=#5D5D5D} * * {/color}{size=+10}Submission:{/size} {size=+10}[bot_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5761
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[bot_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5763
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[bot_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5768
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[bot_hj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5770
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[bot_hj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5772
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Handjobs:{/size} {size=+10}[bot_hj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5774
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Handjobs:{/size} {size=+10}[bot_hj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5776
+    old "* * * * {size=+15}Handjobs:{/size} {size=+10}[bot_hj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5781
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[bot_boobjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5783
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[bot_boobjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5785
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Boobjobs:{/size} {size=+10}[bot_boobjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5787
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Boobjobs:{/size} {size=+10}[bot_boobjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5789
+    old "* * * * {size=+10}Boobjobs:{/size} {size=+10}[bot_boobjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5794
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[bot_cun] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5796
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[bot_cun] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5798
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[bot_cun] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5800
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Cunnilingus:{/size} {size=+10}[bot_cun] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5802
+    old "* * * * {size=+10}Cunnilingus:{/size} {size=+10}[bot_cun] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5809
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[bot_bj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5811
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[bot_bj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5813
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[bot_bj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5815
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[bot_bj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5817
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[bot_bj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5823
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[bot_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5825
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[bot_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5827
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[bot_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5829
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[bot_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5831
+    old "* * * * {size=+15}Vaginal Sex:{/size} {size=+10}[bot_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5836
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Anal Sex:{/size} {size=+10}[bot_anal] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5838
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Anal Sex:{/size} {size=+10}[bot_anal] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5840
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Anal Sex:{/size} {size=+10}[bot_anal] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5842
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Anal Sex:{/size} {size=+10}[bot_anal] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5844
+    old "* * * * {size=+15}Anal Sex:{/size} {size=+10}[bot_anal] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:5940
+    old "{color=#FFFFFF}Loyal{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5942
+    old "{color=#00C418}Loyal{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5944
+    old "{color=#0477E3}Loyal{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5946
+    old "{color=#A323BC}Loyal{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5948
+    old "{color=#FEEB00}* Loyal *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5950
+    old "{color=#FEEB00}** Loyal **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:5952
+    old "{color=#FEEB00}*** Loyal ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6106
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Obedience:{/size} {size=+10}[lin_ob] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6108
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Obedience:{/size} {size=+10}[lin_ob] | Liked{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6110
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Obedience:{/size} {size=+10}[lin_ob] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6112
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Obedience:{/size} {size=+10}[lin_ob] | Obedient{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6114
+    old "* * * * {size=+10}Obedience:{/size} {size=+10}[lin_ob] | Complete Obedience{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6119
+    old "{color=#5D5D5D}* * * * {/color} {size=+10}Sluttiness:{/size} {size=+10}[lin_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6121
+    old "* {color=#5D5D5D}* * * {/color} {size=+10}Sluttiness:{/size} {size=+10}[lin_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6123
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[lin_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6125
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[lin_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6127
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[lin_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6134
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6136
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6138
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6143
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6145
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6147
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6152
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6154
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6156
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6158
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6161
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6163
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6165
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6167
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6170
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Not Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6172
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Horny{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6174
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | Dripping Wet{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6176
+    old "* * * * {size=+10}Lust:{/size} {size=+10}[lin_lust]/9 | OVERFLOWING LUST{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6178
+    old "{color=#5D5D5D}* * * * {/color}{color=#5D5D5D}{size=+10}Lust:{/size} {size=+10}[lin_lust]/0 | Nympho & Friendship 18 Required{/size}{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6184
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[lin_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6186
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[lin_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6188
+    old "* * {color=#5D5D5D} * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[lin_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6190
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[lin_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6192
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[lin_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6197
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[lin_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6199
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[lin_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6201
+    old "* *{color=#5D5D5D} * * {/color}{size=+10}Submission:{/size} {size=+10}[lin_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6203
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[lin_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6205
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[lin_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6210
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Footjobs:{/size} {size=+10}[lin_fj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6212
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Footjobs:{/size} {size=+10}[lin_fj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6214
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Footjobs:{/size} {size=+10}[lin_fj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6216
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Footjobs:{/size} {size=+10}[lin_fj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6218
+    old "* * * * {size=+15}Footjobs:{/size} {size=+10}[lin_fj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6223
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[lin_hj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6225
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[lin_hj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6227
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Handjobs:{/size} {size=+10}[lin_hj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6229
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Handjobs:{/size} {size=+10}[lin_hj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6231
+    old "* * * * {size=+15}Handjobs:{/size} {size=+10}[lin_hj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6236
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Blowjobs:{/size} {size=+10}[lin_blowjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6238
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Blowjobs:{/size} {size=+10}[lin_blowjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6240
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Blowjobs:{/size} {size=+10}[lin_blowjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6242
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Blowjobs:{/size} {size=+10}[lin_blowjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6244
+    old "* * * * {size=+15}Blowjobs:{/size} {size=+10}[lin_blowjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6248
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[lin_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6250
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[lin_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6252
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[lin_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6254
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Vaginal Sex:{/size} {size=+10}[lin_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6256
+    old "* * * * {size=+15}Vaginal Sex:{/size} {size=+10}[lin_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6260
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Anal Sex:{/size} {size=+10}[lin_anal] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6262
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Anal Sex:{/size} {size=+10}[lin_anal] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6264
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Anal Sex:{/size} {size=+10}[lin_anal] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6266
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Anal Sex:{/size} {size=+10}[lin_anal] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6268
+    old "* * * * {size=+15}Anal Sex:{/size} {size=+10}[lin_anal] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6505
+    old "{size=+10}Affection:{/size} {size=+10}[vio_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6507
+    old "{size=+10}Affection:{/size} {size=+10}[vio_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6509
+    old "{size=+10}Affection:{/size} {size=+10}[vio_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6511
+    old "{size=+10}Affection:{/size} {size=+10}[vio_aff] | Close Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6513
+    old "{size=+10}Affection:{/size} {size=+10}[vio_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6517
+    old "{size=+10}Voracity:{/size} {size=+10}[vio_vor]{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6521
+    old "{size=+10}Exhibitionism:{/size} {size=+10}[vio_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6523
+    old "{size=+10}Exhibitionism:{/size} {size=+10}[vio_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6525
+    old "{size=+10}Exhibitionism:{/size} {size=+10}[vio_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6527
+    old "{size=+10}Exhibitionism:{/size} {size=+10}[vio_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6529
+    old "{size=+10}Exhibitionism:{/size} {size=+10}[vio_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6536
+    old "{size=+10}Vaginal Sex:{/size} {size=+10}[vio_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6539
+    old "{size=+10}Vaginal Sex:{/size} {size=+10}[vio_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6542
+    old "{size=+10}Vaginal Sex:{/size} {size=+10}[vio_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6545
+    old "{size=+10}Vaginal Sex:{/size} {size=+10}[vio_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6548
+    old "{size=+10}Vaginal Sex:{/size} {size=+10}[vio_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6559
+    old "{color=#474747}Cumdump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6567
+    old "{color=#474747}Exhibitionist{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6574
+    old "{color=#474747}Mega Slut{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6581
+    old "{color=#474747}Nympho{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6602
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Affection:{/size} {size=+10}[fel_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6604
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Affection:{/size} {size=+10}[fel_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6606
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Affection:{/size} {size=+10}[fel_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6608
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Affection:{/size} {size=+10}[fel_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6610
+    old "* * * * {size=+10}Affection:{/size} {size=+10}[fel_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6615
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[fel_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6617
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[fel_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6619
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[fel_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6621
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[fel_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6623
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[fel_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6628
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[fel_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6630
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[fel_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6632
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[fel_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6634
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[fel_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6636
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[fel_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6641
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[fel_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6643
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[fel_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6645
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Submission:{/size} {size=+10}[fel_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6647
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[fel_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6649
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[fel_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6655
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Footjobs:{/size} {size=+10}[fel_footjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6657
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Footjobs:{/size} {size=+10}[fel_footjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6659
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Footjobs:{/size} {size=+10}[fel_footjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6661
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Footjobs:{/size} {size=+10}[fel_footjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6663
+    old "* * * * {size=+10}Footjobs:{/size} {size=+10}[fel_footjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6669
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[fel_bj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6671
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[fel_bj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6673
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[fel_bj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6675
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[fel_bj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6677
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[fel_bj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6682
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[fel_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6684
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[fel_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6686
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[fel_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6688
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[fel_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6690
+    old "* * * * {size=+10}Vaginal Sex:{/size} {size=+10}[fel_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6695
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[fel_anal] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6697
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[fel_anal] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6699
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Anal Sex:{/size} {size=+10}[fel_anal] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6701
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Anal Sex:{/size} {size=+10}[fel_anal] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6703
+    old "* * * * {size=+10}Anal Sex:{/size} {size=+10}[fel_anal] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6728
+    old "{color=#FFFFFF}Cum Dump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6730
+    old "{color=#00C418}Cum Dump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6732
+    old "{color=#0477E3}Cum Dump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6734
+    old "{color=#A323BC}Cum Dump{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6736
+    old "{color=#FEEB00}* Cum Dump *{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6738
+    old "{color=#FEEB00}** Cum Dump **{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6740
+    old "{color=#FEEB00}*** Cum Dump ***{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:6907
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Affection:{/size} {size=+10}[em_aff] | Stranger{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6909
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Affection:{/size} {size=+10}[em_aff] | Acquaintance{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6911
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Affection:{/size} {size=+10}[em_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6913
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Affection:{/size} {size=+10}[em_aff] | Friends{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6915
+    old "* * * * {size=+10}Affection:{/size} {size=+10}[em_aff] | Lovers{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6920
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[em_slut] | Pure{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6922
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Sluttiness:{/size} {size=+10}[em_slut] | Tainted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6924
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Sluttiness:{/size} {size=+10}[em_slut] | Corrupted{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6926
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Sluttiness:{/size} {size=+10}[em_slut] | Slutty{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6928
+    old "* * * * {size=+10}Sluttiness:{/size} {size=+10}[em_slut] | Whore{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6933
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[em_ex] | Indifferent{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6935
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[em_ex] | Questionable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6937
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[em_ex] | Edgy{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6939
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Exhibitionism:{/size} {size=+10}[em_ex] | Daring{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6941
+    old "* * * * {size=+10}Exhibitionism:{/size} {size=+10}[em_ex] | Exhibitionist{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6945
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Submission:{/size} {size=+10}[em_sub] | Passive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6947
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Submission:{/size} {size=+10}[em_sub] | Pliable{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6949
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Submission:{/size} {size=+10}[em_sub] | Accommodating{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6951
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Submission:{/size} {size=+10}[em_sub] | Dutiful{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6953
+    old "* * * * {size=+10}Submission:{/size} {size=+10}[em_sub] | Submissive{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6958
+    old "{color=#5D5D5D}* * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[em_handjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6960
+    old "*{color=#5D5D5D} * * * {/color}{size=+15}Handjobs:{/size} {size=+10}[em_handjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6962
+    old "* *{color=#5D5D5D} * * {/color}{size=+15}Handjobs:{/size} {size=+10}[em_handjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6964
+    old "* * *{color=#5D5D5D} * {/color}{size=+15}Handjobs:{/size} {size=+10}[em_handjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6966
+    old "* * * * {size=+15}Handjobs:{/size} {size=+10}[em_handjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6973
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[em_boobjobs] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6975
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Boobjobs:{/size} {size=+10}[em_boobjobs] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6977
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Boobjobs:{/size} {size=+10}[em_boobjobs] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6979
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Boobjobs:{/size} {size=+10}[em_boobjobs] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6981
+    old "* * * * {size=+10}Boobjobs:{/size} {size=+10}[em_boobjobs] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6986
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[em_bj] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6988
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Blowjobs:{/size} {size=+10}[em_bj] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6990
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Blowjobs:{/size} {size=+10}[em_bj] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6992
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Blowjobs:{/size} {size=+10}[em_bj] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6994
+    old "* * * * {size=+10}Blowjobs:{/size} {size=+10}[em_bj] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:6999
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[em_sex] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7001
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[em_sex] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7003
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[em_sex] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7005
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Vaginal Sex:{/size} {size=+10}[em_sex] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7007
+    old "* * * * {size=+10}Vaginal Sex:{/size} {size=+10}[em_sex] | Professional{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7012
+    old "{color=#5D5D5D}* * * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[em_anal] | Inexperienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7014
+    old "* {color=#5D5D5D}* * * {/color}{size=+10}Anal Sex:{/size} {size=+10}[em_anal] | Experienced{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7016
+    old "* * {color=#5D5D5D}* * {/color}{size=+10}Anal Sex:{/size} {size=+10}[em_anal] | Skilled{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7018
+    old "* * *{color=#5D5D5D} * {/color}{size=+10}Anal Sex:{/size} {size=+10}[em_anal] | Expert{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7020
+    old "* * * * {size=+10}Anal Sex:{/size} {size=+10}[em_anal] | Professional{/size}"
     new ""
 
     # game/scripts/screens.rpy:7252
@@ -370,16 +2646,68 @@ translate pt_br strings:
     old "plus"
     new ""
 
-    # game/scripts/screens.rpy:7625
-    old "[kali_friendship]"
+    # game/scripts/screens.rpy:7446
+    old "{color=#0BCA02}$[money]{/color}"
     new ""
 
-    # game/scripts/screens.rpy:7632
-    old "[lin_friendship]"
+    # game/scripts/screens.rpy:7453
+    old "{color=#0BCA02}{size=-10}$[money]{/size}{/color}"
     new ""
 
-    # game/scripts/screens.rpy:7639
-    old "[ash_friendship]"
+    # game/scripts/screens.rpy:7457
+    old "{size=-13}[todays!t] Morning{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7460
+    old "{size=-10}[todays!t] Morning{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7464
+    old "{size=-20}[todays!t] Morning{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7468
+    old "{b}{color=#FFFFFF}{size=-12}[day]{/size}{/color}{/b}"
+    new ""
+
+    # game/scripts/screens.rpy:7475
+    old "{b}{color=#FFFFFF}{size=-20}[day]{/size}{/color}{/b}"
+    new ""
+
+    # game/scripts/screens.rpy:7501
+    old "{size=-13}[todays!t] Noon{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7504
+    old "{size=-10}[todays!t] Noon{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7508
+    old "{size=-20}[todays!t] Noon{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7545
+    old "{size=-13}[todays!t] Evening{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7548
+    old "{size=-10}[todays!t] Evening{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7552
+    old "{size=-20}[todays!t] Evening{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7589
+    old "{size=-13}[todays!t] Night{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7592
+    old "{size=-10}[todays!t] Night{/size}"
+    new ""
+
+    # game/scripts/screens.rpy:7596
+    old "{size=-20}[todays!t] Night{/size}"
     new ""
 
     # game/scripts/screens.rpy:7656
@@ -400,6 +2728,334 @@ translate pt_br strings:
 
     # game/scripts/screens.rpy:7745
     old "Empty Slot"
+    new ""
+
+    # game/scripts/screens.rpy:7799
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [lin_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7802
+    old "{alpha=-0}{size=-5}Lust: [lin_lust]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7805
+    old "{alpha=-0}{size=-5}Obedience: [lin_ob]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7808
+    old "{alpha=-0}{size=-5}Sluttiness: [lin_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7811
+    old "{alpha=-0}{size=-5}Exhibitionism: [lin_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7814
+    old "{alpha=-0}{size=-5}Submission: [lin_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7821
+    old "{alpha=-0}{size=-5}___________________{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7824
+    old "{alpha=-0}{size=-5}Footjobs: [lin_fj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7827
+    old "{alpha=-0}{size=-5}Handjobs: [lin_hj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7830
+    old "{alpha=-0}{size=-5}Cunnilingus: [lin_cun]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7833
+    old "{alpha=-0}{size=-5}Blowjobs: [lin_blowjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7836
+    old "{alpha=-0}{size=-5}Vaginal Sex: [lin_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7839
+    old "{alpha=-0}{size=-5}Anal Sex: [lin_anal]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7849
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [ash_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7852
+    old "{alpha=-0}{size=-5}Lust: [ash_lust]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7855
+    old "{alpha=-0}{size=-5}Affection: [ash_aff]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7858
+    old "{alpha=-0}{size=-5}Sluttiness: [ash_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7861
+    old "{alpha=-0}{size=-5}Exhibitionism: [ash_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7864
+    old "{alpha=-0}{size=-5}Submission: [ash_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7874
+    old "{alpha=-0}{size=-5}Footjobs: [ash_footjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7877
+    old "{alpha=-0}{size=-5}Blowjobs: [ash_blowjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7880
+    old "{alpha=-0}{size=-5}Vaginal Sex: [ash_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7883
+    old "{alpha=-0}{size=-5}Anal Sex: [ash_anal1]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7892
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [kali_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7895
+    old "{alpha=-0}{size=-5}Lust: [kali_lust]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7898
+    old "{alpha=-0}{size=-5}Affection: [kali_aff]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7901
+    old "{alpha=-0}{size=-5}Sluttiness: [kali_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7904
+    old "{alpha=-0}{size=-5}Exhibitionism: [kali_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7907
+    old "{alpha=-0}{size=-5}Submission: [kali_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7918
+    old "{alpha=-0}{size=-5}Thighjobs: [kali_thigh]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7921
+    old "{alpha=-0}{size=-5}Boobjobs: [kali_boobjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7924
+    old "{alpha=-0}{size=-5}Blowjobs: [kali_blowjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7927
+    old "{alpha=-0}{size=-5}Vaginal Sex: [kali_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7930
+    old "{alpha=-0}{size=-5}Anal Sex: [kali_anal]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7939
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [mar_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7942
+    old "{alpha=-0}{size=-5}Lust: [mar_lust]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7945
+    old "{alpha=-0}{size=-5}Affection: [mar_aff]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7948
+    old "{alpha=-0}{size=-5}Sluttiness: [mar_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7951
+    old "{alpha=-0}{size=-5}Exhibitionism: [mar_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7954
+    old "{alpha=-0}{size=-5}Submission: [mar_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7964
+    old "{alpha=-0}{size=-5}Handjobs: [mar_hj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7967
+    old "{alpha=-0}{size=-5}Cunnilingus: [mar_cun]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7970
+    old "{alpha=-0}{size=-5}Blowjobs: [mar_blowjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7973
+    old "{alpha=-0}{size=-5}Vaginal Sex: [mar_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7976
+    old "{alpha=-0}{size=-5}Anal Sex: [mar_anal]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7985
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [bot_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7988
+    old "{alpha=-0}{size=-5}Lust: [bot_lust]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7991
+    old "{alpha=-0}{size=-5}Obedience: [bot_ob]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7994
+    old "{alpha=-0}{size=-5}Sluttiness: [bot_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:7997
+    old "{alpha=-0}{size=-5}Exhibitionism: [bot_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8000
+    old "{alpha=-0}{size=-5}Submission: [bot_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8010
+    old "{alpha=-0}{size=-5}Handjobs: [bot_hj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8013
+    old "{alpha=-0}{size=-5}Boobjobs: [bot_boobjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8016
+    old "{alpha=-0}{size=-5}Cunnilingus: [bot_cun]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8019
+    old "{alpha=-0}{size=-5}Blowjobs: [bot_bj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8022
+    old "{alpha=-0}{size=-5}Vaginal Sex: [bot_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8025
+    old "{alpha=-0}{size=-5}Anal Sex: [bot_anal]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8034
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [twin_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8040
+    old "{alpha=-0}{size=-5}Affection: [fel_aff]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8043
+    old "{alpha=-0}{size=-5}Sluttiness: [fel_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8046
+    old "{alpha=-0}{size=-5}Exhibitionism: [fel_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8049
+    old "{alpha=-0}{size=-5}Submission: [fel_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8059
+    old "{alpha=-0}{size=-5}Footjobs: [fel_footjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8062
+    old "{alpha=-0}{size=-5}Blowjobs: [fel_bj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8065
+    old "{alpha=-0}{size=-5}Vaginal Sex: [fel_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8068
+    old "{alpha=-0}{size=-5}Anal Sex: [fel_anal]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8083
+    old "{alpha=-0}{size=-5}Affection: [em_aff]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8086
+    old "{alpha=-0}{size=-5}Sluttiness: [em_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8089
+    old "{alpha=-0}{size=-5}Exhibitionism: [em_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8092
+    old "{alpha=-0}{size=-5}Submission: [em_sub]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8102
+    old "{alpha=-0}{size=-5}Handjobs: [em_handjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8105
+    old "{alpha=-0}{size=-5}Blowjobs: [em_bj]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8108
+    old "{alpha=-0}{size=-5}Boobjobs: [em_boobjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8111
+    old "{alpha=-0}{size=-5}Vaginal Sex: [em_sex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8114
+    old "{alpha=-0}{size=-5}Anal Sex: [em_anal]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8123
+    old "{alpha=-0}{u}{size=-5}Relationship Level: [aut_friendship]{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8129
+    old "{alpha=-0}{size=-5}Affection: [aut_aff]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8132
+    old "{alpha=-0}{size=-5}Sluttiness: [aut_slut]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8135
+    old "{alpha=-0}{size=-5}Exhibitionism: [aut_ex]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8148
+    old "{alpha=-0}{size=-5}Cunnilingus: [aut_cun]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8151
+    old "{alpha=-0}{size=-5}Boobjobs: [aut_boobjobs]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8154
+    old "{alpha=-0}{size=-5}Blowjobs: [aut_bj]{/size}{/alpha}"
     new ""
 
     # game/scripts/screens.rpy:8165
@@ -496,6 +3152,54 @@ translate pt_br strings:
 
     # game/scripts/screens.rpy:8257
     old "Language"
+    new ""
+
+    # game/scripts/screens.rpy:8260
+    old "English"
+    new ""
+
+    # game/scripts/screens.rpy:8261
+    old "Español"
+    new ""
+
+    # game/scripts/screens.rpy:8262
+    old "{color=#8C8C8C}Portuguese{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8264
+    old "{color=#8C8C8C}Polish{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8265
+    old "{color=#8C8C8C}French{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8266
+    old "{color=#8C8C8C}German{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8268
+    old "{color=#8C8C8C}Italian{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8269
+    old "{color=#8C8C8C}Chinese{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8270
+    old "{color=#8C8C8C}Slovak{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8272
+    old "{color=#8C8C8C}Turkish{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8273
+    old "{color=#8C8C8C}Hungarian{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:8274
+    old "{color=#8C8C8C}Russian{/color}"
     new ""
 
     # game/scripts/screens.rpy:8523

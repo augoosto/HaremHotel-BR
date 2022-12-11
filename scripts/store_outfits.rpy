@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/store_outfits.rpy:37
 translate pt_br buy_outfit_9ccbe5e3:

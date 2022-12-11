@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/autumn_events.rpy:6
 translate pt_br autumncun_eaeae0c5:
@@ -3097,9 +3097,9 @@ translate pt_br gaius_tree_talk_41c3ccd6:
     au ""
 
 # game/scripts/autumn_events.rpy:796
-translate pt_br gaius_tree_talk_d9b57a97:
+translate pt_br gaius_tree_talk_c0efec24:
 
-    # au "Which means they must have been burried somewhere around here... right?"
+    # au "Which means they must have been buried somewhere around here... right?"
     au ""
 
 # game/scripts/autumn_events.rpy:797
@@ -3775,9 +3775,9 @@ translate pt_br gaius_tree_talk_c9324318:
     au ""
 
 # game/scripts/autumn_events.rpy:948
-translate pt_br gaius_tree_talk_f4b227b1:
+translate pt_br gaius_tree_talk_2628c9dd:
 
-    # lily "That's wonderful. Have you chosen as Paragon as well?"
+    # lily "That's wonderful. Have you chosen a Paragon as well?"
     lily ""
 
 # game/scripts/autumn_events.rpy:949
@@ -4117,9 +4117,9 @@ translate pt_br aut_orient_716ed928:
     ha ""
 
 # game/scripts/autumn_events.rpy:1035
-translate pt_br aut_orient_1efb5a71:
+translate pt_br aut_orient_e2cb52ec:
 
-    # lily "*ahem*, as I was saying... \nAs saints we belong to Gaius. It is our duty to please him in whichever way he sees fit for us. You will be expected to travel on a moments notice and be prepared to do whatever is asked of you."
+    # lily "*ahem*, as I was saying... \nAs saints we belong to Gaius. It is our duty to please him in whichever way he sees fit for us. You will be expected to travel on a moment's notice and be prepared to do whatever is asked of you."
     lily ""
 
 # game/scripts/autumn_events.rpy:1036
@@ -4489,9 +4489,9 @@ translate pt_br aut_orient_b85021c3:
     abby ""
 
 # game/scripts/autumn_events.rpy:1114
-translate pt_br aut_orient_81a4f9b2:
+translate pt_br aut_orient_11ca047b:
 
-    # abby "Prospects, what I hold before you is an ancient artifact crafted in the Time of God. Embued with His power, it was a gift to the water-bearer Aquares - who in humanity's time of emergence - moved rivers and lakes in the favor of the First Ones so that they may birth civilization."
+    # abby "Prospects, what I hold before you is an ancient artifact crafted in the Time of God. Imbued with His power, it was a gift to the water-bearer Aquares - who in humanity's time of emergence - moved rivers and lakes in the favor of the First Ones so that they may birth civilization."
     abby ""
 
 # game/scripts/autumn_events.rpy:1115

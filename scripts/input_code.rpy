@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/input_code.rpy:28
 translate pt_br code_65b679a4:
@@ -108,277 +108,291 @@ translate pt_br code_d25a5a7d:
     # "You've acquired $1,000!"
     ""
 
-# game/scripts/input_code.rpy:148
+# game/scripts/input_code.rpy:147
+translate pt_br code_91c58a44:
+
+    # r "Code accepted! Lin's stats were raised."
+    r ""
+
+# game/scripts/input_code.rpy:152
 translate pt_br code_0080070a:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:260
+# game/scripts/input_code.rpy:264
 translate pt_br code_65b679a4_4:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:267
+# game/scripts/input_code.rpy:271
 translate pt_br code_6a86d783:
 
     # warning "This code is meant to be used at the very beginning of the game to jump straight to the beginning of the latest update. This code must only be used when all of the girls' stats are 0. You may miss content otherwise."
     warning ""
 
-# game/scripts/input_code.rpy:268
+# game/scripts/input_code.rpy:272
 translate pt_br code_e2d3d576:
 
     # warning "Are you sure?"
     warning ""
 
-# game/scripts/input_code.rpy:385
+# game/scripts/input_code.rpy:389
 translate pt_br code_65b679a4_5:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:392
+# game/scripts/input_code.rpy:396
 translate pt_br code_0080070a_1:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:402
+# game/scripts/input_code.rpy:406
 translate pt_br code_65b679a4_6:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:408
+# game/scripts/input_code.rpy:412
 translate pt_br code_0493528d:
 
     # "This code will max out all of Autumn's stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:418
+# game/scripts/input_code.rpy:422
 translate pt_br code_65b679a4_7:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:425
+# game/scripts/input_code.rpy:429
 translate pt_br code_0080070a_2:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:443
+# game/scripts/input_code.rpy:447
 translate pt_br code_65b679a4_8:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:449
+# game/scripts/input_code.rpy:453
 translate pt_br code_eddd7714:
 
     # "This code will max out all of Felicity & Emma's stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:468
+# game/scripts/input_code.rpy:472
 translate pt_br code_65b679a4_9:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:473
+# game/scripts/input_code.rpy:477
 translate pt_br code_0080070a_3:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:487
+# game/scripts/input_code.rpy:491
 translate pt_br code_65b679a4_10:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:493
+# game/scripts/input_code.rpy:497
 translate pt_br code_e90c2d4e:
 
     # "This code will max out all of [botname]'s stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:507
+# game/scripts/input_code.rpy:511
 translate pt_br code_65b679a4_11:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:512
+# game/scripts/input_code.rpy:516
 translate pt_br code_0080070a_4:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:527
+# game/scripts/input_code.rpy:531
 translate pt_br code_65b679a4_12:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:532
+# game/scripts/input_code.rpy:536
 translate pt_br code_e854b4c8:
 
     # "This code will max out all of Maria's stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:547
+# game/scripts/input_code.rpy:551
 translate pt_br code_65b679a4_13:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:552
+# game/scripts/input_code.rpy:556
 translate pt_br code_0080070a_5:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:568
+# game/scripts/input_code.rpy:572
 translate pt_br code_65b679a4_14:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:573
+# game/scripts/input_code.rpy:577
 translate pt_br code_567e6a97:
 
     # "This code will max out all of Ashley's stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:589
+# game/scripts/input_code.rpy:593
 translate pt_br code_65b679a4_15:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:595
+# game/scripts/input_code.rpy:599
 translate pt_br code_0080070a_6:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:618
+# game/scripts/input_code.rpy:622
 translate pt_br code_65b679a4_16:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:624
+# game/scripts/input_code.rpy:628
 translate pt_br code_327b8564:
 
     # "This code will max out all of Kali's stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:649
+# game/scripts/input_code.rpy:653
 translate pt_br code_65b679a4_17:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:655
+# game/scripts/input_code.rpy:659
 translate pt_br code_0080070a_7:
 
     # warning "This code has a small potential to break things, it is recommended you save in an unused save slot before using this code. Would you like to continue?"
     warning ""
 
-# game/scripts/input_code.rpy:669
+# game/scripts/input_code.rpy:673
 translate pt_br code_65b679a4_18:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:675
+# game/scripts/input_code.rpy:679
 translate pt_br code_b6ac7b63:
 
     # "This code will max out all of Lin's stats as of the current update. This will skip all story. Are you sure?"
     ""
 
-# game/scripts/input_code.rpy:689
+# game/scripts/input_code.rpy:693
 translate pt_br code_65b679a4_19:
 
     # "Code accepted!"
     ""
 
-# game/scripts/input_code.rpy:763
+# game/scripts/input_code.rpy:767
 translate pt_br code_baead254_2:
 
     # "Code Accepted!"
     ""
 
-# game/scripts/input_code.rpy:764
+# game/scripts/input_code.rpy:768
 translate pt_br code_c6454cb5:
 
     # "You've acquired $999,999!"
     ""
 
-# game/scripts/input_code.rpy:767
+# game/scripts/input_code.rpy:771
 translate pt_br code_99e99303:
 
     # r "Hello :)"
     r ""
 
-# game/scripts/input_code.rpy:770
+# game/scripts/input_code.rpy:774
 translate pt_br code_2d81a55d:
 
     # warning "This will reset Nia's friendship and happiness! Are you sure?"
     warning ""
 
-# game/scripts/input_code.rpy:775
+# game/scripts/input_code.rpy:779
 translate pt_br code_edc827fe:
 
     # "Nia is now in the love route!"
     ""
 
-# game/scripts/input_code.rpy:780
+# game/scripts/input_code.rpy:784
 translate pt_br code_2d81a55d_1:
 
     # warning "This will reset Nia's friendship and happiness! Are you sure?"
     warning ""
 
-# game/scripts/input_code.rpy:785
+# game/scripts/input_code.rpy:789
 translate pt_br code_56b26835:
 
     # "Nia is now in the slave route!"
     ""
 
-# game/scripts/input_code.rpy:791
+# game/scripts/input_code.rpy:795
 translate pt_br code_10a31787:
 
     # warning "This will reset Sylvia's friendship and happiness! Are you sure?"
     warning ""
 
-# game/scripts/input_code.rpy:796
+# game/scripts/input_code.rpy:800
 translate pt_br code_0ee331f2:
 
     # "Sylvia is now in the love route!"
     ""
 
-# game/scripts/input_code.rpy:801
+# game/scripts/input_code.rpy:805
 translate pt_br code_10a31787_1:
 
     # warning "This will reset Sylvia's friendship and happiness! Are you sure?"
     warning ""
 
-# game/scripts/input_code.rpy:806
+# game/scripts/input_code.rpy:810
 translate pt_br code_bd85f266:
 
     # "Sylvia is now in the slave route!"
     ""
 
-# game/scripts/input_code.rpy:812
+# game/scripts/input_code.rpy:816
 translate pt_br code_94529849:
 
     # "Code not valid."
     ""
 
 translate pt_br strings:
+
+    # game/scripts/input_code.rpy:15
+    old "Input a code (if you have one):"
+    new ""
+
+    # game/scripts/input_code.rpy:40
+    old "Enter your new name:"
+    new ""
 
     # game/scripts/input_code.rpy:53
     old "Are you sure you have this bug and would like to fix it?"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/dreamscape.rpy:42
 translate pt_br ashwed_6e6e2c9e:
@@ -1505,4 +1505,10 @@ translate pt_br classdream_021b5221:
 
     # e "Ah... Well, I think today was a productive day in class..."
     e ""
+
+translate pt_br strings:
+
+    # game/scripts/dreamscape.rpy:35
+    old "A DreamScape must be purchased to play this game."
+    new ""
 

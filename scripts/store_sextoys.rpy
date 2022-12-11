@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/store_sextoys.rpy:232
 translate pt_br buy_sextoy_99f1fc01:
@@ -179,4 +179,86 @@ translate pt_br buy_sextoy_b5cb3122_9:
 
     # "I don't have enough money for that"
     ""
+
+translate pt_br strings:
+
+    # game/scripts/store_sextoys.rpy:20
+    old "Vibe kits"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:21
+    old "Anal plugs"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:22
+    old "Android Modules"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:34
+    old "Lady Lust's Orgasm Kit{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:42
+    old "An assortment of luxury toys, vibrators, dildos, and massagers to fill\nany craving a man or woman may have.\n\n"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:43
+    old "Lube and disinfectant included. Price: $250.00"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:45
+    old "Lady Lust's Orgasm Kit"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:51
+    old "Buy Lady Lust's Orgasm Kit?"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:61
+    old "Sex toys - Vibe kits"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:100
+    old "Lin vibe kit{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:103
+    old "Ashley vibe kit{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:106
+    old "Android vibe kit{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:109
+    old "Autumn vibe kit{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:116
+    old "Sex toys - Butt plugs"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:142
+    old "Lin butt plug{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:145
+    old "Ashley butt plug{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:153
+    old "Sex toys - Android Modules"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:187
+    old "Reduction mod{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:189
+    old "Expansion mod{vspace=10}[price!t]"
+    new ""
+
+    # game/scripts/store_sextoys.rpy:191
+    old "Lactation mod{vspace=10}[price!t]"
+    new ""
 

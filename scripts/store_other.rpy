@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/store_other.rpy:83
 translate pt_br buy_other_b0ea5483:
@@ -119,4 +119,26 @@ translate pt_br buy_other_b5cb3122_3:
 
     # "I don't have enough money for that"
     ""
+
+translate pt_br strings:
+
+    # game/scripts/store_other.rpy:29
+    old "Kali's Hard Drive"
+    new ""
+
+    # game/scripts/store_other.rpy:32
+    old "DreamScape VR"
+    new ""
+
+    # game/scripts/store_other.rpy:37
+    old "Human Kit"
+    new ""
+
+    # game/scripts/store_other.rpy:44
+    old "Nia's Supplies"
+    new ""
+
+    # game/scripts/store_other.rpy:50
+    old "{s}Sold Out{/s}"
+    new ""
 

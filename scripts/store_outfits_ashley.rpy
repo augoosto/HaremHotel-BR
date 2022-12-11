@@ -2,7 +2,7 @@
 
 translate pt_br strings:
 
-    # game/scripts/gallery.rpy:244
-    old "Others"
+    # game/scripts/store_outfits_ashley.rpy:14
+    old "Bondage Set"
     new ""
 

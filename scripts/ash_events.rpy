@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-28 10:55
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/ash_events.rpy:26
 translate pt_br ash_fe_repeatable_298b7646:
@@ -2400,28 +2400,10 @@ translate pt_br ash_hangout_06_fa19ecf2:
     # a "But only I get your cum, okay? It's for our first baby~"
     a ""
 
-# game/scripts/ash_events.rpy:861
-translate pt_br ash_hangout_06_c0256c18:
-
-    # a "They probably won't have any beds big enough for all of us, so it can just be us, and the others can sleep wherever. That way, we could fuck all day without a worry~"
-    a ""
-
-# game/scripts/ash_events.rpy:862
-translate pt_br ash_hangout_06_752549e6:
-
-    # c "The others might get jealous..."
-    c ""
-
-# game/scripts/ash_events.rpy:863
-translate pt_br ash_hangout_06_3734cc57:
-
-    # a "Fine, I guess you can have your fun with them sometimes... but I get your cum, okay? It's for our first baby!"
-    a ""
-
 # game/scripts/ash_events.rpy:864
-translate pt_br ash_hangout_06_39503c11:
+translate pt_br ash_hangout_06_786168bb:
 
-    # a "Have you ever heard of that underwater city near Corpus? It's more like a mall under an airtight dome, but the pictures I've seen are beautiful!"
+    # a "Oh, have you ever heard of that underwater city near Corpus? It's more like a mall under an airtight dome, but the pictures I've seen are beautiful!"
     a ""
 
 # game/scripts/ash_events.rpy:865
@@ -13345,10 +13327,10 @@ translate pt_br ash_forgive_b0ec5a0d:
     a "" with ssshake
 
 # game/scripts/ash_events.rpy:3681
-translate pt_br ash_forgive_b3d1ef63:
+translate pt_br ash_forgive_e964527d:
 
-    # a "I love you too, Ashley."
-    a ""
+    # ya "I love you too, Ashley."
+    ya ""
 
 # game/scripts/ash_events.rpy:3683
 translate pt_br ash_forgive_ce3f9018:
@@ -16915,9 +16897,9 @@ translate pt_br ashfairjob_6e82313a:
     a ""
 
 # game/scripts/ash_events.rpy:4726
-translate pt_br ashfairjob_4b71da6d:
+translate pt_br ashfairjob_7bd0830e:
 
-    # c "Shhh, who don't know who's out there."
+    # c "Shhh, we don't know who's out there."
     c ""
 
 # game/scripts/ash_events.rpy:4727
@@ -22962,7 +22944,7 @@ translate pt_br ashbacksch_3a660092:
     # "Right...?"
     ""
 
-# game/scripts/ash_events.rpy:6447
+# game/scripts/ash_events.rpy:6450
 translate pt_br apindonesch_18e502fd:
 
     # "You spend some time posting pictures of Ashley, eventually you find a buyer. He paid..."
@@ -30408,7477 +30390,7483 @@ translate pt_br katetalk_2857c467:
     # kate "Well, I suppose repetition is a whetstone for the mind. Very well, let's begin. You again only have two minutes... starting now."
     kate ""
 
-# game/scripts/ash_events.rpy:9461
+# game/scripts/ash_events.rpy:9462
 translate pt_br katetalk_8959a1ce:
 
     # c "Who are you?"
     c ""
 
-# game/scripts/ash_events.rpy:9462
+# game/scripts/ash_events.rpy:9463
 translate pt_br katetalk_adc9425b:
 
     # kate "Hm? I'm Kate."
     kate ""
 
-# game/scripts/ash_events.rpy:9463
+# game/scripts/ash_events.rpy:9464
 translate pt_br katetalk_860cf38c:
 
     # kate "Who are you?"
     kate ""
 
-# game/scripts/ash_events.rpy:9464
+# game/scripts/ash_events.rpy:9465
 translate pt_br katetalk_0e5b3a10:
 
     # c "[name]."
     c ""
 
-# game/scripts/ash_events.rpy:9465
+# game/scripts/ash_events.rpy:9467
+translate pt_br katetalk_c23d78f4:
+
+    # c "Hey Kate."
+    c ""
+
+# game/scripts/ash_events.rpy:9468
 translate pt_br katetalk_5077cbb6:
 
     # kate "Do you have any reason for being at this college? You look a bit too old. Or did you just put college off until now?"
     kate ""
 
-# game/scripts/ash_events.rpy:9466
+# game/scripts/ash_events.rpy:9469
 translate pt_br katetalk_9065175e:
 
     # kate "It's best you learn while you're still young. Don't you agree?"
     kate ""
 
-# game/scripts/ash_events.rpy:9467
+# game/scripts/ash_events.rpy:9470
 translate pt_br katetalk_c48dc32f:
 
     # c "Sure."
     c ""
 
-# game/scripts/ash_events.rpy:9468
+# game/scripts/ash_events.rpy:9471
 translate pt_br katetalk_d3d9b247:
 
     # kate "That's good."
     kate ""
 
-# game/scripts/ash_events.rpy:9469
+# game/scripts/ash_events.rpy:9472
 translate pt_br katetalk_6e4800b6:
 
     # kate "Hmm... I'm curious, do you enjoy riddles? I enjoy testing people."
     kate ""
 
-# game/scripts/ash_events.rpy:9471
+# game/scripts/ash_events.rpy:9474
 translate pt_br katetalk_5e56488c:
 
     # kate "If at any point in time you become interested in having some fun, just let me know."
     kate ""
 
-# game/scripts/ash_events.rpy:9476
+# game/scripts/ash_events.rpy:9479
 translate pt_br katetalk_574fcb85:
 
     # kate "Riddle me this, [name]. What am I referring to?"
     kate ""
 
-# game/scripts/ash_events.rpy:9477
+# game/scripts/ash_events.rpy:9480
 translate pt_br katetalk_5d0708b7:
 
     # kate "What is both massive, and small, at the same time?"
     kate ""
 
-# game/scripts/ash_events.rpy:9479
+# game/scripts/ash_events.rpy:9482
 translate pt_br katetalk_a0adc54f:
 
     # kate "What is both massive, and small, at the same time?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9483
+# game/scripts/ash_events.rpy:9486
 translate pt_br katetalk_39dc760a:
 
     # kate "Correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9484
+# game/scripts/ash_events.rpy:9487
 translate pt_br katetalk_1335b56f:
 
     # kate "A Black Hole's singularity is incredibly small, yet its mass is large."
     kate ""
 
-# game/scripts/ash_events.rpy:9485
+# game/scripts/ash_events.rpy:9488
 translate pt_br katetalk_68b9f12f:
 
     # kate "So massive, that not even light can escape."
     kate ""
 
-# game/scripts/ash_events.rpy:9487
+# game/scripts/ash_events.rpy:9490
 translate pt_br katetalk_4fa71bcb:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9490
+# game/scripts/ash_events.rpy:9493
 translate pt_br katetalk_906388b8:
 
     # kate "Love?"
     kate ""
 
-# game/scripts/ash_events.rpy:9491
+# game/scripts/ash_events.rpy:9494
 translate pt_br katetalk_0d206d31:
 
     # kate "Oh, You're joking. Nevermind then."
     kate ""
 
-# game/scripts/ash_events.rpy:9495
+# game/scripts/ash_events.rpy:9498
 translate pt_br katetalk_0463d838:
 
     # kate "Riddle me this, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9496
+# game/scripts/ash_events.rpy:9499
 translate pt_br katetalk_988ef550:
 
     # kate "I have a tail, and I have a head. But I have no body. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9498
+# game/scripts/ash_events.rpy:9501
 translate pt_br katetalk_64cbe714:
 
     # kate "I have a tail, and I have a head. But I have no body. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9500
+# game/scripts/ash_events.rpy:9503
 translate pt_br katetalk_3dd89a77:
 
     # kate "Not what I was looking for..."
     kate ""
 
-# game/scripts/ash_events.rpy:9505
+# game/scripts/ash_events.rpy:9508
 translate pt_br katetalk_39dc760a_1:
 
     # kate "Correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9506
+# game/scripts/ash_events.rpy:9509
 translate pt_br katetalk_936e4eb3:
 
     # kate "With a head on one side, and a tail on the other, a coin is made."
     kate ""
 
-# game/scripts/ash_events.rpy:9508
+# game/scripts/ash_events.rpy:9511
 translate pt_br katetalk_f37a8442:
 
     # kate "Please take me seriously, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9513
+# game/scripts/ash_events.rpy:9516
 translate pt_br katetalk_0463d838_1:
 
     # kate "Riddle me this, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9514
+# game/scripts/ash_events.rpy:9517
 translate pt_br katetalk_1f1b0c8e:
 
     # kate "What knows every language, every tone, every song, and every meaning?"
     kate ""
 
-# game/scripts/ash_events.rpy:9516
+# game/scripts/ash_events.rpy:9519
 translate pt_br katetalk_2c3cabb1:
 
     # kate "What knows every language, every tone, every song, and every meaning?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9518
+# game/scripts/ash_events.rpy:9521
 translate pt_br katetalk_de1f0dd8:
 
     # kate "Not what I was looking for, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9523
+# game/scripts/ash_events.rpy:9526
 translate pt_br katetalk_39dc760a_2:
 
     # kate "Correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9524
+# game/scripts/ash_events.rpy:9527
 translate pt_br katetalk_7ad2d85c:
 
     # kate "I don't think I need to explain my riddle here."
     kate ""
 
-# game/scripts/ash_events.rpy:9526
+# game/scripts/ash_events.rpy:9529
 translate pt_br katetalk_2af97a9d:
 
     # kate "Wrong, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9529
+# game/scripts/ash_events.rpy:9532
 translate pt_br katetalk_31e5f3e8:
 
     # kate "Urgh, please."
     kate ""
 
-# game/scripts/ash_events.rpy:9534
+# game/scripts/ash_events.rpy:9537
 translate pt_br katetalk_0463d838_2:
 
     # kate "Riddle me this, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9535
+# game/scripts/ash_events.rpy:9538
 translate pt_br katetalk_ff8357db:
 
     # kate "What room can never be entered?"
     kate ""
 
-# game/scripts/ash_events.rpy:9537
+# game/scripts/ash_events.rpy:9540
 translate pt_br katetalk_bf22e889:
 
     # kate "What room can never be entered?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9539
+# game/scripts/ash_events.rpy:9542
 translate pt_br katetalk_733f00b9:
 
     # kate "I'm not interested in talking about our feelings."
     kate ""
 
-# game/scripts/ash_events.rpy:9542
+# game/scripts/ash_events.rpy:9545
 translate pt_br katetalk_4fa71bcb_1:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9545
+# game/scripts/ash_events.rpy:9548
 translate pt_br katetalk_633e298e:
 
     # kate "Was this a riddle, or a question, [name]? Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9550
+# game/scripts/ash_events.rpy:9553
 translate pt_br katetalk_39dc760a_3:
 
     # kate "Correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9551
+# game/scripts/ash_events.rpy:9554
 translate pt_br katetalk_a1ca0f2c:
 
     # c "...Was that a joke?"
     c ""
 
-# game/scripts/ash_events.rpy:9552
+# game/scripts/ash_events.rpy:9555
 translate pt_br katetalk_3ee7233a:
 
     # kate "No, it was a riddle."
     kate ""
 
-# game/scripts/ash_events.rpy:9556
+# game/scripts/ash_events.rpy:9559
 translate pt_br katetalk_0463d838_3:
 
     # kate "Riddle me this, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9557
+# game/scripts/ash_events.rpy:9560
 translate pt_br katetalk_101dc273:
 
     # kate "I can cross a river, but I cannot swim. I can cross a ravine, but I cannot fly. I can cross a road, but I cannot walk. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9559
+# game/scripts/ash_events.rpy:9562
 translate pt_br katetalk_246e8569:
 
     # kate "I can cross a river, but I cannot swim. I can cross a ravine, but I cannot fly. I can cross a road, but I cannot walk. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9563
+# game/scripts/ash_events.rpy:9566
 translate pt_br katetalk_8e770938:
 
     # kate "Correct. That one was pretty hard, I'm surprised you got it."
     kate ""
 
-# game/scripts/ash_events.rpy:9565
+# game/scripts/ash_events.rpy:9568
 translate pt_br katetalk_8e8b1a1d:
 
     # kate "Nope."
     kate ""
 
-# game/scripts/ash_events.rpy:9568
+# game/scripts/ash_events.rpy:9571
 translate pt_br katetalk_4fa71bcb_2:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9573
+# game/scripts/ash_events.rpy:9576
 translate pt_br katetalk_0463d838_4:
 
     # kate "Riddle me this, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9574
+# game/scripts/ash_events.rpy:9577
 translate pt_br katetalk_079fba34:
 
     # kate "What moves everything around, but does not move?"
     kate ""
 
-# game/scripts/ash_events.rpy:9576
+# game/scripts/ash_events.rpy:9579
 translate pt_br katetalk_b33bda12:
 
     # kate "What moves everything around, but does not move?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9580
+# game/scripts/ash_events.rpy:9583
 translate pt_br katetalk_c0a96e27:
 
     # kate "Correct. If you walk next to a mirror, your perspective changes and you see different things. But the mirror itself does not move."
     kate ""
 
-# game/scripts/ash_events.rpy:9582
+# game/scripts/ash_events.rpy:9585
 translate pt_br katetalk_60896b40:
 
     # kate "God is the easiest answer, but it's almost always the wrong one, [name]..."
     kate ""
 
-# game/scripts/ash_events.rpy:9585
+# game/scripts/ash_events.rpy:9588
 translate pt_br katetalk_3e5822ef:
 
     # kate "A cogwheel moves... Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9588
+# game/scripts/ash_events.rpy:9591
 translate pt_br katetalk_4fd329af:
 
     # kate "A wheel moves... Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9591
+# game/scripts/ash_events.rpy:9594
 translate pt_br katetalk_0bc5fb1c:
 
     # kate "Urgh, the sun rotates at 1.241 miles per second, and it moves 43,000 miles per hour."
     kate ""
 
-# game/scripts/ash_events.rpy:9592
+# game/scripts/ash_events.rpy:9595
 translate pt_br katetalk_a0bbd60b:
 
     # kate "Does that sound stationary to you?"
     kate ""
 
-# game/scripts/ash_events.rpy:9597
+# game/scripts/ash_events.rpy:9600
 translate pt_br katetalk_0463d838_5:
 
     # kate "Riddle me this, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9598
+# game/scripts/ash_events.rpy:9601
 translate pt_br katetalk_71988fa1:
 
     # kate "What is something that fades over time but will always remain?"
     kate ""
 
-# game/scripts/ash_events.rpy:9600
+# game/scripts/ash_events.rpy:9603
 translate pt_br katetalk_ee556224:
 
     # kate "What is something that fades over time but will always remain?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9602
+# game/scripts/ash_events.rpy:9605
 translate pt_br katetalk_9b8c95e1:
 
     # kate "Not the answer I was looking for."
     kate ""
 
-# game/scripts/ash_events.rpy:9605
+# game/scripts/ash_events.rpy:9608
 translate pt_br katetalk_8e8b1a1d_1:
 
     # kate "Nope."
     kate ""
 
-# game/scripts/ash_events.rpy:9608
+# game/scripts/ash_events.rpy:9611
 translate pt_br katetalk_faa1d097:
 
     # kate "Stop playing games, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:9609
+# game/scripts/ash_events.rpy:9612
 translate pt_br katetalk_998e3cc7:
 
     # c "Isn't this a game?"
     c ""
 
-# game/scripts/ash_events.rpy:9610
+# game/scripts/ash_events.rpy:9613
 translate pt_br katetalk_bda95352:
 
     # kate "Which one?"
     kate ""
 
-# game/scripts/ash_events.rpy:9613
+# game/scripts/ash_events.rpy:9616
 translate pt_br katetalk_9b8c95e1_1:
 
     # kate "Not the answer I was looking for."
     kate ""
 
-# game/scripts/ash_events.rpy:9618
+# game/scripts/ash_events.rpy:9621
 translate pt_br katetalk_39dc760a_4:
 
     # kate "Correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9622
+# game/scripts/ash_events.rpy:9625
 translate pt_br katetalk_aafebf84:
 
     # kate "Next. This is one of my hardest ones. No cheating."
     kate ""
 
-# game/scripts/ash_events.rpy:9623
+# game/scripts/ash_events.rpy:9626
 translate pt_br katetalk_4d4e9dfa:
 
     # kate "What can be found at the beginning of eternity, the end of time and space, the beginning of every end, and the end of every place?"
     kate ""
 
-# game/scripts/ash_events.rpy:9630
+# game/scripts/ash_events.rpy:9633
 translate pt_br katetalk_d87ab811:
 
     # kate "Correct! I'm impressed."
     kate ""
 
-# game/scripts/ash_events.rpy:9633
+# game/scripts/ash_events.rpy:9636
 translate pt_br katetalk_9982491b:
 
     # kate "Wrong. Come back to me when you think you have the answer."
     kate ""
 
-# game/scripts/ash_events.rpy:9637
+# game/scripts/ash_events.rpy:9640
 translate pt_br katetalk_6d9201ab:
 
     # kate "Next riddle... I come from a mine and am surrounded by wood. The people here use me often. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9639
+# game/scripts/ash_events.rpy:9642
 translate pt_br katetalk_b84c6d4f:
 
     # kate "I come from a mine and am surrounded by wood. The people here use me often. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9641
+# game/scripts/ash_events.rpy:9644
 translate pt_br katetalk_f4a135e2:
 
     # kate "Wrong..."
     kate ""
 
-# game/scripts/ash_events.rpy:9644
+# game/scripts/ash_events.rpy:9647
 translate pt_br katetalk_315413b4:
 
     # kate "Were you listening?"
     kate ""
 
-# game/scripts/ash_events.rpy:9647
+# game/scripts/ash_events.rpy:9650
 translate pt_br katetalk_7cd99d48:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9652
+# game/scripts/ash_events.rpy:9655
 translate pt_br katetalk_40e2ed66:
 
     # kate "Correct! I am pencil lead."
     kate ""
 
-# game/scripts/ash_events.rpy:9654
+# game/scripts/ash_events.rpy:9657
 translate pt_br katetalk_520e4816:
 
     # kate "That is not correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9659
+# game/scripts/ash_events.rpy:9662
 translate pt_br katetalk_49fd1395:
 
     # kate "Next riddle... You measure my life in hours and I serve you by expiring. I’m quick when I’m thin and slow when fat. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9661
+# game/scripts/ash_events.rpy:9664
 translate pt_br katetalk_25c9e260:
 
     # kate "You measure my life in hours and I serve you by expiring. I’m quick when I’m thin and slow when fat. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9665
+# game/scripts/ash_events.rpy:9668
 translate pt_br katetalk_693bdbec:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9667
+# game/scripts/ash_events.rpy:9670
 translate pt_br katetalk_297a7e54:
 
     # kate "Sorry, no."
     kate ""
 
-# game/scripts/ash_events.rpy:9670
+# game/scripts/ash_events.rpy:9673
 translate pt_br katetalk_4fa71bcb_3:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9673
+# game/scripts/ash_events.rpy:9676
 translate pt_br katetalk_a0ff079b:
 
     # kate "Nope..."
     kate ""
 
-# game/scripts/ash_events.rpy:9678
+# game/scripts/ash_events.rpy:9681
 translate pt_br katetalk_6a9eed46:
 
     # kate "Next riddle... I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9680
+# game/scripts/ash_events.rpy:9683
 translate pt_br katetalk_69294ffd:
 
     # kate "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9682
+# game/scripts/ash_events.rpy:9685
 translate pt_br katetalk_3ff312e5:
 
     # kate "Close, but no."
     kate ""
 
-# game/scripts/ash_events.rpy:9685
+# game/scripts/ash_events.rpy:9688
 translate pt_br katetalk_b04db051:
 
     # kate "No."
     kate ""
 
-# game/scripts/ash_events.rpy:9690
+# game/scripts/ash_events.rpy:9693
 translate pt_br katetalk_3ca98aa3:
 
     # kate "Correct! That one was tough, I hope you didn't cheat."
     kate ""
 
-# game/scripts/ash_events.rpy:9692
+# game/scripts/ash_events.rpy:9695
 translate pt_br katetalk_297a7e54_1:
 
     # kate "Sorry, no."
     kate ""
 
-# game/scripts/ash_events.rpy:9695
+# game/scripts/ash_events.rpy:9698
 translate pt_br katetalk_8e8b1a1d_2:
 
     # kate "Nope."
     kate ""
 
-# game/scripts/ash_events.rpy:9698
+# game/scripts/ash_events.rpy:9701
 translate pt_br katetalk_b04db051_1:
 
     # kate "No."
     kate ""
 
-# game/scripts/ash_events.rpy:9703
+# game/scripts/ash_events.rpy:9706
 translate pt_br katetalk_41b41fe6:
 
     # kate "Imagine the following..."
     kate ""
 
-# game/scripts/ash_events.rpy:9704
+# game/scripts/ash_events.rpy:9707
 translate pt_br katetalk_bf45a852:
 
     # kate "You have decided to go on a romantic ferry ride with your new wife. {w}Including the captain, there are six others on the boat. {w}After some lovely personal time between the two of you in your room, your wife gets up to use the public restroom. She comes back 10 minutes later yelling 'There's not a single person on the boat!'"
     kate ""
 
-# game/scripts/ash_events.rpy:9705
+# game/scripts/ash_events.rpy:9708
 translate pt_br katetalk_db49619d:
 
     # kate "What happened?"
     kate ""
 
-# game/scripts/ash_events.rpy:9707
+# game/scripts/ash_events.rpy:9710
 translate pt_br katetalk_42e4d6dd:
 
     # kate "You have decided to go on a romantic ferry ride with your new wife. Including the captain, there are six others on the boat. After some lovely personal time between the two of you in your room, your wife gets up to use the public restroom. She comes back 10 minutes later yelling 'There's not a single person on the boat!'" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9709
+# game/scripts/ash_events.rpy:9712
 translate pt_br katetalk_ada89ede:
 
     # kate "Why would they have done that? No."
     kate ""
 
-# game/scripts/ash_events.rpy:9712
+# game/scripts/ash_events.rpy:9715
 translate pt_br katetalk_06ab069d:
 
     # kate "Strange that they would have fallen off, you didn't notice any sounds and you didn't feel the boat crash into anything."
     kate ""
 
-# game/scripts/ash_events.rpy:9713
+# game/scripts/ash_events.rpy:9716
 translate pt_br katetalk_7cd99d48_1:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9718
+# game/scripts/ash_events.rpy:9721
 translate pt_br katetalk_7e0722ba:
 
     # kate "Correct! It was such a romantic boat ride. Three people proposed at once, and they all said yes!"
     kate ""
 
-# game/scripts/ash_events.rpy:9720
+# game/scripts/ash_events.rpy:9723
 translate pt_br katetalk_ab180f92:
 
     # kate "Really...?"
     kate ""
 
-# game/scripts/ash_events.rpy:9723
+# game/scripts/ash_events.rpy:9726
 translate pt_br katetalk_86797b6e:
 
     # kate "You notice after 30 minutes on the boat that you left without them? No, of course not. That's silly."
     kate ""
 
-# game/scripts/ash_events.rpy:9726
+# game/scripts/ash_events.rpy:9729
 translate pt_br katetalk_e1daea26:
 
     # kate "Good guess, but no."
     kate ""
 
-# game/scripts/ash_events.rpy:9729
+# game/scripts/ash_events.rpy:9732
 translate pt_br katetalk_af03cad0:
 
     # kate "Good guess, but that's not correct."
     kate ""
 
-# game/scripts/ash_events.rpy:9734
+# game/scripts/ash_events.rpy:9737
 translate pt_br katetalk_e6d647d6:
 
     # kate "Next riddle... I hug you, I protect you, I keep your body warm. But all you do is get me dirty and throw water on me, and I don't even have any arms... What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9736
+# game/scripts/ash_events.rpy:9739
 translate pt_br katetalk_bcfce2f3:
 
     # kate "I hug you, I protect you, I keep your body warm. But all you do is get me dirty and throw water on me, and I don't even have any arms... What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9740
+# game/scripts/ash_events.rpy:9743
 translate pt_br katetalk_693bdbec_1:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9742
+# game/scripts/ash_events.rpy:9745
 translate pt_br katetalk_f16ece6d:
 
     # kate "Jesus, no..."
     kate ""
 
-# game/scripts/ash_events.rpy:9745
+# game/scripts/ash_events.rpy:9748
 translate pt_br katetalk_4fa71bcb_4:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9748
+# game/scripts/ash_events.rpy:9751
 translate pt_br katetalk_a0ff079b_1:
 
     # kate "Nope..."
     kate ""
 
-# game/scripts/ash_events.rpy:9753
+# game/scripts/ash_events.rpy:9756
 translate pt_br katetalk_324a6d91:
 
     # kate "Next riddle... My tongue is long, my breath is strong, and yet I breed no strife. My voice you hear both far and near, and yet I have no life. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9755
+# game/scripts/ash_events.rpy:9758
 translate pt_br katetalk_43f44d1a:
 
     # kate "My tongue is long, my breath is strong, and yet I breed no strife. My voice you hear both far and near, and yet I have no life. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9757
+# game/scripts/ash_events.rpy:9760
 translate pt_br katetalk_b04db051_2:
 
     # kate "No."
     kate ""
 
-# game/scripts/ash_events.rpy:9760
+# game/scripts/ash_events.rpy:9763
 translate pt_br katetalk_b04db051_3:
 
     # kate "No."
     kate ""
 
-# game/scripts/ash_events.rpy:9763
+# game/scripts/ash_events.rpy:9766
 translate pt_br katetalk_8e8b1a1d_3:
 
     # kate "Nope."
     kate ""
 
-# game/scripts/ash_events.rpy:9768
+# game/scripts/ash_events.rpy:9771
 translate pt_br katetalk_693bdbec_2:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9771
+# game/scripts/ash_events.rpy:9774
 translate pt_br katetalk_7cd99d48_2:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9774
+# game/scripts/ash_events.rpy:9777
 translate pt_br katetalk_8e8b1a1d_4:
 
     # kate "Nope."
     kate ""
 
-# game/scripts/ash_events.rpy:9777
+# game/scripts/ash_events.rpy:9780
 translate pt_br katetalk_b04db051_4:
 
     # kate "No."
     kate ""
 
-# game/scripts/ash_events.rpy:9782
+# game/scripts/ash_events.rpy:9785
 translate pt_br katetalk_37595ce9:
 
     # kate "Another one of the hardest I have, good luck..."
     kate ""
 
-# game/scripts/ash_events.rpy:9783
+# game/scripts/ash_events.rpy:9786
 translate pt_br katetalk_2f65eacb:
 
     # kate "What is seen directly before the end of January and February that can’t be seen at the beginning of either month?"
     kate ""
 
-# game/scripts/ash_events.rpy:9790
+# game/scripts/ash_events.rpy:9793
 translate pt_br katetalk_80e74db5:
 
     # kate "Correct! I'm impressed. R can also be seen in the middle of March and April."
     kate ""
 
-# game/scripts/ash_events.rpy:9793
+# game/scripts/ash_events.rpy:9796
 translate pt_br katetalk_9982491b_1:
 
     # kate "Wrong. Come back to me when you think you have the answer."
     kate ""
 
-# game/scripts/ash_events.rpy:9798
+# game/scripts/ash_events.rpy:9801
 translate pt_br katetalk_e52d0d62:
 
     # kate "Riddle me this..."
     kate ""
 
-# game/scripts/ash_events.rpy:9799
+# game/scripts/ash_events.rpy:9802
 translate pt_br katetalk_995fa949:
 
     # kate "Every night I'm told what to do, every morning I do what I'm told, yet I cannot escape your scold. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9801
+# game/scripts/ash_events.rpy:9804
 translate pt_br katetalk_fe896e70:
 
     # kate "Every night I'm told what to do, every morning I do what I'm told, yet I cannot escape your scold. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9803
+# game/scripts/ash_events.rpy:9806
 translate pt_br katetalk_8df8eddb:
 
     # kate "What? Oh... no."
     kate ""
 
-# game/scripts/ash_events.rpy:9806
+# game/scripts/ash_events.rpy:9809
 translate pt_br katetalk_4fa71bcb_5:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9810
+# game/scripts/ash_events.rpy:9813
 translate pt_br katetalk_693bdbec_3:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9813
+# game/scripts/ash_events.rpy:9816
 translate pt_br katetalk_5a0945b7:
 
     # kate "Um... no..."
     kate ""
 
-# game/scripts/ash_events.rpy:9816
+# game/scripts/ash_events.rpy:9819
 translate pt_br katetalk_7cd99d48_3:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9820
+# game/scripts/ash_events.rpy:9823
 translate pt_br katetalk_d8f6443c:
 
     # kate "Next riddle... With pointed fangs, I sit and wait. {w}With piercing force, I crunch out fate \n{w}Grabbing victims, proclaiming might. {w}Physically joining with a single bite. \n{w}What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9822
+# game/scripts/ash_events.rpy:9825
 translate pt_br katetalk_fe65aab1:
 
     # kate "With pointed fangs, I sit and wait. With piercing force, I crunch out fate \nGrabbing victims, proclaiming might. Physically joining with a single bite. \nWhat am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9824
+# game/scripts/ash_events.rpy:9827
 translate pt_br katetalk_28bc697f:
 
     # kate "I knew you would say that..."
     kate ""
 
-# game/scripts/ash_events.rpy:9825
+# game/scripts/ash_events.rpy:9828
 translate pt_br katetalk_785610f5:
 
     # kate "Wrong!"
     kate ""
 
-# game/scripts/ash_events.rpy:9828
+# game/scripts/ash_events.rpy:9831
 translate pt_br katetalk_4fa71bcb_6:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9831
+# game/scripts/ash_events.rpy:9834
 translate pt_br katetalk_7cd99d48_4:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9834
+# game/scripts/ash_events.rpy:9837
 translate pt_br katetalk_16e615b4:
 
     # kate "Incorrect"
     kate ""
 
-# game/scripts/ash_events.rpy:9838
+# game/scripts/ash_events.rpy:9841
 translate pt_br katetalk_678cff83:
 
     # kate "Correct! Good job, [name]. Don't stop now. Keep it going. You're doing amazing."
     kate ""
 
-# game/scripts/ash_events.rpy:9840
+# game/scripts/ash_events.rpy:9843
 translate pt_br katetalk_a2577d09:
 
     # kate "Am I doing this encouraging thing correctly?"
     kate ""
 
-# game/scripts/ash_events.rpy:9844
+# game/scripts/ash_events.rpy:9847
 translate pt_br katetalk_bf348de6:
 
     # kate "Next riddle... I can fill a house or fill your mouth, but you can never catch me in your hands. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9846
+# game/scripts/ash_events.rpy:9849
 translate pt_br katetalk_eada5d91:
 
     # kate "I can fill a house or fill your mouth, but you can never catch me in your hands. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9848
+# game/scripts/ash_events.rpy:9851
 translate pt_br katetalk_e414f8db:
 
     # kate "I suppose you've never cupped your hands before...? Wrong..."
     kate ""
 
-# game/scripts/ash_events.rpy:9851
+# game/scripts/ash_events.rpy:9854
 translate pt_br katetalk_4fa71bcb_7:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9854
+# game/scripts/ash_events.rpy:9857
 translate pt_br katetalk_7cd99d48_5:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9857
+# game/scripts/ash_events.rpy:9860
 translate pt_br katetalk_5015dd0d:
 
     # kate "Not the answer I'm looking for."
     kate ""
 
-# game/scripts/ash_events.rpy:9861
+# game/scripts/ash_events.rpy:9864
 translate pt_br katetalk_693bdbec_4:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9864
+# game/scripts/ash_events.rpy:9867
 translate pt_br katetalk_7cd99d48_6:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9868
+# game/scripts/ash_events.rpy:9871
 translate pt_br katetalk_cf0d4b9f:
 
     # kate "Next riddle... I drive men mad for the love of me. Easily beaten, never free. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9870
+# game/scripts/ash_events.rpy:9873
 translate pt_br katetalk_b6dbbb30:
 
     # kate "I drive men mad for the love of me. Easily beaten, never free. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9872
+# game/scripts/ash_events.rpy:9875
 translate pt_br katetalk_9bdc4f51:
 
     # kate "Urgh, no..."
     kate ""
 
-# game/scripts/ash_events.rpy:9876
+# game/scripts/ash_events.rpy:9879
 translate pt_br katetalk_693bdbec_5:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9879
+# game/scripts/ash_events.rpy:9882
 translate pt_br katetalk_7cd99d48_7:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9882
+# game/scripts/ash_events.rpy:9885
 translate pt_br katetalk_4fa71bcb_8:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9885
+# game/scripts/ash_events.rpy:9888
 translate pt_br katetalk_16e615b4_1:
 
     # kate "Incorrect"
     kate ""
 
-# game/scripts/ash_events.rpy:9889
+# game/scripts/ash_events.rpy:9892
 translate pt_br katetalk_0d5b60aa:
 
     # kate "Next riddle... On Earth I am dead, though I live on the moon. {w}I am in no crater, but I'm in every bloom. {w}I cannot move on my own, but I'm in each room."
     kate ""
 
-# game/scripts/ash_events.rpy:9890
+# game/scripts/ash_events.rpy:9893
 translate pt_br katetalk_1260eae6:
 
     # kate "What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9897
+# game/scripts/ash_events.rpy:9900
 translate pt_br katetalk_4f17c1ac:
 
     # kate "Correct! Was that too easy? Hm, I think you're catching on..."
     kate ""
 
-# game/scripts/ash_events.rpy:9900
+# game/scripts/ash_events.rpy:9903
 translate pt_br katetalk_9982491b_2:
 
     # kate "Wrong. Come back to me when you think you have the answer."
     kate ""
 
-# game/scripts/ash_events.rpy:9904
+# game/scripts/ash_events.rpy:9907
 translate pt_br katetalk_27bec5c8:
 
     # kate "On to the next... I have no locks, keys, or lids, yet inside a golden treasure is hid. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9906
+# game/scripts/ash_events.rpy:9909
 translate pt_br katetalk_a5344bf8:
 
     # kate "I have no locks, keys, or lids, yet inside a golden treasure is hid. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9908
+# game/scripts/ash_events.rpy:9911
 translate pt_br katetalk_422f8fdf:
 
     # kate "Sorry, not the answer I was looking for."
     kate ""
 
-# game/scripts/ash_events.rpy:9912
+# game/scripts/ash_events.rpy:9915
 translate pt_br katetalk_693bdbec_6:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9915
+# game/scripts/ash_events.rpy:9918
 translate pt_br katetalk_ecab1346:
 
     # kate "Not the answer I was looking for..."
     kate ""
 
-# game/scripts/ash_events.rpy:9918
+# game/scripts/ash_events.rpy:9921
 translate pt_br katetalk_83a4dcab:
 
     # kate "A banana may be yellow on the {i}outside{/i}... try harder next time."
     kate ""
 
-# game/scripts/ash_events.rpy:9921
+# game/scripts/ash_events.rpy:9924
 translate pt_br katetalk_7cd99d48_8:
 
     # kate "Incorrect."
     kate ""
 
-# game/scripts/ash_events.rpy:9925
+# game/scripts/ash_events.rpy:9928
 translate pt_br katetalk_febcca75:
 
     # kate "This one should be easy... What breathes, consumes, and grows, but was never alive?"
     kate ""
 
-# game/scripts/ash_events.rpy:9927
+# game/scripts/ash_events.rpy:9930
 translate pt_br katetalk_f0fae304:
 
     # kate "What breathes, consumes, and grows, but was never alive?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9929
+# game/scripts/ash_events.rpy:9932
 translate pt_br katetalk_f4a135e2_1:
 
     # kate "Wrong..."
     kate ""
 
-# game/scripts/ash_events.rpy:9932
+# game/scripts/ash_events.rpy:9935
 translate pt_br katetalk_c872ee5e:
 
     # kate "A city does not breathe..."
     kate ""
 
-# game/scripts/ash_events.rpy:9935
+# game/scripts/ash_events.rpy:9938
 translate pt_br katetalk_b7ceb691:
 
     # kate "You realize there is no oxygen in space...?"
     kate ""
 
-# game/scripts/ash_events.rpy:9938
+# game/scripts/ash_events.rpy:9941
 translate pt_br katetalk_52313ddc:
 
     # kate "Sorry, no..."
     kate ""
 
-# game/scripts/ash_events.rpy:9942
+# game/scripts/ash_events.rpy:9945
 translate pt_br katetalk_693bdbec_7:
 
     # kate "Correct!"
     kate ""
 
-# game/scripts/ash_events.rpy:9946
+# game/scripts/ash_events.rpy:9949
 translate pt_br katetalk_1c256d91:
 
     # kate "Good luck... The poor have it, and the rich want it, yet both will die when they see it. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9948
+# game/scripts/ash_events.rpy:9951
 translate pt_br katetalk_26149a63:
 
     # kate "The poor have it, and the rich want it, yet both will die when they see it. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9950
+# game/scripts/ash_events.rpy:9953
 translate pt_br katetalk_fa9de764:
 
     # kate "Hah, not the answer I was looking for though..."
     kate ""
 
-# game/scripts/ash_events.rpy:9953
+# game/scripts/ash_events.rpy:9956
 translate pt_br katetalk_5a9fc89a:
 
     # kate "Funny, but no... both have hearts otherwise they would not be alive..."
     kate ""
 
-# game/scripts/ash_events.rpy:9956
+# game/scripts/ash_events.rpy:9959
 translate pt_br katetalk_fb7851c9:
 
     # kate "All types of people have compassion, though you may see it less in the ultra wealthy... Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9959
+# game/scripts/ash_events.rpy:9962
 translate pt_br katetalk_4fa71bcb_9:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9964
+# game/scripts/ash_events.rpy:9967
 translate pt_br katetalk_e9290bd6:
 
     # kate "Correct, I was talking about nothing... I thought I might pull a double reversal. Was it entertaining?"
     kate ""
 
-# game/scripts/ash_events.rpy:9967
+# game/scripts/ash_events.rpy:9970
 translate pt_br katetalk_9816afcc:
 
     # kate "Good luck... Passed from father to son and shared between the family, it is important beyond question, yet they use it the least. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9969
+# game/scripts/ash_events.rpy:9972
 translate pt_br katetalk_874bc0e6:
 
     # kate "Passed from father to son and shared between the family, it is important beyond question, yet they use it the least. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9971
+# game/scripts/ash_events.rpy:9974
 translate pt_br katetalk_9881f42f:
 
     # kate "What? No..."
     kate ""
 
-# game/scripts/ash_events.rpy:9976
+# game/scripts/ash_events.rpy:9979
 translate pt_br katetalk_d2752506:
 
     # kate "Correct. A family name is very important, yet the family uses that name the least, prefering to call each other titles such as 'Dad' or by their first name."
     kate ""
 
-# game/scripts/ash_events.rpy:9978
+# game/scripts/ash_events.rpy:9981
 translate pt_br katetalk_52313ddc_1:
 
     # kate "Sorry, no..."
     kate ""
 
-# game/scripts/ash_events.rpy:9981
+# game/scripts/ash_events.rpy:9984
 translate pt_br katetalk_4fa71bcb_10:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:9984
+# game/scripts/ash_events.rpy:9987
 translate pt_br katetalk_35deade0:
 
     # kate "I'm afraid not..."
     kate ""
 
-# game/scripts/ash_events.rpy:9988
+# game/scripts/ash_events.rpy:9991
 translate pt_br katetalk_ac73b242:
 
     # kate "Next riddle... Never resting, never still. Moving silently from hill to hill. In the reflection at a lake, around the corner when you wake. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:9990
+# game/scripts/ash_events.rpy:9993
 translate pt_br katetalk_bf39e47b:
 
     # kate "Never resting, never still. Moving silently from hill to hill. In the reflection at a lake, around the corner when you wake. What am I?" nointeract
     kate "" nointeract
 
-# game/scripts/ash_events.rpy:9992
+# game/scripts/ash_events.rpy:9995
 translate pt_br katetalk_660541dd:
 
     # kate "Ha. Ha. Come back when you're serious..."
     kate ""
 
-# game/scripts/ash_events.rpy:9993
+# game/scripts/ash_events.rpy:9996
 translate pt_br katetalk_8ad300ad:
 
     # c "It's just a game..."
     c ""
 
-# game/scripts/ash_events.rpy:9994
+# game/scripts/ash_events.rpy:9997
 translate pt_br katetalk_c5b7dc86:
 
     # kate "A game? Or a test?"
     kate ""
 
-# game/scripts/ash_events.rpy:9997
+# game/scripts/ash_events.rpy:10000
 translate pt_br katetalk_52313ddc_2:
 
     # kate "Sorry, no..."
     kate ""
 
-# game/scripts/ash_events.rpy:10000
+# game/scripts/ash_events.rpy:10003
 translate pt_br katetalk_35deade0_1:
 
     # kate "I'm afraid not..."
     kate ""
 
-# game/scripts/ash_events.rpy:10003
+# game/scripts/ash_events.rpy:10006
 translate pt_br katetalk_4fa71bcb_11:
 
     # kate "Wrong."
     kate ""
 
-# game/scripts/ash_events.rpy:10008
+# game/scripts/ash_events.rpy:10011
 translate pt_br katetalk_66fd9ada:
 
     # kate "That's right. You're doing good, [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:10010
+# game/scripts/ash_events.rpy:10013
 translate pt_br katetalk_acc1115f:
 
     # kate "Oh, I hope you're okay..."
     kate ""
 
-# game/scripts/ash_events.rpy:10011
+# game/scripts/ash_events.rpy:10014
 translate pt_br katetalk_95dcb21d:
 
     # kate "Wrong, though..."
     kate ""
 
-# game/scripts/ash_events.rpy:10016
+# game/scripts/ash_events.rpy:10019
 translate pt_br katetalk_40476927:
 
     # kate "Good luck... another one of my hardest."
     kate ""
 
-# game/scripts/ash_events.rpy:10017
+# game/scripts/ash_events.rpy:10020
 translate pt_br katetalk_d8b381aa:
 
     # kate "With thieves, I consort... the vilest, in short. {w}I'm quite at ease in depravity, yet all divines need me. {w}Savants couldn't lose me... for I am the center of gravity. What am I?"
     kate ""
 
-# game/scripts/ash_events.rpy:10024
+# game/scripts/ash_events.rpy:10027
 translate pt_br katetalk_6bb1fc9f:
 
     # kate "Congratulations! You've finished all my riddles."
     kate ""
 
-# game/scripts/ash_events.rpy:10025
+# game/scripts/ash_events.rpy:10028
 translate pt_br katetalk_8e29a56d:
 
     # c "Really? What do I win?"
     c ""
 
-# game/scripts/ash_events.rpy:10026
+# game/scripts/ash_events.rpy:10029
 translate pt_br katetalk_1d93a601:
 
     # kate "Knowledge."
     kate ""
 
-# game/scripts/ash_events.rpy:10027
+# game/scripts/ash_events.rpy:10030
 translate pt_br katetalk_f8c34c2f:
 
     # c "Knowledge? Are you kidding?"
     c ""
 
-# game/scripts/ash_events.rpy:10028
+# game/scripts/ash_events.rpy:10031
 translate pt_br katetalk_0c8b2af6:
 
     # kate "Use it wisely, and when the time comes..."
     kate ""
 
-# game/scripts/ash_events.rpy:10033
+# game/scripts/ash_events.rpy:10036
 translate pt_br katetalk_9982491b_3:
 
     # kate "Wrong. Come back to me when you think you have the answer."
     kate ""
 
-# game/scripts/ash_events.rpy:10037
+# game/scripts/ash_events.rpy:10040
 translate pt_br katetalk_d8203c67:
 
     # kate "[name], hello. Can I help you with anything?"
     kate ""
 
-# game/scripts/ash_events.rpy:10044
+# game/scripts/ash_events.rpy:10047
 translate pt_br katetalk_f353bd10:
 
     # kate "Well, well, well... you figured it out! The biggest riddle of them all. One I didn't even tell you existed..."
     kate ""
 
-# game/scripts/ash_events.rpy:10045
+# game/scripts/ash_events.rpy:10048
 translate pt_br katetalk_c3b5d7e3:
 
     # c "Why 'vore'?"
     c ""
 
-# game/scripts/ash_events.rpy:10046
+# game/scripts/ash_events.rpy:10049
 translate pt_br katetalk_a5ef55b7:
 
     # kate "I needed a word that was completely unguessable, and one that was short enough to be dispersed within all my riddles."
     kate ""
 
-# game/scripts/ash_events.rpy:10047
+# game/scripts/ash_events.rpy:10050
 translate pt_br katetalk_f94a0d25:
 
     # kate "What can I say? I'm very impressed with your intuition. Riddles have always been a bit hard for me, and I like to do research for my work, which takes time, and... well I usually lose at these sort of games. I prefer algorithm to nuanced riddles..."
     kate ""
 
-# game/scripts/ash_events.rpy:10049
+# game/scripts/ash_events.rpy:10052
 translate pt_br katetalk_b11e4d3b:
 
     # kate "You've asked about a reward multiple times. I must admit, a reward was not something I had in mind. But... perhaps we can do something that benefits us both?"
     kate ""
 
-# game/scripts/ash_events.rpy:10051
+# game/scripts/ash_events.rpy:10054
 translate pt_br katetalk_5197a743:
 
     # kate "I can reward you with... a footjob, right here. If you want..."
     kate ""
 
-# game/scripts/ash_events.rpy:10052
+# game/scripts/ash_events.rpy:10055
 translate pt_br katetalk_d8a44682:
 
     # kate "That's not something I've actually done before, and I'm very curious how it feels, both for me and for you. I mean... that is if you want to take your cock out in the middle of our class. It might be embarrassing for you, but not for me."
     kate ""
 
-# game/scripts/ash_events.rpy:10053
+# game/scripts/ash_events.rpy:10056
 translate pt_br katetalk_bd3e8098:
 
     # c "Are you saying this is purely for research?"
     c ""
 
-# game/scripts/ash_events.rpy:10054
+# game/scripts/ash_events.rpy:10057
 translate pt_br katetalk_cf61af7d:
 
     # kate "Until I'm interested in finding a partner for life, everything is research. And of course, this is your reward."
     kate ""
 
-# game/scripts/ash_events.rpy:10057
+# game/scripts/ash_events.rpy:10060
 translate pt_br katetalk_eb384891:
 
     # kate "Great, you have two minutes. Then I stop."
     kate ""
 
-# game/scripts/ash_events.rpy:10058
+# game/scripts/ash_events.rpy:10061
 translate pt_br katetalk_4e331599:
 
     # c "What? Why do I have a time limit?"
     c ""
 
-# game/scripts/ash_events.rpy:10059
+# game/scripts/ash_events.rpy:10062
 translate pt_br katetalk_b485f6ab:
 
     # kate "I will not risk my entire future by getting suspended over some boy... our teacher is on break right now, but that is only temporary."
     kate ""
 
-# game/scripts/ash_events.rpy:10060
+# game/scripts/ash_events.rpy:10063
 translate pt_br katetalk_0ff56e9f:
 
     # kate "Plus, if you don't want Ashley to find out, you had better be quick and quiet... I certainly wouldn't want to awaken the beast."
     kate ""
 
-# game/scripts/ash_events.rpy:10061
+# game/scripts/ash_events.rpy:10064
 translate pt_br katetalk_5e80b5ce:
 
     # kate "Now, let us begin. I look forward to the result..."
     kate ""
 
-# game/scripts/ash_events.rpy:10065
+# game/scripts/ash_events.rpy:10068
 translate pt_br katetalk_72843db1:
 
     # kate "I suppose I miscalculated... I thought that was something you would be interest in, sorry. Now I know."
     kate ""
 
-# game/scripts/ash_events.rpy:10070
+# game/scripts/ash_events.rpy:10073
 translate pt_br katetalk_78327efb:
 
     # kate "Come on, you already know the answer. Just don't look at things backwards..."
     kate ""
 
-# game/scripts/ash_events.rpy:10110
+# game/scripts/ash_events.rpy:10113
 translate pt_br katetalk_02ad1dff:
 
     # kate "Hm? Oh, Hello [name]."
     kate ""
 
-# game/scripts/ash_events.rpy:10111
+# game/scripts/ash_events.rpy:10114
 translate pt_br katetalk_b167577b:
 
     # kate "If you don't mind, I'm trying to enjoy what little free time I have."
     kate ""
 
-# game/scripts/ash_events.rpy:10119
+# game/scripts/ash_events.rpy:10122
 translate pt_br ashschool4_842fd0f9:
 
     # f "You fucking bitch! You got us suspended!"
     f ""
 
-# game/scripts/ash_events.rpy:10120
+# game/scripts/ash_events.rpy:10123
 translate pt_br ashschool4_8606b948:
 
     # em "Urgh, fuck you! Starting next week, we're gone! Our Dad is so pissed at us, and it's your fault!"
     em ""
 
-# game/scripts/ash_events.rpy:10121
+# game/scripts/ash_events.rpy:10124
 translate pt_br ashschool4_3384fa63:
 
     # a "It's not my fault! You're the one that gave my boyfriend a handjob in class!"
     a ""
 
-# game/scripts/ash_events.rpy:10122
+# game/scripts/ash_events.rpy:10125
 translate pt_br ashschool4_f1e9155b:
 
     # em "Then I guess it's not our fault we sent everybody a picture of your pussy!"
     em ""
 
-# game/scripts/ash_events.rpy:10124
+# game/scripts/ash_events.rpy:10127
 translate pt_br ashschool4_573b4e38:
 
     # a "What!? How did you get a picture of my pussy!?"
     a ""
 
-# game/scripts/ash_events.rpy:10126
+# game/scripts/ash_events.rpy:10129
 translate pt_br ashschool4_b89fe5a6:
 
     # em "When you were bending over, I guess my phone slipped out and took a picture..."
     em ""
 
-# game/scripts/ash_events.rpy:10127
+# game/scripts/ash_events.rpy:10130
 translate pt_br ashschool4_e9b18167:
 
     # a "Fuck you Emma! You lactating cow bitch!"
     a ""
 
-# game/scripts/ash_events.rpy:10128
+# game/scripts/ash_events.rpy:10131
 translate pt_br ashschool4_a7b1ac37:
 
     # em "Fuck you! You got us suspended!"
     em ""
 
-# game/scripts/ash_events.rpy:10130
+# game/scripts/ash_events.rpy:10133
 translate pt_br ashschool4_19309693:
 
     # a "Why do you guys keep bullying me!? Why won't you stop!?"
     a ""
 
-# game/scripts/ash_events.rpy:10131
+# game/scripts/ash_events.rpy:10134
 translate pt_br ashschool4_c6e519d4:
 
     # f "Because you're so fucking annoying!"
     f ""
 
-# game/scripts/ash_events.rpy:10134
+# game/scripts/ash_events.rpy:10137
 translate pt_br ashschool4_e532c3b9:
 
     # f "Hey sis, I've got an idea..."
     f ""
 
-# game/scripts/ash_events.rpy:10136
+# game/scripts/ash_events.rpy:10139
 translate pt_br ashschool4_20c62bb7:
 
     # f "I've got an idea..."
     f ""
 
-# game/scripts/ash_events.rpy:10137
+# game/scripts/ash_events.rpy:10140
 translate pt_br ashschool4_e23314b3:
 
     # em "What's up?"
     em ""
 
-# game/scripts/ash_events.rpy:10138
+# game/scripts/ash_events.rpy:10141
 translate pt_br ashschool4_685dfad7:
 
     # f "What if Ashley fucked [name] right here!"
     f ""
 
-# game/scripts/ash_events.rpy:10139
+# game/scripts/ash_events.rpy:10142
 translate pt_br ashschool4_a7904190:
 
     # em "Why would she do that?"
     em ""
 
-# game/scripts/ash_events.rpy:10140
+# game/scripts/ash_events.rpy:10143
 translate pt_br ashschool4_ddb1109b:
 
     # f "Because I have more pictures!"
     f ""
 
-# game/scripts/ash_events.rpy:10142
+# game/scripts/ash_events.rpy:10145
 translate pt_br ashschool4_3d7fee5a:
 
     # em "Hahaha! Oh my god when did you get those?"
     em ""
 
-# game/scripts/ash_events.rpy:10143
+# game/scripts/ash_events.rpy:10146
 translate pt_br ashschool4_af1ec019:
 
     # a "Pictures? What pictures!?"
     a ""
 
-# game/scripts/ash_events.rpy:10145
+# game/scripts/ash_events.rpy:10148
 translate pt_br ashschool4_4ba87c17:
 
     # f "When you were in the restroom! I've got one of you peeing..."
     f ""
 
-# game/scripts/ash_events.rpy:10146
+# game/scripts/ash_events.rpy:10149
 translate pt_br ashschool4_408c22a9:
 
     # a "No! Delete it!"
     a ""
 
-# game/scripts/ash_events.rpy:10147
+# game/scripts/ash_events.rpy:10150
 translate pt_br ashschool4_d646c730:
 
     # f "No way! You're going to do what we say from now on!"
     f ""
 
-# game/scripts/ash_events.rpy:10148
+# game/scripts/ash_events.rpy:10151
 translate pt_br ashschool4_e4fa69bd:
 
     # a "If I fuck my boyfriend you'll just take more pictures!"
     a ""
 
-# game/scripts/ash_events.rpy:10149
+# game/scripts/ash_events.rpy:10152
 translate pt_br ashschool4_f3cd732b:
 
     # em "Sure, but we won't send those to anybody, or the pictures of you peeing if you fuck him!"
     em ""
 
-# game/scripts/ash_events.rpy:10150
+# game/scripts/ash_events.rpy:10153
 translate pt_br ashschool4_d538441a:
 
     # a "Why do you want to see us having sex so badly? You like him, don't you!?"
     a ""
 
-# game/scripts/ash_events.rpy:10151
+# game/scripts/ash_events.rpy:10154
 translate pt_br ashschool4_34a70bc9:
 
     # f "Shut up! It's for revenge. We want to see your virginity taken right here in class."
     f ""
 
-# game/scripts/ash_events.rpy:10152
+# game/scripts/ash_events.rpy:10155
 translate pt_br ashschool4_4d54aa4f:
 
     # a "I'm not a virgin! I've fucked him [ash_sex] times!"
     a ""
 
-# game/scripts/ash_events.rpy:10153
+# game/scripts/ash_events.rpy:10156
 translate pt_br ashschool4_b24733d5:
 
     # em "Bullshit."
     em ""
 
-# game/scripts/ash_events.rpy:10154
+# game/scripts/ash_events.rpy:10157
 translate pt_br ashschool4_716c1323:
 
     # f "I bet we got more action from him than you did. You're not even sexy... Is he really your boyfriend, or some paid actor?"
     f ""
 
-# game/scripts/ash_events.rpy:10156
+# game/scripts/ash_events.rpy:10159
 translate pt_br ashschool4_d6f2c718:
 
     # a "Fuck you! I can barely even afford the monorail ticket over here!"
     a ""
 
-# game/scripts/ash_events.rpy:10157
+# game/scripts/ash_events.rpy:10160
 translate pt_br ashschool4_01739aa0:
 
     # em "That's not a no..."
     em ""
 
-# game/scripts/ash_events.rpy:10158
+# game/scripts/ash_events.rpy:10161
 translate pt_br ashschool4_dd30b440:
 
     # a "FUCK YOU!"
     a ""
 
-# game/scripts/ash_events.rpy:10160
+# game/scripts/ash_events.rpy:10163
 translate pt_br ashschool4_79d6990c:
 
     # f "See? Told ya, she's just a poor virgin..."
     f ""
 
-# game/scripts/ash_events.rpy:10161
+# game/scripts/ash_events.rpy:10164
 translate pt_br ashschool4_a375460f:
 
     # em "Yeah, I guess we should post those pictures everywhere."
     em ""
 
-# game/scripts/ash_events.rpy:10163
+# game/scripts/ash_events.rpy:10166
 translate pt_br ashschool4_49e9baf4:
 
     # a "No! He's not even here! He-"
     a ""
 
-# game/scripts/ash_events.rpy:10165
+# game/scripts/ash_events.rpy:10168
 translate pt_br ashschool4_e94dc8cc:
 
     # a "[name]!?"
     a ""
 
-# game/scripts/ash_events.rpy:10166
+# game/scripts/ash_events.rpy:10169
 translate pt_br ashschool4_2e570fd0:
 
     # em "Well look who it is!"
     em ""
 
-# game/scripts/ash_events.rpy:10167
+# game/scripts/ash_events.rpy:10170
 translate pt_br ashschool4_40d4b282:
 
     # f "Your {i}'boyfriend'{/i} is here..."
     f ""
 
-# game/scripts/ash_events.rpy:10169
+# game/scripts/ash_events.rpy:10172
 translate pt_br ashschool4_79f3a123:
 
     # em "So what are you going to do?"
     em ""
 
-# game/scripts/ash_events.rpy:10170
+# game/scripts/ash_events.rpy:10173
 translate pt_br ashschool4_8ee858d1:
 
     # f "Fuck him? Or be shown off like a whore?"
     f ""
 
-# game/scripts/ash_events.rpy:10171
+# game/scripts/ash_events.rpy:10174
 translate pt_br ashschool4_4b143ad3:
 
     # c "You two really need to delete those pictures."
     c ""
 
-# game/scripts/ash_events.rpy:10172
+# game/scripts/ash_events.rpy:10175
 translate pt_br ashschool4_390a5594:
 
     # f "You can't make us..."
     f ""
 
-# game/scripts/ash_events.rpy:10173
+# game/scripts/ash_events.rpy:10176
 translate pt_br ashschool4_7c66e256:
 
     # em "Yeah, and if you try to lay a hand on us, we'll call the cops."
     em ""
 
-# game/scripts/ash_events.rpy:10174
+# game/scripts/ash_events.rpy:10177
 translate pt_br ashschool4_b82ee9cb:
 
     # a "Grrr..."
     a ""
 
-# game/scripts/ash_events.rpy:10175
+# game/scripts/ash_events.rpy:10178
 translate pt_br ashschool4_9a5bf987:
 
     # a "Just get your cock out [name]..."
     a ""
 
-# game/scripts/ash_events.rpy:10177
+# game/scripts/ash_events.rpy:10180
 translate pt_br ashschool4_f1579e4f:
 
     # f "She's going to do it!"
     f ""
 
-# game/scripts/ash_events.rpy:10178
+# game/scripts/ash_events.rpy:10181
 translate pt_br ashschool4_1fdab200:
 
     # em "Hahaha! Oh my god!"
     em ""
 
-# game/scripts/ash_events.rpy:10180
+# game/scripts/ash_events.rpy:10183
 translate pt_br ashschool4_9be0027b:
 
     # a "Of course I'll do it! If it's with [name] I don't really care who sees..."
     a ""
 
-# game/scripts/ash_events.rpy:10181
+# game/scripts/ash_events.rpy:10184
 translate pt_br ashschool4_d8618ebd:
 
     # f "What a weirdo..."
     f ""
 
-# game/scripts/ash_events.rpy:10183
+# game/scripts/ash_events.rpy:10186
 translate pt_br ashschool4_a173fae1:
 
     # em "Oh my god, look! She's still not wearing panties!"
     em ""
 
-# game/scripts/ash_events.rpy:10184
+# game/scripts/ash_events.rpy:10187
 translate pt_br ashschool4_da7877f9:
 
     # a "They're annoying!"
     a ""
 
-# game/scripts/ash_events.rpy:10185
+# game/scripts/ash_events.rpy:10188
 translate pt_br ashschool4_b57a6e30:
 
     # f "What a slut..."
     f ""
 
-# game/scripts/ash_events.rpy:10186
+# game/scripts/ash_events.rpy:10189
 translate pt_br ashschool4_5f498e2e:
 
     # a "I'm not a slut!"
     a ""
 
-# game/scripts/ash_events.rpy:10188
+# game/scripts/ash_events.rpy:10191
 translate pt_br ashschool4_8bee2a3e:
 
     # a "[name] can you fuck me now? I want to prove to these bitches I'm not a virgin!"
     a ""
 
-# game/scripts/ash_events.rpy:10189
+# game/scripts/ash_events.rpy:10192
 translate pt_br ashschool4_3ea3750a:
 
     # em "Yeah go ahead [name]! We're waiting..."
     em ""
 
-# game/scripts/ash_events.rpy:10191
+# game/scripts/ash_events.rpy:10194
 translate pt_br ashschool4_9d41bcc6:
 
     # a "Ahnn!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:10192
+# game/scripts/ash_events.rpy:10195
 translate pt_br ashschool4_bd05cd96:
 
     # em "Oh my god, it's in!"
     em ""
 
-# game/scripts/ash_events.rpy:10193
+# game/scripts/ash_events.rpy:10196
 translate pt_br ashschool4_5c9a5822:
 
     # f "I bet she can't take it any deeper though..."
     f ""
 
-# game/scripts/ash_events.rpy:10194
+# game/scripts/ash_events.rpy:10197
 translate pt_br ashschool4_079ca6df:
 
     # a "Deeper [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10196
+# game/scripts/ash_events.rpy:10199
 translate pt_br ashschool4_e54e0bbd:
 
     # a "Ahh!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:10197
+# game/scripts/ash_events.rpy:10200
 translate pt_br ashschool4_71af8851:
 
     # f "Holy shit... it's really deep Emma..."
     f ""
 
-# game/scripts/ash_events.rpy:10198
+# game/scripts/ash_events.rpy:10201
 translate pt_br ashschool4_0e2b4f72:
 
     # em "Oh my god... She's not a virgin...?"
     em ""
 
-# game/scripts/ash_events.rpy:10199
+# game/scripts/ash_events.rpy:10202
 translate pt_br ashschool4_22a9b673:
 
     # a "Nnnn, go fast [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10201
+# game/scripts/ash_events.rpy:10204
 translate pt_br ashschool4_7180f777:
 
     # a "Ahhh!"
     a ""
 
-# game/scripts/ash_events.rpy:10202
+# game/scripts/ash_events.rpy:10205
 translate pt_br ashschool4_28734a18:
 
     # f "Oh my god they're fucking!"
     f ""
 
-# game/scripts/ash_events.rpy:10203
+# game/scripts/ash_events.rpy:10206
 translate pt_br ashschool4_af3b6f47:
 
     # em "That's hot..."
     em ""
 
-# game/scripts/ash_events.rpy:10204
+# game/scripts/ash_events.rpy:10207
 translate pt_br ashschool4_7436fa94:
 
     # f "Emma!"
     f ""
 
-# game/scripts/ash_events.rpy:10205
+# game/scripts/ash_events.rpy:10208
 translate pt_br ashschool4_dab948c6:
 
     # em "What...?"
     em ""
 
-# game/scripts/ash_events.rpy:10208
+# game/scripts/ash_events.rpy:10211
 translate pt_br ashschool4_f9b1a4df:
 
     # a "Ahhh! Hahhh! It feels so good!"
     a ""
 
-# game/scripts/ash_events.rpy:10209
+# game/scripts/ash_events.rpy:10212
 translate pt_br ashschool4_154d981f:
 
     # em "Really?"
     em ""
 
-# game/scripts/ash_events.rpy:10210
+# game/scripts/ash_events.rpy:10213
 translate pt_br ashschool4_a9bb3be3:
 
     # f "What do you mean really!?"
     f ""
 
-# game/scripts/ash_events.rpy:10211
+# game/scripts/ash_events.rpy:10214
 translate pt_br ashschool4_cf43210c:
 
     # em "S-Shut up!"
     em ""
 
-# game/scripts/ash_events.rpy:10212
+# game/scripts/ash_events.rpy:10215
 translate pt_br ashschool4_1f2fe1c0:
 
     # a "Mmmmmnnn!!! Fuck me!"
     a ""
 
-# game/scripts/ash_events.rpy:10213
+# game/scripts/ash_events.rpy:10216
 translate pt_br ashschool4_9ff5834c:
 
     # f "I've never seen one so big go inside someone that small... It doesn't hurt Ashley?"
     f ""
 
-# game/scripts/ash_events.rpy:10214
+# game/scripts/ash_events.rpy:10217
 translate pt_br ashschool4_40adddfb:
 
     # a "No! It feels gooooood!!!"
     a ""
 
-# game/scripts/ash_events.rpy:10215
+# game/scripts/ash_events.rpy:10218
 translate pt_br ashschool4_3fc653ce:
 
     # em "Wow..."
     em ""
 
-# game/scripts/ash_events.rpy:10216
+# game/scripts/ash_events.rpy:10219
 translate pt_br ashschool4_e34043a6:
 
     # f "It looks like she's going crazy..."
     f ""
 
-# game/scripts/ash_events.rpy:10217
+# game/scripts/ash_events.rpy:10220
 translate pt_br ashschool4_d8ec699c:
 
     # a "Ahh! Ahh!!! I am! I fucking LOVE it!!! FUCK ME HARDER! AHH!"
     a ""
 
-# game/scripts/ash_events.rpy:10218
+# game/scripts/ash_events.rpy:10221
 translate pt_br ashschool4_b305b534:
 
     # em "{size=-10}{i}I kind of want to know what it feels like...{/i}{/size}"
     em ""
 
-# game/scripts/ash_events.rpy:10219
+# game/scripts/ash_events.rpy:10222
 translate pt_br ashschool4_79f010d4:
 
     # f "What did you say?"
     f ""
 
-# game/scripts/ash_events.rpy:10220
+# game/scripts/ash_events.rpy:10223
 translate pt_br ashschool4_8da27feb:
 
     # em "Nothing! Shut up already!"
     em ""
 
-# game/scripts/ash_events.rpy:10221
+# game/scripts/ash_events.rpy:10224
 translate pt_br ashschool4_e9d7d0b7:
 
     # a "NNNNNN!!! He's going to cummm!!!"
     a ""
 
-# game/scripts/ash_events.rpy:10222
+# game/scripts/ash_events.rpy:10225
 translate pt_br ashschool4_9b9a52c4:
 
     # em "Already?"
     em ""
 
-# game/scripts/ash_events.rpy:10228
+# game/scripts/ash_events.rpy:10231
 translate pt_br ashschool4_34781ed3:
 
     # a "AHHHHHH!!! I'M BEING FILLED UPPP!!!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:10229
+# game/scripts/ash_events.rpy:10232
 translate pt_br ashschool4_c280c22e:
 
     # em "Oh my god!" with ssshake
     em "" with ssshake
 
-# game/scripts/ash_events.rpy:10230
+# game/scripts/ash_events.rpy:10233
 translate pt_br ashschool4_31b11392:
 
     # f "You came inside!?" with ssshake
     f "" with ssshake
 
-# game/scripts/ash_events.rpy:10231
+# game/scripts/ash_events.rpy:10234
 translate pt_br ashschool4_1856e637:
 
     # em "You could get her pregnant!"
     em ""
 
-# game/scripts/ash_events.rpy:10232
+# game/scripts/ash_events.rpy:10235
 translate pt_br ashschool4_6cc436da:
 
     # f "What the fuck!? You can't do that to her!"
     f ""
 
-# game/scripts/ash_events.rpy:10233
+# game/scripts/ash_events.rpy:10236
 translate pt_br ashschool4_8837ee80:
 
     # a "Ahhh! Hahhh... It's okay! I want babies!"
     a ""
 
-# game/scripts/ash_events.rpy:10234
+# game/scripts/ash_events.rpy:10237
 translate pt_br ashschool4_f8e0bb69:
 
     # em "Seriously? What a freak!"
     em ""
 
-# game/scripts/ash_events.rpy:10235
+# game/scripts/ash_events.rpy:10238
 translate pt_br ashschool4_9f41c5d3:
 
     # f "Oh my god!"
     f ""
 
-# game/scripts/ash_events.rpy:10239
+# game/scripts/ash_events.rpy:10242
 translate pt_br ashschool4_2a32b04c:
 
     # a "Ahhh! It's all over my butt!"
     a ""
 
-# game/scripts/ash_events.rpy:10240
+# game/scripts/ash_events.rpy:10243
 translate pt_br ashschool4_02fc6967:
 
     # em "Oh my god, Felicity look!"
     em ""
 
-# game/scripts/ash_events.rpy:10241
+# game/scripts/ash_events.rpy:10244
 translate pt_br ashschool4_616e0065:
 
     # f "I know! It's so much..."
     f ""
 
-# game/scripts/ash_events.rpy:10245
+# game/scripts/ash_events.rpy:10248
 translate pt_br ashschool4_271c94a5:
 
     # f "Wha..."
     f ""
 
-# game/scripts/ash_events.rpy:10246
+# game/scripts/ash_events.rpy:10249
 translate pt_br ashschool4_308dc76c:
 
     # f "WHAT THE FUCKING FUCK!? WHAT THE FUCK?"
     f ""
 
-# game/scripts/ash_events.rpy:10247
+# game/scripts/ash_events.rpy:10250
 translate pt_br ashschool4_a9701bd9:
 
     # em "Oh my god he came on you!"
     em ""
 
-# game/scripts/ash_events.rpy:10248
+# game/scripts/ash_events.rpy:10251
 translate pt_br ashschool4_9a7b3c08:
 
     # f "OH MY GOD!"
     f ""
 
-# game/scripts/ash_events.rpy:10251
+# game/scripts/ash_events.rpy:10254
 translate pt_br ashschool4_c81026c5:
 
     # em "What."
     em ""
 
-# game/scripts/ash_events.rpy:10252
+# game/scripts/ash_events.rpy:10255
 translate pt_br ashschool4_62fa346c:
 
     # em "WHAT!? WHAT THE FUCK!? DID YOU JUST CUM ON ME!?"
     em ""
 
-# game/scripts/ash_events.rpy:10253
+# game/scripts/ash_events.rpy:10256
 translate pt_br ashschool4_6129fd48:
 
     # f "Hahaha! Oh my god! He totally just came all over you!"
     f ""
 
-# game/scripts/ash_events.rpy:10254
+# game/scripts/ash_events.rpy:10257
 translate pt_br ashschool4_473b7e72:
 
     # em "SHUT UP FELICITY I KNOW!"
     em ""
 
-# game/scripts/ash_events.rpy:10255
+# game/scripts/ash_events.rpy:10258
 translate pt_br ashschool4_adfa4a92:
 
     # ms "What is going on in here!?"
     ms ""
 
-# game/scripts/ash_events.rpy:10256
+# game/scripts/ash_events.rpy:10259
 translate pt_br ashschool4_dbe4b6d6:
 
     # em "Oh shit!"
     em ""
 
-# game/scripts/ash_events.rpy:10257
+# game/scripts/ash_events.rpy:10260
 translate pt_br ashschool4_10ab13d4:
 
     # f "We're screwed!"
     f ""
 
-# game/scripts/ash_events.rpy:10259
+# game/scripts/ash_events.rpy:10262
 translate pt_br ashschool4_10298731:
 
     # em "[name] and Ashley were having sex!"
     em ""
 
-# game/scripts/ash_events.rpy:10260
+# game/scripts/ash_events.rpy:10263
 translate pt_br ashschool4_60fa6bfd:
 
     # f "Yeah! We were just coming to tell you!"
     f ""
 
-# game/scripts/ash_events.rpy:10261
+# game/scripts/ash_events.rpy:10264
 translate pt_br ashschool4_f2575891:
 
     # ms "Get out of here before I extend your suspension! Now!"
     ms ""
 
-# game/scripts/ash_events.rpy:10262
+# game/scripts/ash_events.rpy:10265
 translate pt_br ashschool4_d6bee91c:
 
     # em "Y-Yeah! Good idea! Let's go Felicity!"
     em ""
 
-# game/scripts/ash_events.rpy:10264
+# game/scripts/ash_events.rpy:10267
 translate pt_br ashschool4_263f9818:
 
     # ms "Ashley, what is going on!?"
     ms ""
 
-# game/scripts/ash_events.rpy:10265
+# game/scripts/ash_events.rpy:10268
 translate pt_br ashschool4_592408ac:
 
     # a "I was just getting fucked silly~"
     a ""
 
-# game/scripts/ash_events.rpy:10266
+# game/scripts/ash_events.rpy:10269
 translate pt_br ashschool4_412d83e7:
 
     # ms "Then you're suspended! Starting tomorrow, you're out of here!"
     ms ""
 
-# game/scripts/ash_events.rpy:10267
+# game/scripts/ash_events.rpy:10270
 translate pt_br ashschool4_6d213121:
 
     # a "Ahh... okayyy~~~"
     a ""
 
-# game/scripts/ash_events.rpy:10269
+# game/scripts/ash_events.rpy:10272
 translate pt_br ashschool4_fff1dc77:
 
     # ms "As for you Mr. [name], I better not see you ever again or I'm calling the police! Out!"
     ms ""
 
-# game/scripts/ash_events.rpy:10271
+# game/scripts/ash_events.rpy:10274
 translate pt_br ashschool4_614c42e8:
 
     # "You and Ashley hop in your car and drive back to the hotel."
     ""
 
-# game/scripts/ash_events.rpy:10272
+# game/scripts/ash_events.rpy:10275
 translate pt_br ashschool4_d4c029fd:
 
     # "Without saying another word, Ashley runs into her room and locks the door..."
     ""
 
-# game/scripts/ash_events.rpy:10292
+# game/scripts/ash_events.rpy:10295
 translate pt_br ashschool3_a9682487:
 
     # f "Hey buddy, where do you think you're going?"
     f ""
 
-# game/scripts/ash_events.rpy:10293
+# game/scripts/ash_events.rpy:10296
 translate pt_br ashschool3_1f6f1320:
 
     # c "I'm looking for Ashley."
     c ""
 
-# game/scripts/ash_events.rpy:10295
+# game/scripts/ash_events.rpy:10298
 translate pt_br ashschool3_fe903d6d:
 
     # em "Oh really? We've got some information on that. Show him sis..."
     em ""
 
-# game/scripts/ash_events.rpy:10297
+# game/scripts/ash_events.rpy:10300
 translate pt_br ashschool3_ef287d66:
 
     # f "I think you'll enjoy this... Take a look!"
     f ""
 
-# game/scripts/ash_events.rpy:10299
+# game/scripts/ash_events.rpy:10302
 translate pt_br ashschool3_9ae63077:
 
     # f "Looks like she wasn't wearing panties to school today, so I snapped this amazing pic!"
     f ""
 
-# game/scripts/ash_events.rpy:10303
+# game/scripts/ash_events.rpy:10306
 translate pt_br ashschool3_47094c79:
 
     # em "Oh really? We've got some information on that. Show him..."
     em ""
 
-# game/scripts/ash_events.rpy:10305
+# game/scripts/ash_events.rpy:10308
 translate pt_br ashschool3_ef287d66_1:
 
     # f "I think you'll enjoy this... Take a look!"
     f ""
 
-# game/scripts/ash_events.rpy:10307
+# game/scripts/ash_events.rpy:10310
 translate pt_br ashschool3_9ae63077_1:
 
     # f "Looks like she wasn't wearing panties to school today, so I snapped this amazing pic!"
     f ""
 
-# game/scripts/ash_events.rpy:10311
+# game/scripts/ash_events.rpy:10314
 translate pt_br ashschool3_d3f1918e:
 
     # f "It would absolutely devastate Ashley if this got out..."
     f ""
 
-# game/scripts/ash_events.rpy:10312
+# game/scripts/ash_events.rpy:10315
 translate pt_br ashschool3_f9e72f3f:
 
     # c "*sigh* what do you want?"
     c ""
 
-# game/scripts/ash_events.rpy:10314
+# game/scripts/ash_events.rpy:10317
 translate pt_br ashschool3_2bd0e800:
 
     # f "We know it was you who came on my twin's chair the other day..."
     f ""
 
-# game/scripts/ash_events.rpy:10316
+# game/scripts/ash_events.rpy:10319
 translate pt_br ashschool3_065ef89f:
 
     # f "We know it was you who came on my clone's chair the other day..."
     f ""
 
-# game/scripts/ash_events.rpy:10317
+# game/scripts/ash_events.rpy:10320
 translate pt_br ashschool3_86d31938:
 
     # c "Clone?"
     c ""
 
-# game/scripts/ash_events.rpy:10318
+# game/scripts/ash_events.rpy:10321
 translate pt_br ashschool3_787a7a1f:
 
     # em "Don't question it."
     em ""
 
-# game/scripts/ash_events.rpy:10319
+# game/scripts/ash_events.rpy:10322
 translate pt_br ashschool3_648fbf8a:
 
     # f "Ashley probably made you, so we don't really blame you for it... But we want to get back at her!"
     f ""
 
-# game/scripts/ash_events.rpy:10321
+# game/scripts/ash_events.rpy:10324
 translate pt_br ashschool3_6dfd549d:
 
     # em "My twin came up with the idea, we're going to make you cum in her water!"
     em ""
 
-# game/scripts/ash_events.rpy:10323
+# game/scripts/ash_events.rpy:10326
 translate pt_br ashschool3_084af4ca:
 
     # em "My clone came up with the idea, we're going to make you cum in her water!"
     em ""
 
-# game/scripts/ash_events.rpy:10324
+# game/scripts/ash_events.rpy:10327
 translate pt_br ashschool3_a03c5bb1:
 
     # f "She has to eat here because she's always busy catching up... And she's using the restroom right now, so we gotta hurry!"
     f ""
 
-# game/scripts/ash_events.rpy:10325
+# game/scripts/ash_events.rpy:10328
 translate pt_br ashschool3_0dc81d3e:
 
     # c "I'm not doing that."
     c ""
 
-# game/scripts/ash_events.rpy:10326
+# game/scripts/ash_events.rpy:10329
 translate pt_br ashschool3_c8ebfa7f:
 
     # em "Fine. Then her pussy will be posted everywhere. Every student will see your little girlfriend's pussy!"
     em ""
 
-# game/scripts/ash_events.rpy:10327
+# game/scripts/ash_events.rpy:10330
 translate pt_br ashschool3_dee4c791:
 
     # em "Take your top off, he won't refuse once he's hard."
     em ""
 
-# game/scripts/ash_events.rpy:10329
+# game/scripts/ash_events.rpy:10332
 translate pt_br ashschool3_460548d6:
 
     # f "What? Why do I have to do it? You've got the big tits!"
     f ""
 
-# game/scripts/ash_events.rpy:10330
+# game/scripts/ash_events.rpy:10333
 translate pt_br ashschool3_2835c22e:
 
     # em "So? You came up with the idea! You do it!"
     em ""
 
-# game/scripts/ash_events.rpy:10331
+# game/scripts/ash_events.rpy:10334
 translate pt_br ashschool3_3ee35e7c:
 
     # f "I'm not doing it..."
     f ""
 
-# game/scripts/ash_events.rpy:10332
+# game/scripts/ash_events.rpy:10335
 translate pt_br ashschool3_cf107d19:
 
     # em "You're such a bitch! Fine!"
     em ""
 
-# game/scripts/ash_events.rpy:10336
+# game/scripts/ash_events.rpy:10339
 translate pt_br ashschool3_ff023922:
 
     # em "There! They're out! Are you hard yet pervert?"
     em ""
 
-# game/scripts/ash_events.rpy:10337
+# game/scripts/ash_events.rpy:10340
 translate pt_br ashschool3_8b77d33d:
 
     # c "How am I the pervert?"
     c ""
 
-# game/scripts/ash_events.rpy:10338
+# game/scripts/ash_events.rpy:10341
 translate pt_br ashschool3_25b0a5e0:
 
     # em "Shut up! Do you want everyone to see Ashley's pussy or not!?"
     em ""
 
-# game/scripts/ash_events.rpy:10339
+# game/scripts/ash_events.rpy:10342
 translate pt_br ashschool3_733431c1:
 
     # c "No..."
     c ""
 
-# game/scripts/ash_events.rpy:10340
+# game/scripts/ash_events.rpy:10343
 translate pt_br ashschool3_a4e4055b:
 
     # em "Good! Then get your cock out!"
     em ""
 
-# game/scripts/ash_events.rpy:10342
+# game/scripts/ash_events.rpy:10345
 translate pt_br ashschool3_455f77cf:
 
     # f "I'll give him the handjob, you get on the ground and let him stare at your tits."
     f ""
 
-# game/scripts/ash_events.rpy:10343
+# game/scripts/ash_events.rpy:10346
 translate pt_br ashschool3_ae3bdc1a:
 
     # em "I don't want him looking at me! It's suppose to be a reach around!"
     em ""
 
-# game/scripts/ash_events.rpy:10344
+# game/scripts/ash_events.rpy:10347
 translate pt_br ashschool3_f52815f2:
 
     # f "And it is! For me... Someone has to hold her cup."
     f ""
 
-# game/scripts/ash_events.rpy:10345
+# game/scripts/ash_events.rpy:10348
 translate pt_br ashschool3_3508794e:
 
     # em "You're such a bitch! Why do I always ending up doing whatever you want?"
     em ""
 
-# game/scripts/ash_events.rpy:10346
+# game/scripts/ash_events.rpy:10349
 translate pt_br ashschool3_46e32708:
 
     # f "Because you love me."
     f ""
 
-# game/scripts/ash_events.rpy:10347
+# game/scripts/ash_events.rpy:10350
 translate pt_br ashschool3_5e666e3a:
 
     # em "Urgh! Fine!"
     em ""
 
-# game/scripts/ash_events.rpy:10348
+# game/scripts/ash_events.rpy:10351
 translate pt_br ashschool3_fd2b3511:
 
     # "You three walk in to the classroom. It's empty except for you three."
     ""
 
-# game/scripts/ash_events.rpy:10350
+# game/scripts/ash_events.rpy:10353
 translate pt_br ashschool3_81ff6390:
 
     # em "Holy shit... it's massive..."
     em ""
 
-# game/scripts/ash_events.rpy:10351
+# game/scripts/ash_events.rpy:10355
 translate pt_br ashschool3_87ede96c:
 
     # f "What the fuck? You actually fuck Ashley with that thing?"
     f ""
 
-# game/scripts/ash_events.rpy:10352
+# game/scripts/ash_events.rpy:10356
 translate pt_br ashschool3_63088852:
 
     # em "There's no way they've fucked yet. Ashley couldn't take that thing inside her."
     em ""
 
-# game/scripts/ash_events.rpy:10353
+# game/scripts/ash_events.rpy:10357
 translate pt_br ashschool3_c66aeb32:
 
     # f "Just hurry up and make him cum!"
     f ""
 
-# game/scripts/ash_events.rpy:10354
+# game/scripts/ash_events.rpy:10358
 translate pt_br ashschool3_b1821e6a:
 
     # em "Okay, get the cup ready..."
     em ""
 
-# game/scripts/ash_events.rpy:10356
+# game/scripts/ash_events.rpy:10360
 translate pt_br ashschool3_273bf995:
 
     # f "Yeah, yeah, hurry up! We only have like 5 minutes!"
     f ""
 
-# game/scripts/ash_events.rpy:10358
+# game/scripts/ash_events.rpy:10362
 translate pt_br ashschool3_7b169c5a:
 
     # f "Eww, it feels weird..."
     f ""
 
-# game/scripts/ash_events.rpy:10359
+# game/scripts/ash_events.rpy:10363
 translate pt_br ashschool3_d8263e9f:
 
     # em "You've given handjobs before, don't act like it's your first time!"
     em ""
 
-# game/scripts/ash_events.rpy:10360
+# game/scripts/ash_events.rpy:10364
 translate pt_br ashschool3_6fb33791:
 
     # f "None this big though!"
     f ""
 
-# game/scripts/ash_events.rpy:10363
+# game/scripts/ash_events.rpy:10367
 translate pt_br ashschool3_2515c537:
 
     # em "What are you doing? You're supposed to cum! Stop enjoying it!"
     em ""
 
-# game/scripts/ash_events.rpy:10365
+# game/scripts/ash_events.rpy:10369
 translate pt_br ashschool3_5046b75c:
 
     # f "Are you saying I'm giving him a good handjob sis?"
     f ""
 
-# game/scripts/ash_events.rpy:10367
+# game/scripts/ash_events.rpy:10371
 translate pt_br ashschool3_9a0a627d:
 
     # f "Are you saying I'm giving him a good handjob?"
     f ""
 
-# game/scripts/ash_events.rpy:10368
+# game/scripts/ash_events.rpy:10372
 translate pt_br ashschool3_37659eb9:
 
     # em "Whatever! You know I've gotten more boys to cum than you."
     em ""
 
-# game/scripts/ash_events.rpy:10369
+# game/scripts/ash_events.rpy:10373
 translate pt_br ashschool3_4852acbf:
 
     # f "That's not true! I've gotten lik-"
     f ""
 
-# game/scripts/ash_events.rpy:10371
+# game/scripts/ash_events.rpy:10375
 translate pt_br ashschool3_2722964d:
 
     # em "AH! What the fuck! You got some on me asshole!"
     em ""
 
-# game/scripts/ash_events.rpy:10372
+# game/scripts/ash_events.rpy:10376
 translate pt_br ashschool3_e584901f:
 
     # f "Hahahahaha!"
     f ""
 
-# game/scripts/ash_events.rpy:10373
+# game/scripts/ash_events.rpy:10377
 translate pt_br ashschool3_4b4ebf09:
 
     # em "Stop fucking laughing!"
     em ""
 
-# game/scripts/ash_events.rpy:10374
+# game/scripts/ash_events.rpy:10378
 translate pt_br ashschool3_3fadad59:
 
     # f "Did he get any in the cup at least?"
     f ""
 
-# game/scripts/ash_events.rpy:10375
+# game/scripts/ash_events.rpy:10379
 translate pt_br ashschool3_df3354f1:
 
     # em "Yeah, plenty..."
     em ""
 
-# game/scripts/ash_events.rpy:10376
+# game/scripts/ash_events.rpy:10380
 translate pt_br ashschool3_cf2781e5:
 
     # f "Good, then mission successful!"
     f ""
 
-# game/scripts/ash_events.rpy:10377
+# game/scripts/ash_events.rpy:10381
 translate pt_br ashschool3_3352080e:
 
     # em "Ergh..."
     em ""
 
-# game/scripts/ash_events.rpy:10381
+# game/scripts/ash_events.rpy:10385
 translate pt_br ashschool3_fe61720a:
 
     # em "Urgh, look! You can see it through my top..."
     em ""
 
-# game/scripts/ash_events.rpy:10382
+# game/scripts/ash_events.rpy:10386
 translate pt_br ashschool3_7c8e2384:
 
     # f "We'll keep up our part of the bargain. Nobody will see Ashley's pussy."
     f ""
 
-# game/scripts/ash_events.rpy:10383
+# game/scripts/ash_events.rpy:10387
 translate pt_br ashschool3_67120f0c:
 
     # f "Unless she does something else to piss us off. So make sure she stays nice, okay?"
     f ""
 
-# game/scripts/ash_events.rpy:10384
+# game/scripts/ash_events.rpy:10388
 translate pt_br ashschool3_432ec249:
 
     # em "I regret this..."
     em ""
 
-# game/scripts/ash_events.rpy:10386
+# game/scripts/ash_events.rpy:10390
 translate pt_br ashschool3_174f186a:
 
     # f "At least she'll stay out of our way now..."
     f ""
 
-# game/scripts/ash_events.rpy:10387
+# game/scripts/ash_events.rpy:10391
 translate pt_br ashschool3_c79c543c:
 
     # em "Whatever... I'm going to clean this off..."
     em ""
 
-# game/scripts/ash_events.rpy:10388
+# game/scripts/ash_events.rpy:10392
 translate pt_br ashschool3_54c22f98:
 
     # f "Okay! I'll stick around and watch everything go down."
     f ""
 
-# game/scripts/ash_events.rpy:10390
+# game/scripts/ash_events.rpy:10394
 translate pt_br ashschool3_18edcc82:
 
     # "You decide to stick around. After a couple minutes, Ashley shows up."
     ""
 
-# game/scripts/ash_events.rpy:10392
+# game/scripts/ash_events.rpy:10396
 translate pt_br ashschool3_306827e5:
 
     # f "Heyyy Ashley!"
     f ""
 
-# game/scripts/ash_events.rpy:10393
+# game/scripts/ash_events.rpy:10397
 translate pt_br ashschool3_d8f97a36:
 
     # a "What do you want bitch..."
     a ""
 
-# game/scripts/ash_events.rpy:10394
+# game/scripts/ash_events.rpy:10398
 translate pt_br ashschool3_920a5533:
 
     # f "Oh nothing... just wondering how that water tastes."
     f ""
 
-# game/scripts/ash_events.rpy:10395
+# game/scripts/ash_events.rpy:10399
 translate pt_br ashschool3_febefcd9:
 
     # a "Just fine. Go away."
     a ""
 
-# game/scripts/ash_events.rpy:10396
+# game/scripts/ash_events.rpy:10400
 translate pt_br ashschool3_e956e03d:
 
     # f "What?"
     f ""
 
-# game/scripts/ash_events.rpy:10397
+# game/scripts/ash_events.rpy:10401
 translate pt_br ashschool3_9516c202:
 
     # a "Go away."
     a ""
 
-# game/scripts/ash_events.rpy:10398
+# game/scripts/ash_events.rpy:10402
 translate pt_br ashschool3_d292b516:
 
     # f "You don't think it tastes a little odd?"
     f ""
 
-# game/scripts/ash_events.rpy:10399
+# game/scripts/ash_events.rpy:10403
 translate pt_br ashschool3_1ed627fa:
 
     # a "I guess a little..."
     a ""
 
-# game/scripts/ash_events.rpy:10400
+# game/scripts/ash_events.rpy:10404
 translate pt_br ashschool3_be5f2490:
 
     # f "Like semen maybe...?"
     f ""
 
-# game/scripts/ash_events.rpy:10402
+# game/scripts/ash_events.rpy:10406
 translate pt_br ashschool3_5939aebf:
 
     # a "WHAT DID YOU DO TO MY DRINK!?"
     a ""
 
-# game/scripts/ash_events.rpy:10403
+# game/scripts/ash_events.rpy:10407
 translate pt_br ashschool3_6d51144e:
 
     # f "Oh nothing..."
     f ""
 
-# game/scripts/ash_events.rpy:10404
+# game/scripts/ash_events.rpy:10408
 translate pt_br ashschool3_f38c75b3:
 
     # a "TELL ME!"
     a ""
 
-# game/scripts/ash_events.rpy:10406
+# game/scripts/ash_events.rpy:10410
 translate pt_br ashschool3_0742be61:
 
     # f "I helped [name] cum in your drink."
     f ""
 
-# game/scripts/ash_events.rpy:10407
+# game/scripts/ash_events.rpy:10411
 translate pt_br ashschool3_7455430c:
 
     # a "What? [name]! When did you get here?"
     a ""
 
-# game/scripts/ash_events.rpy:10408
+# game/scripts/ash_events.rpy:10412
 translate pt_br ashschool3_cb857782:
 
     # f "Huh? Do you not care that you're drinking his cum?"
     f ""
 
-# game/scripts/ash_events.rpy:10410
+# game/scripts/ash_events.rpy:10414
 translate pt_br ashschool3_a9db5d42:
 
     # a "Nope don't care. Go away."
     a ""
 
-# game/scripts/ash_events.rpy:10412
+# game/scripts/ash_events.rpy:10416
 translate pt_br ashschool3_9bca2183:
 
     # f "Not even that my twin showed him her tits and I jacked him off?"
     f ""
 
-# game/scripts/ash_events.rpy:10414
+# game/scripts/ash_events.rpy:10418
 translate pt_br ashschool3_705e844d:
 
     # f "Not even that my clone showed him her tits and I jacked him off?"
     f ""
 
-# game/scripts/ash_events.rpy:10416
+# game/scripts/ash_events.rpy:10420
 translate pt_br ashschool3_3a505665:
 
     # a "WHAT!?"
     a ""
 
-# game/scripts/ash_events.rpy:10417
+# game/scripts/ash_events.rpy:10421
 translate pt_br ashschool3_b8efc44b:
 
     # f "Well, that's just what happens when you don't respect us."
     f ""
 
-# game/scripts/ash_events.rpy:10418
+# game/scripts/ash_events.rpy:10422
 translate pt_br ashschool3_1d0fe24f:
 
     # a "YOU TOUCHED HIS COCK?"
     a ""
 
-# game/scripts/ash_events.rpy:10419
+# game/scripts/ash_events.rpy:10423
 translate pt_br ashschool3_732c1dcf:
 
     # f "Yeah, he liked it too. Right?"
     f ""
 
-# game/scripts/ash_events.rpy:10422
+# game/scripts/ash_events.rpy:10426
 translate pt_br ashschool3_84e93561:
 
     # a "See? He knows what a good handjob feels like!"
     a ""
 
-# game/scripts/ash_events.rpy:10425
+# game/scripts/ash_events.rpy:10429
 translate pt_br ashschool3_a5ba7f13:
 
     # a "Stay out of it [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10427
+# game/scripts/ash_events.rpy:10431
 translate pt_br ashschool3_e5c294b9:
 
     # a "[name]... Get my knife..."
     a ""
 
-# game/scripts/ash_events.rpy:10428
+# game/scripts/ash_events.rpy:10432
 translate pt_br ashschool3_2ba9ecd4:
 
     # f "Wait, what?"
     f ""
 
-# game/scripts/ash_events.rpy:10429
+# game/scripts/ash_events.rpy:10433
 translate pt_br ashschool3_a5c13f03:
 
     # a "GET MY FUCKING KNIFE [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10430
+# game/scripts/ash_events.rpy:10434
 translate pt_br ashschool3_c76b914d:
 
     # f "Calm down! It was just a prank!"
     f ""
 
-# game/scripts/ash_events.rpy:10432
+# game/scripts/ash_events.rpy:10436
 translate pt_br ashschool3_067d6e5a:
 
     # ms "What exactly is going on here?"
     ms ""
 
-# game/scripts/ash_events.rpy:10433
+# game/scripts/ash_events.rpy:10437
 translate pt_br ashschool3_f1ed5299:
 
     # a "Felicity gave my boyfriend a handjob!"
     a ""
 
-# game/scripts/ash_events.rpy:10434
+# game/scripts/ash_events.rpy:10438
 translate pt_br ashschool3_31321f60:
 
     # f "M-Ms. Burchette!"
     f ""
 
-# game/scripts/ash_events.rpy:10436
+# game/scripts/ash_events.rpy:10440
 translate pt_br ashschool3_11a78e6a:
 
     # ms "Is this true Mr. [name]?"
     ms ""
 
-# game/scripts/ash_events.rpy:10437
+# game/scripts/ash_events.rpy:10441
 translate pt_br ashschool3_5d5583ab:
 
     # c "It is."
     c ""
 
-# game/scripts/ash_events.rpy:10439
+# game/scripts/ash_events.rpy:10443
 translate pt_br ashschool3_58f61a7e:
 
     # ms "I've had it up to here with you, Felicity. You're coming with me."
     ms ""
 
-# game/scripts/ash_events.rpy:10440
+# game/scripts/ash_events.rpy:10444
 translate pt_br ashschool3_c12c9f10:
 
     # f "What!? No!"
     f ""
 
-# game/scripts/ash_events.rpy:10442
+# game/scripts/ash_events.rpy:10446
 translate pt_br ashschool3_504b6c00:
 
     # a "Fuck you bitch!"
     a ""
 
-# game/scripts/ash_events.rpy:10443
+# game/scripts/ash_events.rpy:10447
 translate pt_br ashschool3_227a563f:
 
     # f "You'll regret this Ashley!"
     f ""
 
-# game/scripts/ash_events.rpy:10445
+# game/scripts/ash_events.rpy:10449
 translate pt_br ashschool3_de3aab98:
 
     # a "[name], she didn't hurt you did she?"
     a ""
 
-# game/scripts/ash_events.rpy:10446
+# game/scripts/ash_events.rpy:10450
 translate pt_br ashschool3_35d96baa:
 
     # a "I'm sorry she made you let her jack you off... I'll make sure she doesn't hurt you again..."
     a ""
 
-# game/scripts/ash_events.rpy:10454
+# game/scripts/ash_events.rpy:10458
 translate pt_br ashschool2_7f64ba1f:
 
     # em "Hey Ashley! Stuck on some math? I could teach you how to subtract if you can't figure it out..."
     em ""
 
-# game/scripts/ash_events.rpy:10455
+# game/scripts/ash_events.rpy:10459
 translate pt_br ashschool2_9568ecf9:
 
     # a "Shut up!"
     a ""
 
-# game/scripts/ash_events.rpy:10457
+# game/scripts/ash_events.rpy:10461
 translate pt_br ashschool2_39bc6984:
 
     # em "Aww, what's wrong? Did you use your brain too much today? Hahaha!"
     em ""
 
-# game/scripts/ash_events.rpy:10458
+# game/scripts/ash_events.rpy:10462
 translate pt_br ashschool2_c618c804:
 
     # a "Fuck off bitch!"
     a ""
 
-# game/scripts/ash_events.rpy:10460
+# game/scripts/ash_events.rpy:10464
 translate pt_br ashschool2_f6bd55d1:
 
     # em "You better be careful Ashley, you wouldn't want to make the Dean's daughter angry with you..."
     em ""
 
-# game/scripts/ash_events.rpy:10461
+# game/scripts/ash_events.rpy:10465
 translate pt_br ashschool2_aafaaaae:
 
     # a "I don't care about the Dean or a bitch like you!"
     a ""
 
-# game/scripts/ash_events.rpy:10462
+# game/scripts/ash_events.rpy:10466
 translate pt_br ashschool2_b131cf20:
 
     # em "You better say sorry, bitch. I'll fuck your life up..."
     em ""
 
-# game/scripts/ash_events.rpy:10466
+# game/scripts/ash_events.rpy:10470
 translate pt_br ashschool2_73f9b1f5:
 
     # em "W-What!?"
     em ""
 
-# game/scripts/ash_events.rpy:10467
+# game/scripts/ash_events.rpy:10471
 translate pt_br ashschool2_367cb7cb:
 
     # a "[name]! You came!"
     a ""
 
-# game/scripts/ash_events.rpy:10469
+# game/scripts/ash_events.rpy:10473
 translate pt_br ashschool2_3f7c9d72:
 
     # a "Hehehe~ click~" with flash
     a "" with flash
 
-# game/scripts/ash_events.rpy:10472
+# game/scripts/ash_events.rpy:10476
 translate pt_br ashschool2_f3f3f896:
 
     # em "Who the fuck are you!? Why did you lift my top up asshole!?"
     em ""
 
-# game/scripts/ash_events.rpy:10473
+# game/scripts/ash_events.rpy:10477
 translate pt_br ashschool2_3ac0f82e:
 
     # a "He's my boyfriend~~~!"
     a ""
 
-# game/scripts/ash_events.rpy:10474
+# game/scripts/ash_events.rpy:10478
 translate pt_br ashschool2_d7e06e34:
 
     # em "When did you get a boyfriend!? You better delete that picture bitch!!! URGH!"
     em ""
 
-# game/scripts/ash_events.rpy:10476
+# game/scripts/ash_events.rpy:10480
 translate pt_br ashschool2_e4f57cac:
 
     # c "Who was that?"
     c ""
 
-# game/scripts/ash_events.rpy:10477
+# game/scripts/ash_events.rpy:10481
 translate pt_br ashschool2_885697c5:
 
     # a "Oh her? Just some bitch who keeps making fun of me."
     a ""
 
-# game/scripts/ash_events.rpy:10480
+# game/scripts/ash_events.rpy:10484
 translate pt_br ashschool2_5356b833:
 
     # em "What!? Why did you lift my top up asshole!?"
     em ""
 
-# game/scripts/ash_events.rpy:10481
+# game/scripts/ash_events.rpy:10485
 translate pt_br ashschool2_fa90095a:
 
     # a "Hahaha!"
     a ""
 
-# game/scripts/ash_events.rpy:10482
+# game/scripts/ash_events.rpy:10486
 translate pt_br ashschool2_0ea35a85:
 
     # em "You better delete that picture bitch!!! URGH!"
     em ""
 
-# game/scripts/ash_events.rpy:10484
+# game/scripts/ash_events.rpy:10488
 translate pt_br ashschool2_7140931b:
 
     # a "I can't believe you lifted her top! That was so funny!"
     a ""
 
-# game/scripts/ash_events.rpy:10485
+# game/scripts/ash_events.rpy:10489
 translate pt_br ashschool2_edacf770:
 
     # a "And now I have something to blackmail her with hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10488
+# game/scripts/ash_events.rpy:10492
 translate pt_br ashschool2_23c932b0:
 
     # em "Oh, who are you? A teacher?"
     em ""
 
-# game/scripts/ash_events.rpy:10489
+# game/scripts/ash_events.rpy:10493
 translate pt_br ashschool2_f2390b49:
 
     # a "[name] you came! That's my boyfriend!"
     a ""
 
-# game/scripts/ash_events.rpy:10491
+# game/scripts/ash_events.rpy:10495
 translate pt_br ashschool2_3536f11c:
 
     # em "You're going out with that dumb bitch? Seriously? You could do much better than her."
     em ""
 
-# game/scripts/ash_events.rpy:10492
+# game/scripts/ash_events.rpy:10496
 translate pt_br ashschool2_cd63bfc5:
 
     # em "There's plenty of girls here you know..."
     em ""
 
-# game/scripts/ash_events.rpy:10493
+# game/scripts/ash_events.rpy:10497
 translate pt_br ashschool2_b5a16f97:
 
     # a "Shut up! Stay away from him!"
     a ""
 
-# game/scripts/ash_events.rpy:10495
+# game/scripts/ash_events.rpy:10499
 translate pt_br ashschool2_8465ab3a:
 
     # em "Whatever, I don't have time to deal you Ashley, I gotta get back to practice."
     em ""
 
-# game/scripts/ash_events.rpy:10497
+# game/scripts/ash_events.rpy:10501
 translate pt_br ashschool2_e4f57cac_1:
 
     # c "Who was that?"
     c ""
 
-# game/scripts/ash_events.rpy:10498
+# game/scripts/ash_events.rpy:10502
 translate pt_br ashschool2_885697c5_1:
 
     # a "Oh her? Just some bitch who keeps making fun of me."
     a ""
 
-# game/scripts/ash_events.rpy:10500
+# game/scripts/ash_events.rpy:10504
 translate pt_br ashschool2_15f087ee:
 
     # q "That was really cool Ashley, not many people stand up to her like that..."
     q ""
 
-# game/scripts/ash_events.rpy:10502
+# game/scripts/ash_events.rpy:10506
 translate pt_br ashschool2_51badbab:
 
     # a "W-Who are you? Where did you come from?"
     a ""
 
-# game/scripts/ash_events.rpy:10503
+# game/scripts/ash_events.rpy:10507
 translate pt_br ashschool2_8dd4d37c:
 
     # q "What do you mean? I've been in your class all semester..."
     q ""
 
-# game/scripts/ash_events.rpy:10504
+# game/scripts/ash_events.rpy:10508
 translate pt_br ashschool2_4387666a:
 
     # a "Really? I never noticed you before."
     a ""
 
-# game/scripts/ash_events.rpy:10505
+# game/scripts/ash_events.rpy:10509
 translate pt_br ashschool2_04630130:
 
     # q "Ashley..."
     q ""
 
-# game/scripts/ash_events.rpy:10506
+# game/scripts/ash_events.rpy:10510
 translate pt_br ashschool2_874248b9:
 
     # a "You can go away now."
     a ""
 
-# game/scripts/ash_events.rpy:10507
+# game/scripts/ash_events.rpy:10511
 translate pt_br ashschool2_816a6128:
 
     # q "Okay..."
     q ""
 
-# game/scripts/ash_events.rpy:10509
+# game/scripts/ash_events.rpy:10513
 translate pt_br ashschool2_16ecd102:
 
     # a "[name]~ I've got an idea! I want to get back at that bitch! Come here!"
     a ""
 
-# game/scripts/ash_events.rpy:10511
+# game/scripts/ash_events.rpy:10515
 translate pt_br ashschool2_e7204790:
 
     # a "Okay, this is her desk, I want you to cum on her chair!"
     a ""
 
-# game/scripts/ash_events.rpy:10512
+# game/scripts/ash_events.rpy:10516
 translate pt_br ashschool2_b7611eac:
 
     # c "What...?"
     c ""
 
-# game/scripts/ash_events.rpy:10513
+# game/scripts/ash_events.rpy:10517
 translate pt_br ashschool2_ff38a0ee:
 
     # a "When she sits down she'll get all sticky and have to change her clothes! She'll be so pissed! Come on!"
     a ""
 
-# game/scripts/ash_events.rpy:10514
+# game/scripts/ash_events.rpy:10518
 translate pt_br ashschool2_4b489c83:
 
     # c "Okay..."
     c ""
 
-# game/scripts/ash_events.rpy:10517
+# game/scripts/ash_events.rpy:10521
 translate pt_br ashschool2_80d43b52:
 
     # a "I know it's not my pussy... but it should get the job done, right?"
     a ""
 
-# game/scripts/ash_events.rpy:10520
+# game/scripts/ash_events.rpy:10524
 translate pt_br ashschool2_c9575c8c:
 
     # a "Come on~ we don't have all day! Cum!"
     a ""
 
-# game/scripts/ash_events.rpy:10524
+# game/scripts/ash_events.rpy:10528
 translate pt_br ashschool2_276ec89d:
 
     # a "Ahh~ You came!!!"
     a ""
 
-# game/scripts/ash_events.rpy:10526
+# game/scripts/ash_events.rpy:10530
 translate pt_br ashschool2_ae29961e:
 
     # a "Ahh... look at how much you came [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10528
+# game/scripts/ash_events.rpy:10532
 translate pt_br ashschool2_38615065:
 
     # a "She's going to be so pissed! Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10529
+# game/scripts/ash_events.rpy:10533
 translate pt_br ashschool2_16be04ee:
 
     # a "All right, now get out of here! Class is about to start!"
     a ""
 
-# game/scripts/ash_events.rpy:10531
+# game/scripts/ash_events.rpy:10535
 translate pt_br ashschool2_c1b5b8dc:
 
     # "You exit the classroom just as the students walk in..."
     ""
 
-# game/scripts/ash_events.rpy:10532
+# game/scripts/ash_events.rpy:10536
 translate pt_br ashschool2_1688b88e:
 
     # ms "All right class, be seated."
     ms ""
 
-# game/scripts/ash_events.rpy:10533
+# game/scripts/ash_events.rpy:10537
 translate pt_br ashschool2_d2d90827:
 
     # em "AHH! What the fuck is this!?"
     em ""
 
-# game/scripts/ash_events.rpy:10534
+# game/scripts/ash_events.rpy:10538
 translate pt_br ashschool2_41bcaf10:
 
     # "The whole class erupts into laughter."
     ""
 
-# game/scripts/ash_events.rpy:10541
+# game/scripts/ash_events.rpy:10545
 translate pt_br ashschool_e5f77b69:
 
     # a "Urgh... this is soo boooooring... Why do I need to learn about this stuff anyway...?"
     a ""
 
-# game/scripts/ash_events.rpy:10543
+# game/scripts/ash_events.rpy:10547
 translate pt_br ashschool_395de3f7:
 
     # a "*gasp*! [name]! What are you doing here!"
     a ""
 
-# game/scripts/ash_events.rpy:10544
+# game/scripts/ash_events.rpy:10548
 translate pt_br ashschool_17760fe3:
 
     # c "I saw your note, I thought I would check up on you."
     c ""
 
-# game/scripts/ash_events.rpy:10545
+# game/scripts/ash_events.rpy:10549
 translate pt_br ashschool_4aa197b9:
 
     # a "Aw, you're so sweet!"
     a ""
 
-# game/scripts/ash_events.rpy:10547
+# game/scripts/ash_events.rpy:10551
 translate pt_br ashschool_a79067b8:
 
     # a "I haven't done much work lately, so I need to catch up before and after class starts..."
     a ""
 
-# game/scripts/ash_events.rpy:10549
+# game/scripts/ash_events.rpy:10553
 translate pt_br ashschool_6bdb66e3:
 
     # a "You know... nobody is around... maybe we could..."
     a ""
 
-# game/scripts/ash_events.rpy:10551
+# game/scripts/ash_events.rpy:10555
 translate pt_br ashschool_cd445650:
 
     # ms "Who is this, Ashley?"
     ms ""
 
-# game/scripts/ash_events.rpy:10552
+# game/scripts/ash_events.rpy:10556
 translate pt_br ashschool_8349fbd8:
 
     # a "Hi Ms. Burchette..."
     a ""
 
-# game/scripts/ash_events.rpy:10553
+# game/scripts/ash_events.rpy:10557
 translate pt_br ashschool_71068df1:
 
     # ms "Answer my question."
     ms ""
 
-# game/scripts/ash_events.rpy:10554
+# game/scripts/ash_events.rpy:10558
 translate pt_br ashschool_20bee2b1:
 
     # a "This is [name]..."
     a ""
 
-# game/scripts/ash_events.rpy:10555
+# game/scripts/ash_events.rpy:10559
 translate pt_br ashschool_1f14c258:
 
     # ms "And who is he in relation to you? Your father? Uncle? Brother?"
     ms ""
 
-# game/scripts/ash_events.rpy:10557
+# game/scripts/ash_events.rpy:10561
 translate pt_br ashschool_2f0a44be:
 
     # a "He's my boyfriend!"
     a ""
 
-# game/scripts/ash_events.rpy:10558
+# game/scripts/ash_events.rpy:10562
 translate pt_br ashschool_ffaa1347:
 
     # ms "Hmph, at least you'll be leaving the male teachers alone now."
     ms ""
 
-# game/scripts/ash_events.rpy:10559
+# game/scripts/ash_events.rpy:10563
 translate pt_br ashschool_0cebb10b:
 
     # ms "Is this man the reason you've stopped bullying the other girls?"
     ms ""
 
-# game/scripts/ash_events.rpy:10561
+# game/scripts/ash_events.rpy:10565
 translate pt_br ashschool_51dd0f66:
 
     # a "What!? What do you mean!?"
     a ""
 
-# game/scripts/ash_events.rpy:10562
+# game/scripts/ash_events.rpy:10566
 translate pt_br ashschool_f5d58229:
 
     # ms "I believe it was you who called Alexis a 'big titted whore'."
     ms ""
 
-# game/scripts/ash_events.rpy:10563
+# game/scripts/ash_events.rpy:10567
 translate pt_br ashschool_78847792:
 
     # a "Because she was a whore! She slept with like 3 guys!"
     a ""
 
-# game/scripts/ash_events.rpy:10564
+# game/scripts/ash_events.rpy:10568
 translate pt_br ashschool_4238afca:
 
     # ms "And I believe it was you who called Emma a 'lactating cow', then spilled milk on her breasts."
     ms ""
 
-# game/scripts/ash_events.rpy:10565
+# game/scripts/ash_events.rpy:10569
 translate pt_br ashschool_56a6cb5e:
 
     # a "Her tits were so big she'd knock me over just by turning left!"
     a ""
 
-# game/scripts/ash_events.rpy:10566
+# game/scripts/ash_events.rpy:10570
 translate pt_br ashschool_ce955b0f:
 
     # ms "Your obsession with big breasts is taking over your life, Ashley."
     ms ""
 
-# game/scripts/ash_events.rpy:10567
+# game/scripts/ash_events.rpy:10571
 translate pt_br ashschool_c4cdad4a:
 
     # a "I don't have any obsessions!"
     a ""
 
-# game/scripts/ash_events.rpy:10569
+# game/scripts/ash_events.rpy:10573
 translate pt_br ashschool_b78ea6a2:
 
     # a "Except for [name]! Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10570
+# game/scripts/ash_events.rpy:10574
 translate pt_br ashschool_e2b5972c:
 
     # ms "Well, for whatever reason Ashley seems to have taken a liking towards you Mr. [name]. And it's shown at school."
     ms ""
 
-# game/scripts/ash_events.rpy:10571
+# game/scripts/ash_events.rpy:10575
 translate pt_br ashschool_cc4d8ddb:
 
     # ms "She's not hitting the boys, crushing on the faculty, or making fun of the big breasted girls anymore."
     ms ""
 
-# game/scripts/ash_events.rpy:10572
+# game/scripts/ash_events.rpy:10576
 translate pt_br ashschool_8c313ba5:
 
     # ms "If anything, the only problem with her now is that she barely pays attention. Always doodling in her notebook."
     ms ""
 
-# game/scripts/ash_events.rpy:10573
+# game/scripts/ash_events.rpy:10577
 translate pt_br ashschool_327d6b8f:
 
     # a "I was drawing us together at our wedding [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10574
+# game/scripts/ash_events.rpy:10578
 translate pt_br ashschool_d7fa2fd0:
 
     # ms "Being the only parental figure in her life, I suggest you get her back on track. She's beginning to fail."
     ms ""
 
-# game/scripts/ash_events.rpy:10576
+# game/scripts/ash_events.rpy:10580
 translate pt_br ashschool_7323c02b:
 
     # a "What!? I can't fail! My mom would kill me!"
     a ""
 
-# game/scripts/ash_events.rpy:10577
+# game/scripts/ash_events.rpy:10581
 translate pt_br ashschool_0dbffd13:
 
     # ms "So you do have a mother? You told me she died in a car crash..."
     ms ""
 
-# game/scripts/ash_events.rpy:10578
+# game/scripts/ash_events.rpy:10582
 translate pt_br ashschool_9a5242e8:
 
     # a "Stay out of my life!"
     a ""
 
-# game/scripts/ash_events.rpy:10579
+# game/scripts/ash_events.rpy:10583
 translate pt_br ashschool_f44a6ffc:
 
     # ms "As long as you get your work done, I will."
     ms ""
 
-# game/scripts/ash_events.rpy:10580
+# game/scripts/ash_events.rpy:10584
 translate pt_br ashschool_02dc6f34:
 
     # ms "Have a good day Ashley, you too Mr. [name]."
     ms ""
 
-# game/scripts/ash_events.rpy:10582
+# game/scripts/ash_events.rpy:10586
 translate pt_br ashschool_074cc03f:
 
     # a "Well, I should get back to work. Thanks for checking on me [name]~"
     a ""
 
-# game/scripts/ash_events.rpy:10590
+# game/scripts/ash_events.rpy:10594
 translate pt_br ashleyintro_ea11b489:
 
     # e "Welcome to [hotelname], would you like a room?"
     e ""
 
-# game/scripts/ash_events.rpy:10591
+# game/scripts/ash_events.rpy:10595
 translate pt_br ashleyintro_e8087d9c:
 
     # q "Yes please! I need a place to stay during college."
     q ""
 
-# game/scripts/ash_events.rpy:10593
+# game/scripts/ash_events.rpy:10597
 translate pt_br ashleyintro_c475f23c:
 
     # q "My dumb parents kicked me out for bringing home too many boys... So rude!"
     q ""
 
-# game/scripts/ash_events.rpy:10595
+# game/scripts/ash_events.rpy:10599
 translate pt_br ashleyintro_8434df11:
 
     # q "Oh hello, who are you? You're kind of cute, hehe~"
     q ""
 
-# game/scripts/ash_events.rpy:10596
+# game/scripts/ash_events.rpy:10600
 translate pt_br ashleyintro_622626f8:
 
     # c "I'm the manager here."
     c ""
 
-# game/scripts/ash_events.rpy:10597
+# game/scripts/ash_events.rpy:10601
 translate pt_br ashleyintro_e9c32b2c:
 
     # q "Oooh, cool! Nice to meet you!"
     q ""
 
-# game/scripts/ash_events.rpy:10598
+# game/scripts/ash_events.rpy:10602
 translate pt_br ashleyintro_696f5252:
 
     # a "I'm Ashley by the way!"
     a ""
 
-# game/scripts/ash_events.rpy:10599
+# game/scripts/ash_events.rpy:10603
 translate pt_br ashleyintro_0e5b3a10:
 
     # c "[name]."
     c ""
 
-# game/scripts/ash_events.rpy:10601
+# game/scripts/ash_events.rpy:10605
 translate pt_br ashleyintro_da11befb:
 
     # e "And how will you be paying for your stay, Ashley?"
     e ""
 
-# game/scripts/ash_events.rpy:10602
+# game/scripts/ash_events.rpy:10606
 translate pt_br ashleyintro_8c3b5e05:
 
     # a "Oh, don't worry about that. My parents will pay for everything!"
     a ""
 
-# game/scripts/ash_events.rpy:10604
+# game/scripts/ash_events.rpy:10608
 translate pt_br ashleyintro_01a0ea50:
 
     # a "Or maybe [name] would like to be paid some other way? hehehehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10606
+# game/scripts/ash_events.rpy:10610
 translate pt_br ashleyintro_c894f588:
 
     # a "Just kidding~"
     a ""
 
-# game/scripts/ash_events.rpy:10608
+# game/scripts/ash_events.rpy:10612
 translate pt_br ashleyintro_83b98852:
 
     # e "Very well, here's your key. You'll be staying in room 3."
     e ""
 
-# game/scripts/ash_events.rpy:10610
+# game/scripts/ash_events.rpy:10614
 translate pt_br ashleyintro_52f0daa2:
 
     # a "Yay! My first place away from home!"
     a ""
 
-# game/scripts/ash_events.rpy:10611
+# game/scripts/ash_events.rpy:10615
 translate pt_br ashleyintro_bca059b0:
 
     # "Ashley has joined [hotelname]!"
     ""
 
-# game/scripts/ash_events.rpy:10616
+# game/scripts/ash_events.rpy:10620
 translate pt_br ashleybeach_7b05ff4d:
 
     # a "Aaah... this place is amazing!"
     a ""
 
-# game/scripts/ash_events.rpy:10617
+# game/scripts/ash_events.rpy:10621
 translate pt_br ashleybeach_f995f081:
 
     # c "Have you ever been to the beach before?"
     c ""
 
-# game/scripts/ash_events.rpy:10619
+# game/scripts/ash_events.rpy:10623
 translate pt_br ashleybeach_1389177d:
 
     # a "Of course I have. Very rarely though... my parents would bring me once every few years."
     a ""
 
-# game/scripts/ash_events.rpy:10620
+# game/scripts/ash_events.rpy:10624
 translate pt_br ashleybeach_4d9b4d5c:
 
     # a "Beaches are the one place I've constantly felt happy being at... I have so many good memories..."
     a ""
 
-# game/scripts/ash_events.rpy:10621
+# game/scripts/ash_events.rpy:10625
 translate pt_br ashleybeach_9d001ed1:
 
     # a "If only we could find some place hidden away from everything else, that would be perfect..."
     a ""
 
-# game/scripts/ash_events.rpy:10622
+# game/scripts/ash_events.rpy:10626
 translate pt_br ashleybeach_e9642279:
 
     # a "Anyway, let's find somewhere to sit."
     a ""
 
-# game/scripts/ash_events.rpy:10624
+# game/scripts/ash_events.rpy:10628
 translate pt_br ashleybeach_f324e3c5:
 
     # a "Thanks for bringing me! Kind of sucks not having a car..."
     a ""
 
-# game/scripts/ash_events.rpy:10625
+# game/scripts/ash_events.rpy:10629
 translate pt_br ashleybeach_9ef03073:
 
     # c "You don't have a car? How did you get to the hotel?"
     c ""
 
-# game/scripts/ash_events.rpy:10626
+# game/scripts/ash_events.rpy:10630
 translate pt_br ashleybeach_b0762db9:
 
     # a "I walked, silly!"
     a ""
 
-# game/scripts/ash_events.rpy:10627
+# game/scripts/ash_events.rpy:10631
 translate pt_br ashleybeach_4cb5e4d7:
 
     # c "From where? We're not anywhere close to the city."
     c ""
 
-# game/scripts/ash_events.rpy:10628
+# game/scripts/ash_events.rpy:10632
 translate pt_br ashleybeach_81cad336:
 
     # a "I'm not telling you where I used to live, hehe, stalker..."
     a ""
 
-# game/scripts/ash_events.rpy:10629
+# game/scripts/ash_events.rpy:10633
 translate pt_br ashleybeach_422b2ee4:
 
     # c "I hope my hotel met your expectations."
     c ""
 
-# game/scripts/ash_events.rpy:10630
+# game/scripts/ash_events.rpy:10634
 translate pt_br ashleybeach_757adcc5:
 
     # a "Oh, it's so much better than my old place! No parents, no rules, free food, and a cute boy! What more could I ask for? Hehe..."
     a ""
 
-# game/scripts/ash_events.rpy:10632
+# game/scripts/ash_events.rpy:10636
 translate pt_br ashleybeach_a790a6cd:
 
     # a "Heeeeey, you should buy us some drinks!"
     a ""
 
-# game/scripts/ash_events.rpy:10633
+# game/scripts/ash_events.rpy:10637
 translate pt_br ashleybeach_6db5f3f5:
 
     # c "Are you even old enough to buy a drink?"
     c ""
 
-# game/scripts/ash_events.rpy:10634
+# game/scripts/ash_events.rpy:10638
 translate pt_br ashleybeach_b85b09e4:
 
     # a "Who said anything about me buying the drinks? Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10635
+# game/scripts/ash_events.rpy:10639
 translate pt_br ashleybeach_72e64c2b:
 
     # a "It's a stupid law anyway... old enough for sex, but not old enough to drink... Stupid laws are meant to be broken!"
     a ""
 
-# game/scripts/ash_events.rpy:10636
+# game/scripts/ash_events.rpy:10640
 translate pt_br ashleybeach_79c1ec01:
 
     # a "Hurry up [name]~"
     a ""
 
-# game/scripts/ash_events.rpy:10638
+# game/scripts/ash_events.rpy:10642
 translate pt_br ashleybeach_aaf7c28c:
 
     # "You go to the bar and purchase something for Ashley..."
     ""
 
-# game/scripts/ash_events.rpy:10640
+# game/scripts/ash_events.rpy:10644
 translate pt_br ashleybeach_e7ae7ed3:
 
     # a "Ohhh~ what's this?"
     a ""
 
-# game/scripts/ash_events.rpy:10641
+# game/scripts/ash_events.rpy:10645
 translate pt_br ashleybeach_f4d1e44f:
 
     # c "A cherry cocktail."
     c ""
 
-# game/scripts/ash_events.rpy:10642
+# game/scripts/ash_events.rpy:10646
 translate pt_br ashleybeach_6945acea:
 
     # a "I love cherries!"
     a ""
 
-# game/scripts/ash_events.rpy:10644
+# game/scripts/ash_events.rpy:10648
 translate pt_br ashleybeach_de911752:
 
     # a "Mmmmn... That's pretty g-"
     a ""
 
-# game/scripts/ash_events.rpy:10646
+# game/scripts/ash_events.rpy:10650
 translate pt_br ashleybeach_c0c37e52:
 
     # a "Blech! Is that the alcohol? It was a good at first, but..."
     a ""
 
-# game/scripts/ash_events.rpy:10647
+# game/scripts/ash_events.rpy:10651
 translate pt_br ashleybeach_e737fe54:
 
     # a "Egh... I don't see what my dad saw in this..."
     a ""
 
-# game/scripts/ash_events.rpy:10648
+# game/scripts/ash_events.rpy:10652
 translate pt_br ashleybeach_c456ee68:
 
     # c "You'll just have to get used to it."
     c ""
 
-# game/scripts/ash_events.rpy:10650
+# game/scripts/ash_events.rpy:10654
 translate pt_br ashleybeach_02fcbb8c:
 
     # a "Okay! I'll trust you."
     a ""
 
-# game/scripts/ash_events.rpy:10651
+# game/scripts/ash_events.rpy:10655
 translate pt_br ashleybeach_5987eddc:
 
     # a "I saw Maria get really drunk a while ago, it looked fun, I wonder what it's like?"
     a ""
 
-# game/scripts/ash_events.rpy:10652
+# game/scripts/ash_events.rpy:10656
 translate pt_br ashleybeach_de623bc5:
 
     # c "You'll be a bit looser, more social, maybe crazier depending on how you handle it."
     c ""
 
-# game/scripts/ash_events.rpy:10654
+# game/scripts/ash_events.rpy:10658
 translate pt_br ashleybeach_99d547e5:
 
     # a "Crazi{b}er{/b}...?"
     a ""
 
-# game/scripts/ash_events.rpy:10655
+# game/scripts/ash_events.rpy:10659
 translate pt_br ashleybeach_0feb7f1c:
 
     # c "You'd be boring without a little crazy."
     c ""
 
-# game/scripts/ash_events.rpy:10657
+# game/scripts/ash_events.rpy:10661
 translate pt_br ashleybeach_9b7fd98d:
 
     # a "Hehe~ don't forget it!"
     a ""
 
-# game/scripts/ash_events.rpy:10659
+# game/scripts/ash_events.rpy:10663
 translate pt_br ashleybeach_bb8e4b4e:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:10661
+# game/scripts/ash_events.rpy:10665
 translate pt_br ashleybeach_d257f3b8:
 
     # a "You didn't get anything?"
     a ""
 
-# game/scripts/ash_events.rpy:10662
+# game/scripts/ash_events.rpy:10666
 translate pt_br ashleybeach_9797475b:
 
     # c "I didn't feel like drinking, and someone has to drive you home."
     c ""
 
-# game/scripts/ash_events.rpy:10663
+# game/scripts/ash_events.rpy:10667
 translate pt_br ashleybeach_0a63f637:
 
     # a "Awww, what a party pooper..."
     a ""
 
-# game/scripts/ash_events.rpy:10665
+# game/scripts/ash_events.rpy:10669
 translate pt_br ashleybeach_bb8e4b4e_1:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:10666
+# game/scripts/ash_events.rpy:10670
 translate pt_br ashleybeach_61c5b23e:
 
     # c "Are you sure you should be drinking so much for your first time? At your size just a sip could knock you out... It's pretty strong."
     c ""
 
-# game/scripts/ash_events.rpy:10668
+# game/scripts/ash_events.rpy:10672
 translate pt_br ashleybeach_3c43936f:
 
     # a "Ohhh... relax! I'm just here to kick back and have some fun with my boyfriend!"
     a ""
 
-# game/scripts/ash_events.rpy:10669
+# game/scripts/ash_events.rpy:10673
 translate pt_br ashleybeach_2aee3681:
 
     # c "Your boyfriend?"
     c ""
 
-# game/scripts/ash_events.rpy:10671
+# game/scripts/ash_events.rpy:10675
 translate pt_br ashleybeach_bd94cad4:
 
     # a "Obviously... we're a couple now! I sucked your dick after all..."
     a ""
 
-# game/scripts/ash_events.rpy:10674
+# game/scripts/ash_events.rpy:10678
 translate pt_br ashleybeach_d07cb287:
 
     # a "And don't forget it..."
     a ""
 
-# game/scripts/ash_events.rpy:10678
+# game/scripts/ash_events.rpy:10682
 translate pt_br ashleybeach_222b6296:
 
     # a "W-Well... it doesn't even matter what you think. You're my boyfriend and you can never leave..."
     a ""
 
-# game/scripts/ash_events.rpy:10680
+# game/scripts/ash_events.rpy:10684
 translate pt_br ashleybeach_bb8e4b4e_2:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:10682
+# game/scripts/ash_events.rpy:10686
 translate pt_br ashleybeach_c1cf9da1:
 
     # a "Wheeeew! I'm starting to feel a bit... dizzy..."
     a ""
 
-# game/scripts/ash_events.rpy:10683
+# game/scripts/ash_events.rpy:10687
 translate pt_br ashleybeach_645c94cc:
 
     # a "*gasp*! [name]! You gotta get a bar at the hotel! We could drink every day!"
     a ""
 
-# game/scripts/ash_events.rpy:10684
+# game/scripts/ash_events.rpy:10688
 translate pt_br ashleybeach_fcc7c7f8:
 
     # c "That's a bad idea."
     c ""
 
-# game/scripts/ash_events.rpy:10685
+# game/scripts/ash_events.rpy:10689
 translate pt_br ashleybeach_130c8f4c:
 
     # a "Every other day?"
     a ""
 
-# game/scripts/ash_events.rpy:10686
+# game/scripts/ash_events.rpy:10690
 translate pt_br ashleybeach_d19f855d:
 
     # c "..."
     c ""
 
-# game/scripts/ash_events.rpy:10687
+# game/scripts/ash_events.rpy:10691
 translate pt_br ashleybeach_6404e51c:
 
     # a "Ohh whatever. It doesn't matter how often we drink. *gasp*! What does drunk sex feel like? Is it good?"
     a ""
 
-# game/scripts/ash_events.rpy:10688
+# game/scripts/ash_events.rpy:10692
 translate pt_br ashleybeach_e79b53f8:
 
     # c "Not really..."
     c ""
 
-# game/scripts/ash_events.rpy:10689
+# game/scripts/ash_events.rpy:10693
 translate pt_br ashleybeach_47f7a748:
 
     # a "Hmmm... but a bar would definitely make people want to stay at the hotel, right?"
     a ""
 
-# game/scripts/ash_events.rpy:10690
+# game/scripts/ash_events.rpy:10694
 translate pt_br ashleybeach_25f42f1a:
 
     # c "It's not a terrible idea..."
     c ""
 
-# game/scripts/ash_events.rpy:10691
+# game/scripts/ash_events.rpy:10695
 translate pt_br ashleybeach_27ec393e:
 
     # a "See! I've always got great ideas! That's another reason you want to keep me around!"
     a ""
 
-# game/scripts/ash_events.rpy:10693
+# game/scripts/ash_events.rpy:10697
 translate pt_br ashleybeach_bb8e4b4e_3:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:10695
+# game/scripts/ash_events.rpy:10699
 translate pt_br ashleybeach_c41770c9:
 
     # a "Egh... I'm so dizzy..."
     a ""
 
-# game/scripts/ash_events.rpy:10696
+# game/scripts/ash_events.rpy:10700
 translate pt_br ashleybeach_05b0d10f:
 
     # c "You're getting drunk, come on let's go back to the hotel."
     c ""
 
-# game/scripts/ash_events.rpy:10697
+# game/scripts/ash_events.rpy:10701
 translate pt_br ashleybeach_63fe993d:
 
     # a "Awhhhh, you're so laaaaaaame."
     a ""
 
-# game/scripts/ash_events.rpy:10699
+# game/scripts/ash_events.rpy:10703
 translate pt_br ashleybeach_a68cf791:
 
     # "You pick up Ashley and bring her back to her room."
     ""
 
-# game/scripts/ash_events.rpy:10701
+# game/scripts/ash_events.rpy:10705
 translate pt_br ashleybeach_f5047754:
 
     # a "Ah.... Thanksh [name]... you're such a nice boyfriend..."
     a ""
 
-# game/scripts/ash_events.rpy:10730
+# game/scripts/ash_events.rpy:10734
 translate pt_br ashleyroomtalk_43446e58:
 
     # a "Heyyy [name]."
     a ""
 
-# game/scripts/ash_events.rpy:10757
+# game/scripts/ash_events.rpy:10761
 translate pt_br ashleyroomtalk_aec79c58:
 
     # a "Hi [name]~"
     a ""
 
-# game/scripts/ash_events.rpy:10762
+# game/scripts/ash_events.rpy:10766
 translate pt_br ashtalk_07d70bed:
 
     # a "Good. If you're having trouble sleeping, we could have sex..."
     a ""
 
-# game/scripts/ash_events.rpy:10765
+# game/scripts/ash_events.rpy:10769
 translate pt_br ashtalk_4d6d4742:
 
     # a "I'm doing great! Thanks for asking."
     a ""
 
-# game/scripts/ash_events.rpy:10768
+# game/scripts/ash_events.rpy:10772
 translate pt_br ashtalk_fd4b70c3:
 
     # a "I'm okay."
     a ""
 
-# game/scripts/ash_events.rpy:10771
+# game/scripts/ash_events.rpy:10775
 translate pt_br ashtalk_bc2f4fe8:
 
     # a "I'm doing good!"
     a ""
 
-# game/scripts/ash_events.rpy:10774
+# game/scripts/ash_events.rpy:10778
 translate pt_br ashtalk_817265cd:
 
     # a "I'm great [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:10777
+# game/scripts/ash_events.rpy:10781
 translate pt_br ashtalk_66c160b2:
 
     # a "Hehe~ I'm doing amazing now that you're here!"
     a ""
 
-# game/scripts/ash_events.rpy:10785
+# game/scripts/ash_events.rpy:10789
 translate pt_br ashinteract_b62803df:
 
     # a "Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10789
+# game/scripts/ash_events.rpy:10793
 translate pt_br ashinteract_c49222b9:
 
     # a "Weirdo..."
     a ""
 
-# game/scripts/ash_events.rpy:10792
+# game/scripts/ash_events.rpy:10796
 translate pt_br ashinteract_1aabf702:
 
     # a "Thank you~"
     a ""
 
-# game/scripts/ash_events.rpy:10795
+# game/scripts/ash_events.rpy:10799
 translate pt_br ashinteract_38284e7b:
 
     # a "Heheh..."
     a ""
 
-# game/scripts/ash_events.rpy:10798
+# game/scripts/ash_events.rpy:10802
 translate pt_br ashinteract_e745ce7c:
 
     # a "Aww..."
     a ""
 
-# game/scripts/ash_events.rpy:10802
+# game/scripts/ash_events.rpy:10806
 translate pt_br ashinteract_ed7aa3f3:
 
     # a "Heh, thanks..."
     a ""
 
-# game/scripts/ash_events.rpy:10805
+# game/scripts/ash_events.rpy:10809
 translate pt_br ashinteract_8e5029ee:
 
     # a "Is that all...? I want cock!"
     a ""
 
-# game/scripts/ash_events.rpy:10808
+# game/scripts/ash_events.rpy:10812
 translate pt_br ashinteract_b7808a8d:
 
     # a "[name]..."
     a ""
 
-# game/scripts/ash_events.rpy:10811
+# game/scripts/ash_events.rpy:10815
 translate pt_br ashinteract_7f7d1af1:
 
     # a "Mmmmmn~"
     a ""
 
-# game/scripts/ash_events.rpy:10816
+# game/scripts/ash_events.rpy:10820
 translate pt_br ashinteract_b62803df_1:
 
     # a "Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:10820
+# game/scripts/ash_events.rpy:10824
 translate pt_br ashinteract_068d1cdb:
 
     # a "Mmmh..."
     a ""
 
-# game/scripts/ash_events.rpy:10823
+# game/scripts/ash_events.rpy:10827
 translate pt_br ashinteract_f5c635ce:
 
     # a "Mmmp~"
     a ""
 
-# game/scripts/ash_events.rpy:10826
+# game/scripts/ash_events.rpy:10830
 translate pt_br ashinteract_e481cd83:
 
     # a "Mmm! Mmm!"
     a ""
 
-# game/scripts/ash_events.rpy:10829
+# game/scripts/ash_events.rpy:10833
 translate pt_br ashinteract_a8911dc9:
 
     # a "Muah~"
     a ""
 
-# game/scripts/ash_events.rpy:10833
+# game/scripts/ash_events.rpy:10837
 translate pt_br ashinteract_9f3cc108:
 
     # a "Mmmn! [name]~~"
     a ""
 
-# game/scripts/ash_events.rpy:10836
+# game/scripts/ash_events.rpy:10840
 translate pt_br ashinteract_661dcd66:
 
     # a "Lllln, lllmn!"
     a ""
 
-# game/scripts/ash_events.rpy:10839
+# game/scripts/ash_events.rpy:10843
 translate pt_br ashinteract_19e2658a:
 
     # a "Ah~ [name]..."
     a ""
 
-# game/scripts/ash_events.rpy:10842
+# game/scripts/ash_events.rpy:10846
 translate pt_br ashinteract_1638eb55:
 
     # a "Mmmmph...!"
     a ""
 
-# game/scripts/ash_events.rpy:10848
+# game/scripts/ash_events.rpy:10852
 translate pt_br ashinteract_319208de:
 
     # a "Nnnnh!"
     a ""
 
-# game/scripts/ash_events.rpy:10852
+# game/scripts/ash_events.rpy:10856
 translate pt_br ashinteract_14d98b5d:
 
     # a "Hmmm~"
     a ""
 
-# game/scripts/ash_events.rpy:10855
+# game/scripts/ash_events.rpy:10859
 translate pt_br ashinteract_60f75dc5:
 
     # a "You're so warm~"
     a ""
 
-# game/scripts/ash_events.rpy:10858
+# game/scripts/ash_events.rpy:10862
 translate pt_br ashinteract_38adbabb:
 
     # a "Hnnn...!"
     a ""
 
-# game/scripts/ash_events.rpy:10861
+# game/scripts/ash_events.rpy:10865
 translate pt_br ashinteract_52a7d0d8:
 
     # a "Thank you..."
     a ""
 
-# game/scripts/ash_events.rpy:10865
+# game/scripts/ash_events.rpy:10869
 translate pt_br ashinteract_4e1f69c6:
 
     # a "Mmmn, thank you..."
     a ""
 
-# game/scripts/ash_events.rpy:10868
+# game/scripts/ash_events.rpy:10872
 translate pt_br ashinteract_e6be305a:
 
     # a "Don't you want to do something more~?"
     a ""
 
-# game/scripts/ash_events.rpy:10871
+# game/scripts/ash_events.rpy:10875
 translate pt_br ashinteract_700e0d0c:
 
     # a "I love you~"
     a ""
 
-# game/scripts/ash_events.rpy:10874
+# game/scripts/ash_events.rpy:10878
 translate pt_br ashinteract_4676fa9f:
 
     # a "Hnnngh~ So tight!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:10906
+# game/scripts/ash_events.rpy:10910
 translate pt_br ashinteract_b9cf5589:
 
     # a "What are you, my dad? You don't get to choose what I wear..."
     a ""
 
-# game/scripts/ash_events.rpy:10910
+# game/scripts/ash_events.rpy:10914
 translate pt_br ashinteract_ff686071:
 
     # c "I want you to wear something else while you're hanging out in the hotel."
     c ""
 
-# game/scripts/ash_events.rpy:10911
+# game/scripts/ash_events.rpy:10915
 translate pt_br ashinteract_ebb2afb6:
 
     # a "Sure."
     a ""
 
-# game/scripts/ash_events.rpy:10914
+# game/scripts/ash_events.rpy:10918
 translate pt_br ashoutfits_046134fd:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:10917
+# game/scripts/ash_events.rpy:10921
 translate pt_br ashoutfits_9a47eaeb:
 
     # a "Alright."
     a ""
 
-# game/scripts/ash_events.rpy:10930
+# game/scripts/ash_events.rpy:10934
 translate pt_br ashoutfits_046134fd_1:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:10933
+# game/scripts/ash_events.rpy:10937
 translate pt_br ashoutfits_9888278b:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/ash_events.rpy:10936
+# game/scripts/ash_events.rpy:10940
 translate pt_br ashoutfits_4f16dadc:
 
     # a "Hehe~ sure, I'll be your slutty school girl!"
     a ""
 
-# game/scripts/ash_events.rpy:10949
+# game/scripts/ash_events.rpy:10953
 translate pt_br ashoutfits_046134fd_2:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:10952
+# game/scripts/ash_events.rpy:10956
 translate pt_br ashoutfits_9888278b_1:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/ash_events.rpy:10956
+# game/scripts/ash_events.rpy:10960
 translate pt_br ashoutfits_99652b8a:
 
     # a "Alright!"
     a ""
 
-# game/scripts/ash_events.rpy:10969
+# game/scripts/ash_events.rpy:10973
 translate pt_br ashoutfits_046134fd_3:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:10972
+# game/scripts/ash_events.rpy:10976
 translate pt_br ashoutfits_9888278b_2:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/ash_events.rpy:10975
+# game/scripts/ash_events.rpy:10979
 translate pt_br ashoutfits_122af5af:
 
     # a "Sure~"
     a ""
 
-# game/scripts/ash_events.rpy:10988
+# game/scripts/ash_events.rpy:10992
 translate pt_br ashoutfits_046134fd_4:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:10991
+# game/scripts/ash_events.rpy:10995
 translate pt_br ashoutfits_d09b4eea:
 
     # "I need to raise her Relationship Level."
     ""
 
-# game/scripts/ash_events.rpy:10994
+# game/scripts/ash_events.rpy:10998
 translate pt_br ashoutfits_33e5825b:
 
     # a "Sure thing!"
     a ""
 
-# game/scripts/ash_events.rpy:11007
+# game/scripts/ash_events.rpy:11011
 translate pt_br ashoutfits_046134fd_5:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:11010
+# game/scripts/ash_events.rpy:11014
 translate pt_br ashoutfits_9888278b_3:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/ash_events.rpy:11013
+# game/scripts/ash_events.rpy:11017
 translate pt_br ashoutfits_611649a0:
 
     # a "Okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11026
+# game/scripts/ash_events.rpy:11030
 translate pt_br ashoutfits_046134fd_6:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:11029
+# game/scripts/ash_events.rpy:11033
 translate pt_br ashoutfits_9888278b_4:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/ash_events.rpy:11033
+# game/scripts/ash_events.rpy:11037
 translate pt_br ashoutfits_d699d419:
 
     # a "Sure! I'll be your little slut!"
     a ""
 
-# game/scripts/ash_events.rpy:11046
+# game/scripts/ash_events.rpy:11050
 translate pt_br ashoutfits_84b64bf3:
 
     # a "I'm not a slut."
     a ""
 
-# game/scripts/ash_events.rpy:11051
+# game/scripts/ash_events.rpy:11055
 translate pt_br ashoutfits_046134fd_7:
 
     # "She's already wearing that."
     ""
 
-# game/scripts/ash_events.rpy:11054
+# game/scripts/ash_events.rpy:11058
 translate pt_br ashoutfits_9888278b_5:
 
     # "I need to buy it first."
     ""
 
-# game/scripts/ash_events.rpy:11058
+# game/scripts/ash_events.rpy:11062
 translate pt_br ashoutfits_8df5fdc6:
 
     # a "R-Ropes...? You want to bind me up all day?"
     a ""
 
-# game/scripts/ash_events.rpy:11059
+# game/scripts/ash_events.rpy:11063
 translate pt_br ashoutfits_2e7357e3:
 
     # c "Maybe two."
     c ""
 
-# game/scripts/ash_events.rpy:11060
+# game/scripts/ash_events.rpy:11064
 translate pt_br ashoutfits_8cb1d382:
 
     # c "Or three."
     c ""
 
-# game/scripts/ash_events.rpy:11062
+# game/scripts/ash_events.rpy:11066
 translate pt_br ashoutfits_1f551f3a:
 
     # a "O-Okay..."
     a ""
 
-# game/scripts/ash_events.rpy:11074
+# game/scripts/ash_events.rpy:11078
 translate pt_br ashoutfits_4062f5ae:
 
     # a "Fuck yourself."
     a ""
 
-# game/scripts/ash_events.rpy:11075
+# game/scripts/ash_events.rpy:11079
 translate pt_br ashoutfits_65f7e9b7:
 
     # "Her submission and exhibitionism are too low..."
     ""
 
-# game/scripts/ash_events.rpy:11083
+# game/scripts/ash_events.rpy:11087
 translate pt_br ashoutfits_4a1ca1a1:
 
     # a "Cute... but also not."
     a ""
 
-# game/scripts/ash_events.rpy:11087
+# game/scripts/ash_events.rpy:11091
 translate pt_br ashoutfits_7fd8b877:
 
     # a "Oh, a pet name? Sure!"
     a ""
 
-# game/scripts/ash_events.rpy:11093
+# game/scripts/ash_events.rpy:11097
 translate pt_br ashoutfits_36bd1945:
 
     # a "Back to Ashley? Okay."
     a ""
 
-# game/scripts/ash_events.rpy:11095
+# game/scripts/ash_events.rpy:11099
 translate pt_br ashoutfits_f42328a9:
 
     # a "[ashname]? I like it!"
     a ""
 
-# game/scripts/ash_events.rpy:11101
+# game/scripts/ash_events.rpy:11105
 translate pt_br ashoutfits_506fb85f:
 
     # a "Huh? Why now? Let's just go in the morning, I'm tired..."
     a ""
 
-# game/scripts/ash_events.rpy:11104
+# game/scripts/ash_events.rpy:11108
 translate pt_br ashoutfits_000469cb:
 
     # a "No thanks..."
     a ""
 
-# game/scripts/ash_events.rpy:11105
+# game/scripts/ash_events.rpy:11109
 translate pt_br ashoutfits_1c80a044:
 
     # "Ashley's friendship is too low..."
     ""
 
-# game/scripts/ash_events.rpy:11110
+# game/scripts/ash_events.rpy:11114
 translate pt_br ashoutfits_150bf982:
 
     # a "You mean like a date? Hehe~ Sure let's go!"
     a ""
 
-# game/scripts/ash_events.rpy:11136
+# game/scripts/ash_events.rpy:11140
 translate pt_br ashoutfits_3a929882:
 
     # a "Hehe~ What do ya want to do?"
     a ""
 
-# game/scripts/ash_events.rpy:11139
+# game/scripts/ash_events.rpy:11143
 translate pt_br ashoutfits_f87240e5:
 
     # a "Yes~ let's fuck all day!"
     a ""
 
-# game/scripts/ash_events.rpy:11145
+# game/scripts/ash_events.rpy:11149
 translate pt_br ashfreemenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11151
+# game/scripts/ash_events.rpy:11155
 translate pt_br ashfreemenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11157
+# game/scripts/ash_events.rpy:11161
 translate pt_br ashfreemenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11163
+# game/scripts/ash_events.rpy:11167
 translate pt_br ashfreemenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/ash_events.rpy:11169
+# game/scripts/ash_events.rpy:11173
 translate pt_br ashfreemenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11175
+# game/scripts/ash_events.rpy:11179
 translate pt_br ashfreemenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11190
+# game/scripts/ash_events.rpy:11194
 translate pt_br ashfootmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11196
+# game/scripts/ash_events.rpy:11200
 translate pt_br ashfootmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11202
+# game/scripts/ash_events.rpy:11206
 translate pt_br ashfootmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11208
+# game/scripts/ash_events.rpy:11212
 translate pt_br ashfootmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/ash_events.rpy:11214
+# game/scripts/ash_events.rpy:11218
 translate pt_br ashfootmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11220
+# game/scripts/ash_events.rpy:11224
 translate pt_br ashfootmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11227
+# game/scripts/ash_events.rpy:11231
 translate pt_br ashfootmenu_46c17595:
 
     # a "Sure!"
     a ""
 
-# game/scripts/ash_events.rpy:11233
+# game/scripts/ash_events.rpy:11237
 translate pt_br ashblowmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11239
+# game/scripts/ash_events.rpy:11243
 translate pt_br ashblowmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11245
+# game/scripts/ash_events.rpy:11249
 translate pt_br ashblowmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11251
+# game/scripts/ash_events.rpy:11255
 translate pt_br ashblowmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/ash_events.rpy:11257
+# game/scripts/ash_events.rpy:11261
 translate pt_br ashblowmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11263
+# game/scripts/ash_events.rpy:11267
 translate pt_br ashblowmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11271
+# game/scripts/ash_events.rpy:11275
 translate pt_br ashblowmenu_7e9a9450:
 
     # a "Really? Yes!"
     a ""
 
-# game/scripts/ash_events.rpy:11278
+# game/scripts/ash_events.rpy:11282
 translate pt_br ashcowmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11284
+# game/scripts/ash_events.rpy:11288
 translate pt_br ashcowmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11290
+# game/scripts/ash_events.rpy:11294
 translate pt_br ashcowmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11296
+# game/scripts/ash_events.rpy:11300
 translate pt_br ashcowmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/ash_events.rpy:11302
+# game/scripts/ash_events.rpy:11306
 translate pt_br ashcowmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11308
+# game/scripts/ash_events.rpy:11312
 translate pt_br ashcowmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11315
+# game/scripts/ash_events.rpy:11319
 translate pt_br ashcowmenu_cf23c3dc:
 
     # a "Yay!"
     a ""
 
-# game/scripts/ash_events.rpy:11322
+# game/scripts/ash_events.rpy:11326
 translate pt_br ashanalmenu_0438e42c:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11328
+# game/scripts/ash_events.rpy:11332
 translate pt_br ashanalmenu_0438e42c_1:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11334
+# game/scripts/ash_events.rpy:11338
 translate pt_br ashanalmenu_0438e42c_2:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11340
+# game/scripts/ash_events.rpy:11344
 translate pt_br ashanalmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
     ""
 
-# game/scripts/ash_events.rpy:11346
+# game/scripts/ash_events.rpy:11350
 translate pt_br ashanalmenu_0438e42c_3:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11352
+# game/scripts/ash_events.rpy:11356
 translate pt_br ashanalmenu_0438e42c_4:
 
     # "I need to buy that outfit."
     ""
 
-# game/scripts/ash_events.rpy:11360
+# game/scripts/ash_events.rpy:11364
 translate pt_br ashanalmenu_40ef3158:
 
     # a "Okay! I'll get Felicity and Emma right now!"
     a ""
 
-# game/scripts/ash_events.rpy:11367
+# game/scripts/ash_events.rpy:11371
 translate pt_br ashanalmenu_c2494032:
 
     # c "Nevermind..."
     c ""
 
-# game/scripts/ash_events.rpy:11392
+# game/scripts/ash_events.rpy:11396
 translate pt_br ashanalmenu_a9a91f30:
 
     # a "I prefer going alone..."
     a ""
 
-# game/scripts/ash_events.rpy:11393
+# game/scripts/ash_events.rpy:11397
 translate pt_br ashanalmenu_1c80a044:
 
     # "Ashley's friendship is too low..."
     ""
 
-# game/scripts/ash_events.rpy:11397
+# game/scripts/ash_events.rpy:11401
 translate pt_br ashanalmenu_6f552f47:
 
     # a "Really, you'd like to go with me tonight? Yes, let's do it!"
     a ""
 
-# game/scripts/ash_events.rpy:11401
+# game/scripts/ash_events.rpy:11405
 translate pt_br ashanalmenu_55ca24fc:
 
     # "You and Ashley walk through the forest by your hotel to her secret spot..."
     ""
 
-# game/scripts/ash_events.rpy:11405
+# game/scripts/ash_events.rpy:11409
 translate pt_br ashanalmenu_d6b4397c:
 
     # a "Thanks for coming out here with me, the breeze is so nice, isn't it?"
     a ""
 
-# game/scripts/ash_events.rpy:11407
+# game/scripts/ash_events.rpy:11411
 translate pt_br ashanalmenu_b12e68d5:
 
     # a "Do you think we'll meet another fairy out here? Hehe..."
     a ""
 
-# game/scripts/ash_events.rpy:11409
+# game/scripts/ash_events.rpy:11413
 translate pt_br ashanalmenu_561dcef8:
 
     # a "We're the only two humans in the world that know about this place... just you and I."
     a ""
 
-# game/scripts/ash_events.rpy:11413
+# game/scripts/ash_events.rpy:11417
 translate pt_br ashanalmenu_e9e7bbe8:
 
     # a "*yaaawn*, let's get out of here before we pass out... Trust me, you don't want to wake up with sand everywhere."
     a ""
 
-# game/scripts/ash_events.rpy:11417
+# game/scripts/ash_events.rpy:11421
 translate pt_br ashanalmenu_216686ce:
 
     # a "Yeah! Let's do it!"
     a ""
 
-# game/scripts/ash_events.rpy:11425
+# game/scripts/ash_events.rpy:11429
 translate pt_br ashanalmenu_a41b6269:
 
     # a "Let's worry about that tomorrow instead..."
     a ""
 
-# game/scripts/ash_events.rpy:11429
+# game/scripts/ash_events.rpy:11433
 translate pt_br ashanalmenu_1995bab5:
 
     # a "What!? You want to take nude photos of me!? I'm not a slut!"
     a ""
 
-# game/scripts/ash_events.rpy:11430
+# game/scripts/ash_events.rpy:11434
 translate pt_br ashanalmenu_1c80a044_1:
 
     # "Ashley's friendship is too low..."
     ""
 
-# game/scripts/ash_events.rpy:11436
+# game/scripts/ash_events.rpy:11440
 translate pt_br ashanalmenu_5e25974c:
 
     # a "I'm not going to let you sell my body for money!"
     a ""
 
-# game/scripts/ash_events.rpy:11437
+# game/scripts/ash_events.rpy:11441
 translate pt_br ashanalmenu_a32d4af3:
 
     # "Ashley's affection is too low..."
     ""
 
-# game/scripts/ash_events.rpy:11440
+# game/scripts/ash_events.rpy:11444
 translate pt_br ashanalmenu_7ed45f94:
 
     # a "You want to make money off of my body?"
     a ""
 
-# game/scripts/ash_events.rpy:11441
+# game/scripts/ash_events.rpy:11445
 translate pt_br ashanalmenu_ed1e02f5:
 
     # a "I'd be happy to help! If you can make some money, I don't really mind..."
     a ""
 
-# game/scripts/ash_events.rpy:11448
+# game/scripts/ash_events.rpy:11452
 translate pt_br ashanalmenu_aa188f6f:
 
     # c "See you later."
     c ""
 
-# game/scripts/ash_events.rpy:11449
+# game/scripts/ash_events.rpy:11453
 translate pt_br ashanalmenu_31c32b02:
 
     # a "Byeee~"
     a ""
 
-# game/scripts/ash_events.rpy:11458
+# game/scripts/ash_events.rpy:11462
 translate pt_br ashley_freestyle_footjob_dea098d4:
 
     # a "Hehe~ you like my feet, don't you~?"
     a ""
 
-# game/scripts/ash_events.rpy:11459
+# game/scripts/ash_events.rpy:11463
 translate pt_br ashley_freestyle_footjob_7572146a:
 
     # a "Mmmh, your cock is so big... ah, it's making me wet...!"
     a ""
 
-# game/scripts/ash_events.rpy:11460
+# game/scripts/ash_events.rpy:11464
 translate pt_br ashley_freestyle_footjob_c104dba9:
 
     # a "Nnnh, I won't stop, just sit back and enjoy~"
     a ""
 
-# game/scripts/ash_events.rpy:11463
+# game/scripts/ash_events.rpy:11467
 translate pt_br ashley_freestyle_footjob_082a8a06:
 
     # a "Your cock is throbbing so much, mmmh~! You're just making my pussy wetter..."
     a ""
 
-# game/scripts/ash_events.rpy:11464
+# game/scripts/ash_events.rpy:11468
 translate pt_br ashley_freestyle_footjob_6fe8ea35:
 
     # a "Nnnh, I want you to cum for me, [name]! Mmmmh~ I want to see your love!"
     a ""
 
-# game/scripts/ash_events.rpy:11465
+# game/scripts/ash_events.rpy:11469
 translate pt_br ashley_freestyle_footjob_ba772414:
 
     # a "Yes, yes...! Mmmh...! Do it...!"
     a ""
 
-# game/scripts/ash_events.rpy:11468
+# game/scripts/ash_events.rpy:11472
 translate pt_br ashley_freestyle_footjob_1ecf4fd1:
 
     # c "Get on your knees, I want you to suck my cock."
     c ""
 
-# game/scripts/ash_events.rpy:11469
+# game/scripts/ash_events.rpy:11473
 translate pt_br ashley_freestyle_footjob_78862425:
 
     # a "O-Okay."
     a ""
 
-# game/scripts/ash_events.rpy:11472
+# game/scripts/ash_events.rpy:11476
 translate pt_br ashley_freestyle_footjob_f837fd91:
 
     # c "Get on top, I want you to fuck me."
     c ""
 
-# game/scripts/ash_events.rpy:11473
+# game/scripts/ash_events.rpy:11477
 translate pt_br ashley_freestyle_footjob_2bd121d7:
 
     # a "Hehe~ okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11476
+# game/scripts/ash_events.rpy:11480
 translate pt_br ashley_freestyle_footjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/ash_events.rpy:11477
+# game/scripts/ash_events.rpy:11481
 translate pt_br ashley_freestyle_footjob_611649a0:
 
     # a "Okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11483
+# game/scripts/ash_events.rpy:11487
 translate pt_br ashley_freestyle_footjob_addf6644:
 
     # a "Aaah~! Yes!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11486
+# game/scripts/ash_events.rpy:11490
 translate pt_br ashley_freestyle_footjob_479ff1d0:
 
     # a "Hehe~ you came all over yourself... I hope you enjoyed~"
     a ""
 
-# game/scripts/ash_events.rpy:11497
+# game/scripts/ash_events.rpy:11501
 translate pt_br ashley_freestyle_blowjob_dc3dd3fa:
 
     # a "Hehe~ are you ready for another blowjob, [name]...?"
     a ""
 
-# game/scripts/ash_events.rpy:11500
+# game/scripts/ash_events.rpy:11504
 translate pt_br ashley_freestyle_blowjob_aca75627:
 
     # a "Mmmph, nnnh...! How does that feel? Heheh, don't cum too fast!"
     a ""
 
-# game/scripts/ash_events.rpy:11501
+# game/scripts/ash_events.rpy:11505
 translate pt_br ashley_freestyle_blowjob_6356a812:
 
     # c "You're doing great..."
     c ""
 
-# game/scripts/ash_events.rpy:11502
+# game/scripts/ash_events.rpy:11506
 translate pt_br ashley_freestyle_blowjob_1900fc19:
 
     # a "Thank you...! Llmph...! Just sit back and enjoy~"
     a ""
 
-# game/scripts/ash_events.rpy:11505
+# game/scripts/ash_events.rpy:11509
 translate pt_br ashley_freestyle_blowjob_c78979c7:
 
     # a "Ahlmn...! Nnnh! I love your cock so much, mmmh...! Mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:11506
+# game/scripts/ash_events.rpy:11510
 translate pt_br ashley_freestyle_blowjob_c291134c:
 
     # a "Hnnngh! Nnnghk! I want you to explode in my mouth, [name], mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:11507
+# game/scripts/ash_events.rpy:11511
 translate pt_br ashley_freestyle_blowjob_745632f2:
 
     # a "Ahhn...! Mmmph! Haah! Are you getting close? Mmmph! Cum for me! Mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:11510
+# game/scripts/ash_events.rpy:11514
 translate pt_br ashley_freestyle_blowjob_9885da95:
 
     # c "I want you to give me a footjob."
     c ""
 
-# game/scripts/ash_events.rpy:11511
+# game/scripts/ash_events.rpy:11515
 translate pt_br ashley_freestyle_blowjob_3fb533fc:
 
     # a "Ohh, okay~"
     a ""
 
-# game/scripts/ash_events.rpy:11514
+# game/scripts/ash_events.rpy:11518
 translate pt_br ashley_freestyle_blowjob_f837fd91:
 
     # c "Get on top, I want you to fuck me."
     c ""
 
-# game/scripts/ash_events.rpy:11515
+# game/scripts/ash_events.rpy:11519
 translate pt_br ashley_freestyle_blowjob_2bd121d7:
 
     # a "Hehe~ okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11518
+# game/scripts/ash_events.rpy:11522
 translate pt_br ashley_freestyle_blowjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/ash_events.rpy:11519
+# game/scripts/ash_events.rpy:11523
 translate pt_br ashley_freestyle_blowjob_611649a0:
 
     # a "Okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11525
+# game/scripts/ash_events.rpy:11529
 translate pt_br ashley_freestyle_blowjob_33f5b899:
 
     # a "Hnnnghk!?" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11526
+# game/scripts/ash_events.rpy:11530
 translate pt_br ashley_freestyle_blowjob_106752f3:
 
     # a "Mmmmgh!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11527
+# game/scripts/ash_events.rpy:11531
 translate pt_br ashley_freestyle_blowjob_7ee14cfe:
 
     # a "Nnghk!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11530
+# game/scripts/ash_events.rpy:11534
 translate pt_br ashley_freestyle_blowjob_79402530:
 
     # a "Eehhh, nnngh...! \n*gulp*...!\n*cough*! Ehem...!"
     a ""
 
-# game/scripts/ash_events.rpy:11532
+# game/scripts/ash_events.rpy:11536
 translate pt_br ashley_freestyle_blowjob_f2773f17:
 
     # a "All gone~! I swallowed it, hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:11536
+# game/scripts/ash_events.rpy:11540
 translate pt_br ashley_freestyle_blowjob_58cdfe8d:
 
     # a "Aaah~!"
     a ""
 
-# game/scripts/ash_events.rpy:11538
+# game/scripts/ash_events.rpy:11542
 translate pt_br ashley_freestyle_blowjob_26f72c0e:
 
     # a "You came so much! Hehe~ you really enjoyed that, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:11540
+# game/scripts/ash_events.rpy:11544
 translate pt_br ashley_freestyle_blowjob_af90c2b7:
 
     # c "That was great, Ashley."
     c ""
 
-# game/scripts/ash_events.rpy:11541
+# game/scripts/ash_events.rpy:11545
 translate pt_br ashley_freestyle_blowjob_ee5be76f:
 
     # a "Hehe~ thank you! Bye~"
     a ""
 
-# game/scripts/ash_events.rpy:11557
+# game/scripts/ash_events.rpy:11561
 translate pt_br ashley_freestyle_cowgirl_23af3753:
 
     # a "Nnnh, please fill my pussy up, [name]...! I want all your cum inside!"
     a ""
 
-# game/scripts/ash_events.rpy:11560
+# game/scripts/ash_events.rpy:11564
 translate pt_br ashley_freestyle_cowgirl_18c6c2e1:
 
     # a "Haaahhh, aaah~! Ngh!"
     a ""
 
-# game/scripts/ash_events.rpy:11563
+# game/scripts/ash_events.rpy:11567
 translate pt_br ashley_freestyle_cowgirl_547c6685:
 
     # a "So big...! Mmmngh!"
     a ""
 
-# game/scripts/ash_events.rpy:11565
+# game/scripts/ash_events.rpy:11569
 translate pt_br ashley_freestyle_cowgirl_6029833a:
 
     # a "Ahh! [name]! Fuck~ I love you, I love you! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:11567
+# game/scripts/ash_events.rpy:11571
 translate pt_br ashley_freestyle_cowgirl_4b501fb9:
 
     # a "Ahh! [name]! Fuck~ That feels so good! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:11568
+# game/scripts/ash_events.rpy:11572
 translate pt_br ashley_freestyle_cowgirl_b26fdd41:
 
     # a "Nnh, mmmngh! I love your dick so much! Ahh! If I go too long without it my pussy starts to ache~! Hehe~ Hahhh...!"
     a ""
 
-# game/scripts/ash_events.rpy:11569
+# game/scripts/ash_events.rpy:11573
 translate pt_br ashley_freestyle_cowgirl_3629d92f:
 
     # a "Ahh! Hahh! It's so tight! You're stretching my pussy so much! Ahh! More, more~!"
     a ""
 
-# game/scripts/ash_events.rpy:11572
+# game/scripts/ash_events.rpy:11576
 translate pt_br ashley_freestyle_cowgirl_3eeb445c:
 
     # a "Hehe~ You love it, right? Right? Mmmmhgh! I can't get enough! Aaaahg~!"
     a ""
 
-# game/scripts/ash_events.rpy:11573
+# game/scripts/ash_events.rpy:11577
 translate pt_br ashley_freestyle_cowgirl_96986103:
 
     # a "Hnn! Fuck my tight pussy, mmmh~! Fuck me all day~! Haaah, hnnngh~! Cum deeeep inside!"
     a ""
 
-# game/scripts/ash_events.rpy:11574
+# game/scripts/ash_events.rpy:11578
 translate pt_br ashley_freestyle_cowgirl_84ac4310:
 
     # a "Yes, yes~! Fuck! Are you gonna cum? Mmmh! Cum, cum! Haaahg! Cum for me! Mmmh! Cum for me, cum for me~!"
     a ""
 
-# game/scripts/ash_events.rpy:11578
+# game/scripts/ash_events.rpy:11582
 translate pt_br ashley_freestyle_cowgirl_9885da95:
 
     # c "I want you to give me a footjob."
     c ""
 
-# game/scripts/ash_events.rpy:11579
+# game/scripts/ash_events.rpy:11583
 translate pt_br ashley_freestyle_cowgirl_3fb533fc:
 
     # a "Ohh, okay~"
     a ""
 
-# game/scripts/ash_events.rpy:11582
+# game/scripts/ash_events.rpy:11586
 translate pt_br ashley_freestyle_cowgirl_1ecf4fd1:
 
     # c "Get on your knees, I want you to suck my cock."
     c ""
 
-# game/scripts/ash_events.rpy:11583
+# game/scripts/ash_events.rpy:11587
 translate pt_br ashley_freestyle_cowgirl_46c17595:
 
     # a "Sure!"
     a ""
 
-# game/scripts/ash_events.rpy:11586
+# game/scripts/ash_events.rpy:11590
 translate pt_br ashley_freestyle_cowgirl_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
     c ""
 
-# game/scripts/ash_events.rpy:11587
+# game/scripts/ash_events.rpy:11591
 translate pt_br ashley_freestyle_cowgirl_611649a0:
 
     # a "Okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11593
+# game/scripts/ash_events.rpy:11597
 translate pt_br ashley_freestyle_cowgirl_673e6ae4:
 
     # a "*gasp*! Yes~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11594
+# game/scripts/ash_events.rpy:11598
 translate pt_br ashley_freestyle_cowgirl_19c82439:
 
     # a "Ahh! Ohhh!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11595
+# game/scripts/ash_events.rpy:11599
 translate pt_br ashley_freestyle_cowgirl_d979d5a3:
 
     # a "There's so much! Aaah~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11597
+# game/scripts/ash_events.rpy:11601
 translate pt_br ashley_freestyle_cowgirl_a6ca5128:
 
     # a "Aaah... hahhh...! Nnnm..."
     a ""
 
-# game/scripts/ash_events.rpy:11598
+# game/scripts/ash_events.rpy:11602
 translate pt_br ashley_freestyle_cowgirl_8142eff0:
 
     # a "That's just what I wanted, mmh... thank you~"
     a ""
 
-# game/scripts/ash_events.rpy:11603
+# game/scripts/ash_events.rpy:11607
 translate pt_br ashley_freestyle_cowgirl_f12e92ca:
 
     # a "Ahhh~! Yes!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11605
+# game/scripts/ash_events.rpy:11609
 translate pt_br ashley_freestyle_cowgirl_8cb0a6d6:
 
     # a "Mmm~ that's so much cum...! I want it inside me..."
     a ""
 
-# game/scripts/ash_events.rpy:11624
+# game/scripts/ash_events.rpy:11628
 translate pt_br ashley_freestyle_anal_66692313:
 
     # a "Hurry~! Mmmh, don't tease me...!"
     a ""
 
-# game/scripts/ash_events.rpy:11627
+# game/scripts/ash_events.rpy:11631
 translate pt_br ashley_freestyle_anal_1d327fc5:
 
     # a "Aaagh! Hnnngh...!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11630
+# game/scripts/ash_events.rpy:11634
 translate pt_br ashley_freestyle_anal_f7f4bead:
 
     # a "Nnnnm~! Fuck, fuck~! Mmmngh...!"
     a ""
 
-# game/scripts/ash_events.rpy:11631
+# game/scripts/ash_events.rpy:11635
 translate pt_br ashley_freestyle_anal_cbbb8109:
 
     # a "Hnnngh! Haahn! Mmmngh! Yeah, it feels so good..! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:11632
+# game/scripts/ash_events.rpy:11636
 translate pt_br ashley_freestyle_anal_6eefc033:
 
     # a "Hahh, nnnm! Do you like fucking my tight ass, [name]? Nnnngh! Give me more~!"
     a ""
 
-# game/scripts/ash_events.rpy:11635
+# game/scripts/ash_events.rpy:11639
 translate pt_br ashley_freestyle_anal_f05e8cfa:
 
     # a "Aaaah~! Yeah, yeah! MMMN! That feels really good! Mmmmn! Fuck...!"
     a ""
 
-# game/scripts/ash_events.rpy:11636
+# game/scripts/ash_events.rpy:11640
 translate pt_br ashley_freestyle_anal_244b2a9b:
 
     # a "Aaahn, hnnn! Keep going, keep going! Ohh, fuck! Haaah, mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:11637
+# game/scripts/ash_events.rpy:11641
 translate pt_br ashley_freestyle_anal_1fd211f7:
 
     # a "Nnngh~! I want you to cum...! Mmmn! Cum on my ass! I want to feel your love all over me~! Haaah!"
     a ""
 
-# game/scripts/ash_events.rpy:11638
+# game/scripts/ash_events.rpy:11642
 translate pt_br ashley_freestyle_anal_4f92f50d:
 
     # a "Nnnh, aaahg! Cum on me, cum on me! Cum! MMMN! Cum!"
     a ""
 
-# game/scripts/ash_events.rpy:11641
+# game/scripts/ash_events.rpy:11645
 translate pt_br ashley_freestyle_anal_9885da95:
 
     # c "I want you to give me a footjob."
     c ""
 
-# game/scripts/ash_events.rpy:11642
+# game/scripts/ash_events.rpy:11646
 translate pt_br ashley_freestyle_anal_3fb533fc:
 
     # a "Ohh, okay~"
     a ""
 
-# game/scripts/ash_events.rpy:11645
+# game/scripts/ash_events.rpy:11649
 translate pt_br ashley_freestyle_anal_1ecf4fd1:
 
     # c "Get on your knees, I want you to suck my cock."
     c ""
 
-# game/scripts/ash_events.rpy:11646
+# game/scripts/ash_events.rpy:11650
 translate pt_br ashley_freestyle_anal_78862425:
 
     # a "O-Okay."
     a ""
 
-# game/scripts/ash_events.rpy:11649
+# game/scripts/ash_events.rpy:11653
 translate pt_br ashley_freestyle_anal_f837fd91:
 
     # c "Get on top, I want you to fuck me."
     c ""
 
-# game/scripts/ash_events.rpy:11650
+# game/scripts/ash_events.rpy:11654
 translate pt_br ashley_freestyle_anal_2bd121d7:
 
     # a "Hehe~ okay!"
     a ""
 
-# game/scripts/ash_events.rpy:11656
+# game/scripts/ash_events.rpy:11660
 translate pt_br ashley_freestyle_anal_eb8978e7:
 
     # a "Nnnhg~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11657
+# game/scripts/ash_events.rpy:11661
 translate pt_br ashley_freestyle_anal_79e7efcf:
 
     # a "Aaaahg! You're cumming inside...!?" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11658
+# game/scripts/ash_events.rpy:11662
 translate pt_br ashley_freestyle_anal_e20ede2f:
 
     # a "Mmmmnh~! Hnnn!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11661
+# game/scripts/ash_events.rpy:11665
 translate pt_br ashley_freestyle_anal_1b0d4291:
 
     # a "Aaah... haahhh...! Wow, hnng... you came so much...! You must have really enjoyed it, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:11668
+# game/scripts/ash_events.rpy:11672
 translate pt_br ashley_freestyle_anal_1eafc5bd:
 
     # a "Aaah!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11670
+# game/scripts/ash_events.rpy:11674
 translate pt_br ashley_freestyle_anal_406a95fa:
 
     # a "Nnnh, mmmn... Wow, you came so much...! You must have really enjoyed it, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:11729
+# game/scripts/ash_events.rpy:11733
 translate pt_br fairyroomtalk_cfc8bf28:
 
     # runa "Good morning."
     runa ""
 
-# game/scripts/ash_events.rpy:11731
+# game/scripts/ash_events.rpy:11735
 translate pt_br fairyroomtalk_0e614587:
 
     # runa "Greetings, human."
     runa ""
 
-# game/scripts/ash_events.rpy:11735
+# game/scripts/ash_events.rpy:11739
 translate pt_br fairyroomtalk_abea444e:
 
     # cia "Ah~ Hello!"
     cia ""
 
-# game/scripts/ash_events.rpy:11739
+# game/scripts/ash_events.rpy:11743
 translate pt_br fairyroomtalk_b4d03b1e:
 
     # zoia "Hey."
     zoia ""
 
-# game/scripts/ash_events.rpy:11783
+# game/scripts/ash_events.rpy:11787
 translate pt_br ashleyroom_39d49388:
 
     # a "*gasp*! Hey [name]! Why did you come to see me at night?"
     a ""
 
-# game/scripts/ash_events.rpy:11790
+# game/scripts/ash_events.rpy:11794
 translate pt_br ashcowgirl_23af3753:
 
     # a "Nnnh, please fill my pussy up, [name]...! I want all your cum inside!"
     a ""
 
-# game/scripts/ash_events.rpy:11793
+# game/scripts/ash_events.rpy:11797
 translate pt_br ashcowgirl_18c6c2e1:
 
     # a "Haaahhh, aaah~! Ngh!"
     a ""
 
-# game/scripts/ash_events.rpy:11796
+# game/scripts/ash_events.rpy:11800
 translate pt_br ashcowgirl_547c6685:
 
     # a "So big...! Mmmngh!"
     a ""
 
-# game/scripts/ash_events.rpy:11798
+# game/scripts/ash_events.rpy:11802
 translate pt_br ashcowgirl_6029833a:
 
     # a "Ahh! [name]! Fuck~ I love you, I love you! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:11800
+# game/scripts/ash_events.rpy:11804
 translate pt_br ashcowgirl_4b501fb9:
 
     # a "Ahh! [name]! Fuck~ That feels so good! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:11801
+# game/scripts/ash_events.rpy:11805
 translate pt_br ashcowgirl_b26fdd41:
 
     # a "Nnh, mmmngh! I love your dick so much! Ahh! If I go too long without it my pussy starts to ache~! Hehe~ Hahhh...!"
     a ""
 
-# game/scripts/ash_events.rpy:11802
+# game/scripts/ash_events.rpy:11806
 translate pt_br ashcowgirl_3629d92f:
 
     # a "Ahh! Hahh! It's so tight! You're stretching my pussy so much! Ahh! More, more~!"
     a ""
 
-# game/scripts/ash_events.rpy:11805
+# game/scripts/ash_events.rpy:11809
 translate pt_br ashcowgirl_3eeb445c:
 
     # a "Hehe~ You love it, right? Right? Mmmmhgh! I can't get enough! Aaaahg~!"
     a ""
 
-# game/scripts/ash_events.rpy:11806
+# game/scripts/ash_events.rpy:11810
 translate pt_br ashcowgirl_96986103:
 
     # a "Hnn! Fuck my tight pussy, mmmh~! Fuck me all day~! Haaah, hnnngh~! Cum deeeep inside!"
     a ""
 
-# game/scripts/ash_events.rpy:11807
+# game/scripts/ash_events.rpy:11811
 translate pt_br ashcowgirl_84ac4310:
 
     # a "Yes, yes~! Fuck! Are you gonna cum? Mmmh! Cum, cum! Haaahg! Cum for me! Mmmh! Cum for me, cum for me~!"
     a ""
 
-# game/scripts/ash_events.rpy:11812
+# game/scripts/ash_events.rpy:11816
 translate pt_br ashcowgirl_673e6ae4:
 
     # a "*gasp*! Yes~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11813
+# game/scripts/ash_events.rpy:11817
 translate pt_br ashcowgirl_19c82439:
 
     # a "Ahh! Ohhh!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11814
+# game/scripts/ash_events.rpy:11818
 translate pt_br ashcowgirl_d979d5a3:
 
     # a "There's so much! Aaah~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:11816
+# game/scripts/ash_events.rpy:11820
 translate pt_br ashcowgirl_a6ca5128:
 
     # a "Aaah... hahhh...! Nnnm..."
     a ""
 
-# game/scripts/ash_events.rpy:11817
+# game/scripts/ash_events.rpy:11821
 translate pt_br ashcowgirl_8142eff0:
 
     # a "That's just what I wanted, mmh... thank you~"
     a ""
 
-# game/scripts/ash_events.rpy:11825
+# game/scripts/ash_events.rpy:11829
 translate pt_br ashcowgirl_6a60ed38:
 
     # a "Ahhh~! Yes! Mmm~ that's so much cum...! I want it inside me..."
     a ""
 
-# game/scripts/ash_events.rpy:12043
+# game/scripts/ash_events.rpy:12047
 translate pt_br ashleydown_f4f29c7b:
 
     # a "Urgh! Where is it?"
     a ""
 
-# game/scripts/ash_events.rpy:12045
+# game/scripts/ash_events.rpy:12049
 translate pt_br ashleydown_9446236b:
 
     # a "It's got to be around here somewhere..."
     a ""
 
-# game/scripts/ash_events.rpy:12049
+# game/scripts/ash_events.rpy:12053
 translate pt_br ashleydown_9a060fd5:
 
     # a "Oh! There it is!"
     a ""
 
-# game/scripts/ash_events.rpy:12051
+# game/scripts/ash_events.rpy:12055
 translate pt_br ashleydown_2cf998d9:
 
     # a "Hey [name], what's up?"
     a ""
 
-# game/scripts/ash_events.rpy:12055
+# game/scripts/ash_events.rpy:12059
 translate pt_br ashleydown_e7a80ce4:
 
     # a "Nope!"
     a ""
 
-# game/scripts/ash_events.rpy:12057
+# game/scripts/ash_events.rpy:12061
 translate pt_br ashleydown_02cf9b3e:
 
     # a "I never do, they're just annoying..."
     a ""
 
-# game/scripts/ash_events.rpy:12059
+# game/scripts/ash_events.rpy:12063
 translate pt_br ashleydown_ca8950d5:
 
     # a "Does that mean you saw my pussy? hehehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12061
+# game/scripts/ash_events.rpy:12065
 translate pt_br ashleydown_9c1df9ff:
 
     # a "It's cute right? I think so..."
     a ""
 
-# game/scripts/ash_events.rpy:12065
+# game/scripts/ash_events.rpy:12069
 translate pt_br ashleydown_79a9dd16:
 
     # a "Ohh~ You really think so [name]?"
     a ""
 
-# game/scripts/ash_events.rpy:12066
+# game/scripts/ash_events.rpy:12070
 translate pt_br ashleydown_916d02df:
 
     # a "Hehe~ wanna see it up close?"
     a ""
 
-# game/scripts/ash_events.rpy:12068
+# game/scripts/ash_events.rpy:12072
 translate pt_br ashleydown_72735076:
 
     # a "Here you go!"
     a ""
 
-# game/scripts/ash_events.rpy:12073
+# game/scripts/ash_events.rpy:12077
 translate pt_br ashleydown_3e7409ce:
 
     # a "...Guess what?"
     a ""
 
-# game/scripts/ash_events.rpy:12075
+# game/scripts/ash_events.rpy:12079
 translate pt_br ashleydown_938f9afc:
 
     # a "I don't wear a bra either hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12077
+# game/scripts/ash_events.rpy:12081
 translate pt_br ashleydown_370cf661:
 
     # a "Bye [name], hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12085
+# game/scripts/ash_events.rpy:12089
 translate pt_br ashleydown_55d49bab:
 
     # a "What...?"
     a ""
 
-# game/scripts/ash_events.rpy:12087
+# game/scripts/ash_events.rpy:12091
 translate pt_br ashleydown_f5d1349b:
 
     # a "Rrrrr... You're so mean [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:12089
+# game/scripts/ash_events.rpy:12093
 translate pt_br ashleydown_a4c7bd9d:
 
     # "Ashley kicks you out of the room"
     ""
 
-# game/scripts/ash_events.rpy:12096
+# game/scripts/ash_events.rpy:12100
 translate pt_br ashleydown_e51bc45d:
 
     # a "Aww, you're so sweet [name]"
     a ""
 
-# game/scripts/ash_events.rpy:12097
+# game/scripts/ash_events.rpy:12101
 translate pt_br ashleydown_fba3783c:
 
     # a "I found my phone, so everything's good here."
     a ""
 
-# game/scripts/ash_events.rpy:12098
+# game/scripts/ash_events.rpy:12102
 translate pt_br ashleydown_f0dfd5ef:
 
     # a "See ya around!"
     a ""
 
-# game/scripts/ash_events.rpy:12106
+# game/scripts/ash_events.rpy:12110
 translate pt_br ashwork_34926f1a:
 
     # a "Thanks for helping me [name]..."
     a ""
 
-# game/scripts/ash_events.rpy:12108
+# game/scripts/ash_events.rpy:12112
 translate pt_br ashwork_fe803c35:
 
     # "You help Ashley with her homework, most of it is easy, some of it is hard. She clearly doesn't always pay attention in her classes..."
     ""
 
-# game/scripts/ash_events.rpy:12110
+# game/scripts/ash_events.rpy:12114
 translate pt_br ashwork_d360db10:
 
     # a "...Um, I have something to tell you..."
     a ""
 
-# game/scripts/ash_events.rpy:12112
+# game/scripts/ash_events.rpy:12116
 translate pt_br ashwork_10234293:
 
     # a "I'm still a virgin..."
     a ""
 
-# game/scripts/ash_events.rpy:12113
+# game/scripts/ash_events.rpy:12117
 translate pt_br ashwork_75f66039:
 
     # c "I thought you said you brought a lot of boys home?"
     c ""
 
-# game/scripts/ash_events.rpy:12115
+# game/scripts/ash_events.rpy:12119
 translate pt_br ashwork_ab1c50eb:
 
     # a "Yeah, and I did! ...But it never went anywhere..."
     a ""
 
-# game/scripts/ash_events.rpy:12116
+# game/scripts/ash_events.rpy:12120
 translate pt_br ashwork_42183d6b:
 
     # a "My Mom would always catch us before anything happened..."
     a ""
 
-# game/scripts/ash_events.rpy:12117
+# game/scripts/ash_events.rpy:12121
 translate pt_br ashwork_2d9b2775:
 
     # a "I really want to lose it. I'm so embarrassed about it! You would think a girl like me would have {i}some{/i} experience."
     a ""
 
-# game/scripts/ash_events.rpy:12118
+# game/scripts/ash_events.rpy:12122
 translate pt_br ashwork_1a26e6f7:
 
     # c "...Do you want some help with that?"
     c ""
 
-# game/scripts/ash_events.rpy:12120
+# game/scripts/ash_events.rpy:12124
 translate pt_br ashwork_6aa9a147:
 
     # a "You mean, with you? hehehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12121
+# game/scripts/ash_events.rpy:12125
 translate pt_br ashwork_3dff3387:
 
     # a "You are pretty cute..."
     a ""
 
-# game/scripts/ash_events.rpy:12122
+# game/scripts/ash_events.rpy:12126
 translate pt_br ashwork_bd2152bf:
 
     # a "...And my parents aren't here to stop me~~~ hehehehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12124
+# game/scripts/ash_events.rpy:12128
 translate pt_br ashwork_53dae41c:
 
     # a "But I'm not really in the mood for it right now..."
     a ""
 
-# game/scripts/ash_events.rpy:12125
+# game/scripts/ash_events.rpy:12129
 translate pt_br ashwork_5e990a5d:
 
     # a "School has been really stressful lately, I need to make sure I've got perfect grades."
     a ""
 
-# game/scripts/ash_events.rpy:12127
+# game/scripts/ash_events.rpy:12131
 translate pt_br ashwork_af277b0c:
 
     # a "Maybe some other time!"
     a ""
 
-# game/scripts/ash_events.rpy:12129
+# game/scripts/ash_events.rpy:12133
 translate pt_br ashwork_cd14f039:
 
     # a "...Definitely some other time hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12130
+# game/scripts/ash_events.rpy:12134
 translate pt_br ashwork_262aee60:
 
     # a "Thanks for helping me [name]. I'm definitely going to get an A on this."
     a ""
 
-# game/scripts/ash_events.rpy:12131
+# game/scripts/ash_events.rpy:12135
 translate pt_br ashwork_ea157c60:
 
     # a "I'll see you later."
     a ""
 
-# game/scripts/ash_events.rpy:12139
+# game/scripts/ash_events.rpy:12143
 translate pt_br ashprejob_8d55135a:
 
     # a "Hi [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:12140
+# game/scripts/ash_events.rpy:12144
 translate pt_br ashprejob_0df5a7c1:
 
     # c "Is everything alright?"
     c ""
 
-# game/scripts/ash_events.rpy:12142
+# game/scripts/ash_events.rpy:12146
 translate pt_br ashprejob_4dede398:
 
     # a "Oh, ummm... no. I need some help."
     a ""
 
-# game/scripts/ash_events.rpy:12143
+# game/scripts/ash_events.rpy:12147
 translate pt_br ashprejob_79226b6e:
 
     # c "What's the issue?"
     c ""
 
-# game/scripts/ash_events.rpy:12144
+# game/scripts/ash_events.rpy:12148
 translate pt_br ashprejob_98abf61c:
 
     # a "I... need some help with school work."
     a ""
 
-# game/scripts/ash_events.rpy:12146
+# game/scripts/ash_events.rpy:12150
 translate pt_br ashprejob_53cdda4a:
 
     # a "Honestly, I hate school... college has been tough. Highschool math was so easy, but calculus is so hard... I barely know what I'm doing and the people really suck. I mean, why does any of this even matter?"
     a ""
 
-# game/scripts/ash_events.rpy:12147
+# game/scripts/ash_events.rpy:12151
 translate pt_br ashprejob_e2663c17:
 
     # c "Oh, I can help you with that."
     c ""
 
-# game/scripts/ash_events.rpy:12148
+# game/scripts/ash_events.rpy:12152
 translate pt_br ashprejob_f26c8ca8:
 
     # a "Okay! Umm..."
     a ""
 
-# game/scripts/ash_events.rpy:12149
+# game/scripts/ash_events.rpy:12153
 translate pt_br ashprejob_a758edb4:
 
     # a "...What's 2+2?"
     a ""
 
-# game/scripts/ash_events.rpy:12150
+# game/scripts/ash_events.rpy:12154
 translate pt_br ashprejob_2324dfdf:
 
     # c "4?"
     c ""
 
-# game/scripts/ash_events.rpy:12151
+# game/scripts/ash_events.rpy:12155
 translate pt_br ashprejob_5bf192ed:
 
     # a "...That's right! Umm, okay and... what's 10-5?"
     a ""
 
-# game/scripts/ash_events.rpy:12152
+# game/scripts/ash_events.rpy:12156
 translate pt_br ashprejob_f33be8ae:
 
     # c "5..."
     c ""
 
-# game/scripts/ash_events.rpy:12153
+# game/scripts/ash_events.rpy:12157
 translate pt_br ashprejob_55fd6027:
 
     # a "Yep...! A-And, um..."
     a ""
 
-# game/scripts/ash_events.rpy:12154
+# game/scripts/ash_events.rpy:12158
 translate pt_br ashprejob_7b1835c5:
 
     # c "Ashley, those aren't calculus problems..."
     c ""
 
-# game/scripts/ash_events.rpy:12155
+# game/scripts/ash_events.rpy:12159
 translate pt_br ashprejob_bb8e4b4e:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:12156
+# game/scripts/ash_events.rpy:12160
 translate pt_br ashprejob_66715b30:
 
     # a "Urgh, this is harder than I thought it would be... I guess I should just jump right to it."
     a ""
 
-# game/scripts/ash_events.rpy:12158
+# game/scripts/ash_events.rpy:12162
 translate pt_br ashprejob_63324bf1:
 
     # a "Can... I suck your cock?"
     a ""
 
-# game/scripts/ash_events.rpy:12159
+# game/scripts/ash_events.rpy:12163
 translate pt_br ashprejob_d2e7f990:
 
     # c "Wait, what?"
     c ""
 
-# game/scripts/ash_events.rpy:12161
+# game/scripts/ash_events.rpy:12165
 translate pt_br ashprejob_50632550:
 
     # a "I just want to have some fun with you... It's not a big deal, is it?"
     a ""
 
-# game/scripts/ash_events.rpy:12162
+# game/scripts/ash_events.rpy:12166
 translate pt_br ashprejob_b7dba1bb:
 
     # c "Is that what you wanted my help with?"
     c ""
 
-# game/scripts/ash_events.rpy:12163
+# game/scripts/ash_events.rpy:12167
 translate pt_br ashprejob_f5475e88:
 
     # a "I just didn't know how to ask..."
     a ""
 
-# game/scripts/ash_events.rpy:12164
+# game/scripts/ash_events.rpy:12168
 translate pt_br ashprejob_aa9b6165:
 
     # c "You just... ask."
     c ""
 
-# game/scripts/ash_events.rpy:12165
+# game/scripts/ash_events.rpy:12169
 translate pt_br ashprejob_16ed6ddf:
 
     # a "Yeah, I guess you're right. It's easier that way..."
     a ""
 
-# game/scripts/ash_events.rpy:12166
+# game/scripts/ash_events.rpy:12170
 translate pt_br ashprejob_27487d79:
 
     # a "So, umm..."
     a ""
 
-# game/scripts/ash_events.rpy:12168
+# game/scripts/ash_events.rpy:12172
 translate pt_br ashprejob_4418a546:
 
     # a "Can I suck your cock?"
     a ""
 
-# game/scripts/ash_events.rpy:12169
+# game/scripts/ash_events.rpy:12173
 translate pt_br ashprejob_c533646a:
 
     # c "Sounds good to me."
     c ""
 
-# game/scripts/ash_events.rpy:12170
+# game/scripts/ash_events.rpy:12174
 translate pt_br ashprejob_4edbb976:
 
     # a "Hehe~ Okay, take a seat!"
     a ""
 
-# game/scripts/ash_events.rpy:12172
+# game/scripts/ash_events.rpy:12176
 translate pt_br ashprejob_4ce207f1:
 
     # a "Umm, are you going to take it out? Come on~"
     a ""
 
-# game/scripts/ash_events.rpy:12174
+# game/scripts/ash_events.rpy:12178
 translate pt_br ashprejob_5812064d:
 
     # a "Oh, right! I need to get you hard first. Hmmmm..."
     a ""
 
-# game/scripts/ash_events.rpy:12176
+# game/scripts/ash_events.rpy:12180
 translate pt_br ashprejob_4bbd7216:
 
     # a "D-Does this help?"
     a ""
 
-# game/scripts/ash_events.rpy:12179
+# game/scripts/ash_events.rpy:12183
 translate pt_br ashprejob_c656716d:
 
     # a "You don't think they're too small, do you?"
     a ""
 
-# game/scripts/ash_events.rpy:12182
+# game/scripts/ash_events.rpy:12186
 translate pt_br ashprejob_2f124b08:
 
     # a "Hehe~ thank you!"
     a ""
 
-# game/scripts/ash_events.rpy:12183
+# game/scripts/ash_events.rpy:12187
 translate pt_br ashprejob_697fe2cf:
 
     # a "Are you hard yet?"
     a ""
 
-# game/scripts/ash_events.rpy:12186
+# game/scripts/ash_events.rpy:12190
 translate pt_br ashprejob_762f77b4:
 
     # a "'Well' what?"
     a ""
 
-# game/scripts/ash_events.rpy:12187
+# game/scripts/ash_events.rpy:12191
 translate pt_br ashprejob_61605a1c:
 
     # c "It's just not my preference..."
     c ""
 
-# game/scripts/ash_events.rpy:12188
+# game/scripts/ash_events.rpy:12192
 translate pt_br ashprejob_41f1dafc:
 
     # a "Nnngh..."
     a ""
 
-# game/scripts/ash_events.rpy:12190
+# game/scripts/ash_events.rpy:12194
 translate pt_br ashprejob_c2fc5baa:
 
     # a "Shut up, you'll enjoy how my mouth feels all the same!"
     a ""
 
-# game/scripts/ash_events.rpy:12191
+# game/scripts/ash_events.rpy:12195
 translate pt_br ashprejob_1c6dcb9e:
 
     # a "Now take it out!"
     a ""
 
-# game/scripts/ash_events.rpy:12193
+# game/scripts/ash_events.rpy:12197
 translate pt_br ashprejob_af62cde1:
 
     # a "Woah! Are they all that big up close?\nI- I mean, I've sucked a cock before! I can take it!"
     a ""
 
-# game/scripts/ash_events.rpy:12194
+# game/scripts/ash_events.rpy:12198
 translate pt_br ashprejob_25e9635c:
 
     # c "Right..."
     c ""
 
-# game/scripts/ash_events.rpy:12195
+# game/scripts/ash_events.rpy:12199
 translate pt_br ashprejob_df23e4d6:
 
     # a "I guess I should just..."
     a ""
 
-# game/scripts/ash_events.rpy:12197
+# game/scripts/ash_events.rpy:12201
 translate pt_br ashprejob_f271dabd:
 
     # a "Lllln... does it feel good when I lick it?"
     a ""
 
-# game/scripts/ash_events.rpy:12198
+# game/scripts/ash_events.rpy:12202
 translate pt_br ashprejob_abcaeaeb:
 
     # a "Lllmn, I can feel you throbbing, you must really like it!"
     a ""
 
-# game/scripts/ash_events.rpy:12202
+# game/scripts/ash_events.rpy:12206
 translate pt_br ashprejob_94c5f54f:
 
     # a "Okay, let's get started!"
     a ""
 
-# game/scripts/ash_events.rpy:12204
+# game/scripts/ash_events.rpy:12208
 translate pt_br ashprejob_640fbff9:
 
     # a "Aaahlmn... Lmmn..."
     a ""
 
-# game/scripts/ash_events.rpy:12205
+# game/scripts/ash_events.rpy:12209
 translate pt_br ashprejob_79c075b0:
 
     # a "Hmm... it doesn't taste like I thought it would. Kind of tastes salty..."
     a ""
 
-# game/scripts/ash_events.rpy:12207
+# game/scripts/ash_events.rpy:12211
 translate pt_br ashprejob_cff1de1b:
 
     # a "Hehe~ are you ready for the real thing? Try not to cum too fast!"
     a ""
 
-# game/scripts/ash_events.rpy:12209
+# game/scripts/ash_events.rpy:12213
 translate pt_br ashprejob_04c35a9d:
 
     # a "Mmmph, nnnh...! How does that feel? Am I going fast enough?"
     a ""
 
-# game/scripts/ash_events.rpy:12210
+# game/scripts/ash_events.rpy:12214
 translate pt_br ashprejob_6356a812:
 
     # c "You're doing great..."
     c ""
 
-# game/scripts/ash_events.rpy:12211
+# game/scripts/ash_events.rpy:12215
 translate pt_br ashprejob_1900fc19:
 
     # a "Thank you...! Llmph...! Just sit back and enjoy~"
     a ""
 
-# game/scripts/ash_events.rpy:12214
+# game/scripts/ash_events.rpy:12218
 translate pt_br ashprejob_0fe4413f:
 
     # a "Ahlmn...! Nnnh! I love your cock...! I love how sucking it makes you feel! Mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:12215
+# game/scripts/ash_events.rpy:12219
 translate pt_br ashprejob_5f2da793:
 
     # a "Hnnngh! Nnnghk! I can't go that deep, but I hope that's okay for now... mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:12216
+# game/scripts/ash_events.rpy:12220
 translate pt_br ashprejob_745632f2:
 
     # a "Ahhn...! Mmmph! Haah! Are you getting close? Mmmph! Cum for me! Mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:12220
+# game/scripts/ash_events.rpy:12224
 translate pt_br ashprejob_33f5b899:
 
     # a "Hnnnghk!?" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12221
+# game/scripts/ash_events.rpy:12225
 translate pt_br ashprejob_106752f3:
 
     # a "Mmmmgh!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12222
+# game/scripts/ash_events.rpy:12226
 translate pt_br ashprejob_7ee14cfe:
 
     # a "Nnghk!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12224
+# game/scripts/ash_events.rpy:12228
 translate pt_br ashprejob_79402530:
 
     # a "Eehhh, nnngh...! \n*gulp*...!\n*cough*! Ehem...!"
     a ""
 
-# game/scripts/ash_events.rpy:12226
+# game/scripts/ash_events.rpy:12230
 translate pt_br ashprejob_f2773f17:
 
     # a "All gone~! I swallowed it, hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12232
+# game/scripts/ash_events.rpy:12236
 translate pt_br ashprejob_31121aaa:
 
     # a "Aaah~! Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12234
+# game/scripts/ash_events.rpy:12238
 translate pt_br ashprejob_a5419dd5:
 
     # a "You came so much! You must have really enjoyed that, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12236
+# game/scripts/ash_events.rpy:12240
 translate pt_br ashprejob_784cb0d6:
 
     # c "That was great... good job."
     c ""
 
-# game/scripts/ash_events.rpy:12237
+# game/scripts/ash_events.rpy:12241
 translate pt_br ashprejob_2f124b08_1:
 
     # a "Hehe~ thank you!"
     a ""
 
-# game/scripts/ash_events.rpy:12238
+# game/scripts/ash_events.rpy:12242
 translate pt_br ashprejob_0703d7db:
 
     # a "You can just ask whenever you want another one, I don't mind. It was really fun!"
     a ""
 
-# game/scripts/ash_events.rpy:12240
+# game/scripts/ash_events.rpy:12244
 translate pt_br ashprejob_decb49e9:
 
     # "You can now ask Ashley for a Blowjob!"
     ""
 
-# game/scripts/ash_events.rpy:12412
+# game/scripts/ash_events.rpy:12416
 translate pt_br ashjob_repeat_dc3dd3fa:
 
     # a "Hehe~ are you ready for another blowjob, [name]...?"
     a ""
 
-# game/scripts/ash_events.rpy:12415
+# game/scripts/ash_events.rpy:12419
 translate pt_br ashjob_repeat_aca75627:
 
     # a "Mmmph, nnnh...! How does that feel? Heheh, don't cum too fast!"
     a ""
 
-# game/scripts/ash_events.rpy:12416
+# game/scripts/ash_events.rpy:12420
 translate pt_br ashjob_repeat_6356a812:
 
     # c "You're doing great..."
     c ""
 
-# game/scripts/ash_events.rpy:12417
+# game/scripts/ash_events.rpy:12421
 translate pt_br ashjob_repeat_1900fc19:
 
     # a "Thank you...! Llmph...! Just sit back and enjoy~"
     a ""
 
-# game/scripts/ash_events.rpy:12420
+# game/scripts/ash_events.rpy:12424
 translate pt_br ashjob_repeat_c78979c7:
 
     # a "Ahlmn...! Nnnh! I love your cock so much, mmmh...! Mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:12421
+# game/scripts/ash_events.rpy:12425
 translate pt_br ashjob_repeat_c291134c:
 
     # a "Hnnngh! Nnnghk! I want you to explode in my mouth, [name], mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:12422
+# game/scripts/ash_events.rpy:12426
 translate pt_br ashjob_repeat_745632f2:
 
     # a "Ahhn...! Mmmph! Haah! Are you getting close? Mmmph! Cum for me! Mmmph!"
     a ""
 
-# game/scripts/ash_events.rpy:12426
+# game/scripts/ash_events.rpy:12430
 translate pt_br ashjob_repeat_33f5b899:
 
     # a "Hnnnghk!?" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12427
+# game/scripts/ash_events.rpy:12431
 translate pt_br ashjob_repeat_106752f3:
 
     # a "Mmmmgh!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12428
+# game/scripts/ash_events.rpy:12432
 translate pt_br ashjob_repeat_7ee14cfe:
 
     # a "Nnghk!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12431
+# game/scripts/ash_events.rpy:12435
 translate pt_br ashjob_repeat_79402530:
 
     # a "Eehhh, nnngh...! \n*gulp*...!\n*cough*! Ehem...!"
     a ""
 
-# game/scripts/ash_events.rpy:12433
+# game/scripts/ash_events.rpy:12437
 translate pt_br ashjob_repeat_f2773f17:
 
     # a "All gone~! I swallowed it, hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12437
+# game/scripts/ash_events.rpy:12441
 translate pt_br ashjob_repeat_58cdfe8d:
 
     # a "Aaah~!"
     a ""
 
-# game/scripts/ash_events.rpy:12439
+# game/scripts/ash_events.rpy:12443
 translate pt_br ashjob_repeat_26f72c0e:
 
     # a "You came so much! Hehe~ you really enjoyed that, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12441
+# game/scripts/ash_events.rpy:12445
 translate pt_br ashjob_repeat_af90c2b7:
 
     # c "That was great, Ashley."
     c ""
 
-# game/scripts/ash_events.rpy:12442
+# game/scripts/ash_events.rpy:12446
 translate pt_br ashjob_repeat_ee5be76f:
 
     # a "Hehe~ thank you! Bye~"
     a ""
 
-# game/scripts/ash_events.rpy:12457
+# game/scripts/ash_events.rpy:12461
 translate pt_br ashmom_fcd0f609:
 
     # q "-And this is where you ran off to!?"
     q ""
 
-# game/scripts/ash_events.rpy:12458
+# game/scripts/ash_events.rpy:12462
 translate pt_br ashmom_76e29dbe:
 
     # a "H-How did you even find me!?"
     a ""
 
-# game/scripts/ash_events.rpy:12459
+# game/scripts/ash_events.rpy:12463
 translate pt_br ashmom_49337d63:
 
     # q "You do realize that every purchase made on my card is trackable? It wasn't hard!"
     q ""
 
-# game/scripts/ash_events.rpy:12460
+# game/scripts/ash_events.rpy:12464
 translate pt_br ashmom_0506c3d1:
 
     # a "Well... where else was I supposed to go!?"
     a ""
 
-# game/scripts/ash_events.rpy:12461
+# game/scripts/ash_events.rpy:12465
 translate pt_br ashmom_86fe960e:
 
     # c "{i}(What's going on here...?){/i}"
     c ""
 
-# game/scripts/ash_events.rpy:12463
+# game/scripts/ash_events.rpy:12467
 translate pt_br ashmom_ed25e0ea:
 
     # q "And who is this?"
     q ""
 
-# game/scripts/ash_events.rpy:12464
+# game/scripts/ash_events.rpy:12468
 translate pt_br ashmom_6b22ddf8:
 
     # a "[name]! Oh, umm..."
     a ""
 
-# game/scripts/ash_events.rpy:12465
+# game/scripts/ash_events.rpy:12469
 translate pt_br ashmom_85a11690:
 
     # q "You know his name? Who are you?"
     q ""
 
-# game/scripts/ash_events.rpy:12466
+# game/scripts/ash_events.rpy:12470
 translate pt_br ashmom_338ae786:
 
     # c "I'm the manager here, and who are you?"
     c ""
 
-# game/scripts/ash_events.rpy:12467
+# game/scripts/ash_events.rpy:12471
 translate pt_br ashmom_6a18d3de:
 
     # am "I'm Ashley's mother! Are you aware that she's been STEALING from me to pay for rent?"
     am ""
 
-# game/scripts/ash_events.rpy:12468
+# game/scripts/ash_events.rpy:12472
 translate pt_br ashmom_a7ccea77:
 
     # c "Ashley, is this true?"
     c ""
 
-# game/scripts/ash_events.rpy:12469
+# game/scripts/ash_events.rpy:12473
 translate pt_br ashmom_146a1bf9:
 
     # a "Well... yes... but I have a good reason!"
     a ""
 
-# game/scripts/ash_events.rpy:12471
+# game/scripts/ash_events.rpy:12475
 translate pt_br ashmom_e7de015d:
 
     # am "No reason is good enough to steal from your family, Ashley! We've been worried sick!"
     am ""
 
-# game/scripts/ash_events.rpy:12472
+# game/scripts/ash_events.rpy:12476
 translate pt_br ashmom_de00334d:
 
     # a "Bullshit! You never wanted me!"
     a ""
 
-# game/scripts/ash_events.rpy:12473
+# game/scripts/ash_events.rpy:12477
 translate pt_br ashmom_a6326f7e:
 
     # am "Ashley, that's enough. You're coming home with me right now!"
     am ""
 
-# game/scripts/ash_events.rpy:12474
+# game/scripts/ash_events.rpy:12478
 translate pt_br ashmom_d7834cdf:
 
     # a "I'm 19! You can't force me to do anything anymore!"
     a ""
 
-# game/scripts/ash_events.rpy:12475
+# game/scripts/ash_events.rpy:12479
 translate pt_br ashmom_d1486fcc:
 
     # am "Then I'll cancel my card! We'll see how fast you run home then!"
     am ""
 
-# game/scripts/ash_events.rpy:12476
+# game/scripts/ash_events.rpy:12480
 translate pt_br ashmom_655c3541:
 
     # a "So you'd rather make me homeless!?"
     a ""
 
-# game/scripts/ash_events.rpy:12477
+# game/scripts/ash_events.rpy:12481
 translate pt_br ashmom_d29b1584:
 
     # am "If that's what it takes to knock some sense into you!"
     am ""
 
-# game/scripts/ash_events.rpy:12478
+# game/scripts/ash_events.rpy:12482
 translate pt_br ashmom_3ac3f235:
 
     # a "I HATE YOU!"
     a ""
 
-# game/scripts/ash_events.rpy:12479
+# game/scripts/ash_events.rpy:12483
 translate pt_br ashmom_01c97f1c:
 
     # c "Calm down, everyone... Ashley is adult, she can make her own decisions."
     c ""
 
-# game/scripts/ash_events.rpy:12481
+# game/scripts/ash_events.rpy:12485
 translate pt_br ashmom_a6d453bc:
 
     # am "Why do you care so much? Are you a willing accomplice to her theft!? I should call the police on you!"
     am ""
 
-# game/scripts/ash_events.rpy:12482
+# game/scripts/ash_events.rpy:12486
 translate pt_br ashmom_5665d8d5:
 
     # c "I didn't know she was stealing from you until now, but she doesn't need to go anywhere if she doesn't want to."
     c ""
 
-# game/scripts/ash_events.rpy:12483
+# game/scripts/ash_events.rpy:12487
 translate pt_br ashmom_8a542107:
 
     # am "Excuse me!? I could have her arrested if I wanted to!"
     am ""
 
-# game/scripts/ash_events.rpy:12484
+# game/scripts/ash_events.rpy:12488
 translate pt_br ashmom_3e20e2cb:
 
     # c "Is that really what you want?"
     c ""
 
-# game/scripts/ash_events.rpy:12485
+# game/scripts/ash_events.rpy:12489
 translate pt_br ashmom_6ea6e783:
 
     # a "{i}{size=-7}Of course it is...{/size}{/i}"
     a ""
 
-# game/scripts/ash_events.rpy:12486
+# game/scripts/ash_events.rpy:12490
 translate pt_br ashmom_8c4b5ad0:
 
     # am "She ran away from home and started stealing from us! She's clearly not mentally sound!"
     am ""
 
-# game/scripts/ash_events.rpy:12488
+# game/scripts/ash_events.rpy:12492
 translate pt_br ashmom_55d9a769:
 
     # a "It runs in the fucking family!"
     a ""
 
-# game/scripts/ash_events.rpy:12489
+# game/scripts/ash_events.rpy:12493
 translate pt_br ashmom_5ea14dca:
 
     # am "Don't you dare curse at me!"
     am ""
 
-# game/scripts/ash_events.rpy:12490
+# game/scripts/ash_events.rpy:12494
 translate pt_br ashmom_ba2bdb78:
 
     # a "FUCK YOU!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12491
+# game/scripts/ash_events.rpy:12495
 translate pt_br ashmom_7438fc02:
 
     # am "ASHLEY!"
     am ""
 
-# game/scripts/ash_events.rpy:12492
+# game/scripts/ash_events.rpy:12496
 translate pt_br ashmom_a665f26f:
 
     # c "Calm down, or I'll show you to the door."
     c ""
 
-# game/scripts/ash_events.rpy:12493
+# game/scripts/ash_events.rpy:12497
 translate pt_br ashmom_b2c7d990:
 
     # am "Ashley, do you want to know how I realized you were stealing from us? I couldn't afford groceries! We're going to starve because of you!"
     am ""
 
-# game/scripts/ash_events.rpy:12494
+# game/scripts/ash_events.rpy:12498
 translate pt_br ashmom_60947dff:
 
     # a "Well maybe if Dad didn't drink all YOUR money away, we wouldn't be so fucking poor!"
     a ""
 
-# game/scripts/ash_events.rpy:12495
+# game/scripts/ash_events.rpy:12499
 translate pt_br ashmom_862051f3:
 
     # am "Your father has nothing to do with this!"
     am ""
 
-# game/scripts/ash_events.rpy:12496
-translate pt_br ashmom_2a8061fe:
+# game/scripts/ash_events.rpy:12500
+translate pt_br ashmom_e46144b0:
 
-    # a "Dad has {u}EVERYTHING{/u} to do with this! I bet you couldn't even get him off his drunk ass come here with you!"
+    # a "Dad has {u}EVERYTHING{/u} to do with this! I bet you couldn't even get him off his drunk ass to come here with you!"
     a ""
 
-# game/scripts/ash_events.rpy:12497
+# game/scripts/ash_events.rpy:12501
 translate pt_br ashmom_6239a264:
 
     # am "Ashley, that-"
     am ""
 
-# game/scripts/ash_events.rpy:12498
+# game/scripts/ash_events.rpy:12502
 translate pt_br ashmom_33b6ab67:
 
     # a "-He doesn't care about us, he doesn't care about anything but booze! He {i}definitely{/i} doesn't care about me!"
     a ""
 
-# game/scripts/ash_events.rpy:12499
+# game/scripts/ash_events.rpy:12503
 translate pt_br ashmom_2290a36b:
 
     # am "That's it, Ashley! If you don't come with me right now, I'm going to the call the police on you!"
     am ""
 
-# game/scripts/ash_events.rpy:12500
+# game/scripts/ash_events.rpy:12504
 translate pt_br ashmom_7b027c2e:
 
     # c "That won't be necessary, she can stay, but she'll stop stealing from you."
     c ""
 
-# game/scripts/ash_events.rpy:12502
+# game/scripts/ash_events.rpy:12506
 translate pt_br ashmom_09db9eaf:
 
     # a "Huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12503
+# game/scripts/ash_events.rpy:12507
 translate pt_br ashmom_f8bf5a3b:
 
     # am "Excuse me? Are you planning on giving her a job or something?"
     am ""
 
-# game/scripts/ash_events.rpy:12504
+# game/scripts/ash_events.rpy:12508
 translate pt_br ashmom_0f16838e:
 
     # c "No, I plan on letting her stay here for free."
     c ""
 
-# game/scripts/ash_events.rpy:12506
+# game/scripts/ash_events.rpy:12510
 translate pt_br ashmom_17055672:
 
     # a "What!? Are you serious...?"
     a ""
 
-# game/scripts/ash_events.rpy:12507
+# game/scripts/ash_events.rpy:12511
 translate pt_br ashmom_4e8c7062:
 
     # c "Of course."
     c ""
 
-# game/scripts/ash_events.rpy:12508
+# game/scripts/ash_events.rpy:12512
 translate pt_br ashmom_553ba7a0:
 
     # am "Why would you do that? Are you having sex with my daughter!?"
     am ""
 
-# game/scripts/ash_events.rpy:12510
+# game/scripts/ash_events.rpy:12514
 translate pt_br ashmom_c803f1a7:
 
     # a "Just go away! I know you two never wanted me! Now I won't ever be an issue, so you'll never have to think of me again!"
     a ""
 
-# game/scripts/ash_events.rpy:12511
+# game/scripts/ash_events.rpy:12515
 translate pt_br ashmom_16b48800:
 
     # am "Fine! I'm cancelling that card, your father won't like hearing about this!"
     am ""
 
-# game/scripts/ash_events.rpy:12512
+# game/scripts/ash_events.rpy:12516
 translate pt_br ashmom_8b034367:
 
     # a "Good luck telling him! He won't even remember it!"
     a ""
 
-# game/scripts/ash_events.rpy:12516
+# game/scripts/ash_events.rpy:12520
 translate pt_br ashmom_a7aa79a9:
 
     # "Ashley's Mom slams the door behind her." with ssshake
     "" with ssshake
 
-# game/scripts/ash_events.rpy:12517
+# game/scripts/ash_events.rpy:12521
 translate pt_br ashmom_bb8e4b4e:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:12518
+# game/scripts/ash_events.rpy:12522
 translate pt_br ashmom_54a021d5:
 
     # c "That was... rough."
     c ""
 
-# game/scripts/ash_events.rpy:12520
+# game/scripts/ash_events.rpy:12524
 translate pt_br ashmom_c272eb7f:
 
     # a "Sorry about that, [name]... I didn't think she would ever find me..."
     a ""
 
-# game/scripts/ash_events.rpy:12521
+# game/scripts/ash_events.rpy:12525
 translate pt_br ashmom_1d4ba637:
 
     # c "Was everything you said true? Were you really stealing from her?"
     c ""
 
-# game/scripts/ash_events.rpy:12522
+# game/scripts/ash_events.rpy:12526
 translate pt_br ashmom_f6957e29:
 
     # a "Yes, and yes..."
     a ""
 
-# game/scripts/ash_events.rpy:12524
+# game/scripts/ash_events.rpy:12528
 translate pt_br ashmom_af459860:
 
     # a "Are you really okay with letting me live here for free? Because... I won't be able to pay for rent anymore..."
     a ""
 
-# game/scripts/ash_events.rpy:12525
+# game/scripts/ash_events.rpy:12529
 translate pt_br ashmom_55f96afc:
 
     # c "Don't worry about it, we make enough money to make up for it."
     c ""
 
-# game/scripts/ash_events.rpy:12527
+# game/scripts/ash_events.rpy:12531
 translate pt_br ashmom_14424954:
 
     # a "Really...!?"
     a ""
 
-# game/scripts/ash_events.rpy:12529
+# game/scripts/ash_events.rpy:12533
 translate pt_br ashmom_b68fcf52:
 
     # a "You have no idea how much this means to me! Thank you, thank you!"
     a ""
 
-# game/scripts/ash_events.rpy:12532
+# game/scripts/ash_events.rpy:12536
 translate pt_br ashmom_f9719264:
 
     # a "You won't regret this! I'll do anything for you, seriously! I'll even let you fuck my ass!"
     a ""
 
-# game/scripts/ash_events.rpy:12533
+# game/scripts/ash_events.rpy:12537
 translate pt_br ashmom_99f48a99:
 
     # c "Oh, that's not necessary..."
     c ""
 
-# game/scripts/ash_events.rpy:12534
+# game/scripts/ash_events.rpy:12538
 translate pt_br ashmom_09900b10:
 
     # a "No, really! I've got to pay in some way, right? I'll let you do anything to me! I've always wanted to try it, anyway..."
     a ""
 
-# game/scripts/ash_events.rpy:12537
+# game/scripts/ash_events.rpy:12541
 translate pt_br ashmom_4c760df3:
 
     # a "Yay! Hehe~ come on, let's go to my room!"
     a ""
 
-# game/scripts/ash_events.rpy:12540
+# game/scripts/ash_events.rpy:12544
 translate pt_br ashmom_b7ca379d:
 
     # a "Well, okay. Come on, let's go to my room!"
     a ""
 
-# game/scripts/ash_events.rpy:12543
+# game/scripts/ash_events.rpy:12547
 translate pt_br ashmom_039ad430:
 
     # "(Are you sure? This will lock you out of the repeatable anal option forever.)"
     ""
 
-# game/scripts/ash_events.rpy:12546
+# game/scripts/ash_events.rpy:12550
 translate pt_br ashmom_4c760df3_1:
 
     # a "Yay! Hehe~ come on, let's go to my room!"
     a ""
 
-# game/scripts/ash_events.rpy:12549
+# game/scripts/ash_events.rpy:12553
 translate pt_br ashmom_b7ca379d_1:
 
     # a "Well, okay. Come on, let's go to my room!"
     a ""
 
-# game/scripts/ash_events.rpy:12552
+# game/scripts/ash_events.rpy:12556
 translate pt_br ashmom_a0d3611a:
 
     # a "Oh, well... I don't really know how else I could pay you."
     a ""
 
-# game/scripts/ash_events.rpy:12553
+# game/scripts/ash_events.rpy:12557
 translate pt_br ashmom_df357d9c:
 
     # c "You don't need to, that's why it's free."
     c ""
 
-# game/scripts/ash_events.rpy:12554
+# game/scripts/ash_events.rpy:12558
 translate pt_br ashmom_1fbb58b9:
 
     # a "Heh, okay... well, I'll see you around then!"
     a ""
 
-# game/scripts/ash_events.rpy:12555
+# game/scripts/ash_events.rpy:12559
 translate pt_br ashmom_3b7b6e37:
 
     # a "Thanks again..."
     a ""
 
-# game/scripts/ash_events.rpy:12557
+# game/scripts/ash_events.rpy:12561
 translate pt_br ashmom_de943609:
 
     # "Ashley will no longer pay for rent."
     ""
 
-# game/scripts/ash_events.rpy:12565
+# game/scripts/ash_events.rpy:12569
 translate pt_br ash_anal_go_56ec740b:
 
     # a "Mmmmn, mmmph...!"
     a ""
 
-# game/scripts/ash_events.rpy:12568
+# game/scripts/ash_events.rpy:12572
 translate pt_br ash_anal_go_6687f09f:
 
     # a "I've never done this before, so... be gentle, okay?"
     a ""
 
-# game/scripts/ash_events.rpy:12570
+# game/scripts/ash_events.rpy:12574
 translate pt_br ash_anal_go_8a9456c9:
 
     # a "Hehe~ are you ready? You look ready..."
     a ""
 
-# game/scripts/ash_events.rpy:12574
+# game/scripts/ash_events.rpy:12578
 translate pt_br ash_anal_go_ce1e7f3e:
 
     # a "Nnnm, I'm nervous... your cock is so big... will it really fit?"
     a ""
 
-# game/scripts/ash_events.rpy:12576
+# game/scripts/ash_events.rpy:12580
 translate pt_br ash_anal_go_a717ee4e:
 
     # a "I've played with toys before, but nothing the size of a real cock... heh..."
     a ""
 
-# game/scripts/ash_events.rpy:12577
+# game/scripts/ash_events.rpy:12581
 translate pt_br ash_anal_go_4e849c0e:
 
     # a "Go ahead, put it in, but slowly. I can take a bit of pain, so don't feel bad if I scream a little."
     a ""
 
-# game/scripts/ash_events.rpy:12579
+# game/scripts/ash_events.rpy:12583
 translate pt_br ash_anal_go_7b48b8f7:
 
     # a "HNNNGH, AAAGH~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12581
+# game/scripts/ash_events.rpy:12585
 translate pt_br ash_anal_go_da199321:
 
     # a "Nnnnhgh! Ah, haaah... fuck! That's so big...!"
     a ""
 
-# game/scripts/ash_events.rpy:12582
+# game/scripts/ash_events.rpy:12586
 translate pt_br ash_anal_go_847497db:
 
     # a "Hahhh... mmmn~! You can start moving now...! Ahh...!"
     a ""
 
-# game/scripts/ash_events.rpy:12584
+# game/scripts/ash_events.rpy:12588
 translate pt_br ash_anal_go_9bca8fd9:
 
     # a "Nnnnm~! Fuck, fuck~! Eeee! Mmmngh...!"
     a ""
 
-# game/scripts/ash_events.rpy:12585
+# game/scripts/ash_events.rpy:12589
 translate pt_br ash_anal_go_c02a6089:
 
     # c "Try to stay relaxed."
     c ""
 
-# game/scripts/ash_events.rpy:12586
+# game/scripts/ash_events.rpy:12590
 translate pt_br ash_anal_go_bed3eead:
 
     # a "Hnnngh! O-Okay...! Haahn! Mmmngh! Yeah, it's starting to feel better now...! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:12587
+# game/scripts/ash_events.rpy:12591
 translate pt_br ash_anal_go_522ca2ab:
 
     # a "Hahh, nnnm! Do you like fucking my tight ass, [name]? Nnnngh! This is so much better than a toy, I love when you grab my ass!"
     a ""
 
-# game/scripts/ash_events.rpy:12590
+# game/scripts/ash_events.rpy:12594
 translate pt_br ash_anal_go_a97d2f79:
 
     # a "Aaaah~! Yeah, yeah! MMMN! That feels really good now! Mmmmn! Fuck...!"
     a ""
 
-# game/scripts/ash_events.rpy:12591
+# game/scripts/ash_events.rpy:12595
 translate pt_br ash_anal_go_244b2a9b:
 
     # a "Aaahn, hnnn! Keep going, keep going! Ohh, fuck! Haaah, mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:12592
+# game/scripts/ash_events.rpy:12596
 translate pt_br ash_anal_go_1fd211f7:
 
     # a "Nnngh~! I want you to cum...! Mmmn! Cum on my ass! I want to feel your love all over me~! Haaah!"
     a ""
 
-# game/scripts/ash_events.rpy:12593
+# game/scripts/ash_events.rpy:12597
 translate pt_br ash_anal_go_4f92f50d:
 
     # a "Nnnh, aaahg! Cum on me, cum on me! Cum! MMMN! Cum!"
     a ""
 
-# game/scripts/ash_events.rpy:12597
+# game/scripts/ash_events.rpy:12601
 translate pt_br ash_anal_go_eb8978e7:
 
     # a "Nnnhg~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12598
+# game/scripts/ash_events.rpy:12602
 translate pt_br ash_anal_go_79e7efcf:
 
     # a "Aaaahg! You're cumming inside...!?" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12599
+# game/scripts/ash_events.rpy:12603
 translate pt_br ash_anal_go_e20ede2f:
 
     # a "Mmmmnh~! Hnnn!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12601
+# game/scripts/ash_events.rpy:12605
 translate pt_br ash_anal_go_1b0d4291:
 
     # a "Aaah... haahhh...! Wow, hnng... you came so much...! You must have really enjoyed it, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12607
+# game/scripts/ash_events.rpy:12611
 translate pt_br ash_anal_go_1eafc5bd:
 
     # a "Aaah!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12609
+# game/scripts/ash_events.rpy:12613
 translate pt_br ash_anal_go_406a95fa:
 
     # a "Nnnh, mmmn... Wow, you came so much...! You must have really enjoyed it, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12616
+# game/scripts/ash_events.rpy:12620
 translate pt_br ash_anal_go_8645a6bf:
 
     # a "Hahhh... I hope you had fun, I did! I want to keep doing that from now on..."
     a ""
 
-# game/scripts/ash_events.rpy:12618
+# game/scripts/ash_events.rpy:12622
 translate pt_br ash_anal_go_37772c0a:
 
     # a "We gotta keep doing that! Okay? You'll train my ass so much that it won't hurt anymore! Right?"
     a ""
 
-# game/scripts/ash_events.rpy:12619
+# game/scripts/ash_events.rpy:12623
 translate pt_br ash_anal_go_43a3c087:
 
     # c "Hah, okay."
     c ""
 
-# game/scripts/ash_events.rpy:12620
+# game/scripts/ash_events.rpy:12624
 translate pt_br ash_anal_go_27dffa02:
 
     # a "Yes! You made me so happy today, [name]!"
     a ""
 
-# game/scripts/ash_events.rpy:12621
+# game/scripts/ash_events.rpy:12625
 translate pt_br ash_anal_go_4095629b:
 
     # a "Okay, I gotta clean up now... I'll see you later, bye!"
     a ""
 
-# game/scripts/ash_events.rpy:12623
+# game/scripts/ash_events.rpy:12627
 translate pt_br ash_anal_go_fc323d7f:
 
     # "You've unlocked anal in Ashley's room!"
     ""
 
-# game/scripts/ash_events.rpy:12624
+# game/scripts/ash_events.rpy:12628
 translate pt_br ash_anal_go_de943609:
 
     # "Ashley will no longer pay for rent."
     ""
 
-# game/scripts/ash_events.rpy:12793
+# game/scripts/ash_events.rpy:12797
 translate pt_br ash_anal_repeatable_66692313:
 
     # a "Hurry~! Mmmh, don't tease me...!"
     a ""
 
-# game/scripts/ash_events.rpy:12796
+# game/scripts/ash_events.rpy:12800
 translate pt_br ash_anal_repeatable_1d327fc5:
 
     # a "Aaagh! Hnnngh...!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12799
+# game/scripts/ash_events.rpy:12803
 translate pt_br ash_anal_repeatable_f7f4bead:
 
     # a "Nnnnm~! Fuck, fuck~! Mmmngh...!"
     a ""
 
-# game/scripts/ash_events.rpy:12800
+# game/scripts/ash_events.rpy:12804
 translate pt_br ash_anal_repeatable_cbbb8109:
 
     # a "Hnnngh! Haahn! Mmmngh! Yeah, it feels so good..! Mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:12801
+# game/scripts/ash_events.rpy:12805
 translate pt_br ash_anal_repeatable_6eefc033:
 
     # a "Hahh, nnnm! Do you like fucking my tight ass, [name]? Nnnngh! Give me more~!"
     a ""
 
-# game/scripts/ash_events.rpy:12804
+# game/scripts/ash_events.rpy:12808
 translate pt_br ash_anal_repeatable_f05e8cfa:
 
     # a "Aaaah~! Yeah, yeah! MMMN! That feels really good! Mmmmn! Fuck...!"
     a ""
 
-# game/scripts/ash_events.rpy:12805
+# game/scripts/ash_events.rpy:12809
 translate pt_br ash_anal_repeatable_244b2a9b:
 
     # a "Aaahn, hnnn! Keep going, keep going! Ohh, fuck! Haaah, mmmn!"
     a ""
 
-# game/scripts/ash_events.rpy:12806
+# game/scripts/ash_events.rpy:12810
 translate pt_br ash_anal_repeatable_1fd211f7:
 
     # a "Nnngh~! I want you to cum...! Mmmn! Cum on my ass! I want to feel your love all over me~! Haaah!"
     a ""
 
-# game/scripts/ash_events.rpy:12807
+# game/scripts/ash_events.rpy:12811
 translate pt_br ash_anal_repeatable_4f92f50d:
 
     # a "Nnnh, aaahg! Cum on me, cum on me! Cum! MMMN! Cum!"
     a ""
 
-# game/scripts/ash_events.rpy:12811
+# game/scripts/ash_events.rpy:12815
 translate pt_br ash_anal_repeatable_eb8978e7:
 
     # a "Nnnhg~!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12812
+# game/scripts/ash_events.rpy:12816
 translate pt_br ash_anal_repeatable_79e7efcf:
 
     # a "Aaaahg! You're cumming inside...!?" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12813
+# game/scripts/ash_events.rpy:12817
 translate pt_br ash_anal_repeatable_e20ede2f:
 
     # a "Mmmmnh~! Hnnn!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12816
+# game/scripts/ash_events.rpy:12820
 translate pt_br ash_anal_repeatable_10916a6b:
 
     # a "Aaaah~! Nnnh, mmmn... Wow, you came so much...! You must have really enjoyed it, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12825
+# game/scripts/ash_events.rpy:12829
 translate pt_br ash_anal_repeatable_1b0d4291:
 
     # a "Aaah... haahhh...! Wow, hnng... you came so much...! You must have really enjoyed it, huh?"
     a ""
 
-# game/scripts/ash_events.rpy:12844
+# game/scripts/ash_events.rpy:12848
 translate pt_br ashfriend_9d2dcd9c:
 
     # a "Here we are!"
     a ""
 
-# game/scripts/ash_events.rpy:12845
+# game/scripts/ash_events.rpy:12849
 translate pt_br ashfriend_0b0a968f:
 
     # q "Wow, so you live all by yourself now huh?"
     q ""
 
-# game/scripts/ash_events.rpy:12846
+# game/scripts/ash_events.rpy:12850
 translate pt_br ashfriend_a3ad4cc0:
 
     # a "Yep, it's amazing! No more parents to tell me what to do anymore!"
     a ""
 
-# game/scripts/ash_events.rpy:12847
+# game/scripts/ash_events.rpy:12851
 translate pt_br ashfriend_26126846:
 
     # q "I can't believe you got your own place before I did... How are you affording this place?"
     q ""
 
-# game/scripts/ash_events.rpy:12848
+# game/scripts/ash_events.rpy:12852
 translate pt_br ashfriend_a4a17de1:
 
     # a "I just take money from my Mom, hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12849
+# game/scripts/ash_events.rpy:12853
 translate pt_br ashfriend_40410091:
 
     # q "Hahaha, she hasn't noticed yet?"
     q ""
 
-# game/scripts/ash_events.rpy:12850
+# game/scripts/ash_events.rpy:12854
 translate pt_br ashfriend_7e6ce4ac:
 
     # a "Nope! She doesn't pay attention to her money..."
     a ""
 
-# game/scripts/ash_events.rpy:12851
+# game/scripts/ash_events.rpy:12855
 translate pt_br ashfriend_b6bd175a:
 
     # q "Wow, it must be nice to have parents you can rely on. So is this place nice? I'm looking for somewhere to stay as well."
     q ""
 
-# game/scripts/ash_events.rpy:12852
+# game/scripts/ash_events.rpy:12856
 translate pt_br ashfriend_8c069992:
 
     # a "Yeah, it's really great! There's this really cute boy who-"
     a ""
 
-# game/scripts/ash_events.rpy:12854
+# game/scripts/ash_events.rpy:12858
 translate pt_br ashfriend_ad43268f:
 
     # a "Oh, there he is! That's [name]."
     a ""
 
-# game/scripts/ash_events.rpy:12855
+# game/scripts/ash_events.rpy:12859
 translate pt_br ashfriend_9064cc58:
 
     # q "Ohhh, so {i}that's{/i} him? You were right..."
     q ""
 
-# game/scripts/ash_events.rpy:12857
+# game/scripts/ash_events.rpy:12861
 translate pt_br ashfriend_ae72083a:
 
     # m "My name's Maria, nice to meet you!"
     m ""
 
-# game/scripts/ash_events.rpy:12859
+# game/scripts/ash_events.rpy:12863
 translate pt_br ashfriend_f89be96b:
 
     # a "She's a friend from college. She'll be sleeping over tonight, I hope that isn't a problem."
     a ""
 
-# game/scripts/ash_events.rpy:12860
+# game/scripts/ash_events.rpy:12864
 translate pt_br ashfriend_8434baec:
 
     # c "Just don't keep everyone up."
     c ""
 
-# game/scripts/ash_events.rpy:12861
+# game/scripts/ash_events.rpy:12865
 translate pt_br ashfriend_668d348f:
 
     # a "No problem!"
     a ""
 
-# game/scripts/ash_events.rpy:12863
+# game/scripts/ash_events.rpy:12867
 translate pt_br ashfriend_e35af3d0:
 
     # m "Your room, Ash?"
     m ""
 
-# game/scripts/ash_events.rpy:12864
+# game/scripts/ash_events.rpy:12868
 translate pt_br ashfriend_cb7ab3fa:
 
     # a "Yeah, let's go!"
     a ""
 
-# game/scripts/ash_events.rpy:12871
+# game/scripts/ash_events.rpy:12875
 translate pt_br ashparty_e850448d:
 
     # a "I swear, I did! It was really fun, you have to do it sometime."
     a ""
 
-# game/scripts/ash_events.rpy:12873
+# game/scripts/ash_events.rpy:12877
 translate pt_br ashparty_768f62cd:
 
     # m "Who says I haven't already?"
     m ""
 
-# game/scripts/ash_events.rpy:12874
+# game/scripts/ash_events.rpy:12878
 translate pt_br ashparty_894d5991:
 
     # a "Really? You have?"
     a ""
 
-# game/scripts/ash_events.rpy:12876
+# game/scripts/ash_events.rpy:12880
 translate pt_br ashparty_6c4d03f9:
 
     # m "Of course! That wasn't your first time was it?"
     m ""
 
-# game/scripts/ash_events.rpy:12877
+# game/scripts/ash_events.rpy:12881
 translate pt_br ashparty_8101a89d:
 
     # a "No, I've done it a couple times before..."
     a ""
 
-# game/scripts/ash_events.rpy:12878
+# game/scripts/ash_events.rpy:12882
 translate pt_br ashparty_958c4994:
 
     # m "Did he like it?"
     m ""
 
-# game/scripts/ash_events.rpy:12880
+# game/scripts/ash_events.rpy:12884
 translate pt_br ashparty_f9d9971c:
 
     # a "Of course he did! He loved it!"
     a ""
 
-# game/scripts/ash_events.rpy:12882
+# game/scripts/ash_events.rpy:12886
 translate pt_br ashparty_82e9a54b:
 
     # a "And it was like this big!"
     a ""
 
-# game/scripts/ash_events.rpy:12883
+# game/scripts/ash_events.rpy:12887
 translate pt_br ashparty_bffde9b1:
 
     # m "No way!"
     m ""
 
-# game/scripts/ash_events.rpy:12885
+# game/scripts/ash_events.rpy:12889
 translate pt_br ashparty_f1c26eb4:
 
     # a "Maybe even bigger!"
     a ""
 
-# game/scripts/ash_events.rpy:12886
+# game/scripts/ash_events.rpy:12890
 translate pt_br ashparty_6eecf76e:
 
     # m "You're not joking are you? That's pretty impressive! I don't think I've seen any that big in real life..."
     m ""
 
-# game/scripts/ash_events.rpy:12887
+# game/scripts/ash_events.rpy:12891
 translate pt_br ashparty_ace613e0:
 
     # a "Of course I'm not joking!"
     a ""
 
-# game/scripts/ash_events.rpy:12888
+# game/scripts/ash_events.rpy:12892
 translate pt_br ashparty_bb40b175:
 
     # m "Wouldn't it hurt though?"
     m ""
 
-# game/scripts/ash_events.rpy:12889
+# game/scripts/ash_events.rpy:12893
 translate pt_br ashparty_4b0e43f3:
 
     # a "I didn't have sex with him yet, so I wouldn't know."
     a ""
 
-# game/scripts/ash_events.rpy:12890
+# game/scripts/ash_events.rpy:12894
 translate pt_br ashparty_c5534fba:
 
     # m "No way! You're still a virgin?"
     m ""
 
-# game/scripts/ash_events.rpy:12892
+# game/scripts/ash_events.rpy:12896
 translate pt_br ashparty_226140d1:
 
     # a "Yeah... but don't tell anyone! It's so embarrassing!"
     a ""
 
-# game/scripts/ash_events.rpy:12893
+# game/scripts/ash_events.rpy:12897
 translate pt_br ashparty_b6dbf982:
 
     # m "Well why haven't you fucked him yet?"
     m ""
 
-# game/scripts/ash_events.rpy:12894
+# game/scripts/ash_events.rpy:12898
 translate pt_br ashparty_f0e1c6ac:
 
     # a "I don't know... I'm kind of scared. What if it hurts?"
     a ""
 
-# game/scripts/ash_events.rpy:12896
+# game/scripts/ash_events.rpy:12900
 translate pt_br ashparty_382e264e:
 
     # m "The first time might... But then you can fuck like crazy! I couldn't live without being fucked at least once a month. It doesn't even compare to masturbating."
     m ""
 
-# game/scripts/ash_events.rpy:12897
+# game/scripts/ash_events.rpy:12901
 translate pt_br ashparty_d89efda4:
 
     # a "Really? Hmmm... Maybe I should."
     a ""
 
-# game/scripts/ash_events.rpy:12898
+# game/scripts/ash_events.rpy:12902
 translate pt_br ashparty_08ed4cbd:
 
     # m "You definitely should! I'm sure you'll love it."
     m ""
 
-# game/scripts/ash_events.rpy:12899
+# game/scripts/ash_events.rpy:12903
 translate pt_br ashparty_0104e858:
 
     # m "Hmm... I got it! Let's sneak into his room tomorrow morning, and I'll help you fuck him!"
     m ""
 
-# game/scripts/ash_events.rpy:12901
+# game/scripts/ash_events.rpy:12905
 translate pt_br ashparty_c525a726:
 
     # a "What!? Like a threesome? And wouldn't that be rape?"
     a ""
 
-# game/scripts/ash_events.rpy:12902
+# game/scripts/ash_events.rpy:12906
 translate pt_br ashparty_305b2e40:
 
     # m "I wouldn't be fucking him, just you. I still have a boyfriend silly."
     m ""
 
-# game/scripts/ash_events.rpy:12903
+# game/scripts/ash_events.rpy:12907
 translate pt_br ashparty_975a8c82:
 
     # m "It wouldn't be rape either, he likes you right? It would just be... surprise sex!"
     m ""
 
-# game/scripts/ash_events.rpy:12904
+# game/scripts/ash_events.rpy:12908
 translate pt_br ashparty_cef1387b:
 
     # a "Well... he's not my boyfriend. I just suck his cock sometimes."
     a ""
 
-# game/scripts/ash_events.rpy:12905
+# game/scripts/ash_events.rpy:12909
 translate pt_br ashparty_b9262b68:
 
     # m "Come on Ash, you know he would love it! Boys love waking up to sex, I bet he fantasizes about taking your virginity too..."
     m ""
 
-# game/scripts/ash_events.rpy:12907
+# game/scripts/ash_events.rpy:12911
 translate pt_br ashparty_434db605:
 
     # a "Hehe~ maybe..."
     a ""
 
-# game/scripts/ash_events.rpy:12908
+# game/scripts/ash_events.rpy:12912
 translate pt_br ashparty_d573d6c3:
 
     # m "Come on, let's get some sleep. And tomorrow you lose your virginity!"
     m ""
 
-# game/scripts/ash_events.rpy:12910
+# game/scripts/ash_events.rpy:12914
 translate pt_br ashparty_42d07288:
 
     # m "Heheh..."
     m ""
 
-# game/scripts/ash_events.rpy:12911
+# game/scripts/ash_events.rpy:12915
 translate pt_br ashparty_d3699061:
 
     # a "Hehehehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12919
+# game/scripts/ash_events.rpy:12923
 translate pt_br ashtop_a84cb0a0:
 
     # a "Urgh, he's not hard..."
     a ""
 
-# game/scripts/ash_events.rpy:12920
+# game/scripts/ash_events.rpy:12924
 translate pt_br ashtop_406d5617:
 
     # m "Maybe you should wake him up and take off your top?"
     m ""
 
-# game/scripts/ash_events.rpy:12921
+# game/scripts/ash_events.rpy:12925
 translate pt_br ashtop_9113216b:
 
     # a "Good idea!"
     a ""
 
-# game/scripts/ash_events.rpy:12923
+# game/scripts/ash_events.rpy:12927
 translate pt_br ashtop_cf741007:
 
     # a "[name]... Wake up~"
     a ""
 
-# game/scripts/ash_events.rpy:12925
+# game/scripts/ash_events.rpy:12929
 translate pt_br ashtop_7ff31393:
 
     # a "It worked!"
     a ""
 
-# game/scripts/ash_events.rpy:12926
+# game/scripts/ash_events.rpy:12930
 translate pt_br ashtop_a79ac42d:
 
     # m "Oh my god! Ash you were right! It's so big..."
     m ""
 
-# game/scripts/ash_events.rpy:12927
+# game/scripts/ash_events.rpy:12931
 translate pt_br ashtop_5ef4ea24:
 
     # m "Mmmm... Time for you to get to fucking Ash..."
     m ""
 
-# game/scripts/ash_events.rpy:12928
+# game/scripts/ash_events.rpy:12932
 translate pt_br ashtop_aa9146b0:
 
     # a "Hehe~ I can't wait!"
     a ""
 
-# game/scripts/ash_events.rpy:12930
+# game/scripts/ash_events.rpy:12934
 translate pt_br ashtop_a094d770:
 
     # a "Ahh..."
     a ""
 
-# game/scripts/ash_events.rpy:12932
+# game/scripts/ash_events.rpy:12936
 translate pt_br ashtop_587f4088:
 
     # a "Nnng..."
     a ""
 
-# game/scripts/ash_events.rpy:12934
+# game/scripts/ash_events.rpy:12938
 translate pt_br ashtop_44486fdd:
 
     # a "Ah! It's in... all the way..."
     a ""
 
-# game/scripts/ash_events.rpy:12935
+# game/scripts/ash_events.rpy:12939
 translate pt_br ashtop_d629d3df:
 
     # m "Haha, nope... you've still got a couple more inches to go..."
     m ""
 
-# game/scripts/ash_events.rpy:12936
+# game/scripts/ash_events.rpy:12940
 translate pt_br ashtop_4ac14fce:
 
     # a "What! No way!"
     a ""
 
-# game/scripts/ash_events.rpy:12937
+# game/scripts/ash_events.rpy:12941
 translate pt_br ashtop_584c6947:
 
     # a "Hnng..."
     a ""
 
-# game/scripts/ash_events.rpy:12939
+# game/scripts/ash_events.rpy:12943
 translate pt_br ashtop_8104a673:
 
     # a "Ahh!! That's... as far as I can go..."
     a ""
 
-# game/scripts/ash_events.rpy:12941
+# game/scripts/ash_events.rpy:12945
 translate pt_br ashtop_9c9d37f1:
 
     # a "[name]... Your cock is inside me..."
     a ""
 
-# game/scripts/ash_events.rpy:12942
+# game/scripts/ash_events.rpy:12946
 translate pt_br ashtop_5f86bea3:
 
     # m "Mmm... Good job Ash. Now you need to start moving."
     m ""
 
-# game/scripts/ash_events.rpy:12944
+# game/scripts/ash_events.rpy:12948
 translate pt_br ashtop_d6530d77:
 
     # a "What? Oh... right, here I go..."
     a ""
 
-# game/scripts/ash_events.rpy:12946
+# game/scripts/ash_events.rpy:12950
 translate pt_br ashtop_8739963d:
 
     # a "Ahhh! It feels so fucking good! Yes!"
     a ""
 
-# game/scripts/ash_events.rpy:12947
+# game/scripts/ash_events.rpy:12951
 translate pt_br ashtop_e6b87491:
 
     # m "I told you Ash..."
     m ""
 
-# game/scripts/ash_events.rpy:12948
+# game/scripts/ash_events.rpy:12952
 translate pt_br ashtop_ec618ca3:
 
     # a "Does it feel good for you [name]? Hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:12952
+# game/scripts/ash_events.rpy:12956
 translate pt_br ashtop_f5e0c359:
 
     # a "Ahhh! [name]! I love it so much!"
     a ""
 
-# game/scripts/ash_events.rpy:12953
+# game/scripts/ash_events.rpy:12957
 translate pt_br ashtop_f5bad00b:
 
     # a "Please fuck me every day okay?"
     a ""
 
-# game/scripts/ash_events.rpy:12956
+# game/scripts/ash_events.rpy:12960
 translate pt_br ashtop_04b2f206:
 
     # a "Fuck me... every day..."
     a ""
 
-# game/scripts/ash_events.rpy:12957
+# game/scripts/ash_events.rpy:12961
 translate pt_br ashtop_afe5c882:
 
     # a "Fuck me... all day..."
     a ""
 
-# game/scripts/ash_events.rpy:12958
+# game/scripts/ash_events.rpy:12962
 translate pt_br ashtop_9723ad00:
 
     # a "Until I can't walk!!!"
     a ""
 
-# game/scripts/ash_events.rpy:12960
+# game/scripts/ash_events.rpy:12964
 translate pt_br ashtop_581345d0:
 
     # a "Ahhhh!!! I love it!!!"
     a ""
 
-# game/scripts/ash_events.rpy:12961
+# game/scripts/ash_events.rpy:12965
 translate pt_br ashtop_af533328:
 
     # a "I want more!!!"
     a ""
 
-# game/scripts/ash_events.rpy:12962
+# game/scripts/ash_events.rpy:12966
 translate pt_br ashtop_88dbc11f:
 
     # a "Yesss! My pussy feels so good!"
     a ""
 
-# game/scripts/ash_events.rpy:12963
+# game/scripts/ash_events.rpy:12967
 translate pt_br ashtop_5b48cc50:
 
     # a "I've never felt pleasure like this before!!!"
     a ""
 
-# game/scripts/ash_events.rpy:12964
+# game/scripts/ash_events.rpy:12968
 translate pt_br ashtop_f4744a5f:
 
     # m "Careful Ash, you might get addicted."
     m ""
 
-# game/scripts/ash_events.rpy:12965
+# game/scripts/ash_events.rpy:12969
 translate pt_br ashtop_3402167b:
 
     # a "I already am!!! Fuuuck!!!"
     a ""
 
-# game/scripts/ash_events.rpy:12966
+# game/scripts/ash_events.rpy:12970
 translate pt_br ashtop_8a91dc27:
 
     # a "Cum inside [name]! Cum inside my tight little pussy! Ahh!!!!"
     a ""
 
-# game/scripts/ash_events.rpy:12970
+# game/scripts/ash_events.rpy:12974
 translate pt_br ashtop_5cadde4a:
 
     # a "Ahh!!!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:12971
+# game/scripts/ash_events.rpy:12975
 translate pt_br ashtop_fb6ab293:
 
     # m "Oh my gosh! Ash did he cum inside!? You could get pregnant!"
     m ""
 
-# game/scripts/ash_events.rpy:12973
+# game/scripts/ash_events.rpy:12977
 translate pt_br ashtop_e7e92565:
 
     # a "Hehe~~~"
     a ""
 
-# game/scripts/ash_events.rpy:12975
+# game/scripts/ash_events.rpy:12979
 translate pt_br ashtop_2671b8e3:
 
     # a "Look~ It's coming out!"
     a ""
 
-# game/scripts/ash_events.rpy:12976
+# game/scripts/ash_events.rpy:12980
 translate pt_br ashtop_ef362282:
 
     # m "Mmmm... I could take care of that..."
     m ""
 
-# game/scripts/ash_events.rpy:12978
+# game/scripts/ash_events.rpy:12982
 translate pt_br ashtop_073cb58e:
 
     # a "Ahh!"
     a ""
 
-# game/scripts/ash_events.rpy:12982
+# game/scripts/ash_events.rpy:12986
 translate pt_br ashtop_4d451647:
 
     # m "All gone!"
     m ""
 
-# game/scripts/ash_events.rpy:12996
+# game/scripts/ash_events.rpy:13000
 translate pt_br aftertop_5672e02e:
 
     # a "Ahhh~ that was so fun!"
     a ""
 
-# game/scripts/ash_events.rpy:12999
+# game/scripts/ash_events.rpy:13003
 translate pt_br aftertop_56cb20c4:
 
     # m "Haha, told ya Ash."
     m ""
 
-# game/scripts/ash_events.rpy:13002
+# game/scripts/ash_events.rpy:13006
 translate pt_br aftertop_3f0835fb:
 
     # m "Well, I should get going... It was fun, [name]..."
     m ""
 
-# game/scripts/ash_events.rpy:13005
+# game/scripts/ash_events.rpy:13009
 translate pt_br aftertop_9b3c1f25:
 
     # a "You should come back sometime Maria!"
     a ""
 
-# game/scripts/ash_events.rpy:13006
+# game/scripts/ash_events.rpy:13010
 translate pt_br aftertop_a9428907:
 
     # m "Maybe I will. See ya [name]!"
     m ""
 
-# game/scripts/ash_events.rpy:13010
+# game/scripts/ash_events.rpy:13014
 translate pt_br aftertop_d20102f5:
 
     # a "[name]... when are we fucking next?"
     a ""
 
-# game/scripts/ash_events.rpy:13013
+# game/scripts/ash_events.rpy:13017
 translate pt_br aftertop_8a3b3007:
 
     # a "I won't be able to survive without your cock anymore..."
     a ""
 
-# game/scripts/ash_events.rpy:13016
+# game/scripts/ash_events.rpy:13020
 translate pt_br aftertop_21820cd2:
 
     # a "Well... you know where I live~ hehe~"
     a ""
 
-# game/scripts/ash_events.rpy:13020
+# game/scripts/ash_events.rpy:13024
 translate pt_br aftertop_f3346a40:
 
     # "You can now have cowgirl sex with Ashley!"
     ""
 
-# game/scripts/ash_events.rpy:13021
+# game/scripts/ash_events.rpy:13025
 translate pt_br aftertop_d109efc9:
 
     # "You took Ashley's virginity!"
     ""
 
-# game/scripts/ash_events.rpy:13028
+# game/scripts/ash_events.rpy:13032
 translate pt_br ashcake_bca4eef1:
 
     # l "Here you go!"
     l ""
 
-# game/scripts/ash_events.rpy:13029
+# game/scripts/ash_events.rpy:13033
 translate pt_br ashcake_8f29f2a3:
 
     # a "Wow! Cake!"
     a ""
 
-# game/scripts/ash_events.rpy:13030
+# game/scripts/ash_events.rpy:13034
 translate pt_br ashcake_f9407150:
 
     # a "It doesn't look like the picture... Are you sure this is cake?"
     a ""
 
-# game/scripts/ash_events.rpy:13031
+# game/scripts/ash_events.rpy:13035
 translate pt_br ashcake_dc807fc2:
 
     # l "It may not be traditional looking cake, but it's cake."
     l ""
 
-# game/scripts/ash_events.rpy:13032
+# game/scripts/ash_events.rpy:13036
 translate pt_br ashcake_e6d1b3a0:
 
     # l "It's the only recipe we had ingredients for anyway..."
     l ""
 
-# game/scripts/ash_events.rpy:13034
+# game/scripts/ash_events.rpy:13038
 translate pt_br ashcake_d0b42028:
 
     # a "Hmmmm...."
     a ""
 
-# game/scripts/ash_events.rpy:13036
+# game/scripts/ash_events.rpy:13040
 translate pt_br ashcake_0a787573:
 
     # a "IT'S AMAZING!" with ssshake
     a "" with ssshake
 
-# game/scripts/ash_events.rpy:13037
+# game/scripts/ash_events.rpy:13041
 translate pt_br ashcake_2f14a915:
 
     # a "I can't believe I've never had cake before!!!"
     a ""
 
-# game/scripts/ash_events.rpy:13039
+# game/scripts/ash_events.rpy:13043
 translate pt_br ashcake_326dbfee:
 
     # l "Oh, hello [linoname]. Ashley is enjoying her first cake!"
     l ""
 
-# game/scripts/ash_events.rpy:13040
+# game/scripts/ash_events.rpy:13044
 translate pt_br ashcake_54868396:
 
     # a "[name]!!! Have you ever tried cake? It's delicious~~~"
     a ""
 
-# game/scripts/ash_events.rpy:13041
+# game/scripts/ash_events.rpy:13045
 translate pt_br ashcake_445d894e:
 
     # l "Of course he has, I cooked him some!"
     l ""
 
-# game/scripts/ash_events.rpy:13042
+# game/scripts/ash_events.rpy:13046
 translate pt_br ashcake_c5ba2ab1:
 
     # c "You've never had cake before, Ashley?"
     c ""
 
-# game/scripts/ash_events.rpy:13044
+# game/scripts/ash_events.rpy:13048
 translate pt_br ashcake_7d39d8ed:
 
     # a "My stupid parents never gave me any..."
     a ""
 
-# game/scripts/ash_events.rpy:13045
+# game/scripts/ash_events.rpy:13049
 translate pt_br ashcake_5bc9db2c:
 
     # c "They sound very strict."
     c ""
 
-# game/scripts/ash_events.rpy:13046
+# game/scripts/ash_events.rpy:13050
 translate pt_br ashcake_f386de51:
 
     # a "Yeah, you could say that..."
     a ""
 
-# game/scripts/ash_events.rpy:13048
+# game/scripts/ash_events.rpy:13052
 translate pt_br ashcake_1eb995bc:
 
     # a "But now I can eat as much cake as I want~!"
     a ""
 
-# game/scripts/ash_events.rpy:13049
+# game/scripts/ash_events.rpy:13053
 translate pt_br ashcake_d56650bc:
 
     # l "That's probably not a good idea, Ashley..."
     l ""
 
-# game/scripts/ash_events.rpy:13051
+# game/scripts/ash_events.rpy:13055
 translate pt_br ashcake_807c9dda:
 
     # l "Don't worry [linoname], I won't let her get fat."
     l ""
 
-# game/scripts/ash_events.rpy:13052
+# game/scripts/ash_events.rpy:13056
 translate pt_br ashcake_bc4527b1:
 
     # l "Would you like anything?"
     l ""
 
-# game/scripts/ash_events.rpy:13053
+# game/scripts/ash_events.rpy:13057
 translate pt_br ashcake_e78d8661:
 
     # c "No, thanks."
     c ""
 
-# game/scripts/ash_events.rpy:13054
+# game/scripts/ash_events.rpy:13058
 translate pt_br ashcake_c9f07f4e:
 
     # a "Hmm, hmm, hmmmmm~~"
     a ""
 
-# game/scripts/ash_events.rpy:13055
+# game/scripts/ash_events.rpy:13059
 translate pt_br ashcake_5bb6474a:
 
     # l "Let me know if you need anything [linoname]."
     l ""
 
-# game/scripts/ash_events.rpy:13056
+# game/scripts/ash_events.rpy:13060
 translate pt_br ashcake_e36d860c:
 
     # a "Cake~~~"
     a ""
 
-# game/scripts/ash_events.rpy:13087
+# game/scripts/ash_events.rpy:13091
 translate pt_br ashtv_929feac6:
 
     # a "Hey [name], good timing! I just bought a movie, want to watch it with me?"
     a ""
 
-# game/scripts/ash_events.rpy:13090
+# game/scripts/ash_events.rpy:13094
 translate pt_br ashtv_2d912156:
 
     # a "Yay! Come in!"
     a ""
 
-# game/scripts/ash_events.rpy:13092
+# game/scripts/ash_events.rpy:13096
 translate pt_br ashtv_2d912156_1:
 
     # a "Yay! Come in!"
     a ""
 
-# game/scripts/ash_events.rpy:13094
+# game/scripts/ash_events.rpy:13098
 translate pt_br ashtv_849d10b8:
 
     # "You decide to ignore the movie, time passes by very fast."
     ""
 
-# game/scripts/ash_events.rpy:13099
+# game/scripts/ash_events.rpy:13103
 translate pt_br ashtv_e745ce7c:
 
     # a "Aww..."
     a ""
 
-# game/scripts/ash_events.rpy:13102
+# game/scripts/ash_events.rpy:13106
 translate pt_br ashtv_45bb6143:
 
     # a "Thanks for coming by [name]. It's nice to have someone to watch a movie with."
     a ""
 
-# game/scripts/ash_events.rpy:13104
+# game/scripts/ash_events.rpy:13108
 translate pt_br ashtv_2246a283:
 
     # a "My parents never really let me watch R rated movies. They said there's too much violence..."
     a ""
 
-# game/scripts/ash_events.rpy:13106
+# game/scripts/ash_events.rpy:13110
 translate pt_br ashtv_12ec4ef3:
 
     # a "This one is suppose to be about two Samurai brothers separated at birth. Then they kill each other or something!"
     a ""
 
-# game/scripts/ash_events.rpy:13108
+# game/scripts/ash_events.rpy:13112
 translate pt_br ashtv_400ad412:
 
     # a "Oh, it's starting! Shhh!"
     a ""
 
-# game/scripts/ash_events.rpy:13110
+# game/scripts/ash_events.rpy:13114
 translate pt_br ashtv_7d04f923:
 
     # "The movie starts. It's ancient Japan. A poor mother gives birth to twins, deciding they can't feed two children, they sell the second born and named the first born Saigo"
     ""
 
-# game/scripts/ash_events.rpy:13112
+# game/scripts/ash_events.rpy:13116
 translate pt_br ashtv_94a1a038:
 
     # a "I wouldn't be able to sell any of my kids. Kids are so cute!!! I want to have 12!"
     a ""
 
-# game/scripts/ash_events.rpy:13114
+# game/scripts/ash_events.rpy:13118
 translate pt_br ashtv_d2d5cbf7:
 
     # "After years of hard labor, Saigo's parents were able to gather enough money to enlist Saigo into a Samurai school."
     ""
 
-# game/scripts/ash_events.rpy:13115
+# game/scripts/ash_events.rpy:13119
 translate pt_br ashtv_335a831d:
 
     # "Meanwhile, the second born had been adopted by poor farmers in a village on the other side of Japan. They named him Hattori."
     ""
 
-# game/scripts/ash_events.rpy:13116
+# game/scripts/ash_events.rpy:13120
 translate pt_br ashtv_3363b70e:
 
     # "Hattori had grown up watching Samurai train and decided he would copy their techniques with a stick. Hattori did not know he was adopted, but he did know his family was poor. He wanted to change that."
     ""
 
-# game/scripts/ash_events.rpy:13118
+# game/scripts/ash_events.rpy:13122
 translate pt_br ashtv_86121172:
 
     # a "Wow, Hattori is cute huh?"
     a ""
 
-# game/scripts/ash_events.rpy:13120
+# game/scripts/ash_events.rpy:13124
 translate pt_br ashtv_e79e1d51:
 
     # "A bunch of boring cliche stuff happens, but Ashley seems to be enjoying herself."
     ""
 
-# game/scripts/ash_events.rpy:13121
+# game/scripts/ash_events.rpy:13125
 translate pt_br ashtv_6c1fa2d2:
 
     # "Fast forward to the end of the movie, Saigo had completed his Samurai training and enlisted in the Hojo army."
     ""
 
-# game/scripts/ash_events.rpy:13122
+# game/scripts/ash_events.rpy:13126
 translate pt_br ashtv_513ee80b:
 
     # "At the same time, Hattori had enlisted in the Satake army."
     ""
 
-# game/scripts/ash_events.rpy:13124
+# game/scripts/ash_events.rpy:13128
 translate pt_br ashtv_112b27db:
 
     # a "Think they're gonna fight soon? I can't wait! I wanna see Saigo kill his brother!"
     a ""
 
-# game/scripts/ash_events.rpy:13126
+# game/scripts/ash_events.rpy:13130
 translate pt_br ashtv_c16d6972:
 
     # "Eventually the two clans go to war. Samurai after Samurai kill each other in this neverending war."
     ""
 
-# game/scripts/ash_events.rpy:13127
+# game/scripts/ash_events.rpy:13131
 translate pt_br ashtv_8cdb5ecc:
 
     # a "Whoa! So much blood! This is so cool!"
     a ""
 
-# game/scripts/ash_events.rpy:13128
+# game/scripts/ash_events.rpy:13132
 translate pt_br ashtv_6d1377ce:
 
     # "The battlefield is smokey, nearby villages are on fire, and the remaining Samurai must swim through a sea of dead bodies."
     ""
 
-# game/scripts/ash_events.rpy:13129
+# game/scripts/ash_events.rpy:13133
 translate pt_br ashtv_b8caeac0:
 
     # "Hattori, the second born had been cornered by 3 of the enemy Samurai. Each attacked him one after another, wounding him. But after some spins and kicks Hattori walks away victorious."
     ""
 
-# game/scripts/ash_events.rpy:13130
+# game/scripts/ash_events.rpy:13134
 translate pt_br ashtv_23e5416e:
 
     # "Saigo, the first born had been trained well, none could match his skill with the Katana. The camera zoomed in on Saigo's face. He's enjoying the war."
     ""
 
-# game/scripts/ash_events.rpy:13131
+# game/scripts/ash_events.rpy:13135
 translate pt_br ashtv_f0e55daa:
 
     # "Then, there were two. One donning the banner of the Hojo clan, and one donning the banner of the Satake clan."
     ""
 
-# game/scripts/ash_events.rpy:13132
+# game/scripts/ash_events.rpy:13136
 translate pt_br ashtv_dd0eb00e:
 
     # a "This is it! They're going to kill each other!"
     a ""
 
-# game/scripts/ash_events.rpy:13133
+# game/scripts/ash_events.rpy:13137
 translate pt_br ashtv_5be4ad17:
 
     # "They stare at one another. Hattori says: 'It's just us. Our Emperor's are dead and so are their armies. Let us walk away and end this pointless war."
     ""
 
-# game/scripts/ash_events.rpy:13134
+# game/scripts/ash_events.rpy:13138
 translate pt_br ashtv_6fcf5f70:
 
     # a "WHAT? NO! Fight!"
     a ""
 
-# game/scripts/ash_events.rpy:13136
+# game/scripts/ash_events.rpy:13140
 translate pt_br ashtv_bfcb888a:
 
     # "Saigo says 'Never! I will honor my Emperor! I will fight for him until the end. You die here!'"
     ""
 
-# game/scripts/ash_events.rpy:13137
+# game/scripts/ash_events.rpy:13141
 translate pt_br ashtv_2f716ccc:
 
     # a "Yeah! Kill your brother Saigo!"
     a ""
 
-# game/scripts/ash_events.rpy:13138
+# game/scripts/ash_events.rpy:13142
 translate pt_br ashtv_f2b1af21:
 
     # "The two charge at each other and strike each other's blade. As they're face to face, Hattori sees something in Saigo's eyes"
     ""
 
-# game/scripts/ash_events.rpy:13139
+# game/scripts/ash_events.rpy:13143
 translate pt_br ashtv_6309a0f4:
 
     # "That brief hesitation proved to be a mistake. Saigo took the opportunity to slice Hattori's chest."
     ""
 
-# game/scripts/ash_events.rpy:13140
+# game/scripts/ash_events.rpy:13144
 translate pt_br ashtv_2615dc54:
 
     # "Saigo: 'You are no match for me peasant! You will die here!'"
     ""
 
-# game/scripts/ash_events.rpy:13141
+# game/scripts/ash_events.rpy:13145
 translate pt_br ashtv_7d52bbf2:
 
     # "Hattori, now on his knees, remembers his childhood. How well his adopted parents had taken care of him. This had reinvigorated Hattori"
     ""
 
-# game/scripts/ash_events.rpy:13142
+# game/scripts/ash_events.rpy:13146
 translate pt_br ashtv_984c07e3:
 
     # "Hattori gets up, and the two clash once more. The battle went on for some time. Eventually the two had tired."
     ""
 
-# game/scripts/ash_events.rpy:13143
+# game/scripts/ash_events.rpy:13147
 translate pt_br ashtv_de2931da:
 
     # "Saigo says: 'I have never met someone so strong... you are truly a formidable foe. It was like we were separated at birth.'"
     ""
 
-# game/scripts/ash_events.rpy:13144
+# game/scripts/ash_events.rpy:13148
 translate pt_br ashtv_9d25a54e:
 
     # "Hattori says: 'Through all my years of relentless training, you are the strongest I have ever fought. Let us end this, shall we?'"
     ""
 
-# game/scripts/ash_events.rpy:13145
+# game/scripts/ash_events.rpy:13149
 translate pt_br ashtv_05eb7b0d:
 
     # a "NO! This sucks!"
     a ""
 
-# game/scripts/ash_events.rpy:13146
+# game/scripts/ash_events.rpy:13150
 translate pt_br ashtv_68f83b12:
 
     # "Saigo and Hattori drop their weapons and walk to each other."
     ""
 
-# game/scripts/ash_events.rpy:13147
+# game/scripts/ash_events.rpy:13151
 translate pt_br ashtv_e23ab2b4:
 
     # a "Urgh... I was really hoping one of them would die..."
     a ""
 
-# game/scripts/ash_events.rpy:13148
+# game/scripts/ash_events.rpy:13152
 translate pt_br ashtv_5ec28abc:
 
     # "They grab each other's hands, and give each other a hug."
     ""
 
-# game/scripts/ash_events.rpy:13149
+# game/scripts/ash_events.rpy:13153
 translate pt_br ashtv_bd0d77e9:
 
     # a "A hug!?"
     a ""
 
-# game/scripts/ash_events.rpy:13150
+# game/scripts/ash_events.rpy:13154
 translate pt_br ashtv_b9e19eb6:
 
     # "Suddenly, Saigo pulls out a hidden dagger and stabs Hattori"
     ""
 
-# game/scripts/ash_events.rpy:13151
+# game/scripts/ash_events.rpy:13155
 translate pt_br ashtv_fc37d117:
 
     # a "*gasp!*"
     a ""
 
-# game/scripts/ash_events.rpy:13152
+# game/scripts/ash_events.rpy:13156
 translate pt_br ashtv_75e8b387:
 
     # "Saigo: 'Fool, you should have known better.' Saigo turns his back and walks away."
     ""
 
-# game/scripts/ash_events.rpy:13153
+# game/scripts/ash_events.rpy:13157
 translate pt_br ashtv_2c286a28:
 
     # "Hattori: 'Egh- gh... The... the moment we hugged... No... I knew this whole time..."
     ""
 
-# game/scripts/ash_events.rpy:13154
+# game/scripts/ash_events.rpy:13158
 translate pt_br ashtv_bc7263c0:
 
     # "Saigo turns his head towards the dying Hattori. 'Hmm? Still alive?"
     ""
 
-# game/scripts/ash_events.rpy:13155
+# game/scripts/ash_events.rpy:13159
 translate pt_br ashtv_f0de3517:
 
     # "Hattori: 'You... my parents told me I had a brother they had sold... we all assumed you had died... It's you... isn't it? Saigo... my... brother..."
     ""
 
-# game/scripts/ash_events.rpy:13156
+# game/scripts/ash_events.rpy:13160
 translate pt_br ashtv_0b13a71d:
 
     # "Hattori's last breath escapes him and he dies."
     ""
 
-# game/scripts/ash_events.rpy:13157
+# game/scripts/ash_events.rpy:13161
 translate pt_br ashtv_9960fa27:
 
     # "Saigo runs towards Hattori's body and screams 'NOOOOOOOOOOOOOOO!!!!!!!!' The credits start rolling and the movie ends"
     ""
 
-# game/scripts/ash_events.rpy:13158
+# game/scripts/ash_events.rpy:13162
 translate pt_br ashtv_bb8e4b4e:
 
     # a "..."
     a ""
 
-# game/scripts/ash_events.rpy:13159
+# game/scripts/ash_events.rpy:13163
 translate pt_br ashtv_1e2f75a6:
 
     # a "Well that sucked."
     a ""
 
-# game/scripts/ash_events.rpy:13163
+# game/scripts/ash_events.rpy:13167
 translate pt_br moviecont_b4f44703:
 
     # a "Thanks for watching the movie with me [name]. It was so much fun! *yaawn*"
     a ""
 
-# game/scripts/ash_events.rpy:13164
+# game/scripts/ash_events.rpy:13168
 translate pt_br moviecont_16a07a46:
 
     # a "Well, I'm gonna rest for a bit."
     a ""
 
-# game/scripts/ash_events.rpy:13166
+# game/scripts/ash_events.rpy:13170
 translate pt_br moviecont_b6bc9715:
 
     # "Ashley gives you a kiss on the cheek"
     ""
 
-# game/scripts/ash_events.rpy:13170
+# game/scripts/ash_events.rpy:13174
 translate pt_br moviecont_d11c7dfc:
 
     # a "See ya [name]."
@@ -37896,6 +37884,10 @@ translate pt_br strings:
 
     # game/scripts/ash_events.rpy:423
     old "Who's Ren?"
+    new ""
+
+    # game/scripts/ash_events.rpy:472
+    old "What's your favorite food?"
     new ""
 
     # game/scripts/ash_events.rpy:534
@@ -38338,6 +38330,14 @@ translate pt_br strings:
     old "Return the pills"
     new ""
 
+    # game/scripts/ash_events.rpy:7947
+    old "{size=+50}Five minutes later...{/size}"
+    new ""
+
+    # game/scripts/ash_events.rpy:8012
+    old "{size=+50}One hour later...{/size}"
+    new ""
+
     # game/scripts/ash_events.rpy:8185
     old "Fair enough"
     new ""
@@ -38348,10 +38348,6 @@ translate pt_br strings:
 
     # game/scripts/ash_events.rpy:8185
     old "{color=#f0f020}Why not go nude then?{/color}"
-    new ""
-
-    # game/scripts/ash_events.rpy:8209
-    old "You"
     new ""
 
     # game/scripts/ash_events.rpy:8209
@@ -38498,595 +38494,603 @@ translate pt_br strings:
     old "Let's have some fun!"
     new ""
 
-    # game/scripts/ash_events.rpy:9478
+    # game/scripts/ash_events.rpy:9481
     old "A Black Hole"
     new ""
 
-    # game/scripts/ash_events.rpy:9478
+    # game/scripts/ash_events.rpy:9481
     old "Humans"
     new ""
 
-    # game/scripts/ash_events.rpy:9478
+    # game/scripts/ash_events.rpy:9481
     old "Love"
     new ""
 
-    # game/scripts/ash_events.rpy:9497
+    # game/scripts/ash_events.rpy:9500
     old "A snake"
     new ""
 
-    # game/scripts/ash_events.rpy:9497
+    # game/scripts/ash_events.rpy:9500
     old "A coin"
     new ""
 
-    # game/scripts/ash_events.rpy:9497
+    # game/scripts/ash_events.rpy:9500
     old "A painting"
     new ""
 
-    # game/scripts/ash_events.rpy:9515
+    # game/scripts/ash_events.rpy:9518
     old "God"
     new ""
 
-    # game/scripts/ash_events.rpy:9515
+    # game/scripts/ash_events.rpy:9518
     old "An echo"
     new ""
 
-    # game/scripts/ash_events.rpy:9515
+    # game/scripts/ash_events.rpy:9518
     old "The soul"
     new ""
 
-    # game/scripts/ash_events.rpy:9536
+    # game/scripts/ash_events.rpy:9539
     old "The heart"
     new ""
 
-    # game/scripts/ash_events.rpy:9536
+    # game/scripts/ash_events.rpy:9539
     old "A chatroom"
     new ""
 
-    # game/scripts/ash_events.rpy:9536
+    # game/scripts/ash_events.rpy:9539
     old "A locked room"
     new ""
 
-    # game/scripts/ash_events.rpy:9536
+    # game/scripts/ash_events.rpy:9539
     old "A mushroom"
     new ""
 
-    # game/scripts/ash_events.rpy:9558
+    # game/scripts/ash_events.rpy:9561
     old "A bridge"
     new ""
 
-    # game/scripts/ash_events.rpy:9558
+    # game/scripts/ash_events.rpy:9561
     old "A missile"
     new ""
 
-    # game/scripts/ash_events.rpy:9558
+    # game/scripts/ash_events.rpy:9561
     old "A rock"
     new ""
 
-    # game/scripts/ash_events.rpy:9575
+    # game/scripts/ash_events.rpy:9578
     old "A mirror"
     new ""
 
-    # game/scripts/ash_events.rpy:9575
+    # game/scripts/ash_events.rpy:9578
     old "A cogwheel"
     new ""
 
-    # game/scripts/ash_events.rpy:9575
+    # game/scripts/ash_events.rpy:9578
     old "A wheel"
     new ""
 
-    # game/scripts/ash_events.rpy:9575
+    # game/scripts/ash_events.rpy:9578
     old "The sun"
     new ""
 
-    # game/scripts/ash_events.rpy:9599
+    # game/scripts/ash_events.rpy:9602
     old "The Earth"
     new ""
 
-    # game/scripts/ash_events.rpy:9599
+    # game/scripts/ash_events.rpy:9602
     old "Belief"
     new ""
 
-    # game/scripts/ash_events.rpy:9599
+    # game/scripts/ash_events.rpy:9602
     old "Living Things"
     new ""
 
-    # game/scripts/ash_events.rpy:9599
+    # game/scripts/ash_events.rpy:9602
     old "Memories"
     new ""
 
-    # game/scripts/ash_events.rpy:9638
+    # game/scripts/ash_events.rpy:9628
+    old "What's the Answer?"
+    new ""
+
+    # game/scripts/ash_events.rpy:9641
     old "Nickel"
     new ""
 
-    # game/scripts/ash_events.rpy:9638
+    # game/scripts/ash_events.rpy:9641
     old "Zinc"
     new ""
 
-    # game/scripts/ash_events.rpy:9638
+    # game/scripts/ash_events.rpy:9641
     old "Iron"
     new ""
 
-    # game/scripts/ash_events.rpy:9638
+    # game/scripts/ash_events.rpy:9641
     old "Lead"
     new ""
 
-    # game/scripts/ash_events.rpy:9638
+    # game/scripts/ash_events.rpy:9641
     old "Steel"
     new ""
 
-    # game/scripts/ash_events.rpy:9660
+    # game/scripts/ash_events.rpy:9663
     old "A candle"
     new ""
 
-    # game/scripts/ash_events.rpy:9660
+    # game/scripts/ash_events.rpy:9663
     old "Ice cream"
     new ""
 
-    # game/scripts/ash_events.rpy:9660
+    # game/scripts/ash_events.rpy:9663
     old "A cheetah"
     new ""
 
-    # game/scripts/ash_events.rpy:9660
+    # game/scripts/ash_events.rpy:9663
     old "A clock"
     new ""
 
-    # game/scripts/ash_events.rpy:9679
+    # game/scripts/ash_events.rpy:9682
     old "A child's drawing"
     new ""
 
-    # game/scripts/ash_events.rpy:9679
+    # game/scripts/ash_events.rpy:9682
     old "A park"
     new ""
 
-    # game/scripts/ash_events.rpy:9679
+    # game/scripts/ash_events.rpy:9682
     old "A map"
     new ""
 
-    # game/scripts/ash_events.rpy:9679
+    # game/scripts/ash_events.rpy:9682
     old "Abstract art"
     new ""
 
-    # game/scripts/ash_events.rpy:9679
+    # game/scripts/ash_events.rpy:9682
     old "A postcard"
     new ""
 
-    # game/scripts/ash_events.rpy:9679
+    # game/scripts/ash_events.rpy:9682
     old "A hologram"
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "Everyone got off."
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "Everyone fell off."
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "Everyone is married."
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "Pirate attack."
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "We left without the others."
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "There's a murderer."
     new ""
 
-    # game/scripts/ash_events.rpy:9706
+    # game/scripts/ash_events.rpy:9709
     old "Everyone is holding hands."
     new ""
 
-    # game/scripts/ash_events.rpy:9735
+    # game/scripts/ash_events.rpy:9738
     old "A shirt"
     new ""
 
-    # game/scripts/ash_events.rpy:9735
+    # game/scripts/ash_events.rpy:9738
     old "My crippled daughter"
     new ""
 
-    # game/scripts/ash_events.rpy:9735
+    # game/scripts/ash_events.rpy:9738
     old "A tarp"
     new ""
 
-    # game/scripts/ash_events.rpy:9735
+    # game/scripts/ash_events.rpy:9738
     old "An electric blanket"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "A car"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "A megaphone"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "Shoes"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "A bell"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "A whistle"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "A phone"
     new ""
 
-    # game/scripts/ash_events.rpy:9754
+    # game/scripts/ash_events.rpy:9757
     old "An alarm"
     new ""
 
-    # game/scripts/ash_events.rpy:9800
+    # game/scripts/ash_events.rpy:9803
     old "My sex bot"
     new ""
 
-    # game/scripts/ash_events.rpy:9800
+    # game/scripts/ash_events.rpy:9803
     old "My dog"
     new ""
 
-    # game/scripts/ash_events.rpy:9800
+    # game/scripts/ash_events.rpy:9803
     old "My clock"
     new ""
 
-    # game/scripts/ash_events.rpy:9800
+    # game/scripts/ash_events.rpy:9803
     old "My wife"
     new ""
 
-    # game/scripts/ash_events.rpy:9800
+    # game/scripts/ash_events.rpy:9803
     old "My disobedient child"
     new ""
 
-    # game/scripts/ash_events.rpy:9821
+    # game/scripts/ash_events.rpy:9824
     old "A werewolf"
     new ""
 
-    # game/scripts/ash_events.rpy:9821
+    # game/scripts/ash_events.rpy:9824
     old "Scissors"
     new ""
 
-    # game/scripts/ash_events.rpy:9821
+    # game/scripts/ash_events.rpy:9824
     old "A lion"
     new ""
 
-    # game/scripts/ash_events.rpy:9821
+    # game/scripts/ash_events.rpy:9824
     old "A Venus flytrap"
     new ""
 
-    # game/scripts/ash_events.rpy:9821
+    # game/scripts/ash_events.rpy:9824
     old "A stapler"
     new ""
 
-    # game/scripts/ash_events.rpy:9845
+    # game/scripts/ash_events.rpy:9848
     old "Water"
     new ""
 
-    # game/scripts/ash_events.rpy:9845
+    # game/scripts/ash_events.rpy:9848
     old "A shadow"
     new ""
 
-    # game/scripts/ash_events.rpy:9845
+    # game/scripts/ash_events.rpy:9848
     old "Sound"
     new ""
 
-    # game/scripts/ash_events.rpy:9845
+    # game/scripts/ash_events.rpy:9848
     old "Air"
     new ""
 
-    # game/scripts/ash_events.rpy:9845
+    # game/scripts/ash_events.rpy:9848
     old "Smoke"
     new ""
 
-    # game/scripts/ash_events.rpy:9845
+    # game/scripts/ash_events.rpy:9848
     old "Light"
     new ""
 
-    # game/scripts/ash_events.rpy:9869
+    # game/scripts/ash_events.rpy:9872
     old "Gold"
     new ""
 
-    # game/scripts/ash_events.rpy:9869
+    # game/scripts/ash_events.rpy:9872
     old "My slave"
     new ""
 
-    # game/scripts/ash_events.rpy:9869
+    # game/scripts/ash_events.rpy:9872
     old "Kingdoms"
     new ""
 
-    # game/scripts/ash_events.rpy:9869
+    # game/scripts/ash_events.rpy:9872
     old "A mermaid"
     new ""
 
-    # game/scripts/ash_events.rpy:9905
+    # game/scripts/ash_events.rpy:9908
     old "A pineapple"
     new ""
 
-    # game/scripts/ash_events.rpy:9905
+    # game/scripts/ash_events.rpy:9908
     old "An egg"
     new ""
 
-    # game/scripts/ash_events.rpy:9905
+    # game/scripts/ash_events.rpy:9908
     old "Treasure chest"
     new ""
 
-    # game/scripts/ash_events.rpy:9905
+    # game/scripts/ash_events.rpy:9908
     old "A banana"
     new ""
 
-    # game/scripts/ash_events.rpy:9905
+    # game/scripts/ash_events.rpy:9908
     old "A bee's nest"
     new ""
 
-    # game/scripts/ash_events.rpy:9926
+    # game/scripts/ash_events.rpy:9929
     old "An apple"
     new ""
 
-    # game/scripts/ash_events.rpy:9926
+    # game/scripts/ash_events.rpy:9929
     old "A city"
     new ""
 
-    # game/scripts/ash_events.rpy:9926
+    # game/scripts/ash_events.rpy:9929
     old "Space"
     new ""
 
-    # game/scripts/ash_events.rpy:9926
+    # game/scripts/ash_events.rpy:9929
     old "Tornado"
     new ""
 
-    # game/scripts/ash_events.rpy:9926
+    # game/scripts/ash_events.rpy:9929
     old "Fire"
     new ""
 
-    # game/scripts/ash_events.rpy:9947
+    # game/scripts/ash_events.rpy:9950
     old "A soul"
     new ""
 
-    # game/scripts/ash_events.rpy:9947
+    # game/scripts/ash_events.rpy:9950
     old "A heart"
     new ""
 
-    # game/scripts/ash_events.rpy:9947
+    # game/scripts/ash_events.rpy:9950
     old "Compassion"
     new ""
 
-    # game/scripts/ash_events.rpy:9947
+    # game/scripts/ash_events.rpy:9950
     old "Free time"
     new ""
 
-    # game/scripts/ash_events.rpy:9968
+    # game/scripts/ash_events.rpy:9971
     old "DNA"
     new ""
 
-    # game/scripts/ash_events.rpy:9968
+    # game/scripts/ash_events.rpy:9971
     old "Family Name"
     new ""
 
-    # game/scripts/ash_events.rpy:9968
+    # game/scripts/ash_events.rpy:9971
     old "Hairline"
     new ""
 
-    # game/scripts/ash_events.rpy:9968
+    # game/scripts/ash_events.rpy:9971
     old "An Heirloom"
     new ""
 
-    # game/scripts/ash_events.rpy:9968
+    # game/scripts/ash_events.rpy:9971
     old "Money"
     new ""
 
-    # game/scripts/ash_events.rpy:9989
+    # game/scripts/ash_events.rpy:9992
     old "Uh, creepy?"
     new ""
 
-    # game/scripts/ash_events.rpy:9989
+    # game/scripts/ash_events.rpy:9992
     old "A Stalker"
     new ""
 
-    # game/scripts/ash_events.rpy:9989
+    # game/scripts/ash_events.rpy:9992
     old "A Psychopathic Android"
     new ""
 
-    # game/scripts/ash_events.rpy:9989
+    # game/scripts/ash_events.rpy:9992
     old "The Wind"
     new ""
 
-    # game/scripts/ash_events.rpy:9989
+    # game/scripts/ash_events.rpy:9992
     old "The Sun"
     new ""
 
-    # game/scripts/ash_events.rpy:9989
+    # game/scripts/ash_events.rpy:9992
     old "The being in my nightmares"
     new ""
 
-    # game/scripts/ash_events.rpy:10055
+    # game/scripts/ash_events.rpy:10058
     old "Let's do this."
     new ""
 
-    # game/scripts/ash_events.rpy:10225
+    # game/scripts/ash_events.rpy:10228
     old "Cum on Felicity"
     new ""
 
-    # game/scripts/ash_events.rpy:10225
+    # game/scripts/ash_events.rpy:10228
     old "Cum on Emma"
     new ""
 
-    # game/scripts/ash_events.rpy:10420
+    # game/scripts/ash_events.rpy:10424
     old "It was terrible"
     new ""
 
-    # game/scripts/ash_events.rpy:10420
+    # game/scripts/ash_events.rpy:10424
     old "It was great!"
     new ""
 
-    # game/scripts/ash_events.rpy:10463
+    # game/scripts/ash_events.rpy:10467
     old "Lift her top"
     new ""
 
-    # game/scripts/ash_events.rpy:10463
+    # game/scripts/ash_events.rpy:10467
     old "Don't interfere"
     new ""
 
-    # game/scripts/ash_events.rpy:10672
+    # game/scripts/ash_events.rpy:10676
     old "Yep, that's me. Your boyfriend."
     new ""
 
-    # game/scripts/ash_events.rpy:10672
+    # game/scripts/ash_events.rpy:10676
     old "Don't jump to conclusions"
     new ""
 
-    # game/scripts/ash_events.rpy:10758
+    # game/scripts/ash_events.rpy:10762
     old "{color=#8C8C8C}Your pet name will be...{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10758
+    # game/scripts/ash_events.rpy:10762
     old "Your pet name will be..."
     new ""
 
-    # game/scripts/ash_events.rpy:10758
+    # game/scripts/ash_events.rpy:10762
     old "{color=#8C8C8C}Let's go on a date.{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10758
+    # game/scripts/ash_events.rpy:10762
     old "Let's go on a date. {color=#FF0000}(+Affection){/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Default <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Sexy School Uniform <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Goth Outfit <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Goth Outfit{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "Goth Outfit"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Harem Set <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Harem Set{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "Harem Set"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Natural <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Natural{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "Natural"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Lingerie <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Lingerie{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "Lingerie"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Slut Outfit <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:10912
+    # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Ropes <{/color}"
     new ""
 
-    # game/scripts/ash_events.rpy:11137
+    # game/scripts/ash_events.rpy:11093
+    old "What will her name be?"
+    new ""
+
+    # game/scripts/ash_events.rpy:11141
     old "Freestyle"
     new ""
 
-    # game/scripts/ash_events.rpy:11137
+    # game/scripts/ash_events.rpy:11141
     old "Cowgirl"
     new ""
 
-    # game/scripts/ash_events.rpy:11137
+    # game/scripts/ash_events.rpy:11141
     old "Foursome"
     new ""
 
-    # game/scripts/ash_events.rpy:11466
+    # game/scripts/ash_events.rpy:11470
     old "Cum"
     new ""
 
-    # game/scripts/ash_events.rpy:11725
+    # game/scripts/ash_events.rpy:11729
     old "Talk to Runa"
     new ""
 
-    # game/scripts/ash_events.rpy:11725
+    # game/scripts/ash_events.rpy:11729
     old "Talk to Cia"
     new ""
 
-    # game/scripts/ash_events.rpy:11725
+    # game/scripts/ash_events.rpy:11729
     old "Talk to Zoia"
     new ""
 
-    # game/scripts/ash_events.rpy:12052
+    # game/scripts/ash_events.rpy:12056
     old "You aren't wearing panties?"
     new ""
 
-    # game/scripts/ash_events.rpy:12052
+    # game/scripts/ash_events.rpy:12056
     old "Nothing, just checking up on you."
     new ""
 
-    # game/scripts/ash_events.rpy:12062
+    # game/scripts/ash_events.rpy:12066
     old "Very"
     new ""
 
-    # game/scripts/ash_events.rpy:12062
+    # game/scripts/ash_events.rpy:12066
     old "It's alright"
     new ""
 
-    # game/scripts/ash_events.rpy:12180
+    # game/scripts/ash_events.rpy:12184
     old "They're great."
     new ""
 
-    # game/scripts/ash_events.rpy:12180
+    # game/scripts/ash_events.rpy:12184
     old "Well..."
     new ""
 
-    # game/scripts/ash_events.rpy:12535
+    # game/scripts/ash_events.rpy:12539
     old "Sure, but not as payment."
     new ""
 
-    # game/scripts/ash_events.rpy:12535
+    # game/scripts/ash_events.rpy:12539
     old "I don't like anal..."
     new ""
 
-    # game/scripts/ash_events.rpy:13088
+    # game/scripts/ash_events.rpy:13092
     old "Sure (But I don't want to sit through a boring movie...)"
     new ""
 
-    # game/scripts/ash_events.rpy:13088
+    # game/scripts/ash_events.rpy:13092
     old "I can't right now"
     new ""
 
