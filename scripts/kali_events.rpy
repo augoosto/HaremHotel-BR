@@ -42880,308 +42880,308 @@ translate pt_br kalimismenu_53235d36:
 translate pt_br kalimismenu_cd1a85e3:
 
     # k "Ahh... my boobs feel funny when your dick is between them..."
-    k "Ahh... meus peitos ficam estranhos quando eu coloco seu pau entre eles..."
+    k "Ahh... meus seios ficam estranhos com seu pau entre eles..."
 
 # game/scripts/kali_events.rpy:13633
 translate pt_br kalimismenu_ecb40363:
 
     # k "Does it feel good [linoname]?"
-    k ""
+    k "Assim está bom [linoname]?"
 
 # game/scripts/kali_events.rpy:13634
 translate pt_br kalimismenu_f998e46e:
 
     # k "Heh, I know it does..."
-    k ""
+    k "Heh, eu sei que sim..."
 
 # game/scripts/kali_events.rpy:13635
 translate pt_br kalimismenu_eefb709b:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
-    k ""
+    k "Você vai gozar? Eu quero que seja nos meus seios..."
 
 # game/scripts/kali_events.rpy:13639
 translate pt_br kalimismenu_66deae9f:
 
     # k "Ahh! Mmmm..." with ssshake
-    k "" with ssshake
+    k "Ahh! Mmmm..." with ssshake
 
 # game/scripts/kali_events.rpy:13640
 translate pt_br kalimismenu_2bd4b217:
 
     # k "You came all over my tits [linoname]..."
-    k ""
+    k "Tem tanto entre os meus peitos [linoname]..."
 
 # game/scripts/kali_events.rpy:13651
 translate pt_br kalimismenu_53235d36_1:
 
     # k "Are you ready [name]?"
-    k ""
+    k "Você está pronto [name]?"
 
 # game/scripts/kali_events.rpy:13653
 translate pt_br kalimismenu_d83482e3:
 
     # k "Ahh... My boobs feel funny when your dick is between them..."
-    k ""
+    k "Ahh... meus seios ficam estranhos com seu pau entre eles..."
 
 # game/scripts/kali_events.rpy:13654
 translate pt_br kalimismenu_28e18ed7:
 
     # k "Does it feel good [name]?"
-    k ""
+    k "Assim está bom [name]?"
 
 # game/scripts/kali_events.rpy:13655
 translate pt_br kalimismenu_f998e46e_1:
 
     # k "Heh, I know it does..."
-    k ""
+    k "Heh, eu sei que sim..."
 
 # game/scripts/kali_events.rpy:13656
 translate pt_br kalimismenu_eefb709b_1:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
-    k ""
+    k "Você vai gozar? Eu quero que seja nos meus seios..."
 
 # game/scripts/kali_events.rpy:13660
 translate pt_br kalimismenu_66deae9f_1:
 
     # k "Ahh! Mmmm..." with ssshake
-    k "" with ssshake
+    k "Ahh! Mmmm..." with ssshake
 
 # game/scripts/kali_events.rpy:13661
 translate pt_br kalimismenu_65d9bb66:
 
     # k "You came all over my tits [name]..."
-    k ""
+    k "Tem tanto entre os meus peitos [name]..."
 
 # game/scripts/kali_events.rpy:13670
 translate pt_br kalimismenu_13813a24:
 
     # k "Sounds fun."
-    k ""
+    k "Parece divertido."
 
 # game/scripts/kali_events.rpy:13676
 translate pt_br kalithighmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13682
 translate pt_br kalithighmenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13688
 translate pt_br kalithighmenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13694
 translate pt_br kalithighmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13700
 translate pt_br kalithighmenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13706
 translate pt_br kalithighmenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13714
 translate pt_br kalithighmenu_b621322b:
 
     # k "Sure."
-    k ""
+    k "Claro."
 
 # game/scripts/kali_events.rpy:13720
 translate pt_br kalianalmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13726
 translate pt_br kalianalmenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13732
 translate pt_br kalianalmenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13738
 translate pt_br kalianalmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13744
 translate pt_br kalianalmenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13750
 translate pt_br kalianalmenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13760
 translate pt_br kalianalmenu_c2494032:
 
     # c "Nevermind..."
-    c ""
+    c "Esquece..."
 
 # game/scripts/kali_events.rpy:13790
 translate pt_br kalianalmenu_3ae7e25f:
 
     # k "At this time? No thank you..."
-    k ""
+    k "Agora? Não obrigada..."
 
 # game/scripts/kali_events.rpy:13818
 translate pt_br kalianalmenu_d6647337:
 
     # k "Ummm... I'm a little busy..."
-    k ""
+    k "Ummm... eu estou ocupada..."
 
 # game/scripts/kali_events.rpy:13819
 translate pt_br kalianalmenu_138ce778:
 
     # "I need to raise Kali's friendship..."
-    ""
+    "Eu preciso aumentar a amizade da Kali..."
 
 # game/scripts/kali_events.rpy:13822
 translate pt_br kalianalmenu_cdbc42b9:
 
     # k "Yeah... that sounds great!"
-    k ""
+    k "Sim... parece bom!"
 
 # game/scripts/kali_events.rpy:13837
 translate pt_br kalianalmenu_10de7f48:
 
     # k "Let's wait until tomorrow..."
-    k ""
+    k "Vamos esperar até amanhã..."
 
 # game/scripts/kali_events.rpy:13866
 translate pt_br kalianalmenu_3e9a56fe:
 
     # k "What!? No!"
-    k ""
+    k "Oque!? Não!"
 
 # game/scripts/kali_events.rpy:13867
 translate pt_br kalianalmenu_2666eee6:
 
     # "Kali's friendship is too low..."
-    ""
+    "A amizade com a kali está baixa..."
 
 # game/scripts/kali_events.rpy:13895
 translate pt_br kalianalmenu_8e4f092f:
 
     # k "You want to take pictures of me...?"
-    k ""
+    k "Você quer tirar fotos minhas...?"
 
 # game/scripts/kali_events.rpy:13896
 translate pt_br kalianalmenu_56d0beb3:
 
     # c "That's right."
-    c ""
+    c "Isso mesmo."
 
 # game/scripts/kali_events.rpy:13897
 translate pt_br kalianalmenu_cba1e23d:
 
     # k "And what are you going to do with these pictures?"
-    k ""
+    k "E o que você vai fazer com essas fotos?"
 
 # game/scripts/kali_events.rpy:13898
 translate pt_br kalianalmenu_bc63c9d4:
 
     # c "Whatever I want."
-    c ""
+    c "Oque eu quiser."
 
 # game/scripts/kali_events.rpy:13899
 translate pt_br kalianalmenu_14e0e6a6:
 
     # k "Yeah... I'm going to pass..."
-    k ""
+    k "É... acho que não..."
 
 # game/scripts/kali_events.rpy:13900
 translate pt_br kalianalmenu_5c46bdcb:
 
     # "Kali's affection is too low..."
-    ""
+    "A afeição da Kali está baixa..."
 
 # game/scripts/kali_events.rpy:13928
 translate pt_br kalianalmenu_8e4f092f_1:
 
     # k "You want to take pictures of me...?"
-    k ""
+    k "Você quer tirar fotos minhas...?"
 
 # game/scripts/kali_events.rpy:13929
 translate pt_br kalianalmenu_56d0beb3_1:
 
     # c "That's right."
-    c ""
+    c "Isso mesmo."
 
 # game/scripts/kali_events.rpy:13930
 translate pt_br kalianalmenu_2e9bd230:
 
     # k "Oh..."
-    k ""
+    k "Oh..."
 
 # game/scripts/kali_events.rpy:13931
 translate pt_br kalianalmenu_9a89a226:
 
     # c "Follow me to my room."
-    c ""
+    c "Me siga."
 
 # game/scripts/kali_events.rpy:13932
 translate pt_br kalianalmenu_22c719b5:
 
     # k "Okay..."
-    k ""
+    k "Ok..."
 
 # game/scripts/kali_events.rpy:13938
 translate pt_br kalianalmenu_aa188f6f:
 
     # c "See you later."
-    c ""
+    c "Até mais tarde."
 
 # game/scripts/kali_events.rpy:13939
 translate pt_br kalianalmenu_cf3bb8c2:
 
     # k "Later."
-    k ""
+    k "Até."
 
 # game/scripts/kali_events.rpy:13947
 translate pt_br kali_freestyle_blowjob_e2a80771:
 
     # k "Mmmn...! How does that feel, [name]? Llmmn...! You like my blowjobs, don't you?"
-    k ""
+    k "Mmmn...! Como você se sente, [name]? Llmmn...! Você gosta dos meus boquetes, não é?"
 
 # game/scripts/kali_events.rpy:13948
 translate pt_br kali_freestyle_blowjob_c9d0f384:
 
     # k "Mmmh, heheh, don't cum too quickly, I like to suck you..."
-    k ""
+    k "Mmmh, heheh. Não goze muito rápido, eu gosto de te chupar..."
 
 # game/scripts/kali_events.rpy:13949
 translate pt_br kali_freestyle_blowjob_c61e5c75:
 
     # k "Llmngh, mmnl...! Do you like it when I use my tongue...? Mmmln..."
-    k ""
-
+    k "Llmngh, mmnl...! Você gosta de quando eu uso minha língua...? Mmmln..."
+    
 # game/scripts/kali_events.rpy:13952
 translate pt_br kali_freestyle_blowjob_d4bfa480:
 
