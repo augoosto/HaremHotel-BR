@@ -43606,301 +43606,301 @@ translate pt_br kali_freestyle_anal_14d0012c:
 translate pt_br kali_freestyle_anal_a2d92736:
 
     # k "Oh~ mmmph, sure~"
-    k ""
+    k "Oh~ mmmph, claro~"
 
 # game/scripts/kali_events.rpy:14161
 translate pt_br kali_freestyle_anal_dad2a4ef:
 
     # k "Hnnn!" with ssshake
-    k "" with ssshake
+    k "Hnnn!" with ssshake
 
 # game/scripts/kali_events.rpy:14162
 translate pt_br kali_freestyle_anal_2c1711d6:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
-    k "" with ssshake
+    k "Isso! Porra! Enche minha bunda!" with ssshake
 
 # game/scripts/kali_events.rpy:14163
 translate pt_br kali_freestyle_anal_0cfc804c:
 
     # k "Holy shit!!!" with ssshake
-    k "" with ssshake
+    k "Puta merda!!!" with ssshake
 
 # game/scripts/kali_events.rpy:14170
 translate pt_br kali_freestyle_anal_e7b6ced2:
 
     # k "Ahhh... Hahhh, Holy shit..."
-    k ""
+    k "Ahhh... Hahhh, puta merda..."
 
 # game/scripts/kali_events.rpy:14192
 translate pt_br kaliundress_79e0e9d2:
 
     # k "!!!"
-    k ""
+    k "!!!"
 
 # game/scripts/kali_events.rpy:14194
 translate pt_br kaliundress_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14195
 translate pt_br kaliundress_93aeead4:
 
     # k "Dude, what the fuck! Get out!"
-    k ""
+    k "Cara, vai se fuder! Cai fora!"
 
 # game/scripts/kali_events.rpy:14197
 translate pt_br kaliundress_32bfcd46:
 
     # "Kali spends some time getting dressed"
-    ""
+    "Kali passa um tempo se vestindo"
 
 # game/scripts/kali_events.rpy:14199
 translate pt_br kaliundress_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14202
 translate pt_br kaliundress_f57638e2:
 
     # k "...Did you see my..."
-    k ""
+    k "... Você viu minha..."
 
 # game/scripts/kali_events.rpy:14203
 translate pt_br kaliundress_b279afbb:
 
     # k "Urgh... of course you did..."
-    k ""
+    k "Urgh... é claro que viu..."
 
 # game/scripts/kali_events.rpy:14206
 translate pt_br kaliundress_1ee7027f:
 
     # k "Ever heard of knocking asshole!?"
-    k ""
+    k "Já ouviu falar em bater antes de entrar, idiota!?"
 
 # game/scripts/kali_events.rpy:14208
 translate pt_br kaliundress_9aa7a3a2:
 
     # c "I did."
-    c ""
+    c "Já sim."
 
 # game/scripts/kali_events.rpy:14212
 translate pt_br kaliundress_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:14213
 translate pt_br kaliundress_761553af:
 
     # k "Oh, I must have had the music too loud!"
-    k ""
+    k "Oh, eu devo ter deixado a música muito alta!"
 
 # game/scripts/kali_events.rpy:14216
 translate pt_br kaliundress_84cb1d11:
 
     # k "Well... I mean... you can't just..."
-    k ""
+    k "Bem... quero dizer... você não pode só..."
 
 # game/scripts/kali_events.rpy:14217
 translate pt_br kaliundress_61320c9a:
 
     # k "Urghhh... I guess it was my fault."
-    k ""
+    k "Urghhh... é, eu acho que foi minha culpa."
 
 # game/scripts/kali_events.rpy:14220
 translate pt_br kaliundress_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14223
 translate pt_br kaliundress_1aa392a9:
 
     # k "Well..."
-    k ""
+    k "Bem..."
 
 # game/scripts/kali_events.rpy:14226
 translate pt_br kaliundress_d8ae5cca:
 
     # k "Did... Did you like them...?"
-    k ""
+    k "Você... você gosta deles...?"
 
 # game/scripts/kali_events.rpy:14228
 translate pt_br kaliundress_ff95e483:
 
     # c "They were amazing."
-    c ""
+    c "Eles são incríveis."
 
 # game/scripts/kali_events.rpy:14232
 translate pt_br kaliundress_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14235
 translate pt_br kaliundress_557e0685:
 
     # k "You liked them?"
-    k ""
+    k "Você gosta deles?"
 
 # game/scripts/kali_events.rpy:14238
 translate pt_br kaliundress_36e5b02e:
 
     # k "I mean... of course you did. They look good, why wouldn't you like them..."
-    k ""
+    k "Quero dizer... é claro que sim. Eles são bons, por que você não gostaria deles..."
 
 # game/scripts/kali_events.rpy:14241
 translate pt_br kaliundress_af1606d0:
 
     # k "...I guess... It's not really a big deal if you see my tits. They're just tits..."
-    k ""
+    k "... Eu acho... não é grande coisa você ver meus peitos. São só peitos..."
 
 # game/scripts/kali_events.rpy:14243
 translate pt_br kaliundress_e5b9fd1b:
 
     # c "They're great tits."
-    c ""
+    c "São bons peitos."
 
 # game/scripts/kali_events.rpy:14247
 translate pt_br kaliundress_82091822_4:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14250
 translate pt_br kaliundress_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:14251
 translate pt_br kaliundress_b409a14e:
 
     # k "Stop making me feel good!"
-    k ""
+    k "Para de fazer eu me sentir bem!"
 
 # game/scripts/kali_events.rpy:14254
 translate pt_br kaliundress_2c8a54bd:
 
     # k "I mean... I.."
-    k ""
+    k "Quero dizer... eu..."
 
 # game/scripts/kali_events.rpy:14257
 translate pt_br kaliundress_a858aade_1:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:14260
 translate pt_br kaliundress_93b6b699:
 
     # "Kali goes into her room and slams the door"
-    ""
+    "Kali entra no quarto e bate a porta"
 
 # game/scripts/kali_events.rpy:14278
 translate pt_br kalimail_19d4dca1:
 
     # k "Oh hey, mind checking the mail? I'm expecting something. Should be here any minute now."
-    k ""
+    k "Oh ei, se importa de checar o correio? Eu estou esperando uma coisa. Deve chegar a qualquer minuto."
 
 # game/scripts/kali_events.rpy:14279
 translate pt_br kalimail_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:14283
 translate pt_br kalimail_3804f446:
 
     # k "Great!"
-    k ""
+    k "Ótimo!"
 
 # game/scripts/kali_events.rpy:14286
 translate pt_br kalimail_a200cdc1:
 
     # k "Uh... just don't look inside it."
-    k ""
+    k "Uh... só não abra."
 
 # game/scripts/kali_events.rpy:14287
 translate pt_br kalimail_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Por que não?"
 
 # game/scripts/kali_events.rpy:14290
 translate pt_br kalimail_6a7f9612:
 
     # k "Because I fucking said so! ...Now hurry!"
-    k ""
+    k "Porque eu falei para não abrir! ... Vai logo!"
 
 # game/scripts/kali_events.rpy:14300
 translate pt_br kalimail2_9768f495:
 
     # k "Is it here? Did you get it?"
-    k ""
+    k "Chegou? Tá com você?"
 
 # game/scripts/kali_events.rpy:14301
 translate pt_br kalimail2_b8cc8523:
 
     # c "Yeah, here it is."
-    c ""
+    c "Sim, aqui está."
 
 # game/scripts/kali_events.rpy:14305
 translate pt_br kalimail2_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14306
 translate pt_br kalimail2_75a9fe44:
 
     # k "You opened it didn't you?"
-    k ""
+    k "Você abriu, não abriu?"
 
 # game/scripts/kali_events.rpy:14307
 translate pt_br kalimail2_e83bfcf6:
 
     # c "...No."
-    c ""
+    c "... Não."
 
 # game/scripts/kali_events.rpy:14310
 translate pt_br kalimail2_a850555c:
 
     # k "Don't fucking lie to me! The seal is broken."
-    k ""
+    k "Não minta para mim! O selo tá quebrado."
 
 # game/scripts/kali_events.rpy:14313
 translate pt_br kalimail2_f4958571:
 
     # k "Look... don't be getting any weird ideas... It's for my neck alright?"
-    k ""
+    k "Olha... não pense em coisas erradas... é para o meu pescoço, ok?"
 
 # game/scripts/kali_events.rpy:14316
 translate pt_br kalimail2_4dbad1be:
 
     # k "Yeah... the stress of being left here by my dad and not having a job can really pile up... and..."
-    k ""
+    k "Isso... o stress de ser deixada pelo pai e sem ter um trabalho pode realmente ser estressante... e..."
 
 # game/scripts/kali_events.rpy:14319
 translate pt_br kalimail2_5eb10bf5:
 
     # k "Oh shut up pervert! Don't go looking through people's stuff! What I do in my free time is my business. Not yours."
-    k ""
+    k "Oh cala a boca pervertido! Não vá olhando nas coisas dos outros! Oque eu faço no meu tempo livre não te interessa."
 
 # game/scripts/kali_events.rpy:14322
 translate pt_br kalimail2_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14325
 translate pt_br kalimail2_b8c42ba5:
 
     # k "Get out of here already!"
-    k ""
+    k "Cai fora, já!"
 
 # game/scripts/kali_events.rpy:14337
 translate pt_br kalimail2_c9e17861:
