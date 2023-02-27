@@ -43186,421 +43186,421 @@ translate pt_br kali_freestyle_blowjob_c61e5c75:
 translate pt_br kali_freestyle_blowjob_d4bfa480:
 
     # k "Mmmh, fuck...! Your cock is so fucking juicy, I love it...! Mmmh!"
-    k ""
+    k "Mmmh, porra...! Seu pau é tão gostoso, eu amo...! Mmmh!"
 
 # game/scripts/kali_events.rpy:13953
 translate pt_br kali_freestyle_blowjob_7aedede6:
 
     # k "Mmn, mmmgh! Are you getting close? Mmmh...! Cum, give me a big load...! Mmmh...!"
-    k ""
+    k "Mmn, mmmgh! Você tá chegando perto? Mmmh...! Goze bastante pra mim...! Mmmh...!"
 
 # game/scripts/kali_events.rpy:13954
 translate pt_br kali_freestyle_blowjob_cf236de6:
 
     # k "Cum for me! Mmmn! Cum for me, cum for me...!"
-    k ""
+    k "Goza pra mim! Mmmn! Goza pra mim, goza pra mim...!"
 
 # game/scripts/kali_events.rpy:13959
 translate pt_br kali_freestyle_blowjob_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
-    c ""
+    c "Fique de pé, eu vou foder as suas coxas."
 
 # game/scripts/kali_events.rpy:13960
 translate pt_br kali_freestyle_blowjob_6a427001:
 
     # k "Oh, mmmph...! Okay."
-    k ""
+    k "Oh, mmmph...! Ok."
 
 # game/scripts/kali_events.rpy:13963
 translate pt_br kali_freestyle_blowjob_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
-    c ""
+    c "Se deita, eu quero te foder."
 
 # game/scripts/kali_events.rpy:13964
 translate pt_br kali_freestyle_blowjob_a2d92736:
 
     # k "Oh~ mmmph, sure~"
-    k ""
+    k "Oh~ mmmph, claro~"
 
 # game/scripts/kali_events.rpy:13967
 translate pt_br kali_freestyle_blowjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
-    c ""
+    c "Se vira, eu quero foder a sua bunda."
 
 # game/scripts/kali_events.rpy:13968
 translate pt_br kali_freestyle_blowjob_d6942871:
 
     # k "Mmmn, okay..."
-    k ""
+    k "Mmmn, ok..."
 
 # game/scripts/kali_events.rpy:13975
 translate pt_br kali_freestyle_blowjob_5553a0cb:
 
     # c "I'm cumming!"
-    c ""
+    c "Eu vou gozar!"
 
 # game/scripts/kali_events.rpy:13977
 translate pt_br kali_freestyle_blowjob_fff6fb9d:
 
     # k "Mmmh!" with ssshake
-    k "" with ssshake
+    k "Mmmh!" with ssshake
 
 # game/scripts/kali_events.rpy:13978
 translate pt_br kali_freestyle_blowjob_27330d1e:
 
     # k "Mmmmh, nnh...!" with ssshake
-    k "" with ssshake
+    k "Mmmmh, nnh...!" with ssshake
 
 # game/scripts/kali_events.rpy:13979
 translate pt_br kali_freestyle_blowjob_81cfa29e:
 
     # k "*gulp*...! Mmh~!" with ssshake
-    k "" with ssshake
+    k "*gulp*...! Mmh~!" with ssshake
 
 # game/scripts/kali_events.rpy:13981
 translate pt_br kali_freestyle_blowjob_5f6b4d90:
 
     # k "I hope you enjoyed... see you later."
-    k ""
+    k "Eu espero que tenha gostado... até mais tarde."
 
 # game/scripts/kali_events.rpy:13985
 translate pt_br kali_freestyle_blowjob_6dd67c63:
 
     # k "Aaaah~!" with ssshake
-    k "" with ssshake
+    k "Aaaah~!" with ssshake
 
 # game/scripts/kali_events.rpy:13986
 translate pt_br kali_freestyle_blowjob_166a7488:
 
     # k "Nnngh! Yes, cum for me! More~! Mmmh~!" with ssshake
-    k "" with ssshake
+    k "Nnngh! Isso, goza pra mim! Mais~! Mmmh~!" with ssshake
 
 # game/scripts/kali_events.rpy:13988
 translate pt_br kali_freestyle_blowjob_5f6b4d90_1:
 
     # k "I hope you enjoyed... see you later."
-    k ""
+    k "Eu espero que tenha gostado... até mais tarde."
 
 # game/scripts/kali_events.rpy:14006
 translate pt_br kali_freestyle_missionary_b1b3f09f:
 
     # k "Ahh! Fuck..."
-    k ""
+    k "Ahh! Porra..."
 
 # game/scripts/kali_events.rpy:14007
 translate pt_br kali_freestyle_missionary_93c04655:
 
     # k "Nnn... Ahh... Yesss..."
-    k ""
+    k "Nnn... Ahh... Simmm..."
 
 # game/scripts/kali_events.rpy:14010
 translate pt_br kali_freestyle_missionary_8ba88102:
 
     # k "Ahh! Hahh! Fuck me! Yes! Oh god, yes! Ah!"
-    k ""
+    k "Ahh! Hahh! Me fode! Isso! Oh deus, isso! Ah!"
 
 # game/scripts/kali_events.rpy:14011
 translate pt_br kali_freestyle_missionary_2cd7c6e2:
 
     # k "Fuck my pussy! Yes! Harder! Deeper! Ahhh!"
-    k ""
+    k "Fode minha buceta! Isso! Mais forte! Mais fundo! Ahhh!"
 
 # game/scripts/kali_events.rpy:14012
 translate pt_br kali_freestyle_missionary_28def1b4:
 
     # k "I'm gonna cum! I'm gonna cum! Fuck! FUCK!"
-    k ""
+    k "Eu vou gozar! Eu vou gozar! Porra! PORRA!"
 
 # game/scripts/kali_events.rpy:14014
 translate pt_br kali_freestyle_missionary_6e85a559:
 
     # k "FUUUUUCK!!!" with sshake
-    k "" with sshake
+    k "POOOOORRA!!!" with sshake
 
 # game/scripts/kali_events.rpy:14015
 translate pt_br kali_freestyle_missionary_acbf0d67:
 
     # k "MMMH, nnnnnmh~! Yes, yes, yes!!" with ssshake
-    k "" with ssshake
+    k "MMMH, nnnnnmh~! Isso, isso, isso!!" with ssshake
 
 # game/scripts/kali_events.rpy:14017
 translate pt_br kali_freestyle_missionary_3227d715:
 
     # k "Ahh... Hahhhh... Haha..."
-    k ""
+    k "Ahh... Hahhhh... Haha..."
 
 # game/scripts/kali_events.rpy:14018
 translate pt_br kali_freestyle_missionary_f1fdb91e:
 
     # k "Now it's your turn..."
-    k ""
+    k "Sua vez..."
 
 # game/scripts/kali_events.rpy:14021
 translate pt_br kali_freestyle_missionary_f23cc4c4:
 
     # k "Mmmm! Nnn! Hahh! Ahh!!!"
-    k ""
+    k "Mmmm! Nnn! Hahh! Ahh!!!"
 
 # game/scripts/kali_events.rpy:14022
 translate pt_br kali_freestyle_missionary_5f6ef09f:
 
     # k "Fuck yes! Yes! I want your cum! All over me! Ah!"
-    k ""
+    k "Porra isso! Isso! Eu quero a sua porra! Me cobrindo! Ah!"
 
 # game/scripts/kali_events.rpy:14023
 translate pt_br kali_freestyle_missionary_876ec4bb:
 
     # k "Ah, Ah, Ah, Ah! Cum! Ahh!!!"
-    k ""
+    k "Ah, Ah, Ah, Ah! Goza! Ahh!!!"
 
 # game/scripts/kali_events.rpy:14028
 translate pt_br kali_freestyle_missionary_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
-    c ""
+    c "Fique de pé, eu vou foder as suas coxas."
 
 # game/scripts/kali_events.rpy:14029
 translate pt_br kali_freestyle_missionary_6a427001:
 
     # k "Oh, mmmph...! Okay."
-    k ""
+    k "Oh, mmmph...! Ok."
 
 # game/scripts/kali_events.rpy:14032
 translate pt_br kali_freestyle_missionary_f7d70909:
 
     # c "Get on your knees, suck my cock."
-    c ""
+    c "Fique de joelhos, eu quero que você chupe o meu pau."
 
 # game/scripts/kali_events.rpy:14033
 translate pt_br kali_freestyle_missionary_5dd97b0d:
 
     # k "Oh, okay."
-    k ""
+    k "Oh, ok."
 
 # game/scripts/kali_events.rpy:14036
 translate pt_br kali_freestyle_missionary_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
-    c ""
+    c "Se vira, eu quero foder a sua bunda."
 
 # game/scripts/kali_events.rpy:14037
 translate pt_br kali_freestyle_missionary_d6942871:
 
     # k "Mmmn, okay..."
-    k ""
+    k "Mmmn, ok..."
 
 # game/scripts/kali_events.rpy:14045
 translate pt_br kali_freestyle_missionary_06150057:
 
     # k "Ahhh!!!" with ssshake
-    k "" with ssshake
+    k "Ahhh!!!" with ssshake
 
 # game/scripts/kali_events.rpy:14046
 translate pt_br kali_freestyle_missionary_f45f439b:
 
     # k "Hnn! NNN!!!" with ssshake
-    k "" with ssshake
+    k "Hnn! NNN!!!" with ssshake
 
 # game/scripts/kali_events.rpy:14047
 translate pt_br kali_freestyle_missionary_cf3fc8d1:
 
     # k "So... Deep!" with ssshake
-    k "" with ssshake
+    k "Tão... fundo!" with ssshake
 
 # game/scripts/kali_events.rpy:14052
 translate pt_br kali_freestyle_missionary_85b9f941:
 
     # k "Ahh... fuck... you came so much inside me..."
-    k ""
+    k "Ahh... porra... tem tanto dentro de mim..."
 
 # game/scripts/kali_events.rpy:14057
 translate pt_br kali_freestyle_missionary_69588e9a:
 
     # k "Ahhh! You came all over me..." with ssshake
-    k "" with ssshake
+    k "Ahhh! Você me cobriu inteira..." with ssshake
 
 # game/scripts/kali_events.rpy:14058
 translate pt_br kali_freestyle_missionary_65759b9e:
 
     # k "Mmmm... I'm all dirty now..."
-    k ""
+    k "Mmmm... eu estou toda suja agora..."
 
 # game/scripts/kali_events.rpy:14080
 translate pt_br kali_freestyle_thighjob_3a28fd64:
 
     # k "Ahh... mmmh, how does that feel? Do you like my thighs?"
-    k ""
+    k "Ahh... mmmh, como se sente? Você gosta das minhas coxas?"
 
 # game/scripts/kali_events.rpy:14081
 translate pt_br kali_freestyle_thighjob_85fb29fc:
 
     # k "This is kind of hot... watching your cock rub my pussy like that."
-    k ""
+    k "Isso é meio excitante... ver o seu pau esfregando na minha buceta deste jeito."
 
 # game/scripts/kali_events.rpy:14082
 translate pt_br kali_freestyle_thighjob_aa3038ca:
 
     # k "Hahhh, go faster, it feels so good..."
-    k ""
+    k "Hahhh, mais rápido, é tão bom..."
 
 # game/scripts/kali_events.rpy:14085
 translate pt_br kali_freestyle_thighjob_d2d13823:
 
     # k "Mmm~ my pussy is drenching your cock, do you feel that?"
-    k ""
+    k "Mmm~ minha buceta tá encharcando o seu pau, consegue sentir?"
 
 # game/scripts/kali_events.rpy:14086
 translate pt_br kali_freestyle_thighjob_06dd01c9:
 
     # k "Nnnh, haaah...! Are you getting close? I want to watch you cum."
-    k ""
+    k "Nnnh, haaah...! Você tá quase? Eu quero ver você gozar."
 
 # game/scripts/kali_events.rpy:14087
 translate pt_br kali_freestyle_thighjob_81bfc66c:
 
     # k "Hahh, yes...! Cum for me, [name]... cum for me!"
-    k ""
+    k "Hahh, isso...! Goza pra mim, [name]... goza pra mim!"
 
 # game/scripts/kali_events.rpy:14090
 translate pt_br kali_freestyle_thighjob_f7d70909:
 
     # c "Get on your knees, suck my cock."
-    c ""
+    c "Fique de joelhos, eu quero que você chupe o meu pau."
 
 # game/scripts/kali_events.rpy:14091
 translate pt_br kali_freestyle_thighjob_5dd97b0d:
 
     # k "Oh, okay."
-    k ""
+    k "Oh, ok."
 
 # game/scripts/kali_events.rpy:14094
 translate pt_br kali_freestyle_thighjob_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
-    c ""
+    c "Se deita, eu quero te foder."
 
 # game/scripts/kali_events.rpy:14095
 translate pt_br kali_freestyle_thighjob_a2d92736:
 
     # k "Oh~ mmmph, sure~"
-    k ""
+    k "Oh~ mmmph, claro~"
 
 # game/scripts/kali_events.rpy:14098
 translate pt_br kali_freestyle_thighjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
-    c ""
+    c "Se vira, eu quero foder a sua bunda."
 
 # game/scripts/kali_events.rpy:14099
 translate pt_br kali_freestyle_thighjob_d6942871:
 
     # k "Mmmn, okay..."
-    k ""
+    k "Mmmn, ok..."
 
 # game/scripts/kali_events.rpy:14107
 translate pt_br kali_freestyle_thighjob_56fd56d0:
 
     # k "Ah! Wow..." with ssshake
-    k "" with ssshake
+    k "Ah! Uou..." with ssshake
 
 # game/scripts/kali_events.rpy:14125
 translate pt_br kali_freestyle_anal_0467e2bc:
 
     # k "Come onnn~ put it in!"
-    k ""
+    k "Vai looogo~ coloca dentro!"
 
 # game/scripts/kali_events.rpy:14128
 translate pt_br kali_freestyle_anal_908233c2:
 
     # k "Nnngh~!" with ssshake
-    k "" with ssshake
+    k "Nnngh~!" with ssshake
 
 # game/scripts/kali_events.rpy:14131
 translate pt_br kali_freestyle_anal_d112e047:
 
     # k "Oh! Fuck..."
-    k ""
+    k "Oh! Porra..."
 
 # game/scripts/kali_events.rpy:14132
 translate pt_br kali_freestyle_anal_600c5445:
 
     # k "Ohggh, god... Hnn..."
-    k ""
+    k "Ohggh, deus... Hnn"
 
 # game/scripts/kali_events.rpy:14133
 translate pt_br kali_freestyle_anal_7d9d5174:
 
     # k "Yes, fuck! My ass feels so good!"
-    k ""
+    k "Isso, porra! Isso é tão bom!"
 
 # game/scripts/kali_events.rpy:14134
 translate pt_br kali_freestyle_anal_e129708d:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
-    k ""
+    k "Hnngg! Oh meu deus, [name]! Minha bunda!"
 
 # game/scripts/kali_events.rpy:14137
 translate pt_br kali_freestyle_anal_b33cbc04:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
-    k ""
+    k "Hmm! Hnng! Porra! Aghh!"
 
 # game/scripts/kali_events.rpy:14138
 translate pt_br kali_freestyle_anal_0304eda8:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
-    k ""
+    k "Deus, seu pau está entrando e saindo da minha bunda! Ahh!"
 
 # game/scripts/kali_events.rpy:14139
 translate pt_br kali_freestyle_anal_87f41667:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
-    k ""
+    k "Isso isso isso! Hnn! Eu me sinto como uma vagabunda do anal! Agh!"
 
 # game/scripts/kali_events.rpy:14140
 translate pt_br kali_freestyle_anal_9621136c:
 
     # k "AH! HNN! NN! HAH!"
-    k ""
+    k "AH! HNN! NN! HAH!"
 
 # game/scripts/kali_events.rpy:14141
 translate pt_br kali_freestyle_anal_644a3b6a:
 
     # k "[name]! [name]! Cum inside my ass! Please!"
-    k ""
+    k "[name]! [name]! Goza dentro da minha bunda! Por favor!"
 
 # game/scripts/kali_events.rpy:14144
 translate pt_br kali_freestyle_anal_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
-    c ""
+    c "Fique de pé, eu vou foder as suas coxas."
 
 # game/scripts/kali_events.rpy:14145
 translate pt_br kali_freestyle_anal_6a427001:
 
     # k "Oh, mmmph...! Okay."
-    k ""
+    k "Oh, mmmph...! Ok."
 
 # game/scripts/kali_events.rpy:14148
 translate pt_br kali_freestyle_anal_f7d70909:
 
     # c "Get on your knees, suck my cock."
-    c ""
+    c "Fique de joelhos, eu quero que você chupe o meu pau."
 
 # game/scripts/kali_events.rpy:14149
 translate pt_br kali_freestyle_anal_5dd97b0d:
 
     # k "Oh, okay."
-    k ""
+    k "Oh, ok."
 
 # game/scripts/kali_events.rpy:14152
 translate pt_br kali_freestyle_anal_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
-    c ""
+    c "Se deita, eu quero te foder."
 
 # game/scripts/kali_events.rpy:14153
 translate pt_br kali_freestyle_anal_a2d92736:
