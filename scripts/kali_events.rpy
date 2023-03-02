@@ -44206,301 +44206,301 @@ translate pt_br talkkaliwork_f4f0d293:
 translate pt_br talkkaliwork_33639f48:
 
     # nid "Oh, really...?"
-    nid ""
+    nid "Oh, sério...?"
 
 # game/scripts/kali_events.rpy:14499
 translate pt_br talkkaliwork_28b740cf:
 
     # nid "That's right... we were expecting someone..."
-    nid ""
+    nid "Ah sim... agente tava esperando alguém..."
 
 # game/scripts/kali_events.rpy:14501
 translate pt_br talkkaliwork_d1685089:
 
     # nid "You're Kali... right? I'm Nidra... I'll be your co worker..."
-    nid ""
+    nid "Você é a Kali... certo? Meu nome é Nidra... eu serei sua colega de trabalho..."
 
 # game/scripts/kali_events.rpy:14502
 translate pt_br talkkaliwork_7457cfe8:
 
     # k "Do you always sleep on the job...?"
-    k ""
+    k "Você sempre dorme no trabalho...?"
 
 # game/scripts/kali_events.rpy:14503
 translate pt_br talkkaliwork_fe2ab04a:
 
     # nid "I can't control it... I'm always sleepy..."
-    nid ""
+    nid "Eu não consigo controlar... eu estou sempre com sono..."
 
 # game/scripts/kali_events.rpy:14504
 translate pt_br talkkaliwork_726b5e1f:
 
     # k "Great..."
-    k ""
+    k "Ótimo..."
 
 # game/scripts/kali_events.rpy:14505
 translate pt_br talkkaliwork_3e952247:
 
     # nid "It's pretty slow around here... so... you don't need to worry about me..."
-    nid ""
+    nid "É bem parado por aqui... então... você não precisa se preocupar comigo..."
 
 # game/scripts/kali_events.rpy:14506
 translate pt_br talkkaliwork_0db754f9:
 
     # k "Don't you cook the pizzas though? How can you work like that..."
-    k ""
+    k "Não é você que cozinha as pizzas? Como você pode trabalhar assim..."
 
 # game/scripts/kali_events.rpy:14508
 translate pt_br talkkaliwork_f4861ac5:
 
     # nid "...It's just frozen shit anyway... the stove takes care of everything else..."
-    nid ""
+    nid "... É só pizza congelada... o fogão cuida de tudo..."
 
 # game/scripts/kali_events.rpy:14509
 translate pt_br talkkaliwork_9bbab684:
 
     # k "Nnngh... this place is going to burn down with me in it..."
-    k ""
+    k "Nnngh... esse lugar vai queimar comigo dentro..."
 
 # game/scripts/kali_events.rpy:14510
 translate pt_br talkkaliwork_9cab6d2f:
 
     # k "Where's the manager, can I speak to him?"
-    k ""
+    k "Onde está o gerente, posso falar com ele?"
 
 # game/scripts/kali_events.rpy:14511
 translate pt_br talkkaliwork_8e88f8b0:
 
     # nid "The manager is... uh... where is he..."
-    nid ""
+    nid "O gerente está... uh... onde ele está..."
 
 # game/scripts/kali_events.rpy:14512
 translate pt_br talkkaliwork_146bbd75:
 
     # nid "Oh, that's right... he told me to train you..."
-    nid ""
+    nid "Ah, sim... ele me disse para te instruir..."
 
 # game/scripts/kali_events.rpy:14513
 translate pt_br talkkaliwork_77901f74:
 
     # k "*sigh*... alright, what do I have to do..."
-    k ""
+    k "*suspiro*... beleza, oque eu tenho que fazer...?"
 
 # game/scripts/kali_events.rpy:14514
 translate pt_br talkkaliwork_e676315c:
 
     # nid "Do you... know how to drive a... car?"
-    nid ""
+    nid "Você... sabe como dirigir um... carro?"
 
 # game/scripts/kali_events.rpy:14515
 translate pt_br talkkaliwork_a302aea6:
 
     # k "Yes..."
-    k ""
+    k "Sim..."
 
 # game/scripts/kali_events.rpy:14516
 translate pt_br talkkaliwork_9db14ae5:
 
     # nid "I guess that's it... wow, that was an easy bonus..."
-    nid ""
+    nid "Eu acho que é isso então... wow, isso foi um bônus fácil..."
 
 # game/scripts/kali_events.rpy:14517
 translate pt_br talkkaliwork_9b3fbd08:
 
     # nid "He wants you to finish a delivery though... before you start..."
-    nid ""
+    nid "Ele quer que você faça uma entrega teste... antes de você começar oficialmente..."
 
 # game/scripts/kali_events.rpy:14518
 translate pt_br talkkaliwork_3e841376:
 
     # k "Okay, I can do that."
-    k ""
+    k "Ok, eu posso fazer isso."
 
 # game/scripts/kali_events.rpy:14519
 translate pt_br talkkaliwork_a085913f:
 
     # nid "The keys are in the back room..."
-    nid ""
+    nid "As chaves estão nos fundos..."
 
 # game/scripts/kali_events.rpy:14520
 translate pt_br talkkaliwork_8b8667e3:
 
     # nid "Don't steal the car... okay?"
-    nid ""
+    nid "Não roube o carro... ok?"
 
 # game/scripts/kali_events.rpy:14522
 translate pt_br talkkaliwork_a92193fc:
 
     # k "I guess I have to do some work... sorry for dragging you out here to make you wait."
-    k ""
+    k "Eu acho que eu vou começar.... desculpa por te arrastar até aqui e te fazer esperar."
 
 # game/scripts/kali_events.rpy:14523
 translate pt_br talkkaliwork_6c878e4c:
 
     # c "No problem at all. I'll join you on your first delivery, if that's allowed..."
-    c ""
+    c "Sem problema. Eu vou com você na sua primeira entrega, se for permitido..."
 
 # game/scripts/kali_events.rpy:14525
 translate pt_br talkkaliwork_3b59fec2:
 
     # nid "*snore*..."
-    nid ""
+    nid "*roncando*..."
 
 # game/scripts/kali_events.rpy:14526
 translate pt_br talkkaliwork_af6f8956:
 
     # k "I don't think she'll care, heh..."
-    k ""
+    k "Eu não acho que vá ligar, heh..."
 
 # game/scripts/kali_events.rpy:14528
 translate pt_br talkkaliwork_81235e28:
 
     # k "Okay, yeah... that would be cool. I wouldn't be as bored at least..."
-    k ""
+    k "Ok, sim... seria legal, eu não ficaria entediada pelo menos..."
 
 # game/scripts/kali_events.rpy:14530
 translate pt_br talkkaliwork_848a4072:
 
     # "You and Kali wait for the first delivery order to come. Nidra was right, this place is a bit slow..."
-    ""
+    "Você e a Kali esperam pelo primeiro pedido chegar. Nidra tinha razão, o lugar é meio parado..."
 
 # game/scripts/kali_events.rpy:14531
 translate pt_br talkkaliwork_dd4c5964:
 
     # "After waiting for what feels like 30 minutes, the phone finally rings. It's an order for two large pepperoni pizzas."
-    ""
+    "Depois de esperar por uns 30 minutos, o telefone finalmente toca. É um pedido de duas pizzas grandes de pepperoni."
 
 # game/scripts/kali_events.rpy:14532
 translate pt_br talkkaliwork_aff8a077:
 
     # "Once Nidra has baked the order, you and Kali drive to the address. She completes the delivery on time and you return to Papa Rons..."
-    ""
+    "Depois da Nidra esquentar o pedido, você e a Kali dirigem até o endereço. Ela completa a entrega no tempo e volta ao Papa Rons..."
 
 # game/scripts/kali_events.rpy:14534
 translate pt_br talkkaliwork_fb409ad4:
 
     # k "Okay, we did it."
-    k ""
+    k "Ok, nós terminamos."
 
 # game/scripts/kali_events.rpy:14535
 translate pt_br talkkaliwork_0aa2afc9:
 
     # nid "Egh... huh? Oh... nice..."
-    nid ""
+    nid "Egh... huh? Oh... boa..."
 
 # game/scripts/kali_events.rpy:14536
 translate pt_br talkkaliwork_082895c5:
 
     # k "So, that's it?"
-    k ""
+    k "Então, é isso?"
 
 # game/scripts/kali_events.rpy:14537
 translate pt_br talkkaliwork_683971af:
 
     # nid "Were there... any complications...?"
-    nid ""
+    nid "Houve... alguma complicação...?"
 
 # game/scripts/kali_events.rpy:14538
 translate pt_br talkkaliwork_0d4d630a:
 
     # k "Nope."
-    k ""
+    k "Não."
 
 # game/scripts/kali_events.rpy:14539
 translate pt_br talkkaliwork_c6f6cdb6:
 
     # nid "Grats... you got the job... you can start this afternoon."
-    nid ""
+    nid "Beleza... você tá contratada... pode começar esta tarde."
 
 # game/scripts/kali_events.rpy:14540
 translate pt_br talkkaliwork_1209a9d5:
 
     # k "Finally..."
-    k ""
+    k "Finalmente..."
 
 # game/scripts/kali_events.rpy:14541
 translate pt_br talkkaliwork_7688e72b:
 
     # k "Alright, let's get out of here [name]. Goodbye Nidra."
-    k ""
+    k "Beleza, vamos sair daqui [name]. Tchau Nidra."
 
 # game/scripts/kali_events.rpy:14542
 translate pt_br talkkaliwork_c8fa16a0:
 
     # k "Or... goodnight...? Whatever."
-    k ""
+    k "Ou... boa noite...? tanto faz."
 
 # game/scripts/kali_events.rpy:14543
 translate pt_br talkkaliwork_bda6cfef:
 
     # nid "Night..."
-    nid ""
+    nid "Noite..."
 
 # game/scripts/kali_events.rpy:14545
 translate pt_br talkkaliwork_54be8fa7_1:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/scripts/kali_events.rpy:14549
 translate pt_br talkkaliwork_a3b03158:
 
     # k "Hey... thanks for joining me, you didn't have to..."
-    k ""
+    k "Ei... obrigada por vir comigo, você não precisava..."
 
 # game/scripts/kali_events.rpy:14550
 translate pt_br talkkaliwork_289c2a35:
 
     # c "No problem, I had a good time with you."
-    c ""
+    c "Sem problema, eu me diverti com você."
 
 # game/scripts/kali_events.rpy:14551
 translate pt_br talkkaliwork_dfba945c:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:14553
 translate pt_br talkkaliwork_19dd1f53:
 
     # k "Alright, well uh..."
-    k ""
+    k "Tá certo, bem uh..."
 
 # game/scripts/kali_events.rpy:14554
 translate pt_br talkkaliwork_7d1e0c50:
 
     # k "See you around."
-    k ""
+    k "Até mais."
 
 # game/scripts/kali_events.rpy:14569
 translate pt_br kalisexm_8512cd7d:
 
     # k "Missionary? Sounds like fun..."
-    k ""
+    k "Missionária? Parece divertido..."
 
 # game/scripts/kali_events.rpy:14571
 translate pt_br kalisexm_e28deb44:
 
     # "Kali undresses herself and lays down on the bed. Waiting."
-    ""
+    "Kali tira as roupas e deita na cama. Esperando."
 
 # game/scripts/kali_events.rpy:14574
 translate pt_br kalisexm_8a6a5ed4:
 
     # k "Well [name], are you going to fuck me or not?"
-    k ""
+    k "Bem [name], você vai vir me foder ou não?"
 
 # game/scripts/kali_events.rpy:14578
 translate pt_br kalisexm_bcfac4f6:
 
     # k "Ohhhh fuck! It's so fucking big."
-    k ""
+    k "Ohhhh porra! É grande pra caralho."
 
 # game/scripts/kali_events.rpy:14579
 translate pt_br kalisexm_a5552c7a:
 
     # k "Ahh... yessss. ohh, mmmmmmm..."
-    k ""
+    k "Ahh... issoooo. ohh, mmmmmmm..."
 
 # game/scripts/kali_events.rpy:14580
 translate pt_br kalisexm_032346f5:
