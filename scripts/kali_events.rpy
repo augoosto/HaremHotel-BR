@@ -44506,301 +44506,301 @@ translate pt_br kalisexm_a5552c7a:
 translate pt_br kalisexm_032346f5:
 
     # k "Mmmmm. Shit you're good at this [name]."
-    k ""
+    k "Mmmmm. Merda você é bom nisso, [name]."
 
 # game/scripts/kali_events.rpy:14581
 translate pt_br kalisexm_d8b0314c:
 
     # k "Reallllly good... hahhh..."
-    k ""
+    k "Muuuuuito bom... hahhh..."
 
 # game/scripts/kali_events.rpy:14584
 translate pt_br kalisexm_f939b082:
 
     # k "Fuck! Yes! Go faster!"
-    k ""
+    k "Porra! Isso! Mais rápido!"
 
 # game/scripts/kali_events.rpy:14585
 translate pt_br kalisexm_ed79144f:
 
     # k "Ahh! Mmmmm... yes yes!"
-    k ""
+    k "Ahh! Mmmmm... isso isso!"
 
 # game/scripts/kali_events.rpy:14586
 translate pt_br kalisexm_f21dd2fa:
 
     # k "Yesss! YESS!"
-    k ""
+    k "IIIsso! IISSO!"
 
 # game/scripts/kali_events.rpy:14587
 translate pt_br kalisexm_9ae7b23b:
 
     # k "More! Faster!"
-    k ""
+    k "Mais! Rápido!"
 
 # game/scripts/kali_events.rpy:14590
 translate pt_br kalisexm_22769ccb:
 
     # k "Fuck yes! Keep going! Fuck my pussy!"
-    k ""
+    k "Isso porra! Continua! Fode a minha buceta!"
 
 # game/scripts/kali_events.rpy:14591
 translate pt_br kalisexm_60c704f6:
 
     # k "Don't fucking stop! Yesyesyesyes! FUCK! FUCK!"
-    k ""
+    k "Não pare caralho! Issoissoissoisso! PORRA! PORRA!"
 
 # game/scripts/kali_events.rpy:14594
 translate pt_br kalisexm_6a423224:
 
     # k "I'M FUCKING CUMMING! FUUUUUUUUUCK!!!"
-    k ""
+    k "EU TO GOZANDO! POOOOOOOOORRA!!!"
 
 # game/scripts/kali_events.rpy:14595
 translate pt_br kalisexm_ccf273a7:
 
     # k "OHHHHHHHHHH! FUCK YES! AHH!"
-    k ""
+    k "OHHHHHHHHHH! ISSO PORRA! AHH!"
 
 # game/scripts/kali_events.rpy:14598
 translate pt_br kalisexm_fb296a77:
 
     # k "Fuck! Shit! ohmygod... fuck ...Holy shit you made me cum [name]."
-    k ""
+    k "Porra! Merda! meudeus... porra... puta merda, você me fez gozar, [name]."
 
 # game/scripts/kali_events.rpy:14601
 translate pt_br kalisexm_2647110b:
 
     # k "Mmmm... Your cock made my pussy cum. Hahhh... mmmm..."
-    k ""
+    k "Mmmm... seu pau fez a minha buceta gozar. Hahhh... mmmm..."
 
 # game/scripts/kali_events.rpy:14602
 translate pt_br kalisexm_67ae32ca:
 
     # k "Ahhhh..."
-    k ""
+    k "Ahhhh..."
 
 # game/scripts/kali_events.rpy:14603
 translate pt_br kalisexm_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14604
 translate pt_br kalisexm_c52ea169:
 
     # k "Your turn."
-    k ""
+    k "Sua vez."
 
 # game/scripts/kali_events.rpy:14607
 translate pt_br kalisexm_9c579d66:
 
     # k "Ohhh fuck. Yes! Yes!"
-    k ""
+    k "Ohhh porra. Sim! Sim!"
 
 # game/scripts/kali_events.rpy:14608
 translate pt_br kalisexm_a1b1d0ff:
 
     # k "Pound me [name]! Fuck my tight pussy!"
-    k ""
+    k "Me usa, [name]! Fode a minha buceta apertada!"
 
 # game/scripts/kali_events.rpy:14609
 translate pt_br kalisexm_6a412b60:
 
     # k "Use my fucking pussy! Use me and fucking cum!"
-    k ""
+    k "Usa a porra da minha buceta! Me usa e goze!"
 
 # game/scripts/kali_events.rpy:14612
 translate pt_br kalisexm_12bc9ee6:
 
     # k "Cum for me! Cum! Yes!"
-    k ""
+    k "Goza pra mim! Goza! Isso!"
 
 # game/scripts/kali_events.rpy:14617
 translate pt_br kalisexm_287e1234:
 
     # k "Wait! Inside!? But I mi-"
-    k ""
+    k "Espera! Dentro!? Mas eu poss-"
 
 # game/scripts/kali_events.rpy:14618
 translate pt_br kalisexm_79e0e9d2:
 
     # k "!!!"
-    k ""
+    k "!!!"
 
 # game/scripts/kali_events.rpy:14621
 translate pt_br kalisexm_1a1ed794:
 
     # k "OHH!!! Fuck you're filling me up!"
-    k ""
+    k "OHH!!! Porra, você tá me enchendo!"
 
 # game/scripts/kali_events.rpy:14622
 translate pt_br kalisexm_ffe1b84f:
 
     # k "Ohhhh... mmmm... oh my god... you came inside..."
-    k ""
+    k "Ohhhh... mmmm... meu deus... você gozou dentro..."
 
 # game/scripts/kali_events.rpy:14625
 translate pt_br kalisexm_81aaee28:
 
     # k "mmm..."
-    k ""
+    k "mmm..."
 
 # game/scripts/kali_events.rpy:14626
 translate pt_br kalisexm_9f8d2045:
 
     # k "I might get pregnant..."
-    k ""
+    k "Eu posso acabar engravidando..."
 
 # game/scripts/kali_events.rpy:14627
 translate pt_br kalisexm_fec4985c:
 
     # k "Heh heh heh... mmm..."
-    k ""
+    k "Heh heh heh... mmm..."
 
 # game/scripts/kali_events.rpy:14629
 translate pt_br kalisexm_15975616:
 
     # k "Thanks [name], that was amazing..."
-    k ""
+    k "Obrigada [name], isso foi incrível..."
 
 # game/scripts/kali_events.rpy:14634
 translate pt_br kalisexm_ea78399e:
 
     # k "Yes! Fucking cum on me!"
-    k ""
+    k "Isso! Goza em mim porra!"
 
 # game/scripts/kali_events.rpy:14638
 translate pt_br kalisexm_59351dd0:
 
     # k "Do it! Cum! Please cum on me! Yes yes yes!"
-    k ""
+    k "Vai! Goza! por favor, goza em mim! Isso isso isso!"
 
 # game/scripts/kali_events.rpy:14641
 translate pt_br kalisexm_925046fc:
 
     # k "Ahh..."
-    k ""
+    k "Ahh..."
 
 # game/scripts/kali_events.rpy:14642
 translate pt_br kalisexm_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14643
 translate pt_br kalisexm_bc102e1a:
 
     # k "It's all over me..."
-    k ""
+    k "Eu tô toda coberta..."
 
 # game/scripts/kali_events.rpy:14644
 translate pt_br kalisexm_48cd5574:
 
     # k "Mmmmm..."
-    k ""
+    k "Mmmmm..."
 
 # game/scripts/kali_events.rpy:14646
 translate pt_br kalisexm_15975616_1:
 
     # k "Thanks [name], that was amazing..."
-    k ""
+    k "Obrigada [name], isso foi incrível..."
 
 # game/scripts/kali_events.rpy:14651
 translate pt_br kalisexm_97a56ee0:
 
     # k "I hope you had fun too heheh."
-    k ""
+    k "Eu espero que você tenha se divertido também, heheh."
 
 # game/scripts/kali_events.rpy:14652
 translate pt_br kalisexm_5e66397d:
 
     # k "Let me know when you want to have some more... 'fun'... I'll be waiting."
-    k ""
+    k "Me avise quando quiser... 'se divertir' de novo... estarei esperando."
 
 # game/scripts/kali_events.rpy:14658
 translate pt_br kalibeach_38aa64ab:
 
     # "You and Kali drive to the beach..."
-    ""
+    "Você e a Kali dirigem até a praia..."
 
 # game/scripts/kali_events.rpy:14660
 translate pt_br kalibeach_05f51636:
 
     # k "Thanks for coming with me, [name]."
-    k ""
+    k "Obrigada por vir comigo, [name]."
 
 # game/scripts/kali_events.rpy:14662
 translate pt_br kalibeach_778f1c08:
 
     # k "Pretty cool place, not many people at this time... and it's not too far from the hotel."
-    k ""
+    k "O lugar é bem legal, não está muito cheio essas horas... e não é muito longe do hotel."
 
 # game/scripts/kali_events.rpy:14664
 translate pt_br kalibeach_9e90b6f2:
 
     # k "Hey... can you put some sunscreen on me? I would do it myself, but... I can't reach my back..."
-    k ""
+    k "Ei... você pode passar protetor solar em mim? Eu faria isso eu mesma, mas... eu não consigo alcançar as minhas costas..."
 
 # game/scripts/kali_events.rpy:14665
 translate pt_br kalibeach_db073fff:
 
     # c "Yeah, no problem."
-    c ""
+    c "Sim, sem problema."
 
 # game/scripts/kali_events.rpy:14666
 translate pt_br kalibeach_3dabfd2d:
 
     # k "Cool..."
-    k ""
+    k "Legal..."
 
 # game/scripts/kali_events.rpy:14668
 translate pt_br kalibeach_31c7682f:
 
     # k "Don't get any ideas..."
-    k ""
+    k "E não pense em nenhuma gracinha..."
 
 # game/scripts/kali_events.rpy:14670
 translate pt_br kalibeach_925046fc:
 
     # k "Ahh..."
-    k ""
+    k "Ahh..."
 
 # game/scripts/kali_events.rpy:14672
 translate pt_br kalibeach_bc0e4658:
 
     # k "H-Hey... where are your eyes?"
-    k ""
+    k "E-Ei... tá olhando pra onde?"
 
 # game/scripts/kali_events.rpy:14674
 translate pt_br kalibeach_b96b494c:
 
     # c "Where do you want them to be?"
-    c ""
+    c "Para onde mais você quer que eu olhe?"
 
 # game/scripts/kali_events.rpy:14676
 translate pt_br kalibeach_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14678
 translate pt_br kalibeach_9b317648:
 
     # k "Nnnn..."
-    k ""
+    k "Nnnn..."
 
 # game/scripts/kali_events.rpy:14680
 translate pt_br kalibeach_45a63d8b:
 
     # k "Aah! H-Hey..."
-    k ""
+    k "Aah! E-Ei..."
 
 # game/scripts/kali_events.rpy:14682
 translate pt_br kalibeach_557ec6fe:
 
     # k "I thought I told you not to do anything weird..."
-    k ""
+    k "Eu pensei que eu havia dito para não fazer nenhuma gracinha..."
 
 # game/scripts/kali_events.rpy:14684
 translate pt_br kalibeach_fc54e19e:
