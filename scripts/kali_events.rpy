@@ -44806,301 +44806,301 @@ translate pt_br kalibeach_557ec6fe:
 translate pt_br kalibeach_fc54e19e:
 
     # k "Nnnnh..."
-    k ""
+    k "Nnnnh..."
 
 # game/scripts/kali_events.rpy:14686
 translate pt_br kalibeach_d218500b:
 
     # c "I'm just rubbing sunscreen on you..."
-    c ""
+    c "Eu estou só passando protetor solar em você..."
 
 # game/scripts/kali_events.rpy:14688
 translate pt_br kalibeach_2d209eab:
 
     # k "O-Okay, well... that's fine then..."
-    k ""
+    k "O-Ok, bem... tudo bem então..."
 
 # game/scripts/kali_events.rpy:14690
 translate pt_br kalibeach_7e64899c:
 
     # k "Ah..."
-    k ""
+    k "Ah..."
 
 # game/scripts/kali_events.rpy:14695
 translate pt_br kalibeach_6d4350bc:
 
     # k "Hey, what are you..."
-    k ""
+    k "Ei, oque você está..."
 
 # game/scripts/kali_events.rpy:14697
 translate pt_br kalibeach_f7974904:
 
     # k "AH! Hey!!" with ssshake
-    k "" with ssshake
+    k "AH! Ei!!" with ssshake
 
 # game/scripts/kali_events.rpy:14698
 translate pt_br kalibeach_7d7e6aaa:
 
     # k "Give it back, asshole!"
-    k ""
+    k "Me devolve, babaca!"
 
 # game/scripts/kali_events.rpy:14699
 translate pt_br kalibeach_72048b4b:
 
     # c "Heheh, you don't want tan lines, do you?"
-    c ""
+    c "Heheh, você não quer ficar com marcas de biquíni, quer?"
 
 # game/scripts/kali_events.rpy:14701
 translate pt_br kalibeach_b836e199:
 
     # k "Nnnngh... are there more people here? Fuck, fuck..."
-    k ""
+    k "Nnnngh... tem mais pessoas aqui? Porra, porra..."
 
 # game/scripts/kali_events.rpy:14702
 translate pt_br kalibeach_d726b2f9:
 
     # c "You're overthinking it..."
-    c ""
+    c "Você tá exagerando..."
 
 # game/scripts/kali_events.rpy:14704
 translate pt_br kalibeach_29cc84de:
 
     # k "Give it back! Now! There are people here!"
-    k ""
+    k "Me devolve! Agora! Tem pessoas aqui!"
 
 # game/scripts/kali_events.rpy:14705
 translate pt_br kalibeach_eec7ed34:
 
     # c "Alright..."
-    c ""
+    c "Tá certo..."
 
 # game/scripts/kali_events.rpy:14707
 translate pt_br kalibeach_df0d2017:
 
     # k "Hmph... don't do that in public... stupid..."
-    k ""
+    k "Hmph... não faça isso em público... idiota..."
 
 # game/scripts/kali_events.rpy:14709
 translate pt_br kalibeach_311fd05c:
 
     # k "I'll do the rest..."
-    k ""
+    k "Eu passo o resto..."
 
 # game/scripts/kali_events.rpy:14711
 translate pt_br kalibeach_63087b23:
 
     # c "Your skin is very soft."
-    c ""
+    c "Sua pele é bem macia."
 
 # game/scripts/kali_events.rpy:14713
 translate pt_br kalibeach_ba3a0808:
 
     # k "I-It's just the sun screen..."
-    k ""
+    k "É-é só o protetor solar..."
 
 # game/scripts/kali_events.rpy:14715
 translate pt_br kalibeach_5667294f:
 
     # k "You can stop now... I'll do the rest..."
-    k ""
+    k "Você pode parar agora... Eu passo o resto..."
 
 # game/scripts/kali_events.rpy:14718
 translate pt_br kalibeach_3ee014e4:
 
     # k "That was fun... thanks for the help."
-    k ""
+    k "Isso foi divertido... obrigada pela ajuda."
 
 # game/scripts/kali_events.rpy:14719
 translate pt_br kalibeach_c027eb52:
 
     # k "At least I won't be all red now..."
-    k ""
+    k "Ao menos eu não vou ficar toda vermelha agora..."
 
 # game/scripts/kali_events.rpy:14720
 translate pt_br kalibeach_a2971e90:
 
     # c "Happy to help."
-    c ""
+    c "Fico feliz em ajudar."
 
 # game/scripts/kali_events.rpy:14722
 translate pt_br kalibeach_4fbdc6dd:
 
     # k "The Capitol, where I'm from, isn't near any beaches..."
-    k ""
+    k "A Capitol, de onde eu vim, não tem muitas praias por perto..."
 
 # game/scripts/kali_events.rpy:14723
 translate pt_br kalibeach_9a92e081:
 
     # c "Is this your first time at one?"
-    c ""
+    c "Essa é a sua primeira vez em uma?"
 
 # game/scripts/kali_events.rpy:14724
 translate pt_br kalibeach_990a62d8:
 
     # k "No, of course not... but this is probably one of the nicest. So long as it doesn't get too crowded..."
-    k ""
+    k "Não, claro que não... mas essa é provavelmente uma das melhores. Desde que não fique muito lotado..."
 
 # game/scripts/kali_events.rpy:14725
 translate pt_br kalibeach_f254ba4e:
 
     # c "Not a fan of crowds, huh?"
-    c ""
+    c "Não é uma fã de multidões, huh?"
 
 # game/scripts/kali_events.rpy:14726
 translate pt_br kalibeach_af68632c:
 
     # k "Not at all, I'm so introverted..."
-    k ""
+    k "Na verdade não, eu sou muito introvertida..."
 
 # game/scripts/kali_events.rpy:14727
 translate pt_br kalibeach_de30088b:
 
     # k "You know, I would probably be a celebrity if I wasn't so introverted."
-    k ""
+    k "Sabe, eu provavelmente seria uma celebridade se não fosse tão introvertida."
 
 # game/scripts/kali_events.rpy:14728
 translate pt_br kalibeach_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "Sério?"
 
 # game/scripts/kali_events.rpy:14729
 translate pt_br kalibeach_54785ffe:
 
     # k "Yeah, my father's... well, he's extremely rich. He's always doing something, always bringing new advancements to the world in some way or another."
-    k ""
+    k "Sim, meu pai... bem, ele é extremamente rico. Ele sempre tem algum projeto, novos avanços para o mundo de alguma forma."
 
 # game/scripts/kali_events.rpy:14730
 translate pt_br kalibeach_26c13299:
 
     # c "How does he do that?"
-    c ""
+    c "Como ele faz isso?"
 
 # game/scripts/kali_events.rpy:14731
 translate pt_br kalibeach_a365ec54:
 
     # k "He buys businesses and invests heavily in them. Everything from coffee shops to the space industry, there's no limits honestly."
-    k ""
+    k "Ele compra empresas e investe pesado nelas. Tudo desde cafeterias à estações espaciais, não tem limites honestamente."
 
 # game/scripts/kali_events.rpy:14732
 translate pt_br kalibeach_0ed6fae6:
 
     # c "It sounds like he almost has a monopoly."
-    c ""
+    c "Parece que ele tem um monopólio."
 
 # game/scripts/kali_events.rpy:14733
 translate pt_br kalibeach_d36f5eb6:
 
     # k "He basically does..."
-    k ""
+    k "Basicamente ele tem sim..."
 
 # game/scripts/kali_events.rpy:14734
 translate pt_br kalibeach_c4077d7f:
 
     # k "I've always tried my best to stay away from the press, I'm not really interested in what he does anyway, so it's not like I would know anything."
-    k ""
+    k "Eu sempre tentei meu melhor para ficar fora da pressão, eu não estou realmente interessada no que ele faz de qualquer forma."
 
 # game/scripts/kali_events.rpy:14735
 translate pt_br kalibeach_bd5a7cc9:
 
     # k "But the world has pretty much forgotten about me."
-    k ""
+    k "Mas o mundo se esqueceu de mim."
 
 # game/scripts/kali_events.rpy:14736
 translate pt_br kalibeach_8fb37d3a:
 
     # c "Is that a good thing?"
-    c ""
+    c "Isso é uma coisa boa?"
 
 # game/scripts/kali_events.rpy:14738
 translate pt_br kalibeach_e4334b75:
 
     # k "Well... I couldn't handle fame. Could you imagine people coming up to us here? While we're trying to enjoy ourselves?"
-    k ""
+    k "Bem... eu não conseguiria lidar com a fama. Você poderia imaginar as pessoas vindo até nós aqui? Enquanto estamos tentando aproveitar o momento?"
 
 # game/scripts/kali_events.rpy:14739
 translate pt_br kalibeach_965b3ffb:
 
     # k "I'm glad I'm never harassed by the press like my father..."
-    k ""
+    k "Eu estou feliz que eu nunca me deixei levar pela pressão do meu pai..."
 
 # game/scripts/kali_events.rpy:14740
 translate pt_br kalibeach_8b830d3d:
 
     # k "But... I would like to do something with my life eventually..."
-    k ""
+    k "Mas... eu gostaria de ser algo a mais na minha vida eventualmente..."
 
 # game/scripts/kali_events.rpy:14742
 translate pt_br kalibeach_5775a58e:
 
     # k "And no, not a maid, sheesh..."
-    k ""
+    k "E não, não uma empregada, deus..."
 
 # game/scripts/kali_events.rpy:14743
 translate pt_br kalibeach_9a604e2d:
 
     # c "I didn't say anything."
-    c ""
+    c "Eu nem falei nada."
 
 # game/scripts/kali_events.rpy:14744
 translate pt_br kalibeach_7a2bb9e3:
 
     # k "You were thinking it though."
-    k ""
+    k "Mas pensou."
 
 # game/scripts/kali_events.rpy:14745
 translate pt_br kalibeach_2ba2993d:
 
     # k "But, whatever... I don't even care about doing it now anyway. I'm finally on my own, and I can afford it too, so I'm comfortable..."
-    k ""
+    k "Mas, tanto faz... Eu nem mesmo me importo de fazer isso agora. Eu finalmente estou por minha conta, e eu posso me sustentar. então, estou confotável..."
 
 # game/scripts/kali_events.rpy:14746
 translate pt_br kalibeach_a50a2857:
 
     # k "Maybe I'll... join a league tourney or something..."
-    k ""
+    k "Talvez eu... entre em um torneio ou algo assim..."
 
 # game/scripts/kali_events.rpy:14748
 translate pt_br kalibeach_5dc198e9:
 
     # k "Or... maybe you can take me to a fancy restaurant sometime. I have to use that dress again..."
-    k ""
+    k "Ou... talvez você possa me levar à um restaurante chique alguma hora. Eu preciso usar aquele vestido de novo..."
 
 # game/scripts/kali_events.rpy:14749
 translate pt_br kalibeach_5ba83a62:
 
     # c "What do you like to eat?"
-    c ""
+    c "O que você gosta de comer?"
 
 # game/scripts/kali_events.rpy:14751
 translate pt_br kalibeach_558559ed:
 
     # k "Umm... Pizza... uh, what else..."
-    k ""
+    k "Umm... Pizza... uh, oque mais..."
 
 # game/scripts/kali_events.rpy:14752
 translate pt_br kalibeach_3aa65172:
 
     # c "Pizza isn't that fancy."
-    c ""
+    c "Pizza não é tão chique assim."
 
 # game/scripts/kali_events.rpy:14753
 translate pt_br kalibeach_9966901b:
 
     # k "I know, I know... I just love it, give me a second..."
-    k ""
+    k "Eu sei, eu sei... eu só amo pizza, me dê um segundo..."
 
 # game/scripts/kali_events.rpy:14755
 translate pt_br kalibeach_1245007d:
 
     # k "I love oriental food. I order it when I'm too lazy to bake pizza."
-    k ""
+    k "Eu amo comida oriental. Eu peço quando estou com poreguiça de cozinhar uma pizza."
 
 # game/scripts/kali_events.rpy:14756
 translate pt_br kalibeach_f3b5ce28:
 
     # k "Expect a lot of deliveries, by the way..."
-    k ""
+    k "Já espere várias encomendas, aliás..."
 
 # game/scripts/kali_events.rpy:14757
 translate pt_br kalibeach_b7f4b180:
