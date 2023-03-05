@@ -45100,217 +45100,217 @@ translate pt_br kalibeach_1245007d:
 translate pt_br kalibeach_f3b5ce28:
 
     # k "Expect a lot of deliveries, by the way..."
-    k "Já espere várias encomendas, aliás..."
+    k "Espere várias encomendas."
 
 # game/scripts/kali_events.rpy:14757
 translate pt_br kalibeach_b7f4b180:
 
     # c "Noted."
-    c ""
+    c "Entendido."
 
 # game/scripts/kali_events.rpy:14758
 translate pt_br kalibeach_85ceb222:
 
     # k "Good."
-    k ""
+    k "Bom."
 
 # game/scripts/kali_events.rpy:14760
 translate pt_br kalibeach_94ca2354:
 
     # k "Alright, let's get out of here... I'm getting hungry."
-    k ""
+    k "Tá certo, vamos sair daqui... eu estou com fome."
 
 # game/scripts/kali_events.rpy:14761
 translate pt_br kalibeach_0b36f178:
 
     # k "It was fun... I had a good time..."
-    k ""
+    k "Foi legal... eu me diverti."
 
 # game/scripts/kali_events.rpy:14762
 translate pt_br kalibeach_d4226afb:
 
     # c "I did too."
-    c ""
+    c "Eu também."
 
 # game/scripts/kali_events.rpy:14764
 translate pt_br kalibeach_c9eb6c05:
 
     # "You drive Kali home..."
-    ""
+    "Você e a Kali voltam ao hotel..."
 
 # game/scripts/kali_events.rpy:14777
 translate pt_br kalibroken_6b13a90f:
 
     # k "God damn it!"
-    k ""
+    k "Porcaria!"
 
 # game/scripts/kali_events.rpy:14778
 translate pt_br kalibroken_499819e9:
 
     # c "What happened?"
-    c ""
+    c "O que houve?"
 
 # game/scripts/kali_events.rpy:14781
 translate pt_br kalibroken_af852bff:
 
     # k "My hard drive broke..."
-    k ""
+    k "Meu disco rigído quebrou..."
 
 # game/scripts/kali_events.rpy:14784
 translate pt_br kalibroken_803bc722:
 
     # k "It was expensive too! And I can't afford to buy another one..."
-    k ""
+    k "Foi muito caro! E eu não posso pagar por outro..."
 
 # game/scripts/kali_events.rpy:14787
 translate pt_br kalibroken_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14790
 translate pt_br kalibroken_f43581d0:
 
     # k "Could... you order one for me?"
-    k ""
+    k "Você... pode comprar um pra mim?"
 
 # game/scripts/kali_events.rpy:14791
 translate pt_br kalibroken_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:14794
 translate pt_br kalibroken_da234d9e:
 
     # k "Really? Thanks! A replacement should cost $20."
-    k ""
+    k "Sério? Obrigada! Um novo deve custar $20."
 
 # game/scripts/kali_events.rpy:14803
 translate pt_br kalihasspeakers_21b352b2:
 
     # k "Is it here yet?"
-    k ""
+    k "Já chegou o meu HD?"
 
 # game/scripts/kali_events.rpy:14806
 translate pt_br kalihasspeakers_3a29767d:
 
     # c "Yeah, it's right here."
-    c ""
+    c "Sim, eu tô com ele aqui."
 
 # game/scripts/kali_events.rpy:14809
 translate pt_br kalihasspeakers_f9a8cbf4:
 
     # k "Sweet!"
-    k ""
+    k "Legal!"
 
 # game/scripts/kali_events.rpy:14812
 translate pt_br kalihasspeakers_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14815
 translate pt_br kalihasspeakers_9d6dfa78:
 
     # k "...So can I have it?"
-    k ""
+    k "... Então, pode me dar?"
 
 # game/scripts/kali_events.rpy:14820
 translate pt_br kalihasspeakers_28e4c1ba:
 
     # k "A favor!?"
-    k ""
+    k "Um favor!?"
 
 # game/scripts/kali_events.rpy:14821
 translate pt_br kalihasspeakers_96d37064:
 
     # c "I had to spend a lot of money to get this for you."
-    c ""
+    c "Eu tive de gastar muito dinheiro para pegar isso pra você."
 
 # game/scripts/kali_events.rpy:14824
 translate pt_br kalihasspeakers_f4c0ac6a:
 
     # k "I..."
-    k ""
+    k "Eu..."
 
 # game/scripts/kali_events.rpy:14827
 translate pt_br kalihasspeakers_8bc30f61:
 
     # k "...Urgh, I guess you're right. What do you want?"
-    k ""
+    k "... Urgh, eu acho que você tem razão. O que você quer?"
 
 # game/scripts/kali_events.rpy:14828
 translate pt_br kalihasspeakers_f63412b2:
 
     # c "Take your top off."
-    c ""
+    c "Tire o seu moletom."
 
 # game/scripts/kali_events.rpy:14831
 translate pt_br kalihasspeakers_cc45556c:
 
     # k "What!?"
-    k ""
+    k "Oque!?"
 
 # game/scripts/kali_events.rpy:14832
 translate pt_br kalihasspeakers_e14f5b70:
 
     # c "Or I could just return it and get my money back..."
-    c ""
+    c "Ou eu posso retornar e pegar meu dinheiro de volta..."
 
 # game/scripts/kali_events.rpy:14835
 translate pt_br kalihasspeakers_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14836
 translate pt_br kalihasspeakers_33000106:
 
     # k "Fuck. You."
-    k ""
+    k "Vai se foder."
 
 # game/scripts/kali_events.rpy:14839
 translate pt_br kalihasspeakers_9cbd0123:
 
     # "Kali takes her shirt off and throws it to the side..."
-    ""
+    "Kali tira o moletom e joga para o lado..."
 
 # game/scripts/kali_events.rpy:14842
 translate pt_br kalihasspeakers_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14845
 translate pt_br kalihasspeakers_968ceaad:
 
     # c "A bra?"
-    c ""
+    c "Um sutiã?"
 
 # game/scripts/kali_events.rpy:14846
 translate pt_br kalihasspeakers_8b9c985f:
 
     # k "Yes! A bra! Are you happy now!?"
-    k ""
+    k "Sim! Um sutiã! Feliz agora!?"
 
 # game/scripts/kali_events.rpy:14847
 translate pt_br kalihasspeakers_014d0311:
 
     # c "Very."
-    c ""
+    c "Muito."
 
 # game/scripts/kali_events.rpy:14848
 translate pt_br kalihasspeakers_b0bba41c:
 
     # k "Whatever... thanks for the hard drive, I guess..."
-    k ""
+    k "Tanto faz... obrigada pelo HD, eu acho..."
 
 # game/scripts/kali_events.rpy:14852
 translate pt_br kalihasspeakers_6fff6447:
 
     # k "Sweet! Thanks so much [name]!"
-    k ""
+    k "Legal! Muito obrigada, [name]!"
 
 translate pt_br strings:
 
@@ -45856,61 +45856,61 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}College Uniform{/color}"
-    new ""
+    new "{color=#8C8C8C}Uniforme de Colegial{/color}"
 
     # game/scripts/kali_events.rpy:13110
     old "College Uniform"
-    new ""
+    new "Uniforme de Colegial"
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> Casual Clothes <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Roupa Casual <{/color}"
 
     # game/scripts/kali_events.rpy:13492
     old "Thighjob"
-    new ""
+    new "Sumata"
 
     # game/scripts/kali_events.rpy:13625
     old "Maid Outfit"
-    new ""
+    new "Uniforme de empregada"
 
     # game/scripts/kali_events.rpy:14359
     old "Open it"
-    new ""
+    new "Abrir"
 
     # game/scripts/kali_events.rpy:14359
     old "Bring it to Kali"
-    new ""
+    new "Levar para a Kali"
 
     # game/scripts/kali_events.rpy:14465
     old "That's amazing!"
-    new ""
+    new "Isso é incrível!"
 
     # game/scripts/kali_events.rpy:14465
     old "At least you get a discount on pizza."
-    new ""
+    new "Pelo menos você tem desconto nas pizzas."
 
     # game/scripts/kali_events.rpy:14613
     old "Inside"
-    new ""
+    new "Dentro"
 
     # game/scripts/kali_events.rpy:14613
     old "Outside"
-    new ""
+    new "Fora"
 
     # game/scripts/kali_events.rpy:14692
     old "Undo her bra"
-    new ""
+    new "Tirar o sutiã"
 
     # game/scripts/kali_events.rpy:14692
     old "Compliment her"
-    new ""
+    new "Elogia-lá"
 
     # game/scripts/kali_events.rpy:14816
     old "You owe me a favor first"
-    new ""
+    new "Antes, você me deve um favor"
 
     # game/scripts/kali_events.rpy:14816
     old "Here it is"
-    new ""
+    new "Aqui está"
 
