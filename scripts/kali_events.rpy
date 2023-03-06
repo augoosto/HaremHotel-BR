@@ -31252,301 +31252,301 @@ translate pt_br kananal_df65017d:
 translate pt_br lukalbeach_3d98bd7b:
 
     # lu "Kaliiii~ ...Come on...!"
-    lu ""
+    lu "Kaliiii~ ... Qual é...!"
 
 # game/scripts/kali_events.rpy:8680
 translate pt_br lukalbeach_bf832a13:
 
     # k "No."
-    k ""
+    k "Não."
 
 # game/scripts/kali_events.rpy:8681
 translate pt_br lukalbeach_491ccc2a:
 
     # lu "Kaliiiiiiiii~"
-    lu ""
+    lu "Kaliiiiiiiii~"
 
 # game/scripts/kali_events.rpy:8682
 translate pt_br lukalbeach_26f11ca3:
 
     # k "I'm not interested."
-    k ""
+    k "Eu não estou com vontade."
 
 # game/scripts/kali_events.rpy:8683
 translate pt_br lukalbeach_310b43d8:
 
     # lu "But Kali, you're so pale!"
-    lu ""
+    lu "Mas Kali, você está muito pálida!"
 
 # game/scripts/kali_events.rpy:8684
 translate pt_br lukalbeach_32ca204c:
 
     # k "Why do you care how white I am?"
-    k ""
+    k "Por que você se importa o quão pálida eu tô?"
 
 # game/scripts/kali_events.rpy:8685
 translate pt_br lukalbeach_203b2d1f:
 
     # lu "Because it's not healthy! Come ooooon~ come with me to the beach! Dad didn't have any near his place... pleeeeease~?"
-    lu ""
+    lu "Porque não é saudável! Vamooooos~, vem, vamos para a praia! O pai nunca teve um lugar perto de uma... por favooooor~?"
 
 # game/scripts/kali_events.rpy:8686
 translate pt_br lukalbeach_cf32e7f0:
 
     # k "I'm good."
-    k ""
+    k "Tô bem."
 
 # game/scripts/kali_events.rpy:8687
 translate pt_br lukalbeach_effd937a:
 
     # lu "Why noooot...?"
-    lu ""
+    lu "Por que nãoooo...?"
 
 # game/scripts/kali_events.rpy:8688
 translate pt_br lukalbeach_12e34ed2:
 
     # k "You know I hate people, and the sun... and fresh air. And don't even get me started on sand. It's so coarse, and rough, and it gets everywhere."
-    k ""
+    k "Você sabe que eu odeio as pessoas, e o sol... e ar fresco. E a areia, é tão... arenoso, e gruda em todo lugar."
 
 # game/scripts/kali_events.rpy:8689
 translate pt_br lukalbeach_5ca88e32:
 
     # lu "Oh shut up, Kali. You can bring your husband..."
-    lu ""
+    lu "Oh qual é Kali. Você pode levar seu marido..."
 
 # game/scripts/kali_events.rpy:8691
 translate pt_br lukalbeach_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:8693
 translate pt_br lukalbeach_327d5fd6:
 
     # k "Shut up! {u}Husband?{/u} What do you mean husband? We're not even close to being married!"
-    k ""
+    k "Cala a boca! {u}marido?{/u} Oque você quer dizer com 'marido'? Nós não estamos nem perto de casarmos!"
 
 # game/scripts/kali_events.rpy:8694
 translate pt_br lukalbeach_3034639c:
 
     # lu "Well yeah... you need to show off your body more, then he'll marry you. How is he supposed to decide something like that when all you wear are hoodies..."
-    lu ""
+    lu "Bem, sim... você precisa mostrar mais do seu corpo, então ele vai se casar com você. Como ele pode querer isso quando você só usa moletons..."
 
 # game/scripts/kali_events.rpy:8695
 translate pt_br lukalbeach_7cee0768:
 
     # k "W-What? Shut up, brat!"
-    k ""
+    k "O-Oque? Cala a boca, peste!"
 
 # game/scripts/kali_events.rpy:8697
 translate pt_br lukalbeach_60cabfdd:
 
     # k "We're not having this conversation."
-    k ""
+    k "A conversa acabou."
 
 # game/scripts/kali_events.rpy:8698
 translate pt_br lukalbeach_08b44e04:
 
     # lu "Fine..."
-    lu ""
+    lu "Beleza..."
 
 # game/scripts/kali_events.rpy:8700
 translate pt_br lukalbeach_ab1c0c84:
 
     # k "...{w}...{w}\n{i}Finally, some peace and quiet...{/i}"
-    k ""
+    k "...{w}...{w}\n{i}Finalmente, paz e tranquilidade...{/i}"
 
 # game/scripts/kali_events.rpy:8702
 translate pt_br lukalbeach_39da34bd:
 
     # lu "I'll just go with [name] by myself then! How do I look?"
-    lu ""
+    lu "Eu vou com o [name] sozinha então! Como eu estou?"
 
 # game/scripts/kali_events.rpy:8703
 translate pt_br lukalbeach_cc45556c:
 
     # k "What!?"
-    k ""
+    k "Que!?"
 
 # game/scripts/kali_events.rpy:8704
 translate pt_br lukalbeach_b08b2cd3:
 
     # lu "Come on, be honest!"
-    lu ""
+    lu "Vai, seja honesta!"
 
 # game/scripts/kali_events.rpy:8705
 translate pt_br lukalbeach_5b023b8a:
 
     # k "You're not going with him! Not alone!"
-    k ""
+    k "Você não vai com ele! Não sozinha!"
 
 # game/scripts/kali_events.rpy:8706
 translate pt_br lukalbeach_192b7cbb:
 
     # lu "I guess we'll just see what he says about that. Are you coming or not?"
-    lu ""
+    lu "Acho que temos que descobrir oque ele acha. Você vem ou não?"
 
 # game/scripts/kali_events.rpy:8707
 translate pt_br lukalbeach_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8709
 translate pt_br lukalbeach_c9d5bd17:
 
     # k "Fine, I'll go... but only to make sure you stay out of trouble."
-    k ""
+    k "Ok, eu vou... mas só para garantir que você não faça besteira."
 
 # game/scripts/kali_events.rpy:8710
 translate pt_br lukalbeach_d10ce16b:
 
     # lu "Mhm... it's totally {i}not{/i} to spend time with [name] while half naked in front of me..."
-    lu ""
+    lu "Mhm... sim, {i}com certeza{/i} não é para eu passar um tempo com o [name] semi nu na minha frente..."
 
 # game/scripts/kali_events.rpy:8711
 translate pt_br lukalbeach_c80afbc0:
 
     # k "You're a perv, why do you even have these thoughts?"
-    k ""
+    k "Você é uma pevertida, por que você tem esses pensamentos?"
 
 # game/scripts/kali_events.rpy:8712
 translate pt_br lukalbeach_ca3acc72:
 
     # lu "I think you just answered that, Kali. Heheh!\nCome on, get dressed! Hurry, hury!"
-    lu ""
+    lu "Eu acho que você já respondeu isso, Kali. Heheh!\nVai logo se vestir! Rápido, rápido!"
 
 # game/scripts/kali_events.rpy:8715
 translate pt_br lukalbeach_6c4b7aa5:
 
     # lu "Hi [name]~ We're going to the beach, and you're coming with okay? Let's have some fun today!"
-    lu ""
+    lu "Oi [name]~ Nós estamos indo para a praia, e você vem com agente, ok? Vamos nos divertir hoje!"
 
 # game/scripts/kali_events.rpy:8716
 translate pt_br lukalbeach_b7ee10ac:
 
     # c "Sure, sounds good."
-    c ""
+    c "Claro, parece uma boa."
 
 # game/scripts/kali_events.rpy:8717
 translate pt_br lukalbeach_ea3ae180:
 
     # lu "See Kali, I knew he'd want to!"
-    lu ""
+    lu "Viu Kali, eu sabia que ele iria querer ir também!"
 
 # game/scripts/kali_events.rpy:8718
 translate pt_br lukalbeach_df2980a9:
 
     # c "By the way, looking great Kali."
-    c ""
+    c "Álias, belo biquíni, Kali."
 
 # game/scripts/kali_events.rpy:8720
 translate pt_br lukalbeach_b435fc73:
 
     # k "Shut up..."
-    k ""
+    k "Cala a boca..."
 
 # game/scripts/kali_events.rpy:8721
 translate pt_br lukalbeach_9c309ad0:
 
     # lu "Come on, you're driving!"
-    lu ""
+    lu "Vamos lá, você dirige!"
 
 # game/scripts/kali_events.rpy:8722
 translate pt_br lukalbeach_3b5eba2d:
 
     # c "Right now?"
-    c ""
+    c "Agora?"
 
 # game/scripts/kali_events.rpy:8723
 translate pt_br lukalbeach_75e6a675:
 
     # lu "Yes now! What do you think we're dressed for?"
-    lu ""
+    lu "Sim, agora! Por que você acha que nós estamos vestidas assim?"
 
 # game/scripts/kali_events.rpy:8725
 translate pt_br lukalbeach_ac1821da:
 
     # "After you get dressed, the three of you jump in your car and drive to the beach..."
-    ""
+    "Depois de se arrumar, vocês três vão até o carro e dirigem até a praia..."
 
 # game/scripts/kali_events.rpy:8727
 translate pt_br lukalbeach_8d280544:
 
     # lu "Wow! It's so beautiful here! Way better than the beaches near The Capitol! The water is so blue!"
-    lu ""
+    lu "Wow! É tão lindo aqui! Bem melhor que as praias da Capitol! A água é tão azul!"
 
 # game/scripts/kali_events.rpy:8728
 translate pt_br lukalbeach_501bebe7:
 
     # k "It's just a beach... and it's pretty hot too, are we done?"
-    k ""
+    k "É só uma praia... e é bem quente também, já terminou?"
 
 # game/scripts/kali_events.rpy:8729
 translate pt_br lukalbeach_444a5d0a:
 
     # lu "Are you kidding? We haven't even started yet!"
-    lu ""
+    lu "Tá zuando? Nós nem começamos ainda!"
 
 # game/scripts/kali_events.rpy:8730
 translate pt_br lukalbeach_5b1abd2c:
 
     # k "Ugh..."
-    k ""
+    k "Ugh..."
 
 # game/scripts/kali_events.rpy:8732
 translate pt_br lukalbeach_2ed2d771:
 
     # lu "What do you think is out there...?"
-    lu ""
+    lu "Oque você acha que tem por aqui...?"
 
 # game/scripts/kali_events.rpy:8733
 translate pt_br lukalbeach_195c973d:
 
     # k "Water."
-    k ""
+    k "Água."
 
 # game/scripts/kali_events.rpy:8734
 translate pt_br lukalbeach_4e1e10dd:
 
     # lu "What do you think is under the water though?"
-    lu ""
+    lu "Mas oque você acha que tem em baixo da água?"
 
 # game/scripts/kali_events.rpy:8735
 translate pt_br lukalbeach_264903fa:
 
     # k "More water..."
-    k ""
+    k "Mais água..."
 
 # game/scripts/kali_events.rpy:8736
 translate pt_br lukalbeach_a6203fac:
 
     # lu "Lighten up, Kali. We're at the beach! You're supposed to have fun!"
-    lu ""
+    lu "Se anima, Kali. Nós estamos na praia! Você tem que se divertir!"
 
 # game/scripts/kali_events.rpy:8737
 translate pt_br lukalbeach_d2b79255:
 
     # k "You're the one that dragged us out here..."
-    k ""
+    k "Foi você quem nos arrastou para cá..."
 
 # game/scripts/kali_events.rpy:8738
 translate pt_br lukalbeach_df7d7dfd:
 
     # lu "So we could all have fun! It'll be a good day, Kali, just relax!"
-    lu ""
+    lu "Para que agente possa se divertir! Vai ser um bom dia, Kali, apenas relaxe!"
 
 # game/scripts/kali_events.rpy:8739
 translate pt_br lukalbeach_d95ea160:
 
     # k "Not really how it works, but..."
-    k ""
+    k "Não sei se vai funcionar, mas..."
 
 # game/scripts/kali_events.rpy:8741
 translate pt_br lukalbeach_c3f6fe00:
 
     # c "How are you feeling, Kali?"
-    c ""
+    c "Como está se sentindo, Kali?"
 
 # game/scripts/kali_events.rpy:8742
 translate pt_br lukalbeach_a4d00ce6:
