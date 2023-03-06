@@ -3676,7 +3676,7 @@ translate pt_br kali_unidad_73ea7095:
 translate pt_br kali_unidad_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:848
 translate pt_br kali_unidad_934bfe9e:
@@ -5032,7 +5032,7 @@ translate pt_br kali_first_blow_5939818b:
 translate pt_br kali_first_blow_63ea9cf4:
 
     # c "Sure..."
-    c ""
+    c "Claro..."
 
 # game/scripts/kali_events.rpy:1303
 translate pt_br kali_first_blow_3635399b:
@@ -14050,7 +14050,7 @@ translate pt_br kali_botwork_6dd3de19:
 translate pt_br kali_botwork_b621322b:
 
     # k "Sure."
-    k ""
+    k "Claro."
 
 # game/scripts/kali_events.rpy:3835
 translate pt_br kali_botwork_ec7a95d0:
@@ -16840,7 +16840,7 @@ translate pt_br kali_unihistory_8ae1af8e:
 translate pt_br kali_unihistory_71fae776:
 
     # kim "Sure!"
-    kim ""
+    kim "Claro!"
 
 # game/scripts/kali_events.rpy:4526
 translate pt_br kali_unihistory_0a5103ec:
@@ -17182,7 +17182,7 @@ translate pt_br kali_unihistory_2c73d35d:
 translate pt_br kali_unihistory_0cac7630:
 
     # nala "Sure."
-    nala ""
+    nala "Claro."
 
 # game/scripts/kali_events.rpy:4609
 translate pt_br kali_unihistory_7e32bcf9:
@@ -27058,7 +27058,7 @@ translate pt_br kalimaidmaid_2a0ecc6a:
 translate pt_br kalimaidmaid_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:7367
 translate pt_br kalimaidmaid_2b922a7d:
@@ -28348,7 +28348,7 @@ translate pt_br kdadsick_54aed23b:
 translate pt_br kdadsick_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:7691
 translate pt_br kdadsick_e6a07189:
@@ -35572,7 +35572,7 @@ translate pt_br kdad_8953e40d:
 translate pt_br kdad_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:10367
 translate pt_br kdad_637e3242:
@@ -45316,43 +45316,43 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:95
     old "Kali..."
-    new ""
+    new "Kali..."
 
     # game/scripts/kali_events.rpy:95
     old "Hopefully they ordered extra."
-    new ""
+    new "Espero que eles tenham pedido mais."
 
     # game/scripts/kali_events.rpy:95
     old "You can't rob people."
-    new ""
+    new "Você não pode roubar das pessoas."
 
     # game/scripts/kali_events.rpy:132
     old "Don't break the law."
-    new ""
+    new "Não quebre a lei."
 
     # game/scripts/kali_events.rpy:132
     old "You'll be fun, I can tell."
-    new ""
+    new "Parece que vai ser divertido andar com você."
 
     # game/scripts/kali_events.rpy:132
     old "Did you grow up in a droid factory?"
-    new ""
+    new "Você cresceu em uma fábrica de androids?"
 
     # game/scripts/kali_events.rpy:147
     old "The city."
-    new ""
+    new "Na cidade."
 
     # game/scripts/kali_events.rpy:147
     old "The suburbs."
-    new ""
+    new "Nos subúrbios."
 
     # game/scripts/kali_events.rpy:147
     old "A farm."
-    new ""
+    new "Em uma fazenda."
 
     # game/scripts/kali_events.rpy:147
     old "The slums."
-    new ""
+    new "Nas favelas."
 
     # game/scripts/kali_events.rpy:412
     old "Follow their lead..."
@@ -45364,15 +45364,15 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:1306
     old "I like more than just your tits."
-    new ""
+    new "Eu gosto de mais outras coisas além dos seus peitos."
 
     # game/scripts/kali_events.rpy:1306
     old "Last time turned me on too."
-    new ""
+    new "Da última vez me excitou também."
 
     # game/scripts/kali_events.rpy:1306
     old "Can I touch?"
-    new ""
+    new "Posso tocar?"
 
     # game/scripts/kali_events.rpy:1868
     old "Follow her to the hotel."
@@ -45568,11 +45568,11 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:7330
     old "Follow Kali"
-    new ""
+    new "Seguir a Kali"
 
     # game/scripts/kali_events.rpy:7330
     old "Refuse"
-    new ""
+    new "Recusar"
 
     # game/scripts/kali_events.rpy:7417
     old "Small Pizza ($5)"
@@ -45644,19 +45644,19 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Thighs"
-    new ""
+    new "Massagear Coxas"
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Hips"
-    new ""
+    new "Massagear quadris"
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Breasts"
-    new ""
+    new "Massagear Peitos"
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Back"
-    new ""
+    new "Massagear Costas"
 
     # game/scripts/kali_events.rpy:8938
     old "{color=#8C8C8C}Bunny Suit{/color}"
@@ -45668,95 +45668,95 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:9756
     old "We fuck like rabbits"
-    new ""
+    new "Agente fode como coelhos"
 
     # game/scripts/kali_events.rpy:9756
     old "Mind your business"
-    new ""
+    new "Cuida dos seus negócios"
 
     # game/scripts/kali_events.rpy:9929
     old "Yeah, I guess."
-    new ""
+    new "Sim, eu acho."
 
     # game/scripts/kali_events.rpy:9929
     old "I'm alright, how about you?"
-    new ""
+    new "Eu estou bem, e você?"
 
     # game/scripts/kali_events.rpy:9943
     old "Not really"
-    new ""
+    new "Na verdade não"
 
     # game/scripts/kali_events.rpy:9943
     old "Actually, I do"
-    new ""
+    new "Sim, eu entendo"
 
     # game/scripts/kali_events.rpy:9959
     old "Some day"
-    new ""
+    new "Algum dia"
 
     # game/scripts/kali_events.rpy:9959
     old "I prefer to be free"
-    new ""
+    new "Eu prefiro ser livre"
 
     # game/scripts/kali_events.rpy:9959
     old "If it's you..."
-    new ""
+    new "Se for com você..."
 
     # game/scripts/kali_events.rpy:9974
     old "A girl"
-    new ""
+    new "Uma garota"
 
     # game/scripts/kali_events.rpy:9974
     old "A boy"
-    new ""
+    new "Um garoto"
 
     # game/scripts/kali_events.rpy:9974
     old "How about both?"
-    new ""
+    new "E que tal os dois?"
 
     # game/scripts/kali_events.rpy:9974
     old "I'd rather not have children."
-    new ""
+    new "Eu iria preferir não ter uma criança."
 
     # game/scripts/kali_events.rpy:10086
     old "I love you too"
-    new ""
+    new "Eu também te amo"
 
     # game/scripts/kali_events.rpy:10404
     old "She lives at my hotel."
-    new ""
+    new "Ela mora no meu hotel."
 
     # game/scripts/kali_events.rpy:10404
     old "At a strip club."
-    new ""
+    new "Em um clube de strip."
 
     # game/scripts/kali_events.rpy:10418
     old "She's a good friend."
-    new ""
+    new "Ela é uma boa amiga."
 
     # game/scripts/kali_events.rpy:10418
     old "She's my girlfriend."
-    new ""
+    new "Ela é a minha namorada."
 
     # game/scripts/kali_events.rpy:10447
     old "Very obviously..."
-    new ""
+    new "Pra mim é bem óbvio..."
 
     # game/scripts/kali_events.rpy:10447
     old "I didn't realize."
-    new ""
+    new "Eu nem notei."
 
     # game/scripts/kali_events.rpy:10535
     old "Fuck her. (Begin Lucy's story)"
-    new ""
+    new "Foder ela. (Começar a história da Lucy)"
 
     # game/scripts/kali_events.rpy:10535
     old "I {b}REALLY{/b} need to pee. (End Lucy's story)"
-    new ""
+    new "Eu {b}REALMENTE{/b} preciso ir no banheiro. (Terminar a história da Lucy)"
 
     # game/scripts/kali_events.rpy:10815
     old "That sounds like fun"
-    new ""
+    new "Parece ser divertido"
 
     # game/scripts/kali_events.rpy:11052
     old "Let's relax."
@@ -45828,31 +45828,31 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:12511
     old "Maybe I could help you find a job?"
-    new ""
+    new "Talvez eu possa te ajudar em achar um emprego?"
 
     # game/scripts/kali_events.rpy:12511
     old "You could work here. We need a cook."
-    new ""
+    new "Você poderia trabalhar aqui, nós estamos precisando de cozinheiras."
 
     # game/scripts/kali_events.rpy:12511
     old "I'll give you some money if you show me your tits."
-    new ""
+    new "Eu vou dar uns trocados se você me mostrar seus peitos."
 
     # game/scripts/kali_events.rpy:12613
     old "It's not what I was expecting."
-    new ""
+    new "Não é como eu esperava."
 
     # game/scripts/kali_events.rpy:12613
     old "I'm going to turn it into something amazing."
-    new ""
+    new "Eu irei transformar em algo incrível."
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> Bunny Suit <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Roupa de Coelho <{/color}"
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> College Uniform <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Uniforme de Colegial <{/color}"
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}College Uniform{/color}"
