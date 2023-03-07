@@ -31540,7 +31540,7 @@ translate pt_br lukalbeach_df7d7dfd:
 translate pt_br lukalbeach_d95ea160:
 
     # k "Not really how it works, but..."
-    k "Não sei se vai funcionar, mas..."
+    k "Não sei como isso vai ajudar, mas..."
 
 # game/scripts/kali_events.rpy:8741
 translate pt_br lukalbeach_c3f6fe00:
@@ -31552,301 +31552,301 @@ translate pt_br lukalbeach_c3f6fe00:
 translate pt_br lukalbeach_a4d00ce6:
 
     # k "*sigh*... I'll be fine."
-    k ""
+    k "*suspiro*... tudo certo."
 
 # game/scripts/kali_events.rpy:8743
 translate pt_br lukalbeach_88bf65c4:
 
     # c "You look tense."
-    c ""
+    c "Você parece tensa."
 
 # game/scripts/kali_events.rpy:8745
 translate pt_br lukalbeach_f6e3b229:
 
     # k "It's just a busy day, but the water is nice I guess..."
-    k ""
+    k "Eu só tive um dia difícil, mas a água está boa eu acho..."
 
 # game/scripts/kali_events.rpy:8746
 translate pt_br lukalbeach_ec407a64:
 
     # lu "Come on, you can't be sad at the beach. Not with your boyfriend! Isn't this what you've always wanted?"
-    lu ""
+    lu "Qual é Kali, você não pode ficar triste na praia. Não com o seu namorado! Não era isso que você sempre quis?"
 
 # game/scripts/kali_events.rpy:8747
 translate pt_br lukalbeach_aaa94fb7:
 
     # k "No, it's what {i}you've{/i} always wanted..."
-    k ""
+    k "Não, é oque {i}você{/i} sempre quis..."
 
 # game/scripts/kali_events.rpy:8749
 translate pt_br lukalbeach_599a8a4d:
 
     # lu "I'll never understand you Kali... I mean what do you even have to be nervous of? You're not a fat kid anymore."
-    lu ""
+    lu "Eu nunca vou te entender, Kali... quer dizer, por que você está tão nervosa? Você não é mais uma criança gorda."
 
 # game/scripts/kali_events.rpy:8750
 translate pt_br lukalbeach_db8a7d0f:
 
     # k "You might like the attention, but I hate the press. If they see us they're going to start taking creepy photos and sell them to the highest bidder. I don't want my ass all over social media."
-    k ""
+    k "Você pode gostar da atenção, mas eu não. Se eles virem agente vão começar a tirar fotos e vender pela internet, eu não quero minha bunda rodando por aí."
 
 # game/scripts/kali_events.rpy:8751
 translate pt_br lukalbeach_7d764f7d:
 
     # lu "People barely know you exist, you've made sure of that..."
-    lu ""
+    lu "As pessoas mal sabem que você existe, você se certificou disso..."
 
 # game/scripts/kali_events.rpy:8752
 translate pt_br lukalbeach_382cc9a6:
 
     # k "Well it's going to be obvious who I am when I'm next to you. You can't shut up about being a Trenero online. I don't even know why people care about us anyway... Dad is the special one. It's not like we've ever done anything with our lives..."
-    k ""
+    k "Bem, vai ser óbvio quem eu sou quando eu estiver perto de você. Você não para de falar sobre ser uma Trenero online. Eu não me importo sobre oque as pessoas pensam de nós de qualquer forma... o pai é o especial. Não é como se agente tivesse feito algo das nossas vidas..."
 
 # game/scripts/kali_events.rpy:8754
 translate pt_br lukalbeach_093102ef:
 
     # lu "Hey, that's not nice! People love my inspirational quotes!"
-    lu ""
+    lu "Ei, isso não foi legal! As pessoas adoram minhas falas inspiradoras!"
 
 # game/scripts/kali_events.rpy:8755
 translate pt_br lukalbeach_13840ccd:
 
     # k "Well it's true, Dad makes sure of it. And people only love them because you're rich and think some of it will rub off. I bet you didn't even write them yourself."
-    k ""
+    k "Bem, verdade. O pai fez questão disso, e as pessoas só gostam delas porque você é rica e pensam que vão coseguir tirar um pouco disso. Eu aposto que nem é você que as escreve."
 
 # game/scripts/kali_events.rpy:8756
 translate pt_br lukalbeach_40b8e2b9:
 
     # lu "Art is derivative!"
-    lu ""
+    lu "A arte é derivada!"
 
 # game/scripts/kali_events.rpy:8757
 translate pt_br lukalbeach_3f06deb6:
 
     # k "Pff. Art."
-    k ""
+    k "Pff, Arte."
 
 # game/scripts/kali_events.rpy:8758
 translate pt_br lukalbeach_8e18c75e:
 
     # lu "Well I'm sorry I make people's day a little bit better! What do you do all day? Yell at people online?"
-    lu ""
+    lu "Bem me desculpe, eu faço o dia das pessoas um pouco melhor! Oque você faz o dia inteiro? Grita com as pessoas na internet?"
 
 # game/scripts/kali_events.rpy:8759
 translate pt_br lukalbeach_6a7fdf24:
 
     # k "Yep."
-    k ""
+    k "Sim."
 
 # game/scripts/kali_events.rpy:8760
 translate pt_br lukalbeach_f99c88d7:
 
     # lu "And she doesn't even have shame about it!"
-    lu ""
+    lu "E ela nem tem vergonha de admitir isso!"
 
 # game/scripts/kali_events.rpy:8761
 translate pt_br lukalbeach_c7427552:
 
     # k "*sigh*... can we go now? I'm getting burnt out here..."
-    k ""
+    k "*suspiro*... já podemos ir? Eu estou queimando aqui fora..."
 
 # game/scripts/kali_events.rpy:8762
 translate pt_br lukalbeach_5c353cc7:
 
     # c "I can put some sunscreen on you."
-    c ""
+    c "Eu posso passar protetor solar em você."
 
 # game/scripts/kali_events.rpy:8763
 translate pt_br lukalbeach_bc3ab85d:
 
     # k "Uhhhm..."
-    k ""
+    k "Uhhhm..."
 
 # game/scripts/kali_events.rpy:8764
 translate pt_br lukalbeach_eaae88a8:
 
     # lu "Yeah! You're not getting out of this that easy, Kali! I bet it'll even make you hornyyy~"
-    lu ""
+    lu "Isso! Você não vai embora assim tão fácil, Kali! Eu aposto que ele vai até mesmo te deixar com tesããão~"
 
 # game/scripts/kali_events.rpy:8765
 translate pt_br lukalbeach_0d7e868e:
 
     # k "Ugh... you're so gross. \nFine, I don't want to get sunburnt."
-    k ""
+    k "Ugh... você é nojenta. \nBeleza, eu não quero ficar queimada."
 
 # game/scripts/kali_events.rpy:8767
 translate pt_br lukalbeach_c9d39aed:
 
     # lu "Want my advice? Take your bikini off, you don't want tanlines."
-    lu ""
+    lu "Quer um conselho? Tire seu biquíni, você não quer ficar com marcas, quer?"
 
 # game/scripts/kali_events.rpy:8768
 translate pt_br lukalbeach_81dc28e3:
 
     # k "Shut up, you know I'm not doing that."
-    k ""
+    k "Cala a boca, você sabe que eu não vou fazer isso."
 
 # game/scripts/kali_events.rpy:8769
 translate pt_br lukalbeach_b445b1f3:
 
     # lu "Awww, come on..."
-    lu ""
+    lu "Awww, qual é..."
 
 # game/scripts/kali_events.rpy:8770
 translate pt_br lukalbeach_17a33c16:
 
     # c "Ready?"
-    c ""
+    c "Pronta?"
 
 # game/scripts/kali_events.rpy:8772
 translate pt_br lukalbeach_ee1f0c2a:
 
     # k "Yeah, get it over with... and don't get any ideas like last time... my top stays on this time."
-    k ""
+    k "Sim, termina logo com isso... e não pense em besteiras como da última vez... meu sutiã fica em mim dessa vez."
 
 # game/scripts/kali_events.rpy:8773
 translate pt_br lukalbeach_6467ac6d:
 
     # lu "And what am I supposed to do? Just get sunburnt?"
-    lu ""
+    lu "E oque eu devo fazer? Esperar uma queimadura?"
 
 # game/scripts/kali_events.rpy:8774
 translate pt_br lukalbeach_ffeeee2f:
 
     # k "Put it on yourself."
-    k ""
+    k "Coloque você mesma."
 
 # game/scripts/kali_events.rpy:8775
 translate pt_br lukalbeach_b8e59c10:
 
     # lu "Or maybe [name] can do it for me? Heheh..."
-    lu ""
+    lu "Ou talvez, [name] possa fazer isso por mim? Heheh..."
 
 # game/scripts/kali_events.rpy:8776
 translate pt_br lukalbeach_e8d022b6:
 
     # k "No chance."
-    k ""
+    k "Sem chance."
 
 # game/scripts/kali_events.rpy:8781
 translate pt_br lukali_menu_40651bc8:
 
     # k "Careful..."
-    k ""
+    k "Cuidado..."
 
 # game/scripts/kali_events.rpy:8782
 translate pt_br lukali_menu_4eae29e3:
 
     # c "I know what I'm doing, just relax."
-    c ""
+    c "Eu sei o que estou fazendo, só relaxe."
 
 # game/scripts/kali_events.rpy:8783
 translate pt_br lukali_menu_4e41f052:
 
     # k "Well, okay... just don't miss anywhere, I burn very easily."
-    k ""
+    k "Bem, ok... só não esqueça de nenhum lugar, eu me queimo bem fácil."
 
 # game/scripts/kali_events.rpy:8791
 translate pt_br lukali_menu_00a24c2b:
 
     # k "Mmmh... that feels kind of nice actually..."
-    k ""
+    k "Mmmh... isso até que é bom na verdade..."
 
 # game/scripts/kali_events.rpy:8792
 translate pt_br lukali_menu_c35e7e62:
 
     # lu "I told you that you would like it."
-    lu ""
+    lu "Eu te falei que ia gostar."
 
 # game/scripts/kali_events.rpy:8793
 translate pt_br lukali_menu_2d7bcdc7:
 
     # k "No, you said it would make me horny. Which is not what I want in public..."
-    k ""
+    k "Não, você me disse que isso me deixaria com tesão. Oque eu não quero ter em público..."
 
 # game/scripts/kali_events.rpy:8794
 translate pt_br lukali_menu_7909e463:
 
     # k "Do you get off on the idea of the press catching you or something?"
-    k ""
+    k "Você não pensa que a imprensa possa te achar ou algo assim?"
 
 # game/scripts/kali_events.rpy:8795
 translate pt_br lukali_menu_46606c73:
 
     # lu "Maybe I like the rush, so what?"
-    lu ""
+    lu "Talvez eu goste da imprensa, e daí?"
 
 # game/scripts/kali_events.rpy:8796
 translate pt_br lukali_menu_74eb8c34:
 
     # k "You're such a weirdo..."
-    k ""
+    k "Você é bem esquita..."
 
 # game/scripts/kali_events.rpy:8804
 translate pt_br lukali_menu_c960d223:
 
     # k "Ahh... hey, now you're just playing with my tits..."
-    k ""
+    k "Ahh... Ei, agora você está só brincando com os meus peitos..."
 
 # game/scripts/kali_events.rpy:8805
 translate pt_br lukali_menu_72ea1ca4:
 
     # c "Do you want me to stop?"
-    c ""
+    c "Você quer que eu pare?"
 
 # game/scripts/kali_events.rpy:8806
 translate pt_br lukali_menu_9b3b19f6:
 
     # k "Um... no. Just don't do it for too long or people will get suspicious."
-    k ""
+    k "Um... não. só não demore muito ou as pessoas vão ficar desconfiadas."
 
 # game/scripts/kali_events.rpy:8807
 translate pt_br lukali_menu_439f3969:
 
     # lu "Now who's the perv..."
-    lu ""
+    lu "Quem é a perveti..."
 
 # game/scripts/kali_events.rpy:8808
 translate pt_br lukali_menu_14e5f849:
 
     # k "Uh, you're the one watching. Get your own boyfriend."
-    k ""
+    k "Uh, você é quem está assistindo. Consiga o seu próprio namorado."
 
 # game/scripts/kali_events.rpy:8814
 translate pt_br lukali_menu_1ab436ce:
 
     # k "Hey, don't forget my back."
-    k ""
+    k "Ei, não se esqueça das minhas costas."
 
 # game/scripts/kali_events.rpy:8815
 translate pt_br lukali_menu_ffd89b36:
 
     # lu "She means her ass..."
-    lu ""
+    lu "Ela quer dizer bunda..."
 
 # game/scripts/kali_events.rpy:8816
 translate pt_br lukali_menu_36d430c4:
 
     # k "Well, yeah, that too..."
-    k ""
+    k "Bem, sim, aí também..."
 
 # game/scripts/kali_events.rpy:8818
 translate pt_br lukali_menu_3c1b08f5:
 
     # k "Mmmh..."
-    k ""
+    k "Mmmh..."
 
 # game/scripts/kali_events.rpy:8819
 translate pt_br lukali_menu_d1155d17:
 
     # lu "You have a pretty nice ass for someone who sits on it all day."
-    lu ""
+    lu "Você tem uma bunda muito boa para alguém que fica sentada o dia todo."
 
 # game/scripts/kali_events.rpy:8820
 translate pt_br lukali_menu_f5409509:
 
     # k "Why are you even looking at it? Mind your own business."
-    k ""
+    k "E por que você está olhando? Cuida da sua vida."
 
 # game/scripts/kali_events.rpy:8828
 translate pt_br lukali_menu_8190327a:
