@@ -31852,211 +31852,211 @@ translate pt_br lukali_menu_f5409509:
 translate pt_br lukali_menu_8190327a:
 
     # lu "Hey [name]! Have you ever fucked her on the beach before? And if not, would you want to?"
-    lu ""
+    lu "Ei [name]! Vocês já foderam na praia antes? E se não, você gostaria?"
 
 # game/scripts/kali_events.rpy:8830
 translate pt_br lukali_menu_2fef87b4:
 
     # c "We've done some things..."
-    c ""
+    c "Nós fizemos algumas coisas..."
 
 # game/scripts/kali_events.rpy:8831
 translate pt_br lukali_menu_d2406a4c:
 
     # lu "Ohh, is that so?"
-    lu ""
+    lu "Ohh, Oque?"
 
 # game/scripts/kali_events.rpy:8832
 translate pt_br lukali_menu_6d6700f5:
 
     # k "{i}What are you doing? Don't tell her...{/i}"
-    k ""
+    k "{i}Oque tá fazendo? Não diga para ela...{/i}"
 
 # game/scripts/kali_events.rpy:8833
 translate pt_br lukali_menu_15cbc2b0:
 
     # lu "No, tell me! What are you two hiding? Tell me, tell me!"
-    lu ""
+    lu "Não, me diga! Oque vocês dois estão escondendo? Me diz, me diz!"
 
 # game/scripts/kali_events.rpy:8834
 translate pt_br lukali_menu_adfcf331:
 
     # c "I'll leave it to your imagination."
-    c ""
+    c "Vou deixar para a sua imaginação."
 
 # game/scripts/kali_events.rpy:8835
 translate pt_br lukali_menu_88d258c7:
 
     # lu "*gasp*! So mean~\n...But kinda hotter?"
-    lu ""
+    lu "*suspiro*! Tão má~\n... Mas meio excitante?"
 
 # game/scripts/kali_events.rpy:8839
 translate pt_br lukali_menu_76df9c9b:
 
     # lu "I bet you could tell her to do anything and she would... Maybe even spread her pussy for you, right here."
-    lu ""
+    lu "Eu aposto que se você dizer para ela fazer qualquer coisa ela faria... Talvez até  mesmo abrir as pernas para você, bem aqui."
 
 # game/scripts/kali_events.rpy:8840
 translate pt_br lukali_menu_b435fc73:
 
     # k "Shut up..."
-    k ""
+    k "Cala a boca..."
 
 # game/scripts/kali_events.rpy:8841
 translate pt_br lukali_menu_aa4dd0a8:
 
     # lu "That wasn't a no!"
-    lu ""
+    lu "Isso não foi um não!"
 
 # game/scripts/kali_events.rpy:8842
 translate pt_br lukali_menu_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:8843
 translate pt_br lukali_menu_7f6f25e0:
 
     # lu "I knew you were a slut in the sheets, heheh!"
-    lu ""
+    lu "Eu sabia que você era uma vadia por de baixo dos lençóis, heheh!"
 
 # game/scripts/kali_events.rpy:8847
 translate pt_br lukali_menu_cd6c938b:
 
     # k "Ugh, don't answer that..."
-    k ""
+    k "Ugh, não responda..."
 
 # game/scripts/kali_events.rpy:8848
 translate pt_br lukali_menu_d37b003e:
 
     # lu "So you have!"
-    lu ""
+    lu "Então você fez!"
 
 # game/scripts/kali_events.rpy:8849
 translate pt_br lukali_menu_5268bd33:
 
     # k "No! Shut up!"
-    k ""
+    k "Não! Cala a boca!"
 
 # game/scripts/kali_events.rpy:8850
 translate pt_br lukali_menu_e3fd6a6f:
 
     # lu "Well maybe you should..."
-    lu ""
+    lu "Bem, tavez você poderia..."
 
 # game/scripts/kali_events.rpy:8851
 translate pt_br lukali_menu_33f183a7:
 
     # k "No, we shouldn't."
-    k ""
+    k "Não, não poderíamos."
 
 # game/scripts/kali_events.rpy:8852
 translate pt_br lukali_menu_1b216bb8:
 
     # lu "Hmph, fine..."
-    lu ""
+    lu "Hmph, tá certo..."
 
 # game/scripts/kali_events.rpy:8856
 translate pt_br lukali_menu_de340323:
 
     # q "*gasp*! Lucy? Is that you!?"
-    q ""
+    q "*suspiro*! Lucy? É você!?"
 
 # game/scripts/kali_events.rpy:8858
 translate pt_br lukali_menu_c3292137:
 
     # lu "Hm? Oh hey!"
-    lu ""
+    lu "Hm? Oh ei!"
 
 # game/scripts/kali_events.rpy:8859
 translate pt_br lukali_menu_c35a641d:
 
     # q "Oh my god, it is! I didn't know you were in Syl'anar again!"
-    q ""
+    q "Meus Deus, é você! Eu não sabia que você estava em Syl'anar de novo!"
 
 # game/scripts/kali_events.rpy:8860
 translate pt_br lukali_menu_c9d2dea3:
 
     # lu "Yeah, I kinda moved here..."
-    lu ""
+    lu "Sim, eu meio que me mudei para cá..."
 
 # game/scripts/kali_events.rpy:8861
 translate pt_br lukali_menu_3bc64578:
 
     # q "No way, good for you! I would have invited you but I didn't know!"
-    q ""
+    q "Nem ferrando, bom para você! Eu teria convidado você mas eu não sabia!"
 
 # game/scripts/kali_events.rpy:8863
 translate pt_br lukali_menu_b5328f1e:
 
     # q "Oh... who's that? Do you have a sister?"
-    q ""
+    q "Oh... quem é essa? Você tem uma irmã?"
 
 # game/scripts/kali_events.rpy:8864
 translate pt_br lukali_menu_2fd0a19a:
 
     # lu "Yep, that's Kali my older sister, and her boyfriend [name]."
-    lu ""
+    lu "Sim, essa é a Kali, minha irmã mais velha. E o namorado dela, [name]."
 
 # game/scripts/kali_events.rpy:8866
 translate pt_br lukali_menu_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8867
 translate pt_br lukali_menu_0f073f3c:
 
     # k "Um, hi..."
-    k ""
+    k "Um, oi..."
 
 # game/scripts/kali_events.rpy:8868
 translate pt_br lukali_menu_2bcc950e:
 
     # q "Hey! What are you doing?"
-    q ""
+    q "Ei! Oque você tá fazendo?"
 
 # game/scripts/kali_events.rpy:8869
 translate pt_br lukali_menu_48957d79:
 
     # k "Uh, just- uh... I sunburn easily..."
-    k ""
+    k "Uh, só- uh... me bronzeando..."
 
 # game/scripts/kali_events.rpy:8870
 translate pt_br lukali_menu_f70b92d2:
 
     # q "Oh... okay."
-    q ""
+    q "Oh... ok."
 
 # game/scripts/kali_events.rpy:8872
 translate pt_br lukali_menu_c340a27a:
 
     # belle "I can't believe Lucy never mentioned you! I'm Belle by the way, it's short for Isabelle."
-    belle ""
+    belle "Eu não acredito que a Lucy nunca falou de você! Eu sou Belle, aliás. É um apelido para Isabelle."
 
 # game/scripts/kali_events.rpy:8873
 translate pt_br lukali_menu_03b20eda:
 
     # zara "Zara."
-    zara ""
+    zara "Zara."
 
 # game/scripts/kali_events.rpy:8874
 translate pt_br lukali_menu_ac462f83:
 
     # k "Well, I can..."
-    k ""
+    k "Bem, eu posso..."
 
 # game/scripts/kali_events.rpy:8875
 translate pt_br lukali_menu_a85cd0ce:
 
     # lu "Ugh, she's just not very social... \nYou know you wouldn't have wanted to meet them, Kali."
-    lu ""
+    lu "Ugh, ela não é muito social... \nVocê sabe que não iria nem querer conhecê-las, Kali."
 
 # game/scripts/kali_events.rpy:8876
 translate pt_br lukali_menu_6dd1ddad:
 
     # belle "You could have at least mentioned you had a sister..."
-    belle ""
+    belle "Você poderia pelo menos ter mencionado que tinha uma irmã..."
 
 # game/scripts/kali_events.rpy:8879
 translate pt_br lukali_menu_393f0377:
@@ -32098,91 +32098,91 @@ translate pt_br lukali_menu_549b06ce:
 translate pt_br lukali_menu_820bd25c:
 
     # lu "So what are you all doing here?"
-    lu ""
+    lu "Então, oque vocês todas estão fazendo aqui?"
 
 # game/scripts/kali_events.rpy:8889
 translate pt_br lukali_menu_29e78f5c:
 
     # belle "Caliber has some of the best beaches in the world! How could we {i}not{/i} be here?"
-    belle ""
+    belle "Caliber tem algumas das melhores praias do mundo! Como que agente pode {i}não{/i} estar aqui?"
 
 # game/scripts/kali_events.rpy:8890
 translate pt_br lukali_menu_0a16ff15:
 
     # zara "We were invited to a party nearby. Nothing crazy, but it is invite only. You could all probably come though, I don't think he would mind."
-    zara ""
+    zara "Nós fomos convidadas para uma festa aqui perto. Nada louco, só um convite. Vocês poderiam vir junto, eu não acho que ele vá ligar."
 
 # game/scripts/kali_events.rpy:8891
 translate pt_br lukali_menu_fc25bb0b:
 
     # k "Oh, uh..."
-    k ""
+    k "Oh, uh..."
 
 # game/scripts/kali_events.rpy:8892
 translate pt_br lukali_menu_3febadab:
 
     # lu "Yeah, sorry... I would love to but I don't think my boring sister would have any fun. I'm going to have to pass for now, but thanks!"
-    lu ""
+    lu "É, desculpa... Eu adoraria mas eu não acho que a minha irmã chata iria se divertir. Eu vou passar dessa vez, mas obrigada!"
 
 # game/scripts/kali_events.rpy:8893
 translate pt_br lukali_menu_840cde85:
 
     # belle "Awww, okay! Maybe we could grab a drink though? It's been a while! We should catch up!"
-    belle ""
+    belle "Awww, ok! Talvez nós possamos ir beber alguma coisa então? Já faz um tempo! Nós deveríamos sair juntas!"
 
 # game/scripts/kali_events.rpy:8895
 translate pt_br lukali_menu_c8f842ea:
 
     # q "Hey? We're sort of on a strict schedule here. We can't miss this. If we're late we won't get any pictures with him."
-    q ""
+    q "Ei? Nós estamos ocupadas aqui. Não podemos perder isso. Se nos atrasarmos nós não vamos conseguir nennhuma foto com ele."
 
 # game/scripts/kali_events.rpy:8896
 translate pt_br lukali_menu_07520c04:
 
     # belle "Oh you're right! He won't be there all day will he! Ugh!"
-    belle ""
+    belle "Oh tem razão! Ele não vai estar lá oi dia inteiro! Ugh!"
 
 # game/scripts/kali_events.rpy:8898
 translate pt_br lukali_menu_84f29f04:
 
     # belle "Sorry girl, we gotta go! Are you sure you don't want to come?"
-    belle ""
+    belle "Foi mal garota, nós temos que ir! Tem certeza de que não quer vir?"
 
 # game/scripts/kali_events.rpy:8899
 translate pt_br lukali_menu_b37c5b1d:
 
     # lu "Wait, who are you going to see?"
-    lu ""
+    lu "Espera, quem vocês estão indo ver?"
 
 # game/scripts/kali_events.rpy:8900
 translate pt_br lukali_menu_4e727673:
 
     # belle "THE Jack Rider!"
-    belle ""
+    belle "O Jack Rider!"
 
 # game/scripts/kali_events.rpy:8901
 translate pt_br lukali_menu_5c1c043f:
 
     # lu "*gasp*! No way! How did you get an invite?"
-    lu ""
+    lu "*suspiro*! Nem ferrando! Como vocês conseguiram um convite?"
 
 # game/scripts/kali_events.rpy:8902
 translate pt_br lukali_menu_8ff8b424:
 
     # belle "Oh, we used to have a little thing a while back... let's just say it didn't end on good terms. I guess this is his way of saying sorry, or an attempt to get back with me..."
-    belle ""
+    belle "Oh, nós costumavámos ter uma coisa uns tempo atrás... Vamos dizer que terminou tudo bem. Eu acho que esse é o jeito dele de pedir desculpas, ou tentar voltar comigo..."
 
 # game/scripts/kali_events.rpy:8903
 translate pt_br lukali_menu_6636f5b7:
 
     # k "Uh, who?"
-    k ""
+    k "Uh, quem?"
 
 # game/scripts/kali_events.rpy:8904
 translate pt_br lukali_menu_7ca15f51:
 
     # lu "He's a famous actor Kali, how have you not heard of him? *sigh*... I wish I could go."
-    lu ""
+    lu "Ele é um atôr famoso Kali, como você não conhece ele? *suspiro*... Eu queria poder ir."
 
 # game/scripts/kali_events.rpy:8905
 translate pt_br lukali_menu_e8a81c88:
