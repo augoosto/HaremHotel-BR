@@ -30046,301 +30046,301 @@ translate pt_br kalifight_1e3b2765:
 translate pt_br kalifight_8eaa775e:
 
     # k "Well you're not surprised!"
-    k ""
+    k "Bem, você não está surpreso!"
 
 # game/scripts/kali_events.rpy:8185
 translate pt_br kalifight_c75b86d8:
 
     # k "I see Lucy flirting with you all the time! Ever since she met you she's been trying to suck your cock!"
-    k ""
+    k "Eu vejo a Lucy flertando com você o tempo todo! Desde quando ela te conheceu ela esteve tentando chupar o seu pau!"
 
 # game/scripts/kali_events.rpy:8186
 translate pt_br kalifight_a9c19baa:
 
     # k "At the beach, too! She made you massage her breasts!"
-    k ""
+    k "Lá na praia também! Ela fez você massagear os peitos dela!"
 
 # game/scripts/kali_events.rpy:8187
 translate pt_br kalifight_94ac479c:
 
     # k "I bet the only reason you two didn't fuck is because I was there!"
-    k ""
+    k "Eu aposto que a única rezão pela qual vocês não foderam é porque eu estava lá!"
 
 # game/scripts/kali_events.rpy:8188
 translate pt_br kalifight_debe4059:
 
     # k "She's just trying to steal you away from me! And you're okay with that!?"
-    k ""
+    k "Ela só queria te roubar de mim! E você tá de boa com isso!?"
 
 # game/scripts/kali_events.rpy:8189
 translate pt_br kalifight_75a66500:
 
     # k "Do you not even care about me!? What's wrong with-"
-    k ""
+    k "Você ao menos se importa comigo!? Oque há de errado co-"
 
 # game/scripts/kali_events.rpy:8191
 translate pt_br kalifight_b8ed863f:
 
     # k "AHH!" with ssshake
-    k "" with ssshake
+    k "AHHH!" with ssshake
 
 # game/scripts/kali_events.rpy:8193
 translate pt_br kalifight_68f3e165:
 
     # lu "Have fun!" with sshake
-    lu "" with sshake
+    lu "Se divirtam!" with sshake
 
 # game/scripts/kali_events.rpy:8194
 translate pt_br kalifight_233f0c1d:
 
     # k "LUCY!?"
-    k ""
+    k "LUCY!?"
 
 # game/scripts/kali_events.rpy:8195
 translate pt_br kalifight_d6cf8b19:
 
     # lu "You guys aren't coming out of there until you make up, okay? Okay! Bye! Be back in an hour!"
-    lu ""
+    lu "Vocês não vão sair daí até fazerem as pazes, ok? OK! Tchau! Eu volto em uma hora!"
 
 # game/scripts/kali_events.rpy:8196
 translate pt_br kalifight_b8ad33c1:
 
     # k "AN HOUR!?"
-    k ""
+    k "UMA HORA!?"
 
 # game/scripts/kali_events.rpy:8198
 translate pt_br kalifight_592b9ec5:
 
     # k "What the fuck is going on!?"
-    k ""
+    k "Mas que porra tá acontecendo!?"
 
 # game/scripts/kali_events.rpy:8199
 translate pt_br kalifight_a9f34c76:
 
     # c "I don't know."
-    c ""
+    c "Eu sei lá."
 
 # game/scripts/kali_events.rpy:8201
 translate pt_br kalifight_f7e10484:
 
     # k "LUCY! LET ME OUT!"
-    k ""
+    k "LUCY! ABRE ESSA PORTA!"
 
 # game/scripts/kali_events.rpy:8202
 translate pt_br kalifight_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8203
 translate pt_br kalifight_d464b281:
 
     # k "LUCY!"
-    k ""
+    k "LUCY!"
 
 # game/scripts/kali_events.rpy:8204
 translate pt_br kalifight_7c57e622:
 
     # c "She's not here anymore."
-    c ""
+    c "Ela já foi embora."
 
 # game/scripts/kali_events.rpy:8206
 translate pt_br kalifight_bf6f0617:
 
     # k "Rgghh..."
-    k ""
+    k "Rgghh..."
 
 # game/scripts/kali_events.rpy:8207
 translate pt_br kalifight_297d93f3_1:
 
     # c "What?"
-    c ""
+    c "Oque?"
 
 # game/scripts/kali_events.rpy:8209
 translate pt_br kalifight_cb1041d0:
 
     # k "I'm still mad at you..."
-    k ""
+    k "Eu ainda estou brava com você..."
 
 # game/scripts/kali_events.rpy:8211
 translate pt_br kalifight_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Por que?"
 
 # game/scripts/kali_events.rpy:8212
 translate pt_br kalifight_2c0d8ebd:
 
     # k "...Whatever."
-    k ""
+    k "... Não importa."
 
 # game/scripts/kali_events.rpy:8213
 translate pt_br kalifight_6153247d:
 
     # c "I thought we were passed 'whatevers'."
-    c ""
+    c "Eu pensei que nós já havíamos passado do 'não importa'."
 
 # game/scripts/kali_events.rpy:8214
 translate pt_br kalifight_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8215
 translate pt_br kalifight_a734854e:
 
     # k "I just don't like that Lucy is always flirting with you..."
-    k ""
+    k "Eu só não gosto de como a Lucy tá sempre flertanto com você..."
 
 # game/scripts/kali_events.rpy:8216
 translate pt_br kalifight_8667d3a1:
 
     # c "Why? You already know about the other girls here."
-    c ""
+    c "Por que? Você já sabe sobre as outras garotas daqui."
 
 # game/scripts/kali_events.rpy:8218
 translate pt_br kalifight_a7a5b11e:
 
     # k "That's completely different!"
-    k ""
+    k "Isso é completamente diferente!"
 
 # game/scripts/kali_events.rpy:8219
 translate pt_br kalifight_67287a2b:
 
     # c "How?"
-    c ""
+    c "Diferente como?"
 
 # game/scripts/kali_events.rpy:8221
 translate pt_br kalifight_8cbde748:
 
     # k "Because... I don't know..."
-    k ""
+    k "Porque... eu não sei..."
 
 # game/scripts/kali_events.rpy:8222
 translate pt_br kalifight_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8223
 translate pt_br kalifight_790a0617:
 
     # k "Well, are you fucking her?"
-    k ""
+    k "Bem, você tá fodendo ela?"
 
 # game/scripts/kali_events.rpy:8224
 translate pt_br kalifight_a5a81561:
 
     # c "I don't think that's the problem here."
-    c ""
+    c "Eu não acho que esse seja o problema aqui."
 
 # game/scripts/kali_events.rpy:8225
 translate pt_br kalifight_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8226
 translate pt_br kalifight_925e3dbd:
 
     # c "Are you jealous of her?"
-    c ""
+    c "Você tem inveja dela?"
 
 # game/scripts/kali_events.rpy:8228
 translate pt_br kalifight_9865135f:
 
     # k "What!? No! Of course not!"
-    k ""
+    k "Que!? Não! Claro que não!"
 
 # game/scripts/kali_events.rpy:8229
 translate pt_br kalifight_82eb0108:
 
     # c "Kali..."
-    c ""
+    c "Kali..."
 
 # game/scripts/kali_events.rpy:8231
 translate pt_br kalifight_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:8232
 translate pt_br kalifight_d405871b:
 
     # c "Kali, what do you have to be jealous of?"
-    c ""
+    c "Kali, do que você tem inveja dela?"
 
 # game/scripts/kali_events.rpy:8233
 translate pt_br kalifight_fd4ceffa:
 
     # k "Nothing!"
-    k ""
+    k "Nada!"
 
 # game/scripts/kali_events.rpy:8234
 translate pt_br kalifight_82091822_4:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8236
 translate pt_br kalifight_9407cdeb:
 
     # k "Urgh! I mean, you've seen her! She's pretty! She's young! She's confident! She's stylish!"
-    k ""
+    k "Urgh! Quer dizer, você já viu ela! Ela é bonita! Ela é jovem! Ela é confiante! Ela é estilosa!"
 
 # game/scripts/kali_events.rpy:8238
 translate pt_br kalifight_c6d95b05:
 
     # k "She hasn't even been here that long, but look! Most of those clothes aren't mine!"
-    k ""
+    k "Ela não está aqui há tanto tempo aqui, mas olha! A maioria dessas roupas não são minhas!"
 
 # game/scripts/kali_events.rpy:8240
 translate pt_br kalifight_86a3ccf5:
 
     # k "I give her a bed, and she flirts with my boyfriend! I give her a closet and she uses most of it! She's taking everything from me!"
-    k ""
+    k "Eu dou para ela um lugar para dormir e ela da em cima do meu namorado! Eu dou para ela um armário e ela usa a maior parte dele! Ela está tirando tudo de mim!"
 
 # game/scripts/kali_events.rpy:8241
 translate pt_br kalifight_7ed355ea:
 
     # c "Alright, then I'll kick her out."
-    c ""
+    c "Tudo bem então, eu vou expulsar ela."
 
 # game/scripts/kali_events.rpy:8243
 translate pt_br kalifight_1d10cef5:
 
     # k "What!? Really?"
-    k ""
+    k "Que!? Sério?"
 
 # game/scripts/kali_events.rpy:8244
 translate pt_br kalifight_69e4dab3:
 
     # k "I mean, wait! No! You can't kick her out!"
-    k ""
+    k "Quer dizer! Não! Você não pode expulsar ela!"
 
 # game/scripts/kali_events.rpy:8245
 translate pt_br kalifight_c86e5d51:
 
     # c "Isn't that what you want?"
-    c ""
+    c "Não é isso que você queria?"
 
 # game/scripts/kali_events.rpy:8247
 translate pt_br kalifight_d137c236:
 
     # k "...No... I don't want her gone..."
-    k ""
+    k "... Não... Eu não quero que ela vá..."
 
 # game/scripts/kali_events.rpy:8248
 translate pt_br kalifight_82091822_5:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8249
 translate pt_br kalifight_0da040a1:
 
     # k "She's so annoying..."
-    k ""
+    k "Ela é tão irritante..."
 
 # game/scripts/kali_events.rpy:8250
 translate pt_br kalifight_143c96f2:
