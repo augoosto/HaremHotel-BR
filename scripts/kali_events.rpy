@@ -30298,7 +30298,7 @@ translate pt_br kalifight_c6d95b05:
 translate pt_br kalifight_86a3ccf5:
 
     # k "I give her a bed, and she flirts with my boyfriend! I give her a closet and she uses most of it! She's taking everything from me!"
-    k "Eu dou para ela um lugar para dormir e ela da em cima do meu namorado! Eu dou para ela um armário e ela usa a maior parte dele! Ela está tirando tudo de mim!"
+    k "Eu dou para ela um lugar para dormir e ela da em cima do meu namorado! Eu dou para ela um closet e ela usa a maior parte dele! Ela está tirando tudo de mim!"
 
 # game/scripts/kali_events.rpy:8241
 translate pt_br kalifight_7ed355ea:
@@ -30346,301 +30346,301 @@ translate pt_br kalifight_0da040a1:
 translate pt_br kalifight_143c96f2:
 
     # c "She loves you though."
-    c ""
+    c "Porém, ela te ama."
 
 # game/scripts/kali_events.rpy:8252
 translate pt_br kalifight_33eb9a23:
 
     # k "You call this love!? She locked me in a closet!"
-    k ""
+    k "Você chama isso de amor!? Ela me trancou no meu closet!"
 
 # game/scripts/kali_events.rpy:8253
 translate pt_br kalifight_e6172d52:
 
     # c "She locked {i}us{/i} in a closet."
-    c ""
+    c "Ela {i}nos{/i} trancou no seu closet."
 
 # game/scripts/kali_events.rpy:8254
 translate pt_br kalifight_cc20e27f:
 
     # k "So!?"
-    k ""
+    k "E!?"
 
 # game/scripts/kali_events.rpy:8255
 translate pt_br kalifight_bbed2ba8:
 
     # c "If she didn't like you, she would have only locked you in here, not me."
-    c ""
+    c "Se ela não gostasse de você, ela trancaria só você aqui, e não eu."
 
 # game/scripts/kali_events.rpy:8256
 translate pt_br kalifight_5310ce33:
 
     # k "So! So... So what!? What does she want then?"
-    k ""
+    k "E! E... Então o que!? O que ela quer então?"
 
 # game/scripts/kali_events.rpy:8257
 translate pt_br kalifight_d9fb3005:
 
     # c "Your guess is as good as mine, but she clearly doesn't hate you."
-    c ""
+    c "Bem, eu também não sei, mas ela claramente não te odeia."
 
 # game/scripts/kali_events.rpy:8259
 translate pt_br kalifight_82091822_6:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8260
 translate pt_br kalifight_42481b06:
 
     # k "She's just being a brat again..."
-    k ""
+    k "Ela só tá sendo uma peste de novo..."
 
 # game/scripts/kali_events.rpy:8261
 translate pt_br kalifight_6d830174:
 
     # c "What are you worried about?"
-    c ""
+    c "Com o que você tá preocupada?"
 
 # game/scripts/kali_events.rpy:8262
 translate pt_br kalifight_530a6f78:
 
     # k "Whatev- Urgh... I don't- ... *sigh*..."
-    k ""
+    k "Sei l- Urgh... Eu não s-... *suspiro*..."
 
 # game/scripts/kali_events.rpy:8263
 translate pt_br kalifight_dc652405:
 
     # k "Do you like her?"
-    k ""
+    k "Você gosta dela?"
 
 # game/scripts/kali_events.rpy:8264
 translate pt_br kalifight_9e93b3f9:
 
     # k "...More than me?"
-    k ""
+    k "... Mais do que de mim?"
 
 # game/scripts/kali_events.rpy:8265
 translate pt_br kalifight_a59f8f81:
 
     # c "Of course not."
-    c ""
+    c "É claro que não."
 
 # game/scripts/kali_events.rpy:8267
 translate pt_br kalifight_af12b6aa:
 
     # k "Good..."
-    k ""
+    k "Bom..."
 
 # game/scripts/kali_events.rpy:8268
 translate pt_br kalifight_b3f8ab8c:
 
     # c "That's what you were worried about?"
-    c ""
+    c "Era com isso que você estava preocupada?"
 
 # game/scripts/kali_events.rpy:8269
 translate pt_br kalifight_be082246:
 
     # k "Well... Kind of..."
-    k ""
+    k "Bem... meio que sim..."
 
 # game/scripts/kali_events.rpy:8270
 translate pt_br kalifight_8b9fdc30:
 
     # k "I've never been anyone's first choice, not even my Dad's... I don't want to lose that again..."
-    k ""
+    k "Eu nunca fui a primeira escolha, nem mesmo do meu pai... eu não quero perder isso de novo..."
 
 # game/scripts/kali_events.rpy:8271
 translate pt_br kalifight_c604f98e:
 
     # c "You don't need to worry about your sister."
-    c ""
+    c "Você não precisa se preocupar com a sua irmã."
 
 # game/scripts/kali_events.rpy:8272
 translate pt_br kalifight_e52f7681:
 
     # k "...Fine..."
-    k ""
+    k "... Tá bem..."
 
 # game/scripts/kali_events.rpy:8274
 translate pt_br kalifight_8a1803d7:
 
     # k "Stupid clothes..."
-    k ""
+    k "Roupas estúpidas..."
 
 # game/scripts/kali_events.rpy:8275
 translate pt_br kalifight_eb4dd974:
 
     # c "Why don't you try them on?"
-    c ""
+    c "Por que você não às eperimenta?"
 
 # game/scripts/kali_events.rpy:8277
 translate pt_br kalifight_f9d8bdbe:
 
     # k "What? Why?"
-    k ""
+    k "O que? Por que?"
 
 # game/scripts/kali_events.rpy:8278
 translate pt_br kalifight_bff4ef20:
 
     # c "It's your closet, isn't it?"
-    c ""
+    c "É o seu closet, não é?"
 
 # game/scripts/kali_events.rpy:8279
 translate pt_br kalifight_f8fdf0d2:
 
     # c "And you did say she had some slutty clothes..."
-    c ""
+    c "E você disse que ela tinha umas roupas safadas..."
 
 # game/scripts/kali_events.rpy:8281
 translate pt_br kalifight_a413cb01:
 
     # k "...Alright... Fine."
-    k ""
+    k "... Ok... beleza."
 
 # game/scripts/kali_events.rpy:8284
 translate pt_br kalifight_8a1efce0:
 
     # k "Urgh, remember these? So gross..."
-    k ""
+    k "Urgh, lembra dessa? Nojento..."
 
 # game/scripts/kali_events.rpy:8285
 translate pt_br kalifight_1285e1f3:
 
     # k "I'm starting to feel like a brat already..."
-    k ""
+    k "Eu já estou começando a me sentir uma pirralha..."
 
 # game/scripts/kali_events.rpy:8288
 translate pt_br kalifight_1d276b0d:
 
     # c "It looks nice on you."
-    c ""
+    c "Fica bom em você."
 
 # game/scripts/kali_events.rpy:8290
 translate pt_br kalifight_6d2431dc:
 
     # k "Hey, shut up! You're not supposed to like my sister's clothes!"
-    k ""
+    k "Ei, cala a boca! Não é para você gostar das roupas da minha irmã!"
 
 # game/scripts/kali_events.rpy:8293
 translate pt_br kalifight_a4536509:
 
     # k "What do you think about these?"
-    k ""
+    k "O que você acha dessa?"
 
 # game/scripts/kali_events.rpy:8296
 translate pt_br kalifight_da7365f9:
 
     # c "Wow, that's nice."
-    c ""
+    c "Wow, essa é boa."
 
 # game/scripts/kali_events.rpy:8297
 translate pt_br kalifight_8dfd5522:
 
     # k "I think so too. Might have to steal these from her..."
-    k ""
+    k "Eu também acho. Acho que vou roubar essa para mim..."
 
 # game/scripts/kali_events.rpy:8299
 translate pt_br kalifight_6fb165f8:
 
     # k "Hmm..."
-    k ""
+    k "Hmm..."
 
 # game/scripts/kali_events.rpy:8300
 translate pt_br kalifight_297d93f3_2:
 
     # c "What?"
-    c ""
+    c "O que?"
 
 # game/scripts/kali_events.rpy:8302
 translate pt_br kalifight_670e2dec:
 
     # k "How about now?"
-    k ""
+    k "E agora?"
 
 # game/scripts/kali_events.rpy:8303
 translate pt_br kalifight_8b488380:
 
     # c "Definitely improving..."
-    c ""
+    c "Definitivamente melhor..."
 
 # game/scripts/kali_events.rpy:8305
 translate pt_br kalifight_ecd11a06:
 
     # k "Hahaha!"
-    k ""
+    k "Hahaha!"
 
 # game/scripts/kali_events.rpy:8308
 translate pt_br kalifight_01f099cc:
 
     # k "Urgh, what was she planning to do with this?"
-    k ""
+    k "Urgh, o que ela tava planejando fazer com essa?"
 
 # game/scripts/kali_events.rpy:8309
 translate pt_br kalifight_24e77b02:
 
     # k "God, I feel so gross wearing this..."
-    k ""
+    k "Deus, eu me sinto tão nojenta usando isso..."
 
 # game/scripts/kali_events.rpy:8313
 translate pt_br kalifight_8b003f14:
 
     # k "Well? Would you fuck me in this?"
-    k ""
+    k "Bem? Você me foderia nisso?"
 
 # game/scripts/kali_events.rpy:8316
 translate pt_br kalifight_1c9e3ffa:
 
     # k "Noted..."
-    k ""
+    k "Anotado..."
 
 # game/scripts/kali_events.rpy:8320
 translate pt_br kalifight_2f339c56:
 
     # k "Yeah... Wearing this feels pretty stupid anyway..."
-    k ""
+    k "É... usar isso parece bem estúpido de qualquer jeito..."
 
 # game/scripts/kali_events.rpy:8323
 translate pt_br kalifight_4ca83404:
 
     # k "Sorry [name]... I shouldn't have gotten mad at you... It wasn't fair."
-    k ""
+    k "Desulpa [name]... eu não deveria ficado brava com você... não foi justo."
 
 # game/scripts/kali_events.rpy:8324
 translate pt_br kalifight_4957702e:
 
     # k "You can... Have sex with Lucy, if you want..."
-    k ""
+    k "Você pode... você pode fazer sexo com a Lucy, se você quiser..."
 
 # game/scripts/kali_events.rpy:8325
 translate pt_br kalifight_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "Que? Por que?"
 
 # game/scripts/kali_events.rpy:8326
 translate pt_br kalifight_6fcf1c60:
 
     # k "Well I'm totally fine with you and the other girls... As long as we're together, it doesn't really bother me. So... As long as you like me more than her... I guess it's fine..."
-    k ""
+    k "Bem, eu estou de acordo com você e as outras garotas... contanto que nós estejamos juntos, não me incomoda. Então... desde que goste de mim mais do que dela... eu acho que tudo bem..."
 
 # game/scripts/kali_events.rpy:8327
 translate pt_br kalifight_e862cf1c:
 
     # k "I mean... If you want to, anyway..."
-    k ""
+    k "Quer dizer... se você quiser, de qualquer forma..."
 
 # game/scripts/kali_events.rpy:8328
 translate pt_br kalifight_256ec68c:
 
     # c "I didn't know you were this open about it."
-    c ""
+    c "Eu não sabia que você era aberta sobre isso."
 
 # game/scripts/kali_events.rpy:8329
 translate pt_br kalifight_17fa771e:
 
     # k "Like I said, as long as we're together, I don't really mind. I guess I would prefer if it was only us, but, I don't think you're that type of guy... and besides, it's kind of hot..."
-    k ""
+    k "Como eu disse, contanto que nós estejamos juntos, eu não me importo. Eu acho que eu preferiria que fosse só agente, mas, eu não acho que você é esse tipo de cara... e também, é meio excitante..."
 
 # game/scripts/kali_events.rpy:8331
 translate pt_br kalifight_dce9e23a:
