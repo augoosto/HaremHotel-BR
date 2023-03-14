@@ -26356,217 +26356,217 @@ translate pt_br kalirplay_1332adf9_1:
 translate pt_br kaliprefetish_1acbe60d:
 
     # k "Fuck, fuck!"
-    k ""
+    k "Porra, porra!"
 
 # game/scripts/kali_events.rpy:7134
 translate pt_br kaliprefetish_64afd396:
 
     # c "{i}(She's masturbating? To what?){/i}"
-    c ""
+    c "{i}(Ela tá se masturbando? Para oque?)"
 
 # game/scripts/kali_events.rpy:7136
 translate pt_br kaliprefetish_b9150c47:
 
     # porn "Ah! Stay away!"
-    porn ""
+    porn "Ah! Fique longe!"
 
 # game/scripts/kali_events.rpy:7137
 translate pt_br kaliprefetish_56d70479:
 
     # k "MMMMMMM!"
-    k ""
+    k "MMMMMMM!"
 
 # game/scripts/kali_events.rpy:7138
 translate pt_br kaliprefetish_adf3f2a9:
 
     # k "Ahh... Hnn, I almost came... Ngh... Again..."
-    k ""
+    k "Ahh... Hnn, quase... Ngh... de novo..."
 
 # game/scripts/kali_events.rpy:7140
 translate pt_br kaliprefetish_92efba2d:
 
     # porn "No, no! I can't take that! No!"
-    porn ""
+    porn "Não, não! Isso não! Não!"
 
 # game/scripts/kali_events.rpy:7141
 translate pt_br kaliprefetish_10f947be:
 
     # k "Ohh, fuck, fuck, fuck, fuck! Nnn!"
-    k ""
+    k "Ohh, porra, porra, porra, porra! Nnn!"
 
 # game/scripts/kali_events.rpy:7143
 translate pt_br kaliprefetish_5ebaaae7:
 
     # porn "If you didn't want it, why are you so wet...?"
-    porn ""
+    porn "Se você não quer isso, por que está tão molhada...?"
 
 # game/scripts/kali_events.rpy:7144
 translate pt_br kaliprefetish_51cf4340:
 
     # porn "T-That's not true!"
-    porn ""
+    porn "N-Não é verdade!"
 
 # game/scripts/kali_events.rpy:7145
 translate pt_br kaliprefetish_38c2f608:
 
     # k "She's such a fucking slut... Nnn!"
-    k ""
+    k "Ela é uma vadia do caralho... Nnn!"
 
 # game/scripts/kali_events.rpy:7146
 translate pt_br kaliprefetish_de85f717:
 
     # porn "W-Wait! I'm a virgin, I'm a- AHH!!!"
-    porn ""
+    porn "E-Espere! Eu sou virgem, Eu- AHH!!!"
 
 # game/scripts/kali_events.rpy:7148
 translate pt_br kaliprefetish_bc4d5b49:
 
     # k "Ahhh!!! That's so hot! I want to do that so bad...! Nn!" with ssshake
-    k "" with ssshake
+    k "Ahhh!!! Isso é excitante! Eu quero tanto fazer isso...! Nn!" with ssshake
 
 # game/scripts/kali_events.rpy:7149
 translate pt_br kaliprefetish_0d19b691:
 
     # c "{i}(What is she watching? She looks very into this...){/i}"
-    c ""
+    c "{i}(O que ela está assistindo? Ela parece gostar bastante...){/i}"
 
 # game/scripts/kali_events.rpy:7151
 translate pt_br kaliprefetish_007f49cc:
 
     # porn "No! Not my ass too!"
-    porn ""
+    porn "Não! Não na minha bunda também!"
 
 # game/scripts/kali_events.rpy:7152
 translate pt_br kaliprefetish_ff41b473:
 
     # k "She's taking it in the ass now? Oh fuck... That's so hot!"
-    k ""
+    k "Ela tá tomando na bundo também? Oh porra... Isso é tão excitante!"
 
 # game/scripts/kali_events.rpy:7154
 translate pt_br kaliprefetish_e4ff6e6b:
 
     # porn "AAAAAAAAAH!" with ssshake
-    porn "" with ssshake
+    porn "AAAAAAAAAH!" with ssshake
 
 # game/scripts/kali_events.rpy:7155
 translate pt_br kaliprefetish_30f2aed5:
 
     # k "Fuck, fuck! She looks like she's feeling so good! Nnn, I wish someone would do that to me... Ahh!"
-    k ""
+    k "Porra, porra! Ela parece estar se sentindo tão bem! Nnn, eu queria que alguém fizesse isso comigo... Ahh!"
 
 # game/scripts/kali_events.rpy:7156
 translate pt_br kaliprefetish_bdc9a2ee:
 
     # k "Ahhhn! Nnn! {size=-10}Fuck my ass, [name]... Nnnuh, I don't care, just... Ah, just take it...{/size}"
-    k ""
+    k "Ahhhn! Nnn! {size=-10}Fode a minha bunda, [name]... Nnnuh, Eu não me importo, só... ah, só fode...{/size}"
 
 # game/scripts/kali_events.rpy:7158
 translate pt_br kaliprefetish_bfbe9414:
 
     # porn "Let me go! Let me go!"
-    porn ""
+    porn "Me deixa ir! Me deixa ir!"
 
 # game/scripts/kali_events.rpy:7159
 translate pt_br kaliprefetish_2f8db84c:
 
     # k "Hnn, fuck... She can take it so rough... Ahhh..."
-    k ""
+    k "Hnn, porra... ela consegue aguentar isso tão bruto... Ahhh..."
 
 # game/scripts/kali_events.rpy:7160
 translate pt_br kaliprefetish_040e65d3:
 
     # porn "AAAAHHHNN~!"
-    porn ""
+    porn "AAAAHHHNN~!"
 
 # game/scripts/kali_events.rpy:7162
 translate pt_br kaliprefetish_7f0e4a35:
 
     # k "NNNG!" with ssshake
-    k "" with ssshake
+    k "NNNG!" with ssshake
 
 # game/scripts/kali_events.rpy:7163
 translate pt_br kaliprefetish_0ec09e5d:
 
     # k "Fuck, I'm so close! Oh my god! Fuck!"
-    k ""
+    k "Porra, eu tô quase! Meu deus! Porra!"
 
 # game/scripts/kali_events.rpy:7164
 translate pt_br kaliprefetish_d3b46ed1:
 
     # porn "Stop, please! I'm going to cum! Ahh!"
-    porn ""
+    porn "Para, por favor! Eu vou gozar! Ahh!"
 
 # game/scripts/kali_events.rpy:7165
 translate pt_br kaliprefetish_1aaa53c9:
 
     # k "Treat her like a whore, treat her like a slut! Rape that bitch! NNNN!"
-    k ""
+    k "Trate ela como uma puta, trate ela como uma vadia! Estupre essa cadela! NNNN!"
 
 # game/scripts/kali_events.rpy:7167
 translate pt_br kaliprefetish_7819680d:
 
     # k "FFUUUUUCK!!!" with ssshake
-    k "" with ssshake
+    k "POOORRAAAA!!" with ssshake
 
 # game/scripts/kali_events.rpy:7168
 translate pt_br kaliprefetish_e5bbcb6c:
 
     # k "NNNGUH!" with ssshake
-    k "" with ssshake
+    k "NNNGUH!" with ssshake
 
 # game/scripts/kali_events.rpy:7170
 translate pt_br kaliprefetish_aa936fe4:
 
     # k "Ahh... Hnnn... Fuck... I came so hard... Did I squirt...?"
-    k ""
+    k "Ahh... Hnnn... porra... eu gozei tanto... eu esguichei...?"
 
 # game/scripts/kali_events.rpy:7172
 translate pt_br kaliprefetish_5a0d3b88:
 
     # porn "Good day everyone! You just saw me get 'raped' today! Heheh."
-    porn ""
+    porn "Bom dia todo mundo! Hoje vocês me viram ser 'estuprada'! Heheh."
 
 # game/scripts/kali_events.rpy:7173
 translate pt_br kaliprefetish_95b2a597:
 
     # porn "How did you enjoy our role play today?"
-    porn ""
+    porn "Vocês gostaram da nossa atuação de hoje?"
 
 # game/scripts/kali_events.rpy:7174
 translate pt_br kaliprefetish_cca1ca65:
 
     # porn "It was great! I can't wait for next time!"
-    porn ""
+    porn "Foi bom! Eu mal posso esperar pela próxima vez!"
 
 # game/scripts/kali_events.rpy:7175
 translate pt_br kaliprefetish_12ed77ce:
 
     # k "Urgh, why do they need to put those things at the end? It just ruins the fantasy..."
-    k ""
+    k "Urgh, por que eles precisam colocar essas coisas no final? Só estraga a fantasia..."
 
 # game/scripts/kali_events.rpy:7177
 translate pt_br kaliprefetish_32619026:
 
     # k "Fuck, I need to clean myself..."
-    k ""
+    k "Porra, eu preciso me limpar..."
 
 # game/scripts/kali_events.rpy:7179
 translate pt_br kaliprefetish_d08d3c12:
 
     # c "Rape play... Hm, well I can't say I'm surprised. She does like it rough..."
-    c ""
+    c "Fantasia de estupro... Hm, bem não posso dizer que estou surpreso. Ela gosta de fazer isso bruto..."
 
 # game/scripts/kali_events.rpy:7180
 translate pt_br kaliprefetish_3ea33ddd:
 
     # c "Maybe I could help her..."
-    c ""
+    c "Talvez eu possa ahud-lá..."
 
 # game/scripts/kali_events.rpy:7183
 translate pt_br kaliprefetish_194651ed:
 
     # c "I've got an idea..."
-    c ""
+    c "TTenho uma idéia..."
 
 # game/scripts/kali_events.rpy:7187
 translate pt_br kaliprefetish_6d27d723:
@@ -30646,85 +30646,85 @@ translate pt_br kalifight_17fa771e:
 translate pt_br kalifight_dce9e23a:
 
     # k "Urgh, god damn it, Lucy. Hello!?"
-    k ""
+    k "Urgh, meu deus, Lucy. Olá?"
 
 # game/scripts/kali_events.rpy:8333
 translate pt_br kalifight_bff5d7f5:
 
     # k "LU- Oh... It's open...?"
-    k ""
+    k "LU- Oh... está aberta...?"
 
 # game/scripts/kali_events.rpy:8335
 translate pt_br kalifight_c4550cd5:
 
     # k "URGH! DAMN IT LUCY, WHERE ARE YOU!?"
-    k ""
+    k "URGH! DROGA LUCY, ONDE TU TÁ?"
 
 # game/scripts/kali_events.rpy:8336
 translate pt_br kalifight_6218868d:
 
     # "*SLAM*" with ssshake
-    "" with ssshake
+    "*BATIDA*" with ssshake
 
 # game/scripts/kali_events.rpy:8339
 translate pt_br kalifight_e25ccc73:
 
     # lu "Enjoy your talk?"
-    lu ""
+    lu "Aproveitou sua conversa?"
 
 # game/scripts/kali_events.rpy:8340
 translate pt_br kalifight_5d7d803b:
 
     # c "Lucy?"
-    c ""
+    c "Lucy?"
 
 # game/scripts/kali_events.rpy:8342
 translate pt_br kalifight_1af947d3:
 
     # lu "You didn't think I was just going to leave without listening, did you?"
-    lu ""
+    lu "Você não pensou que eu ia só saie sem ouvir, pensou?"
 
 # game/scripts/kali_events.rpy:8343
 translate pt_br kalifight_8e3f6e0f:
 
     # c "You were listening the whole time?"
-    c ""
+    c "Você tava escutando esse tempo todo?"
 
 # game/scripts/kali_events.rpy:8344
 translate pt_br kalifight_e9ee4710:
 
     # lu "Of course!"
-    lu ""
+    lu "Claro!"
 
 # game/scripts/kali_events.rpy:8345
 translate pt_br kalifight_049e29ca:
 
     # c "Why did you push us in there?"
-    c ""
+    c "Por que você nos empurrou ali?"
 
 # game/scripts/kali_events.rpy:8346
 translate pt_br kalifight_db6da4d6:
 
     # lu "She was really angry, and she was going to try to push you away from her. Which would have made her even angrier with you..."
-    lu ""
+    lu "Ela estava muito brava, e ela ia tentar te empurrar longe dela. Oque teria deixado ela ainda mais brava com você..."
 
 # game/scripts/kali_events.rpy:8347
 translate pt_br kalifight_22f07c15:
 
     # lu "I know Kali, remember? The only way you two were going to avoid an arguement was to talk it out, and she wasn't going to do that..."
-    lu ""
+    lu "Eu conheço a Kali, sabe? O único jeito de vocês evitarem uma briga era conversando sobre isso, e ela não ia fazer isso..."
 
 # game/scripts/kali_events.rpy:8348
 translate pt_br kalifight_b4906937:
 
     # lu "She doesn't even know herself as well as I do."
-    lu ""
+    lu "Ela nem ao menos à conhece tão bem quanto eu."
 
 # game/scripts/kali_events.rpy:8350
 translate pt_br kalifight_73355fc4:
 
     # lu "You're welcome!"
-    lu ""
+    lu "De nada!"
 
 # game/scripts/kali_events.rpy:8474
 translate pt_br kali_anal_repeat_0467e2bc:
