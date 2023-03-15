@@ -25780,241 +25780,241 @@ translate pt_br kalirplay_7417fc2c:
 translate pt_br kalirplay_c697f105:
 
     # m "The app says she's right outside the hotel, are you excited!? I know I am!"
-    m ""
+    m "O aplicativo diz que ela está na frente do hotel, você tá ansioso? Porquê eu tô!"
 
 # game/scripts/kali_events.rpy:6941
 translate pt_br kalirplay_b950e5d9:
 
     # k "*knock knock knock* Pizza!"
-    k ""
+    k "*knock knock knock* Pizza!"
 
 # game/scripts/kali_events.rpy:6943
 translate pt_br kalirplay_8d7585ee:
 
     # m "Oh! She's here! Ahem..."
-    m ""
+    m "Oh! Ela chegou! Ahem..."
 
 # game/scripts/kali_events.rpy:6944
 translate pt_br kalirplay_0f943ea2:
 
     # m "Come in!"
-    m ""
+    m "Pode entrar!"
 
 # game/scripts/kali_events.rpy:6946
 translate pt_br kalirplay_cb865e23:
 
     # k "Hey, order some pizza?"
-    k ""
+    k "Ei, pediram uma pizza?"
 
 # game/scripts/kali_events.rpy:6947
 translate pt_br kalirplay_508021fa:
 
     # m "I did! You're right on time, just put the pizza on the bed."
-    m ""
+    m "Sim! Bem na hora, pode deixar na cama."
 
 # game/scripts/kali_events.rpy:6949
 translate pt_br kalirplay_b14d5696:
 
     # k "The bed...?"
-    k ""
+    k "Na cama...?"
 
 # game/scripts/kali_events.rpy:6950
 translate pt_br kalirplay_5f0ba691:
 
     # k "Why don't I just give it to y-"
-    k ""
+    k "Por que eu não posso só entregar para voc-"
 
 # game/scripts/kali_events.rpy:6952
 translate pt_br kalirplay_1099f008:
 
     # k "-Maria?"
-    k ""
+    k "-Maria?"
 
 # game/scripts/kali_events.rpy:6954
 translate pt_br kalirplay_2b0a7085:
 
     # k "Hmmm!? Nn...?" with ssshake
-    k "" with ssshake
+    k "Hmmm!? Nn...?" with ssshake
 
 # game/scripts/kali_events.rpy:6956
 translate pt_br kalirplay_f306dbe3:
 
     # k "NNNNN!!! MMM!" with ssshake
-    k "" with ssshake
+    k "NNNNN!!! MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6958
 translate pt_br kalirplay_e4d9120f:
 
     # k "HM, MARRIMM! HELMME! MRM!" with ssshake
-    k "" with ssshake
+    k "HM, MARRIMM! SOCRROO! MRM!" with ssshake
 
 # game/scripts/kali_events.rpy:6960
 translate pt_br kalirplay_7cc9e56f:
 
     # k "AAAHMMM!!! NN!" with ssshake
-    k "" with ssshake
+    k "AAAHMMM!!! NN!" with ssshake
 
 # game/scripts/kali_events.rpy:6962
 translate pt_br kalirplay_4a5fbc83:
 
     # k "NNGH! SSSTOMM! MMM!" with ssshake
-    k "" with ssshake
+    k "NNGH! SSSTOMM! MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6964
 translate pt_br kalirplay_a9e00b5e:
 
     # c "Calm down."
-    c ""
+    c "Se acalma."
 
 # game/scripts/kali_events.rpy:6965
 translate pt_br kalirplay_dc5da507:
 
     # k "HMM!? MM!"
-    k ""
+    k "HMM!? MM!"
 
 # game/scripts/kali_events.rpy:6967
 translate pt_br kalirplay_f34d8fef:
 
     # k "MMMM! MARRIMM!!! NNNNM! NN!" with ssshake
-    k "" with ssshake
+    k "MMMM! MARRIMM!!! NNNNM! NN!" with ssshake
 
 # game/scripts/kali_events.rpy:6968
 translate pt_br kalirplay_6cfa2fb0:
 
     # c "Kali!"
-    c ""
+    c "Kali!"
 
 # game/scripts/kali_events.rpy:6970
 translate pt_br kalirplay_a61951a4:
 
     # k "HNN! MM- Nnn? Hmmm!?"
-    k ""
+    k "HNN! MM- Nnn? Hmmm!?"
 
 # game/scripts/kali_events.rpy:6972
 translate pt_br kalirplay_c7357f7a:
 
     # k "[name]!?"
-    k ""
+    k "[name]!?"
 
 # game/scripts/kali_events.rpy:6974
 translate pt_br kalirplay_dab59614:
 
     # k "Ahhh... Hahh... Oh my god... You scared me so much..."
-    k ""
+    k "Ahhh... Hahh... meu deus... você me assustou tanto..."
 
 # game/scripts/kali_events.rpy:6975
 translate pt_br kalirplay_4f8cbcf0:
 
     # k "I thought you were... Nnn... Nevermind..."
-    k ""
+    k "Eu pensei que você estava... nnn... nada..."
 
 # game/scripts/kali_events.rpy:6977
 translate pt_br kalirplay_af7d0666:
 
     # k "Nnn... Actually, now that I know it was you... That was really ho-"
-    k ""
+    k "Nnn... na verdade, agora que eu sei que era você... isso foi muito exci-"
 
 # game/scripts/kali_events.rpy:6979
 translate pt_br kalirplay_5cb0b23c:
 
     # k "MMM!" with ssshake
-    k "" with ssshake
+    k "MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6983
 translate pt_br kalirplay_dd8f8c5f:
 
     # k "Wait, you're tying me up? Why?"
-    k ""
+    k "Espera, você está me amarrando? Por que?"
 
 # game/scripts/kali_events.rpy:6984
 translate pt_br kalirplay_140d437f:
 
     # c "You'll like it more."
-    c ""
+    c "Você vai gostar mais assim."
 
 # game/scripts/kali_events.rpy:6986
 translate pt_br kalirplay_fc855f44:
 
     # k "Like it more...?"
-    k ""
+    k "Gostar mais...?"
 
 # game/scripts/kali_events.rpy:6988
 translate pt_br kalirplay_132553f3:
 
     # k "Nn!" with ssshake
-    k "" with ssshake
+    k "Nn!" with ssshake
 
 # game/scripts/kali_events.rpy:6990
 translate pt_br kalirplay_1f2b91fb:
 
     # k "W-Wait, you're already getting started? I'm not ready y-"
-    k ""
+    k "E-Espera, você já vai começar? Eu não estou pronta aind-"
 
 # game/scripts/kali_events.rpy:6992
 translate pt_br kalirplay_69242bbe:
 
     # k "Nnnhhg!"
-    k ""
+    k "Nnnhhg!"
 
 # game/scripts/kali_events.rpy:6993
 translate pt_br kalirplay_e28d658e:
 
     # c "Then why are you so wet?"
-    c ""
+    c "Então por que você está tão molhada?"
 
 # game/scripts/kali_events.rpy:6994
 translate pt_br kalirplay_0ec0abe7:
 
     # k "Mmmmm~ Hnn..."
-    k ""
+    k "Mmmmm~ Hnn..."
 
 # game/scripts/kali_events.rpy:6997
 translate pt_br kalirplay_07c7fef6:
 
     # k "Ffffmmm! Nggghhh...!"
-    k ""
+    k "Ffffmmm! Nggghhh...!"
 
 # game/scripts/kali_events.rpy:6998
 translate pt_br kalirplay_87fea7f7:
 
     # k "Mnn, nn! Fffkkg, mmm gnna cum! Mmm!"
-    k ""
+    k "Mnn, nn! Fffkkg, mmm vo goza! Mmm!"
 
 # game/scripts/kali_events.rpy:6999
 translate pt_br kalirplay_55f2a2c4:
 
     # k "Fggk! Fggk! FFFFGKK!"
-    k ""
+    k "Fggk! Fggk! FFFFGKK!"
 
 # game/scripts/kali_events.rpy:7001
 translate pt_br kalirplay_5e303604:
 
     # k "MMMMMMMMMMNNNN!!!" with sshake
-    k "" with sshake
+    k "MMMMMMMMMMNNNN!!!" with sshake
 
 # game/scripts/kali_events.rpy:7003
 translate pt_br kalirplay_245ae429:
 
     # k "HNN! HNNN! NNNNN!!!" with sshake
-    k "" with sshake
+    k "HNN! HNNN! NNNNN!!!" with sshake
 
 # game/scripts/kali_events.rpy:7005
 translate pt_br kalirplay_39018eaa:
 
     # k "Ahhh! Hahhh! Hnnn...! Ahhh..."
-    k ""
+    k "Ahhh! Hahhh! Hnnn...! Ahhh..."
 
 # game/scripts/kali_events.rpy:7006
 translate pt_br kalirplay_2fe398a8:
 
     # k "Ahh... Fuck... Fuck... Did... Did I squirt...?"
-    k ""
+    k "Ahh... porra... porra... eu... eu esguichei...?"
 
 # game/scripts/kali_events.rpy:7011
 translate pt_br kalirplay_5e633893:
 
     # k "Wow... Where did that come from...?"
-    k ""
+    k "Wow... por que de tudo isso...?"
 
 # game/scripts/kali_events.rpy:7012
 translate pt_br kalirplay_db738985:
@@ -26560,73 +26560,73 @@ translate pt_br kaliprefetish_d08d3c12:
 translate pt_br kaliprefetish_3ea33ddd:
 
     # c "Maybe I could help her..."
-    c "Talvez eu possa ahud-lá..."
+    c "Talvez eu possa ajuda-lá..."
 
 # game/scripts/kali_events.rpy:7183
 translate pt_br kaliprefetish_194651ed:
 
     # c "I've got an idea..."
-    c "TTenho uma idéia..."
+    c "Tenho uma idéia..."
 
 # game/scripts/kali_events.rpy:7187
 translate pt_br kaliprefetish_6d27d723:
 
     # m "Hey, what's up?"
-    m ""
+    m "Ei, e aí?"
 
 # game/scripts/kali_events.rpy:7189
 translate pt_br kaliprefetish_34b64d5f:
 
     # "You explain everything you saw..."
-    ""
+    "Você explica tudo o que viu..."
 
 # game/scripts/kali_events.rpy:7193
 translate pt_br kaliprefetish_6681aedc:
 
     # m "No way! She really said that?"
-    m ""
+    m "Nem ferrando! Ela realmente disse isso?"
 
 # game/scripts/kali_events.rpy:7194
 translate pt_br kaliprefetish_2808ce73:
 
     # c "Her words exactly."
-    c ""
+    c "Exatamente essas palavras."
 
 # game/scripts/kali_events.rpy:7195
 translate pt_br kaliprefetish_6b2ae1b7:
 
     # m "I never knew she was so dirty!"
-    m ""
+    m "Eu não sabia que ela é tão safada assim!"
 
 # game/scripts/kali_events.rpy:7198
 translate pt_br kaliprefetish_d5664444:
 
     # m "So what's your plan? Why come to me?"
-    m ""
+    m "Então qual é o seu plano? Por que veio até mim?"
 
 # game/scripts/kali_events.rpy:7199
 translate pt_br kaliprefetish_dc7847bc:
 
     # c "I still want her to feel safe, I don't want to terrify her. I was thinking you could order pizza from her while she's at work, and I'll take the rest."
-    c ""
+    c "Eu ainda quero que ela fique segura, não quero aterrorizá-la. Eu estava pensando em você pedir uma pizza em quanto ela está trabalhando, que eu cuido do resto."
 
 # game/scripts/kali_events.rpy:7200
 translate pt_br kaliprefetish_fab35b04:
 
     # m "Sounds like a good plan... But if you want to use my room, then I get to record it!"
-    m ""
+    m "Parece um bom plano... mas se você vai usar o meu quarto, então eu vou ter que gravar isso!"
 
 # game/scripts/kali_events.rpy:7201
 translate pt_br kaliprefetish_a78138bd:
 
     # c "As long as you don't share it online..."
-    c ""
+    c "Contanto que você não publique em nenhum lugar..."
 
 # game/scripts/kali_events.rpy:7204
 translate pt_br kaliprefetish_d8296d4d:
 
     # m "Of course not! Just let me know when you're ready to set this up! Sometime around Noon would be best."
-    m ""
+    m "É claro que não! Me diga quando você estiver pronto! Meio dia seria uma boa."
 
 # game/scripts/kali_events.rpy:7208
 translate pt_br kaliprefetish_b0cf988e:
