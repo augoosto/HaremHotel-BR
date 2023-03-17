@@ -25930,7 +25930,7 @@ translate pt_br kalirplay_dd8f8c5f:
 translate pt_br kalirplay_140d437f:
 
     # c "You'll like it more."
-    c "Você vai gostar mais assim."
+    c "Você vai gostar mais desse jeito."
 
 # game/scripts/kali_events.rpy:6986
 translate pt_br kalirplay_fc855f44:
@@ -26152,7 +26152,7 @@ translate pt_br kalirplay_5288f463:
 translate pt_br kalirplay_6041387d:
 
     # k "N... No more... Please..."
-    k "N... não mais... por favor..."
+    k "C... chega... por favor..."
 
 # game/scripts/kali_events.rpy:7054
 translate pt_br kalirplay_88bceff5:
@@ -26182,13 +26182,13 @@ translate pt_br kalirplay_cad8959a:
 translate pt_br kalirplay_1332adf9:
 
     # k "Wait...!"
-    k "Espera...!"
+    k "Espera..."
 
 # game/scripts/kali_events.rpy:7067
 translate pt_br kalirplay_ecf63373:
 
     # k "AAAH!" with ssshake
-    k "" with ssshake
+    k "AAAH!" with ssshake
 
 # game/scripts/kali_events.rpy:7069
 translate pt_br kalirplay_744e7623:
@@ -26320,37 +26320,37 @@ translate pt_br kalirplay_5288f463_1:
 translate pt_br kalirplay_6041387d_1:
 
     # k "N... No more... Please..."
-    k ""
+    k "C... chega... por favor..."
 
 # game/scripts/kali_events.rpy:7108
 translate pt_br kalirplay_d588ca45:
 
     # k "Wuh... Wait...! You're just... Going to leave...? Ahhh... Aren't you going to say anything?"
-    k ""
+    k "Wuh... espera...! Você só vai sair...? Não vai dizer nada?"
 
 # game/scripts/kali_events.rpy:7109
 translate pt_br kalirplay_d5116ea6_1:
 
     # c "It'd just ruin the fantasy."
-    c ""
+    c "Isso estragaria a fantasia."
 
 # game/scripts/kali_events.rpy:7111
 translate pt_br kalirplay_e2137c5b_1:
 
     # k "...What...?"
-    k ""
+    k "... Que...?"
 
 # game/scripts/kali_events.rpy:7113
 translate pt_br kalirplay_cad8959a_1:
 
     # k "Hnnnn..."
-    k ""
+    k "Hnnnn..."
 
 # game/scripts/kali_events.rpy:7115
 translate pt_br kalirplay_1332adf9_1:
 
     # k "Wait...!"
-    k ""
+    k "Espera..."
 
 # game/scripts/kali_events.rpy:7133
 translate pt_br kaliprefetish_1acbe60d:
@@ -27154,265 +27154,265 @@ translate pt_br kalipapa_b7228bdc:
 translate pt_br kdadsick_69b3084d:
 
     # c "What was that?"
-    c ""
+    c "O que foi isso?"
 
 # game/scripts/kali_events.rpy:7438
 translate pt_br kdadsick_491ffb68:
 
     # c "Sounded like it came from outside..."
-    c ""
+    c "Parece que veio lá de fora..."
 
 # game/scripts/kali_events.rpy:7441
 translate pt_br kdadsick_be54f049:
 
     # pol "Kali Trenero, you need to come with me."
-    pol ""
+    pol "Kali Trenero, você precisa vir comigo."
 
 # game/scripts/kali_events.rpy:7442
 translate pt_br kdadsick_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7444
 translate pt_br kdadsick_f4ff6d8f:
 
     # c "Wha-"
-    c ""
+    c "O qu-"
 
 # game/scripts/kali_events.rpy:7445
 translate pt_br kdadsick_2bfdb602:
 
     # pol "-Step away, sir!"
-    pol ""
+    pol "-Para trás, senhor!"
 
 # game/scripts/kali_events.rpy:7446
 translate pt_br kdadsick_8b78771c:
 
     # k "No, it's fine, he's not going to hurt me."
-    k ""
+    k "Não, tudo bem, ele não vai me machucar."
 
 # game/scripts/kali_events.rpy:7448
 translate pt_br kdadsick_27a6040c:
 
     # pol "Whatever the case may be, your life could be in danger, ma'am."
-    pol ""
+    pol "Não importa, sua vida pode estar em perigo, senhora."
 
 # game/scripts/kali_events.rpy:7449
 translate pt_br kdadsick_bb90c21f:
 
     # k "Why? What happened?"
-    k ""
+    k "Por que? O que aconteceu?"
 
 # game/scripts/kali_events.rpy:7450
 translate pt_br kdadsick_c09b9c70:
 
     # pol "Your father's been attacked. He has requested me to pick you up. The helicopter is waiting outside for you and your sister."
-    pol ""
+    pol "O seu pai sofreu um ataque. Ele me pediu para vir busca-lá. O helicóptero está esperando no lado de fora por você e sua irmã. "
 
 # game/scripts/kali_events.rpy:7452
 translate pt_br kdadsick_40711f28:
 
     # k "Attacked!? What do you mean?"
-    k ""
+    k "Ataque? O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:7453
 translate pt_br kdadsick_329b2687:
 
     # pol "I'm not at liberty to discuss that. My orders were to bring you and your sister home."
-    pol ""
+    pol "Eu não posso descutir sobre isso. Minhas ordems são para buscar você e sua irmã."
 
 # game/scripts/kali_events.rpy:7454
 translate pt_br kdadsick_c01b1fd5:
 
     # c "Can you trust this woman?"
-    c ""
+    c "Você confia nessa mulher?"
 
 # game/scripts/kali_events.rpy:7456
 translate pt_br kdadsick_c9cb6cdd:
 
     # k "She's one of my father's bodyguards, I've known her before I moved out here."
-    k ""
+    k "Ela é uma dos guarda costas do meu pai. Eu conhecia ela desde antes de eu me mudar para cá."
 
 # game/scripts/kali_events.rpy:7457
 translate pt_br kdadsick_7a5bf61d:
 
     # pol "You can take him along if you'd like, but we need to go now."
-    pol ""
+    pol "Você pode levar ele se quiser, mas nós temos que ir agora."
 
 # game/scripts/kali_events.rpy:7458
 translate pt_br kdadsick_baf734f0:
 
     # k "Are you okay with coming [name]?"
-    k ""
+    k "Tudo bem por você [name]?"
 
 # game/scripts/kali_events.rpy:7459
 translate pt_br kdadsick_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:7461
 translate pt_br kdadsick_4f348fb8:
 
     # k "Okay, we'll come. I'll get my sister."
-    k ""
+    k "Ok, já estamos indo. Vou chamar minha irmã."
 
 # game/scripts/kali_events.rpy:7462
 translate pt_br kdadsick_c8207958:
 
     # pol "Please be quick, ma'am."
-    pol ""
+    pol "Por favor seja rápida, senhora."
 
 # game/scripts/kali_events.rpy:7464
 translate pt_br kdadsick_da56e0cc:
 
     # "You've never been in a helicopter before. You weren't sure if it was going to be fun, or scary... In the end, it was neither."
-    ""
+    "Você nunca esteve em um helicóptero antes. Você não tinha certeza se seria divertido, ou assustador... no final, não foi nenhum dos dois."
 
 # game/scripts/kali_events.rpy:7465
 translate pt_br kdadsick_d33eb781:
 
     # "There's a gloomy and serious mood in the air around you as Kali and Lucia worry for their father. You decide to keep quiet and leave them to their thoughts."
-    ""
+    "Há um humor sombrio e sério no ar em sua volta, já que a Kali e a Lucy estão preocupadas com o pai delas. Você decide ficar quieto e deixa-lás divagar em pensamentos."
 
 # game/scripts/kali_events.rpy:7466
 translate pt_br kdadsick_dc2ae21d:
 
     # "Not so long after you board a private jet. What it lacks in size it more than makes up in speed. On the tail of the plane you spot 'Nero Inc.'"
-    ""
+    "Depois de açgum tempo você embarca em um jato privado. Que é pequeno, porém, que compensa em velocidade. Na cauda do avião você vê uma logo marca 'Nero Inc'."
 
 # game/scripts/kali_events.rpy:7467
 translate pt_br kdadsick_72031acf:
 
     # "Soon after, you're surrounded by nothing but clouds and sea. You're headed toward The Capitol, Kali's home town on a continent across the ocean."
-    ""
+    "Em seguida, você está rodeado por nada além de nuvens e o mar. Vocês vão em direção a Capital, a cidade natal da Kali em outro continente através do oceano."
 
 # game/scripts/kali_events.rpy:7468
 translate pt_br kdadsick_d55d921b:
 
     # "Of course, you've been there before. It's where you were born."
-    ""
+    "É claro, você já esteve aqui antes. Foi onde você nasceu."
 
 # game/scripts/kali_events.rpy:7469
 translate pt_br kdadsick_3da0423e:
 
     # "Hours later, you can tell you're close. You've heard the stories. If you were to stand on the edge of the city and look away from it, you would see nothing but cultivated farm land, only coming to an end at the horizon."
-    ""
+    "Horas depois, vocês parecem estar perto. Você já ouviu as histórias. Se você ficar na borda da cidade e olhar para o horizonte, você não veria nada além de fazendas e plantações."
 
 # game/scripts/kali_events.rpy:7470
 translate pt_br kdadsick_6ef8a700:
 
     # "The farm lands that surround the city in every direction are much larger than the city itself. The population that the city holds within must be supported somehow, after all."
-    ""
+    "As fazendas rodeiam a cidade em todas as direções, são muito maiores que a própria cidade. As pessoas que moram na cidade deve ter sua comida vinda de algum lugar afinal."
 
 # game/scripts/kali_events.rpy:7471
 translate pt_br kdadsick_159a9850:
 
     # "The next feature you notice is the web-like network of rivers running through the city meeting at its center, and extending past the city itself onto the farm lands. Man-made or not, it's hard to tell. But it only serves to add to the city's legendary status."
-    ""
+    "A próxima coisa que você nota são os rios que correm através da cidade até o centro como se fosse teias de aranha, se extendendo através da própria cidade até as terras agrícolas. Artificial ou não, é difícil dizer. Mas serve para acrescentar status à lendária cidade."
 
 # game/scripts/kali_events.rpy:7472
 translate pt_br kdadsick_a15748be:
 
     # "But you're not at the edge of the city, you're now directly above the city center. Put simply, it's more of a metropolis than a city."
-    ""
+    "Mas você não está na borda da cidade, você está diretamente acima do centro dela. Na verdade, é mais para uma metropolis que uma simples cidade."
 
 # game/scripts/kali_events.rpy:7473
 translate pt_br kdadsick_f655ff1c:
 
     # "You consider The Capitol's motto. 'The City of Horizons'. Were you flying just above the city skyline, you would see nothing but city up until the horizon cuts it off. But as you see it now, you see a massive city thinly lined with farm land."
-    ""
+    "Você se lembra do lema da Capital. 'A cidade dos horizontes'. Se você estiver voando acima da cidade, você não veria nada além da cidade até o horizonte."
 
 # game/scripts/kali_events.rpy:7474
 translate pt_br kdadsick_68294286:
 
     # "But possibly one of the city's most notable features is its ancient medieval wall. It's a fairly normal wall from the time it was built. Simply meant to keep out invaders wishing to kill some King. But the city has long outgrown it's ancient borders. Now it's nothing more than a part of its history."
-    ""
+    "Mas possivelmente uma das coisas mais notáveis é uma parede medieval antiga. É uma parede razoavelmente normal do tempo que foi construída. Simplesmente para manter fora os invasores desejando matar algum rei. Mas a cidade cresceu muito se comparado a sua versão antiga. Agora não é mais nada do que parte da história."
 
 # game/scripts/kali_events.rpy:7475
 translate pt_br kdadsick_076fbd58:
 
     # "Soon after, the private jet lands. Without much warning, you three are rushed onto yet another helicopter. Now headed directly to one of Kali's father's houses..."
-    ""
+    "Depois de algum tempop o jato pousa. Sem muito aviso, vocês três são colocados em outro helicóptero. Agora em direção a uma das casas do pai da Kali..."
 
 # game/scripts/kali_events.rpy:7477
 translate pt_br kdadsick_cafcaff0:
 
     # lu "I hate The Capitol's heat..."
-    lu ""
+    lu "Eu odeio o calor da Capitol..."
 
 # game/scripts/kali_events.rpy:7479
 translate pt_br kdadsick_50d7e48b:
 
     # k "Is that seriously what you're thinking about right now? Dad could be dying!"
-    k ""
+    k "É sério que você está pensando nisso agora? O pai pode estar morrendo!"
 
 # game/scripts/kali_events.rpy:7480
 translate pt_br kdadsick_9d6c68d5:
 
     # lu "I'm just trying to keep my mind off of it..."
-    lu ""
+    lu "Eu tô só tentando me distrair desse fato..."
 
 # game/scripts/kali_events.rpy:7482
 translate pt_br kdadsick_5575d037:
 
     # pol "With Kali and Lucia's permission, you can come in, sir. But if you cause any trouble, don't be surprised when you find a bullet in your arm."
-    pol ""
+    pol "Com a permissão da Kali e da Lucy você pode entrar, senhor. Mas se você causar algum problema, não se assute quando achar uma bala no seu braço."
 
 # game/scripts/kali_events.rpy:7483
 translate pt_br kdadsick_a4e325e5:
 
     # c "Got it..."
-    c ""
+    c "Saquei..."
 
 # game/scripts/kali_events.rpy:7484
 translate pt_br kdadsick_b8adcb41:
 
     # pol "You'll meet Mrs. Trenero inside, she'll take you to Mr. Trenero."
-    pol ""
+    pol "Vocês se encontrarão com a senhora Trenero, ela as levarão até o senhor Trenero."
 
 # game/scripts/kali_events.rpy:7485
 translate pt_br kdadsick_8b7dd88c:
 
     # lu "Urgh, she's here...?"
-    lu ""
+    lu "Urgh, ela tá aqui...?"
 
 # game/scripts/kali_events.rpy:7486
 translate pt_br kdadsick_9f776518:
 
     # k "I'd be surprised if she wasn't... She's Dad's new wife..."
-    k ""
+    k "Eu estaria surpresa se não estivesse... Ela é a nova esposa do pai..."
 
 # game/scripts/kali_events.rpy:7488
 translate pt_br kdadsick_e306af85:
 
     # k "It's been so long since I've been to this house..."
-    k ""
+    k "Faz tanto tempo desde que eu estive nessa casa..."
 
 # game/scripts/kali_events.rpy:7489
 translate pt_br kdadsick_98cd6880:
 
     # lu "I like the city-center one more."
-    lu ""
+    lu "Prefiro o centro da cidade."
 
 # game/scripts/kali_events.rpy:7491
 translate pt_br kdadsick_de6cfcc6:
 
     # k "Who's that?"
-    k ""
+    k "Quem é aquela?"
 
 # game/scripts/kali_events.rpy:7492
 translate pt_br kdadsick_b086ec4c:
 
     # lu "Dad's whore..."
-    lu ""
+    lu "A puta do pai..."
 
 # game/scripts/kali_events.rpy:7493
 translate pt_br kdadsick_10976353:
 
     # k "Dad's new wife?"
-    k ""
+    k "A nova esposa do pai você quer dizer?"
 
 # game/scripts/kali_events.rpy:7494
 translate pt_br kdadsick_784204fe:
