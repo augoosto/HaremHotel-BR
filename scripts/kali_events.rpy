@@ -26014,175 +26014,175 @@ translate pt_br kalirplay_2fe398a8:
 translate pt_br kalirplay_5e633893:
 
     # k "Wow... Where did that come from...?"
-    k "Wow... por que de tudo isso...?"
+    k "Wow... qual o motivo de tudo isso...?"
 
 # game/scripts/kali_events.rpy:7012
 translate pt_br kalirplay_db738985:
 
     # c "We're not done yet..."
-    c ""
+    c "Nós ainda não terminamos..."
 
 # game/scripts/kali_events.rpy:7014
 translate pt_br kalirplay_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7017
 translate pt_br kalirplay_84d35ee5:
 
     # k "FUCK!" with ssshake
-    k "" with ssshake
+    k "PORRA!" with ssshake
 
 # game/scripts/kali_events.rpy:7019
 translate pt_br kalirplay_689920c3:
 
     # k "Wait! Wait!"
-    k ""
+    k "Espera! Espera!"
 
 # game/scripts/kali_events.rpy:7021
 translate pt_br kalirplay_5052f102:
 
     # k "NNNNNN!!!" with ssshake
-    k "" with ssshake
+    k "NNNNNN!!!" with ssshake
 
 # game/scripts/kali_events.rpy:7023
 translate pt_br kalirplay_551bfdf3:
 
     # k "Fuck, fuck! AHH!" with ssshake
-    k "" with ssshake
+    k "Porra, porrra! AHH!" with ssshake
 
 # game/scripts/kali_events.rpy:7024
 translate pt_br kalirplay_0c480a4f:
 
     # k "NNNGHHAAAAH!!!" with sshake
-    k "" with sshake
+    k "NNNGHHAAAAH!!!" with sshake
 
 # game/scripts/kali_events.rpy:7025
 translate pt_br kalirplay_65ba5a5d:
 
     # k "[name]! Damn it! I'm too sensitive! I just came! FUCK!"
-    k ""
+    k "[name]! Droga! Eu sou muito sensível! Eu gozei! PORRA!"
 
 # game/scripts/kali_events.rpy:7026
 translate pt_br kalirplay_d8848f71:
 
     # k "Please, wait! NN! FUCK! I can't stop CUMMING!"
-    k ""
+    k "Por favor, espera! NN! PORRA! Eu ainda tô GOZANDO!"
 
 # game/scripts/kali_events.rpy:7027
 translate pt_br kalirplay_5eed34a7:
 
     # k "AAAAAAAH! AGHH!" with ssshake
-    k "" with ssshake
+    k "AAAAAAAH! AGHH!" with ssshake
 
 # game/scripts/kali_events.rpy:7032
 translate pt_br kalirplay_2183d872:
 
     # a "Looks like it hurts..."
-    a ""
+    a "Parece que isso dói..."
 
 # game/scripts/kali_events.rpy:7033
 translate pt_br kalirplay_c773a679:
 
     # m "Apparently she likes it that way."
-    m ""
+    m "Aparentemente ela gosta assim."
 
 # game/scripts/kali_events.rpy:7034
 translate pt_br kalirplay_4cd5a064:
 
     # a "She looks so cute when she's in pain!"
-    a ""
+    a "Ela é tão fofa quando está com dor!"
 
 # game/scripts/kali_events.rpy:7035
 translate pt_br kalirplay_3d70c1af:
 
     # m "Ashley..."
-    m ""
+    m "Ashley..."
 
 # game/scripts/kali_events.rpy:7038
 translate pt_br kalirplay_7d032aab:
 
     # k "HNN! OH MY GOD! OH MY GOD! YOU'RE STILL GOING!"
-    k ""
+    k "HNN! MEU DEUS! MEU DEUS! VOCÊ AINDA TÁ INDO!"
 
 # game/scripts/kali_events.rpy:7039
 translate pt_br kalirplay_2f1627ed:
 
     # k "GOD, FUCK! DAMN IT! FUCK!!! SHIT!"
-    k ""
+    k "DEUS, PORRA! DROGA! PORRA!!! MERDA!"
 
 # game/scripts/kali_events.rpy:7040
 translate pt_br kalirplay_d876ec4d:
 
     # k "FUCKKK! [name]! AAAAAAAH!!! FUCK! FUCKING, FUCK!"
-    k ""
+    k "PORRAAA! [name]! AAAAAAAH!!! PORRA! PORRA PORRA!"
 
 # game/scripts/kali_events.rpy:7042
 translate pt_br kalirplay_6b16eab1:
 
     # k "AGHN!" with ssshake
-    k "" with ssshake
+    k "AGHN!" with ssshake
 
 # game/scripts/kali_events.rpy:7044
 translate pt_br kalirplay_92b7d2d2:
 
     # k "*gasp*! FUCK! You're cumming!?" with ssshake
-    k "" with ssshake
+    k "*ofegante*! PORRA! Você tá gozando!?" with ssshake
 
 # game/scripts/kali_events.rpy:7046
 translate pt_br kalirplay_d9693be3:
 
     # k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
-    k "" with ssshake
+    k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
 
 # game/scripts/kali_events.rpy:7049
 translate pt_br kalirplay_912493f7:
 
     # k "Nnnnghh..." with ssshake
-    k "" with ssshake
+    k "Nnnnghh..." with ssshake
 
 # game/scripts/kali_events.rpy:7051
 translate pt_br kalirplay_5288f463:
 
     # k "Aaa-aahh... [name]... S-Still... C-Cumming... Nnngggh..."
-    k ""
+    k "Aaa-aahh... [name]... A-Ainda... G-Gozando... Nnngggh..."
 
 # game/scripts/kali_events.rpy:7052
 translate pt_br kalirplay_6041387d:
 
     # k "N... No more... Please..."
-    k ""
+    k "N... não mais... por favor..."
 
 # game/scripts/kali_events.rpy:7054
 translate pt_br kalirplay_88bceff5:
 
     # k "Wuh... Wait...! You're just going to leave...? Aren't you going to say anything?"
-    k ""
+    k "Wuh... espera...! Você só vai sair...? Não vai dizer nada?"
 
 # game/scripts/kali_events.rpy:7055
 translate pt_br kalirplay_d5116ea6:
 
     # c "It'd just ruin the fantasy."
-    c ""
+    c "Isso estragaria a fantasia."
 
 # game/scripts/kali_events.rpy:7057
 translate pt_br kalirplay_e2137c5b:
 
     # k "...What...?"
-    k ""
+    k "... Que...?"
 
 # game/scripts/kali_events.rpy:7059
 translate pt_br kalirplay_cad8959a:
 
     # k "Hnnnn..."
-    k ""
+    k "Hnnnn..."
 
 # game/scripts/kali_events.rpy:7061
 translate pt_br kalirplay_1332adf9:
 
     # k "Wait...!"
-    k ""
+    k "Espera...!"
 
 # game/scripts/kali_events.rpy:7067
 translate pt_br kalirplay_ecf63373:
@@ -26194,127 +26194,127 @@ translate pt_br kalirplay_ecf63373:
 translate pt_br kalirplay_744e7623:
 
     # k "Fuck... You're being really rough [name]..."
-    k ""
+    k "Porra... você está sendo muito bruto [name]..."
 
 # game/scripts/kali_events.rpy:7071
 translate pt_br kalirplay_b15f9d5d:
 
     # k "NNNNNN!!! AAAAAAAAAAH!" with ssshake
-    k "" with ssshake
+    k "NNNNNN!!! AAAAAAAAAAH!" with ssshake
 
 # game/scripts/kali_events.rpy:7073
 translate pt_br kalirplay_708fa6a1:
 
     # k "FUCK! MY ASS!? OH MY GOD!" with ssshake
-    k "" with ssshake
+    k "PORRA! MINHA BUNDA!? MEU DEUS!" with ssshake
 
 # game/scripts/kali_events.rpy:7074
 translate pt_br kalirplay_8f252aae:
 
     # k "SHIT! AH! SLOW DOWN! FUCK!"
-    k ""
+    k "MERDA! AH! MAI DEVAGAR! PORRA!"
 
 # game/scripts/kali_events.rpy:7075
 translate pt_br kalirplay_b8e45485:
 
     # k "NNNGHHAAAAH!!!"
-    k ""
+    k "NNNGHHAAAAH!!!"
 
 # game/scripts/kali_events.rpy:7078
 translate pt_br kalirplay_2f1627ed_1:
 
     # k "GOD, FUCK! DAMN IT! FUCK!!! SHIT!"
-    k ""
+    k "DEUS, PORRA! DROGA! PORRA!!!! MERDA!"
 
 # game/scripts/kali_events.rpy:7079
 translate pt_br kalirplay_5d28f2b3:
 
     # k "Nnn! Wait! [name] you're too rough! FUCK!"
-    k ""
+    k "Nnn! Espera! [name] tá muito bruto! PORRA!"
 
 # game/scripts/kali_events.rpy:7080
 translate pt_br kalirplay_a334f7df:
 
     # k "Please, wait! NN! FUCK! I can't- NGH, FUCK!"
-    k ""
+    k "Por favor, espera! NN! PORRA! Eu não po- NGH, PORRA!"
 
 # game/scripts/kali_events.rpy:7081
 translate pt_br kalirplay_a3703209:
 
     # k "NNN, C-CUMMING! FUCK!"
-    k ""
+    k "NNN, G-GOZANDO! PORRA!"
 
 # game/scripts/kali_events.rpy:7082
 translate pt_br kalirplay_f296d191:
 
     # k "NNNNNNNNNNAAAAAHHHHHH!!!" with ssshake
-    k "" with ssshake
+    k "NNNNNNNNNNAAAAAHHHHHH!!!" with ssshake
 
 # game/scripts/kali_events.rpy:7087
 translate pt_br kalirplay_2183d872_1:
 
     # a "Looks like it hurts..."
-    a ""
+    a "Parece que isso dói..."
 
 # game/scripts/kali_events.rpy:7088
 translate pt_br kalirplay_c773a679_1:
 
     # m "Apparently she likes it that way."
-    m ""
+    m "Aparentemente ela gosta assim."
 
 # game/scripts/kali_events.rpy:7089
 translate pt_br kalirplay_4cd5a064_1:
 
     # a "She looks so cute when she's in pain!"
-    a ""
+    a "Ela é tão fofa quando está com dor!"
 
 # game/scripts/kali_events.rpy:7090
 translate pt_br kalirplay_3d70c1af_1:
 
     # m "Ashley..."
-    m ""
+    m "Ashley..."
 
 # game/scripts/kali_events.rpy:7093
 translate pt_br kalirplay_7d032aab_1:
 
     # k "HNN! OH MY GOD! OH MY GOD! YOU'RE STILL GOING!"
-    k ""
+    k "HNN! MEU DEUS! MEU DEUS! VOCÊ AINDA TÁ INDO!"
 
 # game/scripts/kali_events.rpy:7094
 translate pt_br kalirplay_d876ec4d_1:
 
     # k "FUCKKK! [name]! AAAAAAAH!!! FUCK! FUCKING, FUCK!"
-    k ""
+    k "PORRAAA! [name]! AAAAAAAH!!! PORRA! PORRA PORRA!"
 
 # game/scripts/kali_events.rpy:7096
 translate pt_br kalirplay_6b16eab1_1:
 
     # k "AGHN!" with ssshake
-    k "" with ssshake
+    k "AGHN!" with ssshake
 
 # game/scripts/kali_events.rpy:7098
 translate pt_br kalirplay_92b7d2d2_1:
 
     # k "*gasp*! FUCK! You're cumming!?" with ssshake
-    k "" with ssshake
+    k "*ofegante*! PORRA! Você tá gozando!?" with ssshake
 
 # game/scripts/kali_events.rpy:7100
 translate pt_br kalirplay_d9693be3_1:
 
     # k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
-    k "" with ssshake
+    k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
 
 # game/scripts/kali_events.rpy:7103
 translate pt_br kalirplay_912493f7_1:
 
     # k "Nnnnghh..." with ssshake
-    k "" with ssshake
+    k "Nnnnghh..." with ssshake
 
 # game/scripts/kali_events.rpy:7105
 translate pt_br kalirplay_5288f463_1:
 
     # k "Aaa-aahh... [name]... S-Still... C-Cumming... Nnngggh..."
-    k ""
+    k "Aaa-aahh... [name]... a-ainda... g-gozando... Nnngggh..."
 
 # game/scripts/kali_events.rpy:7106
 translate pt_br kalirplay_6041387d_1:
