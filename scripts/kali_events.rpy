@@ -27418,301 +27418,301 @@ translate pt_br kdadsick_10976353:
 translate pt_br kdadsick_784204fe:
 
     # lu "Yep. Saw her ass naked on top of Dad..."
-    lu ""
+    lu "Isso aí, eu vi ela pelada em cima do pai..."
 
 # game/scripts/kali_events.rpy:7495
 translate pt_br kdadsick_c207a11e:
 
     # k "I didn't need to know that... Let's go meet her, I guess..."
-    k ""
+    k "Eu não precisava saber disso... vamos ir dizer oi, eu acho..."
 
 # game/scripts/kali_events.rpy:7497
 translate pt_br kdadsick_fbf0f283:
 
     # q "Good evening everyone... I wasn't expecting a man?"
-    q ""
+    q "Boa tarde todo mundo... eu não esperava ver um homem junto?"
 
 # game/scripts/kali_events.rpy:7498
 translate pt_br kdadsick_1b2bdf3c:
 
     # k "He's my boyfriend."
-    k ""
+    k "Ele é o meu namorado."
 
 # game/scripts/kali_events.rpy:7499
 translate pt_br kdadsick_6c15e757:
 
     # q "I see..."
-    q ""
+    q "Entendo..."
 
 # game/scripts/kali_events.rpy:7500
 translate pt_br kdadsick_83b4061a:
 
     # mari "My name is Mariella, it's good to meet you, Mr...?"
-    mari ""
+    mari "Me chamo Mariella, é um prazer te conhecer, senhor...?"
 
 # game/scripts/kali_events.rpy:7501
 translate pt_br kdadsick_41a96064:
 
     # c "[name]... Are you an elf?"
-    c ""
+    c "[name]... você é uma elfa?"
 
 # game/scripts/kali_events.rpy:7502
 translate pt_br kdadsick_6cebc649:
 
     # k "Wait, she does have pointy ears... But she doesn't look like an Elf..."
-    k ""
+    k "Espera, você tem orelhas pontudas... mas não se parece com um elfo..."
 
 # game/scripts/kali_events.rpy:7503
 translate pt_br kdadsick_0cc04bee:
 
     # lu "I've never been this close to her..."
-    lu ""
+    lu "Eu nunca estive tão perto dela..."
 
 # game/scripts/kali_events.rpy:7504
 translate pt_br kdadsick_eec692d3:
 
     # mari "I'm a half elf, yes... half common."
-    mari ""
+    mari "Eu sou uma mestiça de elfo, na verdade... meia elfa."
 
 # game/scripts/kali_events.rpy:7505
 translate pt_br kdadsick_b3170aa7:
 
     # k "Isn't it illegal for you to be here?"
-    k ""
+    k "Não é ilegal você estar aqui?"
 
 # game/scripts/kali_events.rpy:7507
 translate pt_br kdadsick_472afdb0:
 
     # mari "That's not a nice way to greet your step mother for the first time..."
-    mari ""
+    mari "Isso não é uma coisa legal de se dizer logo depois de conhecer sua madrasta..."
 
 # game/scripts/kali_events.rpy:7508
 translate pt_br kdadsick_f613e5df:
 
     # k "I just thought elves couldn't leave Syl'anar."
-    k ""
+    k "Eu só tava pensando que os elfos não podiam sair de Syl'anar."
 
 # game/scripts/kali_events.rpy:7509
 translate pt_br kdadsick_b8f20640:
 
     # mari "I suppose you could say I'm a gift from Mr. Cornwall..."
-    mari ""
+    mari "Pode-se dizer que eu sou um presento para o senhor Cornwall..."
 
 # game/scripts/kali_events.rpy:7510
 translate pt_br kdadsick_6d46380e:
 
     # k "So you're my Dad's slave...?"
-    k ""
+    k "Então você é a escrava do meu pai...?"
 
 # game/scripts/kali_events.rpy:7511
 translate pt_br kdadsick_dcbb621a:
 
     # mari "No, I'm a free woman now, I chose to marry your father."
-    mari ""
+    mari "Não, eu sou uma mulher livre agora, eu escolhi casar com o seu pai."
 
 # game/scripts/kali_events.rpy:7512
 translate pt_br kdadsick_4d5cbcf8:
 
     # c "A free Elf..."
-    c ""
+    c "Um elfo livre..."
 
 # game/scripts/kali_events.rpy:7514
 translate pt_br kdadsick_e90cc972:
 
     # mari "A half elf no less, even more rare. Hahaha..."
-    mari ""
+    mari "Um meio elfo nada menos, só é mais raro. Hahaha..."
 
 # game/scripts/kali_events.rpy:7515
 translate pt_br kdadsick_9f676865:
 
     # mari "Seeing as you're a man from Syl'anar, I do hope you aren't keeping any slaves? There's quite the disdain for slavers here..."
-    mari ""
+    mari "Bem, vendo que você é um homem de Syl'anar, eu espero que você não esteja mantendo nenhum escravo? Há um grande desdém pelos escravitas por aqui..."
 
 # game/scripts/kali_events.rpy:7516
 translate pt_br kdadsick_38eea8d6:
 
     # k "No, he's not."
-    k ""
+    k "Não, ele não é."
 
 # game/scripts/kali_events.rpy:7517
 translate pt_br kdadsick_e3cd0cd7:
 
     # mari "Good to hear..."
-    mari ""
+    mari "Bom saber..."
 
 # game/scripts/kali_events.rpy:7518
 translate pt_br kdadsick_97cdc62a:
 
     # mari "But I know you're thinking it. I'm 315. We live half as a long as elves, and 7 times longer than humans."
-    mari ""
+    mari "Mas eu sei que você estar pensando. Eu tenhos 315 anos, nós meio elfos vivemos a metade de anos que os elfos, e 7 vezes mais que os humanos."  
 
 # game/scripts/kali_events.rpy:7519
 translate pt_br kdadsick_75e05d79:
 
     # lu "Makes a good whore to look young forever..."
-    lu ""
+    lu "Dá uma boa puta, parecer jovem para sempre..."
 
 # game/scripts/kali_events.rpy:7521
 translate pt_br kdadsick_fa43f6be:
 
     # mari "Is this really a good time to bicker when your father was just shot?"
-    mari ""
+    mari "Esse é realmente um bom momento para discussões, justo quando seu pai acabou de ser baleado?"
 
 # game/scripts/kali_events.rpy:7523
 translate pt_br kdadsick_5e248c07:
 
     # k "SHOT!?" with ssshake
-    k "" with ssshake
+    k "BALEADO!?" with ssshake
 
 # game/scripts/kali_events.rpy:7524
 translate pt_br kdadsick_18419038:
 
     # mari "Just a leg injury, dear. He will be perfectly fine."
-    mari ""
+    mari "Foi na perna, querida. Ele estará perfeitamente bem logo."
 
 # game/scripts/kali_events.rpy:7525
 translate pt_br kdadsick_6f35a1f2:
 
     # k "If people are trying to kill him, he will not be perfectly fine! He's in danger!"
-    k ""
+    k "Se há pessoas tentando o matar, ele não estará perfeitamente bem! Ele está em perigo!"
 
 # game/scripts/kali_events.rpy:7526
 translate pt_br kdadsick_7974f197:
 
     # c "Who would try to kill him?"
-    c ""
+    c "Quem iria querer matá-lo?"
 
 # game/scripts/kali_events.rpy:7528
 translate pt_br kdadsick_577fbb54:
 
     # mari "Political opponents, financial opponents, who knows? He's one of the richest men in the world. He holds a power many would love to steal."
-    mari ""
+    mari "Opositores políticos, adversários financeiros, quem sabe? Ele é um dos homens mais ricos do mundo. Ele tem poder, e muitos tentariam tirar isso dele."
 
 # game/scripts/kali_events.rpy:7530
 translate pt_br kdadsick_61c22c51:
 
     # k "So he hasn't been caught?"
-    k ""
+    k "Então ele não foi pego?"
 
 # game/scripts/kali_events.rpy:7531
 translate pt_br kdadsick_be149b5f:
 
     # mari "He has not. That's why you were rushed over here, your lives could be in danger too. It only happened this morning. Or, last night for you."
-    mari ""
+    mari "Não, não foi. E é por isso que agente trouxe vocês aqui, suas vidas também podem estar em perio. Aconteceu nessa manhã. Ou, no caso de vocês, na última noite."
 
 # game/scripts/kali_events.rpy:7532
 translate pt_br kdadsick_04dd0803:
 
     # mari "Seeing as they shot his leg, the shooter was either a bad shot, or not aiming to kill. If the case is that they're not trying to murder your father, you two could easily be kidnapped and ransomed."
-    mari ""
+    mari "Como o tiro pegou na perna, o atirador poderia ou ser ruim, ou não queria matá-lo. E se esse é o caso eles não estão querendo assasinar seu pai, vocês duas poderiam ser facilmente sequestradas."
 
 # game/scripts/kali_events.rpy:7533
 translate pt_br kdadsick_1d6522af:
 
     # k "You really think anyone knows where I live? Or even go as far as Syl'anar to capture me?"
-    k ""
+    k "Você realmete acha que alguém sabe onde eu moro? Ou até mesmo iria tão longe de Syl'anar para me capturar?"
 
 # game/scripts/kali_events.rpy:7534
 translate pt_br kdadsick_dbf26833:
 
     # mari "Do you know how much someone could ransom you for, dear? Billions. The wrong person would chase you to the ends of the earth."
-    mari ""
+    mari "Sabe por quanto eles pediriam por seu resgate, querida? Bilhões. A pessoa errada iria te procurar até o fim do mundo."
 
 # game/scripts/kali_events.rpy:7535
 translate pt_br kdadsick_bb786147:
 
     # k "Good point..."
-    k ""
+    k "Bom ponto..."
 
 # game/scripts/kali_events.rpy:7537
 translate pt_br kdadsick_5c12d4ca:
 
     # mari "Come now, let's see your Father, shall we?"
-    mari ""
+    mari "Vem, vamos ir ver o seu pai, sim?"
 
 # game/scripts/kali_events.rpy:7539
 translate pt_br kdadsick_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/kali_events.rpy:7541
 translate pt_br kdadsick_b5540d4c:
 
     # lu "{i}SHE'S TOTALLY IN ON IT!{/i}"
-    lu ""
+    lu "{i}ELA ESTÁ COM CERTEZA METIDA NISTO!{/i}"
 
 # game/scripts/kali_events.rpy:7542
 translate pt_br kdadsick_93334484_1:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7544
 translate pt_br kdadsick_6c2f867d:
 
     # lu "I can't be the only one that notices!?"
-    lu ""
+    lu "Eu não posso ser a única que notou!?"
 
 # game/scripts/kali_events.rpy:7545
 translate pt_br kdadsick_0ca52f6b:
 
     # k "What are you talking about?"
-    k ""
+    k "Do que você está falando?"
 
 # game/scripts/kali_events.rpy:7546
 translate pt_br kdadsick_0f1f8581:
 
     # lu "She said it herself! 'There's quite the disdain for slavers here'!"
-    lu ""
+    lu "Ela mesmo disse! 'Há um grande desdém pelos escravitas por aqui'!"
 
 # game/scripts/kali_events.rpy:7547
 translate pt_br kdadsick_235bd1fa:
 
     # k "Dad doesn't own any Elves..."
-    k ""
+    k "O pai não tem nenhum elfo..."
 
 # game/scripts/kali_events.rpy:7548
 translate pt_br kdadsick_b21c69fc:
 
     # lu "No, but he's heavily invested in Cornwall's company! Think about it!"
-    lu ""
+    lu "Não, mas ele ivestiu imensamente na empresa do Cornwall! Pensa nisso!"
 
 # game/scripts/kali_events.rpy:7549
 translate pt_br kdadsick_fe531f31:
 
     # lu "Cornwall controls the whole Elvish slavery thing! Without our father's financial support, he wouldn't be able to control the whole population!"
-    lu ""
+    lu "Cornwall controla todo o mercado de escravos! Sem o apoio financeiro do nosso pai, ele não seria capaz de controlar a população inteira!"
 
 # game/scripts/kali_events.rpy:7551
 translate pt_br kdadsick_8e9e53ea:
 
     # k "Oh... Oh shit, you might be right..."
-    k ""
+    k "Oh... merda, você pode estar certa..."
 
 # game/scripts/kali_events.rpy:7552
 translate pt_br kdadsick_054bc37e:
 
     # c "Seems pretty obvious, doesn't it?"
-    c ""
+    c "Parece bem óvio, não?"
 
 # game/scripts/kali_events.rpy:7554
 translate pt_br kdadsick_eafb5b7d:
 
     # lu "You mean it makes sense!?"
-    lu ""
+    lu "Quer dizer que faz sentido, não!?"
 
 # game/scripts/kali_events.rpy:7555
 translate pt_br kdadsick_5e4ff86f:
 
     # k "That's true, too many people would expect her to be a part of it anyway. Even if she did want to hurt him, there's cameras everywhere here... Even the phone lines are monitored."
-    k ""
+    k "Verdade, muitas pessoas achariam que ela tem algo a ver de qualquer forma. Mesmo se ela não quissese machucá-lo, há camerâs por toda parte aqui... até as linhas de telefone são monitoradas."
 
 # game/scripts/kali_events.rpy:7557
 translate pt_br kdadsick_e9706f2f:
 
     # lu "Then she's using mail!"
-    lu ""
+    lu "Então ela está usando e-mail!"
 
 # game/scripts/kali_events.rpy:7558
 translate pt_br kdadsick_22f152cc:
