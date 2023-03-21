@@ -28318,31 +28318,31 @@ translate pt_br kdadsick_357af3a4:
 translate pt_br kdadsick_5e0eca1d:
 
     # k "Come on, let's go back home."
-    k ""
+    k "Vem, vamos voltar."
 
 # game/scripts/kali_events.rpy:7683
 translate pt_br kdadsick_9f39e053:
 
     # lu "You don't want to stay for a couple days...? When was the last time you visited The Capitol?"
-    lu ""
+    lu "Você não quer ficar por alguns dias...? Quando foi a última vez que você esteve aqui?"
 
 # game/scripts/kali_events.rpy:7685
 translate pt_br kdadsick_812841e6:
 
     # k "No, I don't want to stay here any longer than I need to. I still need to go to work."
-    k ""
+    k "Não, eu não quero ficar aqui por mais tempo do que eu preciso. Eu ainda preciso ir para o meu emprego."
 
 # game/scripts/kali_events.rpy:7686
 translate pt_br kdadsick_ae9072e7:
 
     # lu "What...?"
-    lu ""
+    lu "Que...?"
 
 # game/scripts/kali_events.rpy:7688
 translate pt_br kdadsick_54aed23b:
 
     # k "Can we go now?"
-    k ""
+    k "Já podemos ir agora?"
 
 # game/scripts/kali_events.rpy:7689
 translate pt_br kdadsick_c48dc32f:
@@ -28354,271 +28354,271 @@ translate pt_br kdadsick_c48dc32f:
 translate pt_br kdadsick_e6a07189:
 
     # mari "Mr. [name], may I speak with you?"
-    mari ""
+    mari "Senhor [name], posso falar com você?"
 
 # game/scripts/kali_events.rpy:7695
 translate pt_br kdadsick_5d5b37b2:
 
     # mari "I want you to use that money for good."
-    mari ""
+    mari "Eu quero que você use aquele dinheiro para o bem."
 
 # game/scripts/kali_events.rpy:7696
 translate pt_br kdadsick_63f41264:
 
     # c "You know about the money?"
-    c ""
+    c "Você sabe sobre o dinheiro?"
 
 # game/scripts/kali_events.rpy:7697
 translate pt_br kdadsick_83bb21e0:
 
     # mari "I brought it up to my husband and he agreed."
-    mari ""
+    mari "Eu convenci meu marido a lhe dar o dinheiro."
 
 # game/scripts/kali_events.rpy:7698
 translate pt_br kdadsick_f5d33c4c:
 
     # mari "I know you said you weren't a slaver, but I want you to become one."
-    mari ""
+    mari "Você me disse que não era um escravagista, mas eu quero que se torne um."
 
 # game/scripts/kali_events.rpy:7699
 translate pt_br kdadsick_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Como assim?"
 
 # game/scripts/kali_events.rpy:7700
 translate pt_br kdadsick_c6a7d6d1:
 
     # mari "$10,000 is a lot of money, [name]. It could buy you a small house."
-    mari ""
+    mari "$10.000 é bastante dinheiro, [name]. Você poderia comprar uma casa pequena."
 
 # game/scripts/kali_events.rpy:7701
 translate pt_br kdadsick_dad054c8:
 
     # mari "What I'm saying is, consider saving some elves. There's much I want to do to help the slavery problem in your country, but little I can from here."
-    mari ""
+    mari "Oque eu estou dizendo é, considere salvar alguns escravos. Há bastante coisa que eu quero fazer para ajudar com o problema da escravização no seu país, mas eu posso fazer pouca coisa daqui."
 
 # game/scripts/kali_events.rpy:7702
 translate pt_br kdadsick_2cc0f1a4:
 
     # mari "If you just buy some elves, and give them a good life, a good free one, that would make me very happy. Or at least as free as the system allows."
-    mari ""
+    mari "Se você apenas comprar alguns escravos, e dar a eles uma vida boa, uma vida livre, isso me faria muito feliz. Ou pelo menos livre dentro do que o sistema permite."
 
 # game/scripts/kali_events.rpy:7703
 translate pt_br kdadsick_85ed5660:
 
     # c "You want me to build an adoption center?"
-    c ""
+    c "Você quer que eu construa um centro de adoção?"
 
 # game/scripts/kali_events.rpy:7705
 translate pt_br kdadsick_3520e32c:
 
     # mari "An adoption center... That's funny."
-    mari ""
+    mari "Centro de adoção... engraçado."
 
 # game/scripts/kali_events.rpy:7707
 translate pt_br kdadsick_54f4cb3b:
 
     # mari "It would be better than the government owning them, and better than some pig."
-    mari ""
+    mari "Seria melhor que o governo cuidando deles, ou algum porco."
 
 # game/scripts/kali_events.rpy:7708
 translate pt_br kdadsick_e1ebcc56:
 
     # mari "Plus, it's completely legal to own as many elves as you'd like. You could even build a whole city where elves can roam free of their masters and trade by themselves."
-    mari ""
+    mari "E também, é completamente legal de manter quantos escravos você quiser. Você poderia até mesmo construir uma cidade inteira onde os elfos podem andar livremente dos mestres e proprietários."
 
 # game/scripts/kali_events.rpy:7709
 translate pt_br kdadsick_62637b4b:
 
     # c "That's pretty ambitious."
-    c ""
+    c "Isso é bastante ambicioso."
 
 # game/scripts/kali_events.rpy:7711
 translate pt_br kdadsick_35ca990d:
 
     # mari "It's always good to dream of a better world, Mr. [name]."
-    mari ""
+    mari "É sempre bom sonhar com um mundo melhor, senhor [name]."
 
 # game/scripts/kali_events.rpy:7713
 translate pt_br kdadsick_49e5ed7a:
 
     # mari "Sorry for keeping you waiting, Mr. [name]. Would you like anything before you leave? Some water maybe?"
-    mari ""
+    mari "Desculpa por te segurar, senhor [name]. Você gostaria de alguma coisa antes de sair? Água talvez?"
 
 # game/scripts/kali_events.rpy:7716
 translate pt_br mariellaquestion_b2187a22:
 
     # mari "Want to know more, then?"
-    mari ""
+    mari "Você quer saber mais então?"
 
 # game/scripts/kali_events.rpy:7717
 translate pt_br mariellaquestion_9d9fb6df:
 
     # c "I do."
-    c ""
+    c "Isso."
 
 # game/scripts/kali_events.rpy:7719
 translate pt_br mariellaquestion_2798ef27:
 
     # mari "In Syl'anar, half elves have no rights. They're seen as an abomination."
-    mari ""
+    mari "Em Syl'anar, meio-elfos não tem direitos. Eles são vistos como abominações."
 
 # game/scripts/kali_events.rpy:7720
 translate pt_br mariellaquestion_906775b3:
 
     # mari "We sell for a lot because of that. Some would even breed elves for the purpose of selling half elves."
-    mari ""
+    mari "Nós somos vendidos bastante por causa disso. Alguns até mesmo engravidariam elfos com o propósito de vender mestiços."
 
 # game/scripts/kali_events.rpy:7722
 translate pt_br mariellaquestion_4c4aa770:
 
     # mari "Every day I wake up happy knowing I am where I am."
-    mari ""
+    mari "Todo dia eu acordo feliz sabendo que eu estou aonde estou."
 
 # game/scripts/kali_events.rpy:7724
 translate pt_br mariellaquestion_f5c62ed1:
 
     # mari "Half elves can live a human's life though, if the doctor is willing to break the law, he could.... 'circumcise'... A half elf's ears."
-    mari ""
+    mari "Porém os meio-elfos podem viver junto com os humanos, se um médico estiver disposto a quebrar a lei, ele poderia... 'circuncisar'... a orelha de um mestiço."
 
 # game/scripts/kali_events.rpy:7725
 translate pt_br mariellaquestion_0c23bc4b:
 
     # c "You mean cut the tips off?"
-    c ""
+    c "Você quer dizer cortar as pontas?"
 
 # game/scripts/kali_events.rpy:7727
 translate pt_br mariellaquestion_8a3e81f7:
 
     # mari "Exactly. Nobody would be able to tell without performing DNA tests. Anyone below 25 percent Elvish DNA is considered a Human, and at least half of the population in Syl'anar has some elvish DNA in them."
-    mari ""
+    mari "Exatamente. Ninguém poderia dizer sem teste de DNA. Qualquer um com menos de 25 por cento de DNA élfico é considerado humano, pelo menos metade da população de Syl'anar tem um pouco de DNA élfico."
 
 # game/scripts/kali_events.rpy:7728
 translate pt_br mariellaquestion_b44de101:
 
     # mari "It's ridiculous... I'm considered worthless trash over there, but my children would have full rights..."
-    mari ""
+    mari "É ridículo... eu sou considerada um lixo sem valor lá fora, mas meus filhos terão direitos..."
 
 # game/scripts/kali_events.rpy:7729
 translate pt_br mariellaquestion_df0fbf40:
 
     # mari "But there is an easy way to tell which Human has elvish ancestry..."
-    mari ""
+    mari "Mas tem um jeito de dizer se um humano é decendente de elfo..."
 
 # game/scripts/kali_events.rpy:7730
 translate pt_br mariellaquestion_67287a2b:
 
     # c "How?"
-    c ""
+    c "Como?"
 
 # game/scripts/kali_events.rpy:7731
 translate pt_br mariellaquestion_eedbb022:
 
     # mari "The eyes!"
-    mari ""
+    mari "Os olhos!"
 
 # game/scripts/kali_events.rpy:7732
 translate pt_br mariellaquestion_f44fc0f0:
 
     # mari "As you can tell, mine are a golden color. Luckily for me, the same color as my hair. Although my hair is from my human Mother's side."
-    mari ""
+    mari "Como pode ver, os meus tem a cor dourada. Sorte a minha, mesma cor do meu cabelo. Contudo meu cabelo é por parte da minha mãe humana."
 
 # game/scripts/kali_events.rpy:7733
 translate pt_br mariellaquestion_77ae9d7b:
 
     # mari "My Father was a common elf, and of course all common elves share these same three traits. Dark hair, freckles, and yellow eyes."
-    mari ""
+    mari "Meu pai era um elfo comum, e claro, todos os elfos comuns compartilham das mesmas caraterísticas. Cabelo escuro, sardas, e olhos amarelos."
 
 # game/scripts/kali_events.rpy:7734
 translate pt_br mariellaquestion_e1c0152b:
 
     # mari "In every case of a human breeding with an elf, that bloodline will keep their ancestor's unique elvish eyes. Even if they are 1/16th elvish."
-    mari ""
+    mari "Em caso de um humano engravidar um elfo, essa linha de sangue vai manter os traços únicos, os olhos élficos. Mesmo se ele for 16º elfo."
 
 # game/scripts/kali_events.rpy:7735
 translate pt_br mariellaquestion_e731a288:
 
     # c "What eye colors belong to humans with elvish ancestry?"
-    c ""
+    c "Qual a cor dos olhos que pertence aos humanos com ancestrais elfos?"
 
 # game/scripts/kali_events.rpy:7736
 translate pt_br mariellaquestion_830d558c:
 
     # mari "Ah, that's an easy one."
-    mari ""
+    mari "Ah, isso é fácil."
 
 # game/scripts/kali_events.rpy:7737
 translate pt_br mariellaquestion_83d5b141:
 
     # mari "Common elf and desert elf ancestry would leave you with light yellow, amber or golden eyes."
-    mari ""
+    mari "Se você tiver ancestrais elfos você teria olhos amarelo claro, laranja ou dourados."
 
 # game/scripts/kali_events.rpy:7738
 translate pt_br mariellaquestion_9888fee0:
 
     # mari "Dark elf ancestry would leave you with pink eyes. Although rarely the human can even keep the dark elf's dark purple eyes completely, without losing any of the color."
-    mari ""
+    mari "Ancestrais de elfos escuros te deixaram com a cor rosa nos olhos. Contudo, até os humanos não conseguem manter a cor rosa dos elfos escuros completamente sem perder um pouco da cor."
 
 # game/scripts/kali_events.rpy:7739
 translate pt_br mariellaquestion_d2b9a3e0:
 
     # mari "While a half elf would lose a drow's unique pupil shape for seeing in the dark, the ancestry would leave you with a dirty orange or red color."
-    mari ""
+    mari "Em quanto um meio elfo perderia o formato único dos olhos de um Drow por ver no escuro, os ancestrais te deixariam com a cor laranja ou vermelha."
 
 # game/scripts/kali_events.rpy:7740
 translate pt_br mariellaquestion_db3e2aba:
 
     # mari "However, a half drow would be horribly crippled. Half drow cannot see, and they cannot use their body. Impregnating a Drow is a serious crime because of this."
-    mari ""
+    mari "Contudo, um meio-drow seria horrivelmente aleijado. Meios-drow não podem enxergar, e eles não conseguem usar seus corpos. Engravidar um Drow é um sério crime por causa disso."
 
 # game/scripts/kali_events.rpy:7741
 translate pt_br mariellaquestion_a1975c67:
 
     # c "What about a high elf?"
-    c ""
+    c "E um elfo supremo?"
 
 # game/scripts/kali_events.rpy:7743
 translate pt_br mariellaquestion_27ff0637:
 
     # mari "I'm sorry? A what?"
-    mari ""
+    mari "Me desculpe? O que?"
 
 # game/scripts/kali_events.rpy:7744
 translate pt_br mariellaquestion_8716a76f:
 
     # c "Sorry, nevermind."
-    c ""
+    c "Nada não, foi mal."
 
 # game/scripts/kali_events.rpy:7748
 translate pt_br mariellaquestion_68a52465:
 
     # mari "Ah, you mean with my husband?"
-    mari ""
+    mari "Ah, você quer dizer com meu marido?"
 
 # game/scripts/kali_events.rpy:7750
 translate pt_br mariellaquestion_92a3e500:
 
     # mari "I'm actually a cousin of Cornwall's."
-    mari ""
+    mari "Na verdade eu sou uma prima do Cornwall."
 
 # game/scripts/kali_events.rpy:7751
 translate pt_br mariellaquestion_278193fe:
 
     # c "He profits off of elves being slaves, why would he save you?"
-    c ""
+    c "Ele investi em escravagistas de elfos, por que ele te salvaria?"
 
 # game/scripts/kali_events.rpy:7752
 translate pt_br mariellaquestion_a7f083b7:
 
     # mari "It's the system, dear. There are laws in place, it's a foundation of Syl'anar to enslave elves. If it wasn't Cornwall, it'd be someone else."
-    mari ""
+    mari "É o sistema, querido. Há regras no lugar, é a base da Syl'anar escravizar elfos. Se não fosse Cornwall, seria outro alguém."
 
 # game/scripts/kali_events.rpy:7754
 translate pt_br mariellaquestion_37256672:
 
     # mari "Luckily for us, he has an open mind about these things. He gave the elves rights, you know? The first time in history."
-    mari ""
+    mari "Sorte a nossa, ele tem a mente aberta sobre essas coisas. Ele deu aos elfos direitos, sabe? Pela primeira vez na história."
 
 # game/scripts/kali_events.rpy:7755
 translate pt_br mariellaquestion_fa2d4fea:
