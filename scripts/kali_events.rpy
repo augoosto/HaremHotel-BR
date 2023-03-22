@@ -25126,199 +25126,199 @@ translate pt_br k_fancyq_698b6815:
 translate pt_br kaliapp_be399ab0:
 
     # k "It's done!"
-    k ""
+    k "Terminei!"
 
 # game/scripts/kali_events.rpy:6767
 translate pt_br kaliapp_6e6e7e86:
 
     # lu "Hmmmm...? It still looks like scribbles to me..."
-    lu ""
+    lu "Hmmmm...? Parece com rascunhos para mim..."
 
 # game/scripts/kali_events.rpy:6768
 translate pt_br kaliapp_4e229ba8:
 
     # k "That's just the code, the average person isn't going to see it. Go get [name]!"
-    k ""
+    k "Isso é só o código, a maioria das pessoas não vão entender. Vá chamar o [name]!"
 
 # game/scripts/kali_events.rpy:6770
 translate pt_br kaliapp_1aaaed22:
 
     # lu "Uh? Oh, he's at the door already. Hey bro~"
-    lu ""
+    lu "Uh? oh, ele já está na porta. Oi mano~"
 
 # game/scripts/kali_events.rpy:6771
 translate pt_br kaliapp_99979dba:
 
     # k "Come here, look!"
-    k ""
+    k "Vem aqui, olha!"
 
 # game/scripts/kali_events.rpy:6773
 translate pt_br kaliapp_ce9e0d58:
 
     # k "The app I've been developing for 7 years is finally done!"
-    k ""
+    k "O aplicativo que eu estive desenvolvendo por 7 anos está finalmente pronto!"
 
 # game/scripts/kali_events.rpy:6774
 translate pt_br kaliapp_40dafaa2:
 
     # lu "You've been making an app?"
-    lu ""
+    lu "Você esteve fazendo um um aplicativo?"
 
 # game/scripts/kali_events.rpy:6775
 translate pt_br kaliapp_58a977d6:
 
     # k "I've told you about it like 10 times this week!"
-    k ""
+    k "Eu te falei sobre isso umas 10 vezes essa semana!"
 
 # game/scripts/kali_events.rpy:6776
 translate pt_br kaliapp_b0fa6ee7:
 
     # c "I didn't know about this."
-    c ""
+    c "Eu não sabia sobre isso."
 
 # game/scripts/kali_events.rpy:6777
 translate pt_br kaliapp_f2bd6847:
 
     # k "I keep my computer on all the time, can't you read the code?"
-    k ""
+    k "Eu deixo meu coputador ligado o tempo todo, não consegue ler o código?"
 
 # game/scripts/kali_events.rpy:6778
 translate pt_br kaliapp_ef65653b:
 
     # c "Not that well..."
-    c ""
+    c "Não muito bem..."
 
 # game/scripts/kali_events.rpy:6779
 translate pt_br kaliapp_cd2379c0:
 
     # lu "What does it do, sis?"
-    lu ""
+    lu "E o que isso faz, mana?"
 
 # game/scripts/kali_events.rpy:6781
 translate pt_br kaliapp_98c5cc4b:
 
     # k "It's basically a hack for androids. It lets you control them remotely, and even use a VR headset and body suit to fully control their limbs! Or just a controller."
-    k ""
+    k "É basicamente um hack de androids. Deixa você controlar eles remotamente, e até mesmo usar um VR para controlar eles totalmente! Ou só usar um controle mesmo."
 
 # game/scripts/kali_events.rpy:6783
 translate pt_br kaliapp_5d3b065c:
 
     # k "Oh, and it allows you to track your android, which is something only the company wants to be able to do..."
-    k ""
+    k "Oh, e te deixa localizar seu android, oque é algo que só as empresas conseguem fazer..."
 
 # game/scripts/kali_events.rpy:6784
 translate pt_br kaliapp_ac98f649:
 
     # lu "Isn't some of that kind of... illegal?"
-    lu ""
+    lu "Isso não é meio... ilegal?"
 
 # game/scripts/kali_events.rpy:6786
 translate pt_br kaliapp_ad8f6c20:
 
     # k "Yeah, probably..."
-    k ""
+    k "É, provavelmente..."
 
 # game/scripts/kali_events.rpy:6788
 translate pt_br kaliapp_83503be6:
 
     # k "But you can see all of the android's stats as well, like body temperature. You can even force it to change modes without a command!"
-    k ""
+    k "Mas você consegue ver todos os status também, como temperatura corporal. Você pode forçar à mudar os modos sem um comando!"
 
 # game/scripts/kali_events.rpy:6789
 translate pt_br kaliapp_3d996283:
 
     # lu "So, are you gonna sell it then and make some money?"
-    lu ""
+    lu "Então, você vai vender isso e ganhar dinheiro?"
 
 # game/scripts/kali_events.rpy:6791
 translate pt_br kaliapp_8bfe2a71:
 
     # k "Yeah! I was thinking I'd put it on an app store for like $999 or something."
-    k ""
+    k "Isso! Eu estava pensando em colocar em alguma loja por $999 ou algo assim."
 
 # game/scripts/kali_events.rpy:6792
 translate pt_br kaliapp_5ef38185:
 
     # lu "Won't you get caught that way?"
-    lu ""
+    lu "Você não vai ser pega desse jeito?"
 
 # game/scripts/kali_events.rpy:6793
 translate pt_br kaliapp_d5a40223:
 
     # k "That's partly why it's so expensive. There's no way everyone is going to want to do this sort of thing anyway."
-    k ""
+    k "É por isso que é tão caro. Não tem jeito de todo mundo querer esse tipo de coisa."
 
 # game/scripts/kali_events.rpy:6794
 translate pt_br kaliapp_f190dc03:
 
     # lu "Then why are you making it?"
-    lu ""
+    lu "Então por que você está fazendo isso?"
 
 # game/scripts/kali_events.rpy:6796
 translate pt_br kaliapp_51a82ebb:
 
     # k "Oh my god, what is in that empty head of yours? I talk about it all the time!"
-    k ""
+    k "Meu deus, o que tem nessa sua cabeça? Eu falo sobre isso o tempo todo!"
 
 # game/scripts/kali_events.rpy:6798
 translate pt_br kaliapp_19c8371b:
 
     # k "Remember when I was 17, and we basically lived in the Nero Inc. tower? Seeing all those annoying androids made me want to control them and do some stupid shit with them like tip the copier."
-    k ""
+    k "Lembra de quando eu tinha 17, e agente basicamente vivia na torre da Nero? Ver todos aqueles androids irritantes me fez querer controlar eles e fazer alguma besteira."
 
 # game/scripts/kali_events.rpy:6799
 translate pt_br kaliapp_9d90ba90:
 
     # k "Anyway, I realized soon after that, that what I was doing is something I could get sued for. They really want to keep all of their systems private."
-    k ""
+    k "De qualquer forma, Eu entendi, que o que eu estava querendo fazer poderia ser realmente feito. Eles realmente queriam manter os sistemas deles privados."
 
 # game/scripts/kali_events.rpy:6801
 translate pt_br kaliapp_f32994f0:
 
     # lu "Probably because it could cause a war."
-    lu ""
+    lu "Provavelmete por que poderia causar uma guerra."
 
 # game/scripts/kali_events.rpy:6802
 translate pt_br kaliapp_13480cfa:
 
     # k "What? What do you mean?"
-    k ""
+    k "Que? O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:6804
 translate pt_br kaliapp_a6c1bfbc:
 
     # lu "Dude, if humans can get inside an android's body, they'll be able to do all sorts of superhuman stuff! An android could punch through a human easily!"
-    lu ""
+    lu "Cara, se os humanos pudessem controlar os corpos dos androids, eles poderiam fazer o que eles quisessem! Um android poderia matar um humano facilmente!"
 
 # game/scripts/kali_events.rpy:6806
 translate pt_br kaliapp_6f23dc21:
 
     # k "I've considered this! The android's systems are still completely active, it just doesn't have control over them. There is a way to hack the harm precaution system out, but I don't give anyone access to that. An android will still never hurt a human."
-    k ""
+    k "Eu já pensei nisso! Os sistemas android continuam completamente ativos, eu só não tenho controle sobre eles. Tem um jeito de desativar isso, mas eu não daria acesso para ninguém. Um android vai continuar não podendo machucar um humano."
 
 # game/scripts/kali_events.rpy:6807
 translate pt_br kaliapp_100c262d:
 
     # lu "Sure, but what if they don't need to? You can rob a bank without hurting anyone!"
-    lu ""
+    lu "Claro, mas e se eles não precisassem? Você pode roubar um banco sem machucar ninguém!"
 
 # game/scripts/kali_events.rpy:6809
 translate pt_br kaliapp_bc5960e1:
 
     # k "Egh, look, I'm sure someone somewhere will use my app for malicious purposes, that's another reason why it's so expensive! I don't want any children to get ahold of this."
-    k ""
+    k "Egh, olha, eu tenho certeza que alguém vai usar meu aplicativo para o mal, outra razão do por que é tão caro! Eu não quero que nenhum criança tenha isso."
 
 # game/scripts/kali_events.rpy:6811
 translate pt_br kaliapp_af48e8aa:
 
     # k "It'll do far more good than bad!"
-    k ""
+    k "Vai servir para mais coisas boas que ruims!"
 
 # game/scripts/kali_events.rpy:6812
 translate pt_br kaliapp_e664112b:
 
     # lu "I'm just saying, sis... it's pretty dangerous."
-    lu ""
+    lu "Eu só estou dizendo, mana... é bastante perigoso."
 
 # game/scripts/kali_events.rpy:6814
 translate pt_br kaliapp_89c1e599:
@@ -28624,97 +28624,97 @@ translate pt_br mariellaquestion_37256672:
 translate pt_br mariellaquestion_fa2d4fea:
 
     # mari "Anyway, Cornwall and I have been friends since we were young. I took care of him as a child."
-    mari ""
+    mari "De qualquer forma, eu e Cornwall éramos amigos desde jovens. Eu cuidava dele como se fosse meu filho. "
 
 # game/scripts/kali_events.rpy:7757
 translate pt_br mariellaquestion_46ace2ae:
 
     # mari "He wanted to give me a better life. But an elf leaving Syl'anar is a serious crime. It's even a cause for war."
-    mari ""
+    mari "Ele queria me dar uma vida melhor. Mas um elfo sair de Syl'anar é um sério crime. É até mesmo motivo de guerras."
 
 # game/scripts/kali_events.rpy:7758
 translate pt_br mariellaquestion_ee7fd917:
 
     # c "It's that serious?"
-    c ""
+    c "Sério?"
 
 # game/scripts/kali_events.rpy:7759
 translate pt_br mariellaquestion_07e8974f:
 
     # mari "It's very serious. The monopoly Syl'anar has over the elves is strictly enforced. If a single male and female elf leave the continent, they could start a whole family of elves."
-    mari ""
+    mari "Sim, é muito sério. O monopólio que Syl'anar tem sobre os elfos é muito rigoroso. Se um único homem ou mulher elfo sair do continente, eles poderiam começar uma família inteira de elfos."
 
 # game/scripts/kali_events.rpy:7761
 translate pt_br mariellaquestion_98e65c10:
 
     # mari "The world is ignorant to what happens in Syl'anar. There are no news articles of elves, no actors, nothing. They have no voice."
-    mari ""
+    mari "O mundo ignora oque acontece em Syl'anar. Não há notícias mencionando elfos, não tem atores, nada. Eles não tem voz."
 
 # game/scripts/kali_events.rpy:7763
 translate pt_br mariellaquestion_3d9b7b97:
 
     # mari "My coming here was in the news. 'The first Half elf outside of Syl'anar'."
-    mari ""
+    mari "Minha vinda aqui foi para as notícias. 'O primeiro meio-elfo fora de Syl'anar'."
 
 # game/scripts/kali_events.rpy:7764
 translate pt_br mariellaquestion_54607835:
 
     # mari "Of course there were tensions between our nations, but Cornwall stood up for me. He claimed my elvish ancestry would be gone within the next two generations, and Syl'anar backed down."
-    mari ""
+    mari "E é claro, existia tensão entre as nossas nações, mas Cornwall me defendeu. Ele disse que minha ancestralidade élfica iria desaparecer daqui duas gerações, e Syl'anar recuou."
 
 # game/scripts/kali_events.rpy:7765
 translate pt_br mariellaquestion_32b2e6e6:
 
     # mari "It's mostly true, my elvish genes won't be getting stronger, even if I do have children. But the eyes would always stay, of course."
-    mari ""
+    mari "É verdade, meus genes élficos não ficariam mais fortes, mesmo se eu tivesse uma criança. Mas os olhos sempre iriam ficar, é claro."
 
 # game/scripts/kali_events.rpy:7768
 translate pt_br mariellaquestion_891314a3:
 
     # mari "It was nice meeting you, Mr. [name]."
-    mari ""
+    mari "Foi bom lhe conhecer, senhor [name]."
 
 # game/scripts/kali_events.rpy:7771
 translate pt_br mariellaquestion_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/scripts/kali_events.rpy:7774
 translate pt_br mariellaquestion_2ecf1e62:
 
     # "You, Kali, and Lucia make your way to the helicopter parked just outside the house."
-    ""
+    "Você, Kali e Lucy caminham até o helicóptero estacionado na parte externa da casa."
 
 # game/scripts/kali_events.rpy:7775
 translate pt_br mariellaquestion_aa99b7be:
 
     # "On the ride to the family's private jet, you notice Kali is contemplating something. Assuming it's about her Father's offer, you consider his words. Does Kali really want to run his company?"
-    ""
+    "No caminho ao jato da família, você nota que Kali está pensando em algo. Assumindo que é sobre a oferta do pai delaa, você lembra das palavaras dele. Kali realmente quer gerenciar essa empresa?"
 
 # game/scripts/kali_events.rpy:7776
 translate pt_br mariellaquestion_9732e9e4:
 
     # "The rest of the trip is fairly uneventful other than your view of clouds and ocean stretching farther than the eye can see. It's a beautiful sight you wish you could see more of. Life on land seems so restrictive and punishing. Life up here... It's free, it's fresh, it's calm. You feel you could live a thousand years in the sky."
-    ""
+    "O resto da viagem ocorre sem problemas, além da sua visão das nuvens e oceano se estendendo ao longe. É uma vista linda, você gostaria de ver mais. A vida na terra parece tão restritiva e punitiva. A vida lá em cima... é livre, fresco, é calmo. Você sente que poderia viver cem mil anos no céu."
 
 # game/scripts/kali_events.rpy:7777
 translate pt_br mariellaquestion_f913a3cd:
 
     # "You arrive back to the hotel at sundown. Lucia worries for her father, and is a little disappointed she didn't receive any gifts like Kali did."
-    ""
+    "Vocês chegam no hotel no pôr-do-sol. Lucy está preocupada com o pai, e é um pouco desapontador que ela não recebeu nenhum presente como a Kalli."
 
 # game/scripts/kali_events.rpy:7778
 translate pt_br mariellaquestion_d743121d:
 
     # "Kali has a lot to think on. She's been groomed to take over the company when she was young, but she never saw herself as worthy of such a position. The offer is no longer ignorable now, she has to decide what her life will become..."
-    ""
+    "A Kali tem muito o que pensar. Ela foi preparada para gerenciar a empresa desde nova, mas ela nunca se viu como digna da posição. Agora a oferta não é mais ignorável, ela precisa decidir oque será da vida dela..."
 
 # game/scripts/kali_events.rpy:7779
 translate pt_br mariellaquestion_2b73f2e0:
 
     # "Your phone beeps. You look at the notifications and you can see a deposit of $10,000 directly in to your bank account."
-    ""
+    "O seu telefone toca. Você olha para as notificações e você ve um depósito de $10.000 diretamente na sua conta bancária."
 
 # game/scripts/kali_events.rpy:7814
 translate pt_br lucyroomchoices_60a0ada7:
