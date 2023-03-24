@@ -25318,307 +25318,307 @@ translate pt_br kaliapp_af48e8aa:
 translate pt_br kaliapp_e664112b:
 
     # lu "I'm just saying, sis... it's pretty dangerous."
-    lu "Eu só estou dizendo, mana... é bastante perigoso."
+    lu "Eu só estou dizendo, mana... isso é bastante perigoso."
 
 # game/scripts/kali_events.rpy:6814
 translate pt_br kaliapp_89c1e599:
 
     # k "What do you think, [name]?"
-    k ""
+    k "O que você acha, [name]?"
 
 # game/scripts/kali_events.rpy:6818
 translate pt_br kaliapp_8e8aa5ed:
 
     # k "Really? Come on... It's been my project for 7 years!"
-    k ""
+    k "Sério? Qual é... esse é o meu projeto de 7 anos!"
 
 # game/scripts/kali_events.rpy:6819
 translate pt_br kaliapp_0684ea9a:
 
     # c "It could get you, and your father in a lot of trouble."
-    c ""
+    c "Poderia deixar você, e seu pai com muitos problemas."
 
 # game/scripts/kali_events.rpy:6820
 translate pt_br kaliapp_a4e65cd9:
 
     # k "I'm completely anonymous, I always use a VPN."
-    k ""
+    k "Eu estou completamente anônima, eu sempre uso VPN."
 
 # game/scripts/kali_events.rpy:6821
 translate pt_br kaliapp_db7aeee8:
 
     # c "And if you're ever going to be the CEO of Nero Inc., this is going to look very bad."
-    c ""
+    c "E se você um dia se tornar a CEO da Nero, isso iria dar muito ruim."
 
 # game/scripts/kali_events.rpy:6823
 translate pt_br kaliapp_d73c12c2:
 
     # k "Yeah, that would be a problem..."
-    k ""
+    k "É, isso seria um problema..."
 
 # game/scripts/kali_events.rpy:6824
 translate pt_br kaliapp_f925d20b:
 
     # k "Whatever. I haven't decided if I'm going to take up his offer anyway."
-    k ""
+    k "Tanto faz. Eu não decidi se eu vou aceitar essa oferta de qualquer forma."
 
 # game/scripts/kali_events.rpy:6826
 translate pt_br kaliapp_b6ec8b5f:
 
     # lu "Oh my god! Yes you are! You are not going to pass up a multi billion dollar company for some stupid app!"
-    lu ""
+    lu "Meu deus! Sim, você iria! Você não vai trocar uma empresa multi bilionáriam por um aplicativo estúpido!"
 
 # game/scripts/kali_events.rpy:6828
 translate pt_br kaliapp_9619d001:
 
     # k "I'll do what I want, sis."
-    k ""
+    k "Eu vou fazer o que eu quiser, mana."
 
 # game/scripts/kali_events.rpy:6829
 translate pt_br kaliapp_39702f52:
 
     # lu "Loser."
-    lu ""
+    lu "Idiota."
 
 # game/scripts/kali_events.rpy:6831
 translate pt_br kaliapp_a5786e1d:
 
     # k "I don't really care about the money. Like I said, the price is mostly so high because I don't want people getting it."
-    k ""
+    k "Eu não ligo realmente para o dinheiro. Como eu disse, o preço é bem alto justamente por que eu não quero que as pessoas consigam."
 
 # game/scripts/kali_events.rpy:6833
 translate pt_br kaliapp_249adf10:
 
     # lu "Yeah, but you kinda want the money."
-    lu ""
+    lu "É, mas você ainda quer o dinheiro."
 
 # game/scripts/kali_events.rpy:6835
 translate pt_br kaliapp_45bf41c1:
 
     # k "Meh, I don't need it. I'm making more than enough at papa rons."
-    k ""
+    k "Meh, eu não preciso disso. Eu ganho mais que o suficiente no papa rons."
 
 # game/scripts/kali_events.rpy:6836
 translate pt_br kaliapp_cebf6184:
 
     # lu "Dude, papa rons is barely above minimum wage."
-    lu ""
+    lu "Cara, o salário do papa rons é um pouco mais que um salário minímo."
 
 # game/scripts/kali_events.rpy:6837
 translate pt_br kaliapp_8a41540a:
 
     # k "Yeah, but I make more than enough every year."
-    k ""
+    k "É, mas eu faço mais que o suficiente todo ano."
 
 # game/scripts/kali_events.rpy:6840
 translate pt_br kaliapp_f58706a8:
 
     # k "Thanks!"
-    k ""
+    k "Valeu!"
 
 # game/scripts/kali_events.rpy:6841
 translate pt_br kaliapp_694bf406:
 
     # lu "You are such a kiss ass, dude."
-    lu ""
+    lu "Você é um pé na bunda, cara."
 
 # game/scripts/kali_events.rpy:6842
 translate pt_br kaliapp_caac9bbe:
 
     # c "I really do think it's a good idea."
-    c ""
+    c "Eu realmente acho que é uma boa idéia."
 
 # game/scripts/kali_events.rpy:6844
 translate pt_br kaliapp_8e7d6d04:
 
     # lu "Whatever, we all know Kali whips you all night in that dungeon of yours..."
-    lu ""
+    lu "Tanto faz, nós todos sabemos que a Kali te chicoteia a noite inteira naquela masmorra de você..."
 
 # game/scripts/kali_events.rpy:6845
 translate pt_br kaliapp_9667866f:
 
     # k "Hahaha, oh my god..."
-    k ""
+    k "Hahaha, meu deus..."
 
 # game/scripts/kali_events.rpy:6847
 translate pt_br kaliapp_80cfa3cd:
 
     # k "Oh! We should test it out on [botname], right?"
-    k ""
+    k "Oh! Agente pode testar na [botname], né?"
 
 # game/scripts/kali_events.rpy:6848
 translate pt_br kaliapp_5dd74473:
 
     # c "Sure, I can ask her if she's up for it."
-    c ""
+    c "Claro, eu posso chamá-la se ela quiser fazer isso."
 
 # game/scripts/kali_events.rpy:6849
 translate pt_br kaliapp_fb1a244d:
 
     # k "Please do! I can't release this without knowing for certain it works!"
-    k ""
+    k "Por favor! Eu não posso lançar isso sem ter certeza que funciona!"
 
 # game/scripts/kali_events.rpy:6854
 translate pt_br kaliapp_fa963c99:
 
     # c "Are you interested in testing Kali's new app?"
-    c ""
+    c "Você está interessada em testar o novo aplicativo da Kali?"
 
 # game/scripts/kali_events.rpy:6855
 translate pt_br kaliapp_27d6924a:
 
     # bot "Oh! She made another app for me? Sure, I would love to help Kali!"
-    bot ""
+    bot "Oh! ela fez outro app pra mim? Claro, eu adoraria ajudar a Kali!"
 
 # game/scripts/kali_events.rpy:6858
 translate pt_br kaliapp_45e703b0:
 
     # k "Okay, so I'm essentially going to hack you right now, are you alright with that?"
-    k ""
+    k "Ok, então basicamente eu vou te hackear agora, você está de bem com isso?"
 
 # game/scripts/kali_events.rpy:6859
 translate pt_br kaliapp_9da5b3ef:
 
     # bot "You're not going to do anything bad, are you...?"
-    bot ""
+    bot "Você nã vai fazer nada de ruim, né...?"
 
 # game/scripts/kali_events.rpy:6860
 translate pt_br kaliapp_10b1adf9:
 
     # k "No, of course not! I just want to see if this works. I'll move you around, see what you see, talk through you, that sort of thing."
-    k ""
+    k "Não, claro que não! Eu só quero ver se funciona. Eu vou me mexer por aí, ver oque você vê, falar através de você, esse tipo de coisa."
 
 # game/scripts/kali_events.rpy:6861
 translate pt_br kaliapp_20f6ec6c:
 
     # bot "What will happen to me then?"
-    bot ""
+    bot "O que vai acontecer comigo?"
 
 # game/scripts/kali_events.rpy:6862
 translate pt_br kaliapp_819089d8:
 
     # k "You'll still be there, you just won't have control. Uh... I guess since you're conscious you would just feel like you're looking out of a window?"
-    k ""
+    k "Você ainda vai estar no seu corpo, você só não vai conseguir controlá-lo. Uh... é como se você estivesse olhando por uma janela, talvez?"
 
 # game/scripts/kali_events.rpy:6863
 translate pt_br kaliapp_1a791e49:
 
     # bot "Oh... Well, I trust you Kali."
-    bot ""
+    bot "Oh... bem, eu confio em você Kali."
 
 # game/scripts/kali_events.rpy:6864
 translate pt_br kaliapp_91899813:
 
     # k "Awesome! Thanks."
-    k ""
+    k "Maravilha! Obrigada."
 
 # game/scripts/kali_events.rpy:6866
 translate pt_br kaliapp_b1b9b095:
 
     # "Kali messes around with her computer. She finalizes some things and looks over her code one last time. Once she's sure everything will be safe for [botname], she begins..."
-    ""
+    "Kali mexe no computador. Ela finaliza algumas coisas e dá uma última olhada no código. Depois te ter certeza que tudo estaria seguro para a [botname], ela começa..."
 
 # game/scripts/kali_events.rpy:6868
 translate pt_br kaliapp_c50009e0:
 
     # k "Alright, here I go."
-    k ""
+    k "Beleza, aqui vai."
 
 # game/scripts/kali_events.rpy:6870
 translate pt_br kaliapp_51164b46:
 
     # bot "NN!" with sshake
-    bot "" with sshake
+    bot "NN!" with sshake
 
 # game/scripts/kali_events.rpy:6872
 translate pt_br kaliapp_7fdf868c:
 
     # bot "Oh shit, it's working! Oh my god! The controls are great..."
-    bot ""
+    bot "Oh merda, tá funcionando! Meu deus! Os controles são ótimos..."
 
 # game/scripts/kali_events.rpy:6873
 translate pt_br kaliapp_5198ba24:
 
     # lu "I'm hearing both of you at the same time..."
-    lu ""
+    lu "Eu estou ouvindo vocês duas ao mesmo tempo..."
 
 # game/scripts/kali_events.rpy:6874
 translate pt_br kaliapp_cdcdc77b:
 
     # bot "Yeah, the android will always mimic what the user is saying. You can also type it out, but that's much slower."
-    bot ""
+    bot "Sim, o android vai sempre imitar oque o usuário diz. Você pode digitar também, mas é muito mais devagar."
 
 # game/scripts/kali_events.rpy:6876
 translate pt_br kaliapp_f4f4e864:
 
     # bot "Damn, she has HUGE tits!"
-    bot ""
+    bot "Porra, ela tem peitos enormes!"
 
 # game/scripts/kali_events.rpy:6879
 translate pt_br kaliapp_73f87ebc:
 
     # lu "You just noticed that?"
-    lu ""
+    lu "Você só prestou atenção nisso?"
 
 # game/scripts/kali_events.rpy:6880
 translate pt_br kaliapp_518b89f7:
 
     # bot "Well no, I just never considered what they'd look like from my perspective..."
-    bot ""
+    bot "Bem, não. Eu apenas nunca considerei eles nessa perspectiva..."
 
 # game/scripts/kali_events.rpy:6882
 translate pt_br kaliapp_7973c294:
 
     # bot "Hm, oh... It'd definitely be fun to use her on you, [name]... Maybe I could suck your cock with her?"
-    bot ""
+    bot "Hm, oh... seria divertido usar ela em você, [name]... talvez eu possa chupar o seu pau através dela?"
 
 # game/scripts/kali_events.rpy:6884
 translate pt_br kaliapp_f14687a2:
 
     # bot "-HN! No! That's too embarrassing! And put my mask back on!" with ssshake
-    bot "" with ssshake
+    bot "-HN! Não! É muito vergonhoso! E coloque minha maáscara de volta!" with ssshake
 
 # game/scripts/kali_events.rpy:6886
 translate pt_br kaliapp_1ed09ffc:
 
     # bot "Eggh~! Woah... I think she just took back control..."
-    bot ""
+    bot "Eggh~! Woah... eu acho que ela recuperou o controle por um instante..."
 
 # game/scripts/kali_events.rpy:6888
 translate pt_br kaliapp_5673e5e8:
 
     # bot "Whatever, I'm sure that was because of her consciousness. Normal android's don't have a consciousness so they won't be able to take control."
-    bot ""
+    bot "Tanto faz, tenho certeza que é porque ela tem consciência. Androids normais não tem uma, então eles não conseguiriam."
 
 # game/scripts/kali_events.rpy:6890
 translate pt_br kaliapp_1376ad89:
 
     # "Zzzt!" with ssshake
-    "" with ssshake
+    "Zzzt!" with ssshake
 
 # game/scripts/kali_events.rpy:6891
 translate pt_br kaliapp_8ad4de14:
 
     # k "Alright, that's enough. Thanks [botname]!"
-    k ""
+    k "Ok, já chega. Obrigada [botname]!"
 
 # game/scripts/kali_events.rpy:6893
 translate pt_br kaliapp_cb3af4bf:
 
     # bot "Ergh... I have a headache..."
-    bot ""
+    bot "Ergh... que dor de cabeça..."
 
 # game/scripts/kali_events.rpy:6895
 translate pt_br kaliapp_68db5ae9:
 
     # bot "Wait... Can I use that thing on other androids?"
-    bot ""
+    bot "Espera... você pode usar essa coisa em outros androids?"
 
 # game/scripts/kali_events.rpy:6896
 translate pt_br kaliapp_fdaa8185:
 
     # k "Yeah, I don't see why you wouldn't be able to."
-    k ""
+    k "Sim, não vejo porque não conseguiria."
 
 # game/scripts/kali_events.rpy:6898
 translate pt_br kaliapp_7a68d180:
