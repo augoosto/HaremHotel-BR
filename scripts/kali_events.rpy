@@ -21544,145 +21544,145 @@ translate pt_br kalicollegetest_3be8bd03:
 translate pt_br kali_preparty_e4cc4fbf:
 
     # k "Nnnhh... Shit... shit... what am I going to do..."
-    k ""
+    k "Nnnhh... merda... merda... oque eu vou fazer..."
 
 # game/scripts/kali_events.rpy:5827
 translate pt_br kali_preparty_bf4820cf:
 
     # c "What's wrong?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:5828
 translate pt_br kali_preparty_f2e661fe:
 
     # lu "She's worried about being social."
-    lu ""
+    lu "Ela está preocupada sobre ser social."
 
 # game/scripts/kali_events.rpy:5829
 translate pt_br kali_preparty_19ade9a9:
 
     # k "We have to go to this shitty party my Dad is throwing and it's very important we show up to make a good appearance..."
-    k ""
+    k "Nós temos que ir nessa porcaria de festa que meu pai está dando e é muito importante que agente apareça para dar uma boa impressão..."
 
 # game/scripts/kali_events.rpy:5830
 translate pt_br kali_preparty_a42b02cc:
 
     # lu "Oh no, what a pain! We have to talk to very important and interesting people! I bet there will even be free expensive food... what will you do without your microwaved trash?"
-    lu ""
+    lu "Oh não, que dor! Nós temos de conversar com pessoas importantes e interessantes! Eu aposto que terá até mesmo comida cara de graça... oque faremos sem aquelas porcarias de microondas?"
 
 # game/scripts/kali_events.rpy:5832
 translate pt_br kali_preparty_c37f1e1d:
 
     # k "Urgh, shut up."
-    k ""
+    k "Urgh, cala a boca."
 
 # game/scripts/kali_events.rpy:5834
 translate pt_br kali_preparty_8a0296b0:
 
     # lu "Just relax, it's not a big deal... You're not going to be expected to do much. We're just talking and hanging out."
-    lu ""
+    lu "Relaxa, não é grande coisa... você não vai precisar fazer quase nada. Nós vamos só conversar e dar uma volta."
 
 # game/scripts/kali_events.rpy:5836
 translate pt_br kali_preparty_81043489:
 
     # k "Do you have any idea how hard it is for me to {i}just{/i} 'talk and hang out'...? It's not as simple as it looks."
-    k ""
+    k "Você tem idéia o quão difícil é {i}só{/i} 'conversar e dar uma volta' para mim...? Não é tão simples como parece."
 
 # game/scripts/kali_events.rpy:5837
 translate pt_br kali_preparty_46ff7637:
 
     # lu "Everyone does it... you're doing it right now, silly."
-    lu ""
+    lu "Todo mundo faz isso... você está fazendo isso agora, boba."
 
 # game/scripts/kali_events.rpy:5839
 translate pt_br kali_preparty_fe312f4c:
 
     # k "Nnnnngggghh... Oh my god, fuck you..." with ssshake
-    k "" with ssshake
+    k "Nnnnngggghh... meu deus, vá se foder..." with ssshake
 
 # game/scripts/kali_events.rpy:5840
 translate pt_br kali_preparty_fd9b1b25:
 
     # lu "What's wrong with you? I'm just trying to help you out... I do this shit all the time, Kali!"
-    lu ""
+    lu "Qual o problema com você? Eu estou só tentando ajudar você... você faz essa merda o tempo todo, Kali!"
 
 # game/scripts/kali_events.rpy:5841
 translate pt_br kali_preparty_3acc1fb2:
 
     # k "Well, I don't... I hate this shit."
-    k ""
+    k "Bem, não... eu odeio essa merda."
 
 # game/scripts/kali_events.rpy:5842
 translate pt_br kali_preparty_4b3973f0:
 
     # lu "Maybe you would be a happier person if you went out more?"
-    lu ""
+    lu "Talvez você fosse uma pessoa mais feliz se saísse mais vezes?"
 
 # game/scripts/kali_events.rpy:5844
 translate pt_br kali_preparty_759f02de:
 
     # k "Are you kidding me!? Fuck you! You have no idea what I'm feeling!"
-    k ""
+    k "Você tá brincando comigo!? Foda-se! Você não sabe como estou me sentindo!"
 
 # game/scripts/kali_events.rpy:5846
 translate pt_br kali_preparty_d8a96e93:
 
     # lu "Sheesh..."
-    lu ""
+    lu "Deus..."
 
 # game/scripts/kali_events.rpy:5850
 translate pt_br kali_preparty_69038a2a:
 
     # k "*sniff*... egh..."
-    k ""
+    k "*sniff*... egh..."
 
 # game/scripts/kali_events.rpy:5851
 translate pt_br kali_preparty_5e3ba6da:
 
     # c "Hey Kali."
-    c ""
+    c "Ei, Kali."
 
 # game/scripts/kali_events.rpy:5853
 translate pt_br kali_preparty_06edd948:
 
     # k "Rgh, hey [name]..."
-    k ""
+    k "Rgh, ei, [name]..."
 
 # game/scripts/kali_events.rpy:5854
 translate pt_br kali_preparty_08a70826:
 
     # k "Sorry... Uh, I think I overreacted..."
-    k ""
+    k "Desculpe... Um, eu acho que eu exagerei um pouco..."
 
 # game/scripts/kali_events.rpy:5855
 translate pt_br kali_preparty_bf4820cf_1:
 
     # c "What's wrong?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:5856
 translate pt_br kali_preparty_274cc60d:
 
     # k "I'm just so stressed, I don't get much of a warning for these things... and I hate talking to people... I don't have anything in common with those elitist pricks anyway."
-    k ""
+    k "Eu só estou estressada, eu não sou avisada sobre essas coisas... e eu odeio conversar com pessoas... eu não tenho nada em comum com aqueles picaretas elitistas."
 
 # game/scripts/kali_events.rpy:5858
 translate pt_br kali_preparty_5ae3b952:
 
     # k "My Dad expects me to just show up like some escort to look pretty, and my sister doesn't understand me at all! I hate this shit!"
-    k ""
+    k "Meu pai espera que eu apareça com um acompanhante para eu parecer importante, e a minha irmã não me entende! Eu odeio essa merda!"
 
 # game/scripts/kali_events.rpy:5859
 translate pt_br kali_preparty_6d11cce0:
 
     # c "Would it help if I came with you?"
-    c ""
+    c "Ajudaria se eu fosse com você?"
 
 # game/scripts/kali_events.rpy:5861
 translate pt_br kali_preparty_9c974223:
 
     # k "Well, you've been invited anyway so I sure hope you're coming... I definitely wouldn't be able to do this by myself..."
-    k ""
+    k "Bem, você foi convidado então eu espero que você vá de qualquer forma... eu definitivamente não conseguiria fazer isso sozinha..."
 
 # game/scripts/kali_events.rpy:5862
 translate pt_br kali_preparty_24ec1c36:
@@ -25624,163 +25624,163 @@ translate pt_br kaliapp_fdaa8185:
 translate pt_br kaliapp_7a68d180:
 
     # bot "It seems to work by overriding all of my functions to your program. Well, all of the ones you want to override..."
-    bot ""
+    bot "Parece funcionar com você reescrevendo as minhas funções para o seu programa. Bem, quaiquer que você quiser reescrever..."
 
 # game/scripts/kali_events.rpy:6899
 translate pt_br kaliapp_56b91c07:
 
     # bot "I could take back control, but that's not something other androids can do. Your program tried blocking one of my dormant programs, so it didn't bother me much. I think that's why I was able to do that."
-    bot ""
+    bot "Eu posso recuperar o controle. Mas, isso não é uma coisa que os outros androids podem fazer. O seu programa tenta bloquear um dos meus programas inativos, então não me incomoda muito. Eu acho que é por isso que eu consegui fazer isso."
 
 # game/scripts/kali_events.rpy:6900
 translate pt_br kaliapp_a74530c2:
 
     # bot "Since your app is wireless, it must be sort of be like a virus, am I right?"
-    bot ""
+    bot "Já que o seu programa é wireless, deve ser algo parecido com um vírus, estou certa?"
 
 # game/scripts/kali_events.rpy:6901
 translate pt_br kaliapp_999dee79:
 
     # k "Yeah... I guess so. It does change an android's program a bit to allow for someone to take control of them. It can only work if their program is modified a bit."
-    k ""
+    k "Isso... isso mesmo. Altera um pouco os programas dos androids para conseguir tomar o controle. Só funciona se o programa deles é um pouco modificado."
 
 # game/scripts/kali_events.rpy:6902
 translate pt_br kaliapp_b3b256c0:
 
     # bot "If that's true, and I'm able to connect to your app, then I must be able to directly interact with another android's program..."
-    bot ""
+    bot "Se isso for verdade, e eu consigo me conectar ao seu programa, eu devo ser capaz de diretamente interagir com os programas de outros androids..."
 
 # game/scripts/kali_events.rpy:6903
 translate pt_br kaliapp_e1e15118:
 
     # bot "Are you able to modify whatever you want in an android?"
-    bot ""
+    bot "Você consegue modificar oque quiser em um android?"
 
 # game/scripts/kali_events.rpy:6905
 translate pt_br kaliapp_cc2e758d:
 
     # k "Yeah, I have full control over whatever I want, for the most part. There's still a lot of systems inside androids I don't understand. I used your code to help."
-    k ""
+    k "Isso, eu tenho quase total controle do que eu quiser. Mas ainda tem um monte de sistemas dentro dos androids que eu não entendo. Eu usei o seu código para me ajudar."
 
 # game/scripts/kali_events.rpy:6906
 translate pt_br kaliapp_8c53ebbb:
 
     # bot "You have my code?"
-    bot ""
+    bot "Você tem o meu código?"
 
 # game/scripts/kali_events.rpy:6907
 translate pt_br kaliapp_8a873ede:
 
     # k "Yeah, it's very different from a normal android's actually. You have a shit ton of loops, I don't know why you have that."
-    k ""
+    k "Sim, é bem diferente de um android normal na verdade. Você tem muitos loops, eu não sei o porque você tem isso."
 
 # game/scripts/kali_events.rpy:6908
 translate pt_br kaliapp_1af2a765:
 
     # k "But other than that, everything else is pretty normal."
-    k ""
+    k "Mas tirando isso, está tudo normal."
 
 # game/scripts/kali_events.rpy:6909
 translate pt_br kaliapp_d57ab233:
 
     # bot "Controlling other androids would be pretty neat! I could make myself a lot of friends, heheh!"
-    bot ""
+    bot "Controlar outros androids seria muito legal! Eu poderia fazer muitos amigos, heheh!"
 
 # game/scripts/kali_events.rpy:6910
 translate pt_br kaliapp_b0f023a3:
 
     # k "Well, you wouldn't really be able to move for yourself when you're hooking up to another android. You'd be blind."
-    k ""
+    k "Bem, você não consegue realmente se mover por conta própria quando está controlando outro android. Você fica cego."
 
 # game/scripts/kali_events.rpy:6911
 translate pt_br kaliapp_2f0a0fb8:
 
     # bot "So long as I'm not wearing that thing, I would be able to see out of my eyes! I'm not limited to only two eyes, you know. I can see hundreds of different things at the same time!"
-    bot ""
+    bot "Contando que eu não use essa coisa, eu consegueria ver através dos meus olhos! Não me limitando a dois olhos, sabe. Eu posso ver centenas de coisas diferentes ao mesmo tempo!"
 
 # game/scripts/kali_events.rpy:6912
 translate pt_br kaliapp_2822878e:
 
     # bot "I'm looking at Ashley pee right now!"
-    bot ""
+    bot "Eu estou vendo a Ashley fazendo xixi agora!"
 
 # game/scripts/kali_events.rpy:6913
 translate pt_br kaliapp_898cd03f:
 
     # c "We have cameras there?"
-    c ""
+    c "Nós temos câmeras lá?"
 
 # game/scripts/kali_events.rpy:6915
 translate pt_br kaliapp_6ce6ef84:
 
     # bot "Oh, I forgot to tell you I-"
-    bot ""
+    bot "Oh, eu esqueci de lhe dizer, eu-"
 
 # game/scripts/kali_events.rpy:6917
 translate pt_br kaliapp_e1fc19e3:
 
     # k "-Wait, you're right...! If I were able to upload this program into you, you would totally be able to take over other androids!"
-    k ""
+    k "-Espera, você está certa...! Se eu conseguir fazer um upload desse programa em você, você poderia realmente controlar outros androids!"
 
 # game/scripts/kali_events.rpy:6919
 translate pt_br kaliapp_75124582:
 
     # bot "That would be really cool, right [botown]? You could have an army of me!"
-    bot ""
+    bot "Isso seria bem legal. né ,[botown]? Você poderia ter um excército de mim!"
 
 # game/scripts/kali_events.rpy:6920
 translate pt_br kaliapp_a97d4f3c:
 
     # c "Sounds fun."
-    c ""
+    c "Parece divertido."
 
 # game/scripts/kali_events.rpy:6922
 translate pt_br kaliapp_cdb7121d:
 
     # bot "He likes the idea, Kali! Can you do it?"
-    bot ""
+    bot "Ele gostou da idéia, Kali! Você pode fazer isso?"
 
 # game/scripts/kali_events.rpy:6924
 translate pt_br kaliapp_1e44a96e:
 
     # lu "Oh my god, you're going to start the robot uprising, and it's going to start with her..."
-    lu ""
+    lu "Meu deus, você vai começar o levante dos robôs, e vai começar com ela..."
 
 # game/scripts/kali_events.rpy:6926
 translate pt_br kaliapp_aaaa756c:
 
     # k "This isn't a sci-fi story, Lucia. It'll be fine."
-    k ""
+    k "Isso não é uma história sci-fi, Lucy. Vai ser divertido."
 
 # game/scripts/kali_events.rpy:6927
 translate pt_br kaliapp_0fe2c5e9:
 
     # lu "Whatever... Don't say I didn't warn you..."
-    lu ""
+    lu "Tanto faz... não diga que eu não te avisei..."
 
 # game/scripts/kali_events.rpy:6929
 translate pt_br kaliapp_52f43fc5:
 
     # k "Alright, you're going to have to give me a couple of days to make something. I can use the template of you I have backed up on my computer to test it so it doesn't mess up anything inside you."
-    k ""
+    k "Tá bem, você vai precisar me dar alguns dias para fazer qualquer coisa. Eu posso usar o backup do seu template que eu tenho no meu computador para testar, então não vai bagunçar nada em você."
 
 # game/scripts/kali_events.rpy:6930
 translate pt_br kaliapp_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/scripts/kali_events.rpy:6938
 translate pt_br kalirplay_7417fc2c:
 
     # "You and Maria wait for Kali to leave. Once her shift begins, Maria orders pizza..."
-    ""
+    "Você e Maria esperam Kali sair. Assim que o turno dela começa, Maria pede uma pizza..."
 
 # game/scripts/kali_events.rpy:6940
 translate pt_br kalirplay_c697f105:
 
     # m "The app says she's right outside the hotel, are you excited!? I know I am!"
-    m "O aplicativo diz que ela está na frente do hotel, você tá ansioso? Porquê eu tô!"
+    m "O aplicativo diz que ela está na frente do hotel, você tá ansioso? Porquê eu estou!"
 
 # game/scripts/kali_events.rpy:6941
 translate pt_br kalirplay_b950e5d9:
