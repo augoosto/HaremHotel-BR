@@ -21688,301 +21688,301 @@ translate pt_br kali_preparty_9c974223:
 translate pt_br kali_preparty_24ec1c36:
 
     # c "Of course I'm coming."
-    c ""
+    c "É claro que eu vou."
 
 # game/scripts/kali_events.rpy:5864
 translate pt_br kali_preparty_97a020cc:
 
     # k "That's a relief... I still fucking hate this though."
-    k ""
+    k "Isso é um alívio... mas eu ainda odeio isso."
 
 # game/scripts/kali_events.rpy:5867
 translate pt_br kali_preparty_bbc6f320:
 
     # c "I can see that your sister doesn't understand you, it must have been hard living like that."
-    c ""
+    c "Eu vejo que a sua irmã realmente não te entende, deve ter sido difícil viver dessa forma."
 
 # game/scripts/kali_events.rpy:5868
 translate pt_br kali_preparty_9a05a512:
 
     # k "Yeah... my mother wasn't great either..."
-    k ""
+    k "Sim... minha mãe não era muito boa também..."
 
 # game/scripts/kali_events.rpy:5869
 translate pt_br kali_preparty_2ce83163:
 
     # c "I'll be with you every step of the way, and if it sucks, we can just leave."
-    c ""
+    c "Eu vou estar com você o tempo todo, e se ficar sem graça, nós podemos ir embora."
 
 # game/scripts/kali_events.rpy:5871
 translate pt_br kali_preparty_6a15f115:
 
     # k "Hah, thanks... but this isn't really the type of event where you can just leave whenever you want."
-    k ""
+    k "Hah, obrigada... mas esse não é exatamente o tipo de evento que agente pode sair a qualquer hora."
 
 # game/scripts/kali_events.rpy:5872
 translate pt_br kali_preparty_101bd66d:
 
     # c "What are they going to do, keep us there against our will?"
-    c ""
+    c "O que eles vão fazer, nos manter lá contra nossa vontade?"
 
 # game/scripts/kali_events.rpy:5873
 translate pt_br kali_preparty_4a95d45c:
 
     # k "Well no, but..."
-    k ""
+    k "Bem, não, mas..."
 
 # game/scripts/kali_events.rpy:5874
 translate pt_br kali_preparty_1835cc1c:
 
     # c "Then we can leave whenever we want. Who cares what they think."
-    c ""
+    c "Então nós podemos sair quando agente quiser. Quem liga pro que eles pensam."
 
 # game/scripts/kali_events.rpy:5876
 translate pt_br kali_preparty_76c44b5e:
 
     # k "Yeah, I guess..."
-    k ""
+    k "É, eu acho..."
 
 # game/scripts/kali_events.rpy:5879
 translate pt_br kali_preparty_b244c118:
 
     # c "It'll be fun! I think it would be good for you to get out and try something new."
-    c ""
+    c "Vai ser divertido! Eu acho que vai ser bom para você experimentar coisas novas."
 
 # game/scripts/kali_events.rpy:5881
 translate pt_br kali_preparty_bb50fccd:
 
     # k "Well... I don't."
-    k ""
+    k "Bem... eu não."
 
 # game/scripts/kali_events.rpy:5884
 translate pt_br kali_preparty_a2788b5a:
 
     # k "Whatever..."
-    k ""
+    k "Tanto faz..."
 
 # game/scripts/kali_events.rpy:5886
 translate pt_br kali_preparty_869afc61:
 
     # k "We're going to the city in two days at Noon, be ready."
-    k ""
+    k "Nós vamos para a cidade em dois dias à tarde, esteja pronto."
 
 # game/scripts/kali_events.rpy:5887
 translate pt_br kali_preparty_79b58b81:
 
     # c "Your father is coming to Syl'anar?"
-    c ""
+    c "Seu pai está vindo para Syl'anar?"
 
 # game/scripts/kali_events.rpy:5888
 translate pt_br kali_preparty_6b42e9f9:
 
     # k "Yeah, I don't know why, he rarely comes here and doesn't throw these types of parties often."
-    k ""
+    k "Sim, não sei porque, ele raramente vem aqui e dá essas festas."
 
 # game/scripts/kali_events.rpy:5890
 translate pt_br kali_preparty_de70d104:
 
     # k "That means we need to go shopping, FUCK!"
-    k ""
+    k "Significa que agente precisa ir fazer compras, PORRA!"
 
 # game/scripts/kali_events.rpy:5891
 translate pt_br kali_preparty_578a16af:
 
     # c "Don't you have that red dress?"
-    c ""
+    c "Você não tem aquele vestido vermelho?"
 
 # game/scripts/kali_events.rpy:5892
 translate pt_br kali_preparty_f1cbf601:
 
     # k "We aren't wearing dresses, we're going in swim suits..."
-    k ""
+    k "Nós não vamos usar esse tipo de roupa, precisa ser roupas de piscina..."
 
 # game/scripts/kali_events.rpy:5894
 translate pt_br kali_preparty_c9814ed7:
 
     # k "The party we're going to is at my Dad's 'party house'. We'll be swimming and drinking alcohol while the more important people talk..."
-    k ""
+    k "A festa que agente vai será na casa do meu pai. Vai ter gente nadando e bebendo álcool em quanto as pessoas importantes conversam..."
 
 # game/scripts/kali_events.rpy:5895
 translate pt_br kali_preparty_201cbace:
 
     # k "Can you help me pick something out? I'm not really good at knowing what looks good on me."
-    k ""
+    k "Pode me ajudar a escolher alguma coisa? Eu não sou boa em dizer o que fica bom em mim."
 
 # game/scripts/kali_events.rpy:5896
 translate pt_br kali_preparty_3f80d691:
 
     # c "You won't have to worry about that, nothing would look bad on {i}you{/i}."
-    c ""
+    c "Você não precisa se preocupar com isso, nada vai ficar ruim em {i}você(/i)."
 
 # game/scripts/kali_events.rpy:5898
 translate pt_br kali_preparty_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala boca!"
 
 # game/scripts/kali_events.rpy:5899
 translate pt_br kali_preparty_e7836792:
 
     # k "...So you'll help me, right?"
-    k ""
+    k "... Então você vai me ajudar, né?"
 
 # game/scripts/kali_events.rpy:5900
 translate pt_br kali_preparty_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:5902
 translate pt_br kali_preparty_ed9104d8:
 
     # k "Thank you... Sorry for making you go through this with me, my dad kind of just throws these things on us, he doesn't really think about our plans much. Maybe it's just because he's been rich for so long. He didn't even give us money to buy anything..."
-    k ""
+    k "Obrigada... desculpa por te meter nessa comigo, meu pai só joga esse tipo de coisa na gente, ele nem pensa nos nossos planos. Talvez seja porque ele é bem rico. Ele não dá dinheiro para gente comprar nada..."
 
 # game/scripts/kali_events.rpy:5906
 translate pt_br kali_preparty_a4e6776d:
 
     # k "Really? Thank you so much!"
-    k ""
+    k "Sério? Muito obrigada!"
 
 # game/scripts/kali_events.rpy:5910
 translate pt_br kali_preparty_96552940:
 
     # k "I was also thinking of inviting [botname], what do you think?"
-    k ""
+    k "Eu tava pensando em convidar a [botname], o que você acha?"
 
 # game/scripts/kali_events.rpy:5911
 translate pt_br kali_preparty_4b54a5a8:
 
     # c "Why would you do that?"
-    c ""
+    c "Por que convidar ela?"
 
 # game/scripts/kali_events.rpy:5912
 translate pt_br kali_preparty_b2688c13:
 
     # k "Well, aside from her being my friend, she'll make us look better."
-    k ""
+    k "Bem, além dela ser minha amiga, ela vai fazer agente parecer importante."
 
 # game/scripts/kali_events.rpy:5913
 translate pt_br kali_preparty_0cecc2ea:
 
     # k "People usually bring their slave or android to these things to flaunt themselves, so it would just help us fit in and maybe impress a few people."
-    k ""
+    k "As pessoas normalmente levam os escravos ou androids para esse tipo de coisa para ostentar, então ajudaria agente a se entrosar e impressionar algumas pessoas."
 
 # game/scripts/kali_events.rpy:5914
 translate pt_br kali_preparty_ffbea18e:
 
     # c "That sounds good to me. I'm sure you could use a friend by your side."
-    c ""
+    c "Parece bom para mim. Tenho certeza que iria te ajudar a fazer alguns amigos."
 
 # game/scripts/kali_events.rpy:5916
 translate pt_br kali_preparty_607c401c:
 
     # k "Cool... everything is turning out alright... I just hope my boss doesn't fire me for missing another day without much notice..."
-    k ""
+    k "Legal... tudo está bem planejado... eu só espero que meu chefe não me demita por faltar outro dia..."
 
 # game/scripts/kali_events.rpy:5917
 translate pt_br kali_preparty_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:5919
 translate pt_br kali_preparty_335a4fb9:
 
     # k "Fuck it! Wanna go shopping and fuck all day?"
-    k ""
+    k "Foda-se! Quer ir fazer compras e foder o dia inteiro?"
 
 # game/scripts/kali_events.rpy:5920
 translate pt_br kali_preparty_b91d65a9:
 
     # c "Haha, sure, let's go."
-    c ""
+    c "Haha. Claro, vamos."
 
 # game/scripts/kali_events.rpy:5922
 translate pt_br kali_preparty_71c66073:
 
     # "You take some time out of your day to drive Kali to an expensive clothing store in the city."
-    ""
+    "Você toma um tempo do seu dia para levar a Kali para uma loja de roupas caras na cidade. "
 
 # game/scripts/kali_events.rpy:5923
 translate pt_br kali_preparty_ec56a425:
 
     # "Once you two arrive, you begin looking for something for Kali to wear. She's unsure what would look good on her, so she stays back and follows you around - often commenting on style or color preference."
-    ""
+    "Assim que vocês dois chegam, você começa a procurar por algo para a Kali usar. Ela não tem certeza do que poderia ficar bom nela, então ela apenas te segue por aí - de vez em quando escolhendo estilo ou preferência de cores."
 
 # game/scripts/kali_events.rpy:5924
 translate pt_br kali_preparty_31ad3ea4:
 
     # "You find a sexy piece for Kali to wear. After you see how well it fits her, you buy it. Kali seems happy with your purchase."
-    ""
+    "Você encontra uma roupa sexy para a Kali usar. Depois de ver o quão bem fica nela, você compra. Kali parece feliz com a escolha."
 
 # game/scripts/kali_events.rpy:5928
 translate pt_br kali_preparty_713e8ff6:
 
     # k "Thanks! Don't forget, it's in two days at Noon!"
-    k ""
+    k "Obrigada! Não se esqueça, em dois dias, à tarde!"
 
 # game/scripts/kali_events.rpy:5929
 translate pt_br kali_preparty_2c17890e:
 
     # c "Got it."
-    c ""
+    c "Tendi."
 
 # game/scripts/kali_events.rpy:5930
 translate pt_br kali_preparty_4f5f7c21:
 
     # k "And... just let me know when you wanna fuck..."
-    k ""
+    k "E... me diga quando quiser foder..."
 
 # game/scripts/kali_events.rpy:5938
 translate pt_br kali_fancyparty_35091cd9:
 
     # "Once Lucia finishes getting prepared, the four of you lift off into the skies. The helicopter is relatively quiet, so casual conversation is possible without the need of special equipment."
-    ""
+    "Assim que a Lucy termina de se arrumar, vocês quatro levantam voo. O helicóptero é relativamente quieto, uma conversa casual é possível sem precisar de equipamento especial."
 
 # game/scripts/kali_events.rpy:5939
 translate pt_br kali_fancyparty_6f3b1497:
 
     # "While this seems routine to Lucy, Kali is clearly a fish out of water here. Lucy attempts to give Kali some tips, but they largely go ignored."
-    ""
+    "Em quanto isso parece rotina para a Lucy. A Kali está claramente fora d'água aqui. Lucy tenta dar algunsa conselhos para a Kali, mas ela os ignora."
 
 # game/scripts/kali_events.rpy:5940
 translate pt_br kali_fancyparty_d95cedde:
 
     # "[botname] seems to be just as excited as Lucia, but she is also quite anxious which results in frequent conversation between her and Kali about what to expect."
-    ""
+    "[botname] parece bem animada assim como a Lucy, mas também ansiosa. Oque resulta em uma conversa frequente entre ela e a Kali sobre oque esperar."
 
 # game/scripts/kali_events.rpy:5941
 translate pt_br kali_fancyparty_42debb9c:
 
     # "Within a short time, you reach the city. Your helicopter descends towards one of the many towers. As you were landing, you caught a glimpse of the party on the floor just below the one you're landing on."
-    ""
+    "Em pouco tempo, vocês chgam à cidade. O helicóptero desce em direção a uma das torres. Em quanto vocês descem, você tem um vislumbre da festa ao piso bem abaixo de vocês."
 
 # game/scripts/kali_events.rpy:5943
 translate pt_br kali_fancyparty_947cc8ab:
 
     # k "Be right back, we're going to change."
-    k ""
+    k "Já voltamos, nós vamos nos trocar."
 
 # game/scripts/kali_events.rpy:5945
 translate pt_br kali_fancyparty_2a3f7875:
 
     # bot "There's a lot of androids here... everyone looks so rich, too."
-    bot ""
+    bot "Tem muitos androids aqui... todo mundo parece bem rico, também..."
 
 # game/scripts/kali_events.rpy:5946
 translate pt_br kali_fancyparty_25b38b36:
 
     # c "Act natural. You don't want to draw any attention."
-    c ""
+    c "Aja naturalmente. Não chame atenção."
 
 # game/scripts/kali_events.rpy:5948
 translate pt_br kali_fancyparty_ee5d76fe:
 
     # bot "I have to pretend to be a dumb robot, [botown]...?"
-    bot ""
+    bot "Eu tenho que parecer um robô burro, [botown]...?"
 
 # game/scripts/kali_events.rpy:5949
 translate pt_br kali_fancyparty_9e1c97f0:
