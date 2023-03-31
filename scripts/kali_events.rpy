@@ -22288,415 +22288,415 @@ translate pt_br kali_fancyparty_20b031b7:
 translate pt_br kali_fancyparty_f00565f4:
 
     # c "No more arms."
-    c ""
+    c "Não, nada de três braços."
 
 # game/scripts/kali_events.rpy:6025
 translate pt_br kali_fancyparty_f7815d32:
 
     # bot "Heheh, okay..."
-    bot ""
+    bot "Heheh, ok..."
 
 # game/scripts/kali_events.rpy:6027
 translate pt_br kali_fancyparty_a85694a3:
 
     # lu "What about Dad's offer? Is that still on the table?"
-    lu ""
+    lu "E a oferta do pai? Tá pensando nisso?"
 
 # game/scripts/kali_events.rpy:6028
 translate pt_br kali_fancyparty_453fb220:
 
     # k "I don't want to be a CEO..."
-    k ""
+    k "Eu não quero ser uma CEO..."
 
 # game/scripts/kali_events.rpy:6029
 translate pt_br kali_fancyparty_9e3d46d6:
 
     # lu "What do you want to be, then?"
-    lu ""
+    lu "O que você quer ser, então?"
 
 # game/scripts/kali_events.rpy:6031
 translate pt_br kali_fancyparty_d30b67dc:
 
     # k "I don't know!! Can we stop talking about this!?"
-    k ""
+    k "Eu não sei!! Agente pode parar de falar sobre isso!?"
 
 # game/scripts/kali_events.rpy:6033
 translate pt_br kali_fancyparty_67e048ed:
 
     # k "Urgh. Go get me a drink..."
-    k ""
+    k "Utgh. Me traz uma bebida..."
 
 # game/scripts/kali_events.rpy:6034
 translate pt_br kali_fancyparty_8b735976:
 
     # k "Get five, actually."
-    k ""
+    k "Cinco, na verdade."
 
 # game/scripts/kali_events.rpy:6035
 translate pt_br kali_fancyparty_83f3482b:
 
     # lu "Well damn sis, alright!"
-    lu ""
+    lu "Bem, droga mana, beleza!"
 
 # game/scripts/kali_events.rpy:6036
 translate pt_br kali_fancyparty_f4000d98:
 
     # k "I just want this to be done with..."
-    k ""
+    k "Eu só quero acabar com isso..."
 
 # game/scripts/kali_events.rpy:6037
 translate pt_br kali_fancyparty_fc9ff495:
 
     # c "Don't go overboard."
-    c ""
+    c "Não exagere."
 
 # game/scripts/kali_events.rpy:6039
 translate pt_br kali_fancyparty_9c3a655f:
 
     # k "Are you coming in, [botname]?"
-    k ""
+    k "Você não vai entrar, [botname]?"
 
 # game/scripts/kali_events.rpy:6040
 translate pt_br kali_fancyparty_affdf3ec:
 
     # bot "It would be pretty weird for an Android to go in water... most of us can't handle submersion."
-    bot ""
+    bot "Seria bem estranho uma android entrar em uma piscina... a maioria de nós não consegue."
 
 # game/scripts/kali_events.rpy:6041
 translate pt_br kali_fancyparty_9ea7fcf1:
 
     # k "Oh, right..."
-    k ""
+    k "Oh, tá certo..."
 
 # game/scripts/kali_events.rpy:6046
 translate pt_br k_fancyq_2ac1b744:
 
     # k "I have no clue anymore..."
-    k ""
+    k "Eu nem sei mais..."
 
 # game/scripts/kali_events.rpy:6047
 translate pt_br k_fancyq_93801381:
 
     # k "Let's see, in Syl'anar he owns this place, that house we went to before, one in central and one in east Syl'anar... maybe a few more."
-    k ""
+    k "Vamos ver, em Syl'anar ele tem esse lugar, aquele que agente foi da outra vez, mais uma na central e no leste de Syl'anar... talvez mais algumas."
 
 # game/scripts/kali_events.rpy:6048
 translate pt_br k_fancyq_db25a583:
 
     # k "He owned three buildings in The Capitol last time I was living with him. There's at least five more on that continent, and a few others on other continents."
-    k ""
+    k "Ele tinha três casas na Capitol quando eu vivia com ele. Tem ao menos mais 5 no outro continente, e mais alguns em outros."
 
 # game/scripts/kali_events.rpy:6049
 translate pt_br k_fancyq_590a672f:
 
     # c "Does he have a place in every part of the world to stay in?"
-    c ""
+    c "Ele tem uma casa em todo lugar do mundo?"
 
 # game/scripts/kali_events.rpy:6050
 translate pt_br k_fancyq_c8a55f2e:
 
     # k "Just the places he visits the most. He hates staying in hotels, he would save a lot of money if he just sucked it up..."
-    k ""
+    k "Só nos lugares que ele mais visita. Ele odeia ficar em hotéis, ele economizaria bastante dinheiro se ele aguentasse..."
 
 # game/scripts/kali_events.rpy:6052
 translate pt_br k_fancyq_212aa825:
 
     # k "But he does rent each place out when he's not using it for a very cheap price. He was actually on the news last month for letting a homeless family live in one of his apartments in The Capitol absolutely free for eight months."
-    k ""
+    k "Mas ele aluga as casas para outras pessoas quando ele não está usando por um preço bem barato. Ele na verdade, estava na tv mês passado por ter deixado uma família sem teto morar em um dos apartamentos dele na Capital de graça e por oito meses."
 
 # game/scripts/kali_events.rpy:6053
 translate pt_br k_fancyq_d177a729:
 
     # c "He sounds like a decent guy."
-    c ""
+    c "Ele me parece um cara decente."
 
 # game/scripts/kali_events.rpy:6055
 translate pt_br k_fancyq_76116836:
 
     # k "Well... when you look at him like that... yeah, he's not that bad..."
-    k ""
+    k "Bem... quando você olha para ele desse jeito... é, ele não é tão ruim..."
 
 # game/scripts/kali_events.rpy:6056
 translate pt_br k_fancyq_3143a607:
 
     # k "He has done some things a lot people didn't really like... or that I agree with..."
-    k ""
+    k "Ele fez algumas coisas que várias pessoas não gostaram muito... ou não concordaram..."
 
 # game/scripts/kali_events.rpy:6057
 translate pt_br k_fancyq_3fa04db9:
 
     # c "What has he done?"
-    c ""
+    c "E o que ele fez?"
 
 # game/scripts/kali_events.rpy:6058
 translate pt_br k_fancyq_b3eafd38:
 
     # k "Nothing really inherently evil... but some of the things he has done has had some unforseen consequences..."
-    k ""
+    k "Nada verdadeiramente do mal... mas algumas coisas das coisas que ele fez teve algumas consequências não previstas..."
 
 # game/scripts/kali_events.rpy:6059
 translate pt_br k_fancyq_6de91077:
 
     # k "One time when I was young, he was involved with a silicon mining company. He expanded so fast, the mines were cleaned out within a few years. Half the town was of out of a job once it dried up..."
-    k ""
+    k "Uma vez, quando eu era mais jovem, ele estava envolvido com uma empresa mineradora de silicone, as minas foram completamente limpas em alguns anos. Metade da cidade ficou sem emprego quando a mina secou..."
 
 # game/scripts/kali_events.rpy:6060
 translate pt_br k_fancyq_bbdcf5bb:
 
     # k "He doesn't really think about the long term..."
-    k ""
+    k "Ele não pensa no longo prazo..."
 
 # game/scripts/kali_events.rpy:6064
 translate pt_br k_fancyq_b9c1b9e5:
 
     # k "I guess it started with my Grandfather. He was one of the first to be involved with commercial solar panels. He didn't get mega rich like my Dad did though, but he paved the way for my Father."
-    k ""
+    k "Eu acho que isso começou com meu avô. Ele foi um dos primeiros a ser involvido com o comércio de painéis solares. Mas ele não ficou super rico como meu pai, mas ele pavimentou o caminho para o meu pai."
 
 # game/scripts/kali_events.rpy:6065
 translate pt_br k_fancyq_03d5b1b3:
 
     # k "My Dad started by tinkering with androids and computer hardware in college."
-    k ""
+    k "Meu pai começou a se envolver com androids e hardware de computador na faculdade."
 
 # game/scripts/kali_events.rpy:6067
 translate pt_br k_fancyq_c7618e93:
 
     # k "He made these stupid battle bot monstrosities and used a remote controller to scare people..."
-    k ""
+    k "Ele fez essas monstrousidades de robôs de batalha e usou um controle remoto para assustar as pessoas... "
 
 # game/scripts/kali_events.rpy:6068
 translate pt_br k_fancyq_b7f946bc:
 
     # k "Eventually he made Nero Inc., which is a hardware company. Just about anything with electronics in it has something from Nero Inc. inside. Now he focuses more on buying companies."
-    k ""
+    k "Eventualmente ele criou a Nero Inc., que é uma empresa de hardwares. Em pouco tempo qualquer coisa que envolvia eletrônico vinha da Nero Inc., Agora ele está focado em comprar outras empresas."
 
 # game/scripts/kali_events.rpy:6069
 translate pt_br k_fancyq_529e18d3:
 
     # c "So you were the daughter of a billionaire all your life?"
-    c ""
+    c "Então você foi a filha de um bilionário na sua vida toda?"
 
 # game/scripts/kali_events.rpy:6070
 translate pt_br k_fancyq_d4c590a8:
 
     # k "Well, he wasn't always a billionaire, but yeah, it's been pretty much just like this all my life."
-    k ""
+    k "Bem, ele não foi um bilionário a vida inteira, mas sim, foi basicamente isso a minha vida toda."
 
 # game/scripts/kali_events.rpy:6074
 translate pt_br k_fancyq_43ba0d85:
 
     # k "A bit closer than I am to my Dad, I guess."
-    k ""
+    k "Mais próxima que com o meu pai, eu acho."
 
 # game/scripts/kali_events.rpy:6075
 translate pt_br k_fancyq_5bfd3ddd:
 
     # k "She was a waitress, she wasn't too interested in anything relating to technology but she did support my Dad in almost everything."
-    k ""
+    k "Ela era uma garçonete, ela não era tão interessada em nada relacionado a tecnologia mas ela apoiava meu pai em quase tudo."
 
 # game/scripts/kali_events.rpy:6077
 translate pt_br k_fancyq_75426747:
 
     # k "She died when I was six... she was the person who took care of Lucy and I the most, but she still went to work as a waitress, she never quit."
-    k ""
+    k "Ele morreu quando eu tinha seis anos... ela era quem mais cuidava de mim e da Lucy, mas ela ainda tinha que trabalhar como garçonete, ela nunca pediu demissão."
 
 # game/scripts/kali_events.rpy:6078
 translate pt_br k_fancyq_f59c3eee:
 
     # c "Who took care of you when she was gone?"
-    c ""
+    c "Quem cuidou de você quando ela se foi?"
 
 # game/scripts/kali_events.rpy:6080
 translate pt_br k_fancyq_efa7a9f5:
 
     # k "Our androids did. They made us food, changed Lucy's diapers, everything."
-    k ""
+    k "Nossos androids. Eles faziam a comida, trocavam as fraldas da Lucy, tudo."
 
 # game/scripts/kali_events.rpy:6082
 translate pt_br k_fancyq_2957186c:
 
     # k "Our parents would talk through our androids sometimes, I don't remember it too well, but I loved hearing their voices."
-    k ""
+    k "Nossos parentes conversavam conosco através dos androids as vezes, eu não me lembro muito bem, mas eu amava ouvir as vozes deles."
 
 # game/scripts/kali_events.rpy:6083
 translate pt_br k_fancyq_6c4120b6:
 
     # bot "That's so sweet, I didn't know that was possible!"
-    bot ""
+    bot "Que fofo, eu não sabia que isso era possível!"
 
 # game/scripts/kali_events.rpy:6084
 translate pt_br k_fancyq_fd9e028a:
 
     # k "Anything is possible when you're rich, I guess. At the time it was pretty expensive to own an android, now it's a lot more common."
-    k ""
+    k "Qualquer coisa é possível quando se é rico, eu acho. Naquela época era bem mais caro para se ter um android, agora já mais comum."
 
 # game/scripts/kali_events.rpy:6085
 translate pt_br k_fancyq_de5ca60e:
 
     # k "My dad wanted me to learn software in an android, that's how I was introduced into programming."
-    k ""
+    k "Meu pai queria que eu aprendesse a fazer softwares para androids, e foi assim que eu comecei a programar."
 
 # game/scripts/kali_events.rpy:6086
 translate pt_br k_fancyq_0fb253c3:
 
     # bot "That's awesome! What did you do?"
-    bot ""
+    bot "Isso é incrível! E o que você fazia?"
 
 # game/scripts/kali_events.rpy:6087
 translate pt_br k_fancyq_5e3b0c88:
 
     # k "Nothing too special. I mostly made them pull stupid pranks on people."
-    k ""
+    k "Nada de especial. Na maioria das vezes eu pregava peças nas pessoas."
 
 # game/scripts/kali_events.rpy:6089
 translate pt_br k_fancyq_f62c65de:
 
     # bot "Can you program something into my software?"
-    bot ""
+    bot "Você pode programar alguma coisa no meu software?"
 
 # game/scripts/kali_events.rpy:6090
 translate pt_br k_fancyq_f7894d4c:
 
     # k "It's been a really long time since I coded anything in your program's language. I doubt it."
-    k ""
+    k "Faz muito tempo que eu não programo nada na linguagem do seu software. Eu dúvido."
 
 # game/scripts/kali_events.rpy:6091
 translate pt_br k_fancyq_2c282f9d:
 
     # bot "You did something to my program a while ago, didn't you?"
-    bot ""
+    bot "Você não fez alguma coisa à uns dias atrás no meu programas?"
 
 # game/scripts/kali_events.rpy:6092
 translate pt_br k_fancyq_df2fe037:
 
     # k "You're more complicated than you look. I can adjust variables using an app, but I won't be able to develop any new systems for you at the moment."
-    k ""
+    k "Você é mais complicada do que aparenta. Eu só consigo ajustar algumas variáveis usando um aplicativo, mas eu não conseguiria desenvolver nenhum sistema novo para você no momento."
 
 # game/scripts/kali_events.rpy:6093
 translate pt_br k_fancyq_da550ad9:
 
     # bot "Aw, okay."
-    bot ""
+    bot "Aw, ok."
 
 # game/scripts/kali_events.rpy:6097
 translate pt_br k_fancyq_7b4d6ba7:
 
     # k "Like sexually... or...?"
-    k ""
+    k "Tipo... sexualmente, ou... ?"
 
 # game/scripts/kali_events.rpy:6098
 translate pt_br k_fancyq_f0195f19:
 
     # c "Both."
-    c ""
+    c "Ambos."
 
 # game/scripts/kali_events.rpy:6100
 translate pt_br k_fancyq_1c273f24:
 
     # k "Um, okay... I guess I'll start with the non sexual stuff..."
-    k ""
+    k "Um, ok... acho que vou começar com as coisas não sexuais..."
 
 # game/scripts/kali_events.rpy:6101
 translate pt_br k_fancyq_201db7a0:
 
     # bot "Heheh, don't worry Kali, I already know what you do when you think no one else is looking~"
-    bot ""
+    bot "Heheh, não se preocupe Kali, eu já sei oque você faz quando pensa que ninguém está olhando~"
 
 # game/scripts/kali_events.rpy:6103
 translate pt_br k_fancyq_a6a39bcf:
 
     # k "W-What? How?"
-    k ""
+    k "O-O que? Como?"
 
 # game/scripts/kali_events.rpy:6104
 translate pt_br k_fancyq_e5487ef0:
 
     # bot "That's my secret to keep."
-    bot ""
+    bot "Segredo."
 
 # game/scripts/kali_events.rpy:6105
 translate pt_br k_fancyq_55b78173:
 
     # k "Whatever, you're lying..."
-    k ""
+    k "Tanto faz, você está mentindo..."
 
 # game/scripts/kali_events.rpy:6106
 translate pt_br k_fancyq_72567fe7:
 
     # bot "I'll prove it! Maria is masturbating in her room right now."
-    bot ""
+    bot "Eu posso provar! Maria está se masturbando agora."
 
 # game/scripts/kali_events.rpy:6108
 translate pt_br k_fancyq_56c29d1d:
 
     # k "Maria is always masturbating..."
-    k ""
+    k "Maria tá sempre se masturbando..."
 
 # game/scripts/kali_events.rpy:6110
 translate pt_br k_fancyq_e17fccdf:
 
     # k "...I like to watch KPOP videos sometimes, I guess... It's sort of a guilty pleasure, I don't know why I like it..."
-    k ""
+    k "... Eu gosto de assistir vídeos de KPOP as vezes, eu acho... é meio que um prazer culpado, eu não sei por que eu gosto..."
 
 # game/scripts/kali_events.rpy:6111
 translate pt_br k_fancyq_edd93e7b:
 
     # bot "The boys are so cute!"
-    bot ""
+    bot "Os garotos são muito fofos!"
 
 # game/scripts/kali_events.rpy:6113
 translate pt_br k_fancyq_baf6d7ad:
 
     # k "You watch it too?"
-    k ""
+    k "Você também assiste?"
 
 # game/scripts/kali_events.rpy:6114
 translate pt_br k_fancyq_504b2882:
 
     # bot "Only when I'm watching you."
-    bot ""
+    bot "Só quando eu assisto você."
 
 # game/scripts/kali_events.rpy:6116
 translate pt_br k_fancyq_3910eedd:
 
     # k "You don't need to make fun of me..."
-    k ""
+    k "Não precisa me zuar também..."
 
 # game/scripts/kali_events.rpy:6118
 translate pt_br k_fancyq_c1b7bf39:
 
     # c "And what do you like to do when no one's looking sexually?"
-    c ""
+    c "E o que você gosta de fazer quando ninguém está olhando,sexualmente?"
 
 # game/scripts/kali_events.rpy:6120
 translate pt_br k_fancyq_53c6b932:
 
     # k "Ummm......"
-    k ""
+    k "Ummm......"
 
 # game/scripts/kali_events.rpy:6122
 translate pt_br k_fancyq_8e63da33:
 
     # k "You know... {size=-7}{i}The... the rape thing...{/i}{/size}"
-    k ""
+    k "Você sabe... {size=-7}{i}o... negócio de estupro...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:6123
 translate pt_br k_fancyq_c46d68d6:
 
     # bot "I heard that~"
-    bot ""
+    bot "Eu ovi isso~"
 
 # game/scripts/kali_events.rpy:6125
 translate pt_br k_fancyq_4c22d0f9:
 
     # k "Tsk... damn robot."
-    k ""
+    k "Tsk... droga de robô."
 
 # game/scripts/kali_events.rpy:6126
 translate pt_br k_fancyq_c6a9fe78:
 
     # bot "Hey, that wasn't nice!"
-    bot ""
+    bot "Ei, isso não foi legal!"
 
 # game/scripts/kali_events.rpy:6127
 translate pt_br k_fancyq_b95e1f09:
