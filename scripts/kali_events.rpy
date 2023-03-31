@@ -22702,301 +22702,301 @@ translate pt_br k_fancyq_c6a9fe78:
 translate pt_br k_fancyq_b95e1f09:
 
     # c "What's something I don't know?"
-    c ""
+    c "Tem alguma coisa que eu não saiba?"
 
 # game/scripts/kali_events.rpy:6128
 translate pt_br k_fancyq_42cf0cdf:
 
     # bot "Tell him about the dreams!"
-    bot ""
+    bot "Conta sobre seus sonhos!"
 
 # game/scripts/kali_events.rpy:6130
 translate pt_br k_fancyq_3244b635:
 
     # k "WHAT!?"
-    k ""
+    k "O QUE!?"
 
 # game/scripts/kali_events.rpy:6131
 translate pt_br k_fancyq_36b3ebf0:
 
     # k "Fuck you! You have been watching me! Tell me how!"
-    k ""
+    k "Vai se foder! Você fica me assistindo! Me diz como!"
 
 # game/scripts/kali_events.rpy:6133
 translate pt_br k_fancyq_77d094b7:
 
     # bot "Hahahaha!"
-    bot ""
+    bot "Hahahaha!"
 
 # game/scripts/kali_events.rpy:6135
 translate pt_br k_fancyq_e17d3f6e:
 
     # k "I'll drown you, bitch!"
-    k ""
+    k "Eu vou te afogar, vadia!"
 
 # game/scripts/kali_events.rpy:6136
 translate pt_br k_fancyq_53019518:
 
     # bot "Heh heheheh, hahaha!"
-    bot ""
+    bot "Heh heheheh, hahaha!"
 
 # game/scripts/kali_events.rpy:6138
 translate pt_br k_fancyq_777a190e:
 
     # bot "-Eh... uhmm..."
-    bot ""
+    bot "-Eh... uhmm..."
 
 # game/scripts/kali_events.rpy:6139
 translate pt_br k_fancyq_70fd707d:
 
     # bot "HA. HA. FUNNY JOKE."
-    bot ""
+    bot "HA. HA. QUE PIADA BOA."
 
 # game/scripts/kali_events.rpy:6140
 translate pt_br k_fancyq_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/kali_events.rpy:6142
 translate pt_br k_fancyq_e5989189:
 
     # c "What dreams?"
-    c ""
+    c "Que sonhos?"
 
 # game/scripts/kali_events.rpy:6143
 translate pt_br k_fancyq_d036354f:
 
     # k "Uh."
-    k ""
+    k "Uh."
 
 # game/scripts/kali_events.rpy:6145
 translate pt_br k_fancyq_e944290b:
 
     # k "Wellll..."
-    k ""
+    k "Bemmmm..."
 
 # game/scripts/kali_events.rpy:6147
 translate pt_br k_fancyq_37d11040:
 
     # k "Mh, after the first time you made me cum, I couldn't get it out of my head..."
-    k ""
+    k "Mh, depois da primeira vez que você me fez gozar, eu não conseguia tirar isso da minha cabeça..."
 
 # game/scripts/kali_events.rpy:6150
 translate pt_br k_fancyq_35279c37:
 
     # k "When you flipped me over, the way you dominated me was so hot... You plowed me like a bitch and just... mm... made me cum..."
-    k ""
+    k "Quando você me pegou, me virou, e o jeito que você me dominou. Foi tão excitante... você me tratou como uma vadia e... mm... me fez gozar..."
 
 # game/scripts/kali_events.rpy:6151
 translate pt_br k_fancyq_8786b50d:
 
     # k "I {i}really{/i} like the feeling of... being forced like that."
-    k ""
+    k "Eu {i}realmente{/i} gosto de... de ser forçada desse jeito."
 
 # game/scripts/kali_events.rpy:6152
 translate pt_br k_fancyq_4d9cf5af:
 
     # k "When I have no control and I'm being fucked deep by you is when I'm at my happiest..."
-    k ""
+    k "Quando eu não o tenho controle e sou fodida por você, é quando eu fico mais feliz..."
 
 # game/scripts/kali_events.rpy:6153
 translate pt_br k_fancyq_f2b86786:
 
     # k "I have dreams where you tie me up and fill my holes against my will. You never stop, you just keep fucking and fucking until you're satisfied... I keep telling you to stop, but you know I don't truly want you to..."
-    k ""
+    k "Eu tenho sonhos onde você me amarra e enche meus buracos contra a minha vontade. Você nunca para, só continua me fodendo e fodendo até você estar satisfeito... Eu continuo dizendo para você parar, mas você sabe que eu não quero que você pare de verdade..."
 
 # game/scripts/kali_events.rpy:6154
 translate pt_br k_fancyq_15c10f74:
 
     # k "And when you do stop, it's usually just to tease me... you pinch my nipples and rub my pussy even though I'm begging for your cock..."
-    k ""
+    k "E quando você para, é normalmente só para me provocar... você belisca meu mamilos e esfrega contra a minha buceta, mesmo comigo implorando pelo seu pau..."
 
 # game/scripts/kali_events.rpy:6155
 translate pt_br k_fancyq_0c7b74ff:
 
     # k "I keep telling you I don't want any children yet, but you're too worked up... you fill my pussy up whenever you want and always make a huge mess all over my tits..."
-    k ""
+    k "Eu continuo dizendo para você que eu não quero ter nenhum filho, mas você está muito nervoso... você continua enchendo a minha buceta sempre que quer, e sempre faz uma bagunça nos meus peitos..."
 
 # game/scripts/kali_events.rpy:6156
 translate pt_br k_fancyq_acce374e:
 
     # k "You call me a bitch and a slut, and even though I hate it... it turns me on... you degrade me until I'm nothing more than your cum dumpster..."
-    k ""
+    k "Você me chama de cadela e vagabunda, e mesmo eu odiando isso... me deixa excitada... você me quebra até eu não ser mais nada do que sua putinha..."
 
 # game/scripts/kali_events.rpy:6157
 translate pt_br k_fancyq_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6159
 translate pt_br k_fancyq_a1a6b1cd:
 
     # k "It's... just a fantasy..."
-    k ""
+    k "É... só uma fantasia..."
 
 # game/scripts/kali_events.rpy:6161
 translate pt_br k_fancyq_da919011:
 
     # bot "K is for Kinky, be slutty, be proud! {w}A is for Ass, hers needs to be plowed! {w}L is for Lady, for one she is not! {w}I is for Inseminate me, give it a shot!"
-    bot ""
+    bot "K"
 
 # game/scripts/kali_events.rpy:6162
 translate pt_br k_fancyq_b94f8ae3:
 
     # k "Fuck off! Haha!"
-    k ""
+    k "Vai se foder! Haha!"
 
 # game/scripts/kali_events.rpy:6168
 translate pt_br k_fancyq_5ca6e33b:
 
     # k "My biggest weakness? I guess it's food... I used to eat a lot, so it can be hard to restrain myself."
-    k ""
+    k "Minha maior fraqueza? Eu acho que é comida... eu costumava comer bastante, então é difícil me restrigir."
 
 # game/scripts/kali_events.rpy:6169
 translate pt_br k_fancyq_4a4021a9:
 
     # k "I still kind of eat like shit, but I get plenty of excerise."
-    k ""
+    k "Eu ainda gosto de comer porcarias, mas eu também faço bastante exercício."
 
 # game/scripts/kali_events.rpy:6170
 translate pt_br k_fancyq_f2a8d978:
 
     # c "Why did you gain so much weight?"
-    c ""
+    c "Por que você ganhou tanto peso na época?"
 
 # game/scripts/kali_events.rpy:6171
 translate pt_br k_fancyq_47b8cd59:
 
     # k "I didn't take my Mother's death well as a child, so I turned to food whereas Lucy spent more time with her friends and outside our house over the years."
-    k ""
+    k "Eu não levei muito bem a morte da minha mãe quando criança, então eu comecei a comer já que a Lucy passava mais tempo com as amigas dela e fora de casa ao passar dos anos."
 
 # game/scripts/kali_events.rpy:6172
 translate pt_br k_fancyq_c1929928:
 
     # k "Whatever I wanted to eat, our android would feed me. So I ate."
-    k ""
+    k "Sempre que eu queria comer, nosso android me alimentava. Então eu comia."
 
 # game/scripts/kali_events.rpy:6177
 translate pt_br k_fancyq_d6b032dc:
 
     # k "What? We don't need to talk about that..."
-    k ""
+    k "Que? Nós não precisamos falar sobre isso..."
 
 # game/scripts/kali_events.rpy:6178
 translate pt_br k_fancyq_5121e1eb:
 
     # c "I want to know more about you."
-    c ""
+    c "Eu quero saber mais sobre você."
 
 # game/scripts/kali_events.rpy:6180
 translate pt_br k_fancyq_a27609e5:
 
     # k "...I guess... I think my tits are awesome... You seem to like them, so..."
-    k ""
+    k "... Eu acho... que meus peitos são bons... você também parece gostar deles, então..."
 
 # game/scripts/kali_events.rpy:6181
 translate pt_br k_fancyq_629a046e:
 
     # bot "They are awesome! Your cute nipples are so pinchable!"
-    bot ""
+    bot "Eles são incríveis! Seus mamilos fofos são tão beiscáveis!"
 
 # game/scripts/kali_events.rpy:6183
 translate pt_br k_fancyq_e7feee09:
 
     # k "Rgh, don't talk about me like that..."
-    k ""
+    k "Rgh, não fale de mim desse jeito..."
 
 # game/scripts/kali_events.rpy:6187
 translate pt_br k_fancyq_97779a78:
 
     # k "What!? Here? No way!"
-    k ""
+    k "O que!? Aqui? Nem ferrando!"
 
 # game/scripts/kali_events.rpy:6188
 translate pt_br k_fancyq_271ada4b:
 
     # bot "Bummer..."
-    bot ""
+    bot "Chata..."
 
 # game/scripts/kali_events.rpy:6192
 translate pt_br k_fancyq_c55e6d50:
 
     # k "What...?"
-    k ""
+    k "Que...?"
 
 # game/scripts/kali_events.rpy:6193
 translate pt_br k_fancyq_f3b583e2:
 
     # c "I think your tits are pretty awesome too."
-    c ""
+    c "Eu também acho seus peitos muito bons."
 
 # game/scripts/kali_events.rpy:6195
 translate pt_br k_fancyq_ff79fbf5:
 
     # k "Okay, I guess I can do a little flash..."
-    k ""
+    k "Ok, eu acho que eu posso dar um flash..."
 
 # game/scripts/kali_events.rpy:6197
 translate pt_br k_fancyq_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6200
 translate pt_br k_fancyq_9a998f62:
 
     # bot "Oooh!"
-    bot ""
+    bot "Oooh!"
 
 # game/scripts/kali_events.rpy:6202
 translate pt_br k_fancyq_dd818739:
 
     # k "No one saw, right?"
-    k ""
+    k "Ninguém viu, certo?"
 
 # game/scripts/kali_events.rpy:6203
 translate pt_br k_fancyq_34a6233a:
 
     # bot "Who knows?"
-    bot ""
+    bot "Quem sabe?"
 
 # game/scripts/kali_events.rpy:6207
 translate pt_br k_fancyq_ddda30da:
 
     # c "What about your favorite non physical part of yourself?"
-    c ""
+    c "E sua parte não fisíca favorita?"
 
 # game/scripts/kali_events.rpy:6208
 translate pt_br k_fancyq_de36c187:
 
     # k "You want me to just... brag? I don't know, that just kind of feels weird."
-    k ""
+    k "Você quer que eu... me gabe? Eu não sei, isso é estranho."
 
 # game/scripts/kali_events.rpy:6209
 translate pt_br k_fancyq_004a5a9f:
 
     # c "You have my permission to brag about yourself."
-    c ""
+    c "Você tem minha permissão para se gabar."
 
 # game/scripts/kali_events.rpy:6211
 translate pt_br k_fancyq_bb6116a7:
 
     # k "Haha, okay, um..."
-    k ""
+    k "Haha, ok, um..."
 
 # game/scripts/kali_events.rpy:6212
 translate pt_br k_fancyq_c7e835f7:
 
     # k "...I like to think I'm a very dedicated person. Maybe it doesn't really come off that way because I'm a bit lazy... but you have no idea what I'm able to accomplish when I'm doing what I love."
-    k ""
+    k "... Eu gosto de de pensar que eu sou uma pessoa dedicada. Talvez não pareça por que eu sou um pouco preguiçosa... você não tem idéia do que eu sou capaz de atingir quando eu faço o que eu gosto."
 
 # game/scripts/kali_events.rpy:6213
 translate pt_br k_fancyq_954e405b:
 
     # k "I learned programming just because I wanted to have some fun with the androids at my Dad's tower. I'm even diamond in league, so that's pretty cool, I guess..."
-    k ""
+    k "Eu aprendi a programar só por causa que eu queria me divertir com os androids na torre do meu pai. Eu estou até na liga diamante, então isso é bem legal, eu acho..."
 
 # game/scripts/kali_events.rpy:6215
 translate pt_br k_fancyq_88ead648:
