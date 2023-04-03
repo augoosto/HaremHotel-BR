@@ -22840,7 +22840,7 @@ translate pt_br k_fancyq_a1a6b1cd:
 translate pt_br k_fancyq_da919011:
 
     # bot "K is for Kinky, be slutty, be proud! {w}A is for Ass, hers needs to be plowed! {w}L is for Lady, for one she is not! {w}I is for Inseminate me, give it a shot!"
-    bot "K"
+    bot ""
 
 # game/scripts/kali_events.rpy:6162
 translate pt_br k_fancyq_b94f8ae3:
@@ -23002,301 +23002,301 @@ translate pt_br k_fancyq_954e405b:
 translate pt_br k_fancyq_88ead648:
 
     # k "Oh, and I know you said non physical, but it takes guts to take your cock down my throat, so I'm pretty proud I'm able to do that."
-    k ""
+    k "Oh, e eu sei que você falou não fisíca, mas se precisa de coragem para conseguir colocar seu pau inteiro na minha garganta, então, eu tenho orgullho que eu consiga fazer isso."
 
 # game/scripts/kali_events.rpy:6220
 translate pt_br k_fancyq_c24688aa:
 
     # mari "Everyone! Your attention please!"
-    mari ""
+    mari "Todo mundo! Um pouco da sua atenção, por favor!"
 
 # game/scripts/kali_events.rpy:6221
 translate pt_br k_fancyq_6dbd8612:
 
     # k "Sounds like something's happening..."
-    k ""
+    k "Me parece que algo vai acontecer..."
 
 # game/scripts/kali_events.rpy:6224
 translate pt_br k_fancyq_43d02cff:
 
     # mari "Hello everyone! As I'm sure you know, we've been working on a very special project."
-    mari ""
+    mari "Olá todo mundo! Como eu tenho certeza que todos aqui sabem, nós estivemos trabalhando em um projeto muito especial."
 
 # game/scripts/kali_events.rpy:6225
 translate pt_br k_fancyq_f38ada64:
 
     # k "{i}{size=-10}Way to keep us in the loop, Dad...{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Bela forma de nos manter informados, pai...{/size}{/i}"
 
 # game/scripts/kali_events.rpy:6226
 translate pt_br k_fancyq_b0e21808:
 
     # mari "Well today, we finally have a working version to show you all!"
-    mari ""
+    mari "Bem, hoje nós finalmente conseguimos finalizar uma versão para mostrar à todos vocês!"
 
 # game/scripts/kali_events.rpy:6228
 translate pt_br k_fancyq_983afe7c:
 
     # mari "But first, I'd like to thank Mr. Cornwall, for whom none of this would have been possible without."
-    mari ""
+    mari "Mas antes, eu gostaria de agradecer ao senhor Cornwall, o qual sem a ajuda nada disso seria possível."
 
 # game/scripts/kali_events.rpy:6229
 translate pt_br k_fancyq_8181a012:
 
     # kd "The Cornwall Foundation generously donated 700 Elves to Nero Inc. for this project."
-    kd ""
+    kd "A Fundação Cornwall generosamente doou 700 elfos à Nero Inc. para esse projeto."
 
 # game/scripts/kali_events.rpy:6231
 translate pt_br k_fancyq_aa3a70ad:
 
     # kd "697 of which are still alive!"
-    kd ""
+    kd "Dos quais 697 ainda estão vivos!"
 
 # game/scripts/kali_events.rpy:6232
 translate pt_br k_fancyq_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/kali_events.rpy:6233
 translate pt_br k_fancyq_4af83458:
 
     # k "{i}{size=-10}Come on, Dad...{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Sério, pai...{/size}{/i}"
 
 # game/scripts/kali_events.rpy:6235
 translate pt_br k_fancyq_be44b5d9:
 
     # kd "What? I see this as an absolute win!"
-    kd ""
+    kd "O que? Eu vejo isso como uma absoluta vitória!"
 
 # game/scripts/kali_events.rpy:6237
 translate pt_br k_fancyq_9fde71eb:
 
     # kd "{i}{size=-10}Damnit... {/i}{/size}Lily, would you bring the thing out, please?"
-    kd ""
+    kd "{i}{size=-10}Droga... {/i}{/size}Lily, você poderia trazer, por favor?"
 
 # game/scripts/kali_events.rpy:6239
 translate pt_br k_fancyq_db74f282:
 
     # kd "Listen, this is going to change the world for the best! For humans, elves, and Nero Inc!"
-    kd ""
+    kd "Escutem, isso irá mudar o mundo para melhor! Para humanos, elfos, e para a Nero Inc!"
 
 # game/scripts/kali_events.rpy:6240
 translate pt_br k_fancyq_137fdf5e:
 
     # kd "Everyone in Syl'anar wants a slave, right? It's culture around here! But I'm sure we all understand there's people out there doing horrible stuff to their slave."
-    kd ""
+    kd "Todo mundo em Syl'anar quer ter um escravo, não? Faz parte da cultura daqui! Mas todos nós sabemos que há pessoas por aí que fazem coisas horríveis ao seus escravos."
 
 # game/scripts/kali_events.rpy:6242
 translate pt_br k_fancyq_5585b1cf:
 
     # kd "Only reason they have a living slave and not an android is, well, because they're too poor."
-    kd ""
+    kd "E a única razão do por que eles tem escravos vivos e não androids é... bem, por causa da falta de dinheiro."
 
 # game/scripts/kali_events.rpy:6244
 translate pt_br k_fancyq_f576b9dd:
 
     # kd "We present to you..."
-    kd ""
+    kd "Nós apresentamos à vocês..."
 
 # game/scripts/kali_events.rpy:6246
 translate pt_br k_fancyq_8e588b7e:
 
     # "*click*" with ssshake
-    "" with ssshake
+    "*click*" with ssshake
 
 # game/scripts/kali_events.rpy:6249
 translate pt_br k_fancyq_5391cecb:
 
     # kd "The Elfbot!"
-    kd ""
+    kd "O Elfbot!"
 
 # game/scripts/kali_events.rpy:6253
 translate pt_br k_fancyq_99cb4f73:
 
     # kd "Hey, pretty neat, right Kali?"
-    kd ""
+    kd "Ei, bem maneiro, né Kali?"
 
 # game/scripts/kali_events.rpy:6254
 translate pt_br k_fancyq_61da42f6:
 
     # k "...Awesome Dad..."
-    k ""
+    k "... Incrível, pai..."
 
 # game/scripts/kali_events.rpy:6255
 translate pt_br k_fancyq_b42ff323:
 
     # kd "Elfbots are a third cheaper than the other guy, and 70 percent cheaper in upkeep!"
-    kd ""
+    kd "Os Elfbots são três vezes mais baratos, e 70 por cento mais barato de se manter que um escravo!"
 
 # game/scripts/kali_events.rpy:6256
 translate pt_br k_fancyq_ec514967:
 
     # kd "Still more expensive than a real elf, but it's prog-"
-    kd ""
+    kd "Ainda, mais caro que um elfo de verdade, mas já é um progres-"
 
 # game/scripts/kali_events.rpy:6258
 translate pt_br k_fancyq_8e6f701c:
 
     # lily "*gasp*!" with ssshake
-    lily "" with ssshake
+    lily "*susto*!" with ssshake
 
 # game/scripts/kali_events.rpy:6263
 translate pt_br k_fancyq_67307a0e:
 
     # kd "No need to worry everyone, she's still a prototype. This happens 20 times a day..."
-    kd ""
+    kd "Não precisam se preocupar, ela ainda é um protótipo. Isso acontece 20 vezes por dia..."
 
 # game/scripts/kali_events.rpy:6264
 translate pt_br k_fancyq_c2992325:
 
     # mari "It is quite normal for her to have issues at such an early stage. She will be working perfectly when she's finished."
-    mari ""
+    mari "É normal haver erros nesse estágio inicial. Ela estará funcionando perfeitamente quando pronta."
 
 # game/scripts/kali_events.rpy:6268
 translate pt_br k_fancyq_ef0e1460:
 
     # lily "Oh my..." with ssshake
-    lily "" with ssshake
+    lily "Ai meu..." with ssshake
 
 # game/scripts/kali_events.rpy:6269
 translate pt_br k_fancyq_7d5cea0e:
 
     # kd "Oh, well that certainly doesn't happen every day..."
-    kd ""
+    kd "Oh, bem. Isso certamente não acontece todo dia..."
 
 # game/scripts/kali_events.rpy:6271
 translate pt_br k_fancyq_51bcad2c:
 
     # lily "OH MY!" with sshake
-    lily "" with sshake
+    lily "AI MEU!" with sshake
 
 # game/scripts/kali_events.rpy:6273
 translate pt_br k_fancyq_d7e446e5:
 
     # k "What the fuck!?"
-    k ""
+    k "Mas que porra!?"
 
 # game/scripts/kali_events.rpy:6274
 translate pt_br k_fancyq_aeb85dc4:
 
     # lu "Holy shit!"
-    lu ""
+    lu "Puta merda!"
 
 # game/scripts/kali_events.rpy:6275
 translate pt_br k_fancyq_a14c957a:
 
     # corn "My god!"
-    corn ""
+    corn "Meu deus!"
 
 # game/scripts/kali_events.rpy:6276
 translate pt_br k_fancyq_f24348ab:
 
     # kd "Oh, well... isn't that horrifying... That's what betas are for, folks."
-    kd ""
+    kd "Oh, bem... isso não assustador?... É para isso que servem as betas, pessoal."
 
 # game/scripts/kali_events.rpy:6278
 translate pt_br k_fancyq_965fa8cf:
 
     # kd "And that's the perfect segue, heheh! She has blood!"
-    kd ""
+    kd "E essa é a amostra perfeita, heheh! Ela tem sangue!"
 
 # game/scripts/kali_events.rpy:6280
 translate pt_br k_fancyq_6741b7a5:
 
     # kd "No need for nano bots and generators, just feed her a patent pending paste every day and her organic elf blood will do all the work!" with ssshake
-    kd "" with ssshake
+    kd "E não precisa de nano robôs ou geradores, é só alimenta-lá com um pouco de sangue de elfo orgânico e isso irá fazer todo trabalho!" with ssshake
 
 # game/scripts/kali_events.rpy:6281
 translate pt_br k_fancyq_63f0abee:
 
     # kd "Turning her on also turned her heart on as well, perhaps the pressure was set too high... She'll function perfectly when she's finished."
-    kd ""
+    kd "Liga-lá também liga o seu coração, talves a pressão estava muito alta... Ela estará funcionando perfeitamente quando estiver pronta."
 
 # game/scripts/kali_events.rpy:6283
 translate pt_br k_fancyq_65af6879:
 
     # kd "Speaking of which, while she is still technically an android, you wouldn't be wrong if you referred to her as part cyborg. Within a couple of months of her heart beating, pigment should begin to show up in her hair!"
-    kd ""
+    kd "Falando nisso, já que ela ainda é tecnicamente uma android, não seria errado chama-lá de uma ciborgue. Em alguns meses do coração batendo, o pigmento no cabelo dela deve começar a aparecer!"
 
 # game/scripts/kali_events.rpy:6284
 translate pt_br k_fancyq_7a45ffba:
 
     # k "{i}{size=-10}What the fuck!? Is my Dad harvesting elves!?{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Que porra!? O meu pai está cultivando elfos por acaso!?{/size}{/i}"
 
 # game/scripts/kali_events.rpy:6286
 translate pt_br k_fancyq_4270313d:
 
     # kd "Hardware is my speciality, but she wouldn't have been possible without the Church of Gaius' research into organisms. Saint Lily's team and mine have been working very closely these last couple of weeks, and I'm very proud of what they've been able to accomplish so far."
-    kd ""
+    kd "Hardware é a minha especialidade, mas ela não seria possível sem a pesquisa da igreja de Gaius sobre organismos. O time da santa Liy e o meu estivemos trabalhando bastante nas últimas semanas, e eu estou muito orgulhoso do que eles foram capazes de atingir."
 
 # game/scripts/kali_events.rpy:6288
 translate pt_br k_fancyq_80f4b9e9:
 
     # lily "Thank you, I hope this new technology saves many elf lives."
-    lily ""
+    lily "Obrigada, eu espero que essa nova tecnologia salve o máximo de elfos o possível."
 
 # game/scripts/kali_events.rpy:6290
 translate pt_br k_fancyq_d62ce197:
 
     # mari "And with everyone's support, it absolutely will."
-    mari ""
+    mari "E com o suporte do todo mundo, com certeza vai."
 
 # game/scripts/kali_events.rpy:6291
 translate pt_br k_fancyq_ae28ced6:
 
     # kd "Thank you everyone! If you have any questions, we will be answering them all day."
-    kd ""
+    kd "Obrigado a todos! Caso tenham qualquer pergunta, nós estaremos respondendo à todas."
 
 # game/scripts/kali_events.rpy:6294
 translate pt_br k_fancyq_601b415b:
 
     # k "Did you guys see the same thing I did?"
-    k ""
+    k "Vocês viram a mesma coisa que eu vi?"
 
 # game/scripts/kali_events.rpy:6295
 translate pt_br k_fancyq_a6c585da:
 
     # bot "She had blood..."
-    bot ""
+    bot "Ela tinha sangue..."
 
 # game/scripts/kali_events.rpy:6296
 translate pt_br k_fancyq_e4958c93:
 
     # lu "That looked more like an exorcism..."
-    lu ""
+    lu "Aquilo parecia mais com um exorcismo..."
 
 # game/scripts/kali_events.rpy:6298
 translate pt_br k_fancyq_738afd03:
 
     # k "I can't believe our Dad is a slaver now! He's always been against slavery."
-    k ""
+    k "Eu não acredito que o nosso pai é um escravagista agora! Ele sempre foi contra isso."
 
 # game/scripts/kali_events.rpy:6299
 translate pt_br k_fancyq_cdf8e2b3:
 
     # lu "I hate to play devil's advocate here... but do you really think Dad's new wife would be happy about him owning slaves?"
-    lu ""
+    lu "Eu odeio bancar o advogado do diabo aqui... mas você realmente acha que a nova esposa do pai estaria feliz com ele mantendo escravos?"
 
 # game/scripts/kali_events.rpy:6301
 translate pt_br k_fancyq_26296101:
 
     # k "What do you mean?"
-    k ""
+    k "O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:6302
 translate pt_br k_fancyq_e5ec2dbc:
 
     # lu "She's a half elf, and she even said herself she wanted to save elves. I don't think she would be playing along if she didn't like this, and she seemed pretty happy about it."
-    lu ""
+    lu "Ela é uma meia elfa e ela já disse uma vez que ela queria salvar os elfos. Eu não acho que ela estaria envolvida se não gostasse disso, e ela parecia bem feliz sobre isso."
 
 # game/scripts/kali_events.rpy:6303
 translate pt_br k_fancyq_eb89e89b:
 
     # k "They're still harvesting elves for their blood and who knows what else! How can anyone be happy about that?"
-    k ""
+    k "Eles continuam pegando elfos para o sangue e sabe-se lá oque mais! Como alguém pode estar feliz com isso?"
 
 # game/scripts/kali_events.rpy:6304
 translate pt_br k_fancyq_aa6dc8aa:
