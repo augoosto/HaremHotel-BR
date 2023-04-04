@@ -23602,301 +23602,301 @@ translate pt_br k_fancyq_cfad3d19:
 translate pt_br k_fancyq_0db1b1c2:
 
     # lily "Mr. Trenero is required to survey and control the population of the elves. If any escape, there will be major consequences..."
-    lily ""
+    lily "O senhor Trenero controla e gerencia a população de elfos. Se algum escapar, haverá maiores conseguências..."
 
 # game/scripts/kali_events.rpy:6373
 translate pt_br k_fancyq_b0cd06ce:
 
     # k "What the fuck... is he keeping them in a prison or something?"
-    k ""
+    k "Que porra... ele está mantendo os elfos presos ou algo assim?"
 
 # game/scripts/kali_events.rpy:6374
 translate pt_br k_fancyq_6c1c19ea:
 
     # lily "I'm not quite sure where he's keeping the elves. Should these elves escape and start their own civilization, they could breed and damage the worth of the elf, and in turn, Syl'anar's economy."
-    lily ""
+    lily "Eu não tenho certeza de onde ele está mantendo os elfos. Esses elfos devem escapar e começar a própria civilização? Eles poderiam procriar e danificar os valores élficos, e virar a economia de Syl'anar de cabeça para baixo."
 
 # game/scripts/kali_events.rpy:6376
 translate pt_br k_fancyq_6f6a3b6a:
 
     # k "I don't think I'm going to find anything that interests me from her."
-    k ""
+    k "Eu não acho que eu vou conseguir tirar nenhuma informação que me interesse dela."
 
 # game/scripts/kali_events.rpy:6377
 translate pt_br k_fancyq_f1099594:
 
     # k "It is kind of nice to know they're only using their blood and taking it as humanely as possible, but it still kind of feels wrong to me..."
-    k ""
+    k "É bom saber que eles só usando o sangue e tirando da forma mais humana o possível, mas ainda parece errado para mim..."
 
 # game/scripts/kali_events.rpy:6381
 translate pt_br k_fancyq_545f3b63:
 
     # corn "Ah, hello Ms. Trenero, [name]."
-    corn ""
+    corn "Ah, olá senhorita Trenero, [name]."
 
 # game/scripts/kali_events.rpy:6383
 translate pt_br k_fancyq_65188063:
 
     # k "You two have met before?"
-    k ""
+    k "Vocês já se conhecem?"
 
 # game/scripts/kali_events.rpy:6384
 translate pt_br k_fancyq_19a4c84d:
 
     # corn "We have. I met him and his elf some time ago."
-    corn ""
+    corn "Sim na verdade, eu conheci ele e a sua elfa há um tempo atrás."
 
 # game/scripts/kali_events.rpy:6385
 translate pt_br k_fancyq_39949f08:
 
     # k "Oh, you met Lin? Cool."
-    k ""
+    k "Oh, você conheceu a Lin? Legal."
 
 # game/scripts/kali_events.rpy:6386
 translate pt_br k_fancyq_e93f82d6:
 
     # k "So, like... what do you do?"
-    k ""
+    k "Então, tipo... o que você faz?"
 
 # game/scripts/kali_events.rpy:6387
 translate pt_br k_fancyq_cdd71d1a:
 
     # corn "To put it simply, I'm in charge of the whole elf situation in Syl'anar."
-    corn ""
+    corn "De forma simples, eu estou no controle de toda situação élfica em Syl'anar."
 
 # game/scripts/kali_events.rpy:6388
 translate pt_br k_fancyq_5c28f1ee:
 
     # k "So, you're kinda like the master of masters?"
-    k ""
+    k "Então, você é tipo o chefe dos chefes?"
 
 # game/scripts/kali_events.rpy:6389
 translate pt_br k_fancyq_5e4e75d1:
 
     # corn "I have no control over another person's elf, but in other senses, I suppose so."
-    corn ""
+    corn "Eu não tenho controle sobre o elfo de de outra pessoa, mas em outros meios, sim."
 
 # game/scripts/kali_events.rpy:6390
 translate pt_br k_fancyq_fc3b8b46:
 
     # k "Why didn't you bring your slave then?"
-    k ""
+    k "Por que você não trouxe seu escravo então?"
 
 # game/scripts/kali_events.rpy:6391
 translate pt_br k_fancyq_47e5705e:
 
     # corn "Out of respect of the lady of the house, I have decided not to bring any slaves."
-    corn ""
+    corn "Em respeito à senhora da casa, eu decidi não trazer nenhum escravo."
 
 # game/scripts/kali_events.rpy:6392
 translate pt_br k_fancyq_f06ed6bf:
 
     # k "So you sent 700 elves to my Dad?"
-    k ""
+    k "Então, você enviou 700 escravos pro meu pai?"
 
 # game/scripts/kali_events.rpy:6393
 translate pt_br k_fancyq_5d11e38b:
 
     # corn "That's correct."
-    corn ""
+    corn "Isso mesmo."
 
 # game/scripts/kali_events.rpy:6394
 translate pt_br k_fancyq_fa582c12:
 
     # k "To The Capitol?"
-    k ""
+    k "Para a Capitol?"
 
 # game/scripts/kali_events.rpy:6395
 translate pt_br k_fancyq_20c1a5fa:
 
     # corn "Yes, I know it's quite unconventional, but it benefits everyone involved."
-    corn ""
+    corn "Isso, eu sei que isso é inconvencional, mas os benefícios envolvem todo mundo."
 
 # game/scripts/kali_events.rpy:6396
 translate pt_br k_fancyq_4a201b5e:
 
     # k "It's hard to believe someone would just give away 700 people..."
-    k ""
+    k "É difícil acreditar que alguém simplesmente doaria 700 pessoas..."
 
 # game/scripts/kali_events.rpy:6397
 translate pt_br k_fancyq_08870c04:
 
     # corn "700 elves, but yes. They were all without a home, and now they have one."
-    corn ""
+    corn "700 elfos, mas sim. Eles eram todos sem teto, mas agora eles tem um."
 
 # game/scripts/kali_events.rpy:6398
 translate pt_br k_fancyq_397fcca1:
 
     # k "You just gave them to my father out of the kindness of your heart?"
-    k ""
+    k "Você doou para o meu pai só pela gentileza do seu coração?"
 
 # game/scripts/kali_events.rpy:6399
 translate pt_br k_fancyq_247e26b5:
 
     # corn "It was actually Saint Lily and her friends who contacted me about this. She had neither the technology nor the elves for her research."
-    corn ""
+    corn "Na verdade foi a santa Lily e os amigos dela que me contataram sobre isso. Ela não tinha nem tecnologia ou os elfos para a pesquisa."
 
 # game/scripts/kali_events.rpy:6400
 translate pt_br k_fancyq_e3bd738d:
 
     # corn "It's a good cause, so I decided to help. I'm entitled to a royalty for each liter of blood siphoned, so this benefits us as well."
-    corn ""
+    corn "Era uma boa causa, então eu decidi ajudar. Tenho direito a uma realeza para cada litro de sangue sifonado, então isso nos benefícia também."
 
 # game/scripts/kali_events.rpy:6401
 translate pt_br k_fancyq_2141149e:
 
     # k "I'm a bit surprised you're letting elves live outside of Syl'anar."
-    k ""
+    k "Eu estou surpresa que você está deixado elfos viverem fora de Syl'anar."
 
 # game/scripts/kali_events.rpy:6402
 translate pt_br k_fancyq_5d314682:
 
     # corn "No need to worry, Ms. Kali, they've all been neutered."
-    corn ""
+    corn "Não se preocupe, senhorita Kali. Todos eles foram castrados."
 
 # game/scripts/kali_events.rpy:6403
 translate pt_br k_fancyq_5f44666c:
 
     # k "Neutered!? What do mean neutered!?"
-    k ""
+    k "Castrados!? Como assim 'castrados'!?"
 
 # game/scripts/kali_events.rpy:6404
 translate pt_br k_fancyq_e37b7d4a:
 
     # corn "They can't reproduce anymore, Kali."
-    corn ""
+    corn "Que eles não podem se reproduzir mais, Kali."
 
 # game/scripts/kali_events.rpy:6405
 translate pt_br k_fancyq_365eeb5b:
 
     # k "I know what it means!"
-    k ""
+    k "Eu sei oque quer dizer!"
 
 # game/scripts/kali_events.rpy:6407
 translate pt_br k_fancyq_da8f8a13:
 
     # k "{i}{size=-10}Urgh seriously...? The way he used that word...{/i}{/size}"
-    k ""
+    k "{i}{size=-10}Urgh sério...? O jeito que ele usou essa palavra...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:6409
 translate pt_br k_fancyq_a70ecdbf:
 
     # corn "Is there a problem?"
-    corn ""
+    corn "Algum problema?"
 
 # game/scripts/kali_events.rpy:6410
 translate pt_br k_fancyq_d3103801:
 
     # k "What kind of power do you have in whatever the hell you do?"
-    k ""
+    k "Que tipo de poder você tem para fazer isso seja lá no que você estiver envolvido?"
 
 # game/scripts/kali_events.rpy:6411
 translate pt_br k_fancyq_34452506:
 
     # corn "Uh... I'm not sure I understand the question."
-    corn ""
+    corn "Uh... eu não sei se entendi a pergunta."
 
 # game/scripts/kali_events.rpy:6412
 translate pt_br k_fancyq_09c530fa:
 
     # k "You know elves don't have it that great, right? Why don't you improve that?"
-    k ""
+    k "Você sabe que os elfos não merecem isso, né? Porque você não tenta ajudá-los?"
 
 # game/scripts/kali_events.rpy:6413
 translate pt_br k_fancyq_6f8782a7:
 
     # corn "You must be unfamiliar with my work, Ms. Kali. I'm the most progressive person that has ever been in my position of power. It was me who gave elves the rights they now have over 30 years ago."
-    corn ""
+    corn "Você deve não estar familiarizada com o trabalho, senhorita Kali. Eu sou a pessoa mais progressista que já esteve na minha posição. Foi eu quem deu aos elfos os direitos que eles tem agora, há 30 anos atrás."
 
 # game/scripts/kali_events.rpy:6414
 translate pt_br k_fancyq_7ef9b00e:
 
     # k "Oh, really? You must have been very young."
-    k ""
+    k "Oh, sério? Você deveria ser bem novo."
 
 # game/scripts/kali_events.rpy:6415
 translate pt_br k_fancyq_067c81b3:
 
     # corn "I'm a bit older than I look."
-    corn ""
+    corn "Eu sou um pouco mais velho do que pareço."
 
 # game/scripts/kali_events.rpy:6416
 translate pt_br k_fancyq_5170d800:
 
     # k "...And things are still this shitty for them?"
-    k ""
+    k "...E as coisas continuam uma merda para eles?"
 
 # game/scripts/kali_events.rpy:6417
 translate pt_br k_fancyq_45eda2b7:
 
     # corn "Hah, Kali... elves have never had it better. When I was young, it was very common for elves to be raped. It wasn't even considered rape."
-    corn ""
+    corn "Hah, Kali... os elfos nunca estiveram melhor. Quando eu era mais novo, era muito comum os elfos serem estuprados. Não era nem mesmo considerado estupro."
 
 # game/scripts/kali_events.rpy:6418
 translate pt_br k_fancyq_74361e7f:
 
     # k "You know it's still legal to whip an elf every day and night just because they messed up an order, right? And you're fine with that?"
-    k ""
+    k "Você sabe que ainda é legal chicotear um elfo o dia e a noite inteira só por que eles porque eles erraram um pedido, né? E você tá de boa com isso?"
 
 # game/scripts/kali_events.rpy:6419
 translate pt_br k_fancyq_8c5890a8:
 
     # corn "How else are you supposed to train them? Treats and head pats?"
-    corn ""
+    corn "Como mais você deveria treiná-los? Biscoitinhos e carinhos na cabeça?"
 
 # game/scripts/kali_events.rpy:6420
 translate pt_br k_fancyq_7bf17688:
 
     # corn "And where exactly do you see this heading? Total freedom for the elves?"
-    corn ""
+    corn "E para onde exatamente você acha que isso vai dar? Liberdade total para os elfos?"
 
 # game/scripts/kali_events.rpy:6421
 translate pt_br k_fancyq_707a6c6e:
 
     # corn "Ignoring their place in society, they're far too important to this country. Our nation would completely crumble if we treated elves as equals. Without elves, we wouldn't farm enough food to feed ourselves, or have enough construction workers to build a tower. We literally do not have the manpower to replace elves."
-    corn ""
+    corn "Ignorando o lugar deles na sociedade, eles são muito importantes para essa país. Nossa nação quebraria se tratássemos eles como iguais. Sem elfos, nós não teríamos mão de obra nas fazendas para nos alimentar-mos, ou pedreiros para construir prédios. Nós literalmente não temos a mão de obra suficiente para substituir os elfos."
 
 # game/scripts/kali_events.rpy:6422
 translate pt_br k_fancyq_9ce7c99e:
 
     # k "You wouldn't need to replace them if you just treated them like any normal person!"
-    k ""
+    k "Você não precisaria substituir eles se você os tratasse como pessoas normais!"
 
 # game/scripts/kali_events.rpy:6423
 translate pt_br k_fancyq_d2576ff1:
 
     # corn "As I said, our nation would crumble if we treated them as equals. The vast majority of elves have been doing the same thing for over half their lives. We can't simply reeducate over 800 million elves. As you know, elves learn at a much slower rate than humans."
-    corn ""
+    corn "Como eu disse, nossa nação quebraria se tratássemos eles como iguais. A vasta maioria dos elfos vem fazendo a mesma coisa mais da metade de suas vidas. Nós não podemos simplesmente re-educar mais de 800 milhões de elfos. Como você sabe, elfos aprendem muito mais devagar que os humanos."
 
 # game/scripts/kali_events.rpy:6424
 translate pt_br k_fancyq_719d8ddc:
 
     # k "Urgh, whatever."
-    k ""
+    k "Urgh, tanto faz."
 
 # game/scripts/kali_events.rpy:6426
 translate pt_br k_fancyq_bb74a51d:
 
     # k "{i}{size=-10}...I'm not interested in becoming a mistress. What is my Dad thinking...? Come on, [name]...{/i}{/size}"
-    k ""
+    k "{i}{size=-10}...Eu não quero virar uma escravagista. O que meu pai estava pensando...? Qual é, [name]...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:6429
 translate pt_br k_fancyq_a1ec0208:
 
     # kd "Kali!!"
-    kd ""
+    kd "Kali!!"
 
 # game/scripts/kali_events.rpy:6430
 translate pt_br k_fancyq_51a8d39a:
 
     # k "Hey Dad..."
-    k ""
+    k "Oi pai..."
 
 # game/scripts/kali_events.rpy:6431
 translate pt_br k_fancyq_ac9a0a19:
 
     # mari "I'm glad you could make it, Kali."
-    mari ""
+    mari "Estou feliz que você conseguiu vir, Kali."
 
 # game/scripts/kali_events.rpy:6433
 translate pt_br k_fancyq_12b9614a:
