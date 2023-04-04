@@ -23302,301 +23302,301 @@ translate pt_br k_fancyq_eb89e89b:
 translate pt_br k_fancyq_aa6dc8aa:
 
     # lu "I don't know... that does feel a bit strange for Dad to do..."
-    lu ""
+    lu "Eu não sei... isso parece estranho, até mesmo para o pai..."
 
 # game/scripts/kali_events.rpy:6306
 translate pt_br k_fancyq_451d5a0d:
 
     # bot "There's something different about that android, but I'm not really sure what it is... I didn't have a connection to her like I do with others like me."
-    bot ""
+    bot "Tem algo diferente sobre aquele android, mas eu não sei o que é... eu não senti nenhuma conexão com ela como eu tenho com os outros androids."
 
 # game/scripts/kali_events.rpy:6307
 translate pt_br k_fancyq_df922954:
 
     # k "That's probably because a different company made you. This is my Dad's first step into selling androids which basically means that thing has a different operating system to what you have. Or in other words, if you're an apple, she's an orange."
-    k ""
+    k "Isso deve ser porque você foi criada por uma empresa diferente. Essa é a primeira vez que o meu pai se arrisca com androids, oque quer dizer que aquela coisa tem um sistema operacional diferente do seu. Ou em outras palavras, ela é uma maça e você uma laranja."
 
 # game/scripts/kali_events.rpy:6308
 translate pt_br k_fancyq_192aa7ed:
 
     # bot "Oh, that's strange..."
-    bot ""
+    bot "Oh, isso é estranho..."
 
 # game/scripts/kali_events.rpy:6310
 translate pt_br k_fancyq_3c3c1a11:
 
     # k "And what was up with that religious chick? Are they harvesting Cornwall's elves?"
-    k ""
+    k "E qual é a daquela garota? Eles estão pegando elfos do Cornwall?"
 
 # game/scripts/kali_events.rpy:6311
 translate pt_br k_fancyq_bd8ea767:
 
     # lu "Yeah, I don't know... that seems a bit weird. That Elfbot was so creepy..."
-    lu ""
+    lu "É, eu não sei... isso me parece estranho. Aquele Elfbot era tão macabro..."
 
 # game/scripts/kali_events.rpy:6312
 translate pt_br k_fancyq_61cbe448:
 
     # k "My Dad mentioned she had a heart right? That's so fucked up..."
-    k ""
+    k "Meu pai mencionou que ela tinha um coração, né? Isso é tão pertubador..."
 
 # game/scripts/kali_events.rpy:6314
 translate pt_br k_fancyq_6161dc52:
 
     # bot "Wait, Kali! Since there are other androids here, do you think I could try using the new feature you installed in me?"
-    bot ""
+    bot "Espera, Kali! Como tem outros androids aqui, você pode deixar eu testar a nova função que você instalou em mim?"
 
 # game/scripts/kali_events.rpy:6315
 translate pt_br k_fancyq_0ec8242b:
 
     # k "Haha, sure. My laptop is in the helicopter."
-    k ""
+    k "Haha, claro. Meu computador está no helicóptero."
 
 # game/scripts/kali_events.rpy:6316
 translate pt_br k_fancyq_ab335973:
 
     # bot "Okay, bye!"
-    bot ""
+    bot "Ok, tchau!"
 
 # game/scripts/kali_events.rpy:6318
 translate pt_br k_fancyq_0ac1e58e:
 
     # c "What did you install in her?"
-    c ""
+    c "O que você instalou nela?"
 
 # game/scripts/kali_events.rpy:6319
 translate pt_br k_fancyq_62cc267e:
 
     # k "That thing we were talking about a couple days ago. She needs hardware to control other androids so I brought my laptop with me, but she has all the software in her system now."
-    k ""
+    k "Aquela coisa sobre a qual agente tava falando há uns dias atrás. Ela precisa de um hardware para controlar os outros androids, então eu trouxe meu laptop. Mas ela já tem todo o software nela instalado."
 
 # game/scripts/kali_events.rpy:6320
 translate pt_br k_fancyq_189c645f:
 
     # c "Are you sure it's a good idea to let her do this here?"
-    c ""
+    c "Tem certeza que é uma boa idéia deixar ela fazer isso aqui?"
 
 # game/scripts/kali_events.rpy:6321
 translate pt_br k_fancyq_55325fd9:
 
     # k "I doubt she would cause a scene, she's smarter than that. She is an android after all."
-    k ""
+    k "Eu dúvido que ela vai fazer bagunça, ela é mais inteligente que isso. Afinal, ela é uma android."
 
 # game/scripts/kali_events.rpy:6323
 translate pt_br k_fancyq_f356764d:
 
     # k "*sigh*... well, I guess I need to talk to some of the people here. My Dad wants me to mingle with everyone and 'find a job that interests me'..."
-    k ""
+    k "*suspiro*... bem, eu acho que eu tenho que falar com algumas das pessoas daqui. Meu pai quer que eu me misture e 'ache um emprego que me agrade'..."
 
 # game/scripts/kali_events.rpy:6324
 translate pt_br k_fancyq_4cee141a:
 
     # k "I have {i}a lot{/i} of questions for my Dad, so we should make sure to talk to him at least."
-    k ""
+    k "E eu tenho {i}muitas{/i} perguntas para fazer para ele, então nós deveríamos ao menos conversar com ele."
 
 # game/scripts/kali_events.rpy:6328
 translate pt_br k_fancyq_922f234e:
 
     # q "...A brain could cut the price in half, maybe more. I don't have the numbers on me, but could you imagine software that develops itself? There would be no need for a team of software engineers to constantly configure or update it."
-    q ""
+    q "...Um cérebro reduziria o preço pela metade, talvez mais. Eu não tenho os números agora, mas imagine um software que se auto-desenvolve? Não se iria precisar de um time de engenheiros para configurar ou atualizar constantemente."
 
 # game/scripts/kali_events.rpy:6329
 translate pt_br k_fancyq_1ba7e9b4:
 
     # q "Well, regardless, enjoy the rest of your day Saint Lily. I'll let you know if I have any news."
-    q ""
+    q "Bem, de qualquer forma, aproveite o resto do dia Santa Lily. Eu deixarei você saber quando tiver novidades."
 
 # game/scripts/kali_events.rpy:6330
 translate pt_br k_fancyq_fbe045d8:
 
     # lily "Thank you, bishop."
-    lily ""
+    lily "Obrigada, bispo."
 
 # game/scripts/kali_events.rpy:6332
 translate pt_br k_fancyq_50301078:
 
     # lily "Oh, hello. I didn't see you there."
-    lily ""
+    lily "Oh, olá. Eu não te vi aí."
 
 # game/scripts/kali_events.rpy:6334
 translate pt_br k_fancyq_d19b7462:
 
     # lily "I don't believe we've had the pleasure of meeting, Ms. Kali."
-    lily ""
+    lily "Eu acho que ainda não fomos apresentadas, senhorita Kali"
 
 # game/scripts/kali_events.rpy:6335
 translate pt_br k_fancyq_654bf252:
 
     # k "...You're a saint? What did you do?"
-    k ""
+    k "...Você é uma santa? O que você faz?"
 
 # game/scripts/kali_events.rpy:6336
 translate pt_br k_fancyq_a66c5cb6:
 
     # lily "These days, saint is used as more of an honorary title, but that's not to say I'm void of faith. I received my sainthood for the research I've developed for the church."
-    lily ""
+    lily "Nos dias de hoje, santo é só um título honorário, mas isso não significa que não tenho fé. Eu recebi minha santidade graças a minha pesquisa que desenvolvi na igreja."
 
 # game/scripts/kali_events.rpy:6337
 translate pt_br k_fancyq_b4abf3c3:
 
     # k "What research is that? Carving up elves and selling their organs?"
-    k ""
+    k "Que tipo de pesquisa é essa? dissecar elfos e vender os órgãos?"
 
 # game/scripts/kali_events.rpy:6339
 translate pt_br k_fancyq_4dcf2e5c:
 
     # lily "Lord, no! What gave you that idea?"
-    lily ""
+    lily "Deus, não! O que te fez pensar isso?"
 
 # game/scripts/kali_events.rpy:6340
 translate pt_br k_fancyq_2083a44d:
 
     # k "The monstrosity you created... Oh, and you're religious so I'm sure you love using elves in any way you can."
-    k ""
+    k "A monstruosidade que você criou... Oh, e você é religiosa então eu tenho certeza que você está usando os elfos como quiser."
 
 # game/scripts/kali_events.rpy:6341
 translate pt_br k_fancyq_9e825895:
 
     # lily "Kali, our interests are to protect life, I have no interest in hurting elves."
-    lily ""
+    lily "Kali, nossos interesses são de proteger a vida, eu não tenha a intenção de machucar os elfos."
 
 # game/scripts/kali_events.rpy:6342
 translate pt_br k_fancyq_9c7dfa88:
 
     # lily "This whole project - which is being spear-headed by your father and Mrs. Mariella - is being funded to {i}save{/i} elves, not hurt them."
-    lily ""
+    lily "Esse projeto inteiro que está sendo gerenciado pelo seu pai e pela senhora Mariella foi fundado para {i}salvar{/i} os elfos, não machucá-los."
 
 # game/scripts/kali_events.rpy:6343
 translate pt_br k_fancyq_813668cc:
 
     # k "You're going to need to explain it a bit more because it looks to me like you're harvesting elves for cheap androids."
-    k ""
+    k "Você vai precisar se explicar um pouco mais por que me parece que vocês estão transformando elfos em androids baratos."
 
 # game/scripts/kali_events.rpy:6345
 translate pt_br k_fancyq_b0027f97:
 
     # lily "That isn't the case at all! We only harvest blood and we do it as humanely as possible - during the night as they sleep."
-    lily ""
+    lily "Não é isso exatamente! Nós só pegamos o sangue e fazemos isso da forma mais humana o possível, durante à noite quando eles dormem."
 
 # game/scripts/kali_events.rpy:6346
 translate pt_br k_fancyq_4cbaef80:
 
     # k "Only blood? Wait, then what was that guy talking about with brains?"
-    k ""
+    k "Apenas sangue? Espera, então oque aquele cara estava falando sobre cérebros?"
 
 # game/scripts/kali_events.rpy:6347
 translate pt_br k_fancyq_8ac05391:
 
     # lily "Oh haha! Not elf brains, he was talking about sentience. Our neuroscience research has shown that organic brains are not compatible with contemporary machinery."
-    lily ""
+    lily "Oh haha! Não cérebros de elfos, ele estava falando sobre sentimentos. Nossa pesquisa sobre neurociência constou que cérebros orgânicos não são compatíveis com maquinário contemporâneo."
 
 # game/scripts/kali_events.rpy:6348
 translate pt_br k_fancyq_a03ad550:
 
     # k "So it's only blood?"
-    k ""
+    k "Então era só sangue?"
 
 # game/scripts/kali_events.rpy:6349
 translate pt_br k_fancyq_e2f6fe78:
 
     # lily "Blood and various other minor proteins and such required for an organism to function. They don't feel any pain at all."
-    lily ""
+    lily "Sangue e vários outras pequenas proteínas que são necessárias para o funcionamento do organismo. Eles não sentem qualquer tipo de dor."
 
 # game/scripts/kali_events.rpy:6350
 translate pt_br k_fancyq_faa8544e:
 
     # c "Why do you need elf blood?"
-    c ""
+    c "Para que vocês precisam de sangue élfico?"
 
 # game/scripts/kali_events.rpy:6352
 translate pt_br k_fancyq_1f69cef2:
 
     # lily "Blood is... very good at what we need it to do. It's more cost efficient than electricity for what we need, of course that means designing hardware that runs with blood over electricity, but for something that is meant more for the poorer side of society, the positives outweigh the negatives."
-    lily ""
+    lily "Sangue é... muito bom para oque nós precisamos. É mais custo benefício que usar eletricidade, é claro que isso significa que utilizamos um hardware que funciona com sangue ao invés de eletricidade, mas como é algo que é designado para as pessoas mais carentes da sociedade, os pontos positivos compensam os negativos."
 
 # game/scripts/kali_events.rpy:6353
 translate pt_br k_fancyq_b1e17631:
 
     # c "But why {i}elf{/i} blood?"
-    c ""
+    c "Mas por que sangue {i}élfico{/i}?"
 
 # game/scripts/kali_events.rpy:6354
 translate pt_br k_fancyq_0a168d7c:
 
     # lily "All blood is different, humans and elves especially stand out, but if you're asking why we would use elf blood over human blood, it's because elves have no soul."
-    lily ""
+    lily "Todo o sangue é diferente, humanos e elfos em específico. Mas se você está me perguntando o por que usamos sangue élfico ao invés de sangue humano, é porque elfos não tem alma."
 
 # game/scripts/kali_events.rpy:6355
 translate pt_br k_fancyq_4f914cc7:
 
     # "Kali audibly rolls her eyes."
-    ""
+    "Kali espantosamente rola os olhos."
 
 # game/scripts/kali_events.rpy:6356
 translate pt_br k_fancyq_41161ee1:
 
     # k "Sounds like some demonic shit to me..."
-    k ""
+    k "Isso me parece com alguma porra demoníaca para mim..."
 
 # game/scripts/kali_events.rpy:6358
 translate pt_br k_fancyq_9ea0fdad:
 
     # lily "Blood is the essence of life, there is nothing demonic about that, Ms. Kali."
-    lily ""
+    lily "Sangue é a excência da vida, não há nada demoníaco sobre isso, senhorita Kali."
 
 # game/scripts/kali_events.rpy:6359
 translate pt_br k_fancyq_d2116f88:
 
     # c "What are the positives and negatives to this?"
-    c ""
+    c "E os pontos positivos e negativos sobre isso?"
 
 # game/scripts/kali_events.rpy:6361
 translate pt_br k_fancyq_131c3962:
 
     # lily "For believers in Gaius, this means we can finally own an android. Current androids have always resembled humans, so it's been looked down upon to use them for personal gain."
-    lily ""
+    lily "Para os crentes de Gaius, isso significa que nós podemos finalmente ter um android. Os androids atuais sempre tiveram uma aparência humana, por isso sua utilizção para ganhos pessoais tem sido menosprezada."
 
 # game/scripts/kali_events.rpy:6363
 translate pt_br k_fancyq_e6ccd3c3:
 
     # lily "For Ms. Kali, this means an exciting new frontier for her family to explore. I'm sure you're very excited to be in the android, or, should I say cyborg industry?"
-    lily ""
+    lily "Para a senhorita Kali, isso significa uma nova fronteira para a sua família explorar. Eu tenho certeza que você está ansiosa para entrar na indústria de androids, ou devo dizer, indústria de ciborgues?"
 
 # game/scripts/kali_events.rpy:6364
 translate pt_br k_fancyq_7337f688:
 
     # k "I have no clue."
-    k ""
+    k "Sei lá."
 
 # game/scripts/kali_events.rpy:6365
 translate pt_br k_fancyq_5dbe8f7d:
 
     # lily "Well, I'm certainly excited! If nothing but for the elves and the poor."
-    lily ""
+    lily "Bem, eu estou certamente ansiosa! E também pelos elfos e as pessoas carentes."
 
 # game/scripts/kali_events.rpy:6367
 translate pt_br k_fancyq_fac67b3f:
 
-    # lily "For Cornwall and Syl'anar, this means less elves living in the Happy Home Initiative relief centers, which in turn means your tax dollar can go somewhere it is needed more. If this project is a success, Mr. Trenero will order even more elves from Cornwall."
-    lily ""
+    # lily "For Cornwall and Syl'anar, this means leshs elves living in te Happy Home Initiative relief centers, which in turn means your tax dollar can go somewhere it is needed more. If this project is a success, Mr. Trenero will order even more elves from Cornwall."
+    lily "Para o Cornwall e Syl'anar, isso significa menos elfos vivendo em Centros de Assistência da iniciativa Casa Feliz, significa que os impostos coletados podem ir para outros setores mais necessitados. Se esse projeto for um sucesso, o senhor Trenero irá pedir ainda mais elfos para o senhor Cornwall."
 
 # game/scripts/kali_events.rpy:6368
 translate pt_br k_fancyq_37faf4f6:
 
     # lily "As for the Elfbot herself, she's water resistant from head to toe due to the nature of how she's powered. She's not very durable, but she is very light. Lighter than a real elf!"
-    lily ""
+    lily "E sobre a Elfbot, ela é resistente à água da cabeça aos pés devido a natureza da fonte de energia dela. Ela não tem muita durabilidade, mas é bem leve. Mais leve que um elfo de verdade!"
 
 # game/scripts/kali_events.rpy:6369
 translate pt_br k_fancyq_8ef75945:
 
     # lily "If we're able to get the price of the Elfbot near to the price of common elves, this should also mean less abuse reports. If it catches on, anyway..."
-    lily ""
+    lily "Se agente conseguir deixar o preço do Elfbot perto do preço dos elfos comuns, isso significaria menos denúncias de abuso. Se for pego, de qualquer forma..."
 
 # game/scripts/kali_events.rpy:6370
 translate pt_br k_fancyq_cfad3d19:
 
     # c "How about the negatives?"
-    c ""
+    c "E os pontos negativos?"
 
 # game/scripts/kali_events.rpy:6371
 translate pt_br k_fancyq_0db1b1c2:
