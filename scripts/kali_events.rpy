@@ -23902,301 +23902,301 @@ translate pt_br k_fancyq_ac9a0a19:
 translate pt_br k_fancyq_12b9614a:
 
     # c "How has your leg been?"
-    c ""
+    c "Como está a sua perna?"
 
 # game/scripts/kali_events.rpy:6434
 translate pt_br k_fancyq_f28a6b57:
 
     # kd "A little bit of pain still, but I'll work through it."
-    kd ""
+    kd "Ainda dói um pouco, mas vou ficar bem."
 
 # game/scripts/kali_events.rpy:6436
 translate pt_br k_fancyq_95936e4f:
 
     # k "Dad, you're going to need to explain some stuff to us..."
-    k ""
+    k "Pai, você vai ter que explicar umas coisas pra nós..."
 
 # game/scripts/kali_events.rpy:6437
 translate pt_br k_fancyq_70c1d087:
 
     # kd "Sure! Whatever you'd like."
-    kd ""
+    kd "Claro! Pergunte qualquer coisa."
 
 # game/scripts/kali_events.rpy:6438
 translate pt_br k_fancyq_3526ec1b:
 
     # k "What the hell is going on? Are you a slaver now? I thought you were against that?"
-    k ""
+    k "Que porra tá acontecendo? Você é um escravagista agora? Eu pensei que você fosse contra isso?"
 
 # game/scripts/kali_events.rpy:6439
 translate pt_br k_fancyq_286014aa:
 
     # kd "Oh, well technically yes, I am a slaver now."
-    kd ""
+    kd "Oh, bem, tecnicamente sim, agora sou sim."
 
 # game/scripts/kali_events.rpy:6440
 translate pt_br k_fancyq_b306329f:
 
     # k "Why!? I thought you were against that whole thing!"
-    k ""
+    k "Por que? Eu pensei que você você contra essas coisas!"
 
 # game/scripts/kali_events.rpy:6442
 translate pt_br k_fancyq_36b7cc12:
 
     # kd "Neither of us like the idea of owning elves as slaves, but when we visited them, we knew we could give them a better life than Cornwall ever could."
-    kd ""
+    kd "Nenhum de nós gostamos da idéia de ter elfos como escravos, mas quando os visitamos, nós sabíamos que poderíamos dar uma vida melhor à eles, melhor do que o Cornwall algum dia conseguiu."
 
 # game/scripts/kali_events.rpy:6444
 translate pt_br k_fancyq_8e5b34d1:
 
     # k "So, they're living in good conditions? I heard you guys were taking blood from them every night."
-    k ""
+    k "Então, eles vivem em boas condições de vida? Eu ouvi que vocês estavam tirando sangue deles toda noite."
 
 # game/scripts/kali_events.rpy:6445
 translate pt_br k_fancyq_170f6181:
 
     # kd "They each have their own bed, it's not big, but it's comfortable."
-    kd ""
+    kd "Cada um deles tem a própria cama, não é grande, mas é confortável."
 
 # game/scripts/kali_events.rpy:6446
 translate pt_br k_fancyq_b8e45e69:
 
     # k "And they're fine with you taking their blood?"
-    k ""
+    k "E eles estão de boa com vocês tirando o sangue deles?"
 
 # game/scripts/kali_events.rpy:6447
 translate pt_br k_fancyq_8e8e3197:
 
     # kd "Of course! They've been loving their new lives."
-    kd ""
+    kd "É claro! Eles estão amando as novas vidas deles."
 
 # game/scripts/kali_events.rpy:6448
 translate pt_br k_fancyq_2c6e61b6:
 
     # k "Do they work?"
-    k ""
+    k "Eles tem um emprego?"
 
 # game/scripts/kali_events.rpy:6449
 translate pt_br k_fancyq_ba3425de:
 
     # kd "They do! They work on my hardware now."
-    kd ""
+    kd "Tem sim! Eles trabalham na minha empresa agora."
 
 # game/scripts/kali_events.rpy:6450
 translate pt_br k_fancyq_002a0a07:
 
     # k "You mean you fired 700 people and replaced them with elves?"
-    k ""
+    k "Quer dizer que você demitiu 700 pessoas e substitui eles por elfos?"
 
 # game/scripts/kali_events.rpy:6452
 translate pt_br k_fancyq_ed81a32e:
 
     # kd "Only 697!"
-    kd ""
+    kd "Só 697!"
 
 # game/scripts/kali_events.rpy:6453
 translate pt_br k_fancyq_1f87348e:
 
     # k "Dad, you know that really doesn't make it better, right? Those people had families..."
-    k ""
+    k "Pai, você sabe que isso não faz diferença, né? Aquelas pessoas tinham família..."
 
 # game/scripts/kali_events.rpy:6455
 translate pt_br k_fancyq_30b8e409:
 
     # mari "Kali, I understand how you feel... It's hard to only do good though. We need to make sacrifices to make the world a better place."
-    mari ""
+    mari "Kali, eu sei como você se sente... porém, é difícil fazer somente o bem o tempo todo. Nós precisamos fazer sacríficios para construir um mundo melhor."
 
 # game/scripts/kali_events.rpy:6456
 translate pt_br k_fancyq_6d271bdb:
 
     # mari "The profits we gain from putting the elves to work over paying humans a full salary will be put directly back into developing the Elfbot, which in turn will make it cheaper and more available to those who need it."
-    mari ""
+    mari "A despesa que economizamos ao colocar elfos ao invés de pagar humanos um salário de tempo integral vai ser inteiramente depositada no desenvolvimento dos Elfbots, que será mais barato e mais acessível para aqueles que precisam."
 
 # game/scripts/kali_events.rpy:6457
 translate pt_br k_fancyq_831d4eda:
 
     # k "Oh... hm. It sounds like you guys really thought this through. But seriously... 697 people..."
-    k ""
+    k "Oh... hm. Parece que vocês já tinham tudo planejado. Mas sério?... 697 pessoas..."
 
 # game/scripts/kali_events.rpy:6458
 translate pt_br k_fancyq_3a83940d:
 
     # mari "Of course we have, Kali. We wouldn't play around with lives like that."
-    mari ""
+    mari "É claro que sim, Kali. Nós estamos falando de seres vivos aqui."
 
 # game/scripts/kali_events.rpy:6459
 translate pt_br k_fancyq_eb70a1e2:
 
     # kd "Many of them are still working for us, I kept the best."
-    kd ""
+    kd "Muitos deles ainda trabalham pra gente, eu mantive os melhores."
 
 # game/scripts/kali_events.rpy:6461
 translate pt_br k_fancyq_78c85c95:
 
     # kd "Not only have we thought of the elves, but we also thought of Nero Inc.! We won't be selling hardware to our competitor after we officially announce the Elfbot."
-    kd ""
+    kd "Agente não pensou só nos elfos, mas também na Nero Inc.! Nós não vamos vender nosso hardware aos nossos competidores depois que oficialmente anunciarmos o Elfbot."
 
 # game/scripts/kali_events.rpy:6463
 translate pt_br k_fancyq_79e2aca9:
 
     # k "What? Why would you do that?"
-    k ""
+    k "Que? Por que fazer isso?"
 
 # game/scripts/kali_events.rpy:6464
 translate pt_br k_fancyq_aeab8010:
 
     # kd "Without any competition our product should be much more profitable, and since they rely on our hardware so much, they'll go out of business very quick."
-    kd ""
+    kd "Sem competidores nosso produto será mais rentável, e já que eles dependem tanto do nosso hardware, eles vão ficar para trás nos negócios."
 
 # game/scripts/kali_events.rpy:6465
 translate pt_br k_fancyq_0fe539d8:
 
     # k "You can just destroy massive companies like that?"
-    k ""
+    k "Você pode acabar com grandes impresas desse jeito? Sem mais nem menos?"
 
 # game/scripts/kali_events.rpy:6466
 translate pt_br k_fancyq_519488cf:
 
     # kd "Eh, I've never liked them anyway. They purchase the same hardware time and time again and sell it as a new upgrade, their only business is making money. Once they're out, we'll swoop in and buy their assets."
-    kd ""
+    kd "Eh, eu nunca gostei muito deles. Eles compram um hardware, atualizam ele e vendem como se fosse um produto novo, eles só pensam no dinheiro. Quando eles vazarem, nós vamos chegar e comprar os seus bens."
 
 # game/scripts/kali_events.rpy:6467
 translate pt_br k_fancyq_515ebb1e:
 
     # k "Jesus dad... you have too much power."
-    k ""
+    k "Jesus pai... você realmente tem muito poder."
 
 # game/scripts/kali_events.rpy:6471
 translate pt_br k_fancyq_549c51a3:
 
     # "*shatter*" with ssshake
-    "" with ssshake
+    "*mal funcionamento*" with ssshake
 
 # game/scripts/kali_events.rpy:6473
 translate pt_br k_fancyq_3ce9e9a1:
 
     # bot "Ooooh!"
-    bot ""
+    bot "Ooooh!"
 
 # game/scripts/kali_events.rpy:6475
 translate pt_br k_fancyq_76140a36:
 
     # bot "Hmmm~?"
-    bot ""
+    bot "Hmmm~?"
 
 # game/scripts/kali_events.rpy:6477
 translate pt_br k_fancyq_9f85039f:
 
     # bot "Heheh..."
-    bot ""
+    bot "Heheh..."
 
 # game/scripts/kali_events.rpy:6480
 translate pt_br k_fancyq_5e537c61:
 
     # kd "...and if this is a success, we can move on to other elf models, like Dark Elf, or Drow!"
-    kd ""
+    kd "...E se isso for um sucesso, nós podemos fazer outros modelos, como um modelo de Elfo Negro, ou Drow!"
 
 # game/scripts/kali_events.rpy:6481
 translate pt_br k_fancyq_8e02bf09:
 
     # k "I'm... sure it will be a hit."
-    k ""
+    k "Eu... tenho certeza que vai ser um sucesso."
 
 # game/scripts/kali_events.rpy:6482
 translate pt_br k_fancyq_f1eb6770:
 
     # kd "I saw you talking with a few of the others here, did you find anything that interested you?"
-    kd ""
+    kd "Eu vi você conversando com os outros daqui, descobriu algo que lhe interesse?"
 
 # game/scripts/kali_events.rpy:6483
 translate pt_br k_fancyq_e80f14bb:
 
     # k "Ergh, no..."
-    k ""
+    k "Ergh, não..."
 
 # game/scripts/kali_events.rpy:6484
 translate pt_br k_fancyq_b891b825:
 
     # kd "How about working for Nero Inc. then?"
-    kd ""
+    kd "Que tal você trabalhar para a Nero Inc. então?"
 
 # game/scripts/kali_events.rpy:6485
 translate pt_br k_fancyq_0b8b943a:
 
     # k "There's never been anything that's interested me... Nero Inc. is only a hardware company."
-    k ""
+    k "Não tem nada nela que me interesse... A Nero Inc. é só uma empresa de hardware."
 
 # game/scripts/kali_events.rpy:6486
 translate pt_br k_fancyq_5ba5b98d:
 
     # kd "Not anymore! As of today, we're also in the android business!"
-    kd ""
+    kd "Não mais! A partir de hoje, nós também somos uma empresa de androids!"
 
 # game/scripts/kali_events.rpy:6487
 translate pt_br k_fancyq_e1c261eb:
 
     # k "So?"
-    k ""
+    k "E?"
 
 # game/scripts/kali_events.rpy:6489
 translate pt_br k_fancyq_83006a86:
 
     # kd "We need software developers!"
-    kd ""
+    kd "Nós precisamos de engenheiros de software!"
 
 # game/scripts/kali_events.rpy:6491
 translate pt_br k_fancyq_0d279615:
 
     # k "Y... You do?"
-    k ""
+    k "Vo-... vocês precisam?"
 
 # game/scripts/kali_events.rpy:6492
 translate pt_br k_fancyq_7c7621de:
 
     # k "I can't program an android though, it's way too complicated."
-    k ""
+    k "Mas eu não consigo programar um android, é muito complicado."
 
 # game/scripts/kali_events.rpy:6493
 translate pt_br k_fancyq_cb6f33ec:
 
     # kd "Kali, I decided to use the exact same programming language you always worked with as a child for our Elfbots. It's a lot more complicated than what you're used to for sure... but at least you can understand it, right?"
-    kd ""
+    kd "Kali, eu decidi usar a mesma linguagem de programação que você usa, como uma base para os nossos Elfbots. Com certeza deve ser bem mais complicado do que você está acostumada... mas pelo menos você consegue entender, né?"
 
 # game/scripts/kali_events.rpy:6494
 translate pt_br k_fancyq_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6495
 translate pt_br k_fancyq_11223cd6:
 
     # k "I haven't really... ergh... Thank you, Dad, but I'm really not the person you want for this job, I don't know anything about making an android."
-    k ""
+    k "Eu não queria... ergh... obrigada, pai. Mas eu não sou a pessoa certa para esse trabalho, eu não sei nada sobre como criar um android."
 
 # game/scripts/kali_events.rpy:6496
 translate pt_br k_fancyq_fea26cf9:
 
     # kd "But you're interested, aren't you? That's the first step."
-    kd ""
+    kd "Mas você tem interesse, não é? Esse é o primeiro passo."
 
 # game/scripts/kali_events.rpy:6497
 translate pt_br k_fancyq_08805912:
 
     # k "Heh, well... it's always kind of been a dream of mine to work on androids... I loved playing with them when I was young..."
-    k ""
+    k "Heh, bem... sempre foi um sonho meu trabalhar em androids... eu amava brincar no código deles quando eu era criança..."
 
 # game/scripts/kali_events.rpy:6499
 translate pt_br k_fancyq_50569dbb:
 
     # kd "That's great! I'll keep a position open for you!"
-    kd ""
+    kd "Que ótimo! Eu manterei uma vaga aberta para você!"
 
 # game/scripts/kali_events.rpy:6500
 translate pt_br k_fancyq_674a73ae:
 
     # k "Wait, Dad no! There's no way I could actually do this, I would need to go to college!"
-    k ""
+    k "Espera, não pai! Não tem como eu possa fazer isso, eu teria que fazer uma faculdade!"
 
 # game/scripts/kali_events.rpy:6502
 translate pt_br k_fancyq_ea44dff1:
@@ -28558,7 +28558,7 @@ translate pt_br mariellaquestion_83d5b141:
 translate pt_br mariellaquestion_9888fee0:
 
     # mari "Dark elf ancestry would leave you with pink eyes. Although rarely the human can even keep the dark elf's dark purple eyes completely, without losing any of the color."
-    mari "Ancestrais de elfos escuros te deixaram com a cor rosa nos olhos. Contudo, até os humanos não conseguem manter a cor rosa dos elfos escuros completamente sem perder um pouco da cor."
+    mari "Ancestrais de Elfos Negros te deixarão com a cor rosa nos olhos. Contudo, até humanos não conseguem manter a cor rosa dos Elfos Negros completamente sem perder um pouco da cor."
 
 # game/scripts/kali_events.rpy:7739
 translate pt_br mariellaquestion_d2b9a3e0:
