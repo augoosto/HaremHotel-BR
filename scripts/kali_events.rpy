@@ -24202,301 +24202,301 @@ translate pt_br k_fancyq_674a73ae:
 translate pt_br k_fancyq_ea44dff1:
 
     # kd "Whatever you need, sweetie."
-    kd ""
+    kd "Oque você precisar, querida."
 
 # game/scripts/kali_events.rpy:6503
 translate pt_br k_fancyq_0a849132:
 
     # k "I don't want to go to college, Dad! And at my age, are you kidding me!? It'd be so weird to start now!"
-    k ""
+    k "Eu não quero fazer faculdade, pai! E ainda mais na minha idade, você tá me zoando!? Seria muito estranho começar agora!"
 
 # game/scripts/kali_events.rpy:6504
 translate pt_br k_fancyq_834f672e:
 
     # kd "You'd be the popular kid in class! Everyone wants to talk to the rich kid."
-    kd ""
+    kd "Você seria a garota mais popular da sala! Todo mundo quer conversar com a gartota rica."
 
 # game/scripts/kali_events.rpy:6505
 translate pt_br k_fancyq_174d0520:
 
     # k "God dammit, Dad! You don't get me at all!"
-    k ""
+    k "Meu deus, pai! Você não tá me entendo!"
 
 # game/scripts/kali_events.rpy:6507
 translate pt_br k_fancyq_4cc554fc:
 
     # kd "What did I do?"
-    kd ""
+    kd "Oque eu fiz?"
 
 # game/scripts/kali_events.rpy:6508
 translate pt_br k_fancyq_0c524fd2:
 
     # k "Come on, [name]!"
-    k ""
+    k "Vamos logo, [name]!"
 
 # game/scripts/kali_events.rpy:6510
 translate pt_br k_fancyq_45a09cb1:
 
     # kd "Ergh... I'm afraid I don't understand my own daughter anymore..."
-    kd ""
+    kd "Ergh... eu acho que eu já nem entendo mais a minha filha..."
 
 # game/scripts/kali_events.rpy:6511
 translate pt_br k_fancyq_0379426c:
 
     # kd "Hey, [name]? I really think this job will be great for her, it seems like she would enjoy it a lot if she knew how. Would you talk to her for me?"
-    kd ""
+    kd "Ei, [name]? Eu acho de verdade que esse trabalho vai ser bom para ela, ela iria se divertir bastante se soubesse como fazer. Você pode falar com ela por mim?"
 
 # game/scripts/kali_events.rpy:6512
 translate pt_br k_fancyq_13ad4642:
 
     # c "I'll see what I can do."
-    c ""
+    c "Eu vou ver o que posso fazer."
 
 # game/scripts/kali_events.rpy:6513
 translate pt_br k_fancyq_27072e10:
 
     # kd "Thank you."
-    kd ""
+    kd "Obrigado."
 
 # game/scripts/kali_events.rpy:6514
 translate pt_br k_fancyq_8d8e9480:
 
     # k "COME ON!!" with ssshake
-    k "" with ssshake
+    k "VAMOS!!" with ssshake
 
 # game/scripts/kali_events.rpy:6516
 translate pt_br k_fancyq_9181db66:
 
     # k "{size=-10}I knew this was going to be a bad idea...{/size}"
-    k ""
+    k "{size=-10}Eu sabia que isso seria uma má idéia...{/size}"
 
 # game/scripts/kali_events.rpy:6517
 translate pt_br k_fancyq_1d05beb7:
 
     # c "Come with me."
-    c ""
+    c "Vem comigo."
 
 # game/scripts/kali_events.rpy:6519
 translate pt_br k_fancyq_0f4f8ef4:
 
     # k "{size=-10}Where are we going...?{/size}"
-    k ""
+    k "{size=-10}Onde agente tá indo...?{/size}"
 
 # game/scripts/kali_events.rpy:6522
 translate pt_br k_fancyq_c57f3d6e:
 
     # k "The... restroom...?"
-    k ""
+    k "O... banheiro...?"
 
 # game/scripts/kali_events.rpy:6526
 translate pt_br k_fancyq_31dcab63:
 
     # k "Hahhh..."
-    k ""
+    k "Hahhh..."
 
 # game/scripts/kali_events.rpy:6528
 translate pt_br k_fancyq_a110451b:
 
     # k "Why are we in the restroom?"
-    k ""
+    k "Por que agente veio aqui?"
 
 # game/scripts/kali_events.rpy:6529
 translate pt_br k_fancyq_ec09c9a9:
 
     # c "You did great out there, you know."
-    c ""
+    c "Você se saiu muito bem lá atrás, sabe."
 
 # game/scripts/kali_events.rpy:6530
 translate pt_br k_fancyq_26296101_1:
 
     # k "What do you mean?"
-    k ""
+    k "Como assim?"
 
 # game/scripts/kali_events.rpy:6531
 translate pt_br k_fancyq_6c6609d5:
 
     # c "You didn't need me with you at all. I mean, I'm happy to be with you, but you would have done just as good if I weren't here."
-    c ""
+    c "Eu não precisa estar com você. Quer dizer, eu estou feliz de ficar com você, mas você conseguiu lidar com tudo sozinha."
 
 # game/scripts/kali_events.rpy:6533
 translate pt_br k_fancyq_c251396b:
 
     # k "Yeah... but... it's your presence that helps."
-    k ""
+    k "É... mas... sua presença ajuda."
 
 # game/scripts/kali_events.rpy:6535
 translate pt_br k_fancyq_615889fa:
 
     # c "Kali, you were wonderful out there. You were confident, assertive, and you knew what you didn't like. And somehow you managed to look sexy throughout all of it."
-    c ""
+    c "Kali, você foi incrível antes. Você foi determinada, assertiva, e você sabia o que não queria. E além disso, você ficou bem sexy com esse seu jeito."
 
 # game/scripts/kali_events.rpy:6537
 translate pt_br k_fancyq_f993cc37:
 
     # k "Thank you..."
-    k ""
+    k "Obrigada...w"
 
 # game/scripts/kali_events.rpy:6538
 translate pt_br k_fancyq_1c3ee6c4:
 
     # c "What do you think about your Dad's offer?"
-    c ""
+    c "O que você acha da proposta do seu pai?"
 
 # game/scripts/kali_events.rpy:6540
 translate pt_br k_fancyq_53d01466:
 
     # k "I kind of liked it... but it's not reasonable at all."
-    k ""
+    k "Eu meio que gostei... mas não é razoável."
 
 # game/scripts/kali_events.rpy:6541
 translate pt_br k_fancyq_82999201:
 
     # k "I would have to take years of college classes just to be hired, and by that time, the job is probably going to be taken by someone far more motivated and better at this than I am."
-    k ""
+    k "Eu teria que fazer anos de faculdade só para ser contratada, e a qualquer momento, o emprego pode ser pego por alguém bem mais motivado e melhor do que eu."
 
 # game/scripts/kali_events.rpy:6542
 translate pt_br k_fancyq_807e0637:
 
     # c "That's college for you."
-    c ""
+    c "Vai ser fácil para você."
 
 # game/scripts/kali_events.rpy:6544
 translate pt_br k_fancyq_f9da4348:
 
     # k "...I guess it is."
-    k ""
+    k "...Eu acho que sim."
 
 # game/scripts/kali_events.rpy:6546
 translate pt_br k_fancyq_c55cbb61:
 
     # k "But going to college? At my age? Most people have already graduated by the time they're my age..."
-    k ""
+    k "Mas faculdade? Na minha idade? A maioria das pessoas já devem estar graduadas na minha idade..."
 
 # game/scripts/kali_events.rpy:6547
 translate pt_br k_fancyq_59226a15:
 
     # c "There's nothing weird about someone wanting a job."
-    c ""
+    c "Não tem nada de estranho sobre alguém querendo um emprego."
 
 # game/scripts/kali_events.rpy:6548
 translate pt_br k_fancyq_8e0c30df:
 
     # k "Well... I'm rusty at it anyway, I haven't been practicing much programming..."
-    k ""
+    k "Bem... eu estou meia enferrujada, eu não andei praticando muito pogramação..."
 
 # game/scripts/kali_events.rpy:6549
 translate pt_br k_fancyq_4c39b2cc:
 
     # c "If you can develop an app, you're probably more advanced than most people who would be in your class anyway."
-    c ""
+    c "Se você consegue desenvolver um aplicativo, provavelmente você já está melhor que a maioria das pessoas que estariam da sua sala."
 
 # game/scripts/kali_events.rpy:6550
 translate pt_br k_fancyq_7999e93e:
 
     # k "You... really think I should go?"
-    k ""
+    k "Você... realmente acha que eu devo ir?"
 
 # game/scripts/kali_events.rpy:6551
 translate pt_br k_fancyq_af8d17ab:
 
     # c "I think this is something that interests you, and I think you should do what you enjoy."
-    c ""
+    c "Eu acho que isso é algo que te interessa, e eu acho que você deve fazer o que gosta."
 
 # game/scripts/kali_events.rpy:6552
 translate pt_br k_fancyq_6a40a931:
 
     # c "You've already got an android near by, I'm sure she could help you a lot."
-    c ""
+    c "Você tem uma android por perto, eu tenho certeza que ela pode te ajudar."
 
 # game/scripts/kali_events.rpy:6554
 translate pt_br k_fancyq_038c351c:
 
     # k "...{w}..."
-    k ""
+    k "...{w}..."
 
 # game/scripts/kali_events.rpy:6555
 translate pt_br k_fancyq_1da54fea:
 
     # k "It's hard to imagine it."
-    k ""
+    k "É difícil pensar sobre isso."
 
 # game/scripts/kali_events.rpy:6556
 translate pt_br k_fancyq_6a8c570f:
 
     # c "You have plenty of time to think about it."
-    c ""
+    c "Você tem bastante tempo para pensar nisso."
 
 # game/scripts/kali_events.rpy:6557
 translate pt_br k_fancyq_ee9c9e25:
 
     # k "Hmm... yeah, I will think about it."
-    k ""
+    k "Hmm... é, vou pensar sobre isso."
 
 # game/scripts/kali_events.rpy:6559
 translate pt_br k_fancyq_72325cd2:
 
     # k "Thank you, [name]. I feel like you really know me."
-    k ""
+    k "Obrigada, [name]. Eu acho que você realmente me conhece."
 
 # game/scripts/kali_events.rpy:6560
 translate pt_br k_fancyq_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/scripts/kali_events.rpy:6562
 translate pt_br k_fancyq_300b5940:
 
     # lu "Um... Hello? [name]? Did I see you go in there?"
-    lu ""
+    lu "Um.. olá? [name]? Vocês estão aí?"
 
 # game/scripts/kali_events.rpy:6563
 translate pt_br k_fancyq_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Sim?"
 
 # game/scripts/kali_events.rpy:6564
 translate pt_br k_fancyq_f82be70d:
 
     # lu "Can you hurry up in there? Your android is, uh... causing issues..."
-    lu ""
+    lu "Podem se apressar? O seu android está, uh... causando problemas..."
 
 # game/scripts/kali_events.rpy:6565
 translate pt_br k_fancyq_b447b502:
 
     # k "Oh shit..."
-    k ""
+    k "Oh merda..."
 
 # game/scripts/kali_events.rpy:6567
 translate pt_br k_fancyq_349a94c6:
 
     # bot "Heheheheheh~"
-    bot ""
+    bot "Heheheheheh~"
 
 # game/scripts/kali_events.rpy:6569
 translate pt_br k_fancyq_7e192899:
 
     # bot "Give me your money please. I need some."
-    bot ""
+    bot "Me dê seu dinheiro por favor. Eu preciso dele."
 
 # game/scripts/kali_events.rpy:6570
 translate pt_br k_fancyq_3c7a0341:
 
     # corn "STAND DOWN! STOP!"
-    corn ""
+    corn "PARADA! FIQUE PARADA!"
 
 # game/scripts/kali_events.rpy:6571
 translate pt_br k_fancyq_4ffec664:
 
     # lily "What's going on!?"
-    lily ""
+    lily "O que está acontecendo!?"
 
 # game/scripts/kali_events.rpy:6572
 translate pt_br k_fancyq_e60bbfb2:
 
     # kd "She's malfunctioning!"
-    kd ""
+    kd "Ela está com defeito!"
 
 # game/scripts/kali_events.rpy:6573
 translate pt_br k_fancyq_31c73c3c:
