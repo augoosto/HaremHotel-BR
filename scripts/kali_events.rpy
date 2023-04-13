@@ -24496,307 +24496,307 @@ translate pt_br k_fancyq_4ffec664:
 translate pt_br k_fancyq_e60bbfb2:
 
     # kd "She's malfunctioning!"
-    kd "Ela está com defeito!"
+    kd "Ela deve estar com algum defeito!"
 
 # game/scripts/kali_events.rpy:6573
 translate pt_br k_fancyq_31c73c3c:
 
     # cart "Stop her, Serni!"
-    cart ""
+    cart "Pare ela, Serni!"
 
 # game/scripts/kali_events.rpy:6575
 translate pt_br k_fancyq_aa187e0a:
 
     # serni "RRRGH!" with ssshake
-    serni "" with ssshake
+    serni "RRRGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6577
 translate pt_br k_fancyq_52057740:
 
     # bot "Huh!?" with ssshake
-    bot "" with ssshake
+    bot "Huh!?" with ssshake
 
 # game/scripts/kali_events.rpy:6579
 translate pt_br k_fancyq_d3f18b40:
 
     # serni "Rrrrghhh!" with ssshake
-    serni "" with ssshake
+    serni "Rrrrghhh!" with ssshake
 
 # game/scripts/kali_events.rpy:6581
 translate pt_br k_fancyq_aa187e0a_1:
 
     # serni "RRRGH!" with ssshake
-    serni "" with ssshake
+    serni "RRRGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6582
 translate pt_br k_fancyq_6ae7ac4d:
 
     # serni "RGH!!" with ssshake
-    serni "" with ssshake
+    serni "RGH!!" with ssshake
 
 # game/scripts/kali_events.rpy:6583
 translate pt_br k_fancyq_07e06e5e:
 
     # serni "NNNRRGH!!!" with ssshake
-    serni "" with ssshake
+    serni "NNNRRGH!!!" with ssshake
 
 # game/scripts/kali_events.rpy:6585
 translate pt_br k_fancyq_2518b5ae:
 
     # serni "RRRRRRGHHHH!!!" with ssshake
-    serni "" with ssshake
+    serni "RRRRRRGHHHH!!!" with ssshake
 
 # game/scripts/kali_events.rpy:6586
 translate pt_br k_fancyq_bd1d3a2d:
 
     # bot "W-What!?"
-    bot ""
+    bot "Q-Que!?"
 
 # game/scripts/kali_events.rpy:6588
 translate pt_br k_fancyq_862cc753:
 
     # serni "RARGH!" with sshake
-    serni "" with sshake
+    serni "RARGH!" with sshake
 
 # game/scripts/kali_events.rpy:6590
 translate pt_br k_fancyq_58f27fd3:
 
     # bot "Hng!" with sshake
-    bot "" with sshake
+    bot "Hng!" with sshake
 
 # game/scripts/kali_events.rpy:6592
 translate pt_br k_fancyq_1d3c0dee:
 
     # bot "*gasp*!"
-    bot ""
+    bot "*surpresa*!"
 
 # game/scripts/kali_events.rpy:6594
 translate pt_br k_fancyq_4310771c:
 
     # serni "ARRGH!" with sshake
-    serni "" with sshake
+    serni "ARRGH!" with sshake
 
 # game/scripts/kali_events.rpy:6596
 translate pt_br k_fancyq_b099ff86:
 
     # bot "Aaah! Oh my god!"
-    bot ""
+    bot "Aaah! Meu deus!"
 
 # game/scripts/kali_events.rpy:6598
 translate pt_br k_fancyq_80ee389d:
 
     # serni "Nyagh!" with ssshake
-    serni "" with ssshake
+    serni "Nyagh!" with ssshake
 
 # game/scripts/kali_events.rpy:6600
 translate pt_br k_fancyq_aa4eebb4:
 
     # serni "Arrrghh! Naneth naur, mui nem!"
-    serni ""
+    serni "Arrrghh! Naneth naur, mui nem!"
 
 # game/scripts/kali_events.rpy:6602
 translate pt_br k_fancyq_11b6c0b4:
 
     # serni "ERGH! Bel- tin tur-!" with ssshake
-    serni "" with ssshake
+    serni "ERGH! Bel- tin tur-!" with ssshake
 
 # game/scripts/kali_events.rpy:6604
 translate pt_br k_fancyq_86cd3d39:
 
     # bot "Uhhh...!"
-    bot ""
+    bot "Uhhh...!"
 
 # game/scripts/kali_events.rpy:6606
 translate pt_br k_fancyq_38bc6ae8:
 
     # serni "HNGGG!!" with ssshake
-    serni "" with ssshake
+    serni "HNGGG!!" with ssshake
 
 # game/scripts/kali_events.rpy:6611
 translate pt_br k_fancyq_c84e32f8:
 
     # serni "Gahk!" with sshake
-    serni "" with sshake
+    serni "Gahk!" with sshake
 
 # game/scripts/kali_events.rpy:6613
 translate pt_br k_fancyq_0ba21026:
 
     # serni "Aghhhh! Manui naeg! FIRK!"
-    serni ""
+    serni "Aghhhh! Manui naeg! FIRK!"
 
 # game/scripts/kali_events.rpy:6615
 translate pt_br k_fancyq_5d5ce76d:
 
     # serni "RARRRRGHHH!!!" with sshake
-    serni "" with sshake
+    serni "RARRRRGHHH!!!" with sshake
 
 # game/scripts/kali_events.rpy:6617
 translate pt_br k_fancyq_ab59cee0:
 
     # bot "AAH! NNGH!" with ssshake
-    bot "" with ssshake
+    bot "AAH! NNGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6619
 translate pt_br k_fancyq_813c82f1:
 
     # bot "NNGH! M-Maybe we can talk this out!? NGH!" with ssshake
-    bot "" with ssshake
+    bot "NNGH! T-talvez agente possa conversar!? NGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6621
 translate pt_br k_fancyq_9a1a4173:
 
     # serni "HOLLEN OR- A BEL-!!! ARGH!" with ssshake
-    serni "" with ssshake
+    serni "HOLLEN OU- A BEL-!!! ARGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6623
 translate pt_br k_fancyq_c77806b6:
 
     # serni "HUMAN TECHLOGUI ECH- NIN ANGRUI!" with sshake
-    serni "" with sshake
+    serni "TECNHOLOGIA HUMHANA ECH- NIN BNRAVA!" with sshake
 
 # game/scripts/kali_events.rpy:6625
 translate pt_br k_fancyq_ae1b08b5:
 
     # serni "HUMAN TECHLOGUI ONLUI NAEG!" with ssshake
-    serni "" with ssshake
+    serni "TECNHOLOGIA HUMHANA APNEJAS NAEG!" with ssshake
 
 # game/scripts/kali_events.rpy:6627
 translate pt_br k_fancyq_7e629d0e:
 
     # serni "UIN COE CIN TUL-!" with ssshake
-    serni "" with ssshake
+    serni "UIN COE CIN TUL-!" with ssshake
 
 # game/scripts/kali_events.rpy:6628
 translate pt_br k_fancyq_3afc796a:
 
     # serni "HIN CIN RINN-!!!" with ssshake
-    serni "" with ssshake
+    serni "HIN CIN RINN-!!!" with ssshake
 
 # game/scripts/kali_events.rpy:6629
 translate pt_br k_fancyq_953797f4:
 
     # bot "AAGGGH!" with ssshake
-    bot "" with ssshake
+    bot "AAGGGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6630
 translate pt_br k_fancyq_86de650a:
 
     # serni "{b}DIE!!!!!{/b}" with sshake
-    serni "" with sshake
+    serni "{b}MORRA!!!!!{/b}" with sshake
 
 # game/scripts/kali_events.rpy:6634
 translate pt_br k_fancyq_3107fa72:
 
     # bot "AGHK!!"
-    bot ""
+    bot "AGHK!!"
 
 # game/scripts/kali_events.rpy:6636
 translate pt_br k_fancyq_1c366a61:
 
     # bot "Nrgh...!" with ssshake
-    bot "" with ssshake
+    bot "Nrgh...!" with ssshake
 
 # game/scripts/kali_events.rpy:6637
 translate pt_br k_fancyq_b303395f:
 
     # bot "I can't move my legs...!"
-    bot ""
+    bot "Eu não consigo mexer as pernas...!"
 
 # game/scripts/kali_events.rpy:6639
 translate pt_br k_fancyq_1780655c:
 
     # bot "Aaah!"
-    bot ""
+    bot "Aaah!"
 
 # game/scripts/kali_events.rpy:6641
 translate pt_br k_fancyq_3d54719c:
 
     # bot "..." with ssshake
-    bot "" with ssshake
+    bot "..." with ssshake
 
 # game/scripts/kali_events.rpy:6642
 translate pt_br k_fancyq_61c1cc44:
 
     # lily "Such a beast..."
-    lily ""
+    lily "Besta..."
 
 # game/scripts/kali_events.rpy:6644
 translate pt_br k_fancyq_25dbb06f:
 
     # c "What are you doing? Was that you?"
-    c ""
+    c "O que você está fazendo? Aquela era você?"
 
 # game/scripts/kali_events.rpy:6645
 translate pt_br k_fancyq_1c3458bf:
 
     # bot "O-Oh, [botown], Kali!"
-    bot ""
+    bot "O-Oh, [botown], Kali!"
 
 # game/scripts/kali_events.rpy:6647
 translate pt_br k_fancyq_ddb3b09f:
 
     # k "Did you... bring my laptop down here?"
-    k ""
+    k "Você... trouxe meu laptop aqui pra baixo?"
 
 # game/scripts/kali_events.rpy:6648
 translate pt_br k_fancyq_75fb91b5:
 
     # bot "Yes..."
-    bot ""
+    bot "Sim..."
 
 # game/scripts/kali_events.rpy:6650
 translate pt_br k_fancyq_5f4b00aa:
 
     # c "You can't attack people like that."
-    c ""
+    c "Você não pode atacar as pessoas assim."
 
 # game/scripts/kali_events.rpy:6651
 translate pt_br k_fancyq_ae8de8ef:
 
     # bot "She attacked me first!"
-    bot ""
+    bot "Ela me atacou primeiro!"
 
 # game/scripts/kali_events.rpy:6653
 translate pt_br k_fancyq_4506ba09:
 
     # k "Dude! Shut up about that, are you kidding?"
-    k ""
+    k "Cara! Cala a boca, você tá zoando?"
 
 # game/scripts/kali_events.rpy:6654
 translate pt_br k_fancyq_297d93f3:
 
     # c "What?"
-    c ""
+    c "Que?"
 
 # game/scripts/kali_events.rpy:6655
 translate pt_br k_fancyq_f6cb0048:
 
     # k "SHE CAN BE IN TWO PLACES AT ONCE!"
-    k ""
+    k "ELA PODE ESTAR EM DOIS LUGARES AO MESMO TEMPO!"
 
 # game/scripts/kali_events.rpy:6656
 translate pt_br k_fancyq_c321af51:
 
     # k "If she can fully control two bodies at the same time, she can control as many b-"
-    k ""
+    k "Se ela pode controlar completamente dois corpos ao mesmo tempo, ela pode controlar quantos cor-"
 
 # game/scripts/kali_events.rpy:6658
 translate pt_br k_fancyq_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6660
 translate pt_br k_fancyq_7731f44b:
 
     # k "Can I speak to you... in private?"
-    k ""
+    k "Podemos conversar... a sós?"
 
 # game/scripts/kali_events.rpy:6662
 translate pt_br k_fancyq_bda175ed:
 
     # k "I don't know if I should be freaking out, or very excited right now..."
-    k ""
+    k "Eu não sei se eu deveria estar assustada agora, ou animada..."
 
 # game/scripts/kali_events.rpy:6663
 translate pt_br k_fancyq_bb00a52c:
