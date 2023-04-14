@@ -24802,301 +24802,301 @@ translate pt_br k_fancyq_bda175ed:
 translate pt_br k_fancyq_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Como assim?"
 
 # game/scripts/kali_events.rpy:6665
 translate pt_br k_fancyq_8e140175:
 
     # k "Lucy was right! This may have been a {u}very{/u} bad idea! She could turn into a fucking hive mind!"
-    k ""
+    k "Lucy estava certa! Essa deve ter sido uma idéia {u}muito{/u} ruim! Ela pode acabar virando uma espécie de abelha rainha!"
 
 # game/scripts/kali_events.rpy:6666
 translate pt_br k_fancyq_eb13c08a:
 
     # k "She doesn't need that visor in front of her eyes like we do, she just needs to connect to my laptop and she can do it wirelessly!"
-    k ""
+    k "Ela não precisa daquele visor nos olhos como agente, ela só precisa se conectar ao meu laptop e pode fazer isso sem nem mesmo usar um cabo!"
 
 # game/scripts/kali_events.rpy:6668
 translate pt_br k_fancyq_10055d17:
 
     # k "Oh my god, if she has hardware that does the same, she wouldn't need to connect to ANYTHING physical! She could do it all herself!"
-    k ""
+    k "Meu deus, se o hardware for igual, ela não precisaria nem mesmo se conectar à NADA físico! Ela pode fazer tudo através dela mesma!"
 
 # game/scripts/kali_events.rpy:6670
 translate pt_br k_fancyq_f51073d1:
 
     # k "She said she could see in my room, right? And she said she could see Maria's too! She can see as many things as she can connect to! And her range is already insane!"
-    k ""
+    k "Ela disse que conseguia observar o meu quarto, né? E também com o quarto da Maria! Ela consegue ver qualquer coisa que possa ser conectada à ela! E o alcance dela já é insano!"
 
 # game/scripts/kali_events.rpy:6671
 translate pt_br k_fancyq_2fa18b45:
 
     # k "She doesn't even need to put herself in danger to fight! You saw that too!"
-    k ""
+    k "Ela não precisa nem mesmo se colocar em perigo para lutar! Você viu, não viu!"
 
 # game/scripts/kali_events.rpy:6673
 translate pt_br k_fancyq_83cd5775:
 
     # c "...She may have full administrative controls over herself as well."
-    c ""
+    c "...Ela tem total controle administrativo sobre ela também."
 
 # game/scripts/kali_events.rpy:6674
 translate pt_br k_fancyq_b60f50a1:
 
     # k "WHAT!? Why did you do that!?"
-    k ""
+    k "O QUE!? Por que você fez isso!?"
 
 # game/scripts/kali_events.rpy:6675
 translate pt_br k_fancyq_0fe6f4f9:
 
     # c "I didn't."
-    c ""
+    c "Não fui eu."
 
 # game/scripts/kali_events.rpy:6677
 translate pt_br k_fancyq_b04ab763:
 
     # k "Ohh... this is bad, right? Are sci-fi stories true? We're fucked, right? We're fucked."
-    k ""
+    k "Ohh... isso é ruim, né? As histórias sci-fi serão reais? Nós estamos fudidos, não é? Estamos fudidos."
 
 # game/scripts/kali_events.rpy:6679
 translate pt_br k_fancyq_bb02f425:
 
     # k "We should never let her do that again, right?"
-    k ""
+    k "Nós nunca mais devemos deixar ela fazer isso de novo, certo?"
 
 # game/scripts/kali_events.rpy:6682
 translate pt_br k_fancyq_608543fc:
 
     # k "Right!"
-    k ""
+    k "Certo!"
 
 # game/scripts/kali_events.rpy:6684
 translate pt_br k_fancyq_9333294d:
 
     # k "But I created it! I made a hive mind! That was me!"
-    k ""
+    k "Mas eu fiz isso! Eu criei a abelha rainha! Fui eu!"
 
 # game/scripts/kali_events.rpy:6685
 translate pt_br k_fancyq_e9d1c1f4:
 
     # k "Well it was mostly me! Maybe half, at least...!"
-    k ""
+    k "Bem, a maior parte! Talvez metade, pelo menos...!"
 
 # game/scripts/kali_events.rpy:6687
 translate pt_br k_fancyq_54475cce:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
-    k ""
+    k "Isso é uma coisa boa, ou uma coisa ruim...? Eu não sei..."
 
 # game/scripts/kali_events.rpy:6689
 translate pt_br k_fancyq_35860c3e:
 
     # k "I don't know either! It's your android!"
-    k ""
+    k "Eu não sei também! O android é seu!"
 
 # game/scripts/kali_events.rpy:6690
 translate pt_br k_fancyq_0a60bce6:
 
     # c "You made the hive mind."
-    c ""
+    c "Você criou a abelha rainha."
 
 # game/scripts/kali_events.rpy:6692
 translate pt_br k_fancyq_4488af80:
 
     # k "I did, didn't I? I created a hive mind!"
-    k ""
+    k "Eu criei, não criei? Eu criei a abelha rainha!"
 
 # game/scripts/kali_events.rpy:6693
 translate pt_br k_fancyq_e9d1c1f4_1:
 
     # k "Well it was mostly me! Maybe half, at least...!"
-    k ""
+    k "Bem, a maior parte! Talvez metade, pelo menos...!"
 
 # game/scripts/kali_events.rpy:6695
 translate pt_br k_fancyq_54475cce_1:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
-    k ""
+    k "Isso é uma coisa boa, ou uma coisa ruim...? Eu não sei..."
 
 # game/scripts/kali_events.rpy:6697
 translate pt_br k_fancyq_26296101_2:
 
     # k "What do you mean?"
-    k ""
+    k "O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:6698
 translate pt_br k_fancyq_30d037c5:
 
     # c "World power, that sort of thing."
-    c ""
+    c "Dominação global, esse tipo de coisa."
 
 # game/scripts/kali_events.rpy:6699
 translate pt_br k_fancyq_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:6700
 translate pt_br k_fancyq_898775b5:
 
     # c "How many androids can she connect to?"
-    c ""
+    c "Com quantos androids ela pode se conectar?"
 
 # game/scripts/kali_events.rpy:6701
 translate pt_br k_fancyq_03f3df22:
 
     # k "As many as she wants, hypothetically!"
-    k ""
+    k "Quantos ela quiser, hipoteticamente!"
 
 # game/scripts/kali_events.rpy:6702
 translate pt_br k_fancyq_249ccd00:
 
     # c "Great, we can take over the world easily."
-    c ""
+    c "Ótimo, nós podemos tomar o mundo facilmente."
 
 # game/scripts/kali_events.rpy:6703
 translate pt_br k_fancyq_f9b96cb1:
 
     # k "Don't joke about that! This is actually kind of scary!"
-    k ""
+    k "Não faça piadas sobre isso! Isso é assustador!"
 
 # game/scripts/kali_events.rpy:6705
 translate pt_br k_fancyq_9333294d_1:
 
     # k "But I created it! I made a hive mind! That was me!"
-    k ""
+    k "Mas eu fiz isso! Eu criei a abelha rainha! Fui eu!"
 
 # game/scripts/kali_events.rpy:6706
 translate pt_br k_fancyq_e9d1c1f4_2:
 
     # k "Well it was mostly me! Maybe half, at least...!"
-    k ""
+    k "Bem, a maior parte! Talvez metade, pelo menos...!"
 
 # game/scripts/kali_events.rpy:6708
 translate pt_br k_fancyq_54475cce_2:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
-    k ""
+    k "Isso é uma coisa boa, ou uma coisa ruim...? Eu não sei..."
 
 # game/scripts/kali_events.rpy:6709
 translate pt_br k_fancyq_84382d75:
 
     # c "I guess we're going to find out..."
-    c ""
+    c "Eu acho que nós teremos que descobrir..."
 
 # game/scripts/kali_events.rpy:6711
 translate pt_br k_fancyq_6e526b36:
 
     # aar "Stop! {b}STOP!{/b}"
-    aar ""
+    aar "Pare! {b}PARE!{/b}"
 
 # game/scripts/kali_events.rpy:6712
 translate pt_br k_fancyq_0efea4e4:
 
     # cart "Serni, put his android down! You'll kill someone if you throw her off!"
-    cart ""
+    cart "Serni, solte o android dele! Você vai matar alguém se jogar ela para longe!"
 
 # game/scripts/kali_events.rpy:6713
 translate pt_br k_fancyq_02cc449e:
 
     # serni "Nin victorui glenn- mír. Nin. Nin!"
-    serni ""
+    serni "Nin viftórdia glenn- mír. Nin. Nin!"
 
 # game/scripts/kali_events.rpy:6714
 translate pt_br k_fancyq_bdb2cbae:
 
     # aar "Control your slave!"
-    aar ""
+    aar "Controle a sua escrava!"
 
 # game/scripts/kali_events.rpy:6715
 translate pt_br k_fancyq_73d74431:
 
     # cart "Serni! SERNI! Put her down, you big angry grape!"
-    cart ""
+    cart "Serni! SERNI! Solte ela, sua uva raivosa!"
 
 # game/scripts/kali_events.rpy:6717
 translate pt_br k_fancyq_915ee0ff:
 
     # serni "SERNI VICTORUI! NIN! Im tur- ceri- im anír- su victorui!" with ssshake
-    serni "" with ssshake
+    serni "SERNI VIFTÓRDIA! NIN! Im tur- ceri- im anír- su viftórdia!" with ssshake
 
 # game/scripts/kali_events.rpy:6718
 translate pt_br k_fancyq_951bffc3:
 
     # kd "What the hell is going on over there!?"
-    kd ""
+    kd "O que diabos está acontecendo aqui!?"
 
 # game/scripts/kali_events.rpy:6719
 translate pt_br k_fancyq_70cef6ad:
 
     # mari "Does anyone speak elvish!?"
-    mari ""
+    mari "Alguém sabe falar em élfico!?"
 
 # game/scripts/kali_events.rpy:6721
 translate pt_br k_fancyq_7d6d32ff:
 
     # lu "Um... I think now is a good time to go... things are getting pretty hectic here..."
-    lu ""
+    lu "Um... eu acho que agora é um bom momento de sair... as coisas estão ficando bem caóticas aqui..."
 
 # game/scripts/kali_events.rpy:6723
 translate pt_br k_fancyq_b25f214c:
 
     # k "I'll take any excuse to leave. Take [botname] and go to the helicopter, we'll be right there. But {u}don't{/u} take my laptop, leave that here. I'll grab it on my way out."
-    k ""
+    k "Eu posso usar qualquer desculpa para sair. Pegue a [botname] e vá para o helicóptero, nós já vamos para lá. Mas {u}não{/u} pegue o meu laptop, deixe-o lá. Eu pego depois."
 
 # game/scripts/kali_events.rpy:6724
 translate pt_br k_fancyq_52c8742d:
 
     # lu "Oh, okay."
-    lu ""
+    lu "Oh, ok."
 
 # game/scripts/kali_events.rpy:6726
 translate pt_br k_fancyq_d88b1cf2:
 
     # k "Okay, well at least we're leaving now. We should probably keep [botname] and my laptop away from each other for now..."
-    k ""
+    k "Beleza, bem, ao menos nós estamos saindo agora. Provavelmente nós devemos deixar a [botname] e o meu laptop separados por enquanto..."
 
 # game/scripts/kali_events.rpy:6727
 translate pt_br k_fancyq_848b0b66:
 
     # c "Good idea."
-    c ""
+    c "Boa idéia."
 
 # game/scripts/kali_events.rpy:6729
 translate pt_br k_fancyq_89466a90:
 
     # k "Bye, Dad! We're leaving!"
-    k ""
+    k "Tchau, pai! Nós estamos indo!"
 
 # game/scripts/kali_events.rpy:6730
 translate pt_br k_fancyq_4c509ea3:
 
     # kd "Oh, okay! I'll call you, sweetie!"
-    kd ""
+    kd "Oh, ok! Eu te ligo depois, querida!"
 
 # game/scripts/kali_events.rpy:6732
 translate pt_br k_fancyq_aa321592:
 
     # "Kali firmly grasps her laptop during the entire ride back..."
-    ""
+    "Kali segura firmemente seu laptop durante toda volta..."
 
 # game/scripts/kali_events.rpy:6737
 translate pt_br k_fancyq_2085091e:
 
     # k "Phew, we're finally home... Thank you for coming with me, [name]."
-    k ""
+    k "Phew, finalmente em casa... obrigada por vir comigo, [name]."
 
 # game/scripts/kali_events.rpy:6738
 translate pt_br k_fancyq_50c08646:
 
     # c "You seem worried."
-    c ""
+    c "Você parece preocupada."
 
 # game/scripts/kali_events.rpy:6739
 translate pt_br k_fancyq_7be2fbea:
 
     # k "I am! I don't know what to think about [botname]... I'm actually kind of scared of her now. She could be listening to us right now!"
-    k ""
+    k "E estou! Eu não sei oque pensar sobre a [botname]... eu na verdade estou meio assustada agora. Ela pode estar nos ouvindo agora!"
 
 # game/scripts/kali_events.rpy:6740
 translate pt_br k_fancyq_4d791159:
@@ -25132,13 +25132,13 @@ translate pt_br kaliapp_be399ab0:
 translate pt_br kaliapp_6e6e7e86:
 
     # lu "Hmmmm...? It still looks like scribbles to me..."
-    lu "Hmmmm...? Parece com rascunhos para mim..."
+    lu "Hmmmm...? Isso parece rascunhos pra mim..."
 
 # game/scripts/kali_events.rpy:6768
 translate pt_br kaliapp_4e229ba8:
 
     # k "That's just the code, the average person isn't going to see it. Go get [name]!"
-    k "Isso é só o código, a maioria das pessoas não vão entender. Vá chamar o [name]!"
+    k "Isso é só um código, a maioria das pessoas não vão entender mesmo. Vá chamar o [name]!"
 
 # game/scripts/kali_events.rpy:6770
 translate pt_br kaliapp_1aaaed22:
