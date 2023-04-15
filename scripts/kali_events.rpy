@@ -20428,85 +20428,85 @@ translate pt_br kaliuni_de1b5ddf:
 translate pt_br kalivtwo_5103be00:
 
     # k "Hey, honeybear. Wanna go out?"
-    k ""
+    k "Ei ursinho. Quer dar uma volta?"
 
 # game/scripts/kali_events.rpy:5519
 translate pt_br kalivtwo_a7ae532a:
 
     # c "Sure, where to?"
-    c ""
+    c "Claro, para onde?"
 
 # game/scripts/kali_events.rpy:5520
 translate pt_br kalivtwo_71a0d6ca:
 
     # k "I wanna go shopping for uni, maybe look for some makeup, and maybe get my hair done as well! ...I need your help."
-    k ""
+    k "Eu gostaria de fazer compras, cuidar da maquiagem, e também talvez o tratar meu cabelo... e eu preciso da sua ajuda."
 
 # game/scripts/kali_events.rpy:5521
 translate pt_br kalivtwo_b25f8ed6:
 
     # c "Hah, are you serious?"
-    c ""
+    c "Hah, sério?"
 
 # game/scripts/kali_events.rpy:5524
 translate pt_br kalivtwo_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:5525
 translate pt_br kalivtwo_cdc4e44a:
 
     # c "You're not exactly known for shopping, makeup, and hair cuts."
-    c ""
+    c "Você não é o tipo de pessoa conhecida por fazer compras, cuidar da maquiagem, e arrumar o cabelo."
 
 # game/scripts/kali_events.rpy:5526
 translate pt_br kalivtwo_e0d919d6:
 
     # k "I'm not getting my hair cut, I'm getting it styled! There's a huge difference."
-    k ""
+    k "Eu não vou cortar meu cabelo nem nada, eu só vou dar uma estilizada! Tem uma enorme diferença."
 
 # game/scripts/kali_events.rpy:5527
 translate pt_br kalivtwo_86cf6412:
 
     # c "Let's get to it, then!"
-    c ""
+    c "Vamos indo então!"
 
 # game/scripts/kali_events.rpy:5530
 translate pt_br kalivtwo_efe54581:
 
     # k "Cool! You're the best boyfriend ever! Make sure I'm cute!"
-    k ""
+    k "Ótimo! Você é o melhor namorado de todos! Conto com você!"
 
 # game/scripts/kali_events.rpy:5531
 translate pt_br kalivtwo_67731ee1:
 
     # k "Oh, you know a place, right? I have no clue where to go for... normal clothes."
-    k ""
+    k "Oh, você conhece algum lugar, né? Eu não sei onde ir comprar... roupas normais."
 
 # game/scripts/kali_events.rpy:5532
 translate pt_br kalivtwo_52910e0a:
 
     # c "Sure, I've got somewhere in mind."
-    c ""
+    c "Claro, estou pensando em um."
 
 # game/scripts/kali_events.rpy:5534
 translate pt_br kalivtwo_744a4b6d:
 
     # "You and Kali drive to the nearest city... During your drive, you notice Kali is jumpy with anticipation. You've rarely ever seen her this excited, happy, motivated or ambitious."
-    ""
+    "Você e Kali dirigem até a cidade mais próxima... durante a ida, você nota a Kali 'pular' de antecipação. Você raramente a vê tão ansiosa, animada, ou motivada assim."
 
 # game/scripts/kali_events.rpy:5535
 translate pt_br kalivtwo_4c455430:
 
     # "You're still not sure if harvesting elves for their blood is something you should support, but the important part is Kali is happy. You decide to support Kali as much as you can through this, if for nothing but to keep that smile on her face for five more minutes."
-    ""
+    "Você ainda não tem certeza se deve apoiar a extração de sangue élfico, mas o que importa é que a Kali está feliz. Você decide apoiá-la o quanto puder, só para ver aquele sorriso em seu rosto por alguns minutos."
 
 # game/scripts/kali_events.rpy:5537
 translate pt_br kalivtwo_d9240928:
 
     # k "This is the place...?"
-    k ""
+    k "O lugar é esse...?"
 
 # game/scripts/kali_events.rpy:5538
 translate pt_br kalivtwo_5024c2b8:
@@ -21364,181 +21364,181 @@ translate pt_br kalivtwo_17e85a94:
 translate pt_br kalicollegetest_a1066727:
 
     # bot "[botown], guess what!"
-    bot ""
+    bot "[botown], advinha!"
 
 # game/scripts/kali_events.rpy:5761
 translate pt_br kalicollegetest_62017e6e:
 
     # k "I finally got the test! My Dad really did it!"
-    k ""
+    k "Eu finalmente peguei o teste! Meu pai realmente conseguiu!"
 
 # game/scripts/kali_events.rpy:5762
 translate pt_br kalicollegetest_29e33b2f:
 
     # c "That's great!"
-    c ""
+    c "Isso é ótimo!"
 
 # game/scripts/kali_events.rpy:5767
 translate pt_br kalicollegetest_fef97190:
 
     # k "I took a glance earlier, I honestly didn't expect the entrance exam to be this tough."
-    k ""
+    k "Eu dei uma olhada mais cedo. Honestamente, eu não esperava que a prova de admissão fosse tão difícil."
 
 # game/scripts/kali_events.rpy:5768
 translate pt_br kalicollegetest_8577ac40:
 
     # bot "You can always practice on me!"
-    bot ""
+    bot "Você pode praticar em mim!"
 
 # game/scripts/kali_events.rpy:5771
 translate pt_br kalicollegetest_9a7b3593:
 
     # k "Haha, thanks, but this is a completely different field. You don't have the same operating system the Elfbots are planned to have."
-    k ""
+    k "Haha, obrigada, mas essa é uma coisa completamente diferente. Você não tem o mesmo sistema operacional que os Elfbots."
 
 # game/scripts/kali_events.rpy:5774
 translate pt_br kalicollegetest_21f88f68:
 
     # bot "Oh..."
-    bot ""
+    bot "Oh..."
 
 # game/scripts/kali_events.rpy:5775
 translate pt_br kalicollegetest_41d3a4f8:
 
     # k "Cheer up, the two operating systems are relatively similar enough. You were a great learning experience!"
-    k ""
+    k "Relaxa, os dois sistemas eram relativamente semelhantes. Você foi um bom início!"
 
 # game/scripts/kali_events.rpy:5776
 translate pt_br kalicollegetest_f54762ea:
 
     # k "And I can always develop some apps for you. Nothing has changed, I just won't be able to work on you at the same level I will with Elfbots. Assuming this all works out..."
-    k ""
+    k "E eu sempre posso desenvolver alguns aplicativos para você. Nada mudou, eu só não vou poder trabalhar em você no mesmo nível que vou trabalhar nos Elfbots. Assumindo que tudo isso de certo..."
 
 # game/scripts/kali_events.rpy:5779
 translate pt_br kalicollegetest_f51f9319:
 
     # bot "Oh, okay!"
-    bot ""
+    bot "Oh, ok!"
 
 # game/scripts/kali_events.rpy:5780
 translate pt_br kalicollegetest_e75871fd:
 
     # c "This is a huge opportunity for you, and I can tell you're very motivated to do this. I'm proud of you!"
-    c ""
+    c "Essa é uma grande oportunidade pra você, e eu sei que você está bastante motivada. Eu estou orgulhoso!"
 
 # game/scripts/kali_events.rpy:5783
 translate pt_br kalicollegetest_a83c2cf5:
 
     # k "Thanks, honeybear..."
-    k ""
+    k "Obrigada, ursinho..."
 
 # game/scripts/kali_events.rpy:5784
 translate pt_br kalicollegetest_3986e648:
 
     # c "Are you excited for your new college life?"
-    c ""
+    c "Está animada com a sua nova vida de universitária?"
 
 # game/scripts/kali_events.rpy:5787
 translate pt_br kalicollegetest_15e27d7c:
 
     # k "Yeah, I mean, maybe I'll make some friends, but honestly I'm more excited about having a purpose. This is my chance to really do some good for this world!"
-    k ""
+    k "Sim, quer dizer, talvez eu faça alguns amigos, mas honestamente. Eu estou mais animada com ter um propósito. Essa é a minha chance de fazer algo algo pelo mundo!"
 
 # game/scripts/kali_events.rpy:5788
 translate pt_br kalicollegetest_90e3eab4:
 
     # c "You weren't this excited when you first saw the Elfbot, what happened?"
-    c ""
+    c "Você não estava assim na primeira vez que viu os Elfbots, o que aconteceu?"
 
 # game/scripts/kali_events.rpy:5789
 translate pt_br kalicollegetest_c2090afd:
 
     # k "Sure, the harvesting elves for their blood thing was pretty abhorant, but look at the bigger picture! We won't need to use elvish labor if we have the Elfbots!"
-    k ""
+    k "Claro, a coisa que tirar o sangue dos elfos foi bem macabro, mas olhe para o objetivo maior! Nós não vamos precisar da mão de obra dos elfos se nós tivermos os Elfbots!"
 
 # game/scripts/kali_events.rpy:5790
 translate pt_br kalicollegetest_79341e3e:
 
     # k "I could even see my work being the spark that ignites elvish liberation!"
-    k ""
+    k "Eu consigo até mesmo ver o meu trabalho caminhando para a libertação dos elfos!"
 
 # game/scripts/kali_events.rpy:5791
 translate pt_br kalicollegetest_8401c022:
 
     # c "You have big ambitions. I can't wait to see what you accomplish."
-    c ""
+    c "Você tem grandes amboções. Mal posso esperar para isso se realizar."
 
 # game/scripts/kali_events.rpy:5794
 translate pt_br kalicollegetest_7e606608:
 
     # k "It's only a dream, maybe I shouldn't get my hopes too high..."
-    k ""
+    k "É só uma ambição, talvez eu não devesse elevar minhas expectativas..."
 
 # game/scripts/kali_events.rpy:5795
 translate pt_br kalicollegetest_e3d00aba:
 
     # c "Shoot for the stars, Kali."
-    c ""
+    c "Atire para as estrelas, Kali."
 
 # game/scripts/kali_events.rpy:5798
 translate pt_br kalicollegetest_4bdf60bf:
 
     # k "You're right! AGH! I'm so excited!"
-    k ""
+    k "Você está certo! AGH! Eu estou tão animada!"
 
 # game/scripts/kali_events.rpy:5801
 translate pt_br kalicollegetest_c2fed10b:
 
     # bot "Go team Kali!"
-    bot ""
+    bot "Vai time Kali!"
 
 # game/scripts/kali_events.rpy:5806
 translate pt_br kalicollegetest_4780f165:
 
     # k "Oh, that's right! There were actually a few things you could help with me with!"
-    k ""
+    k "Oh, sim! Na verdade tem algumas coisas que você pode me ajudar!"
 
 # game/scripts/kali_events.rpy:5807
 translate pt_br kalicollegetest_2cd1ec6b:
 
     # k "[botname] you have to tell me how your vision works, how do you see?"
-    k ""
+    k "[botname] você precisa me dizer como a sua visão funciona, como você enxerga?"
 
 # game/scripts/kali_events.rpy:5808
 translate pt_br kalicollegetest_238728ef:
 
     # bot "Ummm, with my eyes silly, hehe."
-    bot ""
+    bot "Ummm, com os meus olhos, bobinha, hehe."
 
 # game/scripts/kali_events.rpy:5809
 translate pt_br kalicollegetest_329caaa4:
 
     # k "No, this will help me on my test! {i}How{/i} do you see? Like, with your eyes."
-    k ""
+    k "Não, isso não vai me ajudar no meu teste! {i}Como{/i} você enxerga? Tipo, com os seus olhos."
 
 # game/scripts/kali_events.rpy:5810
 translate pt_br kalicollegetest_f930b7a0:
 
     # bot "Oh! I use a wide variety of different cameras, sensors and GPS. Depth perception is made partially possible by just having two eyes!"
-    bot ""
+    bot "Oh! Eu uso uma vasta variedade de câmeras, sensores e GPS. Minha percepção de profundidade é possível só com meus dois olhos! "
 
 # game/scripts/kali_events.rpy:5811
 translate pt_br kalicollegetest_68a101a5:
 
     # k "Really? I didn't know that. You have to tell me more! What about your memory?"
-    k ""
+    k "Sério? Eu não sabia disso. Você precisa me contar mais! E sua memória?"
 
 # game/scripts/kali_events.rpy:5812
 translate pt_br kalicollegetest_74cf25f9:
 
     # c "Haha, alright, I'll leave you two to it."
-    c ""
+    c "Haha, certo, eu vou deixar vocês à sós."
 
 # game/scripts/kali_events.rpy:5815
 translate pt_br kalicollegetest_3be8bd03:
 
     # k "Oh, sorry haha... see you later, [name]!"
-    k ""
+    k "Oh, desculpe haha... até mais tarde, [name]!"
 
 # game/scripts/kali_events.rpy:5826
 translate pt_br kali_preparty_e4cc4fbf:
@@ -25102,25 +25102,25 @@ translate pt_br k_fancyq_7be2fbea:
 translate pt_br k_fancyq_4d791159:
 
     # c "Why don't you talk to her about it?"
-    c ""
+    c "Por que você não conversa com ela sobre isso?"
 
 # game/scripts/kali_events.rpy:6741
 translate pt_br k_fancyq_c4223b7e:
 
     # k "Should I?"
-    k ""
+    k "Será que eu devo?"
 
 # game/scripts/kali_events.rpy:6742
 translate pt_br k_fancyq_0c775062:
 
     # c "She's still your friend."
-    c ""
+    c "Ela ainda é a sua amiga."
 
 # game/scripts/kali_events.rpy:6743
 translate pt_br k_fancyq_698b6815:
 
     # k "...Alright... I'll think about it..."
-    k ""
+    k "...Tudo bem... eu vou pensar sobre isso..."
 
 # game/scripts/kali_events.rpy:6766
 translate pt_br kaliapp_be399ab0:
