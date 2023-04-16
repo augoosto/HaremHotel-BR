@@ -20506,367 +20506,367 @@ translate pt_br kalivtwo_4c455430:
 translate pt_br kalivtwo_d9240928:
 
     # k "This is the place...?"
-    k "O lugar é esse...?"
+    k "É esse o lugar...?"
 
 # game/scripts/kali_events.rpy:5538
 translate pt_br kalivtwo_5024c2b8:
 
     # c "Yep, what's wrong with it?"
-    c ""
+    c "Isso, algum problema?"
 
 # game/scripts/kali_events.rpy:5539
 translate pt_br kalivtwo_a59c5137:
 
     # k "Nothing..."
-    k ""
+    k "Não..."
 
 # game/scripts/kali_events.rpy:5540
 translate pt_br kalivtwo_7001e431:
 
     # k "It's just so... red..."
-    k ""
+    k "É que é tão... vermelho..."
 
 # game/scripts/kali_events.rpy:5542
 translate pt_br kalivtwo_dfde58dd:
 
     # k "Ah... hm..."
-    k ""
+    k "Ah... hm..."
 
 # game/scripts/kali_events.rpy:5543
 translate pt_br kalivtwo_041d4d79:
 
     # k "Are you trying to tell me something?"
-    k ""
+    k "Você está tentando me dizer algo?"
 
 # game/scripts/kali_events.rpy:5544
 translate pt_br kalivtwo_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Huh?"
 
 # game/scripts/kali_events.rpy:5545
 translate pt_br kalivtwo_0208694b:
 
     # k "If you want me to look like a goth rocker chick, just tell me... you don't need to hide your fetishes."
-    k ""
+    k "Se você quer que eu me vista como uma garota rockeira é gótica, só me diz... não precisa esconder seus fetiches."
 
 # game/scripts/kali_events.rpy:5548
 translate pt_br kalivtwo_4078a591:
 
     # k "Heh, knew it..."
-    k ""
+    k "Heh, eu sabia..."
 
 # game/scripts/kali_events.rpy:5549
 translate pt_br kalivtwo_b0a94a21:
 
     # k "Not my style though."
-    k ""
+    k "Só que não é meu estilo favorito."
 
 # game/scripts/kali_events.rpy:5551
 translate pt_br kalivtwo_67f28631:
 
     # k "Could be fun, I think I could rock it... it's a bit too flashy for me though, so I won't wear it in public..."
-    k ""
+    k "Pode ser divertido, eu acho que eu poderia ser uma rockeira... só que é um pouco brilhoso demais para mim, então eu não usaria em público..."
 
 # game/scripts/kali_events.rpy:5553
 translate pt_br kalivtwo_0680af5d:
 
     # c "You've done worse in public."
-    c ""
+    c "Você já fez pior em público."
 
 # game/scripts/kali_events.rpy:5554
 translate pt_br kalivtwo_915deec6:
 
     # k "Yeah, well..."
-    k ""
+    k "Bem, verdade..."
 
 # game/scripts/kali_events.rpy:5555
 translate pt_br kalivtwo_f8826de5:
 
     # k "Whatever... I don't want people to think I'm goth, or weird, or stick out, or whatever... I just want to hide in plain sight."
-    k ""
+    k "Tanto faz... eu não quero que as pessoas pensem que eu sou gótica, ou esquisita, ou que quero me destacar, ou qualquer outra coisa... eu só quero me esconder em plena vista."
 
 # game/scripts/kali_events.rpy:5556
 translate pt_br kalivtwo_7f53c472:
 
     # k "But... I'll always wear whatever you want me to in bed~"
-    k ""
+    k "Mas... eu sempre irei usar oque você quiser que eu use, na cama~"
 
 # game/scripts/kali_events.rpy:5559
 translate pt_br kalivtwo_0e358a34:
 
     # k "Oh."
-    k ""
+    k "Oh."
 
 # game/scripts/kali_events.rpy:5561
 translate pt_br kalivtwo_8a77d26c:
 
     # k "Hmmm... Sheesh, some of this stuff is flashy."
-    k ""
+    k "Hmmm... deus, algumas dessas coisas são muito destancantes."
 
 # game/scripts/kali_events.rpy:5562
 translate pt_br kalivtwo_985c7aa0:
 
     # k "What do you think, should I get something that says 'you're smart' or something that says 'you're friendly'?"
-    k ""
+    k "Oque você acha, eu devo pegar algo que diga 'você é inteligente' ou algo do tipo 'você é amigável'?"
 
 # game/scripts/kali_events.rpy:5565
 translate pt_br kalivtwo_164444a8:
 
     # k "Yeah, people should know I'm smart. People should respect me!"
-    k ""
+    k "Isso, eu devo parecer inteligente. As pessoas iriam me respeitar!"
 
 # game/scripts/kali_events.rpy:5567
 translate pt_br kalivtwo_2dcffdaa:
 
     # k "Good idea, I don't want people to think I'm full of myself..."
-    k ""
+    k "Boa idéia, eu não quero que as pessoas pensem que eu estou me achando..."
 
 # game/scripts/kali_events.rpy:5568
 translate pt_br kalivtwo_877616a9:
 
     # k "Okay, I think I've got one..."
-    k ""
+    k "Ok, acho que eu já decidi algumas..."
 
 # game/scripts/kali_events.rpy:5569
 translate pt_br kalivtwo_c2933dcd:
 
     # k "Let's look around a bit more. I want to try on a few for you."
-    k ""
+    k "Vamos dar mais alguma olhada. Eu quero testar algumas pra você."
 
 # game/scripts/kali_events.rpy:5571
 translate pt_br kalivtwo_ecc9a454:
 
     # k "God, I hope college isn't anything like highschool. The people there sucked..."
-    k ""
+    k "Deus, eu espero que a faculdade não seja igual o ensimo médio. As pessoas eram muito idiotas lá..."
 
 # game/scripts/kali_events.rpy:5572
 translate pt_br kalivtwo_e51cac3a:
 
     # k "Ergh, I hope no one bullies me for joining college late, I'll be older than everyone..."
-    k ""
+    k "Ergh, eu espero que ninguém faça bullyng comigo por entrar mais tarde, eu vou ser a mais velha..."
 
 # game/scripts/kali_events.rpy:5573
 translate pt_br kalivtwo_e6f2dc34:
 
     # c "Relax, no one is going to care about how old are you are. You could easily pass for 21 anyway, no one is going to bring it up"
-    c ""
+    c "Relaxa, ninguém vai ligar sobre a sua idade. Você parecer ter no máximo 21 anos mesmo, ninguém vai perceber?"
 
 # game/scripts/kali_events.rpy:5574
 translate pt_br kalivtwo_c396fd49:
 
     # k "Aw, you think? That's so nice of you to say..."
-    k ""
+    k "Aw, você acha? Isso foi tão legal da sua parte..."
 
 # game/scripts/kali_events.rpy:5575
 translate pt_br kalivtwo_e66294a7:
 
     # k "Yeah, what am I thinking... I need to get my head out of the gutter! I'm just anxious, sorry..."
-    k ""
+    k "Isso, oque eu estou pensando... eu preciso manter minha cabeça no lugar! Eu só estou ansiosa, desculpe..."
 
 # game/scripts/kali_events.rpy:5576
 translate pt_br kalivtwo_dec552d8:
 
     # k "Hmmm, I've got to have something professional too, right? Like, what if I have to go to a meeting? I can't show up in a hoodie..."
-    k ""
+    k "Hmmm, eu preciso pegar algo profissional também, né? Tipo, seu eu tivesse que sair? Eu não poderia ir com um moletom..."
 
 # game/scripts/kali_events.rpy:5577
 translate pt_br kalivtwo_f3e1b9d3:
 
     # k "Should I look for something that makes me look more powerful or... successful?"
-    k ""
+    k "Eu devo escolher algo que me faça parecer mais poderosa ou... bem sucedida?"
 
 # game/scripts/kali_events.rpy:5580
 translate pt_br kalivtwo_39dcb35b:
 
     # k "Are you saying I don't have any power...?"
-    k ""
+    k "Tá dizendo que eu não tenho poder...?"
 
 # game/scripts/kali_events.rpy:5581
 translate pt_br kalivtwo_3e0390ff:
 
     # c "Uh..."
-    c ""
+    c "Uh..."
 
 # game/scripts/kali_events.rpy:5582
 translate pt_br kalivtwo_fe54964a:
 
     # k "Heh, I'm just kidding, I know what you mean. I should radiate confidence! Like I already have the job!"
-    k ""
+    k "Heh, brincadeira, eu sei que oque você quer dizer. Eu devo parecer radiante e confiante! Como se eu já tivesse um emprego!"
 
 # game/scripts/kali_events.rpy:5583
 translate pt_br kalivtwo_60b421cb:
 
     # c "There you go!"
-    c ""
+    c "Agora sim!"
 
 # game/scripts/kali_events.rpy:5585
 translate pt_br kalivtwo_ae15217f:
 
     # k "Yeah, I'm a Trenero after all... my family is prestigious."
-    k ""
+    k "Isso, eu sou uma Trenero afinal... minha família é prestígiada."
 
 # game/scripts/kali_events.rpy:5586
 translate pt_br kalivtwo_40f055c5:
 
     # k "{i}Oh, that's expensive...{/i}"
-    k ""
+    k "{i}Nossa, isso é caro...{/i}"
 
 # game/scripts/kali_events.rpy:5587
 translate pt_br kalivtwo_e4bcc26f:
 
     # k "K. I've got enough, uh... where's the changing room..."
-    k ""
+    k "Ok, já peguei tudo que eu preciso, uh... onde será que fica os trocadores..."
 
 # game/scripts/kali_events.rpy:5589
 translate pt_br kalivtwo_cc368e01:
 
     # k "Excuse me, where's your changing room?"
-    k ""
+    k "Com licença, onde eu posso trocar de roupa?"
 
 # game/scripts/kali_events.rpy:5591
 translate pt_br kalivtwo_08ac774d:
 
     # got "To your right."
-    got ""
+    got "À sua direita."
 
 # game/scripts/kali_events.rpy:5593
 translate pt_br kalivtwo_80af5e00:
 
     # k "Thanks. Oh! Do you know where I can get my hair done?"
-    k ""
+    k "Obrigada. Oh! Você sabe de algum lugar onde eu possa arrumar meu cabelo?"
 
 # game/scripts/kali_events.rpy:5594
 translate pt_br kalivtwo_7d2fedac:
 
     # got "Around, I guess..."
-    got ""
+    got "Por aí, eu acho..."
 
 # game/scripts/kali_events.rpy:5595
 translate pt_br kalivtwo_cf88c6c5:
 
     # k "...Okay, thanks...?"
-    k ""
+    k "....ok, obrigada...?"
 
 # game/scripts/kali_events.rpy:5596
 translate pt_br kalivtwo_b7fa4e88:
 
     # got "We have some hair brushes and extensions if you want those... Oh, and we have preview mirrors."
-    got ""
+    got "Nós temos algumas escovas e extensões se você quiser... Oh, e espelhos também."
 
 # game/scripts/kali_events.rpy:5597
 translate pt_br kalivtwo_217e3d88:
 
     # k "Oh, cool! Can I use one?"
-    k ""
+    k "Oh, legal! Eu posso usar um?"
 
 # game/scripts/kali_events.rpy:5598
 translate pt_br kalivtwo_d7b22971:
 
     # got "...Urghhhhhh..."
-    got ""
+    got "...Urghhhhhh..."
 
 # game/scripts/kali_events.rpy:5599
 translate pt_br kalivtwo_0c3f3d33:
 
     # got "Follow me..."
-    got ""
+    got "Me siga..."
 
 # game/scripts/kali_events.rpy:5602
 translate pt_br kalivtwo_093da015:
 
     # got "Waddya want...?"
-    got ""
+    got "Qual a tua idéia...?"
 
 # game/scripts/kali_events.rpy:5603
 translate pt_br kalivtwo_81061f20:
 
     # k "Hmmm..."
-    k ""
+    k "Hmmm..."
 
 # game/scripts/kali_events.rpy:5604
 translate pt_br kalivtwo_49434232:
 
     # k "Straighten my hair out, and... give me a bit more makeup..."
-    k ""
+    k "Endireitar meu cabelo, e... um pouco de maquiagem..."
 
 # game/scripts/kali_events.rpy:5605
 translate pt_br kalivtwo_2ae5f488:
 
     # got "Okay."
-    got ""
+    got "Ok."
 
 # game/scripts/kali_events.rpy:5607
 translate pt_br kalivtwo_6e4661d9:
 
     # k "Hey, I like it! What do you think, [name]?"
-    k ""
+    k "Ei, eu gostei desse! O que você acha, [name]?"
 
 # game/scripts/kali_events.rpy:5610
 translate pt_br kalivtwo_3d788a5a:
 
     # k "I think I will."
-    k ""
+    k "Com certeza."
 
 # game/scripts/kali_events.rpy:5612
 translate pt_br kalivtwo_1f403ed1:
 
     # k "Aw... Whatever."
-    k ""
+    k "Aw... beleza."
 
 # game/scripts/kali_events.rpy:5613
 translate pt_br kalivtwo_c337b30f:
 
     # k "How about... a bit more wavey."
-    k ""
+    k "E que tal... um pouco mais ondulado."
 
 # game/scripts/kali_events.rpy:5614
 translate pt_br kalivtwo_ef26bcb3:
 
     # got "K."
-    got ""
+    got "Bele."
 
 # game/scripts/kali_events.rpy:5616
 translate pt_br kalivtwo_f558a5a9:
 
     # k "Oh... Hmmm..."
-    k ""
+    k "Ok... Hmmm..."
 
 # game/scripts/kali_events.rpy:5619
 translate pt_br kalivtwo_18991b0a:
 
     # k "But not me..."
-    k ""
+    k "Mas não pra mim..."
 
 # game/scripts/kali_events.rpy:5621
 translate pt_br kalivtwo_6a7fdf24:
 
     # k "Yep."
-    k ""
+    k "Isso mesmo."
 
 # game/scripts/kali_events.rpy:5622
 translate pt_br kalivtwo_1d0d21d6:
 
     # k "Next please..."
-    k ""
+    k "Próximo por favor..."
 
 # game/scripts/kali_events.rpy:5623
 translate pt_br kalivtwo_d86cd227:
 
     # got "Gotta tell me what you want..."
-    got ""
+    got "Você tem que me dizer oque quer..."
 
 # game/scripts/kali_events.rpy:5624
 translate pt_br kalivtwo_2ccc9f2a:
 
     # k "Oh, right, uhhh... something styled?"
-    k ""
+    k "Oh, certo, uhhh... algo mais estilizado?"
 
 # game/scripts/kali_events.rpy:5625
 translate pt_br kalivtwo_2a24a1ae:
 
     # got "Ummm... okay."
-    got ""
+    got "Ummm... ok."
 
 # game/scripts/kali_events.rpy:5627
 translate pt_br kalivtwo_0205dc3a:
