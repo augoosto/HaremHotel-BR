@@ -20872,301 +20872,301 @@ translate pt_br kalivtwo_2a24a1ae:
 translate pt_br kalivtwo_0205dc3a:
 
     # k "Ohhh..."
-    k ""
+    k "Ohhh..."
 
 # game/scripts/kali_events.rpy:5628
 translate pt_br kalivtwo_928433d1:
 
     # k "I could see this working... {w}if I wanted to talk to the manager..."
-    k ""
+    k "Eu acho que esse pode funcionar... {w}se eu quisesse falar com o gerente..."
 
 # game/scripts/kali_events.rpy:5629
 translate pt_br kalivtwo_a326f675:
 
     # got "He's not here."
-    got ""
+    got "Ele não está."
 
 # game/scripts/kali_events.rpy:5630
 translate pt_br kalivtwo_56ff7f7a:
 
     # k "Huh? Oh, whatever, next."
-    k ""
+    k "Huh? Oh, beleza, próximo."
 
 # game/scripts/kali_events.rpy:5631
 translate pt_br kalivtwo_dbc042dd:
 
     # got "Guess I'll just... choose whatever..."
-    got ""
+    got "Acho que eu vou... escolher qualquer coisa..."
 
 # game/scripts/kali_events.rpy:5633
 translate pt_br kalivtwo_e058e5fc:
 
     # k "Aww, that's cute..."
-    k ""
+    k "Aww, esse é fofo..."
 
 # game/scripts/kali_events.rpy:5634
 translate pt_br kalivtwo_58b3f55a:
 
     # k "Makes me look 30 though."
-    k ""
+    k "Só que me faz parecer com 30 anos."
 
 # game/scripts/kali_events.rpy:5635
 translate pt_br kalivtwo_2475f5ec:
 
     # k "Hmm, give me a hair bun."
-    k ""
+    k "Hmm, me dê a escova de cabelo."
 
 # game/scripts/kali_events.rpy:5636
 translate pt_br kalivtwo_2f5ad5ff:
 
     # got "Are you going to tip me...?"
-    got ""
+    got "Você por acaso vai me dar alguma gorjeta...?"
 
 # game/scripts/kali_events.rpy:5638
 translate pt_br kalivtwo_94a319b8:
 
     # k "Oh! That reminds me of Moon!"
-    k ""
+    k "Oh! Esse me lembra da Moon!"
 
 # game/scripts/kali_events.rpy:5639
 translate pt_br kalivtwo_53ce641a:
 
     # k "I think the style fits her better, give me a pony tail."
-    k ""
+    k "Eu acho que esse estilo fica melhor nela, faz um rabo de cavalo."
 
 # game/scripts/kali_events.rpy:5640
 translate pt_br kalivtwo_a9e17edb:
 
     # got "Alright..."
-    got ""
+    got "Beleza..."
 
 # game/scripts/kali_events.rpy:5642
 translate pt_br kalivtwo_94f8f522:
 
     # k "Ohh, I'm so pretty! Right, [name]?"
-    k ""
+    k "Ohh, esse é tão bonito! Né, [name]?"
 
 # game/scripts/kali_events.rpy:5645
 translate pt_br kalivtwo_2c247d3b:
 
     # k "Maybe I should get an extension..."
-    k ""
+    k "Talvez eu devesse usar uma extensão..."
 
 # game/scripts/kali_events.rpy:5647
 translate pt_br kalivtwo_04957983:
 
     # k "Actually, I think I've seen enough."
-    k ""
+    k "Na verdade, eu acho que já chega."
 
 # game/scripts/kali_events.rpy:5648
 translate pt_br kalivtwo_d14d521a:
 
     # k "On to the clothes!"
-    k ""
+    k "Para às roupas!"
 
 # game/scripts/kali_events.rpy:5649
 translate pt_br kalivtwo_0ba8bf4e:
 
     # got "..."
-    got ""
+    got "..."
 
 # game/scripts/kali_events.rpy:5651
 translate pt_br kalivtwo_b3b209b8:
 
     # got "...Huh? Oh, yeah... I should... go... and leave... because she'll be naked... Obviously."
-    got ""
+    got "...Huh? Oh, é... eu devo... sair... porque ela vai estar pelada... obviamente."
 
 # game/scripts/kali_events.rpy:5653
 translate pt_br kalivtwo_4a9e803d:
 
     # k "Okay, let me know what you think, honest opinions..."
-    k ""
+    k "Ok, me deixe saber a sua opinião, seja honesto..."
 
 # game/scripts/kali_events.rpy:5656
 translate pt_br kalivtwo_d20de33c:
 
     # k "This is what I was thinking..."
-    k ""
+    k "Eu tava pensando em algo assim..."
 
 # game/scripts/kali_events.rpy:5659
 translate pt_br kalivtwo_57184b05:
 
     # c "Just the top?"
-    c ""
+    c "Só o top?"
 
 # game/scripts/kali_events.rpy:5660
 translate pt_br kalivtwo_2e5d523e:
 
     # k "With the choker...! But yeah... just the top. I thought it fit that college vibe, and was still me, you know?"
-    k ""
+    k "Com a gargantilha...! Mas é... só o top. Eu pensei que serviria para a vibe de faculdade, e ainda é o meu estilo, sabe?"
 
 # game/scripts/kali_events.rpy:5661
 translate pt_br kalivtwo_8137d4c7:
 
     # c "It looks amazing on you."
-    c ""
+    c "Ficou bom em você."
 
 # game/scripts/kali_events.rpy:5662
 translate pt_br kalivtwo_dfba945c:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:5666
 translate pt_br kalivtwo_f627b346:
 
     # k "...What? I'm just changing..."
-    k ""
+    k "...Que? Eu estou me trocando..."
 
 # game/scripts/kali_events.rpy:5669
 translate pt_br kalivtwo_94e66647:
 
     # k "And this... is my professional choice. What do you think?"
-    k ""
+    k "E essa... é a minha opção profissional. O que você acha?"
 
 # game/scripts/kali_events.rpy:5672
 translate pt_br kalivtwo_531624d3:
 
     # c "Powerful... successful... and sexy."
-    c ""
+    c "Poderoso... bem sucedido... e sexy."
 
 # game/scripts/kali_events.rpy:5673
 translate pt_br kalivtwo_14372678:
 
     # k "Hahah..."
-    k ""
+    k "Hahah..."
 
 # game/scripts/kali_events.rpy:5675
 translate pt_br kalivtwo_5b69e629:
 
     # k "Alright, let's buy this shit and get out of here!"
-    k ""
+    k "Beleza, vamo comprar essa coisa e sair daqui!"
 
 # game/scripts/kali_events.rpy:5678
 translate pt_br kalivtwo_697a570a:
 
     # got "Will this be everything for you...?"
-    got ""
+    got "Isso é tudo...?"
 
 # game/scripts/kali_events.rpy:5679
 translate pt_br kalivtwo_bd7e7645:
 
     # k "Oh, um... I guess I'll try the extensions as well."
-    k ""
+    k "Oh, um... eu acho que eu vou querer as extensões também."
 
 # game/scripts/kali_events.rpy:5680
 translate pt_br kalivtwo_6ead468d:
 
     # got "Alright... everything together will be $320."
-    got ""
+    got "Certo... são $320."
 
 # game/scripts/kali_events.rpy:5681
 translate pt_br kalivtwo_29ef7c93:
 
     # k "Oh god..."
-    k ""
+    k "Oh meu deus..."
 
 # game/scripts/kali_events.rpy:5683
 translate pt_br kalivtwo_cd15b8ab:
 
     # c "You want me to pay for it?"
-    c ""
+    c "Você quer que eu pague?"
 
 # game/scripts/kali_events.rpy:5684
 translate pt_br kalivtwo_1f318203:
 
     # k "No, it's my stuff. Don't worry about it."
-    k ""
+    k "Não, são coisas minhas. Não precisa se preocupar."
 
 # game/scripts/kali_events.rpy:5687
 translate pt_br kalivtwo_ad21d71d:
 
     # k "Hey, so I was thinking... {w}have you ever thought about expanding your business?"
-    k ""
+    k "Ei, eu estava pensando... {w}você já pensou em expandir seus negócios?"
 
 # game/scripts/kali_events.rpy:5688
 translate pt_br kalivtwo_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Como assim?"
 
 # game/scripts/kali_events.rpy:5689
 translate pt_br kalivtwo_a5f27b6e:
 
     # k "Like creating a company and setting up more branches!"
-    k ""
+    k "Tipo, criando uma empresa e abrir mais filiais!"
 
 # game/scripts/kali_events.rpy:5692
 translate pt_br kalivtwo_ee8ea29f:
 
     # k "Yeah! So here's what I have in mind..."
-    k ""
+    k "Isso! Essa é a minha idéia..."
 
 # game/scripts/kali_events.rpy:5694
 translate pt_br kalivtwo_dc5a0207:
 
     # k "Aw come on, you haven't even heard my pitch yet."
-    k ""
+    k "Aw qual é, você nem ouviu minha sugestão ainda."
 
 # game/scripts/kali_events.rpy:5695
 translate pt_br kalivtwo_a24ad8a2:
 
     # c "Alright, shoot."
-    c ""
+    c "Beleza, diga."
 
 # game/scripts/kali_events.rpy:5697
 translate pt_br kalivtwo_e99a9b72:
 
     # k "Okay, get ready because I have a great idea!"
-    k ""
+    k "OK, se prepara, eu tenho uma grande idéia!"
 
 # game/scripts/kali_events.rpy:5698
 translate pt_br kalivtwo_677f4ab0:
 
     # k "You know how most hotels in Syl'anar are basically ran by elves? The construction, the service, the food, the cleaning, booking, all of it."
-    k ""
+    k "Você sabe que a maioria dos hoteis de Syl'anar tem basicamente só empregados elfos? A construção, a comida, a limpeza, livros, tudo."
 
 # game/scripts/kali_events.rpy:5699
 translate pt_br kalivtwo_48a3b800:
 
     # k "The reason most people use elves is, of course, because they're the cheapest option. Profit is key here."
-    k ""
+    k "A razão que a maioria usa elfos, é claro, porque eles são a opção mais barata. O lucro é a chave."
 
 # game/scripts/kali_events.rpy:5700
 translate pt_br kalivtwo_4d979751:
 
     # k "And the only reason we don't use Androids for those same things is...?"
-    k ""
+    k "E a razão que agente não usa androids para a mesma coisa é por que...?"
 
 # game/scripts/kali_events.rpy:5701
 translate pt_br kalivtwo_6efe86c8:
 
     # k "Because they're too expensive!"
-    k ""
+    k "Porque eles são muito caros!"
 
 # game/scripts/kali_events.rpy:5702
 translate pt_br kalivtwo_21b9a3bd:
 
     # c "And the Elfbots will take care of that?"
-    c ""
+    c "E os elfbots vão cuidar disso?"
 
 # game/scripts/kali_events.rpy:5703
 translate pt_br kalivtwo_bfe73b57:
 
     # k "Exactly! So here's my idea... ready for it?"
-    k ""
+    k "Exatamente! Então, aqui vai minha idéia... pronto?"
 
 # game/scripts/kali_events.rpy:5704
 translate pt_br kalivtwo_2df1ce3e:
 
     # k "The first artificially intelligent hotel!"
-    k ""
+    k "O primeiro hotel completamente inteligente!"
 
 # game/scripts/kali_events.rpy:5706
 translate pt_br kalivtwo_26d63a36:
 
     # k "They could take care of EVERYTHING! Down to fucking construction! We would never even need to physically check up on each hotel. They would know how to cook every meal, and fix every problem! If a customer needs to speak to one of us, the Elfbots can just call us!"
-    k ""
+    k "Eles cuidariam de TUDO! Construir a porra do prédio! Nós nunca precisaríamos ir pessoalmente checar cada hotel. Eles saberiam como cozinhar cada refeição, e concertar qualquer problema! Se um cliente precisar conversar com um de nós, os Elfbots podem simplesmente nos ligar! "
 
 # game/scripts/kali_events.rpy:5707
 translate pt_br kalivtwo_24898387:
