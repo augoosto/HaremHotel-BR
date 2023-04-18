@@ -19408,85 +19408,85 @@ translate pt_br kali_lustrons_0437c0f7:
 translate pt_br kaliuni_d29c8e6f:
 
     # k "Hey, you finally made it! How do I look?"
-    k ""
+    k "Ei, você finalmente chegou! Como eu estou?"
 
 # game/scripts/kali_events.rpy:5282
 translate pt_br kaliuni_1760a4ad:
 
     # c "You look amazing!"
-    c ""
+    c "Incrível!"
 
 # game/scripts/kali_events.rpy:5283
 translate pt_br kaliuni_7e3409ae:
 
     # k "Awesome, thanks."
-    k ""
+    k "Legal, obrigada."
 
 # game/scripts/kali_events.rpy:5284
 translate pt_br kaliuni_e1e20cf8:
 
     # c "...Do you feel alright?"
-    c ""
+    c "...Você se sente bem?"
 
 # game/scripts/kali_events.rpy:5285
 translate pt_br kaliuni_e7135c9f:
 
     # k "What do you mean? Yeah, I'm good."
-    k ""
+    k "Como assim? Eu estou bem sim."
 
 # game/scripts/kali_events.rpy:5286
 translate pt_br kaliuni_f2bc9424:
 
     # c "{i}(First day of college, and she doesn't seem anxious at all, I'm impressed. Perhaps I shouldn't bring it up...){/i}"
-    c ""
+    c "{i}(Primeiro dia da faculdade, e ela não está ansiosa, estou impressionado. Talvez eu não deva mencionar isso...){/i}"
 
 # game/scripts/kali_events.rpy:5287
 translate pt_br kaliuni_5b2ccf5d:
 
     # c "You just look great. I hope you feel as great."
-    c ""
+    c "Você está ótima. Eu espero que se sinta também."
 
 # game/scripts/kali_events.rpy:5288
 translate pt_br kaliuni_f8295aff:
 
     # k "Heh, I do."
-    k ""
+    k "Heh, sim, eu me sinto."
 
 # game/scripts/kali_events.rpy:5290
 translate pt_br kaliuni_e32c458f:
 
     # lu "I'm going to fucking cry..."
-    lu ""
+    lu "Eu vou chorar..."
 
 # game/scripts/kali_events.rpy:5291
 translate pt_br kaliuni_93ebfade:
 
     # k "Aww, you look cute."
-    k ""
+    k "Aww, você está fofa."
 
 # game/scripts/kali_events.rpy:5292
 translate pt_br kaliuni_3be937a3:
 
     # lu "No, I look like a whore... I'm basically turning into one now that I have to beg for money."
-    lu ""
+    lu "Não, eu me pareço com uma puta... eu basicamente estou virando uma agora, já que eu vou ter que implorar por diheiro."
 
 # game/scripts/kali_events.rpy:5293
 translate pt_br kaliuni_c9ca9afd:
 
     # k "They call them jobs, Lucy. Get used to working."
-    k ""
+    k "Se chama emprego, Lucy. Acostume-se"
 
 # game/scripts/kali_events.rpy:5294
 translate pt_br kaliuni_3ab88871:
 
     # lu "*sigh*..."
-    lu ""
+    lu "*suspiro*..."
 
 # game/scripts/kali_events.rpy:5296
 translate pt_br kaliuni_c3ac7c8d:
 
     # k "Alright, let's get going. Don't want to be late on the first day!"
-    k ""
+    k "Beleza, vamos andando. Não quero me atrasar no primeiro dia!"
 
 # game/scripts/kali_events.rpy:5297
 translate pt_br kaliuni_bece0ea4:
@@ -21172,193 +21172,193 @@ translate pt_br kalivtwo_26d63a36:
 translate pt_br kalivtwo_24898387:
 
     # k "I could get a loan from my father for our first hotel! It could be huge!"
-    k ""
+    k "Eu poderia pegar um empréstimo do meu pai para o primeiro hotel! Vai ser enorme!"
 
 # game/scripts/kali_events.rpy:5708
 translate pt_br kalivtwo_ff0137fd:
 
     # k "You already have the managerial experience, and I-"
-    k ""
+    k "Você já tem experiência com gerenciamento, e eu-"
 
 # game/scripts/kali_events.rpy:5710
 translate pt_br kalivtwo_d4dc58d8:
 
     # c "Kali."
-    c ""
+    c "Kali."
 
 # game/scripts/kali_events.rpy:5711
 translate pt_br kalivtwo_6daa0f7f:
 
     # k "Huh?"
-    k ""
+    k "Huh?"
 
 # game/scripts/kali_events.rpy:5712
 translate pt_br kalivtwo_d22e9c75:
 
     # c "I'm not a hotel manager, or a CEO, this hotel was just dropped into my lap."
-    c ""
+    c "Eu não sou gerente de hotel, ou um CEO, eu só herdei esse hotel."
 
 # game/scripts/kali_events.rpy:5713
 translate pt_br kalivtwo_047e124b:
 
     # k "So? You still have the experience, and-"
-    k ""
+    k "E? Você ainda tem experiência, e-"
 
 # game/scripts/kali_events.rpy:5714
 translate pt_br kalivtwo_39c81717:
 
     # c "Ellen does more managing than I do, and besides, it's not about the money. It's about the people in the hotel."
-    c ""
+    c "Ellen faz mais coisas de gerente que eu, e também, não é sobre o dinheiro. É sobre as pessoas do hotel."
 
 # game/scripts/kali_events.rpy:5716
 translate pt_br kalivtwo_61b028b5:
 
     # k "You just lack ambition..."
-    k ""
+    k "Você só está sem ambição..."
 
 # game/scripts/kali_events.rpy:5718
 translate pt_br kalivtwo_41fc2921:
 
     # "With that, the two of you make your way back to the hotel."
-    ""
+    "E com isso, vocês dois voltam ao hotel."
 
 # game/scripts/kali_events.rpy:5720
 translate pt_br kalivtwo_a67b2826:
 
     # k "Phew, room sweet room..."
-    k ""
+    k "Phew, lar doce lar..."
 
 # game/scripts/kali_events.rpy:5722
 translate pt_br kalivtwo_53092ab9:
 
     # lu "Hey sister from the same mister, watcha get?"
-    lu ""
+    lu "Ei, irmã do mesmo cara, o que você tem aí?"
 
 # game/scripts/kali_events.rpy:5723
 translate pt_br kalivtwo_c4bb3581:
 
     # k "Clothes... and stuff."
-    k ""
+    k "Roupas... e essas coisas."
 
 # game/scripts/kali_events.rpy:5724
 translate pt_br kalivtwo_1a804673:
 
     # lu "Ooooh, fun stuff? Heheheh..."
-    lu ""
+    lu "Ooooh, coisas divertidas? Heheheh..."
 
 # game/scripts/kali_events.rpy:5725
 translate pt_br kalivtwo_b7c182e3:
 
     # k "No, you brat. Just stuff."
-    k ""
+    k "Não, sua pirralha. Só roupas normais."
 
 # game/scripts/kali_events.rpy:5726
 translate pt_br kalivtwo_1c4e88c6:
 
     # lu "You don't go shopping that much, it's a little hard to believe you know?"
-    lu ""
+    lu "Você não é muito de comprar roupas, é um pouco difícil de acreditar, sabe?"
 
 # game/scripts/kali_events.rpy:5727
 translate pt_br kalivtwo_75572ab4:
 
     # k "It's stuff for college."
-    k ""
+    k "São coisas pra faculdade."
 
 # game/scripts/kali_events.rpy:5729
 translate pt_br kalivtwo_f7ce6622:
 
     # lu "Ohh, college stuff. Don't let this one get away, [name]. What happens in college, doesn't often stay in college..."
-    lu ""
+    lu "Ohh, coisas da faculdade. Não deixa escapar, [name]. Oque acontece na faculdade, normalmente não fica na faculdade..."
 
 # game/scripts/kali_events.rpy:5730
 translate pt_br kalivtwo_d4d366b1:
 
     # k "Urgh, cut it out you perv, and that's kind of the point. Real world experience."
-    k ""
+    k "Urgh, para com isso sua pervertida, e esse o ponto. Experiência do mundo real."
 
 # game/scripts/kali_events.rpy:5731
 translate pt_br kalivtwo_e11cbb90:
 
     # lu "Right, well the real world can be... eye opening."
-    lu ""
+    lu "Certo, bem, o mundo real pode ser... um olho aberto."
 
 # game/scripts/kali_events.rpy:5732
 translate pt_br kalivtwo_b25d0e30:
 
     # k "Yyyyyeahhhhh... speaking of which, I told my manager you're taking my old job."
-    k ""
+    k "IIIIIIIIISSO... falando nisso, eu falei pro meu chefe que você vai ficar no meu lugar no trabalho."
 
 # game/scripts/kali_events.rpy:5734
 translate pt_br kalivtwo_8caffb8d:
 
     # lu "Ex-fucking-cuse me?"
-    lu ""
+    lu "Pera, mas que porra?"
 
 # game/scripts/kali_events.rpy:5735
 translate pt_br kalivtwo_1563ab96:
 
     # k "You've been living here almost rent free for... how long? I've been paying for... how much of your shit? Time for you to pull your weight, and make up for it, too."
-    k ""
+    k "Você tem morado aqui praticamente de graça por... quanto tempo? Eu estive pagando... quanto pelas suas porcarias? É hora de você carregar o próprio peso, e se virar, também."
 
 # game/scripts/kali_events.rpy:5736
 translate pt_br kalivtwo_5ca21922:
 
     # k "Or you could just... leave."
-    k ""
+    k "Ou, você pode só... ir embora."
 
 # game/scripts/kali_events.rpy:5737
 translate pt_br kalivtwo_507da271:
 
     # lu "WHAT!? NO WAY! I'M NOT WORKING AT THAT PLACE!"
-    lu ""
+    lu "QUE!? NEM FUDENDO! EU NÃO VOU TRABALHAR NAQUELE LUGAR!"
 
 # game/scripts/kali_events.rpy:5738
 translate pt_br kalivtwo_1461f288:
 
     # k "Right, well the real world can be... eye opening."
-    k ""
+    k "Certo, bem, o mundo real pode ser... um olho aberto."
 
 # game/scripts/kali_events.rpy:5740
 translate pt_br kalivtwo_2ff1b451:
 
     # lu "DON'T USE MY OWN LINE ON ME! URGH!"
-    lu ""
+    lu "NÂO USE MINHA FRASE CONTRA MIM! URGH!"
 
 # game/scripts/kali_events.rpy:5742
 translate pt_br kalivtwo_47edd805:
 
     # c "So when do you start university?"
-    c ""
+    c "Então, quando começa as suas aulas?"
 
 # game/scripts/kali_events.rpy:5743
 translate pt_br kalivtwo_8792634a:
 
     # k "The semester is already going, so I'll be able to hop in as soon as I pass the test. Which will hopefully be in a few days."
-    k ""
+    k "O semestre já está rolando, então eu poderei entrar assim que eu passar no teste. Que, tomara, que seja em alguns dias."
 
 # game/scripts/kali_events.rpy:5744
 translate pt_br kalivtwo_655015f8:
 
     # c "Oh wow, I didn't expect this to come so fast."
-    c ""
+    c "Oh, wow, eu não esperava que fosse tão rápido."
 
 # game/scripts/kali_events.rpy:5745
 translate pt_br kalivtwo_ef62546f:
 
     # k "Just a few of the perks of being a Trenero, I guess."
-    k ""
+    k "É uma das vantagens de ser uma Trenero, eu acho."
 
 # game/scripts/kali_events.rpy:5746
 translate pt_br kalivtwo_faec0697:
 
     # k "Anyway... thank you so much for taking me out! Next time we really gotta get something to eat, as well."
-    k ""
+    k "De qualquer forma... muito obrigada por me levar pra sair! Na próxima vez nós vamos ter que comer algo também."
 
 # game/scripts/kali_events.rpy:5747
 translate pt_br kalivtwo_17e85a94:
 
     # k "...And if you want to have some fun... you know where I live."
-    k ""
+    k "...E se você quiser se divertir... você sabe onde me encontrar."
 
 # game/scripts/kali_events.rpy:5760
 translate pt_br kalicollegetest_a1066727:
