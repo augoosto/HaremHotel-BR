@@ -19492,301 +19492,301 @@ translate pt_br kaliuni_c3ac7c8d:
 translate pt_br kaliuni_bece0ea4:
 
     # lu "I can't believe they make us wear these things..."
-    lu ""
+    lu "Eu não acredito que eles fazem agente usar essas coisas..."
 
 # game/scripts/kali_events.rpy:5298
 translate pt_br kaliuni_043dda9d:
 
     # k "Heheh..."
-    k ""
+    k "Heheh..."
 
 # game/scripts/kali_events.rpy:5300
 translate pt_br kaliuni_1cd7c819:
 
     # "You, Kali, and Lucia hop in your car. After dropping Lucia off at Papa Rons, you and Kali drive to the monorail station. Kali swipes her card, and the both of you hop on."
-    ""
+    "Você, a Kali, e a Lucy vão para o carro. Depois de deixar a Lucy no Papa Rons, vocês dois dirigem até a estação monorail. Kali paga as passagens, e vocês entram no trem."
 
 # game/scripts/kali_events.rpy:5302
 translate pt_br kaliuni_83b8c08a:
 
     # k "Finally made it..."
-    k ""
+    k "Finalmente..."
 
 # game/scripts/kali_events.rpy:5303
 translate pt_br kaliuni_8a3922f2:
 
     # c "Has your father mentioned anything going on with the elfbots?"
-    c ""
+    c "Seu pai falou algo com você sobre os Elfbots?"
 
 # game/scripts/kali_events.rpy:5305
 translate pt_br kaliuni_0caea8b6:
 
     # k "Oh, keep it down. I know you didn't sign an NDA, but... my father wouldn't be happy if news of that got out. Stock holders would be pissed..."
-    k ""
+    k "Oh, fala baixo. Eu sei que você não assinou um NDA, mas... meu pai não ficaria feliz se a notícia do elfbot vazasse. Os acionistas ficariam chateados..."
 
 # game/scripts/kali_events.rpy:5307
 translate pt_br kaliuni_f566504a:
 
     # k "But uh... yeah, he says he has solid plans for a factory, he has work orders for lithium-ion batteries, and the patents are pending."
-    k ""
+    k "Mas uh... é, ele disse que tem planos para uma fábrica, ele já está fazendo as importações de baterias de lítion-íon, e as patentes estão pendentes."
 
 # game/scripts/kali_events.rpy:5308
 translate pt_br kaliuni_b425a098:
 
     # k "He also mentioned he was able to secure a few trade deals with the nation of Syl'anar that ensure the price of the... *cough* Elfbot *cough* ...is cheap."
-    k ""
+    k "Ele também mencionou que conseguiu estabelecer alguns acordos com a nação de Syl'anar para garantir que o preço do... *tosse* Elfbot *tosse* ...seja barato."
 
 # game/scripts/kali_events.rpy:5310
 translate pt_br kaliuni_ecac85ac:
 
     # k "I'm the only missing piece of the puzzle, he's putting a lot of faith in me to learn. I can't imagine how he convinced his board members to go along with it..."
-    k ""
+    k "Eu sou a única peça faltante no quebra cabeça, ele está colocando bastante fé em mim. Eu não sei como ele convenceu os membros do conselho a concordar com iso..."
 
 # game/scripts/kali_events.rpy:5311
 translate pt_br kaliuni_48461ebd:
 
     # c "Well, you did skip a few college classes. That's enough proof you can do it."
-    c ""
+    c "Bem, você faltou algumas aulas da faculdade. Isso já é o bastante para provar que você consegue."
 
 # game/scripts/kali_events.rpy:5312
 translate pt_br kaliuni_0125e1d4:
 
     # k "Yeah, but... most of what was on the test had nothing to do with artificial intelligence, that's a whole other level..."
-    k ""
+    k "Sim, mas... a maioria do que estava na prova não tinha nada a ver com inteligência artificial, isso é outro de nível..."
 
 # game/scripts/kali_events.rpy:5313
 translate pt_br kaliuni_a7252fc4:
 
     # k "Machine learning is hard enough, and I can barely understand that... most of the reason I'm here is because I learned some things years ago out of boredom, and had some help from [botname]..."
-    k ""
+    k "Machine learning já é difícil, e eu mal à entendo... "
 
 # game/scripts/kali_events.rpy:5314
 translate pt_br kaliuni_48e25ddf:
 
     # k "This whole thing has a crazy deadline, too. Three years, he said."
-    k ""
+    k "Essa coisa toda tem um desfecho maluco, também. Três anos, ele disse."
 
 # game/scripts/kali_events.rpy:5315
 translate pt_br kaliuni_afc2efc8:
 
     # c "I'm sure you'll have a team at your back?"
-    c ""
+    c "Eu tenho certeza que você vai ter um time para te apoiar?"
 
 # game/scripts/kali_events.rpy:5317
 translate pt_br kaliuni_e473171b:
 
     # k "Yeah, you're right, I would. It's not like I'll be doing this all by myself, I'd lead a team of highly skilled software engineers."
-    k ""
+    k "Sim, você tem razão, eu teria. Não é como se eu fosse fazer tudo isso sozinha, eu estarei no comandando um time de engenheiros de software profissionais."
 
 # game/scripts/kali_events.rpy:5318
 translate pt_br kaliuni_b8081c1f:
 
     # c "You're going to make sure they don't gain control and slaughter innocent civilians, right?"
-    c ""
+    c "Você vai cuidar para que eles não matem civis inocentes, né?"
 
 # game/scripts/kali_events.rpy:5319
 translate pt_br kaliuni_2d4919c4:
 
     # k "The software engineers, or...?"
-    k ""
+    k "Os engenheiros de software, ou...?"
 
 # game/scripts/kali_events.rpy:5320
 translate pt_br kaliuni_195c8fb6:
 
     # k "Heh, just kidding..."
-    k ""
+    k "Heh, brincadeira..."
 
 # game/scripts/kali_events.rpy:5321
 translate pt_br kaliuni_b7b7b525:
 
     # k "Of course. The three laws of robotics are on the entrance exam, they wouldn't let you in until you knew them by heart."
-    k ""
+    k "É claro. As três regras da robótica estão na prova de admissão, eles nunca o deixariam entrar até que você os conhecesse bem."
 
 # game/scripts/kali_events.rpy:5322
 translate pt_br kaliuni_796ac522:
 
     # c "That's good to hear."
-    c ""
+    c "Bom saber."
 
 # game/scripts/kali_events.rpy:5323
 translate pt_br kaliuni_e65aada4:
 
     # k "Maybe I'll even put in some secret cheat codes that force them to dance or something, haha."
-    k ""
+    k "Talvez eu até coloque algum tipo de código secreto que forcem eles à dançar ou algo assim, haha."
 
 # game/scripts/kali_events.rpy:5325
 translate pt_br kaliuni_6f5939c5:
 
     # k "You know... I was thinking more about what we were talking about the other day. I'll probably have access to a lot of... bots, and I'll probably even have huge discounts on them, so... it would be a very good business move to take advantage of that."
-    k ""
+    k "Sabe... eu tava pensando sobre oque agente falou outro dia. Eu provavelmete vou ter acesso a vários... robôs, e provavelmente eu vou ter grandes discontos neles, então... seria muito bom tomar vantagem disso."
 
 # game/scripts/kali_events.rpy:5326
 translate pt_br kaliuni_cf127f85:
 
     # c "I don't know..."
-    c ""
+    c "Eu não sei..."
 
 # game/scripts/kali_events.rpy:5328
 translate pt_br kaliuni_3566282a:
 
     # k "Not even like... two more hotels? You know, something to secure your future... and the future of everyone elses lives... and the lives that spawn from those lives... and those lives... {i}{size=-10}and those lives...{/size}{/i}"
-    k ""
+    k "Nem mesmo, tipo... mais dois hotéis? Sabe, algo para garantir seu futuro... e o futuro das vidas de todo mundo... e das vidas que nascem dessas vidas... e essas vidas... {i}{size=-10}e essas vidas...{/size}{/i}"
 
 # game/scripts/kali_events.rpy:5329
 translate pt_br kaliuni_db1e392d:
 
     # c "When you put it that way..."
-    c ""
+    c "Bem, quando você fala desse jeito..."
 
 # game/scripts/kali_events.rpy:5330
 translate pt_br kaliuni_0eaf8781:
 
     # k "See! I have good ideas!"
-    k ""
+    k "Tá vendo! Eu tenho boas idéias!"
 
 # game/scripts/kali_events.rpy:5331
 translate pt_br kaliuni_094437ca:
 
     # c "It was always a good idea, I'm just not completely sure it's for me."
-    c ""
+    c "Sempre foi uma boa idéia, eu só não sei se isso é para mim."
 
 # game/scripts/kali_events.rpy:5332
 translate pt_br kaliuni_3f724fb0:
 
     # k "Think of it as a service to the community! You'll be able to offer very cheap rooms with the best service imaginable! And it wouldn't stress you out a bit! {i}Someone's{/i} going to do it, so I want to make sure it's my boyfriend!"
-    k ""
+    k "Pense nisso como um serviço para a comunidade! Você vai conseguir oferecer quartos mais baratos com o melhor serviço! E isso nem te estressaria! {i}Alguém{/i} vai fazer isso, então eu quero ter certeza que seja meu namorado!"
 
 # game/scripts/kali_events.rpy:5333
 translate pt_br kaliuni_b0d0e806:
 
     # c "I would probably just be bought by your father eventually..."
-    c ""
+    c "Eu provavelmente só seria comprado pelo seu pai eventualmente..."
 
 # game/scripts/kali_events.rpy:5334
 translate pt_br kaliuni_be9e2300:
 
     # k "And that just means more money for us, doesn't it?"
-    k ""
+    k "E isso significa mais dinheiro para nós, não é?"
 
 # game/scripts/kali_events.rpy:5335
 translate pt_br kaliuni_0f504113:
 
     # k "I've thought about it, okay? Just keep it in mind! I think it would be very good, for all of us."
-    k ""
+    k "Eu já pensei em tudo, ok? Só se lembre disso! Eu acho que isso seria muito bom para todos nós."
 
 # game/scripts/kali_events.rpy:5336
 translate pt_br kaliuni_5e2fd8ee:
 
     # c "Alright, I'll keep it in mind. How have the elves been that moved to The Capitol?"
-    c ""
+    c "Beleza, vou pensar sobre isso. Como estão os elfos que vieram para a Capitol?"
 
 # game/scripts/kali_events.rpy:5338
 translate pt_br kaliuni_915bb325:
 
     # k "Oh, uh... a few more died..."
-    k ""
+    k "Oh, uh... alguns morreram..."
 
 # game/scripts/kali_events.rpy:5339
 translate pt_br kaliuni_b5d6aab3:
 
     # c "What? What happened?"
-    c ""
+    c "Que? O que aconteceu?"
 
 # game/scripts/kali_events.rpy:5340
 translate pt_br kaliuni_f3af425c:
 
     # k "Just a couple faulty parts in the blood letting machines, it's bound to happen in mass production... what can you do?"
-    k ""
+    k "Apenas algumas partes faltantes nas máquinas de sangue, é de se esperar vindo da produção em massa... o que agente pode fazer?"
 
 # game/scripts/kali_events.rpy:5341
 translate pt_br kaliuni_c896a147:
 
     # c "More safety checks?"
-    c ""
+    c "Mais checagens de segurança?"
 
 # game/scripts/kali_events.rpy:5342
 translate pt_br kaliuni_887dc72a:
 
     # k "It was rhetorical... it sucks, but mistakes are bound to happen. He told me he fixed the problem and that it wouldn't happen again."
-    k ""
+    k "Foi uma pergunta retórica... é uma merda, mas erros acontecem. Ele me disse que consertou o problema e que isso não aconteceria de novo."
 
 # game/scripts/kali_events.rpy:5343
 translate pt_br kaliuni_79b5d838:
 
     # c "Do you believe him?"
-    c ""
+    c "E você acredita nele?"
 
 # game/scripts/kali_events.rpy:5344
 translate pt_br kaliuni_4f0748d1:
 
     # k "Urgh, I mean... not really. There's dozens of issues hooking up an organism to a machine that sucks your blood for hours every day could cause."
-    k ""
+    k "Urgh, quer dizer... não. Há vários problemas de ligar um ser vivo em um máquina de extrair sangue que podem acontecer."
 
 # game/scripts/kali_events.rpy:5345
 translate pt_br kaliuni_b23fe699:
 
     # k "And what even is the alternative? Let them stay in their abusive house holds? They wanted to come... this is the best solution we have, and it benefits everyone."
-    k ""
+    k "E que outra alternativa temos? Deixá-los ficar na antiga casa abusiva deles? Eles quiseram vir... está é a melhor solução que temos, e benefícia todo mundo."
 
 # game/scripts/kali_events.rpy:5346
 translate pt_br kaliuni_bf14f1b1:
 
     # c "Except the ones that die."
-    c ""
+    c "Exceto os que morreram."
 
 # game/scripts/kali_events.rpy:5347
 translate pt_br kaliuni_e764261c:
 
     # k "Whatever, okay? I don't make the decisions, I just need a job."
-    k ""
+    k "Não importa, ok? Eu não faço as decisões, eu só preciso de um emprego."
 
 # game/scripts/kali_events.rpy:5348
 translate pt_br kaliuni_1852c621:
 
     # c "You had a job."
-    c ""
+    c "Você tinha um emprego."
 
 # game/scripts/kali_events.rpy:5349
 translate pt_br kaliuni_d6c8679f:
 
     # k "A good job! This gives me something to wake up happy for..."
-    k ""
+    k "Um trabalho bom! Algo que me faça acordar feliz todos os dias..."
 
 # game/scripts/kali_events.rpy:5350
 translate pt_br kaliuni_46300b20:
 
     # c "And I'm sure you'll be amazing at it, just don't forget where you came from."
-    c ""
+    c "E eu sei que você vai ser incrível nisso, só não se esqueça de onde você veio."
 
 # game/scripts/kali_events.rpy:5352
 translate pt_br kaliuni_9f0b14b2:
 
     # k "One of my Dad's many mansions with a golden spoon in my mouth?"
-    k ""
+    k "Um dos hotéis do meu pai com uma colher de ouro na boca?"
 
 # game/scripts/kali_events.rpy:5353
 translate pt_br kaliuni_f36d476e:
 
     # c "No Kali, here. The hotel, with me."
-    c ""
+    c "Não Kali, aqui. No hotel, comigo."
 
 # game/scripts/kali_events.rpy:5355
 translate pt_br kaliuni_53e35aad:
 
     # k "Oh, well, I'll never forget that..."
-    k ""
+    k "Oh, bem, eu nunca vou esquecer disso..."
 
 # game/scripts/kali_events.rpy:5356
 translate pt_br kaliuni_60603fd8:
 
     # c "Or Lin, don't forget her either. You're fighting for her, too, and she'll outlive us all."
-    c ""
+    c "E a Lin, não se esqueça dela também. Você está lutando por ela, e ela vai viver mais que nós também."
 
 # game/scripts/kali_events.rpy:5357
 translate pt_br kaliuni_b64e4a40:
 
     # k "I know, I know..."
-    k ""
+    k "Eu sei, eu sei..."
 
 # game/scripts/kali_events.rpy:5359
 translate pt_br kaliuni_d0914229:
