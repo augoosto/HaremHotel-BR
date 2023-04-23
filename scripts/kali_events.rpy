@@ -19780,7 +19780,7 @@ translate pt_br kaliuni_53e35aad:
 translate pt_br kaliuni_60603fd8:
 
     # c "Or Lin, don't forget her either. You're fighting for her, too, and she'll outlive us all."
-    c "E a Lin, não se esqueça dela também. Você está lutando por ela, e ela vai viver mais que nós também."
+    c "E da Lin, não se esqueça dela também. Você está lutando por ela, e ela vai viver mais que nós também."
 
 # game/scripts/kali_events.rpy:5357
 translate pt_br kaliuni_b64e4a40:
@@ -19792,301 +19792,301 @@ translate pt_br kaliuni_b64e4a40:
 translate pt_br kaliuni_d0914229:
 
     # k "I still think this will turn out great for elves. They won't have to build houses, or cook the food anymore. After all, what do you do with an army of intelligent creatures who no longer have a purpose?"
-    k ""
+    k "Mas eu ainda penso que isso será o melhor para os elfos. Eles não vão mais precisar construir casas, ou cozinhar comida. E também, oque você faz com um exército de criaturas inteligentes que não tem mai um propósito?"
 
 # game/scripts/kali_events.rpy:5360
 translate pt_br kaliuni_13320e73:
 
     # c "...Round them up and kill them off?"
-    c ""
+    c "...Enfileirá-los e matá-los?"
 
 # game/scripts/kali_events.rpy:5362
 translate pt_br kaliuni_8511a0d4:
 
     # k "N-No... integrate them into society..."
-    k ""
+    k "N-não... integrá-los à sociedade..."
 
 # game/scripts/kali_events.rpy:5363
 translate pt_br kaliuni_9978413f:
 
     # k "They can be scientists, or artists, or musicians..."
-    k ""
+    k "Eles podem virar cientistas, ou artistas, músicos..."
 
 # game/scripts/kali_events.rpy:5364
 translate pt_br kaliuni_1c52399b:
 
     # c "I don't think that's what people do to things that no longer serve its purpose."
-    c ""
+    c "Eu não acho que as pessoas fazem isso com oque elas não usam mais."
 
 # game/scripts/kali_events.rpy:5365
 translate pt_br kaliuni_4109e653:
 
     # k "They're intelligent, creative creatures, what would be the point of killing them off? Put them to use! ...Given they have the choice to do so... Freedom is key..."
-    k ""
+    k "Eles são inteligentes, seres criativos, de que adianta matá-los? É melhor aproveitá-los! ...Dar à eles a opção de escolha... liberdade é a chave..."
 
 # game/scripts/kali_events.rpy:5366
 translate pt_br kaliuni_916c0308:
 
     # c "It's all about the money, Kali. Make them richer to not own slaves, and they'll do it."
-    c ""
+    c "Eles só se importam com o dinheiro, Kali. Deixe-os ricos para não terem mais escravos, e eles não irão ter."
 
 # game/scripts/kali_events.rpy:5368
 translate pt_br kaliuni_64575cda:
 
     # k "I guess when it comes down to it, it really is about the money, isn't it?"
-    k ""
+    k "Eu acho que nesse ponto de vista, é pelo dinheiro mesmo, não é?"
 
 # game/scripts/kali_events.rpy:5369
 translate pt_br kaliuni_59918660:
 
     # k "Well, that's the end goal, make it cheaper to own a... bot, than a slave."
-    k ""
+    k "Bem, esse é o objetivo, deixar mais barato para se ter um... robô, que um escravo."
 
 # game/scripts/kali_events.rpy:5370
 translate pt_br kaliuni_2ea37e6e:
 
     # k "Sheesh, my Dad's going to get fucking rich by replacing every slave with his bots. He's smart."
-    k ""
+    k "Meu deus, meu pai vai ficar rico pra caralho por substituir os escravos por robôs. Ele é esperto."
 
 # game/scripts/kali_events.rpy:5372
 translate pt_br kaliuni_fa619f4a:
 
     # k "{size=-10}{i}Maybe I shouldn't have said that... shit.{/i}{/size}"
-    k ""
+    k "{size=-10}{i}Talvez eu não devesse ter dito isso... merda.{/i}{/size}"
 
 # game/scripts/kali_events.rpy:5373
 translate pt_br kaliuni_4aca9db5:
 
     # c "Does he have plans on buying a planet?"
-    c ""
+    c "Ele por acaso tem planos de comprar o planeta?"
 
 # game/scripts/kali_events.rpy:5375
 translate pt_br kaliuni_e3442a14:
 
     # k "Actually..."
-    k ""
+    k "Bem..."
 
 # game/scripts/kali_events.rpy:5377
 translate pt_br kaliuni_02d5f1ed:
 
     # k "Now that I think about it, it may have just been a passing brag..."
-    k ""
+    k "Agora que eu paro pra pensar nisso, pode ter sido passageiro"
 
 # game/scripts/kali_events.rpy:5379
 translate pt_br kaliuni_0bc98b85:
 
     # k "Could you imagine though? That'd be hilarious. A whole fleet of Nero Inc. starships, with Nero Inc. bots, exploiting every planet in our solar system..."
-    k ""
+    k "Pode imaginar? Seria hilário. Toda uma frota da Nero Inc. aeronaves, com robôs na Nero Inc. explorando os planetas do dosso sistema solar..."
 
 # game/scripts/kali_events.rpy:5381
 translate pt_br kaliuni_6fb165f8:
 
     # k "Hmm..."
-    k ""
+    k "Hmm..."
 
 # game/scripts/kali_events.rpy:5382
 translate pt_br kaliuni_1af705f7:
 
     # c "Does he own a space company?"
-    c ""
+    c "Ele tem uma agência espacial?"
 
 # game/scripts/kali_events.rpy:5383
 translate pt_br kaliuni_b8428b38:
 
     # k "...Who doesn't these days?"
-    k ""
+    k "....Quem não tem nesses dias?"
 
 # game/scripts/kali_events.rpy:5384
 translate pt_br kaliuni_f3739a1b:
 
     # c "It sounds like he has big plans..."
-    c ""
+    c "Me parece que ele tem grandes planos..."
 
 # game/scripts/kali_events.rpy:5386
 translate pt_br kaliuni_dcabe5f4:
 
     # k "I didn't say he had any plans! Not with space anyway!"
-    k ""
+    k "Eu não disse que ele tinha planos! Não com o espaço!"
 
 # game/scripts/kali_events.rpy:5387
 translate pt_br kaliuni_922fd700:
 
     # c "Kali?"
-    c ""
+    c "Kali?"
 
 # game/scripts/kali_events.rpy:5388
 translate pt_br kaliuni_5bf9384d:
 
     # k "What? I don't know anything! You think I would keep that from you?"
-    k ""
+    k "Que? Eu não sei de nada! Você acha que eu esconderia de você?"
 
 # game/scripts/kali_events.rpy:5389
 translate pt_br kaliuni_62f3305a:
 
     # c "Alright, I believe you."
-    c ""
+    c "Tudo nem, eu acredito em você."
 
 # game/scripts/kali_events.rpy:5391
 translate pt_br kaliuni_eae65e25:
 
     # k "What's the big deal, anyway? Maybe we'll meet some aliens..."
-    k ""
+    k "E ainda, qual é o problema? Talvez agente conheça alguns aliens..."
 
 # game/scripts/kali_events.rpy:5392
 translate pt_br kaliuni_339ca08b:
 
     # c "Ehh... not from this solar system."
-    c ""
+    c "Ehh... não nesse sistema solar."
 
 # game/scripts/kali_events.rpy:5394
 translate pt_br kaliuni_bae836fc:
 
     # k "You never know what lies below... OoOoOoOh..."
-    k ""
+    k "Você nunca sabe oque se esconde nas sombras... OoOoOoOh..."
 
 # game/scripts/kali_events.rpy:5396
 translate pt_br kaliuni_8ed42508:
 
     # k "Just kidding, I know how space works."
-    k ""
+    k "Brincadeira, eu sei como o espaço funciona."
 
 # game/scripts/kali_events.rpy:5397
 translate pt_br kaliuni_e9be452d:
 
     # k "Besides, they've all been explored. All that's left is to take their resources. Or, who knows, maybe colonize one of them."
-    k ""
+    k "E também, todos eles já foram explorados. Só falta pegar os recursos deles. Ou, quem sabe, colonizá-los."
 
 # game/scripts/kali_events.rpy:5398
 translate pt_br kaliuni_7df3ae55:
 
     # c "You think your father could do that?"
-    c ""
+    c "Você acha que seu pai consiguiria fazer isso?"
 
 # game/scripts/kali_events.rpy:5400
 translate pt_br kaliuni_c685d1f6:
 
     # k "Is that really a question you still have to ask yourself? I mean, at this point, really?"
-    k ""
+    k "Você realmente tá perguntando isso? Quer dizer, nesse ponto, sério?"
 
 # game/scripts/kali_events.rpy:5402
 translate pt_br kaliuni_ecdf6287:
 
     # k "His bank account makes entire nations jealous."
-    k ""
+    k "A conta bancária dele deixa dezenas de nações com inveja."
 
 # game/scripts/kali_events.rpy:5403
 translate pt_br kaliuni_4f9c5aa1:
 
     # k "And to think it all started from taking advantage of the computer hardware boom. He just kept buying companies left and right, and no one stopped him."
-    k ""
+    k "E pensar que tudo isso começou com hardwares de computadores. Ele continuou comprando empresas de todos os lugares, e ninguém o parou."
 
 # game/scripts/kali_events.rpy:5404
 translate pt_br kaliuni_c3ec515c:
 
     # k "At least the world's better for it, right? You wouldn't have [botname] without him."
-    k ""
+    k "Pelo o menos o mundo está melhor, não é? Você não teria a [botname] sem ele."
 
 # game/scripts/kali_events.rpy:5405
 translate pt_br kaliuni_a95a6825:
 
     # c "Does he own this train, too?"
-    c ""
+    c "Ele tem alguma ferrovia, também?"
 
 # game/scripts/kali_events.rpy:5407
 translate pt_br kaliuni_851de286:
 
     # k "No, he doesn't own any train companies. But I'm pretty sure this train uses his electronics."
-    k ""
+    k "Não, ele não tem nenhuma. Mas eu tenho certeza que esse trem utiliza de eletrônicos."
 
 # game/scripts/kali_events.rpy:5409
 translate pt_br kaliuni_6889750c:
 
     # k "If he doesn't own it, he probably at least has a hand in it."
-    k ""
+    k "Se ele não é o dono, ele pelo menos está envolvido."
 
 # game/scripts/kali_events.rpy:5410
 translate pt_br kaliuni_a1fdf50b:
 
     # k "Like, he didn't grow the tomatoes for the pizza at Papa Rons... but he owned the place it was sold at..."
-    k ""
+    k "Tipo, ele não cultivou os tomates da pizza do Papa Rons... mas ele era dono do lugar, já que foi vendido..."
 
 # game/scripts/kali_events.rpy:5411
 translate pt_br kaliuni_eb1d13a7:
 
     # c "Is he a big player in every nation on this planet?"
-    c ""
+    c "Ele é um grande jogador em cada nação do planeta?"
 
 # game/scripts/kali_events.rpy:5413
 translate pt_br kaliuni_6d205fa8:
 
     # k "No, mostly just his home country and Syl'anar, the biggest markets on the planet. Although he isn't against loaning more developing nations some money."
-    k ""
+    k "Não, só no seu país de origem e em Syl'anar, os maiores mercados do planeta. Contudo, ele não é contra imprestar o seu dinheiro para outra nações."
 
 # game/scripts/kali_events.rpy:5415
 translate pt_br kaliuni_dae94021:
 
     # k "I think he may have even had a hand in helping Moon's homeland actually, when that was still a developing country."
-    k ""
+    k "Eu acho que ele também ajudou a terra natal da Moon, quando ainda era um país em desenvolvimento."
 
 # game/scripts/kali_events.rpy:5416
 translate pt_br kaliuni_c3dec0c7:
 
     # c "What happens to all those companies when he dies?"
-    c ""
+    c "O que vai acontecer com todas essas empresas quando ele morrer?"
 
 # game/scripts/kali_events.rpy:5417
 translate pt_br kaliuni_946e1669:
 
     # k "I guess they just have one less guy on the ladder to report to? It's not like he ever expected me to control {i}every{/i} company he had a hand in. Just Nero Inc."
-    k ""
+    k "Eu acho que é só um cara a menos na escada para eles se importarem? Não é como se ele esperasse que eu comande {i}cada{/i} empresa que ele tem as mãos. Só a Nero Inc."
 
 # game/scripts/kali_events.rpy:5418
 translate pt_br kaliuni_d02930b1:
 
     # c "He kind of sounds like an emperor."
-    c ""
+    c "Ele meio que parece um imperador."
 
 # game/scripts/kali_events.rpy:5419
 translate pt_br kaliuni_26296101:
 
     # k "What do you mean?"
-    k ""
+    k "Como assim?"
 
 # game/scripts/kali_events.rpy:5420
 translate pt_br kaliuni_dfc446c2:
 
     # c "Replace company with nation, and he's an emperor. And you're the princess that's going to inherit only a portion of his land."
-    c ""
+    c "Pensa que as empresas fossem nações, e ele vira um imperador. E você a princesa, que vai herdar só uma porção das suas terras."
 
 # game/scripts/kali_events.rpy:5422
 translate pt_br kaliuni_a5be5940:
 
     # k "Huh, guess you're right. He sounds badass when you put it that way."
-    k ""
+    k "Huh, acho que você está certo. Ele parece bem fodão quando você coloca dessa forma."
 
 # game/scripts/kali_events.rpy:5424
 translate pt_br kaliuni_b58a7cd6:
 
     # announcer "Syl'anar Insititute of Technology. Now arriving at Syl'anar Insititute of Technology."
-    announcer ""
+    announcer "Instituto de tecnologia de Syl'anar. Chegando ao Instituto de tecnologia de Syl'anar."
 
 # game/scripts/kali_events.rpy:5425
 translate pt_br kaliuni_4b891189:
 
     # k "Looks like we're here."
-    k ""
+    k "Parece que chegamos."
 
 # game/scripts/kali_events.rpy:5427
 translate pt_br kaliuni_9990a89e:
 
     # "After arriving at the SIT monorail station, the two of you make your way inside the university to meet the Dean."
-    ""
+    "Depois de chegar a estação monorail SIT, vocês dois vão até a universidade se encontrar com o Reitor."
 
 # game/scripts/kali_events.rpy:5428
 translate pt_br kaliuni_8c6db977:
 
     # "Just before you and Kali enter his office, you're pulled to the side. 'This is an important meeting, only Ms. Trenero is allowed in.' the man in black says. Before you have a chance to respond, the Dean's door closes."
-    ""
+    "Antes da Kali entrar no escritório, você é puxado para o lado. 'Essa é um encontro importante, somente a senhorita Trenero é permitida.' isso foi o que um homem de olhos escuros lhe disse. Antes que tivesse a chance de responder, a porta do Reitor se fecha."
 
 # game/scripts/kali_events.rpy:5429
 translate pt_br kaliuni_cbd5a151:
