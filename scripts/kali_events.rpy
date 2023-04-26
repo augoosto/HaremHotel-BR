@@ -20092,301 +20092,301 @@ translate pt_br kaliuni_8c6db977:
 translate pt_br kaliuni_cbd5a151:
 
     # "You sit down on a nearby couch and wait for the meeting to be over. It's quite unusual for the Dean of a university to speak directly with a newcomer, but these aren't normal circumstances in the first place. 15 minutes later Kali exits his office."
-    ""
+    "Você se senta em um sofá por perto e espera o encontro terminar. É meio incomum para o Dean da universidade conversar diretamente com um novato, mas essas não são circuntâncias normais em primeiro lugar. 15 minutos depois Kali sai do escritório."
 
 # game/scripts/kali_events.rpy:5430
 translate pt_br kaliuni_23199bb2:
 
     # "She tells you a tour guide - one of the students - is planned to meet up with her at one of her computer science classes. The two of you decide to head there now..."
-    ""
+    "Ela te conta sobre um guia - um dos estudantes - marcou de se encontrar com ela em uma das aulas de computação. Vocês dois decidem ir para lá agora..."
 
 # game/scripts/kali_events.rpy:5432
 translate pt_br kaliuni_10817a90:
 
     # k "Um, hello."
-    k ""
+    k "Um, olá."
 
 # game/scripts/kali_events.rpy:5433
 translate pt_br kaliuni_b371fb76:
 
     # q "Class starts in two hours."
-    q ""
+    q "A aula começa em duas horas."
 
 # game/scripts/kali_events.rpy:5434
 translate pt_br kaliuni_04106a88:
 
     # k "I was just told to meet someone here...?"
-    k ""
+    k "Foi me dito para me encontrar com alguém aqui...?"
 
 # game/scripts/kali_events.rpy:5436
 translate pt_br kaliuni_d9d36797:
 
     # q "...?"
-    q ""
+    q "...?"
 
 # game/scripts/kali_events.rpy:5438
 translate pt_br kaliuni_0c3342f2:
 
     # q "Oh! Ms. Trenero, you're already here! Please, take a seat wherever you'd like." with ssshake
-    q "" with ssshake
+    q "Oh! Senhorita Trenero, você já está aqui! Por favor, sente-se onde quiser." with ssshake
 
 # game/scripts/kali_events.rpy:5440
 translate pt_br kaliuni_416c52c2:
 
     # q "Goodness, where are my manners? I'll be your calculus teacher, you may call me Mrs. Shannon. I look forward to teaching you, Ms. Trenero."
-    q ""
+    q "Deuses, onde estão minhas maneiras? Eu serei sua professora de cálculo, pode me chamar de Senhora Shannon. Será um prazer dar aula para você, Senhorita Trenero."
 
 # game/scripts/kali_events.rpy:5441
 translate pt_br kaliuni_9827f0ec:
 
     # k "Kali is fine..."
-    k ""
+    k "Pode me chamar de Kali..."
 
 # game/scripts/kali_events.rpy:5442
 translate pt_br kaliuni_d3e17a62:
 
     # shan "Of course..."
-    shan ""
+    shan "É claro..."
 
 # game/scripts/kali_events.rpy:5444
 translate pt_br kaliuni_4d7fc477:
 
     # q "...He was reading off the teleprompter the whole time, it was so obvious!"
-    q ""
+    q "...Ele estava lendo o telemprompter o tempo todo, era tão óbvio!"
 
 # game/scripts/kali_events.rpy:5446
 translate pt_br kaliuni_f90469bf:
 
     # q "Wait... who the fuck is that!?" with ssshake
-    q "" with ssshake
+    q "Espera... quem caralhos é aquela!?" with ssshake
 
 # game/scripts/kali_events.rpy:5448
 translate pt_br kaliuni_2a8ab37a:
 
     # q "No way! The newbie is Trenero's kid!?"
-    q ""
+    q "Nem ferrando! A novata é a criança Trenero!?"
 
 # game/scripts/kali_events.rpy:5449
 translate pt_br kaliuni_98493e52:
 
     # q "Who's Trenero?"
-    q ""
+    q "Quem é Trenero?"
 
 # game/scripts/kali_events.rpy:5451
 translate pt_br kaliuni_85a4a4c4:
 
     # q "Only the richest fucking guy on the planet! He was shot a couple months ago, remember?"
-    q ""
+    q "É só o cara mais rico da porra do mundo todo! Ele levou um tiro uns meses atrás, lembra?"
 
 # game/scripts/kali_events.rpy:5453
 translate pt_br kaliuni_0af62ede:
 
     # q "What!?"
-    q ""
+    q "Que!?"
 
 # game/scripts/kali_events.rpy:5454
 translate pt_br kaliuni_b55e90b2:
 
     # q "He's the pinnacle of monopolistic greed, a vile dragon sitting on his endless abyss of bloodied gold that he's stolen off the backs of slaves! He basically owns half this planet!"
-    q ""
+    q "Ele é o pináculo da ganância monopolista, um vil dragão sentando em seu abismo infinito de ouro ensanguentado e que roubou de volta os escravos! Ele basicamente é dono da metade do planeta!"
 
 # game/scripts/kali_events.rpy:5456
 translate pt_br kaliuni_72daddf7:
 
     # q "Ohhh, doesn't he make those cute toy robot puppies? I have like three."
-    q ""
+    q "Ohhh, não é ele que faz aquelas cachorrinhos robô? Eu tenho uns três."
 
 # game/scripts/kali_events.rpy:5458
 translate pt_br kaliuni_d18d3095:
 
     # q "Who do you think built those robot puppies? Slaves!"
-    q ""
+    q "Quem você acha que construiu aqueles cachorros robôs? Escravos!"
 
 # game/scripts/kali_events.rpy:5459
 translate pt_br kaliuni_0bd5553d:
 
     # q "Ohhh..."
-    q ""
+    q "Ohhh..."
 
 # game/scripts/kali_events.rpy:5461
 translate pt_br kaliuni_1e029caa:
 
     # q "And her? What has she done?"
-    q ""
+    q "E ela? Oque ela já fez?"
 
 # game/scripts/kali_events.rpy:5462
 translate pt_br kaliuni_5469c737:
 
     # q "I don't know, but I'm sure she's a pretentious prick like the rest of them! Whatever reason she's here, it's not good!"
-    q ""
+    q "Eu não sei, mas eu tenho certeza que ela é uma idiota pretensiosa como o resto deles! Seja lá a razão dela estar aqui não é bom!"
 
 # game/scripts/kali_events.rpy:5463
 translate pt_br kaliuni_6049c440:
 
     # q "Shouldn't we go talk to her before we make any judgements though? We kind of volunteered for this..."
-    q ""
+    q "Agente não deve ir conversar com ela antes de qualquer julgamento? Nós meio que nos voluntáriamos para isso..."
 
 # game/scripts/kali_events.rpy:5464
 translate pt_br kaliuni_c3e7814b:
 
     # q "Yeah... Tsk, I just hope she's not a bitch..."
-    q ""
+    q "É... tsk, eu só espero que ela não seja uma vadia..."
 
 # game/scripts/kali_events.rpy:5465
 translate pt_br kaliuni_d267661a:
 
     # q "..."
-    q ""
+    q "..."
 
 # game/scripts/kali_events.rpy:5467
 translate pt_br kaliuni_b480a97d:
 
     # q "And give away two of those robot puppies, why do you have three!?"
-    q ""
+    q "E dê para alguém dois daqueles cachorrinhos, por que você tem três!?"
 
 # game/scripts/kali_events.rpy:5468
 translate pt_br kaliuni_0976bcc3:
 
     # q "T-They're cute!"
-    q ""
+    q "E-Eles são fofos!"
 
 # game/scripts/kali_events.rpy:5470
 translate pt_br kaliuni_da5ac49e:
 
     # van "Hello Kali, I'm Vanessa and this is Kim. we'll be your guides today..."
-    van ""
+    van "Olá Kali, eu sou a venessa e essa é a Kim. Nós seremos suas guias hoje..."
 
 # game/scripts/kali_events.rpy:5471
 translate pt_br kaliuni_d73a340c:
 
     # kim "Hello baby dragon~"
-    kim ""
+    kim "Olá bebê dragão~"
 
 # game/scripts/kali_events.rpy:5472
 translate pt_br kaliuni_4814cbe9:
 
     # k "Um... I don't remember giving you my name?"
-    k ""
+    k "Um... eu não lembro de dizer meu nome?"
 
 # game/scripts/kali_events.rpy:5473
 translate pt_br kaliuni_8ad9748c:
 
     # van "We already know who you are..."
-    van ""
+    van "Nós já sabemos quem é você..."
 
 # game/scripts/kali_events.rpy:5474
 translate pt_br kaliuni_a6cb467e:
 
     # k "You do?"
-    k ""
+    k "Sabem?"
 
 # game/scripts/kali_events.rpy:5475
 translate pt_br kaliuni_fe011a7c:
 
     # van "You're only the daughter of the richest person in the world... how could we not?"
-    van ""
+    van "Você é a filha da pessoa mais rica do mundo... como não conheceríamos?"
 
 # game/scripts/kali_events.rpy:5476
 translate pt_br kaliuni_b747b6ca:
 
     # k "Oh. I didn't think many people paid attention to me."
-    k ""
+    k "Oh. Eu não achei que as pessoas prestariam atenção em mim."
 
 # game/scripts/kali_events.rpy:5477
 translate pt_br kaliuni_8c5e20a6:
 
     # van "It's my job to keep track of people like your father... I mean, do you have any idea how many people hate him?"
-    van ""
+    van "É meu trabalho ficar de olho em pessoas como o seu pai... Quer dizer, você tem ideia de quantas pessoas odeiam ele?"
 
 # game/scripts/kali_events.rpy:5478
 translate pt_br kaliuni_9c7f4fae:
 
     # k "Oh uh..."
-    k ""
+    k "Oh uh..."
 
 # game/scripts/kali_events.rpy:5479
 translate pt_br kaliuni_74e03025:
 
     # van "He owns more slaves than almost any other human! And what about you, hm? How many slaves do you own?"
-    van ""
+    van "Ele tem mais escravos que qualquer outro humano! Mas e você, hm? Quantos escravos você tem?"
 
 # game/scripts/kali_events.rpy:5481
 translate pt_br kaliuni_97c83436:
 
     # shan "Heyyy Vanessa... why don't you show her to the cafeteria?"
-    shan ""
+    shan "Eiii Vanessa... por que você não apresenta a cafeteria para ela?"
 
 # game/scripts/kali_events.rpy:5482
 translate pt_br kaliuni_34599a8f:
 
     # van "Okay, okay. Whatever, I'm done..."
-    van ""
+    van "Ok, ok. Tanto faz, já terminei..."
 
 # game/scripts/kali_events.rpy:5484
 translate pt_br kaliuni_31d0a7a7:
 
     # shan "Greaaaat... Well I'll leave Kali in your hands! I really need to get back to working..."
-    shan ""
+    shan "Óóóóótimo... Bem, eu deixarei a Kali em suas mãos! Eu realmente preciso voltar ao trabalho..."
 
 # game/scripts/kali_events.rpy:5486
 translate pt_br kaliuni_540415b4:
 
     # k "Um... I'm not actually that rich, and I don't personally own any slaves. I'm kind of struggling to even afford rent right now..."
-    k ""
+    k "Um... na verdade eu não sou tão rica, e eu não tenho nenhum escravo. Eu meio que estou me esforçando para pagar o aluguel no momento..."
 
 # game/scripts/kali_events.rpy:5487
 translate pt_br kaliuni_93a0f726:
 
     # van "What do you mean you aren't rich? You're THE Trenero's kid, aren't you?"
-    van ""
+    van "Como assim você não é rica? Vocé É a filha do Trenero, não é?"
 
 # game/scripts/kali_events.rpy:5488
 translate pt_br kaliuni_a4e6e07d:
 
     # k "Yeah, but my Dad hasn't given me much money since I was like 18..."
-    k ""
+    k "Sim, mas meu pai não me deu muito dinheiro desde que eu tinha uns 18 anos..."
 
 # game/scripts/kali_events.rpy:5490
 translate pt_br kaliuni_bf249779:
 
     # van "Hmph, okay so maybe you aren't an oligarch. But that doesn't change my opinions on your father."
-    van ""
+    van "Hmph, ok, então talvez você seja uma oligarca. Mas isso não muda minhas opiniões sobre seu pai."
 
 # game/scripts/kali_events.rpy:5491
 translate pt_br kaliuni_f34a0dd6:
 
     # k "I don't really like him that much either, especially after he kicked to me the other side of the world without any way to get back home..."
-    k ""
+    k "Eu também não gosto muito dele, especialmente depois que ele me mandou pro outro lado do mundo sem um jeito de voltar para casa..."
 
 # game/scripts/kali_events.rpy:5492
 translate pt_br kaliuni_e2f15e47:
 
     # van "Damn, he really did that? I knew he was piece of shit!"
-    van ""
+    van "Porra, ele realmente fez isso? Eu sabia que ele era um pedaço de merda!"
 
 # game/scripts/kali_events.rpy:5494
 translate pt_br kaliuni_0924673a:
 
     # van "Name's Vanessa, this is Kim."
-    van ""
+    van "Eu me chamo Vanessa, e essa é a Kim."
 
 # game/scripts/kali_events.rpy:5495
 translate pt_br kaliuni_30273b69:
 
     # k "You already introduced yourselves."
-    k ""
+    k "Vocês já se introduziram."
 
 # game/scripts/kali_events.rpy:5497
 translate pt_br kaliuni_9dc53c3b:
 
     # van "Ah, right... *ehem*..."
-    van ""
+    van "Ah, certo... *ahem*..."
 
 # game/scripts/kali_events.rpy:5498
 translate pt_br kaliuni_e70f8820:
 
     # van "Already got your books then? Follow us, we'll show you around the campus."
-    van ""
+    van "Já pegou seus livros? Siga-nos, nós vamos te mostrar os arredores do campus"
 
 # game/scripts/kali_events.rpy:5499
 translate pt_br kaliuni_0650cfc1:
