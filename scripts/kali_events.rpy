@@ -16264,265 +16264,265 @@ translate pt_br kali_stressfuck_f3828db9:
 translate pt_br kalisleep_44c02f90:
 
     # k "Night..."
-    k ""
+    k "Noite..."
 
 # game/scripts/kali_events.rpy:4368
 translate pt_br kalisleep_21edbb3e:
 
     # c "Night."
-    c ""
+    c "Noite."
 
 # game/scripts/kali_events.rpy:4371
 translate pt_br kalisleep_1f7a2090:
 
     # k "*snore*..."
-    k ""
+    k "*ronco*..."
 
 # game/scripts/kali_events.rpy:4372
 translate pt_br kalisleep_8fbbebd3:
 
     # c "Hey, it's morning."
-    c ""
+    c "Ei, bom dia."
 
 # game/scripts/kali_events.rpy:4374
 translate pt_br kalisleep_8564feb2:
 
     # k "Nnnngh, five more minutes..."
-    k ""
+    k "Nnnngh, mais cinco minutos..."
 
 # game/scripts/kali_events.rpy:4401
 translate pt_br kali_unihistory_3b0d68aa:
 
     # l "[linoname]!"
-    l ""
+    l "[linoname]!"
 
 # game/scripts/kali_events.rpy:4402
 translate pt_br kali_unihistory_28a87ad0:
 
     # c "Hey Lin, what's up?"
-    c ""
+    c "Ei Lin, e aí?"
 
 # game/scripts/kali_events.rpy:4403
 translate pt_br kali_unihistory_eec06d09:
 
     # l "Kali has been at her university all evening... she should have been home an hour ago! Do you think you could bring her this coffee? And maybe check up on her while you're there."
-    l ""
+    l "A Kali ficou na universidade a tarde inteira... ela deveria estar em casa já faz uma hora! Você levar esse café para ela? E ver se tá tudo bem em quanto você estiver lá."
 
 # game/scripts/kali_events.rpy:4404
 translate pt_br kali_unihistory_700352cf:
 
     # c "You're worried about her? Sure. Thanks, Lin."
-    c ""
+    c "Você está preocupada com ela? Claro. Obrigrado, Lin."
 
 # game/scripts/kali_events.rpy:4406
 translate pt_br kali_unihistory_f3627876:
 
     # "You drive to Kali's university..."
-    ""
+    "Você dirige até a universidade da Kali..."
 
 # game/scripts/kali_events.rpy:4408
 translate pt_br kali_unihistory_430bc66e:
 
     # c "{i}There she is... working late.{/i}"
-    c ""
+    c "{i}Ali está ela... ficando até tarde.{/i}"
 
 # game/scripts/kali_events.rpy:4410
 translate pt_br kali_unihistory_c1b0b3ac:
 
     # k "Tsk, ergh..."
-    k ""
+    k "Tsk, ergh..."
 
 # game/scripts/kali_events.rpy:4411
 translate pt_br kali_unihistory_cfa9ecd0:
 
     # kim "You're so sloooooow... It's not that hard!"
-    kim ""
+    kim "Você é tão leeeeeeenta... não é tão difícil!"
 
 # game/scripts/kali_events.rpy:4412
 translate pt_br kali_unihistory_c993982f:
 
     # van "Half the fucking class is still here, I don't want to hear it..."
-    van ""
+    van "Mais da metade da porra da sala tá aqui, eu não quero ouvir isso..."
 
 # game/scripts/kali_events.rpy:4413
 translate pt_br kali_unihistory_d889128a:
 
     # kim "Come ooooooon, I wanna grab sushi before it closes!"
-    kim ""
+    kim "Qualéééééé, eu quero pegar sushi antes que feche!"
 
 # game/scripts/kali_events.rpy:4414
 translate pt_br kali_unihistory_7a9dee44:
 
     # van "Yeah, yeah, we will... I'm on the last one, just give me a bit..."
-    van ""
+    van "Sim, sim, nós vamos... eu estou na última, só me dê um tempo..."
 
 # game/scripts/kali_events.rpy:4415
 translate pt_br kali_unihistory_f675aa4e:
 
     # kim "It's so easyyyyyyyyy!"
-    kim ""
+    kim "É tão fáááááááááácil!"
 
 # game/scripts/kali_events.rpy:4417
 translate pt_br kali_unihistory_bf021cd8:
 
     # k "Shhhhh!"
-    k ""
+    k "Shhhhh!"
 
 # game/scripts/kali_events.rpy:4418
 translate pt_br kali_unihistory_03f28929:
 
     # kim "{i}Sorry...!{/i}"
-    kim ""
+    kim "{i}Desculpa...!{/i}"
 
 # game/scripts/kali_events.rpy:4420
 translate pt_br kali_unihistory_26a31225:
 
     # van "I don't know how you finished so quickly..."
-    van ""
+    van "Eu não sei como você terminou tão rápido..."
 
 # game/scripts/kali_events.rpy:4421
 translate pt_br kali_unihistory_1460e8c1:
 
     # kim "We studied most of this stuff a few months ago... don't you remember?"
-    kim ""
+    kim "Nós estudamos a maioria dessas coisas alguns meses atrás... você não lembra?"
 
 # game/scripts/kali_events.rpy:4422
 translate pt_br kali_unihistory_0a5edb98:
 
     # van "No..."
-    van ""
+    van "Não..."
 
 # game/scripts/kali_events.rpy:4424
 translate pt_br kali_unihistory_7d3a80f3:
 
     # van "*sigh*... That'll do, I guess..."
-    van ""
+    van "*suspiro*... Terminei, eu acho..."
 
 # game/scripts/kali_events.rpy:4425
 translate pt_br kali_unihistory_d193613b:
 
     # kim "Yay~ Good luck!"
-    kim ""
+    kim "Yay~ boa sorte!"
 
 # game/scripts/kali_events.rpy:4426
 translate pt_br kali_unihistory_51c1a902:
 
     # van "I'll need it..."
-    van ""
+    van "Vou precisar..."
 
 # game/scripts/kali_events.rpy:4427
 translate pt_br kali_unihistory_f34ae255:
 
     # k "Ergh... fuck."
-    k ""
+    k "Ergh... porra."
 
 # game/scripts/kali_events.rpy:4429
 translate pt_br kali_unihistory_e80854a7:
 
     # van "...?"
-    van ""
+    van "...?"
 
 # game/scripts/kali_events.rpy:4430
 translate pt_br kali_unihistory_d641605a:
 
     # van "You're still on that question? And I thought I was behind..."
-    van ""
+    van "Você tá ainda nessa pergunta? E eu pensando que eu estava atrasada..."
 
 # game/scripts/kali_events.rpy:4431
 translate pt_br kali_unihistory_b435fc73:
 
     # k "Shut up..."
-    k ""
+    k "Cala boca..."
 
 # game/scripts/kali_events.rpy:4432
 translate pt_br kali_unihistory_282afcd7:
 
     # van "Do you want some help? I know you weren't here when we learned this stuff..."
-    van ""
+    van "Você quer ajuda? Eu sei que você não estava aqui quando agente aprendeu essas coisas..."
 
 # game/scripts/kali_events.rpy:4433
 translate pt_br kali_unihistory_c99b048a:
 
     # k "I'm fine... go eat sushi or whatever..."
-    k ""
+    k "Tá tudo bem... vocês podem ir comer sushi ou qualquer outra coisa..."
 
 # game/scripts/kali_events.rpy:4434
 translate pt_br kali_unihistory_53aa0083:
 
     # van "College is really gonna suck if you don't have a few friends to join you on your journey... but alright."
-    van ""
+    van "A faculdade vai ser uma droga se você não tiver amigos para te acompanhar na sua jornada... mas tudo bem."
 
 # game/scripts/kali_events.rpy:4436
 translate pt_br kali_unihistory_e4458b3b:
 
     # k "Oh really, you want to be {i}my{/i} friend?"
-    k ""
+    k "Oh, sério, você quer ser {i}minha{/i} amiga?"
 
 # game/scripts/kali_events.rpy:4437
 translate pt_br kali_unihistory_204cad4e:
 
     # van "We've already finished and it looks like you're still having trouble with question 14, so... we can help if you want."
-    van ""
+    van "Nós já terminamoms e parece que você ainda precisa de ajuda com a questão 14, então... nós podemos te ajudar caso queria."
 
 # game/scripts/kali_events.rpy:4439
 translate pt_br kali_unihistory_e31b3086:
 
     # k "*Hmph*...!"
-    k ""
+    k "*Hmph*...!"
 
 # game/scripts/kali_events.rpy:4440
 translate pt_br kali_unihistory_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4442
 translate pt_br kali_unihistory_5522f25d:
 
     # k "*sigh*...\n{i}(Fuck... I did say I was going to be more social. And I do really need help...){/i}"
-    k ""
+    k "*suspiro*...\n{i}(Porra... eu falei que eu iria ser mais social. E eu realmente preciso de ajuda...){/i}"
 
 # game/scripts/kali_events.rpy:4444
 translate pt_br kali_unihistory_af43a7e8:
 
     # k "Yeah, I guess I could use some help..."
-    k ""
+    k "É, eu acho que eu preciso de ajuda..."
 
 # game/scripts/kali_events.rpy:4445
 translate pt_br kali_unihistory_4d40366a:
 
     # van "Okay. Let me use your chair, Kim."
-    van ""
+    van "Ok. me deixe usar a sua cadeira, Kim."
 
 # game/scripts/kali_events.rpy:4447
 translate pt_br kali_unihistory_91836e6e:
 
     # van "So, basic motor function?"
-    van ""
+    van "Então, função de motor básico?"
 
 # game/scripts/kali_events.rpy:4448
 translate pt_br kali_unihistory_4262e773:
 
     # k "Yeah, it's tough..."
-    k ""
+    k "Isso, é difícil..."
 
 # game/scripts/kali_events.rpy:4450
 translate pt_br kali_unihistory_8533b441:
 
     # van "Look, if you want the end of your arm to be in this position, you would rotate this joint 45 degrees on the Y axis, right?"
-    van ""
+    van "Olha, se você quer que a posição final do seu braço esteja nessa posição, você tem que rotacionar a junta a 45 graus no eixo Y, certo?"
 
 # game/scripts/kali_events.rpy:4451
 translate pt_br kali_unihistory_2fb08c25:
 
     # k "Right..."
-    k ""
+    k "Certo..."
 
 # game/scripts/kali_events.rpy:4453
 translate pt_br kali_unihistory_ac27f94e:
 
     # van "There's no way you're going to get there by only moving this joint on one axis..."
-    van ""
+    van "Nem ferrando que você vai ir naquela posição só movendo a junta em um só eixo..."
 
 # game/scripts/kali_events.rpy:4454
 translate pt_br kali_unihistory_8661c4ee:
@@ -20392,37 +20392,37 @@ translate pt_br kaliuni_e70f8820:
 translate pt_br kaliuni_0650cfc1:
 
     # k "Oh, you two are my guides?"
-    k ""
+    k "Oh, vocês duas são minhas guias?"
 
 # game/scripts/kali_events.rpy:5500
 translate pt_br kaliuni_66c8da3e:
 
     # van "We are. Sorry we got off on the wrong foot, I think I might actually enjoy getting to know more about you..."
-    van ""
+    van "Somos sim. Desculpa se começamos com o pé esquerdo, na verdade eu acho que seria divertido agente se conhecer melhor..."
 
 # game/scripts/kali_events.rpy:5502
 translate pt_br kaliuni_6e79b574:
 
     # k "Okay, see you later honeybear! Are you going to stick around or head back home?"
-    k ""
+    k "Ok, te vejo depois ursinho! Você vai ficar por aí ou vai voltar para casa?"
 
 # game/scripts/kali_events.rpy:5503
 translate pt_br kaliuni_ae87e7f3:
 
     # c "I'll be heading home. Are you sure you're fine here?"
-    c ""
+    c "Eu vou para casa. Certeza que tá tudo certo?"
 
 # game/scripts/kali_events.rpy:5504
 translate pt_br kaliuni_438f0661:
 
     # k "Yeah, I'm good... just be ready for me when I get home, okay?"
-    k ""
+    k "Sim, tudo bem... só me espere em casa quando eu chegar, ok?"
 
 # game/scripts/kali_events.rpy:5505
 translate pt_br kaliuni_de1b5ddf:
 
     # c "Alright, see you later. Have fun."
-    c ""
+    c "Tudo bem, te vejo depois. Se divirta."
 
 # game/scripts/kali_events.rpy:5518
 translate pt_br kalivtwo_5103be00:
