@@ -16528,295 +16528,295 @@ translate pt_br kali_unihistory_ac27f94e:
 translate pt_br kali_unihistory_8661c4ee:
 
     # kim "Since these are just 2D images, I like to imagine the problem in my head, fully 3D! You should try it, it makes it much easier."
-    kim ""
+    kim "Já que essas são imagens 2D, eu gosto de imaginar o problema na minha mente, inteiramente 3D! Você devia tentar, deixa muito mais fácil."
 
 # game/scripts/kali_events.rpy:4455
 translate pt_br kali_unihistory_e8d94e67:
 
     # van "Whatever works..."
-    van ""
+    van "Qualquer coisa que funcionar..."
 
 # game/scripts/kali_events.rpy:4456
 translate pt_br kali_unihistory_fd5bd5f7:
 
     # k "Okay, like this...?"
-    k ""
+    k "Ok, tipo assim...?"
 
 # game/scripts/kali_events.rpy:4458
 translate pt_br kali_unihistory_2d20e3f7:
 
     # van "These elbows won't bend that way, you gave it too many degrees of freedom."
-    van ""
+    van "Os cotovelos não se dobram desse jeito, você deu muitos graus de liberdade."
 
 # game/scripts/kali_events.rpy:4459
 translate pt_br kali_unihistory_9ea7fcf1:
 
     # k "Oh, right..."
-    k ""
+    k "Oh, certo..."
 
 # game/scripts/kali_events.rpy:4461
 translate pt_br kali_unihistory_f2ce8951:
 
     # k "...Is this better?"
-    k ""
+    k "...Assim tá melhor?"
 
 # game/scripts/kali_events.rpy:4462
 translate pt_br kali_unihistory_4b7892c5:
 
     # van "Yep, keep going. Here's a hint, you're going to need to rotate both joints on every axis."
-    van ""
+    van "Isso, continua. Aqui vai uma dica, você tem que rotacionar ambas as juntas em cada eixo."
 
 # game/scripts/kali_events.rpy:4463
 translate pt_br kali_unihistory_e0eb8e61:
 
     # k "Gotcha..."
-    k ""
+    k "Saquei..."
 
 # game/scripts/kali_events.rpy:4465
 translate pt_br kali_unihistory_8c35958f:
 
     # c "How are things, Kali?"
-    c ""
+    c "Como estão as coisas, Kali?"
 
 # game/scripts/kali_events.rpy:4466
 translate pt_br kali_unihistory_06477b2a:
 
     # k "Oh, [name]! What are you doing here?"
-    k ""
+    k "Oh, [name]! Oque você está fazendo aqui?"
 
 # game/scripts/kali_events.rpy:4467
 translate pt_br kali_unihistory_a3525a61:
 
     # k "Did you come to check on me?"
-    k ""
+    k "Você veio ver como eu estou?"
 
 # game/scripts/kali_events.rpy:4468
 translate pt_br kali_unihistory_638460ee:
 
     # kim "Aww, so cute. You two make a great couple!"
-    kim ""
+    kim "Aww, tão fofo. Vocês dois fazem um belo casal!"
 
 # game/scripts/kali_events.rpy:4469
 translate pt_br kali_unihistory_a9b14758:
 
     # van "The landlord...?"
-    van ""
+    van "O senhorio...?"
 
 # game/scripts/kali_events.rpy:4471
 translate pt_br kali_unihistory_3debe672:
 
     # k "He's a manager, not a landlord..."
-    k ""
+    k "Ele é um gerente, não um senhorio..."
 
 # game/scripts/kali_events.rpy:4472
 translate pt_br kali_unihistory_0ae3094e:
 
     # van "He owns the land you live on and he's charging you for it... Sheesh, how are you two together? Who pays their boyfriend to live with them?"
-    van ""
+    van "Ele é dono do lugar que você mora e cobra por isso... deus, como que vocês dois estão juntos? Quem pega seu namorado para morar com ele?"
 
 # game/scripts/kali_events.rpy:4473
 translate pt_br kali_unihistory_0d533d71:
 
     # c "I have let her know that she can always stay for free if she isn't able to afford it."
-    c ""
+    c "Ela sabe que se ela algum dia não conseguir pagar, ela pode morar de graça."
 
 # game/scripts/kali_events.rpy:4474
 translate pt_br kali_unihistory_950fcd8f:
 
     # van "Hmph... is that so?"
-    van ""
+    van "Hmph... então é isso?"
 
 # game/scripts/kali_events.rpy:4475
 translate pt_br kali_unihistory_d30b1376:
 
     # k "It is."
-    k ""
+    k "É isso."
 
 # game/scripts/kali_events.rpy:4477
 translate pt_br kali_unihistory_c0ede504:
 
     # van "Okay, whatever... I'll stay out of it."
-    van ""
+    van "Ok, tanto faz... vou ficar fora disso."
 
 # game/scripts/kali_events.rpy:4478
 translate pt_br kali_unihistory_70fb43a4:
 
     # van "...I was in a few toxic relationships, so I know how it goes..."
-    van ""
+    van "...Eu já tive alguns relacionamentos tóxicos, então eu sei como que funciona..."
 
 # game/scripts/kali_events.rpy:4479
 translate pt_br kali_unihistory_b889a4e1:
 
     # kim "Yeah, we can help you weed out the bad ones, heheh!"
-    kim ""
+    kim "É, nós podemos te ajudar a superar as coisas ruins, heheh!"
 
 # game/scripts/kali_events.rpy:4480
 translate pt_br kali_unihistory_7b6614c1:
 
     # c "*ahem*..."
-    c ""
+    c "*ahem*..."
 
 # game/scripts/kali_events.rpy:4482
 translate pt_br kali_unihistory_d6be2e5d:
 
     # k "Ergh, you're making him uncomfortable! Stop judging people before you get to know them...!"
-    k ""
+    k "Ergh, você está deixando ele desconfortável! Pare se julgar as pessoas antes que você as conheça...!"
 
 # game/scripts/kali_events.rpy:4483
 translate pt_br kali_unihistory_f48a05a1:
 
     # van "Okay, okay, sorry..."
-    van ""
+    van "Ok, ok, desculpa..."
 
 # game/scripts/kali_events.rpy:4485
 translate pt_br kali_unihistory_f3f7c1b7:
 
     # k "I'm doing fine by the way, [name]... I'm just finishing some things up..."
-    k ""
+    k "Eu estou bem, [name]... só estou terminando algumas coisas..."
 
 # game/scripts/kali_events.rpy:4487
 translate pt_br kali_unihistory_2a64b042:
 
     # k "Luckily I have these two to help."
-    k ""
+    k "Ainda bem que eu tenho essas duas para me ajudar."
 
 # game/scripts/kali_events.rpy:4488
 translate pt_br kali_unihistory_1705ad73:
 
     # c "Oh, I brought this coffee for you. It might be a bit cold now, but Lin thought you could use some help."
-    c ""
+    c "Oh, eu trouxe esse café para você. Deve estar um pouco frio agora, mas a Lin pensou que você iria precisar."
 
 # game/scripts/kali_events.rpy:4490
 translate pt_br kali_unihistory_4b82245b:
 
     # k "Urgh, coffee...? Cold coffee...? Fuck it, I'll take anything..."
-    k ""
+    k "Urgh, café...? Café frio...? Foda-se, qualquer coisa serve..."
 
 # game/scripts/kali_events.rpy:4492
 translate pt_br kali_unihistory_b20ffb4e:
 
     # k "I really needed this..."
-    k ""
+    k "Eu realmente precisava..."
 
 # game/scripts/kali_events.rpy:4493
 translate pt_br kali_unihistory_17841f96:
 
     # van "Who's Lin?"
-    van ""
+    van "Quem é Lin?"
 
 # game/scripts/kali_events.rpy:4494
 translate pt_br kali_unihistory_a518f0d9:
 
     # k "His sl-"
-    k ""
+    k "É a escra-"
 
 # game/scripts/kali_events.rpy:4496
 translate pt_br kali_unihistory_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4497
 translate pt_br kali_unihistory_570c9183:
 
     # van "Huh?"
-    van ""
+    van "Huh?"
 
 # game/scripts/kali_events.rpy:4498
 translate pt_br kali_unihistory_edda0b64:
 
     # k "The uh... the maid. A butler."
-    k ""
+    k "A uh... a empregada. Um mordomo."
 
 # game/scripts/kali_events.rpy:4499
 translate pt_br kali_unihistory_7142cbf5:
 
     # van "You hesitated..."
-    van ""
+    van "Você hesitou..."
 
 # game/scripts/kali_events.rpy:4500
 translate pt_br kali_unihistory_a7bff7e4:
 
     # kim "She's hiding something!"
-    kim ""
+    kim "Ela está escondendo algo!"
 
 # game/scripts/kali_events.rpy:4501
 translate pt_br kali_unihistory_cffd8fe3:
 
     # van "What are you hiding?"
-    van ""
+    van "Oque você está escondendo?"
 
 # game/scripts/kali_events.rpy:4503
 translate pt_br kali_unihistory_dc676767:
 
     # k "Hmmm? Mmmph... *gulp*..."
-    k ""
+    k "Hmmm? Mmmph... *gulp*..."
 
 # game/scripts/kali_events.rpy:4505
 translate pt_br kali_unihistory_80e2e863:
 
     # van "Kali..." with ssshake
-    van "" with ssshake
+    van "Kali..." with ssshake
 
 # game/scripts/kali_events.rpy:4506
 translate pt_br kali_unihistory_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4507
 translate pt_br kali_unihistory_18f3832a:
 
     # van "Kali, what species is this maid?"
-    van ""
+    van "Kali, que tipo de empregada?"
 
 # game/scripts/kali_events.rpy:4509
 translate pt_br kali_unihistory_118e2c54:
 
     # k "Urghhh..."
-    k ""
+    k "Urghhh..."
 
 # game/scripts/kali_events.rpy:4510
 translate pt_br kali_unihistory_291575c5:
 
     # van "KALI!? ARE YOU FUCKING KIDDING ME!?!?"
-    van ""
+    van "KALI!? VOCÊ TÁ BRINCANDO COMIGO!?!?"
 
 # game/scripts/kali_events.rpy:4512
 translate pt_br kali_unihistory_7a7f5686:
 
     # van "YOU TWO ARE SLAVE OWNERS!? HOW WERE YOU EVEN ALLOWED IN THIS SCHOOL!?" with ssshake
-    van "" with ssshake
+    van "VOCÊS DOIS SÃO ESCRAVAGISTAS!? COMO QUE PERMITIRAM VOCÊ ENTRAR NESSA FACULDADE!?" with ssshake
 
 # game/scripts/kali_events.rpy:4513
 translate pt_br kali_unihistory_ba5ef5cc:
 
     # k "URGH! WILL YOU SHUT UP!?"
-    k ""
+    k "URGH! PODE CALAR A BOCA!?"
 
 # game/scripts/kali_events.rpy:4514
 translate pt_br kali_unihistory_a579d34b:
 
     # kim "Don't be so loud, Nessy!"
-    kim ""
+    kim "Não fale tão alto, Nessy!"
 
 # game/scripts/kali_events.rpy:4516
 translate pt_br kali_unihistory_63f36d4a:
 
     # k "We didn't buy her! He inherited her along with the hotel, and she happens to really love being there. So shut the fuck up!"
-    k ""
+    k "Nós não a compramos! Ele herdou ela junto com o hotel, e ela meio que gosta de estar lá. Então cala a boca!"
 
 # game/scripts/kali_events.rpy:4518
 translate pt_br kali_unihistory_9b76d903:
 
     # van "Oh."
-    van ""
+    van "Oh."
 
 # game/scripts/kali_events.rpy:4519
 translate pt_br kali_unihistory_4341c5c1:
 
     # k "Godddd... would you listen before you shout into everyone's ears?"
-    k ""
+    k "Meu deusss... você pode escutar antes de gritar no ouvido de todo mundo?"
 
 # game/scripts/kali_events.rpy:4521
 translate pt_br kali_unihistory_2553f6bf:
