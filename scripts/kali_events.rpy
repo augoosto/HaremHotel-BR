@@ -16816,25 +16816,25 @@ translate pt_br kali_unihistory_9b76d903:
 translate pt_br kali_unihistory_4341c5c1:
 
     # k "Godddd... would you listen before you shout into everyone's ears?"
-    k "Meu deusss... você pode escutar antes de gritar no ouvido de todo mundo?"
+    k "Meu deusss... você pode escutar antes de sair gritando no ouvido de todo mundo?"
 
 # game/scripts/kali_events.rpy:4521
 translate pt_br kali_unihistory_2553f6bf:
 
     # van "I don't see how that's much better though. A slaver is a slaver, any way you put it, and she could just be saying she's happy so you don't beat her..."
-    van ""
+    van "Mas eu ainda não vejo isso de um jeito melhor. Um escravagista é um escravagista, qualquer seja o jeito que você coloca, e ela poderia dizer que está feliz só para você não punir ela..."
 
 # game/scripts/kali_events.rpy:4522
 translate pt_br kali_unihistory_b48e7d6a:
 
     # k "Yeah, well, blame the system, not us. At least he's been able to give her a happy life so far."
-    k ""
+    k "É, bem, culpe o sistema, não nós. Pelo menos ele conseguiu dar a ela uma vida feliz."
 
 # game/scripts/kali_events.rpy:4524
 translate pt_br kali_unihistory_8ae1af8e:
 
     # van "I like the way you think... but we would be the judge of that, right Kim?"
-    van ""
+    van "Eu gosto do jeito que você pensa... mas nós poderíamos ser as juízes disso, né, Kim?"
 
 # game/scripts/kali_events.rpy:4525
 translate pt_br kali_unihistory_71fae776:
@@ -16846,283 +16846,283 @@ translate pt_br kali_unihistory_71fae776:
 translate pt_br kali_unihistory_0a5103ec:
 
     # k "Weren't you two helping me with my test? I don't know if have time for this..."
-    k ""
+    k "Vocês duas não estavam me ajudando com o teste? Eu não sei se eu tenho tempo pra isso..."
 
 # game/scripts/kali_events.rpy:4527
 translate pt_br kali_unihistory_7231ca19:
 
     # van "Sorry, but you need a different kind of education right now. You and your boyfriend..."
-    van ""
+    van "Desculpe, mas você precisa de um tipo diferente de educação agora. Você e seu namorado..."
 
 # game/scripts/kali_events.rpy:4529
 translate pt_br kali_unihistory_19e83135:
 
     # van "I know someone, she's been a good friend. Her other major is in Sylvian history. If you're going to own one of them like a dog, then you're going to learn of their beautiful and tragic history."
-    van ""
+    van "Eu conheço uma pessoa, ela é uma boa amiga. A especialização dela é sobre a história de Sylvian. Se você vai mantê-los como um cachorro, então você vai ouvir a linda e trágica história deles."
 
 # game/scripts/kali_events.rpy:4530
 translate pt_br kali_unihistory_f6d72354:
 
     # van "For example, did you know our currency, the 'Syl', just means 'Elf' in elvish? It's as if we're trading elves whether we like it not..."
-    van ""
+    van "Por exemplo, você sabia que a nossa moeda, o 'Syl', significa 'Elfo' em élfico? É como se nós estivessemos trocando elfos o tempo todo, quer gostemos ou não..."
 
 # game/scripts/kali_events.rpy:4531
 translate pt_br kali_unihistory_b6083e07:
 
     # k "Wait, really? That's where the word comes from?"
-    k ""
+    k "Espera, sério? E daí que a palavra vem?"
 
 # game/scripts/kali_events.rpy:4533
 translate pt_br kali_unihistory_95c134ea:
 
     # kim "Come on, Kali! It's really interesting! Did you know dark elves built pyramids before they discovered the bow? That's so cool!"
-    kim ""
+    kim "Qual é, Kali! É realmente interessante! Você sabia que os Elfos Negros construiram pirâmides antes deles descobrirem  o arco? Isso é muito legal!"
 
 # game/scripts/kali_events.rpy:4534
 translate pt_br kali_unihistory_dcd86e92:
 
     # k "Oh?"
-    k ""
+    k "Oh?"
 
 # game/scripts/kali_events.rpy:4535
 translate pt_br kali_unihistory_e5a411d6:
 
     # kim "You're interested, right? Heheh!"
-    kim ""
+    kim "Você está interessada, né? Heheh!"
 
 # game/scripts/kali_events.rpy:4537
 translate pt_br kali_unihistory_9027746c:
 
     # k "Fine, I guess that's kind of interesting... but you're going to help me on the rest of this test."
-    k ""
+    k "Ok, eu acho que é meio interessante... mas você vai me ajudar no resto desse teste."
 
 # game/scripts/kali_events.rpy:4538
 translate pt_br kali_unihistory_9d7516f1:
 
     # van "Deal!"
-    van ""
+    van "Trato feito!"
 
 # game/scripts/kali_events.rpy:4539
 translate pt_br kali_unihistory_50ee0751:
 
     # k "And I'm taking my boyfriend."
-    k ""
+    k "E eu vou levar meu namorado."
 
 # game/scripts/kali_events.rpy:4540
 translate pt_br kali_unihistory_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Huh?"
 
 # game/scripts/kali_events.rpy:4541
 translate pt_br kali_unihistory_7d916abf:
 
     # van "If you want to tag along, you're welcome to! You might get really bored though, there's a lot to learn!"
-    van ""
+    van "Se você quiser trazê-lo, você é bem vindo também! Mas você pode acabar ficando entediado, tem muito a se aprender!"
 
 # game/scripts/kali_events.rpy:4544
 translate pt_br kali_unihistory_f635e034:
 
     # van "Okay, follow me..."
-    van ""
+    van "Ok, me siga..."
 
 # game/scripts/kali_events.rpy:4546
 translate pt_br kali_unihistory_02e56ce1:
 
     # van "Hey Nala! Our friends could use some help."
-    van ""
+    van "Ei Nala! Nossos amigos precisam de ajuda."
 
 # game/scripts/kali_events.rpy:4548
 translate pt_br kali_unihistory_1e55e719:
 
     # nala "Oh, hello!"
-    nala ""
+    nala "Oh, olá!"
 
 # game/scripts/kali_events.rpy:4550
 translate pt_br kali_unihistory_bc3f73c7:
 
     # nala "Tough stuff, huh?"
-    nala ""
+    nala "Coisa difícil, huh?"
 
 # game/scripts/kali_events.rpy:4551
 translate pt_br kali_unihistory_44cee867:
 
     # van "Yeah... Hey, so it turns out these two own a slave... and I tought they could really use your help understanding why that's so bad... since you major in history and all."
-    van ""
+    van "Isso... ei, então, esses dois tem um escravo... e eu pensei que você poderia explicar para eles por que isso é ruim... já que você conhece bastante da história e tudo isso."
 
 # game/scripts/kali_events.rpy:4552
 translate pt_br kali_unihistory_c0fa5740:
 
     # k "Are you going to tell everyone...?"
-    k ""
+    k "Você vai contar para todo mundo...?"
 
 # game/scripts/kali_events.rpy:4554
 translate pt_br kali_unihistory_888b239f:
 
     # nala "Oh no... that's not good..."
-    nala ""
+    nala "Oh não... isso não é bom..."
 
 # game/scripts/kali_events.rpy:4555
 translate pt_br kali_unihistory_12845b63:
 
     # van "Think you could help me?"
-    van ""
+    van "Acha que pode me ajudar?"
 
 # game/scripts/kali_events.rpy:4557
 translate pt_br kali_unihistory_64efcc3d:
 
     # nala "Sure, I would love to! I basically live in the library nowadays... whenever our comp-sci teacher isn't overburdening us with work anyway... Follow me!"
-    nala ""
+    nala "Claro, eu iria adorar! Eu basicamente moro na livraria hoje em dia... quer dizer, quando nosso professor não está nos enchendo com trabalho... me siga!"
 
 # game/scripts/kali_events.rpy:4559
 translate pt_br kali_unihistory_cd64b9ab:
 
     # "The four of you follow Nala throughout the university."
-    ""
+    "Vocês quatro seguem a Nala pela universidade."
 
 # game/scripts/kali_events.rpy:4560
 translate pt_br kali_unihistory_5b87c52a:
 
     # "As you make your way to the library, you're able to take in the full scope of the university. It really is quite impressive. The ornate detail on every building make it very obvious that this university is of high prestige, and quite old. You're able to make a good guess that this place was built soon after Syl'anar was founded."
-    ""
+    "No caminho pela livraria, você consegue ter uma boa idéia do tamanho da universidade. É realmente impressionante. Os ornamentos detalhados de cada estrutura deixa óbvio o alto prestígio da universidade, e antiga. Você poderia dizer que a universidade foi construida após a fundação de Syl'anar."
 
 # game/scripts/kali_events.rpy:4561
 translate pt_br kali_unihistory_0cb24573:
 
     # "It's not long before the library, with it's tall spires, is in view. It stands out from the other buildings, it's obviously out of place here. It seems older than everything around it..."
-    ""
+    "Não demora muito para chegar a livraria, com suas altas torres, em vista. Ela se destaca das outras construções, claramente deslocada. Se parece mais velha que qualquer outro lugar ao redor..."
 
 # game/scripts/kali_events.rpy:4563
 translate pt_br kali_unihistory_51dd13f9:
 
     # k "This place looks ancient..."
-    k ""
+    k "Esse lugar parece antigo..."
 
 # game/scripts/kali_events.rpy:4564
 translate pt_br kali_unihistory_0fcf7092:
 
     # nala "It is! This is one of the first buildings ever built in Caliber! It was to be a shining beacon of knowledge at furthest reaches of the known world. Now it's a normal old library!"
-    nala ""
+    nala "E é! Essa é uma das primeiras construções feitas em Caliber! Era para ser um farol de conhecimento nos confins do mundo que nós conhecemos. Agora é uma livraria velha normal!"
 
 # game/scripts/kali_events.rpy:4565
 translate pt_br kali_unihistory_3dabfd2d:
 
     # k "Cool..."
-    k ""
+    k "Legal..."
 
 # game/scripts/kali_events.rpy:4566
 translate pt_br kali_unihistory_c02f4a78:
 
     # van "Learning things already, Kali."
-    van ""
+    van "Já está aprendendo coisas, Kali."
 
 # game/scripts/kali_events.rpy:4567
 translate pt_br kali_unihistory_8d1df1a0:
 
     # k "Sure... grab a seat by me, [name]."
-    k ""
+    k "Claro... sente-se ao meu lado,[name]."
 
 # game/scripts/kali_events.rpy:4569
 translate pt_br kali_unihistory_dc29e19e:
 
     # van "You're going to have so much fun! This stuff is really cool, I promise!"
-    van ""
+    van "Você vai se divertir tanto! Essas coisas são bem legais, eu prometo!"
 
 # game/scripts/kali_events.rpy:4570
 translate pt_br kali_unihistory_659e4e89:
 
     # k "Dude, it's history..."
-    k ""
+    k "Cara, é história..."
 
 # game/scripts/kali_events.rpy:4571
 translate pt_br kali_unihistory_eaad9d44:
 
     # van "History is fucking awesome!"
-    van ""
+    van "História é foda pra caralho!"
 
 # game/scripts/kali_events.rpy:4573
 translate pt_br kali_unihistory_c0f4415d:
 
     # nala "Okay! Let's start with Arthur Longspear's diary! One of the most important historical artifacts we have to study. Arthur Longspear was a biologist, scribe, historian, herbalist, and much more. He was a very learned man."
-    nala ""
+    nala "Ok! Vamos começar com o diário de Arthur Longspear! Um dos mais importantes artefatos históricos que temos que estudar. Arthur Longspear foi um biólogo, escriba, historiador, herbalista, e muito mais. Ele era um homem muito conhecido."
 
 # game/scripts/kali_events.rpy:4574
 translate pt_br kali_unihistory_0ff5e481:
 
     # nala "He was sent by his Emperor with a small legion of crusaders to the mysterious lands not yet known as Syl'anar to gather information that may aid in colonization."
-    nala ""
+    nala "Ele foi mandado pelo seu imperador com uma pequena legião de cruzados para as ilhas misteriosas ainda não conhecida como Syl'anar, para conseguir informação que pudesse ajudar para as colonizações."
 
 # game/scripts/kali_events.rpy:4576
 translate pt_br kali_unihistory_fcfb5d98:
 
     # nala "His reports, while not completely accurate, were still ahead of his time. He studied elves in great depth!"
-    nala ""
+    nala "Os relatórios dele, mesmo que não completamente precisos, ainda eram a frente de seu tempo. Ele estudou a fundo sobre elfos!"
 
 # game/scripts/kali_events.rpy:4578
 translate pt_br kali_unihistory_53e9470d:
 
     # nala "Elves have an accelerated growth spurt at the early stages of life, slowing dramatically at roughly fifty cycles around the sun... and strangely, while all elves appear to outlive humans by at least 6 life times, each subspecies has a different biological clock entirely, with the 'common elf' to appear to live the longest."
-    nala ""
+    nala "Elfos tem uma taxa de crescimento acelerada nos estados iniciais da vida, diminuindo drasticamento há cinquenta ciclos ao redor do sol... e estranhamente, enquanto todos os elfos pareciam sobreviver ao menos 6 vidas humanas, cada subspécie tem um relógio biológico diferente, com o 'elfo comum' para parecer viver por mais tempo."
 
 # game/scripts/kali_events.rpy:4580
 translate pt_br kali_unihistory_9c9f6bb3:
 
     # nala "Now we know that common elves and desert elves live about the same length, both very long. While dark elves live shorter lives, and drow even shorter still."
-    nala ""
+    nala "Agora nós sabemos que elfos comund e elfos do deserto tem a mesma espectativa de vida, ambos bem grandes. Enquanto elfos negros vivem menos, e os drow ainda menor."
 
 # game/scripts/kali_events.rpy:4582
 translate pt_br kali_unihistory_e5fa6974:
 
     # k "How is this history? This sounds more like biology..."
-    k ""
+    k "Como isso é história? Parece mais com biologia..."
 
 # game/scripts/kali_events.rpy:4583
 translate pt_br kali_unihistory_d028a51b:
 
     # van "It's in the book!"
-    van ""
+    van "É oque está no livro!"
 
 # game/scripts/kali_events.rpy:4584
 translate pt_br kali_unihistory_1f0523cc:
 
     # k "And...?"
-    k ""
+    k "E...?"
 
 # game/scripts/kali_events.rpy:4585
 translate pt_br kali_unihistory_97447566:
 
     # van "It's the oldest biological study on elves! Just listen..."
-    van ""
+    van "E o estudo biológico de elfos mais antigo! Só presta atenção..."
 
 # game/scripts/kali_events.rpy:4587
 translate pt_br kali_unihistory_dd2a11f1:
 
     # nala "You want history? Here's history..."
-    nala ""
+    nala "Você quer história? Então aqui vai história..."
 
 # game/scripts/kali_events.rpy:4589
 translate pt_br kali_unihistory_64293165:
 
     # nala "Dark Elves have been studied covering themselves in a tar-like subtance. At the time, it was questioned if they had even discovered fire, as torching an arrow set them ablaze regardless of where you shot them."
-    nala ""
+    nala "Os elfos negros foram estudados se cobrindo com uma substância semelhante ao alcatrão. Na época, foi questionado se eles haviam descoberto o fogo, já que o lançamento de uma flecha os incendiava, independentemente de onde a flecha fosse disparada."
 
 # game/scripts/kali_events.rpy:4591
 translate pt_br kali_unihistory_6d10ee94:
 
     # nala "Later it was discovered that fire was indeed apart of their daily lives, but they had never considered fire being shot from a distance."
-    nala ""
+    nala "Mais tarde, foi descoberto que o fogo de fato que o fogo fazia parte da vida deles, mas eles nunca consideraram atirar fogo à distância."
 
 # game/scripts/kali_events.rpy:4592
 translate pt_br kali_unihistory_088fe786:
 
     # k "If only they weren't so stupid..."
-    k ""
+    k "Se ao menos eles não fossem tão estúpidos..."
 
 # game/scripts/kali_events.rpy:4593
 translate pt_br kali_unihistory_5823b91d:
 
     # nala "Stupid!? Just listen... these are the words of Arthur Longspear himself..."
-    nala ""
+    nala "Estúpidos!? Só escuta... essas são as palavras do próprio Arthur Longspear..."
 
 # game/scripts/kali_events.rpy:4595
 translate pt_br kali_unihistory_85d034b5:
