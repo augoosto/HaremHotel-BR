@@ -17128,55 +17128,55 @@ translate pt_br kali_unihistory_5823b91d:
 translate pt_br kali_unihistory_85d034b5:
 
     # nala "The armor they wore consisted of leather pelts, and their weapon of choice was the spear. They fought smart, using the night as cover and their unique eyes as an advantage. They would attack, then retreat as soon as one in their group was injured."
-    nala ""
+    nala "A armudura que eles usavam consistia de placas de couro, e as armas eram lanças. Eles eram espertos em batalha, usando a noite para se esconder juto com suas técnicas únicas. Eles atacavam, e se retiravam assim que alguém do grupo fosse machucado."
 
 # game/scripts/kali_events.rpy:4596
 translate pt_br kali_unihistory_dcddfc18:
 
     # nala "They showed great compassion to their own, yet were relentless against humans. They would attack us almost every night we were stationed on the front lines."
-    nala ""
+    nala "Eles demonstram grande compaixão entre si, mas ainda implacáveis contra os humanos. Eles nos atacavam quase toda noite que estavam nas linhas de frente."
 
 # game/scripts/kali_events.rpy:4597
 translate pt_br kali_unihistory_a7ae5f15:
 
     # nala "One mention by Arthur says... Even when we expected them to attack, even when we were all prepared and a dozen men were on lookout duty, their guerrilla tactics often left us with more casualties each day than they had injured."
-    nala ""
+    nala "Uma menção do Arthur diz... Mesmo quando esperávamos o ataque deles, mesmo quando estavámos preparados e uma dúzia de homens estava de vigia, as táticas de guerrilha deles nos deixava com mais casualidades a cada dia, mais do que machucados."
 
 # game/scripts/kali_events.rpy:4598
 translate pt_br kali_unihistory_d3de8fea:
 
     # nala "Men in mail and plate stood no chance to a well placed spear in the openings of our armor, or poisoned breakfast. They knew which plants were good to eat, and we did not."
-    nala ""
+    nala "Homens de placa de aço não tiveram chances contra uma lança bem manuseada nas aberturas da armadura, ou cafés da manhã envenenados. Ele sabiam quais plantas eram boas para se comer, e nós não."
 
 # game/scripts/kali_events.rpy:4600
 translate pt_br kali_unihistory_b6cd1479:
 
     # k "Holy shit, they were able to take on humans with vastly better technology that well?"
-    k ""
+    k "Puta merda, eles conseguiram derrotar os humanos com uma tecnologia muito melhor?"
 
 # game/scripts/kali_events.rpy:4601
 translate pt_br kali_unihistory_9ec72e3a:
 
     # nala "According to Arthur Longspear, this was their preferred way of fighting. They didn't stand a chance when the humans came to destroy their unfortified homes, rape their women, and murder their people while they slept. Village by village, farm by farm..."
-    nala ""
+    nala "De acordo com Arthur Longspear, essa era o jeito preferido deles lutarem. Eles não tiveram chnace quando os humanos vieram destruir suas casas não fortificadas, estuprar as mulheres, e assasinar as pessoas em quanto dormiam. Vila por vila, fazenda por fazenda..."
 
 # game/scripts/kali_events.rpy:4602
 translate pt_br kali_unihistory_0d0bb8ca:
 
     # k "Yikes..."
-    k ""
+    k "Yikes..."
 
 # game/scripts/kali_events.rpy:4604
 translate pt_br kali_unihistory_070c1ce6:
 
     # nala "Somewhere in here it mentions that there were mass migrations of dark elves after the rapings that headed west, which brought disease and famine accross the continent."
-    nala ""
+    nala "Em algum lugar aqui menciona a vasta migração de elfos negros após os estupros, que foram para o oeste, o que trouxe doenças e fome pelo continente."
 
 # game/scripts/kali_events.rpy:4606
 translate pt_br kali_unihistory_2c73d35d:
 
     # kim "Get to the pyramids!"
-    kim ""
+    kim "Fala das pirâmides!"
 
 # game/scripts/kali_events.rpy:4607
 translate pt_br kali_unihistory_0cac7630:
@@ -17188,241 +17188,241 @@ translate pt_br kali_unihistory_0cac7630:
 translate pt_br kali_unihistory_7e32bcf9:
 
     # nala "Arthur writes the capital city of Sylve'tindi, colloquially known as Syl'tin, houses seven total pyramids. Six circling the largest in the center which rises to 162 meters! These pyramid served as housing for the upper classes, and gathering locations for social events."
-    nala ""
+    nala "Arthur nomeia a capital a capital como Sylve'tindi, colonialmente conhecida como Syl'tin, casas, sete pirâmides. seis circulando a maior no centro, que pode chegar a 162 metros! Essas pirâmides serviram como casa para a classse alta, e lugares para eventos sociais."
 
 # game/scripts/kali_events.rpy:4610
 translate pt_br kali_unihistory_85fb5477:
 
     # nala "These pyramids were not made of normal stone carved from the earth, however. They were made of a clay-like material they would somehow harden to stone over time."
-    nala ""
+    nala "Essas pirâmides não eram feitas de pedras cavadas da terra, contudo. Elas eram feitas de um material parecido com argila, que eles de alguma forma enrijeciam com o tempo."
 
 # game/scripts/kali_events.rpy:4612
 translate pt_br kali_unihistory_22996773:
 
     # nala "We still don't know how they did it! We couldn't replicate their stone making even with our current technology. And as you know, five pyramids are still standing. They're one of our world's greatest wonders!"
-    nala ""
+    nala "Nós ainda não sabemos como eles fizeram isso! Não conseguimos replicar a fabricação de pedra deles, mesmo com a nossa tecnologia atual. E como você sabe, as cinco pirâmides continuam de pé. Elas são umas das maravilhas do mundo moderno!"
 
 # game/scripts/kali_events.rpy:4613
 translate pt_br kali_unihistory_e8b6bc27:
 
     # k "That is pretty cool..."
-    k ""
+    k "Isso é bem legal..."
 
 # game/scripts/kali_events.rpy:4614
 translate pt_br kali_unihistory_b587d0df:
 
     # nala "It's really cool! Considering they never even discovered metal working on their own."
-    nala ""
+    nala "É muito legal! Considerando que eles nunca descobriram como utilizar ferro sozinhos."
 
 # game/scripts/kali_events.rpy:4616
 translate pt_br kali_unihistory_69a6bffa:
 
     # nala "Arthur also writes the dark elf's king was kind to their people, made sure no one was starving, not even the old. And was even able to maintain multiple trade routes and aqueducts through the mountains, rivers, and deadly flora that makes up their harsh jungles."
-    nala ""
+    nala "Arthur também escreveu que o rei dos elfos negros era uma pessoa do povo, tinha certeza de que ninguém estava passando fome, nem mesmo os idosos. E ainda conseguiu estabelecer várias rotas de comércio e arquedutos através das montanhas, rios e a mortal flora que constitua de suas duras selvas."
 
 # game/scripts/kali_events.rpy:4617
 translate pt_br kali_unihistory_db302809:
 
     # nala "Dark elves are even believed to be the 'Sea Devils' spoken of in ancient myths, it seems they had the ability to build longboats durable enough to reach humans before we ever officially found them. In recent decades, dark elvish remains buried in the ground of many islands and shores long inhabited by humans have been found, which confirms this theory."
-    nala ""
+    nala "Elfos negros são conhecido como os 'Demônios do Mar', já falando de mitos antigos, quer dizer que eles tinham as habilidades para construir grandes e duráveis barcos, o bastante para chegar aos humanos antes que agente os encontrasse. Nas décadas recentes, os restos de elfos negros continuam enterrados em várias ilhas inabitas por humanos, oque confirma essa teoria."
 
 # game/scripts/kali_events.rpy:4618
 translate pt_br kali_unihistory_b9a77a04:
 
     # k "I guess that's cool."
-    k ""
+    k "Eu acho isso legal."
 
 # game/scripts/kali_events.rpy:4620
 translate pt_br kali_unihistory_739d83a5:
 
     # van "Yeah it's fuckin' cool! Those roads were impressive to even the humans! And remember, they did all of this without ever discovering metal working!"
-    van ""
+    van "Sim, é legal pra caralho! Aquelas ruas eram impressionantes até mesmo para humanos! E lembre-se, ele fizeram tudo isso sem nem mesmo descobrir como trabalhar com ferro!"
 
 # game/scripts/kali_events.rpy:4621
 translate pt_br kali_unihistory_ce599039:
 
     # van "Humans love to think they're superior to elves, but elves showed they had an AMAZING understanding of the world around them! They could take advantage and make near full use out of almost every part of their environment! So much better than humans historically ever have!"
-    van ""
+    van "Humanos amam pensar que eles são superiores aos elfos, mas os elfos mostraram que eles tinham um INCRÍVEL entendimento do mundo ao redor deles! Eles podiam tirar vantagem e fazer uso da maior parte de seus arredores! Muito melhor que os humanos históricamente conseguiam!"
 
 # game/scripts/kali_events.rpy:4622
 translate pt_br kali_unihistory_061849fd:
 
     # van "Then came humans... you know how it goes."
-    van ""
+    van "Então chegaram os humano... você sabe no que deu."
 
 # game/scripts/kali_events.rpy:4623
 translate pt_br kali_unihistory_df622e08:
 
     # k "Clearly they weren't able to make use of everything if they couldn't figure out how to make metals..."
-    k ""
+    k "Claro que eles não conseguiriam fazer uso de tudo se eles não conseguirem descobrir como fazer metais..."
 
 # game/scripts/kali_events.rpy:4625
 translate pt_br kali_unihistory_9bb0f7a4:
 
     # nala "They never had to! They're not expansionists like humans, they traded in labor and services, and there were plenty of resources to go around. War seems incredibly rare in elvish history, at least compared to human history."
-    nala ""
+    nala "Eles nunca precisaram! Eles não são expansionistas como os humanos, ele comercializavam mão de obra e serviços, e havia vários recursos aos redores. Guerra era extremamente raro na história élfica, ao menos comparado a história humana."
 
 # game/scripts/kali_events.rpy:4627
 translate pt_br kali_unihistory_810607dc:
 
     # nala "And these are just the dark elves! There are common elves, drow, and even desert elves all with their completely unique history and cultures! There are even mentions of large groups of albino elves with their own culture!"
-    nala ""
+    nala "E esses são apenas os elfos negros! Há ainda elfos comuns, drow, e elfos do deserto. Todos com suas únicas histórias e culturas! Há ainda menções de grupos de elfos albinos com sua própria cultura!"
 
 # game/scripts/kali_events.rpy:4628
 translate pt_br kali_unihistory_f393f554:
 
     # k "All of this is interesting and all, but I don't know why I should care so much..."
-    k ""
+    k "Isso tudo é interessante e tudo mais, mas eu não sei porque eu deveria ligar..."
 
 # game/scripts/kali_events.rpy:4630
 translate pt_br kali_unihistory_9053de4c:
 
     # van "You should care! Because those are living breathing PEOPLE you and your father are owning like property! And a lot of those PEOPLE are still alive to remember a time before humans!"
-    van ""
+    van "Você deve ligar! Porque essas são PESSOAS vivas, você e seu pai tem propriedades semelhantes! E várias daquelas PESSOAS continuam vivas e se lembram de um tempo muito anterior aos humanos!"
 
 # game/scripts/kali_events.rpy:4631
 translate pt_br kali_unihistory_2aabf98e:
 
     # k "Yeah, I get it, elves are people too... I'm on your side, I think it would be great if elves were free."
-    k ""
+    k "Sim, eu entendi, elfos são pessoas também... eu estou do seu lado, eu acho que seria bom se os elfos fossem libertados."
 
 # game/scripts/kali_events.rpy:4632
 translate pt_br kali_unihistory_a3a9baee:
 
     # van "Then why do you contribute to that system? Why do you let your father do so much harm!?"
-    van ""
+    van "Então por que você contrubui para aquele sistema? Porque você deixa seu pai fazer tanto mal!?"
 
 # game/scripts/kali_events.rpy:4633
 translate pt_br kali_unihistory_350aae24:
 
     # k "I was born in the same world you were, my dad was just able to use the system to profit off of it..."
-    k ""
+    k "Eu nasci no mesmo mundo que você, meu pai só se aproveitou do sistema para ganhar em cima..."
 
 # game/scripts/kali_events.rpy:4634
 translate pt_br kali_unihistory_91ef80c0:
 
     # van "No, Kali! That's the problem! None of us are born in the same worlds! Especially not the elves!"
-    van ""
+    van "Não, Kali! Esse é o problema! Nenhum de nós nasceu no mesmo mundo! Especialmente com os elfos!"
 
 # game/scripts/kali_events.rpy:4635
 translate pt_br kali_unihistory_3a5cafdb:
 
     # k "I'm sorry...?"
-    k ""
+    k "Como...?"
 
 # game/scripts/kali_events.rpy:4636
 translate pt_br kali_unihistory_2a00d9bd:
 
     # van "You were born in a world of wealth and privilege! An elf is born into a world of poverty, discrimination, and slavery!"
-    van ""
+    van "Você nasceu em um mundo de fortuna e privilégios! Um elfo nasce em um mundo de pobreza, descriminação, e escravismo!"
 
 # game/scripts/kali_events.rpy:4637
 translate pt_br kali_unihistory_9829bd18:
 
     # k "Yeah, and my father was also born into poverty. He's a self made man."
-    k ""
+    k "Sim, e meu pai também nasceu em um mundo de pobreza. Ele é um homem independente."
 
 # game/scripts/kali_events.rpy:4638
 translate pt_br kali_unihistory_630d90ec:
 
     # van "No one gets that rich by themselves! He only got so rich by stepping over others like those elves! Or the humans he overworks and doesn't give enough benefits to for the sake of profit! And you have to admit there was no way an elf could do what your father has done in this society, that much is obvious."
-    van ""
+    van "Ninguém fica rico sozinho! Ele só ficou rico por pisar nos outro como aqueles elfos! Ou os humanos que ele emprega e não dá benefícios o bastante em prol do lucro! E você tem que admitir que não tem como um elfo fazer oque o seu pai fez na sociedade, isso é óbvio."
 
 # game/scripts/kali_events.rpy:4639
 translate pt_br kali_unihistory_23fc7c47:
 
     # van "You and your father ARE the system! The only way we're going to give elves a fair shot is by treating them like they're already free and equal! Lawfully, and culturally!"
-    van ""
+    van "E o seu pai É o sistema! A única forma de darmos os elfos um tiro de esperança é tratando eles como se eles já estivessem livres e fossemos iguais! Juridícamente, e culturalmente!"
 
 # game/scripts/kali_events.rpy:4640
 translate pt_br kali_unihistory_cc2dc1cc:
 
     # k "Okay, well we're obviously not going to throw our friend out to the world and let her live on her own. Someone else would pick her up and enslave her, so she's better off with us."
-    k ""
+    k "Ok, bem. Nós ovbviamente não vamos jogar nossos amigos no mundo e deixá-los viver sozinhos. Alguém iria escravizá-la, então ela está melhor conosco."
 
 # game/scripts/kali_events.rpy:4642
 translate pt_br kali_unihistory_b3269c04:
 
     # van "Yes, that's true... if you're good people. But all masters are bad. The very nature of being a master itself is bad. You could be a good person, but you could never be a good master..."
-    van ""
+    van "Sim, isso é verdade... se vocês são boas pessoas. Mas todos os mestres são ruins. A natureza de ser um mestre é ser ruim. Você pode ser uma boa pessoa, mas você não pode ser um bom mestre..."
 
 # game/scripts/kali_events.rpy:4643
 translate pt_br kali_unihistory_5467973b:
 
     # van "Listen... I just need you to understand that everyone has a part to play in this... it's a movement. If we're going to change the world, everyone needs to understand how they can help."
-    van ""
+    van "Escuta... eu só preciso que você entenda que todo mundo tem uma parte nisso... é um movimento. Se nós vamos mudar o mundo, todo mundo precisa entender como podem ajudar."
 
 # game/scripts/kali_events.rpy:4645
 translate pt_br kali_unihistory_5ff39f0e:
 
     # van "Fortunately for you, you're in a pretty good position to make some real change! Your father is the mayor of The Capitol now, I'm sure you could influence him."
-    van ""
+    van "Felizmente para você, você está em uma posição de fazer mudanças de verdade! Seu pai é o prefeito da Capitol agora, eu tenho certeza que você influenciá-lo."
 
 # game/scripts/kali_events.rpy:4647
 translate pt_br kali_unihistory_9c1c0b47:
 
     # nala "Wait, you're THE Trenero's daughter!?"
-    nala ""
+    nala "Espera, você é A filha do Trenero!?"
 
 # game/scripts/kali_events.rpy:4648
 translate pt_br kali_unihistory_7d939157:
 
     # van "Yeah, keep up slow poke."
-    van ""
+    van "Sim, continua com a pressão."
 
 # game/scripts/kali_events.rpy:4649
 translate pt_br kali_unihistory_b1f8e7a3:
 
     # nala "Wha..."
-    nala ""
+    nala "Que..."
 
 # game/scripts/kali_events.rpy:4651
 translate pt_br kali_unihistory_75f24258:
 
     # van "But the way it's looking now... there are already slaves in his city. Soon it's going to be every other major city in that country, then the continent. Then widespread elvish slavery across the world. Billions upon billions of innocent souls enslaved, and for what? Your morning coffee?"
-    van ""
+    van "Mas pelo que parece agora... já tem escravos na cidade dele. Logo vai estar em outra grande cidade do país, então no continente. E aí, espalhar o escravagismo pelo mundo. Bilhões e bilhões de almas ecravizadas, e pelo que? Pelo seu café da manhã?"
 
 # game/scripts/kali_events.rpy:4653
 translate pt_br kali_unihistory_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4654
 translate pt_br kali_unihistory_8c563e3e:
 
     # k "*sigh*..."
-    k ""
+    k "*suspiro*..."
 
 # game/scripts/kali_events.rpy:4656
 translate pt_br kali_unihistory_c0b59f76:
 
     # van "And I really hate to bring it up, but the fact of the matter is, this has already put you and your father's lives in danger, hasn't it? Your father was nearly assassinated soon before he brought those elves to The Capitol."
-    van ""
+    van "E eu odeio ter que dizer isso, mas o que importa é que isso já colocou a vida do seu pai em risco, não é? Seu pai quase foi assasinado assim que ele trouxe aqueles elfos para a Capitol."
 
 # game/scripts/kali_events.rpy:4657
 translate pt_br kali_unihistory_f5960ba6:
 
     # k "*deep exhale*... yeah, I guess it has put our family in danger..."
-    k ""
+    k "*respiração funda*... sim, eu acho que isso colocou nossa família em perigo..."
 
 # game/scripts/kali_events.rpy:4659
 translate pt_br kali_unihistory_fc3ce8a7:
 
     # van "Speaking of which, Kali? Why did he buy those slaves?"
-    van ""
+    van "Falando nisso, Kali? Por que ele comprou aqueles escravos?"
 
 # game/scripts/kali_events.rpy:4660
 translate pt_br kali_unihistory_308b5409:
 
     # van "They really tried keeping it a secret, didn't they? But it was leaked... then it was all over the news. 'First elves to live outside of Syl'anar!' And why?"
-    van ""
+    van "Eles realmente tentaram manter segredo, não é? Mas vazou... então estava em todas as notícias. 'Primeiros elfos a viverem fora de Syl'anar!' E por que?"
 
 # game/scripts/kali_events.rpy:4662
 translate pt_br kali_unihistory_cb0498c7:
 
     # van "BECAUSE SOMEONE FUCKING BOUGHT THEM!?" with ssshake
-    van "" with ssshake
+    van "PORQUE ALGUÉM OS COMPRARIA!?" with ssshake
 
 # game/scripts/kali_events.rpy:4664
 translate pt_br kali_unihistory_77d25e60:
