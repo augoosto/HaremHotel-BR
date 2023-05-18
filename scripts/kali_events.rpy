@@ -17428,181 +17428,181 @@ translate pt_br kali_unihistory_cb0498c7:
 translate pt_br kali_unihistory_77d25e60:
 
     # van "Fuck! It pisses me off so much..."
-    van ""
+    van "Porra! Isso me deixa tão puta..."
 
 # game/scripts/kali_events.rpy:4666
 translate pt_br kali_unihistory_6bcf04ab:
 
     # van "But why did he buy them, Kali? How is he planning on making money off of them this time?"
-    van ""
+    van "Mas por que eles foram comprados, Kali? Como ele está planejando fazer dinheiro em cima deles dessa vez?"
 
 # game/scripts/kali_events.rpy:4668
 translate pt_br kali_unihistory_eb9e603f:
 
     # van "IS HE GOING TO SELL THEIR FUCKING ORGANS!?" with ssshake
-    van "" with ssshake
+    van "ELE VAI VENDER OS ÓRGÃOS DELES!?" with ssshake
 
 # game/scripts/kali_events.rpy:4670
 translate pt_br kali_unihistory_7b6b54fc:
 
     # k "... \n{i}(Holy shit, she's actually not too far off...){/i}"
-    k ""
+    k "... \n{i}(Puta merda, ela não tá tão longe...){/i}"
 
 # game/scripts/kali_events.rpy:4672
 translate pt_br kali_unihistory_a4d36323:
 
     # van "*sigh*... I'm sorry, sometimes I get too heated about these things..."
-    van ""
+    van "*suspiro*... me desculpe, as vezes eu fico muito esquentada com esses coisas..."
 
 # game/scripts/kali_events.rpy:4674
 translate pt_br kali_unihistory_21687592:
 
     # nala "But she's still right... you could make a huge difference."
-    nala ""
+    nala "Mas ela tá certa... você pode fazer uma grande diferença."
 
 # game/scripts/kali_events.rpy:4676
 translate pt_br kali_unihistory_bd56c040:
 
     # kim "Yeah, I like my robot puppies, but I wouldn't mind paying extra for them if it meant elves could be free, you know?"
-    kim ""
+    kim "Isso, eu gosto dos meus filhotes robôs, mas, eu não me importaria de pagar mais para eles caso seja pela liberdade dos elfos, sabe?"
 
 # game/scripts/kali_events.rpy:4677
 translate pt_br kali_unihistory_f78a29db:
 
     # k "Yeah, I get it..."
-    k ""
+    k "Sim, eu entendi..."
 
 # game/scripts/kali_events.rpy:4678
 translate pt_br kali_unihistory_537752e3:
 
     # kim "She's learning!"
-    kim ""
+    kim "Ela entendeu!"
 
 # game/scripts/kali_events.rpy:4679
 translate pt_br kali_unihistory_dfbbb168:
 
     # k "Hey..."
-    k ""
+    k "Ei..."
 
 # game/scripts/kali_events.rpy:4681
 translate pt_br kali_unihistory_4b6410ed:
 
     # van "And don't even get me started on landlords..."
-    van ""
+    van "E nem me deixe começar a falar dos lordes..."
 
 # game/scripts/kali_events.rpy:4683
 translate pt_br kali_unihistory_53ba469d:
 
     # nala "Anyway... back to history... there is more if you'd like to learn it."
-    nala ""
+    nala "De qualquer forma... de volta a história... tem mais, caso vocês queiram ouvir."
 
 # game/scripts/kali_events.rpy:4686
 translate pt_br kali_unihistory_f5875551:
 
     # k "Yeah sure, why not."
-    k ""
+    k "Sim claro, por que não."
 
 # game/scripts/kali_events.rpy:4687
 translate pt_br kali_unihistory_a0768e4a:
 
     # nala "Ooh, I have both of your attentions now? Great! I'll give you something awesome... let's see..."
-    nala ""
+    nala "Ooh, eu consegui a atenção de vocês dois agora, né? Ótimo! Eu vou ensinar algo incrível para vocês... deixe-me ver..."
 
 # game/scripts/kali_events.rpy:4688
 translate pt_br kali_unihistory_3416745b:
 
     # nala "The desert elves! Most elves were naturists, but the desert elves were animists! Arthur wrote that they wore no armor at all, and most were often fully exposed in the nude. He says they had no shame at all, but now of course we would consider them culturally nudists. And some tribes still are."
-    nala ""
+    nala "Os elfos do deserto! A maioria deles são naturalistas, mas os elfos do deserto são animistas! Arthur escreveu que eles não usavam armadura, na verdade a maioria deles estavam inteiramente nus. Ele disse que eles não tinham vergonha na verdade, mas atualmente nós o consideraríamos naturalistas oficiais. E algumas tribos ainda são."
 
 # game/scripts/kali_events.rpy:4689
 translate pt_br kali_unihistory_f9cd9346:
 
     # c "You're saying there are tribes of nudist elves in Syl'anar right now? Where?"
-    c ""
+    c "Você tá dizendo que existi tribos de naturalistas em Syl'anar, tipo, agora? Onde?"
 
 # game/scripts/kali_events.rpy:4690
 translate pt_br kali_unihistory_3dcc85f7:
 
     # nala "Syl'tali! The north western region of Syl'anar."
-    nala ""
+    nala "Syl'tali! Na região noroeste de Syl'anar."
 
 # game/scripts/kali_events.rpy:4692
 translate pt_br kali_unihistory_64173c31:
 
     # c "Oh, I've been there with Lin. I went to a little town called Rockport."
-    c ""
+    c "Oh, eu já estive lá com a Lin. Eu fui para uma cidade chamada Rockport."
 
 # game/scripts/kali_events.rpy:4693
 translate pt_br kali_unihistory_cea5d626:
 
     # kim "I've never been, what's it like?"
-    kim ""
+    kim "Eu nunca fui, como é que é?"
 
 # game/scripts/kali_events.rpy:4694
 translate pt_br kali_unihistory_0e8fab38:
 
     # c "Kind of boring."
-    c ""
+    c "Meio chato."
 
 # game/scripts/kali_events.rpy:4695
 translate pt_br kali_unihistory_031a2d5f:
 
     # kim "Oh..."
-    kim ""
+    kim "Oh..."
 
 # game/scripts/kali_events.rpy:4696
 translate pt_br kali_unihistory_ee23b094:
 
     # nala "Of course since they didn't have much nature to speak of, they couldn't build much. Instead, they made use of the mountains and carved entire cities into them! The biggest is said to have housed up to 50,000!"
-    nala ""
+    nala "É claro, já que eles não tinham o costume de falar, eles não podiam construir muito. Ao invés, eles usaram as montanhas e cavaram enormes cidades no meio delas! A maior, dizem já ter abrigado mais de 50,000!"
 
 # game/scripts/kali_events.rpy:4698
 translate pt_br kali_unihistory_b66299c0:
 
     # nala "We went there last semester for my history class, and it's so beautiful! In summer, the snow on the peaks melt and the elves were able to take advantage of that! They made canals for the fresh water that poured directly down their mountain!"
-    nala ""
+    nala "Nós fomos lá no último semestre na minha aula de história, e é lindo! No verão, a neve no pico da montanha derrete e os elfos foram capazes de tirar vantagem disso! Eles fizeram canais que leva a água fresca do topo até o pé da montanha!"
 
 # game/scripts/kali_events.rpy:4699
 translate pt_br kali_unihistory_6eadbdbc:
 
     # nala "You'd think it would be barren and dry, but that place is actually very green! It's so beautiful..."
-    nala ""
+    nala "Você pensaria que o lugar seria barroso e seco, mas na verdade aquele lugar é bem verde! É muito bonito..."
 
 # game/scripts/kali_events.rpy:4700
 translate pt_br kali_unihistory_77110f2f:
 
     # k "Must be a tall mountain for it to snow in the desert..."
-    k ""
+    k "Deve ser uma montanha grande para nevar no deserto..."
 
 # game/scripts/kali_events.rpy:4701
 translate pt_br kali_unihistory_cbfb5f35:
 
     # nala "It's only the tallest mountain on this planet!"
-    nala ""
+    nala "É só a motanha mais alta do planeta!"
 
 # game/scripts/kali_events.rpy:4703
 translate pt_br kali_unihistory_027b2b62:
 
     # van "Someone didn't pay attention in geography!"
-    van ""
+    van "Alguém não prestou atenção nas aulas de geografia!"
 
 # game/scripts/kali_events.rpy:4704
 translate pt_br kali_unihistory_fddc2960:
 
     # k "Eh... heheh..."
-    k ""
+    k "Eh... heheh..."
 
 # game/scripts/kali_events.rpy:4706
 translate pt_br kali_unihistory_8308a5c0:
 
     # k "Wait, how did they feed all those people in the desert?"
-    k ""
+    k "Espera, como eles alimentam todas aquelas pessoas no deserto?"
 
 # game/scripts/kali_events.rpy:4707
 translate pt_br kali_unihistory_584af2af:
 
     # nala "Good question! There is almost no suitable land to farm, and animals were incredibly sparse, but bountiful."
-    nala ""
+    nala "Boa pergunta! Lá, há terras propícias para agricultura, e havia menos espécies de animais, mas abundantes."
 
 # game/scripts/kali_events.rpy:4708
 translate pt_br kali_unihistory_fc675079:
