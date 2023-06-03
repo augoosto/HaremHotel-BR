@@ -17608,343 +17608,343 @@ translate pt_br kali_unihistory_584af2af:
 translate pt_br kali_unihistory_fc675079:
 
     # nala "Most elves have been recorded farming crops, husbandry was extremely rare among the elvish population due to the lack of domesticable animals on Syl'anar, but with nowhere else to turn the desert elves fished their food!"
-    nala ""
+    nala "A maioria dos elfos eram fazendeiros, a criação de animais era extremamente rara em Syl'anar, devido à falta dos mesmos. Mas sem mais nenhum lugar para ir os elfos praticavam a pesca!"
 
 # game/scripts/kali_events.rpy:4710
 translate pt_br kali_unihistory_13a57750:
 
     # nala "The mountain range that roughly 72 percent of the desert elf population inhabited is within a day's walking distance to a lush coral reef. It worked quite well for tens of thousands of years, but fishing had its limits... the desert elves had the smallest population out of the civilized elves. Still do."
-    nala ""
+    nala "A cadeia de montanhas - onde 72 por cento dos elfos do deserto viviam - dava um dia de caminhada até os resuberantes recifes de corais. Funcionou por algumas dezenas de centenas de anos, mas pescaria tinha suas limitações... os elfos do deserto tinham a menor população dentre os elfos civilizados. Ainda são."
 
 # game/scripts/kali_events.rpy:4711
 translate pt_br kali_unihistory_8b59800e:
 
     # k "What about drow?"
-    k ""
+    k "E os drow?"
 
 # game/scripts/kali_events.rpy:4713
 translate pt_br kali_unihistory_4a831469:
 
     # nala "They've never built a civilization, they live in small familial groups."
-    nala ""
+    nala "Eles nunca chegaram a construir uma civilização, eles viviam em pequenos grupos na forma de famílias."
 
 # game/scripts/kali_events.rpy:4714
 translate pt_br kali_unihistory_42b8489b:
 
     # nala "As much as we love elves here... drow aren't always considered true elves. They're primitive... I guess you could think of them like an elvish neanderthal! Except they're still alive."
-    nala ""
+    nala "Mesmo que nós amamos os elfos aqui... os drows, na realidade não são considerados elfos de verdade. Eles são primitivos... eu acho que você pode pensar neles como os elfos neandertais! Exceto que eles ainda estão vivos."
 
 # game/scripts/kali_events.rpy:4715
 translate pt_br kali_unihistory_82d779c3:
 
     # nala "This is why breeding with a drow is illegal in Syl'anar, human-drow crossbreeding result in... deadly birth defects. It's rare for a half drow to even live up to 30 years, if at all."
-    nala ""
+    nala "E é por isso que acasalar com o um drow é ilegal em Syl'anar, mestiços de humanos e drows resultam em... fetos com defeitos congênitos mortais. É raro para um mestiço viver mais que 30 anos, no máximo."
 
 # game/scripts/kali_events.rpy:4717
 translate pt_br kali_unihistory_998d57e6:
 
     # nala "But there are those who still think the desert elves are savages... as if they were no different from the drow."
-    nala ""
+    nala "Mas ainda tem aqueles que pensam que os elfos do deserto são selvagens... como se eles não fossem diferentes dos drows."
 
 # game/scripts/kali_events.rpy:4719
 translate pt_br kali_unihistory_827a0f19:
 
     # nala "But they're actually very similar to common elves. And they have big cute floppy ears!"
-    nala ""
+    nala "Mas na verdade, eles bem similares aos elfos comuns. E eles tem orelhas fofinhas!"
 
 # game/scripts/kali_events.rpy:4721
 translate pt_br kali_unihistory_ed33505d:
 
     # c "Tell me about the common elves."
-    c ""
+    c "Me fale sobre os elfos comuns."
 
 # game/scripts/kali_events.rpy:4722
 translate pt_br kali_unihistory_96f8f56c:
 
     # nala "Oh interested in them? Is your slave a common elf?"
-    nala ""
+    nala "Oh, interessado neles? O seu elfo é um elfo comum?"
 
 # game/scripts/kali_events.rpy:4724
 translate pt_br kali_unihistory_830ba789:
 
     # nala "Let's see... Arthur Longspear writes that the common elves were the most organized of them all. Their population was massive and incomparable to the others."
-    nala ""
+    nala "Vejamos... Arthur Longspear escreveu que os elfos comuns eram os mais organizados dentre todas as outras espécies de elfos. A população deles era massiva e incomparável com as outras."
 
 # game/scripts/kali_events.rpy:4725
 translate pt_br kali_unihistory_df81361f:
 
     # nala "Here's what Arthur wrote directly into his diary... 'Unlike the others, the common elves have a more structured and... recognizable society. With standing armies, although ill-equipped, and vassals who swore themselves to the leader of their people.'"
-    nala ""
+    nala "Aqui o que Arthur escreveu em seu diário... 'Diferente dos outros, os elfos comuns são mais estruturados e... mais reconhecíveis como sociedade. Com exércitos estáveis, porém, mal equipados. E vassalos que juravam lealdade ao líder deles.'"
 
 # game/scripts/kali_events.rpy:4728
 translate pt_br kali_unihistory_5d66f225:
 
     # c "Queen Jia, right? The Syl'ris."
-    c ""
+    c "A rainha Jia, né? A Syl'ris."
 
 # game/scripts/kali_events.rpy:4729
 translate pt_br kali_unihistory_96643650:
 
     # nala "No, he's actually talking about her father! Queen Jia was born the same year Syl'anar was founded as a human empire. This was quite a bit before then."
-    nala ""
+    nala "Não, na verdade ele estava falando do pai dela! A rainha Jia nasceu no mesmo ano de fundação de Syl'anar como um império humano. Mas isso foi um pouco antes disso. "
 
 # game/scripts/kali_events.rpy:4731
 translate pt_br kali_unihistory_0beba063:
 
     # nala "The common elves are known for their vast farms and canals. It's said that to keep up with their population's demand for food, they would extend the fertile rivers inland with canals which brought bountiful harvests further inland. They exported food to the entire continent, and had a solid grip on the other regions because of it."
-    nala ""
+    nala "Os elfos comuns são conhecidos pelas suas vastas fazendas e aquedutos. É dito que isso é para abastecer a sua alta demanda por comida, eles extenderiam suas terras férteis com arquedutos, oque trazia boas colheitas pela ilha. Eles exportavam comida pelo continente inteiro, a tinham uma sólida reputação com as outras regiões por causa disso."
 
 # game/scripts/kali_events.rpy:4732
 translate pt_br kali_unihistory_f999daaa:
 
     # nala "Arthur notes the same stone used for the dark elf's pyramids were used to control the flow of nearly every river and canal through way of dams and aqueducts. Perfectly shaped stone placed together like puzzle pieces!"
-    nala ""
+    nala "Arthur escreveu que o mesmo tipo de pedra usado pelos elfos negros foi usada para controlar o fluxo de cada rio pelo caminho de arquedutos. Polidas perfeitamente e colocadas como um grande quebra cabeça!"
 
 # game/scripts/kali_events.rpy:4733
 translate pt_br kali_unihistory_96379fae:
 
     # k "They sound kind of advanced for their time."
-    k ""
+    k "Eles pareciam avançados pelo seu tempo."
 
 # game/scripts/kali_events.rpy:4734
 translate pt_br kali_unihistory_7aff2639:
 
     # nala "They were! Arthur mentions the common elves gave his empire the most trouble. They had invented a type of bow unseen in the human world, one able to pierce even plate armor! A type of composite bow, with a draw strength unmatched by anything the humans had."
-    nala ""
+    nala "Eles eram! Arthur menciona que os elfos comuns foram os que deram mais trabalho para o império. Eles inevntaram um tipo de arco nunca antes visto no mundo humano, um capaz de perfurar até mesmo armaduras de placas! Um tipo de arco de combustão, com uma força de disparo que não se comparava a nada que os humanos tinham."
 
 # game/scripts/kali_events.rpy:4735
 translate pt_br kali_unihistory_9f01e2da:
 
     # nala "The common elves would rarely fight in hand-to-hand combat, which was advantageous to them, as they're physically weaker than humans in every way. Hundreds upon hundreds of thousands of casualties on both sides, but as you know, in the end, the humans won... with the help of disease and famine."
-    nala ""
+    nala "Os elfos comuns raramente lutavam corpo-a-corpo, porque era desvantajoso para eles, pois eles eram fisicamente mais fracos que os humano, em todos os sentidos. Centenas e centenas de casualidades em ambos os lados, mas como vocês sabem, no final os humanos ganharam... com a ajuda de doenças e da fome."
 
 # game/scripts/kali_events.rpy:4736
 translate pt_br kali_unihistory_9a892683:
 
     # nala "Oh! And as you probably already know, Arthur also writes about the common elves' tradition in which they take a day off after every six days to feast, make art, jewelry, or totems, entertain themselves, and attempt to procreate."
-    nala ""
+    nala "Oh! E como você já deve saber, Arthur também já escreveu sobre as tradições dos elfos comuns nos quais eles tiravam um dia a cada seis dias para festejar, criar artes, jóias, ou totens, se entreter, e tentar procriar."
 
 # game/scripts/kali_events.rpy:4738
 translate pt_br kali_unihistory_f92b30b6:
 
     # nala "Fun fact, elves have an incredibly low fertility rate compared to humans, so if any elves were trying for a child, they would be trying for quite some time!"
-    nala ""
+    nala "Fato interessante, elfos tem uma taxa de fertilidade menor se comparado aos humanos, então se algum elfos queria ter uma criança, eles teriam que tentar diversas vezes!"
 
 # game/scripts/kali_events.rpy:4740
 translate pt_br kali_unihistory_71d368ca:
 
     # nala "This day was known to the common elves as Midlari-Uneli - literally meaning middle week celebration - where they would stop working completely if they could and just sort of did whatever social or productive activity they wanted to which proved to be very beneficial to their society."
-    nala ""
+    nala "Esse dia ficou conhecido entre os elfos comuns como Midlari-Uneli - significa literalmente, celebração de meia semana - onde eles poderiam para de trabalhar completamete se eles pudessem e fazer atividades socias ou produtivas que eles quisessem, oque provou ser muito benéfico para a sociedade deles."
 
 # game/scripts/kali_events.rpy:4742
 translate pt_br kali_unihistory_4f4359e3:
 
     # nala "I guess you could say elves invented the weekend! Hahah..."
-    nala ""
+    nala "Eu acho que pode-se dizer que os elfos inventaram os finais de semana! Hahah..."
 
 # game/scripts/kali_events.rpy:4743
 translate pt_br kali_unihistory_0462cf72:
 
     # van "She jokes, but she's not actually wrong..."
-    van ""
+    van "Ela pode até fazer piadas, mas ela não está errada..."
 
 # game/scripts/kali_events.rpy:4744
 translate pt_br kali_unihistory_5ed19581:
 
     # nala "With all that time on their hands, elves must be so incredibly wise. I would honestly love to meet an elderly elf! I bet there are a lot of philosphers!"
-    nala ""
+    nala "Com todo esse tempo nas em suas mãos, os elfos eram incrivelmente sábios. Eu honestamente iria amar conhecer um elfo mais idoso! Eu aposto que há vários filósofos!"
 
 # game/scripts/kali_events.rpy:4745
 translate pt_br kali_unihistory_a73c030f:
 
     # k "I thought elves were a bit... slow?"
-    k ""
+    k "Eu pensei que os elfos eram um pouco.. devagar?"
 
 # game/scripts/kali_events.rpy:4746
 translate pt_br kali_unihistory_2d7e907c:
 
     # nala "Sure, but that's completely counter balanced by their incredibly long life spans. An elderly elf would be wiser than the next 10 men combined!"
-    nala ""
+    nala "Sim, mas isso é balanceado pelo seu incrível tempo de vida. Um elfo idoso seria mais sábio que dez homens combinados!"
 
 # game/scripts/kali_events.rpy:4747
 translate pt_br kali_unihistory_6ed85133:
 
     # nala "Some flowers just take longer to bloom, you know?"
-    nala ""
+    nala "Algumas flores só demoram para florescer, sacou?"
 
 # game/scripts/kali_events.rpy:4748
 translate pt_br kali_unihistory_e38c2591:
 
     # k "Oh, yeah. I guess that makes sense..."
-    k ""
+    k "Oh, sim. Faz sentido..."
 
 # game/scripts/kali_events.rpy:4750
 translate pt_br kali_unihistory_b604a831:
 
     # k "Vanessa, all of this is... pretty cool actually, but... what's the point of telling me this? I'm not my Dad, I don't have any power..."
-    k ""
+    k "Vanessa, tudo isso é... muito legal na verdade, mas... qual é o ponto de me contar isso? Eu não sou o meu pai, eu não tenho poder..."
 
 # game/scripts/kali_events.rpy:4751
 translate pt_br kali_unihistory_b33ef9da:
 
     # van "You do, though! We all hold a bit of power as humans in this society, and you even have influence on Trenero!"
-    van ""
+    van "Você tem, na verdade! Todos nós carregamos um pouco de poder como humanos nessa sociedade, e você tem a influência de um Trenero!"
 
 # game/scripts/kali_events.rpy:4752
 translate pt_br kali_unihistory_b038128e:
 
     # van "Talk to him! Tell him to stop using elvish labor, tell him to publicly support the freeing of elves!"
-    van ""
+    van "Converse com ele! Diga para ele parar de usar trabalho élfico, diga para ele fazer publicidade de libertação dos elfos!"
 
 # game/scripts/kali_events.rpy:4753
 translate pt_br kali_unihistory_ab3dcc54:
 
     # k "It's not that easy... there's a lot of politics involved for him..."
-    k ""
+    k "Não é assim tão fácil... tem um monte de política envolvida com ele..."
 
 # game/scripts/kali_events.rpy:4755
 translate pt_br kali_unihistory_c139250e:
 
     # van "No shit, it's ALL politics! He's one of the most powerful men on the planet!"
-    van ""
+    van "Sem essa, é TUDO sobre política! Ele é um dos mais poderosos homens do planeta!"
 
 # game/scripts/kali_events.rpy:4756
 translate pt_br kali_unihistory_cc1a0127:
 
     # k "Then maybe you can understand why someone like me, the daughter he abandoned on the other side of the world, and who was a pizza delivery girl until she joined college {i}late{/i} would have no say in the matter!"
-    k ""
+    k "Então talvez você possa entender o porque de alguém como eu, a filha que ele abandonou no outro lado do mundo, e que era entregadora até antes de entrar {i}atrasada{/i} na faculdade, não teria poder de fala!"
 
 # game/scripts/kali_events.rpy:4757
 translate pt_br kali_unihistory_1b0c9b6c:
 
     # k "I was going to be the heir of his corperate empire, but I declined that and came here instead, so any power I would have had in this world is gone! Okay?"
-    k ""
+    k "Eu iria ser a herdeira do império de corporação dele, mas eu neguei isso e vim até aqui ao invés, então qualquer poder que eu teria nesse mundo se foi! Ok?"
 
 # game/scripts/kali_events.rpy:4759
 translate pt_br kali_unihistory_a188886b:
 
     # van "Okay, I don't know your life, or your relationship with him that well... but that doesn't mean you can't do anything!"
-    van ""
+    van "Ok, eu não sei nada sobre a sua vida, ou sua relação com ele... mas isso não significa que você não pode fazer nada!"
 
 # game/scripts/kali_events.rpy:4760
 translate pt_br kali_unihistory_d1f519d7:
 
     # van "If this is a world you want, something you truly want, you'll find a way to help."
-    van ""
+    van "Se esse é um mundo que você quer, algo que você verdadeiramente quer, você vai encontrar uma maneira de ajudar."
 
 # game/scripts/kali_events.rpy:4761
 translate pt_br kali_unihistory_f6be7146:
 
     # k "I have no idea what that would be... but I would like to help."
-    k ""
+    k "Eu não faço idéia de como... mas eu quero ajudar."
 
 # game/scripts/kali_events.rpy:4763
 translate pt_br kali_unihistory_fea9bd84:
 
     # van "Well then! Step one could be joining our club!"
-    van ""
+    van "Bem! Passo um, junte-se ao nosso clube!"
 
 # game/scripts/kali_events.rpy:4764
 translate pt_br kali_unihistory_bc813c50:
 
     # k "Your club?"
-    k ""
+    k "Seu clube?"
 
 # game/scripts/kali_events.rpy:4765
 translate pt_br kali_unihistory_005fb195:
 
     # van "Yeah, we set up protests, join protests, make signs, that sort of thing!"
-    van ""
+    van "Isso, nós estamos organizandos protestos, junte-se a protestos, faça placas, esse tipo de coisa!"
 
 # game/scripts/kali_events.rpy:4767
 translate pt_br kali_unihistory_ca2817ca:
 
     # van "{size=-10}{i}And sometimes, ya know... we burn some property when they deserve it...{/i}{/size}"
-    van ""
+    van "{size=-10}{i}E as vezes, cê sabe... nós queimamos algumas propriedades quando eles merecem...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:4768
 translate pt_br kali_unihistory_4fb5c494:
 
     # nala "Shhh...!"
-    nala ""
+    nala "Shhh...!"
 
 # game/scripts/kali_events.rpy:4770
 translate pt_br kali_unihistory_c20cb464:
 
     # van "Hey, well slave owners can be very unsurprisingly violent, ya know?"
-    van ""
+    van "Bem, escravagistas podem ser (não surpreedentemente) violentos, sabe?"
 
 # game/scripts/kali_events.rpy:4771
 translate pt_br kali_unihistory_76c1f73a:
 
     # k "Oh, I see..."
-    k ""
+    k "Oh, entendo..."
 
 # game/scripts/kali_events.rpy:4773
 translate pt_br kali_unihistory_50be8954:
 
     # k "I don't know..."
-    k ""
+    k "Eu não sei..."
 
 # game/scripts/kali_events.rpy:4774
 translate pt_br kali_unihistory_cde73f07:
 
     # van "It'll be fun, I promise! And you'll be doing good for the world, we'll make real change!"
-    van ""
+    van "Vai ser divertido, eu prometo! E você estará fazendo o bem pelo mundo, nós faremos uma mudança de verdade!"
 
 # game/scripts/kali_events.rpy:4775
 translate pt_br kali_unihistory_1ff4941f:
 
     # k "I'll think on it..."
-    k ""
+    k "Eu vou pensar..."
 
 # game/scripts/kali_events.rpy:4776
 translate pt_br kali_unihistory_95421e7d:
 
     # van "That's all I wanted to hear! Thank you, Kali!"
-    van ""
+    van "Era isso que eu queria ouvir! Obrigada, Kali!"
 
 # game/scripts/kali_events.rpy:4777
 translate pt_br kali_unihistory_17f4876e:
 
     # k "You'd better help me with my homework..."
-    k ""
+    k "É melhor você me ajudar com meu dever de casa..."
 
 # game/scripts/kali_events.rpy:4778
 translate pt_br kali_unihistory_eaf71bde:
 
     # van "Of course!"
-    van ""
+    van "É claro!"
 
 # game/scripts/kali_events.rpy:4780
 translate pt_br kali_unihistory_d0245497:
 
     # k "Phew... sorry for dragging you through that... thanks for coming though! And I really appreciate the coffee..."
-    k ""
+    k "Phew... desculpe te arrastar nisso tudo... mas obrigada por vir! E eu agradeço pelo café..."
 
 # game/scripts/kali_events.rpy:4781
 translate pt_br kali_unihistory_4d455659:
 
     # k "Maybe next time remind her I like energy drinks?"
-    k ""
+    k "Talvez na próxima vez peça para ela pegar alguns energéticos?"
 
 # game/scripts/kali_events.rpy:4782
 translate pt_br kali_unihistory_efa045b8:
 
     # c "Sure, hahah."
-    c ""
+    c "Claro, hahah."
 
 # game/scripts/kali_events.rpy:4783
 translate pt_br kali_unihistory_78f16bee:
 
     # k "Cool. Alright, let's get out of here..."
-    k ""
+    k "Legal. Beleza, vamos dar o fora daqui..."
 
 # game/scripts/kali_events.rpy:4785
 translate pt_br kali_unihistory_c6a5f1a7:
 
     # "You and Kali drive home together..."
-    ""
+    "Você e Kali voltam juntos de carro para o hotel..."
 
 # game/scripts/kali_events.rpy:4797
 translate pt_br kali_unihistory_7524976d:
