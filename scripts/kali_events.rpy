@@ -17944,7 +17944,7 @@ translate pt_br kali_unihistory_78f16bee:
 translate pt_br kali_unihistory_c6a5f1a7:
 
     # "You and Kali drive home together..."
-    "Você e Kali voltam juntos de carro para o hotel..."
+    "Você e Kali voltam para o hotel..."
 
 # game/scripts/kali_events.rpy:4797
 translate pt_br kali_unihistory_7524976d:
@@ -18022,391 +18022,391 @@ translate pt_br kali_sexytime_a8bd0696:
 translate pt_br kali_sexytime_5281af07:
 
     # k "Come on, come on...! Hahhhhnnnn...!"
-    k ""
+    k "Vai, vai...! Hahhhhnnnn...!"
 
 # game/scripts/kali_events.rpy:4831
 translate pt_br kali_sexytime_cca77806:
 
     # k "Nngh! Fuck it!" with ssshake
-    k "" with ssshake
+    k "Nngh! Porra!" with ssshake
 
 # game/scripts/kali_events.rpy:4832
 translate pt_br kali_sexytime_38cb4ff2:
 
     # k "Ahh... It's no use... Hahhh... I can't do it... Hahh..."
-    k ""
+    k "Ahh... não adianta... Hahhh... Eu não consigo... Hahh..."
 
 # game/scripts/kali_events.rpy:4837
 translate pt_br kali_sexytime_004f5371:
 
     # k "[name]!" with ssshake
-    k "" with ssshake
+    k "[name]!" with ssshake
 
 # game/scripts/kali_events.rpy:4840
 translate pt_br kali_sexytime_951f01e5:
 
     # k "Um... I... was just coming to see you..."
-    k ""
+    k "Um... Eu... eu estava indo te procurar..."
 
 # game/scripts/kali_events.rpy:4841
 translate pt_br kali_sexytime_e4da379b:
 
     # c "What can I help you with?"
-    c ""
+    c "Do que precisa?"
 
 # game/scripts/kali_events.rpy:4844
 translate pt_br kali_sexytime_6647975e:
 
     # k "Uh, could you come inside for a second?"
-    k ""
+    k "Uh, você pode entrar por um segundo?"
 
 # game/scripts/kali_events.rpy:4848
 translate pt_br kali_sexytime_f9e5cb7f:
 
     # k "Um... so, uh..."
-    k ""
+    k "Um... então, uh..."
 
 # game/scripts/kali_events.rpy:4849
 translate pt_br kali_sexytime_0406047a:
 
     # c "Were you just having some fun?"
-    c ""
+    c "Tava se divertindo?"
 
 # game/scripts/kali_events.rpy:4851
 translate pt_br kali_sexytime_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:4852
 translate pt_br kali_sexytime_835355d3:
 
     # k "Nnngh... {size=-10}{i}Shit, I forgot to put it away...{/i}{/size}"
-    k ""
+    k "Nnngh... {size=-10}{i}Merda, eu esqueci de guardar...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:4854
 translate pt_br kali_sexytime_f8b78a71:
 
     # k "Y-Yeah... that's actually what I wanted to talk to you about..."
-    k ""
+    k "B-Bem... é sobre isso o que eu queria falar com você..."
 
 # game/scripts/kali_events.rpy:4855
 translate pt_br kali_sexytime_6e6ce20e:
 
     # c "Oh?"
-    c ""
+    c "Oh?"
 
 # game/scripts/kali_events.rpy:4856
 translate pt_br kali_sexytime_c1bbcd99:
 
     # k "So... *ehem*..."
-    k ""
+    k "Então... *ehem*..."
 
 # game/scripts/kali_events.rpy:4858
 translate pt_br kali_sexytime_214c2c30:
 
     # k "So, I have a hard time cumming, or whatever..."
-    k ""
+    k "Então, Eu tenho dificuldade em ter um orgasmo, ou algo do tipo..."
 
 # game/scripts/kali_events.rpy:4859
 translate pt_br kali_sexytime_190fcad9:
 
     # k "Nothing really seems to... work."
-    k ""
+    k "Nada parece... funcionar."
 
 # game/scripts/kali_events.rpy:4861
 translate pt_br kali_sexytime_b67f0eb7:
 
     # k "Except for..."
-    k ""
+    k "Exceto por..."
 
 # game/scripts/kali_events.rpy:4862
 translate pt_br kali_sexytime_f20de71f:
 
     # k "Cock..."
-    k ""
+    k "Pau..."
 
 # game/scripts/kali_events.rpy:4864
 translate pt_br kali_sexytime_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4866
 translate pt_br kali_sexytime_62874185:
 
     # k "So... I was thinking you could help with that, or whatever..."
-    k ""
+    k "Então... Eu tava pensando se você pudesse me ajudar com isso, ou sei lá..."
 
 # game/scripts/kali_events.rpy:4867
 translate pt_br kali_sexytime_b3354cae:
 
     # c "Sure, I think I can help."
-    c ""
+    c "Claro, acho que eu posso te ajudar."
 
 # game/scripts/kali_events.rpy:4868
 translate pt_br kali_sexytime_c6ffab65:
 
     # k "Well, don't get too excited... I don't like you or anything. I'm just using your dick..."
-    k ""
+    k "Bem, não fique muito animado... Eu não gosto de você nem nada do tipo. Eu vou só usar o seu pau..."
 
 # game/scripts/kali_events.rpy:4870
 translate pt_br kali_sexytime_eef0d883:
 
     # k "I guess I'll get started..."
-    k ""
+    k "Eu acho que vou começar..."
 
 # game/scripts/kali_events.rpy:4876
 translate pt_br kali_sexytime_0b219753:
 
     # k "Okay... get on the bed now..."
-    k ""
+    k "Okay... vá pra cama..."
 
 # game/scripts/kali_events.rpy:4878
 translate pt_br kali_sexytime_77ccc021:
 
     # k "Don't get any ideas... I'm in control here, got it?"
-    k ""
+    k "Não tente nenhuma gracinha... Eu estou no controle aqui, entendeu?"
 
 # game/scripts/kali_events.rpy:4880
 translate pt_br kali_sexytime_f4a6666f:
 
     # k "Here we go..."
-    k ""
+    k "Aqui vou eu..."
 
 # game/scripts/kali_events.rpy:4882
 translate pt_br kali_sexytime_625b4035:
 
     # k "Hnnn... nnngh!"
-    k ""
+    k "Hnnn... nnngh!"
 
 # game/scripts/kali_events.rpy:4883
 translate pt_br kali_sexytime_bb3a7fe8:
 
     # k "Fuck, that's big... nnnh..."
-    k ""
+    k "Porra, isso é grande... nnnh..."
 
 # game/scripts/kali_events.rpy:4885
 translate pt_br kali_sexytime_91a22b89:
 
     # k "Hey, not bad [name]... you feel pretty good..."
-    k ""
+    k "Ei, nada mal [name]... você é muito bom..."
 
 # game/scripts/kali_events.rpy:4886
 translate pt_br kali_sexytime_9bbf0de8:
 
     # k "Okay... don't you dare move, go it?"
-    k ""
+    k "Okay... nem pensa em se mover, entendu?"
 
 # game/scripts/kali_events.rpy:4888
 translate pt_br kali_sexytime_17af4d88:
 
     # k "Mmmmmm... Nnnnh, that's so much better..."
-    k ""
+    k "Mmmmmm... Nnnnh, isso é bem melhor..."
 
 # game/scripts/kali_events.rpy:4889
 translate pt_br kali_sexytime_81b0643d:
 
     # k "Ahhh...! Mmmn, it's been so long since I had a cock..."
-    k ""
+    k "Ahhh...! Mmmn, já faz tanto tempo desde a minha última vez..."
 
 # game/scripts/kali_events.rpy:4890
 translate pt_br kali_sexytime_7078ca9e:
 
     # k "Nnnngh... fuck..."
-    k ""
+    k "Nnnngh... porra..."
 
 # game/scripts/kali_events.rpy:4893
 translate pt_br kali_sexytime_51b1765c:
 
     # k "Hahh... Nnngh... Fuck..."
-    k ""
+    k "Hahh... Nnngh... Porra..."
 
 # game/scripts/kali_events.rpy:4894
 translate pt_br kali_sexytime_1339fa89:
 
     # k "Fuck..."
-    k ""
+    k "Porra..."
 
 # game/scripts/kali_events.rpy:4896
 translate pt_br kali_sexytime_bc27636f:
 
     # k "Fuck! Urgh, it's never going to happen... I just can't cum..." with ssshake
-    k "" with ssshake
+    k "Porra! Urgh, nunca vai acontecer... Eu só não consigo..." with ssshake
 
 # game/scripts/kali_events.rpy:4897
 translate pt_br kali_sexytime_f9b6c703:
 
     # k "Urgh... whatever... Sorry I dragged you into this..."
-    k ""
+    k "Urgh... tudo bem... Desculpa por te arrastar nisso..."
 
 # game/scripts/kali_events.rpy:4899
 translate pt_br kali_sexytime_ee8489ee:
 
     # k "What are you-" with ssshake
-    k "" with ssshake
+    k "Oque você-" with ssshake
 
 # game/scripts/kali_events.rpy:4901
 translate pt_br kali_sexytime_87fe10ca:
 
     # k "Dude what the fuck! I told you I was in con-"
-    k ""
+    k "Cara, mas que porra! Eu te falei que eu estava no con-"
 
 # game/scripts/kali_events.rpy:4905
 translate pt_br kali_sexytime_2e9a62e3:
 
     # k "Ahh! Fuck!"
-    k ""
+    k "Ahh! Porra!"
 
 # game/scripts/kali_events.rpy:4907
 translate pt_br kali_sexytime_37d71f9c:
 
     # k "Ohh! Oh shit, don't stop! Oh my god! Ahh!"
-    k ""
+    k "Ohh! Oh merda, não para! Oh meu deus! Ahh!"
 
 # game/scripts/kali_events.rpy:4908
 translate pt_br kali_sexytime_88dc9f74:
 
     # k "Hnn! Ahh! [name]! It feels good, it feels {b}really{/b} good! Nnn!"
-    k ""
+    k "Hnn! Ahh! [name]! Tão bom, isso tá {b}muito{/b} bom! Nnn!"
 
 # game/scripts/kali_events.rpy:4909
 translate pt_br kali_sexytime_cefc7b8a:
 
     # k "Mmmmm! Ahh! Oh my god! Fuck [name]! Holy shit!"
-    k ""
+    k "Mmmmm! Ahh! Oh meu deus! Porra, [name]! Puta merda!"
 
 # game/scripts/kali_events.rpy:4912
 translate pt_br kali_sexytime_f72deb16:
 
     # k "Oh shit... oh shit! Something's happening!"
-    k ""
+    k "Oh merda... oh merda! Tá acontecendo!"
 
 # game/scripts/kali_events.rpy:4914
 translate pt_br kali_sexytime_e1b551da:
 
     # k "HNN! NNNNNNNHGH~!" with ssshake
-    k "" with ssshake
+    k "HNN! NNNNNNNHGH~!" with ssshake
 
 # game/scripts/kali_events.rpy:4916
 translate pt_br kali_sexytime_67c46877:
 
     # k "AHHH!" with ssshake
-    k "" with ssshake
+    k "AHHH!" with ssshake
 
 # game/scripts/kali_events.rpy:4918
 translate pt_br kali_sexytime_fba90400:
 
     # k "AHHHHHHHH!!! FUUUCK!" with ssshake
-    k "" with ssshake
+    k "AHHHHHHHH!!! POOORRA!" with ssshake
 
 # game/scripts/kali_events.rpy:4920
 translate pt_br kali_sexytime_b35629e5:
 
     # k "Ahhh... Hahh... You made me cum [name], holy shit..."
-    k ""
+    k "Ahhh... Hahh... Você me fez gozar, [name], puta merda..."
 
 # game/scripts/kali_events.rpy:4921
 translate pt_br kali_sexytime_842b04f8:
 
     # k "Hahahhh... Your turn."
-    k ""
+    k "Hahahhh... Sua vez."
 
 # game/scripts/kali_events.rpy:4923
 translate pt_br kali_sexytime_9e920d5a:
 
     # k "Ahh! Hnn! Yes! Hahh!"
-    k ""
+    k "Ahh! Hnn! Sim! Hahh!"
 
 # game/scripts/kali_events.rpy:4924
 translate pt_br kali_sexytime_cf7abe5b:
 
     # k "Fuck me! Yes! Oh my god! It feels so good! Hnn!"
-    k ""
+    k "Me fode! Isso! Oh meu deus! Tão bom! Hnn!"
 
 # game/scripts/kali_events.rpy:4925
 translate pt_br kali_sexytime_e2d45e0a:
 
     # k "Fuck! Ahh! Whenever you're ready, Hahh! I'm on the pill so... it should be safe if you cum inside... right? Ahh!"
-    k ""
+    k "Porra! Ahh! Quando você quiser, Hahh! Eu tomo pílula, então... tá tudo bem se você quiser gozar dentro... né? Ahh!"
 
 # game/scripts/kali_events.rpy:4931
 translate pt_br kali_sexytime_6ce49530:
 
     # k "*gasp* Oh shit! MMMN!" with ssshake
-    k "" with ssshake
+    k "*suspiro* Oh merda! MMMN!" with ssshake
 
 # game/scripts/kali_events.rpy:4932
 translate pt_br kali_sexytime_501d32fd:
 
     # k "Y-You're cumming inside!? F-Fuck...!" with ssshake
-    k "" with ssshake
+    k "T-Tá gozando dentro!? P-Porra...!" with ssshake
 
 # game/scripts/kali_events.rpy:4933
 translate pt_br kali_sexytime_3a1bb3a9:
 
     # k "Fuck! Fuck! You're filling me up so much! Holy shit!" with ssshake
-    k "" with ssshake
+    k "Porra! Porra! Você tá me enchendo tanto! Puta merda!" with ssshake
 
 # game/scripts/kali_events.rpy:4935
 translate pt_br kali_sexytime_b784e953:
 
     # k "*pant* *pant*... You made me cum... And... you came inside me..."
-    k ""
+    k "*suspiro *suspiro*... Você me fez gozar... E... você gozou dentro de mim..."
 
 # game/scripts/kali_events.rpy:4936
 translate pt_br kali_sexytime_5b170d18:
 
     # k "Hahahhh... [name]... you're not supposed to do that..."
-    k ""
+    k "Hahahhh... [name]... não deveria ter feito isso..."
 
 # game/scripts/kali_events.rpy:4940
 translate pt_br kali_sexytime_07151fca:
 
     # k "*gasp*! Oh shit!"
-    k ""
+    k "*suspiro*! Oh merda!"
 
 # game/scripts/kali_events.rpy:4941
 translate pt_br kali_sexytime_99ea137a:
 
     # k "*pant* *pant* [name]... wow, that's a lot...! You had all of that inside you...?"
-    k ""
+    k "*suspiro* *suspiro* [name]... wow, isso é bastante...! Você tinha tudo isso aí dentro...?"
 
 # game/scripts/kali_events.rpy:4948
 translate pt_br kali_sexytime_3ba1e686:
 
     # k "[name]! I can't believe you made me cum! Thank you so much!"
-    k ""
+    k "[name]! Eu não acredito que você me fez gozar! Muito obrigada!"
 
 # game/scripts/kali_events.rpy:4949
 translate pt_br kali_sexytime_82d8eff6:
 
     # k "It felt so good! Like holy shit! I've never cum from sex before!"
-    k ""
+    k "Foi muito bom! Tipo, puta merda! Eu nunca gozei por sexo antes!"
 
 # game/scripts/kali_events.rpy:4952
 translate pt_br kali_sexytime_6a6e2229:
 
     # k "Um... don't be afraid to come back... to, you know, do it again..."
-    k ""
+    k "Um... não hesite em voltar... para, você sabe, fazer isso de novo..."
 
 # game/scripts/kali_events.rpy:4953
 translate pt_br kali_sexytime_fa2903b0:
 
     # k "I mean... if you want. Whatever."
-    k ""
+    k "Quer dizer... se você quiser. Ou sei lá."
 
 # game/scripts/kali_events.rpy:4958
 translate pt_br kali_sexytime_c5d98fc3:
 
     # "You can now request missionary sex with Kali!"
-    ""
+    "Agora você pode solicitar para fazer sexo missionário com a Kali!"
 
 # game/scripts/kali_events.rpy:4966
 translate pt_br kali_sexytime_e494cf58:
 
     # k "Oh, yeah, sure. No problem..."
-    k ""
+    k "Oh, sim, claro. Sem problema..."
 
 # game/scripts/kali_events.rpy:4975
 translate pt_br kali_steal_3ac518c3:
