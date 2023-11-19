@@ -28534,247 +28534,247 @@ translate pt_br springkali2_514a1a70:
 translate pt_br springkali_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:15175
 translate pt_br springkali_7620e9e9:
 
     # c "Hey, Kali?"
-    c ""
+    c "Ei, Kali?"
 
 # game/script.rpy:15176
 translate pt_br springkali_bce9550b:
 
     # k "*yaaaawn*..."
-    k ""
+    k "*boceeejo*..."
 
 # game/script.rpy:15178
 translate pt_br springkali_8803fea1:
 
     # k "H-Huh? What the hell..."
-    k ""
+    k "U-Uh? Mas oque..."
 
 # game/script.rpy:15180
 translate pt_br springkali_7b706679:
 
     # k "I was sleeping, asshole... what do you want?"
-    k ""
+    k "Eu tava dormindo babaca... o que você quer"
 
 # game/script.rpy:15181
 translate pt_br springkali_fa46b74a:
 
     # c "I thought I would check up on you, how are you enjoying your stay?"
-    c ""
+    c "Eu pensei em vim ver como voce tá, está gostando da estadia?"
 
 # game/script.rpy:15182
 translate pt_br springkali_308cc01f:
 
     # k "Still sucks... I can't even enjoy the hot springs by myself apparently..."
-    k ""
+    k "Uma droga... aparentemente eu não posso nem aproveitar a sauna sozinha..."
 
 # game/script.rpy:15183
 translate pt_br springkali_5039d72c:
 
     # c "I'm here to make sure everyone is happy. If there's anything I can do for you, just let me know."
-    c ""
+    c "Eu estou aqui para garantir de que todo mundo está satisfeito. Se tem algo que eu possa fazer por você, é só dizer."
 
 # game/script.rpy:15184
 translate pt_br springkali_2cfaf2f0:
 
     # k "Okay, ummm..."
-    k ""
+    k "Ok, ummm..."
 
 # game/script.rpy:15185
 translate pt_br springkali_45b587a4:
 
     # k "I guess I'm a bit thirsty..."
-    k ""
+    k "Eu acho que eu estou com sede..."
 
 # game/script.rpy:15186
 translate pt_br springkali_61e47696:
 
     # c "I'll have Lin make you something immediately."
-    c ""
+    c "Pedirei para Lin preparar algo imediatamente."
 
 # game/script.rpy:15187
 translate pt_br springkali_22c719b5:
 
     # k "Okay..."
-    k ""
+    k "Ok..."
 
 # game/script.rpy:15189
 translate pt_br springkali_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/script.rpy:15191
 translate pt_br springkali_810c199f:
 
     # c "Here's your drink."
-    c ""
+    c "Aqui está sua bebida."
 
 # game/script.rpy:15193
 translate pt_br springkali_42476ba8:
 
     # k "Nnnnnngh...!"
-    k ""
+    k "Nnnnnngh...!"
 
 # game/script.rpy:15195
 translate pt_br springkali_6d1f2048:
 
     # k "Lemonade? Nice..."
-    k ""
+    k "Limonada? Legal..."
 
 # game/script.rpy:15197
 translate pt_br springkali_b89f84bb:
 
     # k "Oh Fuck!" with ssshake
-    k "" with ssshake
+    k "Oh, porra!" with ssshake
 
 # game/script.rpy:15200
 translate pt_br springkali_9adb0d7c:
 
     # k "Shit, I forgot!"
-    k ""
+    k "Merda, eu esqueci!"
 
 # game/script.rpy:15201
 translate pt_br springkali_21f2ae64:
 
     # k "L-Look away, asshole!"
-    k ""
+    k "O-Olha pro outro lado, babaca!"
 
 # game/script.rpy:15203
 translate pt_br springkali_36d7a135:
 
     # k "Urgh... you could have said something..."
-    k ""
+    k "Urgh... você podia ter me avisado..."
 
 # game/script.rpy:15204
 translate pt_br springkali_cf96774e:
 
     # c "I thought you wanted to give me a treat."
-    c ""
+    c "Eu pensei que você quisese me agradar."
 
 # game/script.rpy:15205
 translate pt_br springkali_841769ae:
 
     # k "What? No way..."
-    k ""
+    k "Oque? Claro que não..."
 
 # game/script.rpy:15207
 translate pt_br springkali_543e48d8:
 
     # k "Well, are you happy? You successfully tricked me..."
-    k ""
+    k "Bem, satisfeito? Você conseguiu me enganar..."
 
 # game/script.rpy:15208
 translate pt_br springkali_b82f94b2:
 
     # c "Tricked you? I'm just trying to help."
-    c ""
+    c "Enganar? Eu só estou tentando ajudar."
 
 # game/script.rpy:15209
 translate pt_br springkali_fd241adf:
 
     # k "Hah, right... you knew what you were doing..."
-    k ""
+    k "Hah, beleza... você sabia oque estava fazendo..."
 
 # game/script.rpy:15210
 translate pt_br springkali_99025f4d:
 
     # k "Well? You're being quiet... did you hate them or something?"
-    k ""
+    k "Então? Você está quieto... não gostou deles, ou algo do tipo?"
 
 # game/script.rpy:15214
 translate pt_br springkali_1b237614:
 
     # k "You did?"
-    k ""
+    k "Gostou?"
 
 # game/script.rpy:15216
 translate pt_br springkali_2d158e45:
 
     # k "I mean of course you did... they're great, who wouldn't like them..."
-    k ""
+    k "Quer dizer, é claro que gostou... eles são ótimos, quem não gostaria deles..."
 
 # game/script.rpy:15217
 translate pt_br springkali_244a22de:
 
     # k "I guess it's not a big deal that you saw them... they're just tits, I'm sure you've seen plenty..."
-    k ""
+    k "Eu acho que não é grande coisa você ter visto eles... são apenas peitos, certeza que já viu bastante..."
 
 # game/script.rpy:15218
 translate pt_br springkali_b0cad4bf:
 
     # c "They're great tits..."
-    c ""
+    c "São ótimos peitos..."
 
 # game/script.rpy:15220
 translate pt_br springkali_66030bb1:
 
     # k "Shut up! Stop making me feel good!"
-    k ""
+    k "Cala boca! Para de me agradar!"
 
 # game/script.rpy:15222
 translate pt_br springkali_848afdce:
 
     # k "I... I mean..."
-    k ""
+    k "Quer... quer dizer..."
 
 # game/script.rpy:15224
 translate pt_br springkali_521e900a:
 
     # k "Whatever! Shut up!"
-    k ""
+    k "Que se dane! Cala boca!"
 
 # game/script.rpy:15225
 translate pt_br springkali_6f3b0f65:
 
     # c "You're not used to accepting compliments, are you?"
-    c ""
+    c "Não está acostumada a receber elogios, está?"
 
 # game/script.rpy:15226
 translate pt_br springkali_2824dd7b:
 
     # k "Who are you, my therapist?"
-    k ""
+    k "Quem você pensa que é, meu terapeuta?"
 
 # game/script.rpy:15227
 translate pt_br springkali_6f42f04f:
 
     # c "All I'm saying is you have a great body, there's nothing to be embarrassed about."
-    c ""
+    c "Só estou dizendo que você tem um ótimo corpo, não há nada para se envergonhar sobre isso."
 
 # game/script.rpy:15229
 translate pt_br springkali_1e08b28b:
 
     # k "I-I'm more than just tits and ass, you know... I have a brain! And I'm the daughter of THE Trenero!"
-    k ""
+    k "Eu-Eu sou mais do que peitos e bunda, sabe... eu tenho um cérebro! E eu sou filha DO Trenero!"
 
 # game/script.rpy:15230
 translate pt_br springkali_83c5f8a7:
 
     # c "Is that so? I can't wait to see what your brain can do, then."
-    c ""
+    c "Ah, sim? Mal posso esperar para ver oque seu cérebro pode fazer então."
 
 # game/script.rpy:15231
 translate pt_br springkali_6a5e587d:
 
     # k "Y-Yeah..."
-    k ""
+    k "I-Isso..."
 
 # game/script.rpy:15232
 translate pt_br springkali_22c719b5_1:
 
     # k "Okay..."
-    k ""
+    k "Ok..."
 
 # game/script.rpy:15233
 translate pt_br springkali_4ad2c740:
 
     # k "Anyway... I'm going to hide under my covers for the rest of the day, bye...!"
-    k ""
+    k "Enfim... eu vou lá me esconder embaixo dos meus cobertores pelo resto do dia, tchau...!"
 
 # game/script.rpy:15238
 translate pt_br springkali_24881117:
@@ -89964,11 +89964,11 @@ translate pt_br strings:
 
     # game/script.rpy:15211
     old "I loved them."
-    new ""
+    new "Eu gostei eles."
 
     # game/script.rpy:15211
     old "Nothing special..."
-    new ""
+    new "Nada demais..."
 
     # game/script.rpy:15523
     old "Go now."
