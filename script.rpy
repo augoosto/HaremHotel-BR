@@ -9934,187 +9934,187 @@ translate pt_br floor1menu_335c3c89_2:
 translate pt_br floor1menu_2b9a3f5a:
 
     # k "Nnnnh... \n{i}(I hope he likes it... I spent all my money on this... I'm so nervous...){/i}"
-    k ""
+    k "Nnnnh... \n{i}(Eu espero que ele goste... eu gastei todo meu dinheiro nisso... estou tão nervosa...){/i}"
 
 # game/script.rpy:7252
 translate pt_br floor1menu_922fd700:
 
     # c "Kali?"
-    c ""
+    c "Kali?"
 
 # game/script.rpy:7254
 translate pt_br floor1menu_344dd53f:
 
     # k "[name]! You're here..."
-    k ""
+    k "[name]! Você voltou..."
 
 # game/script.rpy:7255
 translate pt_br floor1menu_0bea45b8:
 
     # k "So... how do I look?"
-    k ""
+    k "Então... como eu estou?"
 
 # game/script.rpy:7259
 translate pt_br floor1menu_56cedd70:
 
     # k "I know it's a bit fancy, but... I thought you would really like it..."
-    k ""
+    k "Eu sei que é um pouco extravagante, mas... eu pensei que você fosse gostar..."
 
 # game/script.rpy:7263
 translate pt_br floor1menu_668a9937:
 
     # k "S-Shut up... I know..."
-    k ""
+    k "C-Cala boca... eu sei..."
 
 # game/script.rpy:7267
 translate pt_br floor1menu_b9ee3372:
 
     # k "Tsk..."
-    k ""
+    k "Tsk..."
 
 # game/script.rpy:7269
 translate pt_br floor1menu_dc3d2889:
 
     # k "Whatever, I don't even want to go anymore..."
-    k ""
+    k "Tanto faz, eu nem quero ir mais..."
 
 # game/script.rpy:7270
 translate pt_br floor1menu_53972221:
 
     # c "No, no... let's go. I want to go."
-    c ""
+    c "Não, não... vamos. Eu quero que você vá."
 
 # game/script.rpy:7271
 translate pt_br floor1menu_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7272
 translate pt_br floor1menu_1c8122ca:
 
     # c "You'll enjoy yourself, I promise."
-    c ""
+    c "Você vai gostar, eu prometo."
 
 # game/script.rpy:7273
 translate pt_br floor1menu_07bba56c:
 
     # k "Fine, whatever..."
-    k ""
+    k "Beleza, tanto faz..."
 
 # game/script.rpy:7276
 translate pt_br floor1menu_72c43092:
 
     # k "I knew this was a mistake!"
-    k ""
+    k "Eu sabia que isso era um erro!"
 
 # game/script.rpy:7279
 translate pt_br floor1menu_47cdd4d7:
 
     # k "Whatever! I don't even want to go anymore!"
-    k ""
+    k "Tanto faz, eu nem quero ir mais..."
 
 # game/script.rpy:7280
 translate pt_br floor1menu_53972221_1:
 
     # c "No, no... let's go. I want to go."
-    c ""
+    c "Não, não... vamos. Eu quero que você vá."
 
 # game/script.rpy:7281
 translate pt_br floor1menu_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7282
 translate pt_br floor1menu_1c8122ca_1:
 
     # c "You'll enjoy yourself, I promise."
-    c ""
+    c "Você vai gostar, eu prometo."
 
 # game/script.rpy:7283
 translate pt_br floor1menu_07bba56c_1:
 
     # k "Fine, whatever..."
-    k ""
+    k "Beleza, tanto faz..."
 
 # game/script.rpy:7285
 translate pt_br floor1menu_d5c73938:
 
     # k "So... are we going now, or...?"
-    k ""
+    k "Então... vamos...?"
 
 # game/script.rpy:7286
 translate pt_br floor1menu_05f6ae35:
 
     # c "Of course. This way, please..."
-    c ""
+    c "Claro. Por aqui, por favor..."
 
 # game/script.rpy:7287
 translate pt_br floor1menu_45f24ba7:
 
     # k "Heheh, what a gentleman..."
-    k ""
+    k "Heheh, que cavalheiro..."
 
 # game/script.rpy:7289
 translate pt_br floor1menu_760620a7:
 
     # "You drive Kali to the local cafe shop."
-    ""
+    "Você leva a Kali até a cafeteria."
 
 # game/script.rpy:7295
 translate pt_br floor1menu_2619b356:
 
     # k "Hey [name], what's up?"
-    k ""
+    k "Ei, [name]. E aí?"
 
 # game/script.rpy:7296
 translate pt_br floor1menu_ff32eb99:
 
     # c "Let's get some coffee."
-    c ""
+    c "Vamos ir tomar um café."
 
 # game/script.rpy:7299
 translate pt_br floor1menu_cc45556c:
 
     # k "What!?"
-    k ""
+    k "Que!?"
 
 # game/script.rpy:7302
 translate pt_br floor1menu_3e3b4582:
 
     # k "W-What made you think I would go on a date with you? And... I don't even like coffee!"
-    k ""
+    k "Porque você acha que eu iria em um encontro com você? E... eu nem mesmo gosto de café!"
 
 # game/script.rpy:7303
 translate pt_br floor1menu_cd9ce99e:
 
     # c "I never said this was a date."
-    c ""
+    c "Eu nunca falei em encontro."
 
 # game/script.rpy:7306
 translate pt_br floor1menu_a4c2e178:
 
     # k "Oh... good. I guess if it's not a date then we can go... I could just get some tea..."
-    k ""
+    k "Oh... bom. Eu acho que se não é um encontro nós podemos ir... Eu gostaria de um chá..."
 
 # game/script.rpy:7309
 translate pt_br floor1menu_33f1e6ce:
 
     # k "But I don't have anything to wear! I can't go right now!"
-    k ""
+    k "Mas eu não tenho nada para usar! Eu não posso ir agora!"
 
 # game/script.rpy:7310
 translate pt_br floor1menu_a6a56d9d:
 
     # k "Come back later, I'll be ready then, bye!"
-    k ""
+    k "Volte mais tarde, eu estarei pronta. Tchau!"
 
 # game/script.rpy:7330
 translate pt_br floor1menu_b5f50750_11:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Sem resposta"
 
 # game/script.rpy:7331
 translate pt_br floor1menu_c8a554e6:
@@ -10642,109 +10642,109 @@ translate pt_br kcreep_495341cf:
 translate pt_br kcreep_6ba2763a:
 
     # k "Oh, [name]... I was thinking of getting out for a bit... Are you interested in going to the beach with me?"
-    k ""
+    k "Oh, [name]... Eu tava pensando em dar uma saída... Quer ir na praia comigo?"
 
 # game/script.rpy:7603
 translate pt_br kcreep_3784922f_1:
 
     # k "Awesome!"
-    k ""
+    k "Legal!"
 
 # game/script.rpy:7606
 translate pt_br kcreep_e1dbe713:
 
     # k "Ummm, yeah. Let's go..."
-    k ""
+    k "Ummm, isso. Vamos..."
 
 # game/script.rpy:7613
 translate pt_br kcreep_b16e1451:
 
     # k "Oh, yeah sure, whatever. I'm pretty busy as well..."
-    k ""
+    k "Oh, claro, tanto faz. Eu estou ocupada também..."
 
 # game/script.rpy:7619
 translate pt_br kcreep_29f7e3ea:
 
     # "I should buy her a bunny suit..."
-    ""
+    "Eu tenho que comprar uma roupa de coelinha pra ela..."
 
 # game/script.rpy:7628
 translate pt_br kcreep_55838880:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí?"
 
 # game/script.rpy:7629
 translate pt_br kcreep_6c493eb8:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso pra você."
 
 # game/script.rpy:7630
 translate pt_br kcreep_9ffa6e11:
 
     # k "Oh wow, I like it! Thanks. Maybe I'll let you see me wear it some day..."
-    k ""
+    k "Oh wow, eu gostei! Obrigada. Talvez você me veja usando algum dia desses..."
 
 # game/script.rpy:7638
 translate pt_br kcreep_55838880_1:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí"
 
 # game/script.rpy:7639
 translate pt_br kcreep_6c493eb8_1:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso pra você."
 
 # game/script.rpy:7640
 translate pt_br kcreep_9ffa6e11_1:
 
     # k "Oh wow, I like it! Thanks. Maybe I'll let you see me wear it some day..."
-    k ""
+    k "Oh wow, eu gostei! Obrigada. Talvez você me veja usando algum dia desses..."
 
 # game/script.rpy:7648
 translate pt_br kcreep_55838880_2:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí"
 
 # game/script.rpy:7649
 translate pt_br kcreep_6c493eb8_2:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso pra você."
 
 # game/script.rpy:7650
 translate pt_br kcreep_9ffa6e11_2:
 
     # k "Oh wow, I like it! Thanks. Maybe I'll let you see me wear it some day..."
-    k ""
+    k "Oh wow, eu gostei! Obrigada. Talvez você me veja usando algum dia desses..."
 
 # game/script.rpy:7658
 translate pt_br kcreep_55838880_3:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí"
 
 # game/script.rpy:7659
 translate pt_br kcreep_6c493eb8_3:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso pra você."
 
 # game/script.rpy:7663
 translate pt_br kcreep_7f9645c7:
 
     # k "What? I'm not wearing that!"
-    k ""
+    k "Que? Eu não vou usar isso!"
 
 # game/script.rpy:7664
 translate pt_br kcreep_99b307da:
 
     # "Kali's sluttiness is too low..."
-    ""
+    "A safadeza da Kali está muit baixa..."
 
 # game/script.rpy:7670
 translate pt_br kcreep_55905291:
@@ -28198,331 +28198,331 @@ translate pt_br linkchoice_88322601:
 translate pt_br springkali2_f24abd81:
 
     # k "Do you like being a maid?"
-    k ""
+    k "Você gosta de ser uma empregada?"
 
 # game/script.rpy:15073
 translate pt_br springkali2_98eec159:
 
     # l "Yes, it's one of my favorite jobs!"
-    l ""
+    l "Sim, é um dos meus serviços favoritos!"
 
 # game/script.rpy:15074
 translate pt_br springkali2_a3d76efa:
 
     # l "Gardener would be nice, too... I've always loved growing beautiful things."
-    l ""
+    l "Jardinagem seria bom também... Eu sempre amei cuidar de coisas bonitas."
 
 # game/script.rpy:15075
 translate pt_br springkali2_8782bd5c:
 
     # k "Oh... you know how to garden? That's awesome."
-    k ""
+    k "Oh... você sabe fazer jardinagem? Isso é incrível."
 
 # game/script.rpy:15076
 translate pt_br springkali2_2cf9beb9:
 
     # l "I know things... Humans just don't appreciate me enough... I could never become a florist..."
-    l ""
+    l "Eu sei fazer as coisas... Humanos apenas não me apreciam o bastante... Eu não poderia me tornar uma florista..."
 
 # game/script.rpy:15077
 translate pt_br springkali2_b31284bb:
 
     # k "Oh, right... you're a slave."
-    k ""
+    k "Oh, verdade... você é uma escrava."
 
 # game/script.rpy:15078
 translate pt_br springkali2_71957cfa:
 
     # l "Heheh... it's sweet of you to think of me as a maid first..."
-    l ""
+    l "Heheh... mas foi muito bonito de você me ver como uma empregada comum primeiro..."
 
 # game/script.rpy:15079
 translate pt_br springkali2_82babd06:
 
     # k "*yawn*... yeah... no problem."
-    k ""
+    k "*bocejo*... sim... sem problema."
 
 # game/script.rpy:15080
 translate pt_br springkali2_5ae43cf8:
 
     # l "Are you getting tired? I'll leave you be..."
-    l ""
+    l "Você está ficando cansada? Eu vou lhe deixar sozinha..."
 
 # game/script.rpy:15081
 translate pt_br springkali2_5608e428:
 
     # k "Alright..."
-    k ""
+    k "Tudo bem..."
 
 # game/script.rpy:15083
 translate pt_br springkali2_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/script.rpy:15087
 translate pt_br springkali2_175a087d:
 
     # "You steal her bikini and head to the lobby where you wait..."
-    ""
+    "Você rouba o biquíni dela e espera na entrada..."
 
 # game/script.rpy:15089
 translate pt_br springkali2_4fbfbf09:
 
     # k "God damn it!" with ssshake
-    k "" with ssshake
+    k "Que droga!" with ssshake
 
 # game/script.rpy:15090
 translate pt_br springkali2_9a2e0d52:
 
     # k "Where the fuck did it go!? LIN!?"
-    k ""
+    k "Onde caralhos eu deixei!? LIN!?"
 
 # game/script.rpy:15092
 translate pt_br springkali2_a69d7982:
 
     # k "Shit! [name]!" with ssshake
-    k "" with ssshake
+    k "Merda! [name]!" with ssshake
 
 # game/script.rpy:15093
 translate pt_br springkali2_644549c0:
 
     # c "Oh, hello."
-    c ""
+    c "Oh, olá."
 
 # game/script.rpy:15095
 translate pt_br springkali2_b627e36e:
 
     # k "Where the fuck did my bikini go? Did you take it?"
-    k ""
+    k "Onde tá a porra do meu biquíni? Você pegou?"
 
 # game/script.rpy:15099
 translate pt_br springkali2_2d8f0edf:
 
     # k "Then who the fuck did...?"
-    k ""
+    k "Então quem caralhos pegou...?"
 
 # game/script.rpy:15101
 translate pt_br springkali2_784f5921:
 
     # l "You needed me Ms- Oh...!"
-    l ""
+    l "Você me chamou senhorita- Oh...!"
 
 # game/script.rpy:15102
 translate pt_br springkali2_6444b57c:
 
     # k "Did you take my bikini!?"
-    k ""
+    k "Você pegou meu biquíni!?"
 
 # game/script.rpy:15104
 translate pt_br springkali2_03cef2c2:
 
     # l "N-No ma'am... I'm currently washing your other clothes and making food. The last place I saw your bikini was..."
-    l ""
+    l "N-Não senhora... Eu estou lavando suas outras roupas e fazendo comida. A última vez que eu vi seu biquíni foi..."
 
 # game/script.rpy:15106
 translate pt_br springkali2_dfd961f1:
 
     # k "Bullshit!" with ssshake
-    k "" with ssshake
+    k "Besteira!" with ssshake
 
 # game/script.rpy:15107
 translate pt_br springkali2_ffb9c4eb:
 
     # l "Ah!"
-    l ""
+    l "Ah!"
 
 # game/script.rpy:15109
 translate pt_br springkali2_af4ad636:
 
     # k "Hah! How do you like it? Not so innocent, are you?"
-    k ""
+    k "Hah! E aí? Não é tão inocente agora, né?"
 
 # game/script.rpy:15111
 translate pt_br springkali2_5c57025e:
 
     # l "That was mean, Kali!"
-    l ""
+    l "Isso foi malvado, Kali!"
 
 # game/script.rpy:15112
 translate pt_br springkali2_ec1fc77f:
 
     # l "I have work to do, I don't have time for this..."
-    l ""
+    l "Eu preciso voltar ao trabalho, eu não tenho tempo pra isso..."
 
 # game/script.rpy:15113
 translate pt_br springkali2_c55e6d50:
 
     # k "What...?"
-    k ""
+    k "O que...?"
 
 # game/script.rpy:15115
 translate pt_br springkali2_1fcb5f23:
 
     # k "Then... who took it?"
-    k ""
+    k "Então... quem pegou?"
 
 # game/script.rpy:15116
 translate pt_br springkali2_26e23824:
 
     # c "...Oh look, I found your bikini."
-    c ""
+    c "... Oh, olha. Eu encontrei o seu biquíni."
 
 # game/script.rpy:15118
 translate pt_br springkali2_b6ea3699:
 
     # k "And where did you find it?"
-    k ""
+    k "E onde estava?"
 
 # game/script.rpy:15119
 translate pt_br springkali2_30914348:
 
     # c "...Under the piano."
-    c ""
+    c "... Embaixo do piano."
 
 # game/script.rpy:15120
 translate pt_br springkali2_37c8e258:
 
     # k "Right... the piano..."
-    k ""
+    k "Sei... embaixo do piano..."
 
 # game/script.rpy:15122
 translate pt_br springkali2_9318b0ef:
 
     # k "Look at what you made me do to Lin, she'll hate me forever! You're an asshole!"
-    k ""
+    k "Olha o que você me fez fazer com a Lin, ela vai me odiar para sempre! Você é um babaca!"
 
 # game/script.rpy:15125
 translate pt_br springkali2_120c9787:
 
     # k "Urgh... if you wanted to see my body, you could have just asked..."
-    k ""
+    k "Urgh... se você quisesse ver meu corpo, você poderia ter pedido..."
 
 # game/script.rpy:15126
 translate pt_br springkali2_21519bf4:
 
     # c "Oh, is that so?"
-    c ""
+    c "Oh, então é assim?"
 
 # game/script.rpy:15127
 translate pt_br springkali2_fc0684af:
 
     # k "N-No..."
-    k ""
+    k "N-Não..."
 
 # game/script.rpy:15128
 translate pt_br springkali2_1aa392a9:
 
     # k "Well..."
-    k ""
+    k "Bem..."
 
 # game/script.rpy:15129
 translate pt_br springkali2_940ab970:
 
     # k "I mean it's better than stealing my fucking bikini...!"
-    k ""
+    k "Quer dizer... é melhor do que roubar a porra do meu biquíni...!"
 
 # game/script.rpy:15131
 translate pt_br springkali2_2080d303:
 
     # c "So, you wax? I didn't expect that..."
-    c ""
+    c "Então você se depila? Eu não esperava isso..."
 
 # game/script.rpy:15133
 translate pt_br springkali2_668d211e:
 
     # k "Yeah, so? Feels better..."
-    k ""
+    k "Sim, que que tem? Eu me sinto melhor..."
 
 # game/script.rpy:15134
 translate pt_br springkali2_6418d5c4:
 
     # c "Interesting..."
-    c ""
+    c "Interessante..."
 
 # game/script.rpy:15136
 translate pt_br springkali2_55d74782:
 
     # c "And how does this feel? Any better?"
-    c ""
+    c "E agora? Se sente melhor?"
 
 # game/script.rpy:15137
 translate pt_br springkali2_069eb785:
 
     # k "H-Hey... what are you doing..."
-    k ""
+    k "E-Ei... o que você tá fazendo..."
 
 # game/script.rpy:15138
 translate pt_br springkali2_72ea1ca4:
 
     # c "Do you want me to stop?"
-    c ""
+    c "Você quer que eu pare?"
 
 # game/script.rpy:15140
 translate pt_br springkali2_e80f1822:
 
     # k "No..."
-    k ""
+    k "Não..."
 
 # game/script.rpy:15141
 translate pt_br springkali2_7e7848f1:
 
     # k "I mean... if you want, I don't care..."
-    k ""
+    k "Quer dizer... se você quiser, eu não me importo..."
 
 # game/script.rpy:15143
 translate pt_br springkali2_925046fc:
 
     # k "Ahh..."
-    k ""
+    k "Ahh..."
 
 # game/script.rpy:15145
 translate pt_br springkali2_3a217940:
 
     # k "Ahh! Mmmmn!"
-    k ""
+    k "Ahh! Mmmmn!"
 
 # game/script.rpy:15147
 translate pt_br springkali2_d5619b1a:
 
     # k "*gasp*...!"
-    k ""
+    k "*suspiro*...!"
 
 # game/script.rpy:15148
 translate pt_br springkali2_69b3084d:
 
     # c "What was that?"
-    c ""
+    c "O que foi isso?"
 
 # game/script.rpy:15149
 translate pt_br springkali2_f0e5494c:
 
     # k "N-Nothing!"
-    k ""
+    k "N-Nada!"
 
 # game/script.rpy:15151
 translate pt_br springkali2_c2391292:
 
     # k "Give me back my bikini, asshole!"
-    k ""
+    k "Devolve o meu biquíni, babaca!"
 
 # game/script.rpy:15153
 translate pt_br springkali2_7c2bc9fd:
 
     # k "And stop stealing my shit..."
-    k ""
+    k "E pare de roubar as minhas coisas..."
 
 # game/script.rpy:15157
 translate pt_br springkali2_be8716b3:
 
     # k "Then give it to me!"
-    k ""
+    k "Então me devolve!"
 
 # game/script.rpy:15159
 translate pt_br springkali2_4eb62c5c:
 
     # k "Asshole..."
-    k ""
+    k "Babaca..."
 
 # game/script.rpy:15163
 translate pt_br springkali2_514a1a70:
@@ -28552,7 +28552,7 @@ translate pt_br springkali_bce9550b:
 translate pt_br springkali_8803fea1:
 
     # k "H-Huh? What the hell..."
-    k "U-Uh? Mas oque..."
+    k "U-Uh? Mas o que..."
 
 # game/script.rpy:15180
 translate pt_br springkali_7b706679:
@@ -28660,7 +28660,7 @@ translate pt_br springkali_cf96774e:
 translate pt_br springkali_841769ae:
 
     # k "What? No way..."
-    k "Oque? Claro que não..."
+    k "O quê? Claro que não..."
 
 # game/script.rpy:15207
 translate pt_br springkali_543e48d8:
@@ -28678,7 +28678,7 @@ translate pt_br springkali_b82f94b2:
 translate pt_br springkali_fd241adf:
 
     # k "Hah, right... you knew what you were doing..."
-    k "Hah, beleza... você sabia oque estava fazendo..."
+    k "Hah, beleza... você sabia o que estava fazendo..."
 
 # game/script.rpy:15210
 translate pt_br springkali_99025f4d:
@@ -28756,7 +28756,7 @@ translate pt_br springkali_1e08b28b:
 translate pt_br springkali_83c5f8a7:
 
     # c "Is that so? I can't wait to see what your brain can do, then."
-    c "Ah, sim? Mal posso esperar para ver oque seu cérebro pode fazer então."
+    c "Ah, sim? Mal posso esperar para ver o que seu cérebro pode fazer então."
 
 # game/script.rpy:15231
 translate pt_br springkali_6a5e587d:
@@ -88332,7 +88332,7 @@ translate pt_br strings:
 
     # game/script.rpy:1764
     old "Sure ($5)"
-    new ""
+    new "Claro ($5)"
 
     # game/script.rpy:1764
     old "I'm not hungry"
@@ -88384,7 +88384,7 @@ translate pt_br strings:
 
     # game/script.rpy:2537
     old "Sure ($10)"
-    new ""
+    new "Claro ($10)"
 
     # game/script.rpy:2663
     old "2nd Floor"
@@ -88896,7 +88896,7 @@ translate pt_br strings:
 
     # game/script.rpy:4819
     old "Sure"
-    new ""
+    new "Claro"
 
     # game/script.rpy:4819
     old "Maybe later"
@@ -89048,7 +89048,7 @@ translate pt_br strings:
 
     # game/script.rpy:6166
     old "Sure!"
-    new ""
+    new "Claro!"
 
     # game/script.rpy:6166
     old "No thanks"
@@ -89060,7 +89060,7 @@ translate pt_br strings:
 
     # game/script.rpy:6259
     old "I don't have time right now."
-    new ""
+    new "Eu tô sem tempo agora."
 
     # game/script.rpy:6316
     old "..."
@@ -89076,7 +89076,7 @@ translate pt_br strings:
 
     # game/script.rpy:6401
     old "Do nothing"
-    new ""
+    new "Não fazer nada"
 
     # game/script.rpy:6436
     old "What's up?"
@@ -89264,7 +89264,7 @@ translate pt_br strings:
 
     # game/script.rpy:7599
     old "I don't have time right now"
-    new ""
+    new "Eu tô sem tempo agora"
 
     # game/script.rpy:7815
     old "I should check on her"
@@ -89328,7 +89328,7 @@ translate pt_br strings:
 
     # game/script.rpy:8085
     old "Sure ($20)"
-    new ""
+    new "Claro ($20)"
 
     # game/script.rpy:8225
     old "Of course"
@@ -89952,7 +89952,7 @@ translate pt_br strings:
 
     # game/script.rpy:15084
     old "Steal her bikini"
-    new ""
+    new "Roubar o biquíni dela"
 
     # game/script.rpy:15096
     old "Definitely not."
@@ -90020,11 +90020,11 @@ translate pt_br strings:
 
     # game/script.rpy:16171
     old "I'll let you keep that 25 percent if you show me your tits."
-    new ""
+    new "Eu vou deixar você ficar com os 25 por cento, se você me mostrar seus peitos."
 
     # game/script.rpy:16171
     old "Thanks"
-    new ""
+    new "Obrigado"
 
     # game/script.rpy:16213
     old "It's kind of hard to tell from this angle"
