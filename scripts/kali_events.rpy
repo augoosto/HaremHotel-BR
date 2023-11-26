@@ -598,181 +598,181 @@ translate pt_br kali_suburb_ae01df2f:
 translate pt_br kali_suburb_12ac833b:
 
     # c "If I knew you were hungry I would have taken us somewhere to eat."
-    c ""
+    c "Se eu soubesse que você estava com fome eu teria levado agente pra algum lugar."
 
 # game/scripts/kali_events.rpy:144
 translate pt_br kali_suburb_f7c77ea6:
 
     # k "Don't worry about it, I wasn't hungry until I got here. Pretty good luck though."
-    k ""
+    k "Não se preocupa com isso, eu não estava com fome até chegar aqui. Mas que sorte."
 
 # game/scripts/kali_events.rpy:146
 translate pt_br kali_suburb_0a69afc2:
 
     # k "What kind of area did you live in before you moved here?"
-    k ""
+    k "Onde você morava antes se mudar pra cá?"
 
 # game/scripts/kali_events.rpy:149
 translate pt_br kali_suburb_152cb6a4:
 
     # k "Nice, that's what I was going to guess. Did you enjoy it?"
-    k ""
+    k "Legal, eu já imaginava. Era bacana lá?"
 
 # game/scripts/kali_events.rpy:150
 translate pt_br kali_suburb_e51b49d4:
 
     # c "It had its ups and downs."
-    c ""
+    c "Tinha seus altos e baixos."
 
 # game/scripts/kali_events.rpy:151
 translate pt_br kali_suburb_96c9b675:
 
     # k "Yeah, I know what you mean... I usually just ordered delivery every day so I didn't have to deal with people though."
-    k ""
+    k "É, eu entendo... normalmente eu só pedia delivery o dia todo, só pra não ter que falar com ninguém."
 
 # game/scripts/kali_events.rpy:152
 translate pt_br kali_suburb_ad55323a:
 
     # k "Was that too honest? Am I too honest?"
-    k ""
+    k "Eu acho que eu falei demais. Eu falei demais?"
 
 # game/scripts/kali_events.rpy:153
 translate pt_br kali_suburb_d7e2612f:
 
     # c "Nah, it's good."
-    c ""
+    c "Nah, tudo bem."
 
 # game/scripts/kali_events.rpy:155
 translate pt_br kali_suburb_c1c4d9c5:
 
     # k "Really, a place like this?"
-    k ""
+    k "Sério, era um lugar como esse que agente tá?"
 
 # game/scripts/kali_events.rpy:156
 translate pt_br kali_suburb_c759a3ee:
 
     # c "Yeah, not too different."
-    c ""
+    c "É, não era tão diferente."
 
 # game/scripts/kali_events.rpy:157
 translate pt_br kali_suburb_2b23f5e8:
 
     # k "Do you like it better at the hotel? It's pretty secluded."
-    k ""
+    k "Você prefere viver no hotel? É bem isolado."
 
 # game/scripts/kali_events.rpy:158
 translate pt_br kali_suburb_4ff4fc3a:
 
     # c "Yeah, I do. But mostly for the people."
-    c ""
+    c "É, eu gosto. Mais pelas pessoas do hotel."
 
 # game/scripts/kali_events.rpy:159
 translate pt_br kali_suburb_4cafea3a:
 
     # k "Oh, heh... cool."
-    k ""
+    k "Oh, heh... legal."
 
 # game/scripts/kali_events.rpy:162
 translate pt_br kali_suburb_49a5f876:
 
     # k "Pfft, no way..."
-    k ""
+    k "Pfft, nem ferrando..."
 
 # game/scripts/kali_events.rpy:163
 translate pt_br kali_suburb_712e7dac:
 
     # c "Seriously."
-    c ""
+    c "É sério."
 
 # game/scripts/kali_events.rpy:164
 translate pt_br kali_suburb_10cb7c56:
 
     # k "Really? I never would guessed. You don't look the type."
-    k ""
+    k "Sério? Eu nunca imaginaria isso. Você não parece do tipo."
 
 # game/scripts/kali_events.rpy:166
 translate pt_br kali_suburb_59a52019:
 
     # k "How come you never moved out?"
-    k ""
+    k "Por que você nunca se mudou?"
 
 # game/scripts/kali_events.rpy:167
 translate pt_br kali_suburb_e8058205:
 
     # c "I never had the money."
-    c ""
+    c "Eu não tinha dinheiro."
 
 # game/scripts/kali_events.rpy:168
 translate pt_br kali_suburb_9da78f88:
 
     # k "You couldn't get a job?"
-    k ""
+    k "Você não conseguia um emprego?"
 
 # game/scripts/kali_events.rpy:169
 translate pt_br kali_suburb_bb25e792:
 
     # c "They're not that easy to find all the time."
-    c ""
+    c "Não é tão fácil de achar um."
 
 # game/scripts/kali_events.rpy:170
 translate pt_br kali_suburb_6a17111f:
 
     # k "Oh... I guess you got pretty lucky with the hotel then."
-    k ""
+    k "Oh... eu acho que você deu bastante sorte com o hotel então."
 
 # game/scripts/kali_events.rpy:171
 translate pt_br kali_suburb_014d0311:
 
     # c "Very."
-    c ""
+    c "Bastante."
 
 # game/scripts/kali_events.rpy:173
 translate pt_br kali_suburb_81351ff9:
 
     # k "It's been a long time since I've had a nice walk with someone. Everyone is always so busy. It's nice that we can have this."
-    k ""
+    k "Faz tempo que eu não dei uma caminhada com alguém. Todo mundo tá sempre ocupado. É bom que agente conseguiu ter esse tempo."
 
 # game/scripts/kali_events.rpy:174
 translate pt_br kali_suburb_b8ab6104:
 
     # c "I'm glad you're having fun."
-    c ""
+    c "Que bom que está se divertindo."
 
 # game/scripts/kali_events.rpy:175
 translate pt_br kali_suburb_7a517a68:
 
     # k "It definitely wasn't what I was expecting when I was forced to move out here. I'm actually a bit grateful, or whatever..."
-    k ""
+    k "Definitivamente não era o que eu estava esperando no início, mas eu sou grata, ou sei lá..."
 
 # game/scripts/kali_events.rpy:176
 translate pt_br kali_suburb_538fe173:
 
     # c "That's good to hear. The hotel wouldn't be the same without you."
-    c ""
+    c "Bom saber. O hotel não serio o mesmo sem você."
 
 # game/scripts/kali_events.rpy:177
 translate pt_br kali_suburb_58ee6fc4:
 
     # k "Oh shut up... you're just saying that."
-    k ""
+    k "Oh, cala boca... você tá falando por falar."
 
 # game/scripts/kali_events.rpy:178
 translate pt_br kali_suburb_8866f225:
 
     # c "I meant it, too."
-    c ""
+    c "Não, é verdade."
 
 # game/scripts/kali_events.rpy:179
 translate pt_br kali_suburb_cdc68833:
 
     # k "Heh, whatever..."
-    k ""
+    k "Heh, beleza..."
 
 # game/scripts/kali_events.rpy:181
 translate pt_br kali_suburb_9103a27a:
 
     # "You and Kali continue to talk and learn about each other as you circle the block. Contrast to the other times you've talked to her, she finally seems genuinely happy to be doing something."
-    ""
+    "Você e Kali continuam a conversar, ambos se conhecendo enquanto caminham ao redor da quadra. Comparado com as outras vezes que você conversou com ela. Ela parece genuinamente feliz em fazer algo com você."
 
 # game/scripts/kali_events.rpy:193
 translate pt_br kali_nepotism_48873c33:
@@ -45320,7 +45320,7 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:95
     old "Hopefully they ordered extra."
-    new "Espero que eles tenham pedido mais."
+    new "Espero que eles tenham pedido um extra."
 
     # game/scripts/kali_events.rpy:95
     old "You can't rob people."
