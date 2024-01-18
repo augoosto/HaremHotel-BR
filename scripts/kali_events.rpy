@@ -778,67 +778,67 @@ translate pt_br kali_suburb_9103a27a:
 translate pt_br kali_nepotism_48873c33:
 
     # van "Come on, you have to! I'm not taking no for an answer! It won't be a party without you."
-    van ""
+    van "Qual é, você precisa ir! Eu não aceito 'não' como resposta! Não vai ser uma festa sem você."
 
 # game/scripts/kali_events.rpy:194
 translate pt_br kali_nepotism_e371d477:
 
     # nala "Kim and Ami are going to be there too! You can't be the only one missing!"
-    nala ""
+    nala "Kim e Ami vão ir também! Você não pode ser a única a faltar!"
 
 # game/scripts/kali_events.rpy:195
 translate pt_br kali_nepotism_2c50978d:
 
     # k "I don't know... it's not really my thing."
-    k ""
+    k "Eu não sei... não é o meu tipo de coisa."
 
 # game/scripts/kali_events.rpy:196
 translate pt_br kali_nepotism_904361ca:
 
     # van "I know, but this is a special day isn't it? We're all going to get our acceptance letters to Nero Inc!"
-    van ""
+    van "Eu sei, mas hoje é um dia especial não é? Todos nós vamos pegar as nossas cartas de aceitação da Nero Inc!"
 
 # game/scripts/kali_events.rpy:197
 translate pt_br kali_nepotism_ea92e776:
 
     # nala "Hopefully all of us..."
-    nala ""
+    nala "Tomará que todas nós..."
 
 # game/scripts/kali_events.rpy:198
 translate pt_br kali_nepotism_c084034f:
 
     # van "We have to be together for the big moment! We can chill in the water away from all the people. Most of them suck so I get why you wouldn't want to be around anyone."
-    van ""
+    van "Nós temos que estar juntas para o grande momento! Agente pode relaxar na água, longe de todo mundo. A maioria deles são uns babacas então eu não iria querer estar perto deles."
 
 # game/scripts/kali_events.rpy:199
 translate pt_br kali_nepotism_707b819a:
 
     # k "Well... I guess that doesn't sound too bad."
-    k ""
+    k "Bem... não me parece tão ruim."
 
 # game/scripts/kali_events.rpy:200
 translate pt_br kali_nepotism_43a7460c:
 
     # van "Yeah! There's more people at school than at the beach anyway, so it's nothing you haven't done before."
-    van ""
+    van "Isso! Tem mais pessoas na escola do que na praia de qualquer forma. Então não é nada que você já não tenha feito."
 
 # game/scripts/kali_events.rpy:201
 translate pt_br kali_nepotism_7bfcb8fa:
 
     # k "You're right, but... I don't know, it's just the thought of it that can be scary."
-    k ""
+    k "Você tá certa, mas... eu não sei. Esse tipo de coisa me assusta."
 
 # game/scripts/kali_events.rpy:202
 translate pt_br kali_nepotism_243ef697:
 
     # k "Um... you don't mind if I bring [name], do you?"
-    k ""
+    k "Um... você não se importa se eu trazer o [name], se importa?"
 
 # game/scripts/kali_events.rpy:203
 translate pt_br kali_nepotism_9f8c66c9:
 
     # nala "This is kind of supposed to be a Syltech thing... but I guess it's fine."
-    nala ""
+    nala "Isso era pra ser uma coisa do pessoal da Syltech... mas eu acho que não tem problema."
 
 # game/scripts/kali_events.rpy:204
 translate pt_br kali_nepotism_185ef181:
