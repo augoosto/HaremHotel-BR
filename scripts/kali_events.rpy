@@ -39400,331 +39400,331 @@ translate pt_br kalicafelewd_c0de3af6_4:
 translate pt_br kalipun_3b963de6:
 
     # k "You burnt my popcorn!? How do you burn popcorn!?"
-    k ""
+    k "Você queimou minha pipoca!? Como você consegue queimar pipoca!?"
 
 # game/scripts/kali_events.rpy:11638
 translate pt_br kalipun_403e1624:
 
     # l "I'm sorry..."
-    l ""
+    l "Desculpe..."
 
 # game/scripts/kali_events.rpy:11640
 translate pt_br kalipun_96fdbed7:
 
     # k "[name], what are you going to do about your maid? She can't even cook me popcorn..."
-    k ""
+    k "[name], oque você vai fazer a respeito da sua empregada? Ela não consegue nem me cozinhar pipoca..."
 
 # game/scripts/kali_events.rpy:11641
 translate pt_br kalipun_94b78b43:
 
     # l "It said to keep it in for a minute, but they weren't all popped so I put them back in."
-    l ""
+    l "Dizia no pacote para deixar por um minuto, mas elas não tinham estourados todas então eu coloquei de volta."
 
 # game/scripts/kali_events.rpy:11643
 translate pt_br kalipun_239de322:
 
     # k "You're not supposed to cook it twice!"
-    k ""
+    k "Não é para você cozinhar duas vezes!"
 
 # game/scripts/kali_events.rpy:11644
 translate pt_br kalipun_2122127f:
 
     # l "I didn't know that..."
-    l ""
+    l "Eu não sabia disso..."
 
 # game/scripts/kali_events.rpy:11645
 translate pt_br kalipun_59d85935:
 
     # k "It says that on the package!"
-    k ""
+    k "Tá escrito no pacote!"
 
 # game/scripts/kali_events.rpy:11647
 translate pt_br kalipun_0fb2632b:
 
     # k "[name] you need to punish your maid. Otherwise she's going to be useless forever..."
-    k ""
+    k "[name], você precisa punir sua empregada. Caso contrário ela vai ser inútil pra sempre..."
 
 # game/scripts/kali_events.rpy:11648
 translate pt_br kalipun_7fa9537c:
 
     # l "I'm learning..."
-    l ""
+    l "Eu tô aprendendo..."
 
 # game/scripts/kali_events.rpy:11649
 translate pt_br kalipun_bd9b86c3:
 
     # c "Alright, sit on her face Kali."
-    c ""
+    c "Certo, senta no rosto dela, Kali."
 
 # game/scripts/kali_events.rpy:11651
 translate pt_br kalipun_144af301:
 
     # k "W-What!?"
-    k ""
+    k "Q-Que!?"
 
 # game/scripts/kali_events.rpy:11652
 translate pt_br kalipun_33bb9a65:
 
     # c "You heard me."
-    c ""
+    c "Você me ouviu."
 
 # game/scripts/kali_events.rpy:11653
 translate pt_br kalipun_d1d0a08e:
 
     # k "But, she's a girl!"
-    k ""
+    k "Mas ela é uma garota!"
 
 # game/scripts/kali_events.rpy:11654
 translate pt_br kalipun_49d3f91d:
 
     # c "And?"
-    c ""
+    c "E?"
 
 # game/scripts/kali_events.rpy:11655
 translate pt_br kalipun_74c3081d:
 
     # k "And I'm a girl!"
-    k ""
+    k "E eu sou uma garota!"
 
 # game/scripts/kali_events.rpy:11656
 translate pt_br kalipun_84930695:
 
     # c "What's your point?"
-    c ""
+    c "O que você tá querendo dizer?"
 
 # game/scripts/kali_events.rpy:11657
 translate pt_br kalipun_805e6b8f:
 
     # k "I'm not a lesbian! I don't like girls!"
-    k ""
+    k "Eu não sou lésbica! Eu não gosto de garotas!"
 
 # game/scripts/kali_events.rpy:11658
 translate pt_br kalipun_d720c30d:
 
     # c "But it would feel good, and be a punishment for Lin."
-    c ""
+    c "Mas seria bom, e seria uma punição pra Lin."
 
 # game/scripts/kali_events.rpy:11659
 translate pt_br kalipun_c4d95812:
 
     # k "And what are you going to do? Just sit there and enjoy it!?"
-    k ""
+    k "E o que você vai fazer? Só sentar aí e assistir!?"
 
 # game/scripts/kali_events.rpy:11660
 translate pt_br kalipun_351987c2:
 
     # c "That's right. It'd be hot."
-    c ""
+    c "Sim. Seria excitante."
 
 # game/scripts/kali_events.rpy:11662
 translate pt_br kalipun_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:11663
 translate pt_br kalipun_985d1feb:
 
     # k "Fine, I guess if you think it'll be hot..."
-    k ""
+    k "Certo, se você diz que seria excitante..."
 
 # game/scripts/kali_events.rpy:11664
 translate pt_br kalipun_f7125fde:
 
     # k "Get on the bed Lin."
-    k ""
+    k "Deita na cama, Lin."
 
 # game/scripts/kali_events.rpy:11665
 translate pt_br kalipun_ec81e190:
 
     # l "But I've never... licked a girl before..."
-    l ""
+    l "Mas eu nunca... lambi uma garota antes..."
 
 # game/scripts/kali_events.rpy:11666
 translate pt_br kalipun_9dec5a53:
 
     # c "You'll learn quick. Just do what Kali says."
-    c ""
+    c "Você aprende rápido, só faz oque a Kali dizer."
 
 # game/scripts/kali_events.rpy:11667
 translate pt_br kalipun_92e6d2c0:
 
     # l "Nnnn... yes [linoname]."
-    l ""
+    l "Nnnn... sim, [linoname]."
 
 # game/scripts/kali_events.rpy:11669
 translate pt_br kalipun_7fde3b59:
 
     # k "Um... I guess lay down on your back..."
-    k ""
+    k "Um.. deite-se..."
 
 # game/scripts/kali_events.rpy:11670
 translate pt_br kalipun_9df8281d:
 
     # l "Yes, ma'am."
-    l ""
+    l "Sim, senhora."
 
 # game/scripts/kali_events.rpy:11671
 translate pt_br kalipun_59f58b53:
 
     # c "Kali, you're going to need to completely undress."
-    c ""
+    c "Kali, você vai ter que se despir toda."
 
 # game/scripts/kali_events.rpy:11673
 translate pt_br kalipun_12a9903f:
 
     # k "I don't want her to see me naked!"
-    k ""
+    k "Eu não quero que ela me veja pelada!"
 
 # game/scripts/kali_events.rpy:11674
 translate pt_br kalipun_b4a067ff:
 
     # l "It's okay Kali, I won't look if you don't want me to."
-    l ""
+    l "Tudo bem, Kali, eu não vou olhar se você não quiser."
 
 # game/scripts/kali_events.rpy:11676
 translate pt_br kalipun_4e0ed08f:
 
     # k "Urgh, alright. Let's do this."
-    k ""
+    k "Urgh, certo. Vamo lá."
 
 # game/scripts/kali_events.rpy:11678
 translate pt_br kalipun_b8e264ce:
 
     # l "Mmph! Kali... your hands are on my breasts..."
-    l ""
+    l "Mmph! Kali... suas mãos estão nos meus peitos..."
 
 # game/scripts/kali_events.rpy:11679
 translate pt_br kalipun_31f52c21:
 
     # k "Well where else am I supposed to put them? Just start licking already!"
-    k ""
+    k "Bem, onde mais eu deveria coloca-las? Só começa a lamber de uma vez!"
 
 # game/scripts/kali_events.rpy:11682
 translate pt_br kalipun_dea468c5:
 
     # k "Mmmm..."
-    k ""
+    k "Mmmm..."
 
 # game/scripts/kali_events.rpy:11683
 translate pt_br kalipun_24f71aa0:
 
     # l "Mmph, am I doing it right Kali?"
-    l ""
+    l "Mmph, tô fazendo isso certo, Kali?"
 
 # game/scripts/kali_events.rpy:11684
 translate pt_br kalipun_127dbb92:
 
     # k "Shut up and lick!"
-    k ""
+    k "Cala a boca e lambe!"
 
 # game/scripts/kali_events.rpy:11689
 translate pt_br kalipun_e089b6f0:
 
     # l "Ah! My nipples!" with ssshake
-    l "" with ssshake
+    l "Ah! Meus mamilos!" with ssshake
 
 # game/scripts/kali_events.rpy:11690
 translate pt_br kalipun_9d8750a3:
 
     # k "You better make me cum from this!"
-    k ""
+    k "É melhor que você me faça gozar!"
 
 # game/scripts/kali_events.rpy:11691
 translate pt_br kalipun_df7102f6:
 
     # l "Ahh! Nnnggg! Mmmph!"
-    l ""
+    l "Ahh! Nnnggg! Mmmph!"
 
 # game/scripts/kali_events.rpy:11692
 translate pt_br kalipun_bcf9483b:
 
     # l "It hurts!"
-    l ""
+    l "Isso machuca!"
 
 # game/scripts/kali_events.rpy:11693
 translate pt_br kalipun_1a20dc94:
 
     # k "Good! Learn your lesson and stop burning my food!"
-    k ""
+    k "Muito bem! Aprenda sua lição e pare de queimar minha comida!"
 
 # game/scripts/kali_events.rpy:11694
 translate pt_br kalipun_0674476f:
 
     # l "Ahh! Nng!"
-    l ""
+    l "Ahh! Nng!"
 
 # game/scripts/kali_events.rpy:11699
 translate pt_br kalipun_dfba6f10:
 
     # k "Fuck, you're doing pretty good Lin..."
-    k ""
+    k "Porra, você é muito boa, Lin.."
 
 # game/scripts/kali_events.rpy:11700
 translate pt_br kalipun_939aa428:
 
     # l "Mmmphhh... Nnnph... Ahhnn!"
-    l ""
+    l "Mmmphhh... Nnnph... Ahhnn!"
 
 # game/scripts/kali_events.rpy:11701
 translate pt_br kalipun_9041214d:
 
     # k "Urghhh... Did you learn your lesson yet you little slut?"
-    k ""
+    k "Urghhh... Já aprendeu sua lição, sua putinha?"
 
 # game/scripts/kali_events.rpy:11702
 translate pt_br kalipun_938f493c:
 
     # l "Mmmmmph! Mmmph!"
-    l ""
+    l "Mmmmmph! Mmmph!"
 
 # game/scripts/kali_events.rpy:11706
 translate pt_br kalipun_ea150544:
 
     # k "Ahh... well I think I'm done. It's not like you were going to make me cum anyway..."
-    k ""
+    k "Ahh... bem, acho que acabei. Não é como se você fosse conseguir me fazer gozar..."
 
 # game/scripts/kali_events.rpy:11707
 translate pt_br kalipun_2db88aec:
 
     # k "But it wasn't bad... I guess..."
-    k ""
+    k "Mas não foi ruim... Eu acho..."
 
 # game/scripts/kali_events.rpy:11708
 translate pt_br kalipun_f2629588:
 
     # l "Hmmph... that was gross..."
-    l ""
+    l "Hmmph... isso foi nojento..."
 
 # game/scripts/kali_events.rpy:11709
 translate pt_br kalipun_0dc3e142:
 
     # k "So Lin, are you going to stop burning everything I eat?"
-    k ""
+    k "Então Lin, você vai parar de queimar tudo que eu comer?"
 
 # game/scripts/kali_events.rpy:11710
 translate pt_br kalipun_e5c5602a:
 
     # l "...Yes ma'am..."
-    l ""
+    l "... Sim, senhora..."
 
 # game/scripts/kali_events.rpy:11711
 translate pt_br kalipun_85ceb222:
 
     # k "Good."
-    k ""
+    k "Muito bem..."
 
 # game/scripts/kali_events.rpy:11713
 translate pt_br kalipun_5d79d463:
 
     # k "Thanks for the idea [name]. Maybe we should punish her some more..."
-    k ""
+    k "Obrigada pela idéia, [name]. Talvez agente possa punir ela de novo..."
 
 # game/scripts/kali_events.rpy:11714
 translate pt_br kalipun_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/scripts/kali_events.rpy:11726
 translate pt_br kalibdsm_505b92c5:
