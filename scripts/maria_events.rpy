@@ -10,7 +10,7 @@ translate pt_br mar_gamble_405586bd:
 translate pt_br mar_gamble_1ce0ee2a:
 
     # m "So how do I look?"
-    m ""
+    m "Então, como estou?"
 
 # game/scripts/maria_events.rpy:12
 translate pt_br mar_gamble_c2f0547c:
