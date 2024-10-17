@@ -16,7 +16,7 @@ translate pt_br kali_suburb_331c187a:
 translate pt_br kali_suburb_5105a0ab:
 
     # k "I'm just bored... I've been inside all day and I can't stand being on the computer right now. Fuck, I just wish I were back home..."
-    k "Eu tô só entediada... Eu tô aqui dentro o dia inteiro, e eu não quero ficar no computador agora. Porra, eu queria estar em casa..."
+    k "Eu só tô... Tô aqui dentro o dia inteiro, e eu não aguento mais ficar no computador. Porra, eu queria estar em casa..."
 
 # game/scripts/kali_events.rpy:13
 translate pt_br kali_suburb_45d86566:
@@ -34156,79 +34156,79 @@ translate pt_br luciajoin_357af3a4:
 translate pt_br kalispringtext_dbc0669e:
 
     # c "There she is."
-    c ""
+    c "Lá está ela."
 
 # game/scripts/kali_events.rpy:9919
 translate pt_br kalispringtext_dd8d6713:
 
     # k "Oh, hey [name], get my text?"
-    k ""
+    k "Oh, oi, [name]. Você viu a minha mensagem?"
 
 # game/scripts/kali_events.rpy:9920
 translate pt_br kalispringtext_a2841f6f:
 
     # c "I did, what's up?"
-    c ""
+    c "Sim, eu vi. O que foi?"
 
 # game/scripts/kali_events.rpy:9921
 translate pt_br kalispringtext_35e652f4:
 
     # k "Come on, take a seat."
-    k ""
+    k "Vem aqui, se senta."
 
 # game/scripts/kali_events.rpy:9923
 translate pt_br kalispringtext_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "E aí?"
 
 # game/scripts/kali_events.rpy:9924
 translate pt_br kalispringtext_50be8954:
 
     # k "I don't know..."
-    k ""
+    k "Eu não sei..."
 
 # game/scripts/kali_events.rpy:9926
 translate pt_br kalispringtext_7bb9e4ae:
 
     # k "Just wanted to chill I guess..."
-    k ""
+    k "Só queria relaxar eu acho..."
 
 # game/scripts/kali_events.rpy:9927
 translate pt_br kalispringtext_721fff29:
 
     # k "......"
-    k ""
+    k "......"
 
 # game/scripts/kali_events.rpy:9928
 translate pt_br kalispringtext_073d21fc:
 
     # k "Everything good with you?"
-    k ""
+    k "Tá tudo certo contigo?"
 
 # game/scripts/kali_events.rpy:9931
 translate pt_br kalispringtext_eda51bce:
 
     # k "That's good..."
-    k ""
+    k "Que bom..."
 
 # game/scripts/kali_events.rpy:9932
 translate pt_br kalispringtext_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/scripts/kali_events.rpy:9933
 translate pt_br kalispringtext_57b63c82:
 
     # k "Well, I've been doing pretty good... Great actually."
-    k ""
+    k "Bem, comigo tá tudo certo... Tudo ótimo na verdade."
 
 # game/scripts/kali_events.rpy:9935
 translate pt_br kalispringtext_7a519b02:
 
     # k "I've been doing pretty good... Great actually."
-    k ""
+    k "Comigo tá tudo certo... Tudo ótimo na verdade"
 
 # game/scripts/kali_events.rpy:9937
 translate pt_br kalispringtext_236f7ba1:
@@ -37192,7 +37192,7 @@ translate pt_br kalisdad_4e34f1a1:
 translate pt_br kalisdad_971447a6:
 
     # c "What did you tell him about us?"
-    c "Sobre o que você contou pra ele sobre agente?"
+    c "Sobre o que você contou pra ele sobre nós?"
 
 # game/scripts/kali_events.rpy:10838
 translate pt_br kalisdad_04035daa:
