@@ -34234,133 +34234,133 @@ translate pt_br kalispringtext_7a519b02:
 translate pt_br kalispringtext_236f7ba1:
 
     # k "I don't know, I guess the future is looking good for me for the first time in a very long time."
-    k ""
+    k "Eu não sei, eu acho que as coisas estão finalmente começando a andar pra mim."
 
 # game/scripts/kali_events.rpy:9938
 translate pt_br kalispringtext_2be33449:
 
     # k "For so long I've been resentful of my father... I mean, I barely know him even now..."
-    k ""
+    k "Por tanto tempo eu estive ressentida com o meu pai... Bem, eu mal o conhecia..."
 
 # game/scripts/kali_events.rpy:9939
 translate pt_br kalispringtext_970f6874:
 
     # k "But suddenly... That doesn't really matter anymore..."
-    k ""
+    k "Mas de repente... Nada mais disso importa..."
 
 # game/scripts/kali_events.rpy:9940
 translate pt_br kalispringtext_ad1682a5:
 
     # k "Like... who cares where I work or what I look like in the morning..."
-    k ""
+    k "Tipo... quem se importa com onde eu trabalho ou como eu sou de manhã..."
 
 # game/scripts/kali_events.rpy:9941
 translate pt_br kalispringtext_b4921171:
 
     # k "Maybe it sounds weird, but... I don't know, I feel like... I just want to live."
-    k ""
+    k "Talvez pareça meio estranho, mas... Eu não sei, eu sinto que... Que eu só quero viver."
 
 # game/scripts/kali_events.rpy:9942
 translate pt_br kalispringtext_dcb96328:
 
     # k "Not that I've ever not wanted to... but... I don't know. Do you know what I mean?"
-    k ""
+    k "Não que eu não quisesse antes... mas... Eu não sei. Entendeu o que eu quis dizer?"
 
 # game/scripts/kali_events.rpy:9945
 translate pt_br kalispringtext_3d6ac8a1:
 
     # k "It's kind of hard to explain I guess."
-    k ""
+    k "É meio difícil de explicar."
 
 # game/scripts/kali_events.rpy:9947
 translate pt_br kalispringtext_3843245b:
 
     # k "...You do?"
-    k ""
+    k "... Entende?"
 
 # game/scripts/kali_events.rpy:9948
 translate pt_br kalispringtext_6d5d198f:
 
     # k "...I just want to see tomorrow. It doesn't really matter what happens, I just... want to see it."
-    k ""
+    k "... Eu só quero ver o amanhã. Independente de como ele for, eu só... quero ve-lô."
 
 # game/scripts/kali_events.rpy:9950
 translate pt_br kalispringtext_b6af6410:
 
     # k "I guess everything feels like it's happening the way it's meant to... You know?"
-    k ""
+    k "Tudo está andando nos trilhos... Sabe?"
 
 # game/scripts/kali_events.rpy:9951
 translate pt_br kalispringtext_9e197646:
 
     # k "I feel free..."
-    k ""
+    k "Eu me sinto livre..."
 
 # game/scripts/kali_events.rpy:9952
 translate pt_br kalispringtext_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:9953
 translate pt_br kalispringtext_721fff29_1:
 
     # k "......"
-    k ""
+    k "......"
 
 # game/scripts/kali_events.rpy:9954
 translate pt_br kalispringtext_98debc3f:
 
     # k "........."
-    k ""
+    k "........."
 
 # game/scripts/kali_events.rpy:9956
 translate pt_br kalispringtext_b5c7fe77:
 
     # k "Do you ever want to get married?"
-    k ""
+    k "Já pensou em se casar?"
 
 # game/scripts/kali_events.rpy:9957
 translate pt_br kalispringtext_61f9e4c8:
 
     # c "To you?"
-    c ""
+    c "Com você?"
 
 # game/scripts/kali_events.rpy:9958
 translate pt_br kalispringtext_e5683396:
 
     # k "To anyone."
-    k ""
+    k "Com qualquer um."
 
 # game/scripts/kali_events.rpy:9962
 translate pt_br kalispringtext_2b6f5f20:
 
     # k "Me too."
-    k ""
+    k "Eu também."
 
 # game/scripts/kali_events.rpy:9965
 translate pt_br kalispringtext_2e9bd230:
 
     # k "Oh..."
-    k ""
+    k "Oh..."
 
 # game/scripts/kali_events.rpy:9967
 translate pt_br kalispringtext_84fcc5c7:
 
     # k "You... Want to get married to me?"
-    k ""
+    k "Você... Quer se casar comigo?"
 
 # game/scripts/kali_events.rpy:9970
 translate pt_br kalispringtext_3d0a5305:
 
     # k "That's forever you know... There's no backing out of that."
-    k ""
+    k "Isso é pra sempre, sabe... Não dá pra voltar a trás."
 
 # game/scripts/kali_events.rpy:9971
 translate pt_br kalispringtext_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:9972
 translate pt_br kalispringtext_b0c26eec:
